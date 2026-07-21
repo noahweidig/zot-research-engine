@@ -236,7 +236,7 @@ def _rank_one(
                     exc,
                 )
                 return _heuristic_ranked(paper, similarity)
-            logger.error("Failed to rank paper %r: %s", paper.title, exc)
+            logger.exception("Failed to rank paper %r", paper.title)
             return None
 
     logger.info("Scored %d: %s", ranking.score, paper.title)
