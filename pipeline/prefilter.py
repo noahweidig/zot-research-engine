@@ -85,6 +85,59 @@ def _build_query_terms(config: PipelineConfig) -> list[str]:
     return _tokenize(" ".join(parts))
 
 
+def _compute_idf(docs: list[list[str]], query_terms: set[str]) -> dict[str, float]:
+    """Compute BM25 inverse document frequency for each query term.
+
+    Args:
+        docs: Tokenized documents.
+        query_terms: The unique query terms.
+
+    Returns:
+        A mapping of query term to its (always-positive) BM25 idf weight.
+    """
+    doc_freq: Counter[str] = Counter()
+    for doc in docs:
+        for term in query_terms.intersection(doc):
+            doc_freq[term] += 1
+
+    n_docs = len(docs)
+    idf: dict[str, float] = {}
+    for term in query_terms:
+        df = doc_freq.get(term, 0)
+        # BM25 idf with +1 smoothing so it is always positive.
+        idf[term] = math.log(1 + (n_docs - df + 0.5) / (df + 0.5))
+    return idf
+
+
+def _bm25_score(
+    doc: list[str],
+    length: int,
+    query_terms: set[str],
+    idf: dict[str, float],
+    avg_len: float,
+) -> float:
+    """Score a single document against the query terms with BM25.
+
+    Args:
+        doc: The tokenized document.
+        length: The document length in tokens.
+        query_terms: The unique query terms.
+        idf: Precomputed idf weights per query term.
+        avg_len: Mean document length across the batch.
+
+    Returns:
+        The raw (un-normalized) BM25 score for the document.
+    """
+    counts = Counter(doc)
+    norm = _BM25_K1 * (1 - _BM25_B + _BM25_B * (length / avg_len if avg_len else 0))
+    score = 0.0
+    for term in query_terms:
+        tf = counts.get(term, 0)
+        if tf:
+            score += idf[term] * (tf * (_BM25_K1 + 1)) / (tf + norm)
+    return score
+
+
 def score_relevance(papers: list[Paper], config: PipelineConfig) -> dict[int, float]:
     """Compute a normalized BM25 relevance score for each paper.
 
@@ -108,32 +161,13 @@ def score_relevance(papers: list[Paper], config: PipelineConfig) -> dict[int, fl
     doc_lengths = [len(d) for d in docs]
     avg_len = sum(doc_lengths) / len(docs) if docs else 0.0
 
-    # Document frequency for each query term.
-    doc_freq: Counter[str] = Counter()
     unique_query_terms = set(query_terms)
-    for doc in docs:
-        present = unique_query_terms.intersection(doc)
-        for term in present:
-            doc_freq[term] += 1
+    idf = _compute_idf(docs, unique_query_terms)
 
-    n_docs = len(docs)
-    idf: dict[str, float] = {}
-    for term in unique_query_terms:
-        df = doc_freq.get(term, 0)
-        # BM25 idf with +1 smoothing so it is always positive.
-        idf[term] = math.log(1 + (n_docs - df + 0.5) / (df + 0.5))
-
-    raw_scores: list[float] = []
-    for doc, length in zip(docs, doc_lengths):
-        counts = Counter(doc)
-        score = 0.0
-        norm = _BM25_K1 * (1 - _BM25_B + _BM25_B * (length / avg_len if avg_len else 0))
-        for term in unique_query_terms:
-            tf = counts.get(term, 0)
-            if tf == 0:
-                continue
-            score += idf[term] * (tf * (_BM25_K1 + 1)) / (tf + norm)
-        raw_scores.append(score)
+    raw_scores = [
+        _bm25_score(doc, length, unique_query_terms, idf, avg_len)
+        for doc, length in zip(docs, doc_lengths)
+    ]
 
     top = max(raw_scores) if raw_scores else 0.0
     if top <= 0:

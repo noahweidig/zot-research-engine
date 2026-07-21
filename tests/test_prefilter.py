@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
+import pytest
 from conftest import make_paper
 
 from config import (
@@ -79,7 +80,8 @@ def test_relevant_paper_scores_higher_than_irrelevant() -> None:
     )
     scores = score_relevance([relevant, irrelevant], _config())
     assert scores[id(relevant)] > scores[id(irrelevant)]
-    assert scores[id(relevant)] == 1.0  # Best match is normalized to 1.0.
+    # Best match is normalized to 1.0 (approx to avoid float-equality pitfalls).
+    assert scores[id(relevant)] == pytest.approx(1.0)
 
 
 def test_top_k_limits_papers_sent_to_gemini() -> None:
