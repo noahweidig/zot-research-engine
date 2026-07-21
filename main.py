@@ -19,7 +19,8 @@ from pipeline.deduplicate import (
     load_seen_ids,
     save_seen_ids,
 )
-from pipeline.gemini_ranker import rank_papers
+from pipeline.gemini_ranker import enrich_papers
+from pipeline.local_ranker import rank_papers
 from pipeline.models import Paper
 from pipeline.report import (
     PipelineResult,
@@ -100,10 +101,18 @@ def run_pipeline(config: PipelineConfig, dry_run: bool = False) -> PipelineResul
     unique = deduplicate(papers, seen_ids, zotero_dois)
     duplicates_removed = fetched - len(unique)
 
+    # Score every candidate for free, offline — this never depends on Gemini
+    # quota, so a run always produces results.
     ranked = rank_papers(unique, config)
 
     added_titles: list[str] = []
     to_add = [p for p in ranked if p.score >= config.relevance.min_score]
+
+    # Reserve Gemini for the small shortlist that will actually be filed:
+    # polish its summaries/reasons/tags, best-effort. Failure is non-fatal.
+    if to_add and config.gemini.enrich:
+        enrich_papers(to_add, config)
+
     if dry_run:
         logger.info("Dry run: skipping Zotero writes (%d would be added)", len(to_add))
     elif zotero_client is not None and to_add:

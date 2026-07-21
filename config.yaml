@@ -20,7 +20,7 @@ search:
   max_results_per_query: 50
 
 relevance:
-  # Minimum Gemini relevance score (1-5) required to be added to Zotero.
+  # Minimum relevance score (1-5) required to be added to Zotero.
   min_score: 4
   # Free-text description of your research interests. Fed to Gemini to score
   # each paper. Be specific — this drives the whole relevance judgement.
@@ -50,8 +50,21 @@ pipeline:
   # Maximum number of concurrent Gemini API calls.
   gemini_max_concurrency: 4
 
+# Relevance scoring is done for free, offline, with no API calls (see
+# pipeline/local_ranker.py). Papers are scored by IDF-weighted coverage of your
+# `relevance.interests` terms, mapped onto a 1-5 scale by these cutoffs.
+ranker:
+  # Four DESCENDING coverage cutoffs [score-5, score-4, score-3, score-2].
+  # A paper covering >= 55% of your weighted interest terms scores 5, >= 40%
+  # scores 4, and so on. Lower the values to be more permissive.
+  thresholds: [0.55, 0.4, 0.25, 0.1]
+
 gemini:
+  # Gemini is used only to POLISH the shortlist that clears `min_score` — a few
+  # papers per day — so a normal run stays well inside the free tier. It is
+  # never used for bulk scoring, so it can't stall the pipeline on quota limits.
+  enrich: true
   # Gemini model id. See https://ai.google.dev/gemini-api/docs/models
   model: "gemini-2.0-flash"
-  # 0.0 = fully deterministic scoring (recommended).
+  # 0.0 = fully deterministic output (recommended).
   temperature: 0.0

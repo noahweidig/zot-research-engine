@@ -1,60 +1,23 @@
-"""Unit tests for pipeline.gemini_ranker. All Gemini API calls are mocked."""
+"""Unit tests for pipeline.gemini_ranker enrichment. Gemini calls are mocked."""
 
 from __future__ import annotations
 
 import time
 import types
+from pathlib import Path
 
 import pytest
-from conftest import make_paper
-from pydantic import ValidationError
+from conftest import make_config, make_ranked
 
 import pipeline.gemini_ranker as gr
-from config import (
-    GeminiConfig,
-    PipelineConfig,
-    PipelineSettings,
-    RelevanceConfig,
-    SearchConfig,
-    Secrets,
-    SourcesConfig,
-    ZoteroConfig,
-)
-from pathlib import Path
-from pipeline.gemini_ranker import GeminiRanking, rank_papers
-
-
-def _config(min_score: int = 4, concurrency: int = 2) -> PipelineConfig:
-    """Build a minimal in-memory PipelineConfig for tests."""
-    return PipelineConfig(
-        search=SearchConfig(queries=["x"], days_back=7, max_results_per_query=10),
-        relevance=RelevanceConfig(min_score=min_score, interests="GIS"),
-        zotero=ZoteroConfig(library_type="user", inbox_collection="AI Inbox"),
-        sources=SourcesConfig(
-            enable_semantic_scholar=False,
-            enable_arxiv=False,
-            enable_crossref=False,
-        ),
-        pipeline=PipelineSettings(
-            log_to_file=False, log_file="x.log", gemini_max_concurrency=concurrency
-        ),
-        gemini=GeminiConfig(model="gemini-2.0-flash", temperature=0.0),
-        secrets=Secrets(
-            gemini_api_key="k",
-            zotero_api_key="k",
-            zotero_user_id="1",
-            zotero_library_type="user",
-            openalex_email="a@b.c",
-        ),
-        project_root=Path("."),
-    )
+from pipeline.gemini_ranker import GeminiEnrichment, enrich_papers
 
 
 class _FakeModels:
     """Fake ``client.models`` implementing generate_content."""
 
-    def __init__(self, ranking: GeminiRanking, fail_times: int = 0) -> None:
-        self._ranking = ranking
+    def __init__(self, enrichment: GeminiEnrichment, fail_times: int = 0) -> None:
+        self._enrichment = enrichment
         self._fail_times = fail_times
         self.calls = 0
 
@@ -62,7 +25,7 @@ class _FakeModels:
         self.calls += 1
         if self.calls <= self._fail_times:
             raise Exception("429 RESOURCE_EXHAUSTED: rate limit")
-        return types.SimpleNamespace(parsed=self._ranking, text="{}")
+        return types.SimpleNamespace(parsed=self._enrichment, text="{}")
 
 
 class _FakeClient:
@@ -76,58 +39,71 @@ def _no_sleep(monkeypatch) -> None:
     monkeypatch.setattr(time, "sleep", lambda *_a, **_k: None)
 
 
-def test_score_out_of_range_is_rejected() -> None:
-    """The response schema rejects scores outside 1-5."""
-    with pytest.raises(ValidationError):
-        GeminiRanking(score=7, reason="r", tags=[], summary="s")
-    with pytest.raises(ValidationError):
-        GeminiRanking(score=0, reason="r", tags=[], summary="s")
-
-
-def test_valid_score_parses() -> None:
-    """A well-formed ranking validates."""
-    r = GeminiRanking(score=5, reason="r", tags=["gis"], summary="s")
-    assert r.score == 5
-
-
-def test_rank_and_threshold_filter(monkeypatch) -> None:
-    """Only papers scoring >= min_score pass the downstream threshold filter."""
-    ranking = GeminiRanking(score=5, reason="r", tags=["gis"], summary="s")
-    fake = _FakeModels(ranking)
+def test_enrichment_overwrites_local_fields(monkeypatch) -> None:
+    """A successful Gemini call replaces local reason/tags/summary."""
+    enrichment = GeminiEnrichment(
+        reason="Directly on-topic", tags=["fire"], summary="Great paper."
+    )
+    fake = _FakeModels(enrichment)
     monkeypatch.setattr(gr.genai, "Client", lambda **_k: _FakeClient(fake))
 
-    ranked = rank_papers([make_paper(title="P1")], _config(min_score=4))
-    assert len(ranked) == 1
-    assert ranked[0].score == 5
+    paper = make_ranked(reason="local reason", tags=["local"], summary="local summary")
+    enrich_papers([paper], make_config())
 
-    passing = [p for p in ranked if p.score >= 4]
-    assert len(passing) == 1
-
-    # A score below the threshold would be filtered out downstream.
-    low = GeminiRanking(score=2, reason="r", tags=[], summary="s")
-    fake_low = _FakeModels(low)
-    monkeypatch.setattr(gr.genai, "Client", lambda **_k: _FakeClient(fake_low))
-    ranked_low = rank_papers([make_paper(title="P2")], _config(min_score=4))
-    assert [p for p in ranked_low if p.score >= 4] == []
+    assert paper.reason == "Directly on-topic"
+    assert paper.tags == ["fire"]
+    assert paper.summary == "Great paper."
+    assert fake.calls == 1
 
 
-def test_papers_without_abstract_never_reach_ranker(monkeypatch) -> None:
-    """Papers lacking an abstract are skipped before any API call."""
-    ranking = GeminiRanking(score=5, reason="r", tags=[], summary="s")
-    fake = _FakeModels(ranking)
+def test_enrichment_failure_keeps_local_fields(monkeypatch) -> None:
+    """When Gemini keeps failing, the paper's local fields survive untouched."""
+    enrichment = GeminiEnrichment(reason="x", tags=["x"], summary="x")
+    fake = _FakeModels(enrichment, fail_times=gr.GEMINI_MAX_ATTEMPTS + 5)
     monkeypatch.setattr(gr.genai, "Client", lambda **_k: _FakeClient(fake))
 
-    ranked = rank_papers([make_paper(title="NoAbs", abstract=None)], _config())
-    assert ranked == []
-    assert fake.calls == 0
+    paper = make_ranked(reason="local reason", tags=["local"], summary="local summary")
+    result = enrich_papers([paper], make_config())
+
+    assert result[0].reason == "local reason"
+    assert result[0].tags == ["local"]
+    assert result[0].summary == "local summary"
 
 
-def test_retry_on_429(monkeypatch) -> None:
-    """A 429 error is retried and the call eventually succeeds."""
-    ranking = GeminiRanking(score=4, reason="r", tags=[], summary="s")
-    fake = _FakeModels(ranking, fail_times=2)
+def test_empty_shortlist_makes_no_calls(monkeypatch) -> None:
+    """An empty shortlist never constructs a client or calls the API."""
+
+    def _boom(**_k):  # pragma: no cover - must not be reached
+        raise AssertionError("Gemini client should not be created")
+
+    monkeypatch.setattr(gr.genai, "Client", _boom)
+    assert enrich_papers([], make_config()) == []
+
+
+def test_retry_on_429_then_succeeds(monkeypatch) -> None:
+    """A transient 429 is retried and enrichment eventually applies."""
+    enrichment = GeminiEnrichment(reason="ok", tags=["ok"], summary="ok")
+    fake = _FakeModels(enrichment, fail_times=1)
     monkeypatch.setattr(gr.genai, "Client", lambda **_k: _FakeClient(fake))
 
-    ranked = rank_papers([make_paper(title="Retry")], _config())
-    assert len(ranked) == 1
-    assert fake.calls == 3  # 2 failures + 1 success
+    paper = make_ranked(reason="local")
+    enrich_papers([paper], make_config())
+
+    assert paper.reason == "ok"
+    assert fake.calls == 2
+
+
+def test_bad_client_init_is_non_fatal(monkeypatch) -> None:
+    """If the client cannot be built, enrichment is skipped without raising."""
+
+    def _boom(**_k):
+        raise RuntimeError("no key")
+
+    monkeypatch.setattr(gr.genai, "Client", _boom)
+    paper = make_ranked(reason="local reason")
+    result = enrich_papers([paper], make_config())
+    assert result[0].reason == "local reason"
+
+
+# Path import kept for parity with other test modules that build configs.
+_ = Path
