@@ -1,0 +1,59 @@
+# =============================================================================
+# zot-research-engine — Configuration
+# =============================================================================
+# This is the ONLY file you need to edit to customize the pipeline.
+# Every field is documented in the README under "Customization".
+# Secrets are NEVER stored here — they come from environment variables.
+# =============================================================================
+
+search:
+  # The list of search queries run against every enabled source.
+  queries:
+    - "GIS"
+    - "remote sensing"
+    - "geospatial AI"
+    - "foundation models"
+    - "computer vision"
+    - "satellite imagery"
+    - "large language models"
+  # Only consider papers published within the last N days.
+  days_back: 7
+  # Maximum number of results to request per query, per source.
+  max_results_per_query: 50
+
+relevance:
+  # Minimum Gemini relevance score (1-5) required to be added to Zotero.
+  min_score: 4
+  # Free-text description of your research interests. Fed to Gemini to score
+  # each paper. Be specific — this drives the whole relevance judgement.
+  interests: >
+    GIS, remote sensing, geospatial machine learning,
+    AI for Earth observation, computer vision,
+    foundation models, spatial data science
+
+zotero:
+  # "user" or "group". Must match your ZOTERO_LIBRARY_TYPE env var.
+  library_type: "user"
+  # Name of the collection where new papers are filed. Created if missing.
+  inbox_collection: "AI Inbox"
+
+sources:
+  # OpenAlex is the primary source and is always enabled.
+  # Optional additional sources — set to true to enable. All are free and
+  # require no API key (arXiv and Crossref honor OPENALEX_EMAIL politely).
+  enable_semantic_scholar: false  # Abstract enrichment via DOI (not a search source)
+  enable_arxiv: false             # Additional search source (preprints)
+  enable_crossref: false          # Additional search source (published works)
+
+pipeline:
+  # Write logs to a file in addition to stdout.
+  log_to_file: true
+  log_file: "pipeline.log"
+  # Maximum number of concurrent Gemini API calls.
+  gemini_max_concurrency: 4
+
+gemini:
+  # Gemini model id. See https://ai.google.dev/gemini-api/docs/models
+  model: "gemini-2.0-flash"
+  # 0.0 = fully deterministic scoring (recommended).
+  temperature: 0.0
