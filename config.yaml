@@ -9,13 +9,11 @@
 search:
   # The list of search queries run against every enabled source.
   queries:
-    - "GIS"
-    - "remote sensing"
-    - "geospatial AI"
-    - "foundation models"
-    - "computer vision"
-    - "satellite imagery"
-    - "large language models"
+    - "large wildfire eastern united states"
+    - "wildfire regimes eastern united states"
+    - "social factors drivers of large wildfires"
+    - "future climate scenarios wildfire risk united states"
+    - "prescribed burn fire reduce wildfire risk"
   # Only consider papers published within the last N days.
   days_back: 7
   # Maximum number of results to request per query, per source.
