@@ -78,11 +78,27 @@ class PipelineSettings:
 
 
 @dataclass(frozen=True)
+class PrefilterConfig:
+    """Free local relevance pre-filtering from the ``prefilter`` block.
+
+    Ranks candidates with a local BM25 relevance score (no API key, no quota)
+    and forwards only the most relevant to Gemini, so the free Gemini tier is
+    never overwhelmed.
+    """
+
+    enabled: bool
+    top_k: int
+    min_similarity: float
+
+
+@dataclass(frozen=True)
 class GeminiConfig:
     """Gemini model settings from the ``gemini`` block."""
 
     model: str
     temperature: float
+    requests_per_minute: int
+    fallback_to_prefilter: bool
 
 
 @dataclass(frozen=True)
@@ -114,6 +130,7 @@ class PipelineConfig:
     zotero: ZoteroConfig
     sources: SourcesConfig
     pipeline: PipelineSettings
+    prefilter: PrefilterConfig
     gemini: GeminiConfig
     secrets: Secrets
     project_root: Path
@@ -179,6 +196,7 @@ def load_config(config_path: str | Path = DEFAULT_CONFIG_PATH) -> PipelineConfig
     zotero_raw = raw.get("zotero", {})
     sources_raw = raw.get("sources", {})
     pipeline_raw = raw.get("pipeline", {})
+    prefilter_raw = raw.get("prefilter", {})
     gemini_raw = raw.get("gemini", {})
 
     interests = " ".join(str(relevance_raw.get("interests", "")).split())
@@ -207,9 +225,16 @@ def load_config(config_path: str | Path = DEFAULT_CONFIG_PATH) -> PipelineConfig
             log_file=str(pipeline_raw.get("log_file", "pipeline.log")),
             gemini_max_concurrency=int(pipeline_raw.get("gemini_max_concurrency", 4)),
         ),
+        prefilter=PrefilterConfig(
+            enabled=bool(prefilter_raw.get("enabled", True)),
+            top_k=int(prefilter_raw.get("top_k", 25)),
+            min_similarity=float(prefilter_raw.get("min_similarity", 0.0)),
+        ),
         gemini=GeminiConfig(
             model=str(gemini_raw.get("model", "gemini-2.0-flash")),
             temperature=float(gemini_raw.get("temperature", 0.0)),
+            requests_per_minute=int(gemini_raw.get("requests_per_minute", 12)),
+            fallback_to_prefilter=bool(gemini_raw.get("fallback_to_prefilter", True)),
         ),
         secrets=Secrets(
             gemini_api_key=_require_env("GEMINI_API_KEY"),

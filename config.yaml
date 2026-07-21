@@ -50,8 +50,28 @@ pipeline:
   # Maximum number of concurrent Gemini API calls.
   gemini_max_concurrency: 4
 
+prefilter:
+  # Free, local relevance pre-filter (BM25) that runs BEFORE Gemini. It ranks
+  # every candidate against your interests using no API key and no quota, then
+  # forwards only the most relevant papers to Gemini. This is what keeps the
+  # free Gemini tier from being overwhelmed (the usual cause of 429 failures).
+  enabled: true
+  # Maximum number of papers sent to Gemini per run. Lower this if you still hit
+  # Gemini quota limits; raise it if you want Gemini to see more candidates.
+  top_k: 25
+  # Drop papers whose normalized relevance (0-1, relative to the best match in
+  # the batch) is below this before they reach Gemini. 0.0 keeps the full top_k.
+  min_similarity: 0.0
+
 gemini:
   # Gemini model id. See https://ai.google.dev/gemini-api/docs/models
   model: "gemini-2.0-flash"
   # 0.0 = fully deterministic scoring (recommended).
   temperature: 0.0
+  # Cap on Gemini requests per minute. Keep at or below your tier's RPM limit
+  # (the free tier is ~15 RPM) to avoid rate-limit (429) errors.
+  requests_per_minute: 12
+  # If Gemini is unavailable (e.g. daily quota exhausted), score the paper from
+  # the free local prefilter instead of dropping it, so you still get a report.
+  # Such papers are tagged "Heuristic Score" so they are easy to spot.
+  fallback_to_prefilter: true

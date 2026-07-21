@@ -9,9 +9,19 @@ uses Google Gemini to score how relevant each one is to *your* research
 interests, and files the best ones into a Zotero collection — every single day,
 with no manual effort. It searches [OpenAlex](https://openalex.org) (and
 optionally arXiv and Crossref) for papers published in the last few days,
-removes anything you have already seen or already have in your library, asks
-Gemini to rate each remaining paper from 1 to 5, and adds the high scorers to a
-Zotero "AI Inbox" collection tagged and summarized for quick triage.
+removes anything you have already seen or already have in your library, ranks
+the remainder with a free local relevance filter, asks Gemini to rate the most
+promising ones from 1 to 5, and adds the high scorers to a Zotero "AI Inbox"
+collection tagged and summarized for quick triage.
+
+To stay comfortably inside Google Gemini's free tier, the pipeline does the bulk
+relevance work for free and locally: a [BM25](https://en.wikipedia.org/wiki/Okapi_BM25)
+relevance ranker (no API key, no network, no quota — the same free
+relevance-ranking technique open scholarly tools like Semantic Scholar and CORE
+expose) scores every candidate against your interests first, and only the top
+handful are sent to Gemini for the fine-grained 1–5 score. If Gemini is ever
+unavailable (e.g. the free daily quota is exhausted), the pipeline falls back to
+that free score so you still get a useful report instead of nothing.
 
 The whole thing runs on a free GitHub Actions schedule. Fork the repo, edit one
 YAML file, set four secrets, and you get a fresh curated literature review
@@ -111,9 +121,23 @@ All behavior lives in `config.yaml`:
 - `log_to_file` / `log_file` — also write logs to a file.
 - `gemini_max_concurrency` — max simultaneous Gemini calls (protects your quota).
 
+**`prefilter`** — the free local relevance stage that runs *before* Gemini so its
+free-tier quota is never overwhelmed (the usual cause of `429` failures):
+- `enabled` — turn the local BM25 pre-filter on/off (default `true`).
+- `top_k` — maximum papers sent to Gemini per run. Lower it if you still hit
+  quota limits; raise it to let Gemini see more candidates.
+- `min_similarity` — drop papers whose normalized relevance (0–1, relative to the
+  best match in the batch) is below this before they reach Gemini. `0.0` keeps
+  the full `top_k`.
+
 **`gemini`**
 - `model` — Gemini model id (e.g. `gemini-2.0-flash`).
 - `temperature` — keep at `0.0` for deterministic scoring.
+- `requests_per_minute` — cap on Gemini requests per minute; keep at or below
+  your tier's RPM limit (the free tier is ~15 RPM) to avoid rate-limit errors.
+- `fallback_to_prefilter` — if Gemini is unavailable, score papers from the free
+  local filter instead of dropping them (default `true`). Such papers are tagged
+  `Heuristic Score` in the report and in Zotero.
 
 Secrets are **never** stored in `config.yaml` — they come only from environment
 variables / GitHub Secrets.
@@ -124,6 +148,8 @@ variables / GitHub Secrets.
 - `AI Suggested` — added by this pipeline.
 - `Score N` — the Gemini relevance score (1–5).
 - Plus any topic tags Gemini generated (e.g. `remote sensing`, `deep learning`).
+- `Heuristic Score` — present only when Gemini was unavailable and the paper was
+  scored by the free local relevance filter as a fallback.
 
 **The report.** Each run writes two files to `reports/`:
 - `YYYY-MM-DD.md` — a human-readable review: summary statistics, a detailed entry
@@ -155,10 +181,16 @@ papers are skipped (and logged) because Gemini needs an abstract to score them.
 Enable `sources.enable_semantic_scholar: true` to recover many abstracts via DOI
 lookup.
 
-**Gemini quota / rate-limit errors (429).** The ranker automatically retries with
-exponential backoff. If you still hit limits, lower
-`pipeline.gemini_max_concurrency`, reduce `search.max_results_per_query`, or
-shorten your query list. Free-tier Gemini keys have low daily limits.
+**Gemini quota / rate-limit errors (429).** The pipeline is designed around the
+free tier's low limits. Before Gemini is ever called, the free local BM25
+pre-filter (`prefilter` block) narrows the candidate set to the most relevant
+`prefilter.top_k` papers, and `gemini.requests_per_minute` throttles calls to
+stay under your RPM cap. If you still hit limits, lower `prefilter.top_k`,
+lower `gemini.requests_per_minute`, lower `pipeline.gemini_max_concurrency`,
+reduce `search.max_results_per_query`, or shorten your query list. If Gemini is
+completely exhausted and `gemini.fallback_to_prefilter` is on (the default), the
+run still completes using the free local relevance score, and those papers are
+tagged `Heuristic Score` so you can tell them apart from genuine Gemini scores.
 
 **Zotero authentication errors.** Make sure `ZOTERO_API_KEY` has **write access**
 enabled, that `ZOTERO_USER_ID` is the numeric ID (not your username), and that

@@ -21,6 +21,7 @@ from pipeline.deduplicate import (
 )
 from pipeline.gemini_ranker import rank_papers
 from pipeline.models import Paper
+from pipeline.prefilter import prefilter_papers
 from pipeline.report import (
     PipelineResult,
     generate_report,
@@ -100,7 +101,12 @@ def run_pipeline(config: PipelineConfig, dry_run: bool = False) -> PipelineResul
     unique = deduplicate(papers, seen_ids, zotero_dois)
     duplicates_removed = fetched - len(unique)
 
-    ranked = rank_papers(unique, config)
+    # Free, local relevance pre-filter: rank every candidate with BM25 and pass
+    # only the most relevant to Gemini, so its scarce free-tier quota is not
+    # exhausted. The scores double as a heuristic fallback if Gemini is down.
+    to_rank, prefilter_scores = prefilter_papers(unique, config)
+
+    ranked = rank_papers(to_rank, config, prefilter_scores)
 
     added_titles: list[str] = []
     to_add = [p for p in ranked if p.score >= config.relevance.min_score]
