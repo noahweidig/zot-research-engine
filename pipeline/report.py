@@ -59,7 +59,7 @@ class PipelineResult:
 
     @property
     def average_score(self) -> float:
-        """Mean Gemini score across evaluated papers (0.0 if none)."""
+        """Mean relevance score across evaluated papers (0.0 if none)."""
         if not self.ranked:
             return 0.0
         return sum(p.score for p in self.ranked) / len(self.ranked)
@@ -106,7 +106,7 @@ def _render_markdown(result: PipelineResult) -> str:
         f"| Candidates evaluated | {result.evaluated} |",
         f"| Added to Zotero | {result.added_count} |",
         f"| Ignored | {len(result.ignored)} |",
-        f"| Average Gemini score | {result.average_score:.1f} |",
+        f"| Average relevance score | {result.average_score:.1f} |",
         "",
         "---",
         "",

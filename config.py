@@ -83,6 +83,19 @@ class GeminiConfig:
 
     model: str
     temperature: float
+    enrich: bool
+
+
+@dataclass(frozen=True)
+class RankerConfig:
+    """Local (free) relevance-ranker settings from the ``ranker`` block.
+
+    Attributes:
+        thresholds: Four descending coverage cutoffs ``[t5, t4, t3, t2]`` that
+            map IDF-weighted interest coverage onto the 1-5 score scale.
+    """
+
+    thresholds: list[float]
 
 
 @dataclass(frozen=True)
@@ -115,6 +128,7 @@ class PipelineConfig:
     sources: SourcesConfig
     pipeline: PipelineSettings
     gemini: GeminiConfig
+    ranker: RankerConfig
     secrets: Secrets
     project_root: Path
 
@@ -180,8 +194,16 @@ def load_config(config_path: str | Path = DEFAULT_CONFIG_PATH) -> PipelineConfig
     sources_raw = raw.get("sources", {})
     pipeline_raw = raw.get("pipeline", {})
     gemini_raw = raw.get("gemini", {})
+    ranker_raw = raw.get("ranker", {})
 
     interests = " ".join(str(relevance_raw.get("interests", "")).split())
+
+    thresholds = [float(t) for t in ranker_raw.get("thresholds", [0.55, 0.4, 0.25, 0.1])]
+    if len(thresholds) != 4:
+        raise ConfigError(
+            "ranker.thresholds must list exactly four descending cutoffs "
+            "[t5, t4, t3, t2]."
+        )
 
     return PipelineConfig(
         search=SearchConfig(
@@ -210,7 +232,9 @@ def load_config(config_path: str | Path = DEFAULT_CONFIG_PATH) -> PipelineConfig
         gemini=GeminiConfig(
             model=str(gemini_raw.get("model", "gemini-2.0-flash")),
             temperature=float(gemini_raw.get("temperature", 0.0)),
+            enrich=bool(gemini_raw.get("enrich", True)),
         ),
+        ranker=RankerConfig(thresholds=thresholds),
         secrets=Secrets(
             gemini_api_key=_require_env("GEMINI_API_KEY"),
             zotero_api_key=_require_env("ZOTERO_API_KEY"),

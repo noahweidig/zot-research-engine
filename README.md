@@ -5,13 +5,23 @@ Automated AI research discovery pipeline for Zotero.
 ## 1. What This Does
 
 `zot-research-engine` automatically discovers newly published research papers,
-uses Google Gemini to score how relevant each one is to *your* research
-interests, and files the best ones into a Zotero collection — every single day,
-with no manual effort. It searches [OpenAlex](https://openalex.org) (and
-optionally arXiv and Crossref) for papers published in the last few days,
-removes anything you have already seen or already have in your library, asks
-Gemini to rate each remaining paper from 1 to 5, and adds the high scorers to a
-Zotero "AI Inbox" collection tagged and summarized for quick triage.
+scores how relevant each one is to *your* research interests, and files the best
+ones into a Zotero collection — every single day, with no manual effort. It
+searches [OpenAlex](https://openalex.org) (and optionally arXiv and Crossref)
+for papers published in the last few days, removes anything you have already
+seen or already have in your library, rates each remaining paper from 1 to 5,
+and adds the high scorers to a Zotero "AI Inbox" collection tagged and
+summarized for quick triage.
+
+**Relevance scoring is free and offline.** Every candidate is scored by a
+built-in lexical ranker that measures how well its title and abstract cover your
+`relevance.interests` terms — no API key, no quota, no cost. Because scoring
+never calls an external model, a run can never be blanked out by an exhausted
+free-tier quota. Google Gemini is still used, but only for the "small stuff":
+polishing the short list of papers that clear your score threshold with a
+fluent summary, a one-line rationale, and topic tags. If Gemini is unavailable
+(rate-limited, no key, offline), the pipeline falls back to the local summaries
+and keeps working.
 
 The whole thing runs on a free GitHub Actions schedule. Fork the repo, edit one
 YAML file, set four secrets, and you get a fresh curated literature review
@@ -92,7 +102,7 @@ All behavior lives in `config.yaml`:
 - `max_results_per_query` — cap on results requested per query, per source.
 
 **`relevance`**
-- `min_score` — minimum Gemini score (1–5) required to be added to Zotero.
+- `min_score` — minimum relevance score (1–5) required to be added to Zotero.
 - `interests` — free-text description of your research focus. This drives the
   entire relevance judgement, so be specific.
 
@@ -109,11 +119,21 @@ All behavior lives in `config.yaml`:
 
 **`pipeline`**
 - `log_to_file` / `log_file` — also write logs to a file.
-- `gemini_max_concurrency` — max simultaneous Gemini calls (protects your quota).
+- `gemini_max_concurrency` — max simultaneous Gemini enrichment calls (protects
+  your quota).
 
-**`gemini`**
+**`ranker`** — the free, offline relevance scorer:
+- `thresholds` — four **descending** coverage cutoffs `[score-5, score-4,
+  score-3, score-2]`. A paper covering at least the first fraction of your
+  weighted interest terms scores 5, the next scores 4, and so on; below the last
+  cutoff scores 1. Lower the numbers to be more permissive. Default
+  `[0.55, 0.4, 0.25, 0.1]`.
+
+**`gemini`** — used only to polish the shortlist (see §6):
+- `enrich` — set to `false` to skip Gemini entirely and use the free local
+  summaries everywhere.
 - `model` — Gemini model id (e.g. `gemini-2.0-flash`).
-- `temperature` — keep at `0.0` for deterministic scoring.
+- `temperature` — keep at `0.0` for deterministic output.
 
 Secrets are **never** stored in `config.yaml` — they come only from environment
 variables / GitHub Secrets.
@@ -122,8 +142,9 @@ variables / GitHub Secrets.
 
 **Zotero tags.** Every added item is tagged with:
 - `AI Suggested` — added by this pipeline.
-- `Score N` — the Gemini relevance score (1–5).
-- Plus any topic tags Gemini generated (e.g. `remote sensing`, `deep learning`).
+- `Score N` — the relevance score (1–5).
+- Plus any topic tags (from Gemini enrichment, or the matched interest terms
+  when Gemini is unavailable).
 
 **The report.** Each run writes two files to `reports/`:
 - `YYYY-MM-DD.md` — a human-readable review: summary statistics, a detailed entry
@@ -131,7 +152,8 @@ variables / GitHub Secrets.
   DOI), and a table of ignored papers.
 - `YYYY-MM-DD.json` — the full ranked paper list for programmatic use.
 
-**The scoring scale.**
+**The scoring scale.** Scores reflect how much of your weighted interest
+vocabulary a paper's title and abstract cover (title matches count double):
 
 | Score | Meaning |
 |---|---|
@@ -141,8 +163,9 @@ variables / GitHub Secrets.
 | 2 | Low relevance: minor overlap |
 | 1 | Ignore: not relevant |
 
-Only papers scoring at or above `min_score` are added to Zotero; everything else
-is listed in the report's "Ignored Papers" table.
+The exact coverage cutoffs are tunable via `ranker.thresholds`. Only papers
+scoring at or above `min_score` are added to Zotero; everything else is listed
+in the report's "Ignored Papers" table.
 
 **State.** `state/seen_ids.json` records the DOIs and OpenAlex IDs of every paper
 ever evaluated, so nothing is processed twice. The GitHub Action commits this
@@ -151,14 +174,18 @@ file (and the reports) back to your repository after each run so state persists.
 ## 7. Troubleshooting
 
 **Papers are missing abstracts.** OpenAlex sometimes lacks an abstract; such
-papers are skipped (and logged) because Gemini needs an abstract to score them.
+papers are skipped (and logged) because relevance scoring needs an abstract.
 Enable `sources.enable_semantic_scholar: true` to recover many abstracts via DOI
 lookup.
 
-**Gemini quota / rate-limit errors (429).** The ranker automatically retries with
-exponential backoff. If you still hit limits, lower
-`pipeline.gemini_max_concurrency`, reduce `search.max_results_per_query`, or
-shorten your query list. Free-tier Gemini keys have low daily limits.
+**Gemini quota / rate-limit errors (429).** These are no longer fatal. Relevance
+scoring is done locally, so every candidate is still scored and the report is
+still produced even if Gemini is completely unavailable — affected papers simply
+keep their free local summaries. Gemini is only called for the shortlist that
+clears `min_score`, so a normal daily run stays well inside the free tier. If you
+still hit limits, lower `pipeline.gemini_max_concurrency`, raise `min_score` so
+fewer papers are enriched, or set `gemini.enrich: false` to skip Gemini
+entirely.
 
 **Zotero authentication errors.** Make sure `ZOTERO_API_KEY` has **write access**
 enabled, that `ZOTERO_USER_ID` is the numeric ID (not your username), and that
