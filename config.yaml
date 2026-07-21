@@ -25,9 +25,9 @@ relevance:
   # Free-text description of your research interests. Fed to Gemini to score
   # each paper. Be specific — this drives the whole relevance judgement.
   interests: >
-    GIS, remote sensing, geospatial machine learning,
-    AI for Earth observation, computer vision,
-    foundation models, spatial data science
+    large wildfires eastern united states, prescribed burning eastern united states,
+    drivers of large wildfires, ignition causes of large wildfires, 
+    wildfire occurrence united states
 
 zotero:
   # "user" or "group". Must match your ZOTERO_LIBRARY_TYPE env var.
