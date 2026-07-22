@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-22",
+  "statistics": {
+    "fetched": 111,
+    "duplicates_removed": 111,
+    "evaluated": 0,
+    "added": 0,
+    "ignored": 0,
+    "average_score": 0.0
+  },
+  "dry_run": false,
+  "papers": []
+}
