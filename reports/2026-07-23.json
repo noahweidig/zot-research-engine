@@ -1,0 +1,444 @@
+{
+  "date": "2026-07-23",
+  "statistics": {
+    "fetched": 108,
+    "duplicates_removed": 91,
+    "evaluated": 17,
+    "added": 1,
+    "ignored": 16,
+    "average_score": 1.53
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Predicting Wildfire Damage Severity with Composite Indexing and Fire Weather Features: A Case Study in Gangwon Province, South Korea",
+      "abstract": "Accurate wildfire prediction increasingly determines whether emergency resources arrive before a disaster becomes uncontrollable, yet the dominant paradigm reduces the problem to binary occurrence, offering no estimate of the severity that drives suppression planning. This study develops a machine-learning framework for four-class wildfire severity prediction, conditional on ignition, from weather-station observations and calendar terms alone. We construct a composite severity index (CSI) by applying principal component analysis to five damage dimensions (burned area, suppression equipment, personnel, duration, and property loss) recorded for 868 wildfires in Gangwon Province, South Korea (2011–2022) and pair standard observations with effective humidity and six indices of the Canadian Forest Fire Weather Index (FWI) System. Under a leakage-safe protocol, the strongest tree ensembles reach a macro F1 of 0.46 to 0.50 (recommended configuration: 0.41 ± 0.03 across 20 repeated splits) against a four-class chance level of 0.25, and the recommended Random Forest attains an extreme-class recall of 0.474; the CSI target outperforms burned area by 5.5 macro-F1 points under identical inputs. A weather-only screen separates extreme from non-extreme events with an ROC AUC of 0.758, capturing 47% of extreme events at a 20% alert budget. We also quantify how oversampling misplaced before the train-test split inflates the macro F1 to 0.65–0.83, a cause for caution for the severity-prediction literature.",
+      "doi": "10.3390/fire9070310",
+      "authors": [
+        "Jaeun Choi",
+        "Wonseok Yang",
+        "Seokju Kim",
+        "Ahyeon Jeong",
+        "Jiwoo Baek",
+        "Nanggyun Ko",
+        "Chumni Jeon",
+        "Eun Sang Jung"
+      ],
+      "year": 2026,
+      "journal": "Fire",
+      "openalex_id": "W7169755086",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169755086",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 51%: matched 4/9 key interest terms (ignition, occurrence, wildfires, wildfire)",
+      "tags": [
+        "Ignition",
+        "Occurrence",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Accurate wildfire prediction increasingly determines whether emergency resources arrive before a disaster becomes uncontrollable, yet the dominant paradigm reduces the problem to binary occurrence, offering no estimate of the severity that drives suppression planning.",
+      "added": true
+    },
+    {
+      "title": "A global 1 km gridded dataset of household consumption expenditure in purchasing power parity 2013–2024",
+      "abstract": "Household and non-profit institutions serving households (NPISH) final consumption expenditure is widely used to characterize welfare, demand, and living standards, but official statistics are typically available at national and regional scales and therefore cannot support fine-grained analyses. Here we present a global 1 km gridded dataset of household and NPISH final consumption expenditure in purchasing power parity (PPP) for 2013-2024. The dataset integrates World Bank economy-level totals, expressed in constant 2021 international dollars, with annual nighttime lights, population, built-up surface, roads, and consumer-oriented points-of-interests (POIs) in a stacked Super Learner framework. Harmonized annual covariates are used to generate grid-level predictions of per-capita consumption. The dataset is a model-based spatial disaggregation constrained by economy totals. We release two products: an observed-only variant based exclusively on directly reported World Bank totals, and a regionally completed variant that fills missing economy totals from World Bank regional aggregates. Each product includes annual cell-total rasters, per-capita rasters, QA rasters, and an economy-year metadata table. Independent validation against official subnational consumption statistics in the United States, Canada, and the United Kingdom, together with a provincial retail sales proxy validation for China, shows that the dataset captures spatial heterogeneity while retaining economy-level consistency. The dataset is intended to support analyses of welfare geography, market access, and consumption-related human activity, including applications relevant to the Sustainable Development Goals (SDGs), such as poverty, equity and inclusive development.",
+      "doi": "10.1038/s41597-026-07919-4",
+      "authors": [
+        "Run Shi",
+        "Yuanzheng Cui",
+        "Fang Bian",
+        "Teng Zhong",
+        "Xiangbin Peng",
+        "Xin Yin",
+        "S X Liu",
+        "Kaifang Shi"
+      ],
+      "year": 2026,
+      "journal": "Scientific Data",
+      "openalex_id": "W7169795638",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169795638",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 37%: matched 3/9 key interest terms (united, states, united states)",
+      "tags": [
+        "United",
+        "States",
+        "United States"
+      ],
+      "summary": "Household and non-profit institutions serving households (NPISH) final consumption expenditure is widely used to characterize welfare, demand, and living standards, but official statistics are typically available at national and regional scales and therefore cannot support fine-grained analyses.",
+      "added": false
+    },
+    {
+      "title": "Exploring the Role of Local Businesses in Wildfire Prevention: Motivations, Approaches, and Partnerships in a Southwestern U.S. Recreation Economy",
+      "abstract": "Abstract Wildfires can cause prolonged disruptions to public land access, affecting nearby local economies. As recreationists with varying levels of knowledge of wildfire increasingly visit fire-prone areas, reaching diverse audiences through non-traditional communication channels like local businesses offers novel opportunities for increasing engagement and outreach capacity. Business preparation for wildfire risk is central to developing fire adapted communities, yet little qualitative research has sought to capture their role in broader efforts to mitigate risks and impacts. We conducted semi-structured interviews with local business owners and employees, land managers, government representatives, and economically oriented local non-profits to explore how local businesses in Flagstaff, Arizona, USA, navigate wildfire impacts and to better characterize their role in human-caused wildfire prevention education. We found that local businesses experienced varying wildfire-related impacts defined by their relationships to, and dependence on, public lands for revenue, and were already informally acting as community stewards of fire prevention education but lacked the resources to develop cohesive and accurate messaging. We also offer recommendations for more intentional partnerships between businesses and agencies to leverage prevention education capacity and extend the scale and scope of outreach to public land users. Together, these findings can inform a more concerted approach to human-caused wildfire prevention that protects the interdependent relationship between public land management, wildfires, and local economy.",
+      "doi": "10.1007/s44391-026-00077-5",
+      "authors": [
+        "Sarah E. Devenport",
+        "Catrin M. Edgeley"
+      ],
+      "year": 2026,
+      "journal": "Forest Science",
+      "openalex_id": "W7169787602",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169787602",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 2/9 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfires can cause prolonged disruptions to public land access, affecting nearby local economies. As recreationists with varying levels of knowledge of wildfire increasingly visit fire-prone areas, reaching diverse audiences through non-traditional communication channels like local businesses offers novel opp…",
+      "added": false
+    },
+    {
+      "title": "Mountain Aglow: the value of cultural community responses to prolonged volcanic crisis as a conduit for local knowledge exchange and disaster risk reduction",
+      "abstract": "Abstract ‘Mountain Aglow’ is a co-produced disaster risk reduction initiative which incorporates the lived experience of Soufrière Hills Volcano into official channels of volcanic risk communication in Montserrat, Eastern Caribbean. By using a multi-media exhibit format, this project collates and celebrates the wealth of eruption-related experiential knowledge and artistic products – e.g. song, poetry, and stories – created by Montserratians as they lived through and coped with the upheaval of volcanic disaster. Important scientific knowledge pertaining to the volcano is intertwined with this experiential story of the eruption. This article first outlines the rationale and structure of the initiative, highlighting our methods of practicing co-production with local people and institutions. It then presents an empirical mixed methods evaluation of the project to examine key outcomes and the potential longer-term impacts of this process on disaster risk reduction on the island and reflect on the practical benefits and challenges of co-production. We show that our approach of blending experiential and scientific knowledge has had many positive outcomes and has served to: 1) improve the repertoire and reach of disaster risk education activities in Montserrat; 2) enhance engagement with young people in particular, and in turn improved their awareness and responsive capacity; and 3) enhance community awareness and capacity at large by encouraging cross-demographic/generational sharing of disaster experience. We also demonstrate that while the practical application of co-production comes with significant challenges, the benefits it brings can outweigh these difficulties.",
+      "doi": "10.1186/s13617-026-00171-w",
+      "authors": [
+        "James Christie",
+        "Karen Pascal",
+        "Jenni Barclay",
+        "M. Teresa Armijos",
+        "Wendy McMahon",
+        "Martin Mangler",
+        "K. Retourne"
+      ],
+      "year": 2026,
+      "journal": "Journal of Applied Volcanology",
+      "openalex_id": "W7169796253",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169796253",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 2/9 key interest terms (eastern, large)",
+      "tags": [
+        "Eastern",
+        "Large"
+      ],
+      "summary": "Abstract ‘Mountain Aglow’ is a co-produced disaster risk reduction initiative which incorporates the lived experience of Soufrière Hills Volcano into official channels of volcanic risk communication in Montserrat, Eastern Caribbean.",
+      "added": false
+    },
+    {
+      "title": "Three Decades of Silviculture in Northern Rocky Mountain Forests, USA: Trends, Practices, and Outcomes",
+      "abstract": "Abstract The Northern Rocky Mountains region includes 42 million acres of forest land which is diverse in landownership, management objectives, tree species, site productivities, disturbance regimes, and silvicultural practices resulting in a mosaic landscape. Substantial changes in landownership, management objectives, markets, policy, forest conditions, and silvicultural practices have occurred over the last thirty years. This review provides a synopsis of these changes across different forest types in the region. The U.S. Department of Agriculture, Forest Service remains the largest forest management entity in the region, encompassing all forest types. Silvicultural practices have largely shifted towards multiple objective management on federal lands, reflecting broad societal values. This includes restoring historical species composition and enhancing resistance and resilience to natural disturbances, with wildfire a dominant disturbance concern across all forest types. Large corporate landownerships remain concentrated on high productivity sites in the region. Many of these companies are now Timber Investment Management Organizations (TIMOs) and Real Estate Investment Trusts (REITs). The region has seen an uptick in the establishment of high-yield plantations on their land, dominated by Douglas-fir and western larch. State lands continue to manage to meet their endowment mandates with some examples of increased intensification through plantation establishment. Overall, the region is dynamic, and we expect continued emphasis on fuels reduction, timber production, recreation, wildlife habitat, among others, as meeting these objectives will help ensure the sustainability of forests for years to come.",
+      "doi": "10.1007/s44392-026-00108-6",
+      "authors": [
+        "Andrew S. Nelson",
+        "Austin Himes",
+        "Justin S. Crotteau",
+        "Samuel Scott"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forestry",
+      "openalex_id": "W7169839109",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169839109",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 2/9 key interest terms (wildfire, large)",
+      "tags": [
+        "Wildfire",
+        "Large"
+      ],
+      "summary": "Abstract The Northern Rocky Mountains region includes 42 million acres of forest land which is diverse in landownership, management objectives, tree species, site productivities, disturbance regimes, and silvicultural practices resulting in a mosaic landscape.",
+      "added": false
+    },
+    {
+      "title": "Natural hazard events dataset for the Garrotxa Region (Catalonia, Spain): a foundational step toward multi-hazard risk assessment",
+      "abstract": "Abstract. Data-driven approaches are increasingly essential for understanding complex, interacting natural hazards. We present a natural hazard events dataset compiling all documented occurrences of earthquakes, landslides, rockfalls, floods, wildfires, and ground subsidences in the Garrotxa region (Catalonia, Spain) between 1900 and 2023. The dataset integrates inventoried, written, and oral sources, including official inventories, historical press, scientific literature, and citizen-science contributions, which were processed and cross-validated to remove duplication and inconsistencies. A total of 1049 events were compiled. A simple exploratory analysis illustrates the potential of the dataset for multi-hazard interaction and hazard–meteorological associations. Comparison with national and international repositories (e.g., EM-DAT, SHELDUS, Risk Data Hub) shows that this dataset provides higher spatial resolution and includes locally validated records absent elsewhere. The study therefore contributes both a new regional data resource and a workflow for compiling and validating heterogeneous hazard data, supporting future susceptibility and multi-hazard risk analyses in this and other regions.",
+      "doi": "10.5194/nhess-26-3327-2026",
+      "authors": [
+        "Arnau Lagresa",
+        "Marta López-Saavedra",
+        "Iris Schneider-Pérez",
+        "Marc A. Martinez",
+        "Jordi Mestres-Esteve",
+        "Miguel Jiménez",
+        "Alba Ocaña",
+        "Llorenç Planagumà",
+        "Joan Martı́"
+      ],
+      "year": 2026,
+      "journal": "Natural hazards and earth system sciences",
+      "openalex_id": "W7169841644",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169841644",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Abstract. Data-driven approaches are increasingly essential for understanding complex, interacting natural hazards. We present a natural hazard events dataset compiling all documented occurrences of earthquakes, landslides, rockfalls, floods, wildfires, and ground subsidences in the Garrotxa region (Catalonia, Spain) b…",
+      "added": false
+    },
+    {
+      "title": "From continental to street scales: climate change impacts on atmospheric composition over Europe and London",
+      "abstract": "Abstract. Climate change will impact ozone (O3) and fine particulate matter (PM2.5) through its influence on natural emissions, atmospheric chemistry, deposition and transport. A coupled modelling approach is employed to identify the key processes and determine how regional air pollution across Europe and urban-scale air quality in London in the 2090s are impacted by climate change under Representative Concentration Pathway (RCP) 8.5. Climate change projections from the HadGEM2-ES Earth System Model nudge the nested WRF-EMEP4UK model, which drives the street-scale ADMS-Urban model. Annual-mean temperature increases exceeding 4 °C produce substantial increases in summer biogenic isoprene emissions. There is a strong contrast in the summer and winter-mean O3 responses to climate change, with large summer increases over southern Europe (up to 10 ppbv) and winter decreases over Europe. Annual-average PM2.5 concentrations are elevated (5–10 µg m−3) over most of Europe, also driven by higher summer isoprene emissions that promote secondary organic aerosol formation. Decreases in primary and inorganic PM2.5 components are prominent in winter. The seasonality of urban air pollution is modified over London under climate change: the O3 peak amplitude is reduced, whilst the winter peaks in PM2.5 and NO2 are more pronounced, with nighttime increases. The diurnal profile of urban air pollution typically flattens. Climate induced changes in O3 aid attainment of long-term air quality guidelines in northern Europe, but pose challenges elsewhere. Achieving long-term PM2.5 guidelines over much of Europe becomes increasing difficult with climate change, while attaining short-term air quality guidelines in London remains a major challenge, especially for NO2.",
+      "doi": "10.5194/acp-26-10115-2026",
+      "authors": [
+        "Ruth M. Doherty",
+        "Zhenze Liu",
+        "Massimo Vieno",
+        "Oliver Wild",
+        "Fiona M. O’Connor",
+        "Steven T. Turnock",
+        "Christina Hood",
+        "Jenny Stocker",
+        "Mathew R. Heal",
+        "Dwayne E. Heard",
+        "Emma Sands",
+        "David Carruthers",
+        "Lisa K. Whalley"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7169850513",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169850513",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract. Climate change will impact ozone (O3) and fine particulate matter (PM2.5) through its influence on natural emissions, atmospheric chemistry, deposition and transport.",
+      "added": false
+    },
+    {
+      "title": "The value of sound: passive acoustic monitoring for terrestrial vertebrate biodiversity assessments",
+      "abstract": "Sebastian Hoefer investigated the value of passive acoustic monitoring for terrestrial vertebrate biodiversity assessments in Australia. He found that acoustic monitoring offers a highly cost-effective approach to large-scale, long-term monitoring of vertebrate biodiversity, essential to evaluating and enhancing effective conservation action.",
+      "doi": "10.25903/3xtq-tk54",
+      "authors": [
+        "Sebastian Hoefer"
+      ],
+      "year": 2026,
+      "journal": "ResearchOnline - JCU (James Cook University)",
+      "openalex_id": "W7169122802",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169122802",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Sebastian Hoefer investigated the value of passive acoustic monitoring for terrestrial vertebrate biodiversity assessments in Australia. He found that acoustic monitoring offers a highly cost-effective approach to large-scale, long-term monitoring of vertebrate biodiversity, essential to evaluating and enhancing effect…",
+      "added": false
+    },
+    {
+      "title": "Emergent human–water interactions through the lens of the pluralistic water research approach—the case of the Garajonay National Park (La Gomera, Spain)",
+      "abstract": "Human activities have significantly altered Earth’s systems, necessitating a better understanding of human-water interactions within models that simulate Earth system processes. One of the major challenges in water resource management is identifying system elements and analyzing the interconnectedness in social-ecological systems and their adaptive feedbacks across multiple spatial and temporal scales. This study applies the Pluralistic Water Research (PWR) approach to analyse emergent human–water interactions in Garajonay National Park, La Gomera, Canary Islands, Spain, in relation to the period before and after the major wildfire in 2012. The PWR approach was chosen to translate plural stakeholder knowledge into a system-level diagnosis in a structured way that can support context-sensitive land and water management in coupled human–water systems. Focusing on the interactions among agriculture, tourism, and the protected cloud-forest system, the study combines document analysis, stakeholder interviews, and an eDPSIR-based causal mapping approach to identify key pressures, feedbacks, and response options. The analysis reveals five main feedback structures linking land abandonment, wildfire risk, water scarcity, pollution, ecosystem degradation, and stewardship, as well as five clusters of stakeholder responses related to education and awareness, ecotourism development, mobility and access regulation, landscape and fire-prevention management, and water governance and agricultural adaptation. The results show that dense environmental connectivity supports fog-dependent recharge, forest functioning, and water regulation under normal conditions. Under disturbance conditions, the same connectivity can amplify disturbance propagation when drought, fire, land abandonment, and localized human pressures interact. At the same time, social and institutional connections appear comparatively weak and fragmented, limiting coordinated responses across sectors. Resilience in Garajonay depends on the interplay between beneficial ecohydrological linkages, disturbance-sensitive feedbacks and adaptive governance capacity.",
+      "doi": "10.3389/frwa.2026.1844384",
+      "authors": [
+        "Glenda Garcia-Santos",
+        "Britta Höllermann",
+        "Prince Dacosta Aboagye",
+        "Ángel Fernández López",
+        "Mariele Evers"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Water",
+      "openalex_id": "W7169794033",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169794033",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Human activities have significantly altered Earth’s systems, necessitating a better understanding of human-water interactions within models that simulate Earth system processes.",
+      "added": false
+    },
+    {
+      "title": "Linking Molecular Composition of Organic Aerosols to Reactive Oxygen Species Formation Using an MCR-VK Framework",
+      "abstract": "Abstract. Reactive oxygen species (ROS) formation by atmospheric fine particulate matter (PM) is widely implicated in adverse health effects, yet the molecular determinants of particle-level ROS formation remain poorly constrained, largely due to the chemical complexity of organic aerosol (OA). Here, we link ROS formation to molecular-level OA composition by applying a maximum carbonyl ratio-Van Krevelen framework to ambient fine PM collected from four Chinese megacities, a German semi-urban site, a boreal forest, and laboratory-generated secondary organic aerosol (SOA) from multiple precursors. Using ultrahigh-resolution mass spectrometry combined with hydrogen peroxide (H2O2) and radical measurements, we show the intrinsic ROS (H2O2+radicals) formation potential of fine PM is governed by OA composition rather than particle mass. Volume-normalized ROS yields increase with fine PM mass concentration and dominate overall exposure in polluted urban environments. In contrast, mass-normalized ROS yields vary independently of particle loading and are strongly driven by the balance between relative fractions of oxidized organic compounds (RFOOC) and unsaturated organic compounds (RFUOC), i.e., RFOOC/RFUOC. Across urban sites, mass-normalized ROS and H2O2 yields exhibit strong correlations with RFOOC/RFUOC, establishing this metric as a robust predictor of ROS formation. Remote, biogenic-influenced aerosols exhibit higher RFOOC/RFUOC and higher ROS yields per unit mass, whereas urban aerosols exhibit the opposite behavior. Laboratory SOA further supports these composition-reactivity relationships, with OOC-rich biogenic SOA exhibiting the highest ROS yields. This study reveals molecular-level characteristics in governing aerosol ROS formation and introduces a framework for assessing health-relevant aerosol oxidative activity of chemically complex OA.",
+      "doi": "10.5194/egusphere-2026-3897",
+      "authors": [
+        "Fobang Liu",
+        "Yun Zhang",
+        "Siyao Yue",
+        "Helmi Keskinen",
+        "Tuukka Petäjä",
+        "Markku Kulmala",
+        "Pingqing Fu",
+        "Thorsten Hoffmann",
+        "Kai Wang",
+        "Haijie Tong"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7169868761",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169868761",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Reactive oxygen species (ROS) formation by atmospheric fine particulate matter (PM) is widely implicated in adverse health effects, yet the molecular determinants of particle-level ROS formation remain poorly constrained, largely due to the chemical complexity of organic aerosol (OA).",
+      "added": false
+    },
+    {
+      "title": "Class-Dependent Attribution of Optical and SAR Sensor Contributions in Land Cover Classification with SHAP and ROAR",
+      "abstract": "Multi-sensor fusion of optical and synthetic aperture radar (SAR) imagery is widely used for land cover classification, yet most studies treat heterogeneous sensors as a uniform feature pool, leaving class-dependent differences in sensor contribution insufficiently quantified. To address this gap, this study integrates optical and SAR imagery within a Random Forest (RF) classifier in Google Earth Engine (GEE) and applies a combined SHapley Additive exPlanations (SHAP)—Remove and Retrain (ROAR)—bootstrap framework to disentangle, for each class, which sensor provides which discriminative information and how faithful those attributions are. The dataset included Sentinel-1/2, Korea Multi-Purpose Satellite (KOMPSAT)-3A/5, and Landsat-8, representing a range of spatial resolutions and spectral characteristics. An RF-based machine learning (ML) model was employed to perform multi-sensor data fusion and classification. To address the inherent opacity of ML models, we employed the SHAP algorithm, an explainable artificial intelligence (XAI) method, to interpret classification decisions. SHAP analysis indicated that visible and near-infrared (NIR) bands, along with vegetation indices, were the dominant contributors to land cover classification in this study area, while SAR data provided complementary structural information for spectrally ambiguous targets, such as roads—a class-dependent role reflected in the stable rank ordering of the Sentinel-1 VV contribution across bootstrap replications, rather than in a formally significant magnitude difference. ROAR results were consistent with the top-ranked SHAP features being those on which the classifier relies, supporting a physically plausible interpretation of ML-based remote sensing classification. These attributions were robust to estimator choice (SHAP-permutation ρ = 0.89) and spatial partitioning (mean ρ = 0.97 across folds). The contribution of this study is methodological rather than algorithmic: it provides an integrated analytical framework that applies SHAP, ROAR, and bootstrap confidence intervals jointly to a specific multi-sensor land cover problem, demonstrating that interpretability and high classification accuracy can be reported together. The results demonstrate that optical and SAR fusion contribute differently across land cover classes rather than uniformly, providing practical, class-specific guidance for sensor selection in operational land cover mapping and improving the interpretability of machine learning-based mapping workflows.",
+      "doi": "10.3390/app16147247",
+      "authors": [
+        "Jeonghee Lee",
+        "Kwangseob Kim",
+        "Kiwon Lee"
+      ],
+      "year": 2026,
+      "journal": "Applied Sciences",
+      "openalex_id": "W7169768669",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169768669",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Multi-sensor fusion of optical and synthetic aperture radar (SAR) imagery is widely used for land cover classification, yet most studies treat heterogeneous sensors as a uniform feature pool, leaving class-dependent differences in sensor contribution insufficiently quantified.",
+      "added": false
+    },
+    {
+      "title": "\"Dark and Loathsome\": The Construction and Persistence of Racial Theology in the Church of Jesus Christ of Latter-day Saints",
+      "abstract": "The Church of Jesus Christ of Latter-day Saints banned Black men from holding the priesthood until 1978, a policy many mistake for the whole of the faith's engagement with race. This thesis argues that the priesthood ban was only a symptom of a far deeper theology of race, one built into Mormonism's broader theology from its founding. Two intertwined beliefs anchor this theology: the default whiteness of the human body and soul, and twin curse narratives that mark Black and Indigenous peoples alike as bearers of a divine curse— dark skin read as the visible penalty for their ancestors' sin. These narratives originate with Joseph Smith and the scriptural canon he produced; where the Book of Mormon's \"skin of blackness\" curse upon the Lamanites echoes the nineteenth-century Biblical Cain and Ham narratives long used to justify Black enslavement, and where the Pearl of Great Price's Book of Abraham later supplied the scriptural language used to withhold the priesthood from men of Black African descent. Smith's own record was inconsistent rather than absent: he defended Southern slaveholders and rebuked abolitionists even while running for the U.S. presidency on a platform of gradual, compensated emancipation, a contradiction this thesis reads as choice rather than the unavoidable prejudice of his era. Brigham Young then transformed this theology into enforceable policy, drawing on his own authority, independent of Smith, to formally bar Black members from priesthood and temple ordinances in 1852, a restriction that lasted roughly 126 years, while Mormon settlement of the Great Basin proceeded as a form of Manifest Destiny that displaced and subordinated Indigenous peoples even as it promised them eventual redemption through conversion and whitening. Prophets and laymen defended this framework as fixed doctrine well into the twentieth century, resisting mounting scientific, institutional, and civil-rights-era pressure until the 1978 revelation extending priesthood ordination to all worthy male members. Rather than treating 1978 as resolution, this thesis positions it as a false ending. The reversal addressed access to priesthood ordination without dismantling the curse narratives themselves, leaving the underlying theological architecture largely intact and setting the stage for the Church's slow, still-incomplete reckoning with this legacy, from the 2013 Gospel Topics essay disavowing the curse theory to recent institutional missteps that show the theology's continued residue.",
+      "doi": null,
+      "authors": [
+        "Margaret Phillips"
+      ],
+      "year": 2026,
+      "journal": "CSUSB ScholarWorks (California State University, San Bernardino)",
+      "openalex_id": "W7169928735",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169928735",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The Church of Jesus Christ of Latter-day Saints banned Black men from holding the priesthood until 1978, a policy many mistake for the whole of the faith's engagement with race.",
+      "added": false
+    },
+    {
+      "title": "Interactive Radiative Forcing Learning Tool To Connect Climate Science to Chemistry Curriculum",
+      "abstract": "High Resolution Image Download MS PowerPoint Slide Radiative forcing, the change in Earth’s energy balance since the beginning of the First Industrial Revolution in 1750, is the ultimate driver of climate change and one of the core Earth system processes that determines whether we are living within our planetary boundaries. Substances that are positive radiative forcers increase Earth’s energy imbalance and contribute to warming, while negative radiative forcers decrease Earth’s energy imbalance and cause cooling. Though radiative forcing is central to understanding the mechanisms that drive climate change, it is an unfamiliar concept to many chemistry students and the public. To bridge this knowledge gap, the King’s Centre for Visualization in Science (KCVS) has developed an online interactive learning tool to help students explore these concepts further and connect climate change to their learning of core chemistry content. The learning tool visualizes changes in radiative forcing over time and quantifies how each of the key substances’ interactions in the atmosphere have contributed to positive and negative radiative forcing. By engaging with this resource, students, educators, and the public can learn about the sources, impacts, and solutions to mitigate anthropogenic emissions of each radiative forcer. Initial assessment of the learning tool with undergraduate introductory chemistry students demonstrated that the learning tool was successful in increasing their foundational understanding of radiative forcing and its most important contributors.",
+      "doi": "10.1021/acs.jchemed.6c00436",
+      "authors": [
+        "Sarah Greidanus",
+        "Ashley K. Elgersma",
+        "Ava E. Griffioen",
+        "Leah A. Martin‐Visscher",
+        "Jeny B. Radadiya",
+        "Jeff Snyder",
+        "Rylee E. Van't Land",
+        "Peter G. Mahaffy"
+      ],
+      "year": 2026,
+      "journal": "Journal of Chemical Education",
+      "openalex_id": "W7169807489",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169807489",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "High Resolution Image Download MS PowerPoint Slide Radiative forcing, the change in Earth’s energy balance since the beginning of the First Industrial Revolution in 1750, is the ultimate driver of climate change and one of the core Earth system processes that determines whether we are living within our planetary bounda…",
+      "added": false
+    },
+    {
+      "title": "AI-Based Natural Disaster Prediction and Diagnosis System Using Random Forest with an Interactive Graphical User Interface",
+      "abstract": "Natural disasters with tremendous impacts on human lives, infrastructure, and ecosystems are frequent all over the world, which calls for intelligent, data-driven decision support systems for early diagnosis and effective crisis management. This paper demonstrates a Natural Disaster Diagnosis and Crisis Management System design and development featuring real-time environmental sensing, technological monitoring, and pre-emptive response planning within a unified decision-support framework. The proposed system include predict disasters using machine learning. It follows a modular architecture that integrates analytical risk assessment, formulation of preventive strategy, and dynamic action planning through an interactive GUI. NDDCMS structures disaster management into five operational phases, namely disaster diagnosis, early warning indicators, response during the disaster, post-disaster recovery, and preventive planning. Each phase integrates stepwise risk indicators and decision inputs to support officials and community response teams. It relies on quantifiable environmental parameters (e.g., precipitation, soil moisture, wind speed, and temperature fluctuation) and corresponding technological sensing mechanisms for the classification of risk levels and the improvement of early warning reliability. By focusing on a user-centered design and data-driven workflow, the system advances situational awareness, hastens decision-making, and closes the gap between disaster prediction and effective response. This framework enhances national and local-level disaster resilience by supporting viable risk reduction and crisis management strategies.",
+      "doi": "10.59256/ijsreat.20260604007",
+      "authors": [
+        "EL-Alfy A.E",
+        "Esmat Mona",
+        "Sakr Hagar"
+      ],
+      "year": 2026,
+      "journal": "International Journal Of Scientific Research In Engineering & Technology",
+      "openalex_id": "W7169803028",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169803028",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Natural disasters with tremendous impacts on human lives, infrastructure, and ecosystems are frequent all over the world, which calls for intelligent, data-driven decision support systems for early diagnosis and effective crisis management.",
+      "added": false
+    },
+    {
+      "title": "Modelos de previsão de impactos ambientais com inteligência artificial: uma revisão bibliométrica",
+      "abstract": "Este estudo examina a evolução da produção científica internacional sobre modelos de previsão de impactos ambientais baseados em algoritmos de Inteligência Artificial, com ênfase em técnicas de Machine Learning-ML aplicadas ao contexto das mudanças climáticas. O objetivo foi mapear tendências, identificar lacunas e avaliar a consolidação desse campo, considerando seu potencial de integração com métricas de sustentabilidade. A pesquisa utilizou métodos bibliométricos a partir de 631 artigos indexados na Web of Science entre 1945-2023, analisados com o pacote Bibliometrix no software R. Os resultados indicam crescimento exponencial das publicações a partir de 2016, acompanhado pela predominância de China, EUA e Índia tanto em volume quanto em influência científica. A aplicação das Leis de Bradford e Lotka revelou forte concentração da produção em poucos periódicos e elevada fragmentação autoral. A análise temática mostrou que machine learning, climate change e prediction models constituem os temas motores do campo, embora ainda focados em variáveis ambientais isoladas. Constatou-se ausência de modelos integrados que articulem previsões ambientais, impactos socioeconômicos e dimensões de governança, bem como inexistência de conexões sistemáticas entre técnicas de IA e indicadores ESG. Conclui-se que essa integração constitui uma fronteira promissora para pesquisas futuras e para a formulação de estratégias de sustentabilidade.",
+      "doi": "10.47456/bjpe.v12i5.53323",
+      "authors": [
+        "Graziela Luiz Franco Martinez",
+        "Michel Constantino",
+        "Hemerson Pistori"
+      ],
+      "year": 2026,
+      "journal": "Brazilian Journal of Production Engineering",
+      "openalex_id": "W7169802950",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169802950",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Este estudo examina a evolução da produção científica internacional sobre modelos de previsão de impactos ambientais baseados em algoritmos de Inteligência Artificial, com ênfase em técnicas de Machine Learning-ML aplicadas ao contexto das mudanças climáticas.",
+      "added": false
+    },
+    {
+      "title": "Economic optimization of climate adaptation for water security: an integrated water–energy nexus risk assessment framework",
+      "abstract": "The world faces unprecedented demands on water and energy infrastructure because of climate change, and a massive economic structure is needed to enable adaptation planning. This study presents a combined cost–benefit analysis that can be used to analyze climate adaptation strategies in the water and energy sectors. Our model is a multi-objective optimization model, where climate risk measurement, infrastructure vulnerability measurement, and economic evaluation of the measures for adaptation are combined. The proposed methodology uses indices of climate resilience, net present value (NPV), and benefit–cost ratio (BCR) to evaluate the efficiency of climate-adaptation investments. We analyze the adaptation scenarios of 25 countries based on available datasets on the World Bank Climate Change Knowledge Portal and from the International Energy Agency (IEA). The results show that the benefit–cost ratios for proactive adaptation investments range from 2.4 to 11.8, including high pay-off for investments in the water sector in drought-prone locations. The water–energy nexus approach shows there are synergistic benefits that can reduce the overall costs of adaptation by 18%–34% compared to that of sector-based planning. The study also provides a testable and valid economic decision support framework that enables water and energy resource managers to target climatic adaptation investments to the water–energy nexus, helping to facilitate the transition to creating more resilient infrastructure.",
+      "doi": "10.3389/fenvs.2026.1817765",
+      "authors": [
+        "Yunxia Ran",
+        "Fatma Ahmed Hassan",
+        "Waqar Ahmad",
+        "Valentin Marian Antohi",
+        "Costinela Forțea",
+        "Monica Laura Zlati",
+        "Teodora Odett Breaz",
+        "Fuhaid Alshammari"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Environmental Science",
+      "openalex_id": "W7169861464",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169861464",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The world faces unprecedented demands on water and energy infrastructure because of climate change, and a massive economic structure is needed to enable adaptation planning. This study presents a combined cost–benefit analysis that can be used to analyze climate adaptation strategies in the water and energy sectors.",
+      "added": false
+    },
+    {
+      "title": "Unresolved: Deciphering the Biosphere’s Role in the Earth System",
+      "abstract": "Abstract. A central tenet of Earth system science is that Earth's macroscopic environmental conditions reflect the co-evolution of the biosphere and the geosphere. Nevertheless, a universal theory of the biosphere's role in the Earth system remains elusive. This paper reviews the state of knowledge and reflects on future directions from the perspective of scientifically understanding Earth as an integrated whole. Four biosphere dimensions need to be considered in developing a theoretical foundation for the biosphere’s role in the Earth system: physical, i.e., physics-based influences of life on planetary state, such as through albedo, roughness length, and latent energy fluxes; chemical, i.e., the material operations of the biosphere as part of the planetary biogeochemical cycles, chemically linking biotic and abiotic components of the Earth system; biological, i.e., the genetic programme (biodiversity) and its derived structures required to operate the organisms of a functional biosphere performing the Earth system functions; and ecological, i.e., the formations of organisms into ecosystems and their biotically altered larger environments as conduits of life for exerting macro-scale influence on Earth as a whole, by performing Earth system functions as a biosphere that is more than the sum of its parts. Today, it is primarily the physical and chemical dimensions that are included in Earth system models and their biogeochemical submodels, while empirical studies on the biological dimension often focus on limited geographical areas and species enumeration, and only to a lesser extent on systemic effects. For studying the biosphere’s role in the Earth system, a comprehensive approach across scales is required. Owing to its shared genes and evolutionary history, we argue that the biosphere can be regarded as a single global entity. However, biosphere-geosphere interactions and their Earth system consequences differ geographically and between the marine and terrestrial realms, with the terrestrial biosphere generally influencing Earth conditions more directly and over shorter time scales than the marine. A better understanding (working towards the development of a more universal theory) of the biosphere’s role in the Earth system is needed to advance Earth system science and, not least, for developing better capacity for prediction of Earth’s responses to anthropogenic perturbations. More systematic collaboration than currently occurring is required between biogeophysics, biogeochemistry, biodiversity science (extending to traits and functions), ecosystem science, and land systems research.",
+      "doi": "10.5194/egusphere-2026-3870",
+      "authors": [
+        "Wolfgang Lucht",
+        "Katherine Richardson",
+        "Jørgen Bendtsen",
+        "Boris Sakschewski",
+        "Johan Rockström"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7169755578",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169755578",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract. A central tenet of Earth system science is that Earth's macroscopic environmental conditions reflect the co-evolution of the biosphere and the geosphere. Nevertheless, a universal theory of the biosphere's role in the Earth system remains elusive.",
+      "added": false
+    }
+  ]
+}
