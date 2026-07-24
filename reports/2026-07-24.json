@@ -1,0 +1,361 @@
+{
+  "date": "2026-07-24",
+  "statistics": {
+    "fetched": 96,
+    "duplicates_removed": 82,
+    "evaluated": 14,
+    "added": 3,
+    "ignored": 11,
+    "average_score": 2.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Economic Growth, Globalization, Renewable Energy, and Trade Openness as Drivers of Carbon Emissions in the United States: Evidence Under Non-Normal Errors",
+      "abstract": "In this study, carbon emissions determinants are examined in the United States using annual data from 1990 to 2020. Explanatory variables in the empirical model are economic growth, globalization, renewable energy consumption and trade openness. Unit root tests without and with structural breaks show that all variables are incorporated of order one, I (1). It is confirmed that the long-run relationship exists with the Bayer and Hanck combined cointegration approach and the Residual Augmented Least Square Engle-Granger (RALS-EG) cointegration test, respectively. Results indicate that CO2 emissions increase with economic growth and globalization whereas renewable energy consumption reduces emissions. Trade openness has an effect across model specifications. Trade openness reduces emissions of carbon in the constant model but raises emissions in the constant-with-trend specification, so it may have an environmental impact depending on underlying economic conditions as well as structural changes over time. Overall, the findings imply that renewable energy can help restrict long-term carbon emissions. They also point out that economic growth, globalization and trade openness may have environmental consequences when designing policies for sustainable development and emission reduction.",
+      "doi": "10.3390/en19143439",
+      "authors": [
+        "Gökhan KONAT",
+        "Ahmet Koncak",
+        "Oktay Kızılkaya",
+        "Ayşegül Han",
+        "Umut Turgut Yıldırım",
+        "Sena Şahin"
+      ],
+      "year": 2026,
+      "journal": "Energies",
+      "openalex_id": "W7169831032",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169831032",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 88%: matched 4/9 key interest terms (drivers, states, united, united states)",
+      "tags": [
+        "Drivers",
+        "States",
+        "United",
+        "United States"
+      ],
+      "summary": "In this study, carbon emissions determinants are examined in the United States using annual data from 1990 to 2020. Explanatory variables in the empirical model are economic growth, globalization, renewable energy consumption and trade openness.",
+      "added": true
+    },
+    {
+      "title": "Prescribed fire effects on soil organic matter in a eucalypt forest previously affected by severe wildfire",
+      "abstract": "Wildfires are integral to the dynamics of many ecosystems yet shifting fire regimes around the world pose challenges for biodiversity, carbon (C) cycling, and soil conservation. Prescribed fires (PF) are widely used to mitigate wildfire risk, yet their ecological consequences in areas previously affected by wildfires remain poorly understood. This study examines quantitative and qualitative impacts of a low-to-moderate severity PF on soil organic matter (SOM) in a dry eucalypt forest of the Greater Sydney area (Australia), 13 years after a severe wildfire. During the PF, temperatures in the litter layer and Oa horizon reached ∼900 °C, exceeding 300 °C for up to 4 min. In contrast, in the Ah horizon (0–2 cm) of the mineral soil, temperatures remained below 60 °C. The PF strongly affected soil surface SOM quantity, reducing the C stock by ∼87% (9.1 to 1.1 Mg ha −1 ). Thermal analysis (TG-DSC) and 13 C NMR spectroscopy revealed qualitative SOM transformations once the litter and the Oa horizon became ash, increasing thermal recalcitrance, reducing C-labile fractions, and a dominance of aromatic C, indicating incomplete combustion and pyrogenic C formation. By contrast, the Ah horizon (0–2 cm) showed limited changes but presented a highly recalcitrant SOM, probably reflecting the legacy of the previous severe wildfire. These findings highlight a critical trade-off presented by using PF in fire-prone eucalypt forests: while effectively reducing fuel loads, PF significantly diminished SOM stocks, but also increased the thermal recalcitrance of remaining SOM. These changes can be expected influence post-fire C cycling and enhance the persistence of this C pool in surface soil horizons. By examining both immediate PF effects and the legacy of a previous wildfire, this study contributes to a better understanding of SOM dynamics in fire-prone ecosystems and highlights the importance of considering soil C transformations when using PF as a fire-prevention tool.",
+      "doi": "10.1016/j.catena.2026.110423",
+      "authors": [
+        "Pablo Souza-Alonso",
+        "Stefan Doerr",
+        "Agustı́n Merino",
+        "Christian J. Chafer",
+        "Sol de Jesús Moreno-Roso",
+        "Cristina Santín"
+      ],
+      "year": 2026,
+      "journal": "CATENA",
+      "openalex_id": "W7169842993",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169842993",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 54%: matched 3/9 key interest terms (wildfires, wildfire, prescribed)",
+      "tags": [
+        "Wildfires",
+        "Wildfire",
+        "Prescribed"
+      ],
+      "summary": "Wildfires are integral to the dynamics of many ecosystems yet shifting fire regimes around the world pose challenges for biodiversity, carbon (C) cycling, and soil conservation.",
+      "added": true
+    },
+    {
+      "title": "Medium-term urban business recovery after COVID-19: cross-country evidence after the outbreak",
+      "abstract": "Abstract. To identify factors associated with medium-term business recovery, this study analyzes large-scale survey data on businesses located in diverse urban contexts around the world. While most studies of business recovery focus on the short term, the factors influencing short-term recovery may differ from those important in the medium term. This study provides cross-country evidence four to five years after the COVID-19 outbreak, based on a survey of 3,454 firms across seven global regions, including major cities in Canada, the United States, the European Union, New Zealand, South Africa, Thailand, and Japan, with 35 % of firms located in downtown districts. Across 26 variables, including policy measures, business characteristics, and strategies, several consistent patterns emerge. Non-governmental mentoring and training show the strongest positive association with sales recovery, exceeding the effects of loans and subsidies, highlighting the importance of non-financial support. By contrast, smaller firms (1–19 employees) exhibit persistently lower recovery levels and rely more heavily on personal funds, indicating structural vulnerability. While some conventional comparisons align with prior expectations, substantial heterogeneity is observed across regions and sectors. In particular, regional context and sectoral composition significantly influence the effectiveness of adaptation and policy measures. These findings provide new cross-country and urban-level evidence on medium-term SME recovery and highlight the importance of tailored, region- and sector-specific policy design to strengthen business resilience against future systemic shocks.",
+      "doi": "10.5194/egusphere-2026-3993",
+      "authors": [
+        "Yoshio Kajitani",
+        "Maria Watson",
+        "Stephanie E. Chang",
+        "Elsamari Botha",
+        "Sophie Buijs",
+        "Siriporn Darnkachatarn",
+        "Sahar Derakhshan",
+        "Marleen de Ruiter",
+        "Juri Kim",
+        "Sanna Malinen",
+        "Bernard Walker"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7169825978",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169825978",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 42%: matched 4/9 key interest terms (states, united, large, united states)",
+      "tags": [
+        "States",
+        "United",
+        "Large",
+        "United States"
+      ],
+      "summary": "Abstract. To identify factors associated with medium-term business recovery, this study analyzes large-scale survey data on businesses located in diverse urban contexts around the world.",
+      "added": true
+    },
+    {
+      "title": "Methods and Models for Disaster Risk Reduction in Urban Areas Through Transport Systems: Research Directions from Planning, Training, TSM, e-ICT",
+      "abstract": "Disaster risk reduction, both natural and man-made, is a global priority and is in line with the goals of the 2030 Agenda, defined on the basis of what happened at the beginning of the millennium, starting with the disaster in human lives caused by Katrina in New Orleans. However, there is a scientific gap between the level of risk and the planned risk mitigation measures, with the related training and exercise actions implemented before real-life emergencies happen. In the context of Transport Risk Analysis (TRA), the size of exposure (E), in particular its reduction through evacuation, has been little studied, unlike the dimensions of occurrence (O) and vulnerability (V). This study aims to provide a framework of the scientific literature on the risk exposure component (graphical abstract) in urban transport systems, focusing on four macro areas: planning process; training and exercises; advanced Transport System Models (TSM); and use of emerging ICT (e-ICT). The study has been carried out using forward snowball techniques on a selected sample of the literature. The final set of references comprises 165 publications: 149 retrieved from Scopus (including records assessed at abstract level) and 16 retrieved via Google Scholar and forward-citation snowballing. The publications are distributed across the four macro-areas as follows: 68 concern the planning process, 24 training and exercises, 61 advanced Transport System Models, and 12 the use of e-ICT. The four macro-areas were examined both individually and in their mutual intersections, since several publications address more than one area simultaneously. Each work was classified under its predominant area for tabulation purposes. The analysis shows that the literature examined provides unequal coverage of the four broad areas. Whilst contributions relating to the planning process and modeling are relatively well-established, the integration of ICT with advanced transport system models in the context of transport risk analysis remains extremely limited. Approaches based on forecasts for outdoor evacuation are largely absent, and research into training and drill activities lags behind that on planning models. The framework developed in this work is useful to researchers, policy makers and public sector technicians involved in emergency management, as it offers a clear framework to guide future work in both research and operational action.",
+      "doi": "10.3390/su18147444",
+      "authors": [
+        "Francesco Russo",
+        "Marialuisa Moschella"
+      ],
+      "year": 2026,
+      "journal": "Sustainability",
+      "openalex_id": "W7169876843",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169876843",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/9 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Disaster risk reduction, both natural and man-made, is a global priority and is in line with the goals of the 2030 Agenda, defined on the basis of what happened at the beginning of the millennium, starting with the disaster in human lives caused by Katrina in New Orleans.",
+      "added": false
+    },
+    {
+      "title": "Global assessment of merged multi-sensor ocean-colour chlorophyll-a products",
+      "abstract": "Chlorophyll a (Chl a), a proxy for phytoplankton biomass, is an important variable used to assess the health and state of the oceans, which are under increasing anthropogenic pressure.With the availability of global ocean-colour Chl a that now spans 25 years, there has been a concerted effort to produce merged data products to assess changes in Chl a over the global ocean as a result of both natural cycles and anthropogenic effects. To date, there has been no independent and rigorous assessment of the performance of these Chl a products to allow users to select the most suitable product, which is the objective of this paper. For this, we assembled a large global in situ dataset resulting in > 13000 in situ Chl a-satellite matchup data points. A comprehensive suite of merged ocean-colour products were assessed, which include two OC-CCI data streams (OC-CCI v5 and OC-CCI v6), two GlobColour data streams (using weighted averaging [AVW] and the GSM model) and the Copernicus Marine Environment Monitoring Service (CMEMS) GlobColour L3 and L4 and CMEMS-CCI products. The validation analysis showed that all these ocean-colour merged data products exhibited consistent results with the in situ Chl a data with an RPD of 15% (after removal of one dataset that was consistently overestimated by all products).",
+      "doi": "10.3389/frsen.2026.1825086",
+      "authors": [
+        "Silvia Pardo",
+        "Gavin H. Tilstone",
+        "Giorgio Dall’Olmo",
+        "Thomas Jordan",
+        "Robert J. W. Brewin",
+        "Tânia Casal"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Remote Sensing",
+      "openalex_id": "W4400907001",
+      "citation_count": 1,
+      "url": "https://openalex.org/W4400907001",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Chlorophyll a (Chl a), a proxy for phytoplankton biomass, is an important variable used to assess the health and state of the oceans, which are under increasing anthropogenic pressure.With the availability of global ocean-colour Chl a that now spans 25 years, there has been a concerted effort to produce merged data pro…",
+      "added": false
+    },
+    {
+      "title": "Meteorological and Land-Cover Controls on Grassland Fire Behaviour by WRF v4.4-SFIRE v0.1 with the computational optimization",
+      "abstract": "Abstract. Under global warming, grassland wildfire risk has increased substantially. The WRF-SFIRE model was applied to the extreme grassland wildfire that occurred in Inner Mongolia in 2023, with satellite-derived fire perimeters used to evaluate the effects of meteorological forcing, land cover, and key driving factors on fire behavior, as well as to optimize model performance. For meteorological forcing, the FNL 6 h two-way coupling configuration achieved the highest spatial agreement with observations, with a recall of 39.1 %, whereas ERA5 was more sensitive to short-term meteorological variability but tended to overestimate fire spread. For land cover, FROM_GLC30 (2017) showed relatively high overall agreement but tended to overexpand the fire, GlobeLand30 (2020) produced more conservative simulations, and GLC_FCS30D (2022) achieved the best overall performance. Fire-atmosphere feedback significantly enhanced fire spread rate and burned area. Wind speed exerted the strongest influence on burned area and spread distance, relative humidity mainly controlled spread rate and flame length, and air temperature played a secondary role. Among the fuel-related parameters, fuel load mainly affected flame intensity, fuel depth dominated burned area variation, and fuel moisture effects mainly regulated spread rate. In addition, the optimized computational configuration, particularly the combined use of PNetCDF and asynchronous I/O, reduced runtime by 29.3 % relative to the baseline case. These results clarify the differential effects of input data and key driving factors on grassland fire behavior simulations and provide more reliable support for fire risk warning and management.",
+      "doi": "10.5194/egusphere-2026-3195",
+      "authors": [
+        "Mengjie Lou",
+        "Qizhong Wu",
+        "Yongli Wang",
+        "B Z Zhang",
+        "Jinhua Tao",
+        "Pu Gan",
+        "Huaqiong Cheng",
+        "Jiating Zhang",
+        "Jiahuan He",
+        "Meng Fan"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7170036615",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170036615",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract. Under global warming, grassland wildfire risk has increased substantially. The WRF-SFIRE model was applied to the extreme grassland wildfire that occurred in Inner Mongolia in 2023, with satellite-derived fire perimeters used to evaluate the effects of meteorological forcing, land cover, and key driving facto…",
+      "added": false
+    },
+    {
+      "title": "Slash and burn treatments effectively reduce post-fire recruitment of the invasive shrub Hakea decurrens",
+      "abstract": "Invasion of native Mediterranean vegetation by fire-adapted plant species may create a feedback loop where fire facilitates the invasion process which, in turn, increases fire hazard due to fuel accumulation. This relationship may pose challenges for ecosystem management since fuel reduction and invasion control are often constrained by restrictions in the use of prescribed fire and other disturbance-based control approaches. This is the case for Hakea decurrens , an Australian woody species, which regenerates after fire through seedling recruitment. Here, we investigated the regeneration processes of H. decurrens using different treatment alternatives aimed at finding better management solutions. The objectives of this study were to examine: 1) the effects of different combinations of Slash and Burn treatments on seedling establishment of H. decurrens ; 2) the plant attributes that favour resprouting after Slash; and 3) the effects of fire-related heat exposure on follicle dehiscence and seed viability. Four treatment plots were established on five stands of H. decurrens : Burn, Slash, Slash &amp; Burn, and Control. Treatments were applied once per plot, with Slash and Slash &amp; Burn treatments introduced at different times across sites, and plots were monitored for 1080 days to assess seedling density and resprouting capacity. Additionally, fruits (follicles) were exposed to different heat residence times and seed viability tested to evaluate responses to fire. Slash and Slash &amp; Burn treatments were more effective in reducing H. decurrens seedling densities than the Burn treatment alone. Resprouting following slashing decreased with increasing trunk basal diameter and was virtually absent above ~3 cm. When follicles were exposed to experimental fire for 120 s or more, seed viability decreased, approaching zero at 180 s. The results of this study indicate that Slash and Slash &amp; Burn techniques are effective for initial control of H. decurrens . However, control of this species requires several interventions to deal with new seedlings, and invaded areas must be monitored and integrated into recovery programmes, especially where fires are frequent.",
+      "doi": "10.3897/neobiota.108.173099",
+      "authors": [
+        "Dionatan Gerber",
+        "João C. Azevedo",
+        "Elizabete Marchante",
+        "Ernesto Deus",
+        "Mauro Nereu",
+        "Joaquim S. Silva"
+      ],
+      "year": 2026,
+      "journal": "NeoBiota",
+      "openalex_id": "W7169828002",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169828002",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (prescribed)",
+      "tags": [
+        "Prescribed"
+      ],
+      "summary": "Invasion of native Mediterranean vegetation by fire-adapted plant species may create a feedback loop where fire facilitates the invasion process which, in turn, increases fire hazard due to fuel accumulation.",
+      "added": false
+    },
+    {
+      "title": "Pioneering Preventive Preservation: The role of remote sensing in Cultural Heritage",
+      "abstract": "In Europe, the preventive preservation of cultural heritage sites has emerged as a pressing priority in response to the escalating challenges posed by climate change. The current climate crisis, marked by unprecedented temperature fluctuations and a surge in severe climate-related impacts, poses serious risks to these cultural landmarks. Factors such as rising temperatures, extreme weather events, sea level rises, and shifting precipitation patterns accelerate degradation, heighten erosion and flooding risks, compromise the static integrity of monuments, and foster the growth of biodeterioration agents that can further burden these landmarks. In this context, it is recognized that remote sensing as a means of preventive preservation can be a critical tool for proactive heritage preservation, ensuring that these invaluable sites endure for future generations. This paper aims to present the current state of the art regarding remote sensing in cultural heritage through relevant case studies and projects, with a primary focus on the European-funded ARGUS project, which integrates remote sensing data with digital twins to develop non-destructive, scalable monitoring strategies for remote built heritage. Through a comparative analysis, the paper will also attempt to explore the existing limitations and challenges in employing remote sensing technologies for the proactive conservation of cultural heritage sites. Moreover, the paper emphasizes the critical importance of interdisciplinary collaboration among conservation experts, technologists, heritage stakeholders, and policymakers. Such partnerships are vital for addressing existing gaps and driving innovation in cultural heritage preservation. Significant progress has already been made at the European level, fostering initiatives that unite diverse projects into a collaborative ecosystem. These consortia facilitate the exchange of knowledge and best practices, identify opportunities for joint dissemination and communication efforts, and provide cohesive, actionable recommendations to policymakers within the European Union and beyond. In conclusion, this paper examines the potential of integrating remote sensing technologies into the proactive preservation of cultural heritage in response to the escalating challenges of climate change. By tackling these issues, it aspires to outline a multi-faceted approach that combines advancements in remote sensing with robust interdisciplinary collaboration and targeted policy recommendations. Ultimately, the goal is to provide actionable insights that can enhance the resilience and sustainability of cultural heritage sites ensuring their protection for future generations in an increasingly vulnerable environmental context.",
+      "doi": "10.24072/pcjournal.728",
+      "authors": [
+        "Despoina Tsiafaki",
+        "Natasa Michailidou",
+        "Melpomeni Karta",
+        "Vasiliki Sirakouli"
+      ],
+      "year": 2026,
+      "journal": "Peer Community Journal",
+      "openalex_id": "W7169864175",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169864175",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "In Europe, the preventive preservation of cultural heritage sites has emerged as a pressing priority in response to the escalating challenges posed by climate change.",
+      "added": false
+    },
+    {
+      "title": "Dilema Anarki: Strategi Intervensi Tidak Langsung NATO dalam Konflik Rusia-Ukraina",
+      "abstract": "Penelitian ini membahas dinamika konflik Rusia–Ukraina dalam kaitannya dengan ekspansi NATO serta implikasinya terhadap arsitektur keamanan internasional pasca-2022. Kajian ini menggunakan pendekatan kualitatif deskriptif-analitis dengan 1 memanfaatkan data sekunder yang berasal dari jurnal ilmiah, dokumen resmi NATO, laporan lembaga internasional, serta berbagai literatur strategis dan hubungan internasional. Penelitian ini dianalisis menggunakan teori Neorealisme Struktural Kenneth Waltz, konsep security dilemma Robert Jervis, dan teori deterrence strategy dari Thomas Schelling serta Bernard Brodie. Hasil penelitian menunjukkan bahwa ekspansi NATO ke kawasan Eropa Timur dipersepsikan Rusia sebagai ancaman strategis terhadap keamanan nasional dan keseimbangan kekuatan regional. Kondisi tersebut memunculkan security dilemma antara Rusia dan NATO yang kemudian mendorong eskalasi konflik di Ukraina. Di sisi lain, NATO menerapkan strategi intervensi tidak langsung melalui bantuan militer, intelijen, dan logistik kepada Ukraina guna memperkuat deterrence tanpa terlibat dalam konfrontasi langsung dengan Rusia. Sebagai respons, Rusia mengembangkan doktrin militer modern yang menekankan perang hibrida, strategi anti-access/area denial (A2/AD), modernisasi militer, serta penggunaan ancaman nuklir sebagai instrumen penangkalan. Penelitian ini juga menemukan bahwa perang Rusia-Ukraina telah menyebabkan perubahan besar dalam tatanan keamanan internasional, termasuk remilitarisasi Eropa, perluasan NATO, dan munculnya polarisasi geopolitik baru antara blok Barat dan kekuatan revisionis seperti Rusia dan Tiongkok. Dengan demikian, konflik Rusia-Ukraina mencerminkan kembalinya kompetisi kekuatan besar dalam sistem internasional yang anarkis dan semakin kompleks.",
+      "doi": "10.14710/jirud.v11i1.58952",
+      "authors": [
+        "Annisa Khaira",
+        "Keisya Imani Murad",
+        "Suyani Marth",
+        "Fatoumata Sonko"
+      ],
+      "year": 2026,
+      "journal": "Journal of International Relations Diponegoro.",
+      "openalex_id": "W7170031549",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170031549",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Penelitian ini membahas dinamika konflik Rusia–Ukraina dalam kaitannya dengan ekspansi NATO serta implikasinya terhadap arsitektur keamanan internasional pasca-2022.",
+      "added": false
+    },
+    {
+      "title": "Resilience in healthcare workers: a global scoping review and evidence gap mapping of climate change-related health literacy and attitudes influencing adaptive practice",
+      "abstract": "Abstract Aim Climate change poses increasing challenges for healthcare systems, with healthcare workers (HCWs) at the frontline of acute events and chronic stressors. This scoping review aims to synthesise empirical evidence on climate-related health literacy, beliefs, and attitudes among healthcare workers and to examine the factors that influence their resilience and adaptive practices. Subject and methods This review followed the Joanna Briggs Institute framework and PRISMA-ScR guidelines. Seven electronic databases (PubMed, MEDLINE, Scopus, Web of Science, EMBASE, CINAHL, and PsycINFO) were systematically searched for quantitative, qualitative, and mixed-methods studies published between 2014 and 2025. Data were extracted using standardised forms and synthesised through descriptive and thematic analysis. The protocol was pre-registered on OSF ( https://doi.org/10.17605/OSF.IO/2F9S3 ). Results Thirty-one studies met the inclusion criteria. HCWs generally demonstrated moderate-to-high climate-health literacy and positive attitudes towards engagement; however, the translation of these attitudes into adaptive practice remained limited. Resilience was insufficiently explored across studies. Key facilitators of adaptive practice and resilience identified in the review included competency-based training, supportive leadership, operational tools, organisational culture, and cross-sector collaboration. Barriers comprised fragmented governance, resource constraints, high workloads, and limited access to training. Conclusion This review highlights that climate change influences HCWs’ adaptive capacity and resilience; however, critical gaps remain in translating climate-health literacy, beliefs, and attitudes into sustained adaptive and resilient practice. Strengthening HCWs’ resilience requires coordinated, multi-level interventions (workforce development, strengthened governance, and integration of climate considerations into health systems). These efforts are essential to ensure resilient, adaptive, and sustainable healthcare delivery amid escalating climate-related challenges.",
+      "doi": "10.1007/s10389-026-02851-8",
+      "authors": [
+        "Amensisa Hailu Tesfaye",
+        "Jason Prior",
+        "Jemal Ebrahim Shifa",
+        "Erica McIntyre"
+      ],
+      "year": 2026,
+      "journal": "Journal of Public Health",
+      "openalex_id": "W7169849932",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169849932",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Aim Climate change poses increasing challenges for healthcare systems, with healthcare workers (HCWs) at the frontline of acute events and chronic stressors.",
+      "added": false
+    },
+    {
+      "title": "Atmospheric chemistry: from the gas phase to the multiphase system",
+      "abstract": "The chemistry of the atmosphere, with a focus on its transition from gas to particle phases, is described. Emphasis is placed on how our understanding of this chemistry has evolved over time, reaching the current point, where every atmospheric compartment can be modeled, helping to tackle the emergent issues of air pollution and climate change. The main reactions occurring in the different compartments and contributing to the final observed aerosol compositions are presented. The different possible pathways of compounds, from their emission to their presence in aerosol particles, passing through an interface to reach a bulk aqueous phase, are pedagogically described. The goal is to provide the reader with the opportunity to understand key aspects of this important field of chemistry and to offer insights into how it has evolved over the years, also touching on new and still little-explored facets, such as surface reactions.",
+      "doi": "10.1007/s40828-026-00226-w",
+      "authors": [
+        "Daniele Scheres Firak",
+        "Thomas Schaefer",
+        "Mujahid Ali",
+        "Hartmut Herrmann"
+      ],
+      "year": 2026,
+      "journal": "ChemTexts",
+      "openalex_id": "W7169839576",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169839576",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The chemistry of the atmosphere, with a focus on its transition from gas to particle phases, is described. Emphasis is placed on how our understanding of this chemistry has evolved over time, reaching the current point, where every atmospheric compartment can be modeled, helping to tackle the emergent issues of air pol…",
+      "added": false
+    },
+    {
+      "title": "Fuel breaks need more regime-scale empirical research: insights from a rapid evidence review",
+      "abstract": "Background Fuel breaks are a linear form of fuel modification designed to modify fire behaviour and facilitate management objectives such as suppression and asset protection. Aims This study aimed to rapidly review published evidence concerning the effectiveness of fuel breaks, including contributing factors, to understand their potential for achieving management objectives. Methods We progressively refined selections of journal articles until we arrived at studies that took empirical, quantitative approaches to determining the influence of multiple predictors on the effectiveness of fuel breaks at the regime scale i.e. multiple fires over multiple years. We conducted a parallel, non-reproducible review of technical documents. Key results From an initial pool of 1585 scientific journal articles, only six articles took an empirical, quantitative approach to assessing fuel break effectiveness at the regime scale. Conclusions The six selected studies suggest that fuel breaks can modify fire behaviour and support suppression efforts. However, this effectiveness depends on many factors including weather, fire behaviour, suppression resource availability, vegetation type and condition, and fuel break width, accessibility and maintenance. Importantly, fuel break performance declines substantially under extreme weather conditions. Implications More regime-scale empirical research is needed to support fuel break use for fire management across diverse fire regimes.",
+      "doi": "10.1071/wf26057",
+      "authors": [
+        "Hamish Clarke",
+        "Alexandra D. Syphard",
+        "Erica Marshall",
+        "C. Symon"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7169845436",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169845436",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Background Fuel breaks are a linear form of fuel modification designed to modify fire behaviour and facilitate management objectives such as suppression and asset protection.",
+      "added": false
+    },
+    {
+      "title": "&lt;b&gt;An Epidemic of Stigma: The Stigmatization of COVID-19 First Responders in Pagadian City, Philippines&lt;/b&gt;",
+      "abstract": "This study analyzed the experiences of public stigma and self-stigma by four groups of first responders during the COVID-19 pandemic, namely, fire responders, police officers, hospital workers, and barangay health workers in Pagadian City, Philippines. The concepts of public stigma and self-stigma developed by Pescosolido and Martin (2015) were used. A mixed-methods design guided data collection with 225 survey participants and 14 in-depth interview respondents. Data reveal that physical distancing, exclusion, and harboring the perception that first responders are health threats were common forms of public stigma. This was corroborated by the finding that hospital and barangay health workers recorded the highest levels of public stigma. Close proximity to COVID-19 patients, despite wearing personal protective equipment during work, is the only reason cited. Registering significantly lower levels of stigma are the fire responders. It is interesting to note from the data how first responders converted public stigma to self-stigma, with the latter characterized by diminished self-image and increased anticipation of discrimination from anybody. Respondents' narratives described how stigma would create tension in all the spaces they occupied. Instead of escalating tension into conflict, respondents felt empathy understanding the public’s fear of infection. The findings stress that stigma, especially during widespread health crises such as pandemic, operates along a socially embedded process specifically shaped by how risk is perceived, trust in health institutions, and occupational visibility. By highlighting both external and internal dimensions of stigma, this study contributes to a more contextualized understanding of work-related stigmatization in the Philippine setting.",
+      "doi": "10.62071/yt4ay958",
+      "authors": [
+        "Joel Jan Alvarez",
+        "Jay Rey Alovera"
+      ],
+      "year": 2026,
+      "journal": "Langkit Journal of Social Sciences and Humanities",
+      "openalex_id": "W7170090630",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170090630",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "This study analyzed the experiences of public stigma and self-stigma by four groups of first responders during the COVID-19 pandemic, namely, fire responders, police officers, hospital workers, and barangay health workers in Pagadian City, Philippines.",
+      "added": false
+    },
+    {
+      "title": "State Responsibility for Climate-Harmful Development: China's Governance Gap in Coal Policy Implementation",
+      "abstract": "China's continued expansion of coal projects has intensified tensions between national development priorities and international climate commitments. Although China has pledged to mitigate climate change under the UNFCCC and the Paris Agreement, the persistence of coal-based development raises important questions regarding the implementation of these commitments through domestic governance. This study examines China's coal policy from the perspective of state responsibility under international environmental law, focusing on the principles of no-harm, due diligence, precaution, and the normative framework of the Paris Agreement. Using a normative legal research approach, the study analyzes the relationship between international legal obligations and domestic policy implementation. The findings show that the principal challenge lies not in the absence of international legal standards but in the governance gap between central climate commitments and provincial implementation of coal policies, resulting in inconsistent enforcement of environmental obligations.",
+      "doi": "10.25041/aelr.v7i2.5189",
+      "authors": [
+        "Yordan Gunawan",
+        "Safira Ayu Tri Ariyani",
+        "M. Fabian Akbar",
+        "Manuel Beltrán Genovés"
+      ],
+      "year": 2026,
+      "journal": "Administrative and Environmental Law Review",
+      "openalex_id": "W7169892311",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169892311",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "China's continued expansion of coal projects has intensified tensions between national development priorities and international climate commitments. Although China has pledged to mitigate climate change under the UNFCCC and the Paris Agreement, the persistence of coal-based development raises important questions regard…",
+      "added": false
+    }
+  ]
+}
