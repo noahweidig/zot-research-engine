@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-28",
+  "statistics": {
+    "fetched": 107,
+    "duplicates_removed": 101,
+    "evaluated": 6,
+    "added": 2,
+    "ignored": 4,
+    "average_score": 2.33
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Artificial Intelligence-Driven Optimization of Food Transportation Systems for Enhancing Food Security, Supply Chain Resilience, and Operational Efficiency in the United States",
+      "abstract": "Food transportation is a critical yet under-optimized component of United States food security, linking farms, processors, distribution centres, retailers, food banks, and consumers across geographically dispersed and disruption-prone networks.Existing systems are constrained by fragmented data, empty backhauls, cold-chain failures, port and highway congestion, driver shortages, severe weather, fuel-price volatility, and unequal access in rural, low-income, and disaster-affected communities.This study develops an artificial intelligence-driven optimization framework tailored to US food logistics.The framework integrates machine-learning demand forecasts, real-time traffic and weather data, vehicle-routing algorithms, predictive maintenance, dynamic fleet allocation, and IoT-based temperature monitoring to coordinate refrigerated and non-refrigerated food movements.It prioritizes perishability, nutritional importance, delivery urgency, infrastructure capacity, and regional vulnerability when generating transport decisions.The proposed system also models disruption scenarios, including hurricanes, wildfires, floods, cyber incidents, and distribution-centre outages, enabling rapid rerouting and inventory rebalancing across states.Expected outcomes include lower spoilage, fewer stockouts, reduced vehicle miles, improved cold-chain compliance, faster emergency food delivery, and more reliable service to underserved areas.By embedding resilience, equity, and sustainability into transport optimization, the framework provides a practical pathway for strengthening national food availability, reducing logistics costs, and improving the overall responsiveness of the US food supply chain.",
+      "doi": "10.7753/ijcatr1412.1017",
+      "authors": [
+        "Oluwakemi Arowosegbe"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Computer Applications Technology and Research",
+      "openalex_id": "W7171230907",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171230907",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 4/7 key interest terms (united, states, united states, wildfires)",
+      "tags": [
+        "United",
+        "States",
+        "United States",
+        "Wildfires"
+      ],
+      "summary": "Food transportation is a critical yet under-optimized component of United States food security, linking farms, processors, distribution centres, retailers, food banks, and consumers across geographically dispersed and disruption-prone networks.Existing systems are constrained by fragmented data, empty backhauls, cold-c…",
+      "added": true
+    },
+    {
+      "title": "Diverging fire trends in Northern Ghana’s savanna landscape: insights from remote sensing and institutional perspectives",
+      "abstract": "<title>Abstract</title> Background Globally, there are growing demands for evidence-based policies to manage wildfires. Currently, fire management in Northern Ghana relies on policies and projects developed without a comprehensive understanding of fire trends and drivers. This study analysed spatio-temporal trends in burned areas (500m MODIS and 30m Landsat products), active fires and fire seasonality using linear regression analysis to investigate shifts in fire regimes between 2000 and 2022. Rainfall and land cover changes during this period and institutional perspectives of the observed trends were also examined. Results When averaged across Northern Ghana, MODIS burned area data revealed a significant decreasing trend, while Landsat burned area, and active fires showed no significant trend. When disaggregated by region, MODIS burned area showed significant decreasing trends for the Savannah Region, Upper East and Upper West Regions. Conversely, Landsat burned area showed no trend in all regions of Northern Ghana. Active fires increased significantly in the Northern Region. Active fire data also revealed a significant shift in fire seasonality in Northern Ghana towards more mid-dry season fires. Institutional perspectives attributed the decline in large fires (identified by MODIS) to the success of interventions designed to reduce uncontrolled burning (locally referred to as bushfires). Conversely, increasing small fires (Landsat burned area and MODIS active fires) were perceived as being associated with smallholder livelihoods dependent on burning, which aligned with the increase in cropland extent observed in land cover data. Conclusion Our results highlight that the scale and resolution of fire datasets are crucial considerations for analysing fire trends. Aggregating data across the whole of Northern Ghana obscured contrasting trends in individual regions. The different trends observed between MODIS and Landsat burned areas suggest a shift from large fires towards smaller ones in Northern Ghana. Institutions expressed a shared objective of suppressing all fires; however, when designing fire management policies, it is important to consider the type of fire, since fire trends, drivers and impacts can vary depending on the size and timing of burning, and the associated land use.",
+      "doi": "10.1186/s42408-026-00553-w",
+      "authors": [
+        "Rahinatu Sidiki Alare",
+        "Emma J. Tebbs",
+        "Kate Schreckenberg"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W4412553216",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4412553216",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 56%: matched 4/7 key interest terms (large, drivers, burning, wildfires)",
+      "tags": [
+        "Large",
+        "Drivers",
+        "Burning",
+        "Wildfires"
+      ],
+      "summary": "<title>Abstract</title> Background Globally, there are growing demands for evidence-based policies to manage wildfires. Currently, fire management in Northern Ghana relies on policies and projects developed without a comprehensive understanding of fire trends and drivers.",
+      "added": true
+    },
+    {
+      "title": "MRBA60: Long-term consistent global burned area dataset from Sentinel-3 and MODIS products",
+      "abstract": "Abstract As the MODIS mission nears its end, ensuring continuity between legacy burned area (BA) records and products from newer sensors is essential for climate applications. Here we present the Medium Resolution Burned Area Grid product version 6.0 ( MRBA60 ), a continuous global BA time series for 2003-present, assembled on a monthly 0.25° grid by combining two components archived in separate Centre for Environmental Data Analysis (CEDA) entries: the harmonised historical MRBA60H component for 2003–2018 and the FireCCIS311 grid product from 2019 onwards. For 2003–2018, we train biome- and season-specific Random Forest models on the overlap period (2019–2024) between FireCCI51 (based on MODIS 250 m data) and FireCCIS311 (derived from Sentinel-3 SYN 300 m data) BA using auxiliary predictors (active fires, fire radiative power, climate, and vegetation indices), followed by a quantile-mapping bias correction to fit the FireCCIS311 BA distribution better. MRBA60 increases global BA relative to FireCCI51 by ~1.1 Mkm² of additional BA per year while preserving the reported decline in BA over the past two decades. Validation against Landsat-based and regional high-resolution products generally shows improved agreement compared with FireCCI51 and NASA’s MCD64A1.",
+      "doi": "10.1038/s41597-026-07959-w",
+      "authors": [
+        "Miguel Ángel Torres-Vázquez",
+        "Carlota Segura-Garcia",
+        "Marco Turco",
+        "Amin Khairoun",
+        "M. Lucrecia Pettinari",
+        "Erika Solano-Romero",
+        "Mariano Garcı́a",
+        "Patricia Oliva",
+        "Matthew W. Jones",
+        "Emilio Chuvieco"
+      ],
+      "year": 2026,
+      "journal": "Scientific Data",
+      "openalex_id": "W7171241694",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171241694",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Abstract As the MODIS mission nears its end, ensuring continuity between legacy burned area (BA) records and products from newer sensors is essential for climate applications.",
+      "added": false
+    },
+    {
+      "title": "Tracking pow(d)er : outdoor sport, environmental (re)creation, and the politics of nature",
+      "abstract": "This dissertation explores environmental constructions and representations in ski media, ski resorts, and a sustainability initiative at rowing clubs. I investigate the intersections of power, nature, and capitalism in outdoor sport and recreation, attending especially to environmental communication across sport media, sporting venues, and sport organizations. Study One is a critical discourse analysis of Warren Miller ski films. Findings suggest that environmental discourses in these films reflect Promethean views of nature as something that can/should be dominated by humans for outdoor recreation. Ideologies of Western exceptionalism, inseparable from settler colonial narratives, were also prominent. Notably, there was an almost complete absence of messaging related to the climate crisis or environmental issues. Study Two examines discourses in environmental communications on Whistler Blackcomb ski resort in Whistler, British Columbia and assesses how they reinforce and/or challenge dominant environmental narratives. Findings suggest that environmental messaging on Whistler Blackcomb was consistently underpinned by assumptions about how to ‘solve’ environmental problems with ecological modernist solutions, and that this messaging reflects Promethean discourse with assumptions about the ‘right’ of humans to dominate and manipulate nature. These communications do little to disrupt power dynamics of human-ecological relations and instead reproduce anthropocentric views of nature as something that can and should be manipulated for outdoor recreation. Study Three is a community-based participatory research effort that explores responses of users and relevant stakeholders to a sport-related, ecological modernist decarbonization effort – implementation of electric outboard motors at rowing clubs in British Columbia. Interviews with 11 coaches, managers, and decision-makers at both clubs using, and clubs not using, these motors indicate that greater structural, financial, infrastructure, and educational supports are needed to facilitate adoption of this technology. Situating these studies in Political Ecology, critiques of capitalism, and New Materialist approaches, findings illustrate broadly the ways that human domination over nature has become entrenched and normalized in outdoor recreation. In understanding how anthropocentric narratives have been produced and reproduced in outdoor recreation, this dissertation represents a way to challenge dominant, unequal power relations between humans and non-humans, and highlight possibilities for a more ecologically friendly future.",
+      "doi": "10.14288/1.0453314",
+      "authors": [
+        "Julia Lawrence"
+      ],
+      "year": 2026,
+      "journal": "cIRcle (University of British Columbia)",
+      "openalex_id": "W7170451609",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170451609",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "This dissertation explores environmental constructions and representations in ski media, ski resorts, and a sustainability initiative at rowing clubs. I investigate the intersections of power, nature, and capitalism in outdoor sport and recreation, attending especially to environmental communication across sport media,…",
+      "added": false
+    },
+    {
+      "title": "Software requirements for semantic-based antifragile urban mobility decision-support systems under disruption",
+      "abstract": "Urban mobility systems are increasingly exposed to recurrent disruptions driven by climate extremes, infrastructure failures, and socio-economic shocks. These pressures expose the limits of resilience-oriented planning approaches that prioritise recovery to pre-disturbance conditions, and they motivate a shift toward antifragility, understood here as the capacity of systems to learn, adapt, and improve through disruption. This paper presents a validated set of requirements for SUMA (Smart Urban Mobility Antifragility), a semantic-based decision-support platform designed to support adaptive mobility management under disruptive conditions. The study adopts a triangulated methodology combining a systematic literature review, a requirement-capture questionnaire completed by project partners, a workshop for refinement, and a two-round Delphi consultation with nine multidisciplinary experts from eight countries. The resulting 47 requirements are organised into eight thematic categories spanning spatial, environmental, institutional, equity, safety, policy, and data-governance dimensions. Consensus assessment using interquartile range thresholds on a seven-point Likert scale identified 40 requirements with high agreement, defining a validated core specification for SUMA. The validated requirement set covers emergency response, scenario analysis, antifragility scoring, multi-source data fusion, and equity-aware monitoring. The paper contributes a structured and replicable framework for eliciting and validating requirements for decision-support systems intended to support urban mobility management under disruption.",
+      "doi": "10.1016/j.pdisas.2026.100657",
+      "authors": [
+        "Cristina De Nardi",
+        "Afrouz Ghaemi",
+        "Andrei Hodorog",
+        "Giulia Cerè",
+        "Ali Ghoroghi",
+        "Yacine Rezgui"
+      ],
+      "year": 2026,
+      "journal": "Progress in Disaster Science",
+      "openalex_id": "W7170151005",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170151005",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Urban mobility systems are increasingly exposed to recurrent disruptions driven by climate extremes, infrastructure failures, and socio-economic shocks. These pressures expose the limits of resilience-oriented planning approaches that prioritise recovery to pre-disturbance conditions, and they motivate a shift toward a…",
+      "added": false
+    },
+    {
+      "title": "A Needs Assessment for Measuring Geographic - Legislative Associations in the U.S. House of Representatives",
+      "abstract": "Political legislation affects the well-being and livelihoods of constituents. In the U.S. Congress a representative's voting record on bills and legislation is public. These bills have themes associated with them, such as veterans' affairs, coastal monitoring, agricultural appropriations, etc. A bill on veterans' affairs may affect a constituency differently if they have a high percentage of veterans. In this work, we demonstrate how congressional vote outcomes can be merged with typical geographic information systems (GIS) data to help compare a legislator's votes with the geographies of their constituencies to measure the association between district features and legislators' decisions. We retrieved and tagged bills from the 118th U.S. House of Representatives (Jan. 2023 - Jan. 2025) by manually assigning each bill a set of themes. We then retrieved spatial data at the congressional district level related to each theme. We built a backend database to connect bill information and spatial data, and an interactive map prototype displayed the spatial data related to each theme associated with each bill. Our work helps identify challenges to creating a more accessible and complete system that would facilitate the visualization and analysis of the nature of contemporary Congressional representation. This technical report is primarily written for members of the data science community, and specifically those interested in legislative and geographic data.",
+      "doi": null,
+      "authors": [
+        "Ashu Gupta",
+        "Cameron Owens",
+        "Benjamin Wilson-Langman",
+        "Max Hill",
+        "Jason Cox",
+        "Joshua Clinton",
+        "Clio Andris"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7171268050",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171268050",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Political legislation affects the well-being and livelihoods of constituents. In the U.S. Congress a representative's voting record on bills and legislation is public. These bills have themes associated with them, such as veterans' affairs, coastal monitoring, agricultural appropriations, etc.",
+      "added": false
+    }
+  ]
+}
