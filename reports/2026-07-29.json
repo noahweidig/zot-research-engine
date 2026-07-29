@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-29",
+  "statistics": {
+    "fetched": 86,
+    "duplicates_removed": 81,
+    "evaluated": 5,
+    "added": 1,
+    "ignored": 4,
+    "average_score": 2.8
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Measurement report: Seasonal Secondary and Biomass-Burning Aerosol Sources and Enhancements of Cloud Condensation Nuclei at a Central US Background Site",
+      "abstract": "Abstract. Long-term measurements of aerosol chemistry are essential for understanding seasonal source variability and aerosol–climate interactions in continental environments. We present a multi-year (2021–2023) analysis of submicron aerosol composition at the U.S. Department of Energy Southern Great Plains (SGP) site using co-located Aerosol Chemical Speciation Monitor (ACSM), Interagency Monitoring of Protected Visual Environments (IMPROVE) network filter measurements, and supporting optical, size-distribution, and cloud condensation nuclei (CCN) observations. Organic aerosol (OA), nitrate (NO3), ammonium (NH4), sulfate (SO4), and mineral dust exhibited pronounced seasonal cycles. NO3 and NH4 dominated winter aerosol mass, consistent with thermodynamic partitioning of ammonium nitrate (NH4NO3), while OA and SO4 peaked in spring and summer, reflecting enhanced photochemistry and biogenic precursor emissions. Positive Matrix Factorization with a rolling-window ME-2 framework resolved biomass-burning OA (BBOA), semi-volatile oxygenated OA (SVOOA), and low-volatility oxygenated OA (LVOOA). SVOOA and LVOOA together dominated annual OA mass, with strong summer maxima, while BBOA contributed episodically during fire events. We identified 168 biomass- burning episodes using BBOA spikes detected using rolling-median residual spike detection. Fire plumes increased aerosol absorption coefficient modestly but enhanced CCN number concentrations by up to a factor of four. HYSPLIT and satellite fire products indicate dominant contributions from Great Plains grassland and cropland burns, with additional forest and distant sources. These results provide a comprehensive characterization of aerosol seasonal behavior and biomass-burning impacts in the central United States, demonstrating the value of long-term, high-time-resolution mass-spectrometric observations.",
+      "doi": "10.5194/egusphere-2026-3129",
+      "authors": [
+        "Maria A. Zawadowicz",
+        "Amie Dobracki",
+        "Janek Uin",
+        "Rebecca Trojanowski"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171418854",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171418854",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 64%: matched 4/8 key interest terms (burning, united states, states, united)",
+      "tags": [
+        "Burning",
+        "United States",
+        "States",
+        "United"
+      ],
+      "summary": "Abstract. Long-term measurements of aerosol chemistry are essential for understanding seasonal source variability and aerosol–climate interactions in continental environments. We present a multi-year (2021–2023) analysis of submicron aerosol composition at the U.S.",
+      "added": true
+    },
+    {
+      "title": "Effects of a Catastrophic Debris‐Flow on a Coastal Salt Marsh",
+      "abstract": "ABSTRACT Extreme events are increasing in frequency and intensity as the climate changes. Compound extreme events—when multiple drivers or hazards occur together—are common, but the interactive effects of multiple events are rarely studied. Debris‐flows are caused by the compound events of wildfire followed by precipitation, with substantial effects on impacted systems, including unburned areas downslope. Debris‐flow responses are mostly documented in freshwater streams and rivers, but these events can also have downstream effects on estuarine systems when they occur in coastal mountain ranges. Here, we document the physical and biological effects of a woody debris‐flow in a tidal wetland in Southern California. In December 2017, the Thomas Fire burned 1140 km 2 of the coastal Santa Ynez Mountains and a subsequent atmospheric river in January 2018 caused a third extreme event—a catastrophic debris‐flow into Carpinteria Salt Marsh. Digital elevation models developed before and after the event showed that immediately afterwards, tidal channel elevations increased by up to 1 m compared to pre‐debris‐flow conditions. Elevations remained 0.26–0.68 m above the pre‐event conditions 1 year after the debris‐flow. Annual monitoring of invertebrate communities from 2012 to 2024 showed a slight decline in invertebrate density, and a 32% decline in invertebrate richness immediately following the debris‐flow (2018). Although these responses returned to the normal range of variation by the next year (2019), invertebrate community composition remained changed for the following 6 years, driven by a relative decline in oligochaetes and bivalves and a relative increase in amphipods. The debris‐flow also added novel hard substrate to previously soft‐sediment wetland habitat, facilitating colonization of a non‐native mussel and the development of extensive mussel beds. Together, these findings illustrate that debris‐flows in coastal mountain ranges can substantially alter the physical and biological attributes of downstream estuarine ecosystems. Our work also highlights the value of long‐term monitoring data in assessing extreme event impacts.",
+      "doi": "10.1002/gcb4.70034",
+      "authors": [
+        "Rachel S. Smith",
+        "Kathryn M. Beheshti",
+        "Tom W. Bell",
+        "Andrew J. Brooks",
+        "Justin C. Hoesterey",
+        "Russell Johnston",
+        "Henry M. Page"
+      ],
+      "year": 2026,
+      "journal": "Global Change Biology Communications",
+      "openalex_id": "W7171303392",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171303392",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 26%: matched 2/8 key interest terms (wildfire, drivers)",
+      "tags": [
+        "Wildfire",
+        "Drivers"
+      ],
+      "summary": "ABSTRACT Extreme events are increasing in frequency and intensity as the climate changes. Compound extreme events—when multiple drivers or hazards occur together—are common, but the interactive effects of multiple events are rarely studied.",
+      "added": false
+    },
+    {
+      "title": "Stress testing eight water tank metrics under the different energy zones in South Africa to evaluate how future climatic variations may affect rainwater harvesting",
+      "abstract": "Introduction In its 2023 report, the Intergovernmental Panel on Climate Change (IPCC) reported Q8 Q9 that global surface temperatures during 2011–2020 were, on average, 1.1 °C higher than during the 1850–1900 period, which led to losses and damages that included decreased physical water availability and reduced agricultural food production. These effects were manifested through droughts in South America and Southern Africa. The practice of affordable, energy-efficient water conservation is, therefore, highly necessary in South Africa amid these negative effects of climate change and increasing costs resulting from higher energy costs. The purpose of this research was to evaluate the effects of changes in temperature and precipitation on the resilience of rainwater tank systems by analyzing their effects on the elasticities of tank metrics, such as system efficiency, optimum tank size, and lifecycle energy and emissions. Methods The research employed time series analysis and stress testing using the generalized simulated annealing technique. The research study area encompassed the whole of South Africa. Results The results indicated that the lifecycle energy and emissions of the rainwater tank system in the eastern coastal areas were marginally affected by likely changes in annual precipitation and mean annual temperature, as evidenced by zero or near‐zero precipitation and temperature-related elasticities of lifecycle energy and emissions at high domestic rainwater treatment energy intensities (up to 1.6 kWh/ m 3 ). However, when the treatment energy intensities were low (0–0.4 kWh/m3), although temperature-related effects were marginal in these areas, the precipitation‐related effects were greatest in these eastern coastal areas, with greater increases in precipitation leading to larger reductions in the lifecycle energy of tank systems (from –667.94 to –13,668.40 MJ/unit precipitation scale ratio). Discussion Generally, the eastern areas of South Africa had greater absolute values of tank metric elasticities than the western areas (especially the Northern Cape) which means they would experience greater impacts due to climate change. Energy Zone 6, followed by Zone 2, Zone 5, and Zone 5H, benefited the most from increases in annual precipitation and mean annual temperature (more impacted by climate change), while Zone 7, followed by Zone 4, Zone 3, and Zone 1, benefited the least (less impacted by climate change).",
+      "doi": "10.3389/fbuil.2026.1743368",
+      "authors": [
+        "Emmanuel Kabundu",
+        "Sijekula Mbanga",
+        "Emma Ayesu-Koranteng",
+        "Noluthando Masiza"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Built Environment",
+      "openalex_id": "W7171451224",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171451224",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/8 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Introduction In its 2023 report, the Intergovernmental Panel on Climate Change (IPCC) reported Q8 Q9 that global surface temperatures during 2011–2020 were, on average, 1.1 °C higher than during the 1850–1900 period, which led to losses and damages that included decreased physical water availability and reduced agricul…",
+      "added": false
+    },
+    {
+      "title": "From Simulation to Dialogue: A Quasi-Experimental Mixed-Methods Study of Conversational-AI Supported VR Fire Escape Training",
+      "abstract": "Virtual reality fire escape drills can support procedural learning. However, many implementations rely on scripted interaction that limits learner-initiated inquiry during evacuation. In this study, a Conversational AI Supported VR Fire Escape System ( CAVR) was developed as a Unity based virtual reality drill integrated with the Live Character API through Web Real-Time Communication (WebRTC) for low-latency speech interaction and with retrieval augmented generation grounded in a curated fire safety knowledge base. A quasi-experimental mixed methods design was applied with 163 first year undergraduates from two universities. The experimental group used the CAVR System and the control group used a virtual reality fire escape system without conversational support. Results indicated higher post test knowledge achievement in the experimental group after adjustment for pre-test scores with a significant group effect. Higher behavioral intentions were observed across dimensions with small to medium effect sizes. Trust levels were substantially higher in the experimental group with a large effect size. Interview themes indicated that learner-initiated inquiry during embodied action continuous dialog verification through persistent subtitles and perceived grounding of guidance through retrieval augmented generation contributed to the observed outcome pattern. The implications of using a CAVR System for fire safety education are discussed.",
+      "doi": "10.1177/07356331261469058",
+      "authors": [
+        "Lei Cao",
+        "Kien Tsong Chau",
+        "Wan Ahmad Jaafar Wan Yahaya"
+      ],
+      "year": 2026,
+      "journal": "Journal of Educational Computing Research",
+      "openalex_id": "W7171312281",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171312281",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/8 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Virtual reality fire escape drills can support procedural learning. However, many implementations rely on scripted interaction that limits learner-initiated inquiry during evacuation.",
+      "added": false
+    },
+    {
+      "title": "Graph-Enhanced Multimodal Valuation: Integrating Climate Physical Risk into Green Mortgage Analytics with LLMs and Knowledge Graphs",
+      "abstract": "Traditional property valuation and mortgage underwriting pipelines largely ignore explicit modelling of physical climate risk such as floods, heat stress, and extreme weather, despite growing evidence that these hazards materially affect asset values, default probabilities, and portfolio resilience. This omission creates a structural blind spot for banks and housing finance companies attempting to align with emerging green finance, ESG, and climate disclosure regimes. Green mortgages and sustainable housing finance products still tend to focus narrowly on energy efficiency metrics while underweighting location-specific climate hazards and resilience features. This paper proposes a climate-aware valuation framework that combines multimodal large language models, geospatial APIs, and Neo4j-based knowledge graphs to inject structured climate risk signals into property valuation workflows. The architecture comprises four layers: (i) a multimodal extraction layer using document understanding models such as LayoutLM/vision-enhanced LLMs to extract building attributes, materials, and layout features from loan and property documents; (ii) a geospatial integration layer that enriches each property with hazard and climate indicators from platforms such as ISRO Bhuvan and OpenWeatherMap; (iii) a knowledge graph construction layer that encodes properties, hazards, resilience features, and valuation events as nodes and relationships; and (iv) a GraphRAG-based risk scoring layer that performs reasoning over the graph to derive composite climate risk scores and climate-adjusted valuations. Experimental results on a hybrid (semi-simulated) dataset of residential properties show that the proposed system improves document-level extraction F1 by approximately 5–8 percentage points over text-only baselines, reduces valuation RMSE by 10–15 per cent when climate features are included, and lowers hallucinated risk explanations by leveraging graph-constrained retrieval. The framework is designed to be compatible with BFSI IT constraints. It can support green mortgage origination, portfolio climate stress testing, and ESG reporting by providing explainable, queryable climate risk signals linked to underlying evidence.",
+      "doi": "10.65890/dmp-lncse.iciccs26.185",
+      "authors": [
+        "Ritu Gaur",
+        "Archana Jain",
+        "Deepak Gupta",
+        "Gaurav Kumar",
+        "Aditya Yadav",
+        "Rashmi Singh"
+      ],
+      "year": 2026,
+      "journal": "DMPedia Lecture Notes in Computer Science & Engineering",
+      "openalex_id": "W7171305820",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171305820",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/8 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Traditional property valuation and mortgage underwriting pipelines largely ignore explicit modelling of physical climate risk such as floods, heat stress, and extreme weather, despite growing evidence that these hazards materially affect asset values, default probabilities, and portfolio resilience.",
+      "added": false
+    }
+  ]
+}
