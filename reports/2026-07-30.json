@@ -1,0 +1,608 @@
+{
+  "date": "2026-07-30",
+  "statistics": {
+    "fetched": 96,
+    "duplicates_removed": 72,
+    "evaluated": 24,
+    "added": 0,
+    "ignored": 24,
+    "average_score": 1.38
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Canada’s 2023 wildfire smoke caused a 2.8 percent drop in solar power generation, costing two billion dollars",
+      "abstract": "Abstract The record-breaking 2023 Canadian wildfires led to extreme emissions of aerosols, with plumes extending across the Northern Hemisphere. This study highlights the potential impact of such emissions on photovoltaic energy production across North America and Europe using a state-of-the-art Earth system model. Our results show substantial radiative and temperature anomalies during May–September 2023, with radiative impacts leading to a total 5-monthly modelled photovoltaic production deficit of −6.38 ± 8.86 terawatt hours (one standard deviation) across North America and Europe (2.8% of total 5-monthly photovoltaic generation). The carbon burden of this solar power production loss is estimated at 2.083 ± 2.656 megatons of carbon dioxide (one standard deviation), with a total economic deficit of 1.88 ± 2.71 billion US dollars (one standard deviation). Despite greater North America modelled photovoltaic losses, the associated monetary deficit is higher in Europe. These findings emphasise that resilience of photovoltaic production can be challenged by large-scale wildfire events, highlighting the need for integrated transnational and intercontinental strategies in climate mitigation, energy security, and wildfire prevention.",
+      "doi": "10.1038/s43247-026-03860-x",
+      "authors": [
+        "Iulian-Alin Roșu",
+        "Matthew W. Jones",
+        "Manolis Grillakis",
+        "Manolis P. Petrakis",
+        "Matthew Kasoar",
+        "Rafaila-Nikola Mourgela",
+        "Lampros Gkounelas",
+        "Apostolos Voulgarakis"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7171374105",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171374105",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 36%: matched 3/11 key interest terms (wildfire, large, wildfires)",
+      "tags": [
+        "Wildfire",
+        "Large",
+        "Wildfires"
+      ],
+      "summary": "Abstract The record-breaking 2023 Canadian wildfires led to extreme emissions of aerosols, with plumes extending across the Northern Hemisphere. This study highlights the potential impact of such emissions on photovoltaic energy production across North America and Europe using a state-of-the-art Earth system model.",
+      "added": false
+    },
+    {
+      "title": "Technology-Enabled Adaptive Knowledge Architecture for Humanitarian Governance (TAKAH) as an Enabler for Disaster Risk Management: An African-Global Comparative Analysis",
+      "abstract": "Artificial intelligence (AI) is transforming disaster information management by enhancing hazard detection, vulnerability assessment, early warning systems, and evidence-based decision-making. Despite significant technological advances, many African countries continue to experience fragmented disaster information systems characterised by limited interoperability, inadequate institutional capacity, weak digital infrastructure, and constrained investment in advanced technologies. Existing disaster information management frameworks predominantly examine technologies such as AI, geographic information systems (GIS), remote sensing, Internet of Things (IoT), and big data analytics in isolation, providing limited guidance on their integration into a coherent governance architecture. This study develops and validates the Technology-Enabled Adaptive Knowledge Architecture for Humanitarian Governance (TAKAH) Framework, an integrated digital governance model for AI-driven disaster information management. A qualitative comparative research design employing comparative document analysis was used to examine disaster information management systems in six African countries (Zimbabwe, South Africa, Kenya, Ethiopia, Mozambique, and Rwanda) and five global leaders (Japan, the United States, Australia, Germany, and New Zealand). Comparative thematic analysis focused on AI adoption, geospatial intelligence, predictive analytics, digital interoperability, institutional readiness, and governance arrangements. The findings indicate that countries with integrated digital ecosystems supported by robust governance, interoperable information systems, and sustained institutional investment consistently achieve superior disaster monitoring, early warning, vulnerability assessment, and emergency coordination. Conversely, fragmented digital infrastructures and weak institutional coordination continue to constrain disaster preparedness in many developing countries. The study proposes the TAKAH Framework as a comprehensive digital governance architecture that integrates AI, geospatial intelligence, predictive analytics, interoperable information systems, and adaptive governance into a unified disaster information management model. The framework contributes to contemporary disaster informatics literature by providing both a theoretical foundation and a practical roadmap for strengthening climate resilience and digital disaster governance in Africa and other disaster-prone developing regions.",
+      "doi": "10.38124/ijisrt/26jul671",
+      "authors": [
+        "Takawira Chirume",
+        "Silas Silaigwana"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Innovative Science and Research Technology (IJISRT)",
+      "openalex_id": "W7171441102",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171441102",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/11 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Artificial intelligence (AI) is transforming disaster information management by enhancing hazard detection, vulnerability assessment, early warning systems, and evidence-based decision-making.",
+      "added": false
+    },
+    {
+      "title": "Distribution Characteristics and SourceApportionment of Polycyclic AromaticHydrocarbons and Sterols in CentennialSediments of Haizhou Bay",
+      "abstract": "Haizhou Bay (Jiangsu, eastern China) is a major land-sea transition zone, yet long-term sedimentary records of organic contaminants and their anthropogenic drivers remain poorly constrained, limiting a process-based understanding of regional pollution trajectories and their links to shifts in the energy mix. We quantified 16 priority polycyclic aromatic hydrocarbons (PAHs) and four sterols in four intertidal sediment cores using GC–MS. Spatial variability was evaluated across all cores, whereas centennial-scale (~150-year) temporal changes were interpreted primarily from the representative core HZ02, based on its published ²¹⁰Pbex–¹³⁷Cs chronology, for which PAH diagnostic ratios were also assessed. Source patterns were further constrained using bivariate correlations together with principal component analysis and hierarchical clustering. PAH concentrations decreased seaward, whereas sterols were strongly enriched near the Linhong River estuary. In the dated HZ02 record, low-molecular-weight PAHs dominated before 1950, followed by episodic increases in high-molecular-weight PAHs and sterols during the 1950s-1960s and the 1980s-1990s, and a decline in sterols in the early 2000s, consistent with reduced domestic wastewater-related inputs. Multivariate fingerprints indicate two dominant mixed sources: local inputs linked to agricultural biomass burning and household sewage, and an industrial–transport component associated with coal and petroleum combustion and traffic emissions. Contaminant histories covary with population density and energy consumption, supporting a transition from a pre-1950 biomass–sewage-dominated regime to a post-1950 industrial-transport mixture. These century-scale records provide a baseline for reconstructing coastal pollution histories and for evaluating how changes in energy use and emission controls shape organic contamination in eastern China.",
+      "doi": "10.15244/pjoes/220218",
+      "authors": [
+        "Dong Mu",
+        "Zhihai Tan",
+        "Longjiang Mao",
+        "Hao Lei",
+        "Chenhao Xi",
+        "Jihong Miao",
+        "Juan Li"
+      ],
+      "year": 2026,
+      "journal": "Polish Journal of Environmental Studies",
+      "openalex_id": "W7171554020",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171554020",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 3/11 key interest terms (burning, eastern, drivers)",
+      "tags": [
+        "Burning",
+        "Eastern",
+        "Drivers"
+      ],
+      "summary": "Haizhou Bay (Jiangsu, eastern China) is a major land-sea transition zone, yet long-term sedimentary records of organic contaminants and their anthropogenic drivers remain poorly constrained, limiting a process-based understanding of regional pollution trajectories and their links to shifts in the energy mix.",
+      "added": false
+    },
+    {
+      "title": "Biomass Recovery Dynamics and Fire Behavior in Stricto Sensu Grassland After Low-Intensity Prescribed Burns",
+      "abstract": "This study investigated the effects of controlled burns on biomass dynamics and fire behavior in areas of stricto sensu grassland in southern Brazil. The experiment consisted of conducting controlled burns in three experimental plots divided into five subplots, with data collection on fire behavior (rate of spread, fireline intensity, residence time, and heat released) followed by monitoring of vegetation recovery over 19 months. To assess the influence of fire on biomass increase, the Gompertz model was fitted, correlating the Absolute Growth Rate (AGR), the time to peak productivity and the time at which the growth curve reaches 95% of the asymptote with the fire behavior variables. The results demonstrated that low-intensity controlled burns were effective in reducing fuel load. Correlation analysis indicated that fire behavior variables had little influence on the rate of vegetation recovery, suggesting that the ecosystem tolerates low-severity disturbances well. The Gompertz model showed a satisfactory fit (R2 = 0.86 for total biomass), proving to be a useful tool for management. It is concluded that the use of low-intensity prescribed burns is a viable and safe practice for protected areas.",
+      "doi": "10.3390/grasses5030028",
+      "authors": [
+        "Bruna Kovalsyki",
+        "João Francisco Labres dos Santos",
+        "Tiago de Souza Ferreira",
+        "Alexandre França Tetto",
+        "Antônio Carlos Batista",
+        "Marcos Vinicius Giongo"
+      ],
+      "year": 2026,
+      "journal": "Grasses",
+      "openalex_id": "W7171422363",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171422363",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/11 key interest terms (prescribed)",
+      "tags": [
+        "Prescribed"
+      ],
+      "summary": "This study investigated the effects of controlled burns on biomass dynamics and fire behavior in areas of stricto sensu grassland in southern Brazil. The experiment consisted of conducting controlled burns in three experimental plots divided into five subplots, with data collection on fire behavior (rate of spread, fir…",
+      "added": false
+    },
+    {
+      "title": "Mapping sexual and gender minority inclusion in national adaptation plans globally",
+      "abstract": "<title>Abstract</title> Sexual and gender minorities (SGM) experience disproportionate climate impacts, yet no empirical analysis exists on their inclusion in adaptation planning. We ask: (1) To what extent are SGM included in National Adaptation Plans (NAPs)? and (2) How do legal and social status of SGM differ between countries that include or exclude them? We systematically map all available NAPs (or related documents in their absence, n = 256), analyzing inclusion across transformative capacity and climate justice. Of 198 UNFCCC member states, 23 mention SGM: 65% are SGM-sensitive (acknowledging disproportionate impacts on SGM), 26% SGM-responsive (taking action on impacts) and 9% SGM-transformative (addressing systemic drivers of impacts). Higher legal protections (p &lt; 0.05) and positive public opinion (p &lt; 0.01) are significantly correlated with inclusion of SGM in NAPs. Results highlight the need for collaborative, place-based SGM stakeholder engagement to inform adaptation planning, ensuring responses reflect local vulnerabilities and community priorities.",
+      "doi": "10.1038/s44168-026-00363-5",
+      "authors": [
+        "Sean Goodwin",
+        "Leo Goldsmith"
+      ],
+      "year": 2026,
+      "journal": "npj Climate Action",
+      "openalex_id": "W4411347122",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4411347122",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/11 key interest terms (states, drivers)",
+      "tags": [
+        "States",
+        "Drivers"
+      ],
+      "summary": "<title>Abstract</title> Sexual and gender minorities (SGM) experience disproportionate climate impacts, yet no empirical analysis exists on their inclusion in adaptation planning. We ask: (1) To what extent are SGM included in National Adaptation Plans (NAPs)?",
+      "added": false
+    },
+    {
+      "title": "Spatial distribution and drivers of cropland-phosphorus runoff in China",
+      "abstract": "The unidirectional flow of phosphorus (P) from mineral reserves to croplands, freshwaters and ultimately to marine environments surpasses sustainable limits for human development. Addressing the dual challenges of rising food production and mitigating P pollution necessitates spatially explicit assessments. However, significant uncertainties persist regarding the spatial patterns of cropland-P runoff in China, largely due to inadequate methodologies for accurately estimating P runoff that incorporate climate variability, soil characteristics, and P fertilization rates. Here, we conducted a fine-gridded estimation of cropland-P runoff across China, using a data-driven artificial intelligence model in conjunction with county-level P fertilization data. Results indicated that cropland-P runoff in 2018 totaled 109.9 kilotons P yr −1 , representing 0.79% of China's mineral P fertilization, aligning with national surveys from 2017. Notably, P runoff fluxes from uplands exhibited an inverse relationship with latitude, highlighting hotspots in regions south of the Yangtze River, driven by lower soil pH, intensive crop ration, and elevated soil organic matter. In rice paddies, hotspots were concentrated in the Pearl River Delta, Yangtze River Delta and western Sichuan basin, linked to higher irrigation and P fertilization. These patterns suggest that mineral-fertilizer-induced cropland-P runoff hotspots mainly occur where high P input coincides with runoff-prone soil, climate and irrigation conditions. This study provides a spatially explicit basis for prioritizing future monitoring and management of cropland-P runoff in these vulnerable regions.",
+      "doi": "10.1016/j.csag.2026.100128",
+      "authors": [
+        "Zihan Yu",
+        "Zhihao Xu",
+        "Wulahati Adalibieke",
+        "Qingwen Zhang",
+        "Longsheng Shangguan",
+        "Chen Liang",
+        "Xiaoying Zhan",
+        "Fangli Wang"
+      ],
+      "year": 2026,
+      "journal": "Climate smart agriculture.",
+      "openalex_id": "W7170182183",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170182183",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "The unidirectional flow of phosphorus (P) from mineral reserves to croplands, freshwaters and ultimately to marine environments surpasses sustainable limits for human development. Addressing the dual challenges of rising food production and mitigating P pollution necessitates spatially explicit assessments.",
+      "added": false
+    },
+    {
+      "title": "Spatiotemporal Analysis of Climate–Forest Fire Correlation in Peninsular Malaysia Using SARIMAX and Ensemble Models",
+      "abstract": "Forest fires in Peninsular Malaysia continue to threaten biodiversity, public health, and economic activity, with risks most evident in peat swamp forests where prolonged dry periods increase fuel flammability. This study analyzes 22 years of fire occurrence (2001–2023) across peat swamp forest regions in Pahang, Selangor, Johor, and Terengganu to examine long-term climate–fire relationships and to develop predictive tools for fire-risk assessment. The modeling framework was organized into three sequential stages. Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors (SARIMAX) was applied for temporal modeling, while an ensemble framework combining Generalized Linear Models and Maximum Entropy estimated fire occurrence probability. A hybrid system subsequently linked SARIMAX-derived climatic projections with ensemble classifiers to generate forward-looking estimates. The results reveal a recurring seasonal pattern, characterized by a clear March peak and noticeably higher fire activity during drought years, including 2005 and 2014. SARIMAX produced the strongest temporal accuracy (average Mean Absolute Scaled Error = 0.1902), demonstrating substantially lower forecast error (around 81%) than a simple seasonal repetition benchmark. Spatial probability modeling showed strong climatic separability at the district–monthly scale (area under the curve = 1; Continuous Boyce Index = 0.67). Projection outputs suggest a gradual redistribution of hotspot intensity from Sabak Bernam toward inland districts such as Pekan, although these estimates remain conditional on projected climatic patterns. Overall, the integrated framework offers a climate-informed foundation for operational monitoring and longer-term management of peat swamp forest fires in Peninsular Malaysia. Received: 28 December 2025 | Revised: 9 June 2026 | Accepted: 17 June 2026 Conflicts of Interest The authors declare that they have no conflicts of interest to this work. Data Availability Statement The data that support the findings of this study are openly available in Zenodo at https://zenodo.org/records/11542164. Author Contribution Statement Grace Kian Hwai Ling: Conceptualization, Methodology, Software, Formal analysis, Investigation, Resources, Data curation, Writing – original draft, Writing – review &amp; editing, Visualization, Project administration. Weng Howe Chan: Conceptualization, Validation, Writing – review &amp; editing, Supervision, Project administration.",
+      "doi": "10.47852/bonviewjdsis62028499",
+      "authors": [
+        "Grace Kian Hwai Ling",
+        "Weng Howe Chan"
+      ],
+      "year": 2026,
+      "journal": "Journal of Data Science and Intelligent Systems",
+      "openalex_id": "W7171500914",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171500914",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/11 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Forest fires in Peninsular Malaysia continue to threaten biodiversity, public health, and economic activity, with risks most evident in peat swamp forests where prolonged dry periods increase fuel flammability.",
+      "added": false
+    },
+    {
+      "title": "Global particulate pollution research reflects economic capacity more than pollution burden",
+      "abstract": "Air pollution from fine airborne particles remains one of the leading environmental threats to human health, yet it is unclear whether scientific research is concentrated where pollution burdens are greatest. Here we show that global research activity is distributed primarily according to economic capacity rather than environmental need by analyzing more than 55,000 scientific publications published between 1980 and 2025. Using artificial intelligence assisted geographic text analysis, satellite observations of atmospheric aerosol loading, health indicators, and interpretable machine learning, we identify a persistent knowledge exposure gap worldwide. Air quality research is concentrated in economically developed regions, whereas regions including South Asia and sub-Saharan Africa experience some of the highest long term aerosol burdens but conduct disproportionately few studies. Our approach establishes a data-driven framework for understanding how scientific attention is distributed relative to environmental need. These findings reveal a global imbalance between scientific attention and environmental need and highlight the importance of strengthening research capacity in highly affected regions. Regions with the highest particulate pollution contribute the fewest studies and remain understudied, according to a study that used large language models to analyze more than 55,000 publications and link research activity to environmental and socioeconomic indicators.",
+      "doi": "10.1038/s44458-026-00126-7",
+      "authors": [
+        "Jiani Yang",
+        "Antong Zhang",
+        "Xun Jian",
+        "Kairui Qiu",
+        "Vijay Natraj",
+        "Hangyu Gao",
+        "Sally Newman",
+        "Joseph P. Pinto",
+        "Y. L. Yung"
+      ],
+      "year": 2026,
+      "journal": "Communications Sustainability",
+      "openalex_id": "W7171472799",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171472799",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Air pollution from fine airborne particles remains one of the leading environmental threats to human health, yet it is unclear whether scientific research is concentrated where pollution burdens are greatest.",
+      "added": false
+    },
+    {
+      "title": "High-carbon primary forests as conservation targets in Ontario, Canada",
+      "abstract": "Ontario’s forests are changing rapidly under the pressure of industrial logging, coupled with the effects of climate change, which is facilitating increased wildfires. The reduction of mature and old-growth forests negatively affects ecosystem functions, including wildlife habitat suitability and long-term carbon storage. Here, we present an operational mapping tool to identify and monitor the extent of high-carbon primary forests (HCPF) to support their protection and track progress toward the Kunming-Montréal Global Biodiversity Framework’s Target 3. We define HCPF as mature and old-growth, naturally regenerated forests that have not experienced tree canopy disturbance over the past 50 years and are located within unfragmented landscape patches with a minimum area of 1,000 ha. By integrating existing maps, satellite-based products, and detailed manual image interpretation, we mapped 28.4 Mha of HCPF in Ontario for 2020. HCPF comprised 80.7% of all forests outside industrial timber concessions, whereas within private and industrial forests, their percentage was much lower (29.7%). They represented less than 2% of all forests within the Mixedwood Plains ecozone of southern Ontario. The HCPF vegetation carbon stock density is higher than that of fragmented and recently disturbed forests by 7% within the entire province, and by 18% within the region of industrial forestry. Ontario’s unfragmented landscapes contain more than 72% of the total soil organic carbon stock of the province, illustrating their importance for long-term carbon storage. Unfragmented landscapes are essential for the survival of Ontario’s woodland caribou populations; however, their percentage within most caribou population ranges was below the management threshold of 65% and continued to decline. From 2021 to 2025, Ontario’s HCPF area decreased by 3.5% (0.2 Mha/yr) due to wildfires and logging. Within the region of industrial forestry, the proportion of 2021–2025 logging within HCPF exceeded that in non-HCPF forests, and the annual logging area within HCPF increased by 55%. This acceleration of logging and associated road construction illustrates that HCPF, as opposed to secondary forests, continue to be the major source of timber in Ontario. The HCPF method provides the tools and data required to accurately assess and monitor mature and old-growth primary forests, and to develop effective conservation strategies and policies at the provincial and national levels. As demonstrated for Ontario, the HCPF method can be applied to all provinces to facilitate the protection of some of the last remaining primary forests in Canada.",
+      "doi": "10.3389/ffgc.2026.1871841",
+      "authors": [
+        "Peter Potapov",
+        "Svetlana Turubanova",
+        "Peter A. Quinby",
+        "Alexey Yaroshenko",
+        "John Brandt",
+        "Andrés Hernández-Serna",
+        "Alexandra Tyukavina",
+        "Elizabeth Goldman",
+        "Nancy Harris"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7171508442",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171508442",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Ontario’s forests are changing rapidly under the pressure of industrial logging, coupled with the effects of climate change, which is facilitating increased wildfires.",
+      "added": false
+    },
+    {
+      "title": "Fortress conservation versus traditional forest management: the example of Soliga tribal people from the Western Ghats, India",
+      "abstract": "Wildlife conservation is typically achieved by excluding, evacuating or alienating the rights of Indigenous peoples and local communities (IPLCs). This fortress conservation approach has led to uprooting, ongoing distress and despondency among many IPLCs worldwide. However, in the expansive and deep forests of the Western Ghats, India, the Biligiri Rangaswamy Temple Wildlife Sanctuary (BRTWS) offers a prime conservation exemplar where tribal (Adivasi) people, the Soligas, have been living with wild animals, especially tigers, leopards, elephants and managing forest resources for millennia. We provide an integrated ecological, socio-cultural and policy analysis of Soligas living in the Biligiri landscape, applying Ostrom’s socio-ecological framework. We highlight the need to understand and recognise the importance of Adivasi people’s connections, knowledge and skills in forest management. Comparing traditional and contemporary conservation approaches, we identify the need for collective action and collaboration between State authorities and Soliga communities to effectively manage forest resources, including emerging threats (e.g. pernicious weeds, pests, wildfires). Involving tribal people with the knowledge and skills to manage their natural systems can offer a win–win situation for supporting people’s well-being and for governments to reduce management costs and protect wildlife in Protected Areas. The BRTWS example demonstrates the cost-effective practical advantages of a collaborative, community-based conservation approach for meeting Sustainable Development Goals (SDGs) and ensuring the delivery of ecosystem services for local communities and wider society.",
+      "doi": "10.1080/26395916.2026.2698265",
+      "authors": [
+        "Kamaljit K. Sangha",
+        "M. Balasubramanian",
+        "C. Madegowda",
+        "S Siddappa Setty",
+        "Jeremy Russell-Smith"
+      ],
+      "year": 2026,
+      "journal": "Ecosystems and People",
+      "openalex_id": "W7171407045",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171407045",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Wildlife conservation is typically achieved by excluding, evacuating or alienating the rights of Indigenous peoples and local communities (IPLCs). This fortress conservation approach has led to uprooting, ongoing distress and despondency among many IPLCs worldwide.",
+      "added": false
+    },
+    {
+      "title": "The EDGAR-LULUCF Dataset of forest-related carbon emissions and removals",
+      "abstract": "Abstract. The EDGAR database provides a consistent global inventory of anthropogenic Greenhouse Gas (GHG) emissions and removals, widely used in major global studies and assessments, but until recently lacked estimates from the Land Use, Land-Use Change, and Forestry (LULUCF) sector. LULUCF plays a crucial role in mitigating climate change, mostly through conserving and enhancing the forest sink and by reducing emissions from deforestation and peatland degradation. LULUCF is the most challenging sector in National GHG Inventory (NGHGI) reporting, due to the combination of complex biophysical processes paired with demanding data collection needs, potentially resulting in high uncertainties. Emission coverage and quality vary between countries, with advanced techniques applied in more developed nations, whereas important forested areas worldwide may lack reliable estimates. This work presents new global, country-level estimates for carbon stock changes in living biomass from managed Forest Land and Deforestation. In both cases, a globally coherent IPCC Tier 1 gain-loss approach with regionally differentiated parameters is used, combined with spatially-explicit Earth Observation-derived land use data and official statistics. Deforestation estimates are based on the new \"Global Maps of Forest Cover Changes and their Drivers\" from the EU Observatory on Deforestation and Forest Degradation. For Forest Land, we implemented a few methodological improvements to existing IPCC guidance in order to address limitations of the Tier 1 approach: (i) a third forest age class (&gt;100 years) to avoid overestimating gains; (ii) a corrected IPCC fuelwood formula to eliminate double-counting; (iii) fuelwood adjustments for Southern Asia; (iv) country-specific illegal logging corrections. Global net CO₂ removals from Forest Land over 2001–2021 averaged −7.0 Gt CO₂ yr⁻¹ showing a declining trend linked to rising harvest rates, while Deforestation emitted on average 4.7 Gt CO₂ yr⁻¹, leading to a combined -2.3 Gt CO₂ yr⁻¹ removal. These estimates are compared with the countries’ official reporting to the UNFCCC and with other independent datasets and the results are discussed. Overall, this EO-based Tier 1 dataset fills a critical gap in EDGAR reporting by providing a transparent, IPCC-compliant global benchmark against which NGHGIs may be compared, or that can be used to fill gaps in Non-Annex I countries with limited reporting.",
+      "doi": "10.5194/essd-2026-454",
+      "authors": [
+        "Simone Rossi",
+        "Clément Bourgoin",
+        "Joana Melo",
+        "Guido Ceccherini",
+        "Sandro Federici",
+        "Monica Crippa",
+        "Frederic Achard",
+        "Rene' Colditz",
+        "Francesco N. Tubiello",
+        "Greet Janssens‐Maenhout",
+        "Giacomo Grassi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171351007",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171351007",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract. The EDGAR database provides a consistent global inventory of anthropogenic Greenhouse Gas (GHG) emissions and removals, widely used in major global studies and assessments, but until recently lacked estimates from the Land Use, Land-Use Change, and Forestry (LULUCF) sector.",
+      "added": false
+    },
+    {
+      "title": "Annual survival and resource selection of juvenile male wild turkeys in central Tennessee",
+      "abstract": "Abstract Documenting juvenile male wild turkey ( Meleagris gallopavo ) resource selection, survival, and harvest is important to better manage this life stage, which is the direct source for harvestable adult male wild turkeys. To better understand the relationship between resource selection and survival and how harvest impacts survival rates, we trapped and attached backpack very high frequency (VHF) radio transmitters to juvenile males ( n = 136) in 5 counties of south‐central Tennessee, 2017–2021. We modeled resource selection using case‐controlled conditional logistic regression and fit known‐fate survival models to estimate annual survival. We calculated landscape metrics and land cover proportions associated with each turkey's home range using the National Land Cover Database to determine if landscape characteristics were related to resource selection and annual survival. We also analyzed state‐reported hunter harvest data using a generalized linear model to determine if changing harvest regulations affected harvest of juvenile males during the spring hunting season. Juvenile male wild turkeys selected smaller row crop fields, less mature forest interior (≥120 m from patch edge), and lower proportions of developed land and young forest. Mean annual survival was 0.73 (95% CI = 0.65–0.81) with a harvest rate of 0.03 (95% CI = 0.01–0.09). Survival increased as hay and pasture interior increased in the home range, but this positive effect was reduced as the interspersion of young forest increased. Survival decreased as the interspersion of developed land increased in the home range, but this negative effect was reduced as the percentage of deciduous forest increased. The proportion of juvenile males in the spring harvest decreased from 14.1% to 13.7% to 8.9% as the male bag limit decreased from 4 to 3 to 2. Our results suggest that young forest, which represents dense woody cover, may reduce survival as a result of increased cover and ambush opportunities for wild turkey predators, whereas increased proportions of cover types that provide enhanced visibility and food resources benefit juvenile male wild turkey survival. Given a relatively robust survival rate, regulatory restrictions on the harvest of juvenile male turkeys could increase the adult male population and likely increase turkey hunter satisfaction.",
+      "doi": "10.1002/jwmg.70255",
+      "authors": [
+        "Christian R. Smith",
+        "Craig A. Harper",
+        "Lindsey M. Phillips",
+        "Joseph O. Quehl",
+        "Vincent M. Johnson",
+        "James A. Fordyce",
+        "David A. Buehler"
+      ],
+      "year": 2026,
+      "journal": "Journal of Wildlife Management",
+      "openalex_id": "W7171458739",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171458739",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Documenting juvenile male wild turkey ( Meleagris gallopavo ) resource selection, survival, and harvest is important to better manage this life stage, which is the direct source for harvestable adult male wild turkeys.",
+      "added": false
+    },
+    {
+      "title": "Review of geotechnical risks and sustainable strategies for seismic resilience of transportation infrastructure in California",
+      "abstract": "California presents one of the most geotechnically challenging environments for transportation infrastructure in North America. The state’s seismically active setting, combined with its pronounced geological and climatic diversity, gives rise to soil conditions that vary considerably across short distances from saturated alluvial deposits along the coast to expansive clays in the interior valleys and colluvial soils on steep mountain slopes. Yet despite the breadth of site-specific studies on hazards such as liquefaction, differential settlement, and slope failure, a synthesis that connects regional soil variability, hazard mechanics, ground improvement practice, and data-driven design within a single framework has been largely absent from the literature. This paper attempts to address that gap. The review covers the engineering properties and spatial distribution of major California soil types expansive clays, alluvial and estuarine deposits, residual soils, and coastal sediments and traces how each responds to seismic loading. Cyclic soil behavior, liquefaction susceptibility, lateral spreading, and soil–structure interaction are examined in the context of roads, bridges, embankments, and port infrastructure. Foundation distress arising from shrink–swell cycles in semi-arid regions is also considered, alongside erosion and instability risks along vulnerable transportation corridors. The literature search drew on Scopus, Web of Science, Google Scholar, and USGS technical publications. Both established stabilization methods compaction, geosynthetics, lime and cement treatment and newer approaches such as geopolymer binders and bio-mediated precipitation are evaluated for their applicability in seismic contexts. The paper argues that durable, low-carbon ground improvement, guided by site-specific subsurface data and probabilistic hazard assessment, is essential to the long-term reliability of California’s transportation network.",
+      "doi": "10.1007/s44288-026-00652-w",
+      "authors": [
+        "Md Saiful Arif Khan",
+        "Shoma Hore",
+        "Md. Farden Ahosan Sakib",
+        "Mahin Afroz Sinjan",
+        "Joy Kumar Pandit",
+        "Eftyar Ahmed",
+        "Afm Nurun Nabi",
+        "Shams Tanvir",
+        "Ripon Hore"
+      ],
+      "year": 2026,
+      "journal": "Discover Geoscience",
+      "openalex_id": "W7171443822",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171443822",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "California presents one of the most geotechnically challenging environments for transportation infrastructure in North America. The state’s seismically active setting, combined with its pronounced geological and climatic diversity, gives rise to soil conditions that vary considerably across short distances from saturat…",
+      "added": false
+    },
+    {
+      "title": "Widespread Increase in Global Plant Water Stress Obscured by Greening",
+      "abstract": "Abstract Understanding the vulnerability of plants to more severe and frequent drought events and developing adaptive management strategies requires robust methods for quantifying long‐term changes in plant water stress (PWS). Most data‐driven explorations of long‐term trends in PWS have focused on alterations in canopy structure (e.g., leaf area index) or canopy structure‐dependent variables (e.g., gross primary productivity and evapotranspiration). This is largely because long‐term trends in canopy structure are relatively easy to detect from satellite observations. However, a focus on structural responses limits our ability to detect physiological stress due to challenges in isolating it from the effects of structural greening. Consequently, this difficulty hampers a comprehensive examination of long‐term PWS in the context of global greening trends. To address this gap, we developed a new process‐based metric for PWS to isolate physiological responses from structural greening, which we then used to detect global PWS trends over the past four decades. Combining site‐level and satellite observations at the half‐degree resolution across the globe, we found that accounting for greening‐related changes substantially alters the sign of long‐term PWS trends inferred from traditional approaches. Specifically, our study reveals a significant increase in PWS that is only detectable when accounting for structural greening trends. When greening trends are not accounted for, global PWS appears to have decreased over time. Overall, our results highlight the need to integrate structural dynamics and greening into PWS detection. Such an integration of observations and land models will improve our understanding of plant‐water‐energy interactions.",
+      "doi": "10.1029/2025av002243",
+      "authors": [
+        "Qing Chang",
+        "Lixin Wang",
+        "Mallory L. Barnes",
+        "Darren L. Ficklin",
+        "Michael Benson",
+        "Kimberly A. Novick"
+      ],
+      "year": 2026,
+      "journal": "AGU Advances",
+      "openalex_id": "W7171391678",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171391678",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Understanding the vulnerability of plants to more severe and frequent drought events and developing adaptive management strategies requires robust methods for quantifying long‐term changes in plant water stress (PWS).",
+      "added": false
+    },
+    {
+      "title": "Organic certification is associated with the biodiversity and structural dynamics of Vitellaria paradoxa C.F. Gaertn. Stands in West African savanna ecosystems",
+      "abstract": "In recent years, organic certification of non-timber forest products, such as shea nuts, has emerged as a market-based mechanism for promoting sustainable harvesting and biodiversity conservation. This study aimed to: (i) compare tree (adult and seedling) species richness, density, and diversity between certified and non-certified Vitellaria paradoxa stands, (ii) assess differences in the demographic and structural attributes of Vitellaria paradoxa populations between certification regimes, and (iii) evaluate population structure across certification regimes. A total of 31 sample plots were established using a stratified sampling design based on certification regimes. Species diversity was assessed using Hill numbers, and ANOVA was applied to test differences between certified and non-certified forest blocks. In total, 85 woody species were recorded in Vitellaria paradoxa stands, with higher species richness in certified forest blocks (61 species) than in non-certified blocks (54 species). Species richness and diversity differed significantly among certification regimes (p < 0.001) for the juvenile stratum. Dendrometric characteristics of Vitellaria paradoxa revealed higher population density in certified forest blocks (85.71 ± 74.70 individuals/ha) compared to non-certified forest blocks (16.66 ± 10.32 individuals/ha). Diameter class distributions indicated an unstable population structure in both regimes for the adult stratum. However, the inverted J-shaped height class distribution observed in certified forest blocks suggests good regeneration potential. These findings suggest that forest certification may be a good policy option to conserve biodiversity. This study also serves as a baseline to ensure the long-term conservation of Vitellaria paradoxa populations in West Africa.",
+      "doi": "10.1016/j.envc.2026.101585",
+      "authors": [
+        "Hervé Zoungrana",
+        "Satassa Hien",
+        "Lassina Traoré",
+        "Essébé Ouarmé",
+        "Jonas Koala",
+        "Hugues Roméo Bazié"
+      ],
+      "year": 2026,
+      "journal": "Environmental Challenges",
+      "openalex_id": "W7171052894",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171052894",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "In recent years, organic certification of non-timber forest products, such as shea nuts, has emerged as a market-based mechanism for promoting sustainable harvesting and biodiversity conservation.",
+      "added": false
+    },
+    {
+      "title": "Mapping the transition: the interplay of technology and natural disasters on sustainable energy in G20 nations",
+      "abstract": "This study investigates how technological advancement, and natural disasters shape the energy transition in G20 economies over 2005–2023. The main objective is to measure the effects of environmental innovation and disaster exposure on four SDG 7 indicators: electricity access, clean cooking access, renewable energy share, and energy efficiency. Using a panel dataset from international sources, the study applies a two-way fixed effects model as a baseline and then uses Two-Stage Least Squares (2SLS) and System GMM to address endogeneity and dynamic effects. Technological advancement is measured by the log of environmental technology patents, while natural disasters are measured by the annual count of recorded events. The findings show that technological advancement strongly supports the transition by increasing clean cooking access and renewable energy share, and it is also significantly related to improvements in the efficiency indicator. Natural disasters show a mixed role: they are linked with weaker clean cooking access but a higher renewable energy share, suggesting that disasters may delay household energy improvements while pushing system-level renewable adoption. Sub-sample results indicate stronger technology effects in non-OECD G20 economies than in OECD members. These results imply that innovation policy and technology diffusion are essential for SDG 7 progress, while disaster recovery planning should protect household energy access and use rebuilding as an opportunity to expand resilient renewables. Overall, coordinated innovation and resilience strategies are necessary for a balanced and inclusive energy transition.",
+      "doi": "10.1038/s41598-026-61967-9",
+      "authors": [
+        "Hongshuai Qi",
+        "Tong Tian",
+        "Muhammad Wasif Hanif",
+        "Muhammad Asim Afridi",
+        "Wali Muhammad Khoso"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7171492121",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171492121",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This study investigates how technological advancement, and natural disasters shape the energy transition in G20 economies over 2005–2023. The main objective is to measure the effects of environmental innovation and disaster exposure on four SDG 7 indicators: electricity access, clean cooking access, renewable energy sh…",
+      "added": false
+    },
+    {
+      "title": "(untitled)",
+      "abstract": "художніх дисциплін у сучасних освітніх програмах та межі доцільного передавання творчих і технічних функцій генеративним системам.Поширення цифрових технологій іноді стає підставою для скорочення академічних дисциплін або заміни тривалої роботи з натури опануванням програмного забезпечення.Прихильники такого підходу виходять із припущення, що здатність швидко отримати технічно якісне та візуально ефектне зображення може частково замінити традиційну підготовку з рисунка, живопису і композиції.Проте зовнішня переконливість результату ще не свідчить про розуміння його просторової, пластичної, конструктивної, композиційної та образної організації.Цифровий продукт може містити пропорційні, перспективні, стилістичні або змістові суперечності, які здатен виявити лише фахівець зі сформованими критеріями професійного оцінювання",
+      "doi": "10.70286/eoss-27.07.2026",
+      "authors": [],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171473955",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171473955",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "художніх дисциплін у сучасних освітніх програмах та межі доцільного передавання творчих і технічних функцій генеративним системам.Поширення цифрових технологій іноді стає підставою для скорочення академічних дисциплін або заміни тривалої роботи з натури опануванням програмного забезпечення.Прихильники такого підходу ви…",
+      "added": false
+    },
+    {
+      "title": "Interpreting deep learning models for explainable animal detection using Grad-Cam with RetinaNet, SSD and YOLOv8",
+      "abstract": "Abstract Background In rural and forest-bordering areas, human-wildlife conflict has escalated, resulting in substantial crop damage, property loss, and human mortality. Conventional mitigating solutions such as fencing, manual surveillance, and local alarms, have limited coverage, time taking and high operating costs. Automated real-time animal detection systems have become a practical for early warning and conflict avoidance due to recent upgrades in edge computing and deep learning particularly in distant locations without dependable internet access. Methods In this study, embedded hardware and deep learning-based object detection are used to create a real-time wild animal detection and warning system. Roboflow was used to develop and enhance a dataset of 1,554 real-world photographs from seven classes (tiger, bear, elephant, lion, cheetah, leopard, and human) to 5,917 images. Using GPU acceleration, three object detection models YOLOv8(n)(n), SSD, and RetinaNet were trained on Google Colab and assessed using precision, recall, F1-score, and mean Average Precision (mAP). A GSM 900 A module is used to send SMS notification with no requirement of internet connectivity, and the optimized model was installed on a Raspberry Pi 5 with a Pi Camera for real-time inference. Results According to experimental data, YOLOv8(n) performs better than SSD and RetinaNet, with an mAP@50 84.4% and recall of 81% as opposed to SSD’s 62.3% precision and 58% recall and RetinaNet’s around 77% precision and 80% recall. Additionally, YOLOv8(n) showed improved robustness and quicker inference time across a range of background and lighting circumstances. While SSD and RetinaNet demonstrated weaker or scattered attention in complex situations, explainable AI analysis utilizing Grad-CAM and LIME verified greater and more concentrated activation on pertinent animal traits for YOLOv8(n). Conclusion For real-time wildlife monitoring and early warning, the suggested system offers a precise, affordable, and scalable option. Through the integration of YOLOv8(n), Raspberry Pi 5 edge computing, and GSM-based connectivity, the system efficiently functions in distant settings and dramatically shortens reaction times during wildlife infiltration incidents. The findings demonstrate that YOLOv8(n) is the best model for integrated animal detection, enhancing wildlife conservation, lowering agricultural loss, and improving human safety.",
+      "doi": "10.1007/s10791-026-10341-4",
+      "authors": [
+        "Minal Patil",
+        "Abhishek Madankar",
+        "Roshan Umate"
+      ],
+      "year": 2026,
+      "journal": "Discover Computing",
+      "openalex_id": "W7171351306",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171351306",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Background In rural and forest-bordering areas, human-wildlife conflict has escalated, resulting in substantial crop damage, property loss, and human mortality. Conventional mitigating solutions such as fencing, manual surveillance, and local alarms, have limited coverage, time taking and high operating costs.",
+      "added": false
+    },
+    {
+      "title": "Role of government and information trust in public perception of environmental risk: a case study of treated contaminated water discharge in Fukushima",
+      "abstract": "Despite growing public concern regarding the marine discharge of Fukushima treated contaminated water (FTCW), trust aspects related to risk perception remain underexplored. We used a nationally representative survey in South Korea to investigate the independent and interactive associations of government and information trust with cognitive and affective dimensions of risk perception regarding FTCW. Increased government trust was associated with lower perceived risk, consistent with the “paradox of trust” theory. Information trust functioned as a conditional factor, where the association between government trust and risk perception was notably attenuated among those who viewed information as non-exaggerated. Risk perception was notably higher among women, low-income groups, and primary industry workers, reflecting socioeconomic vulnerability. This study advances theoretical understanding by highlighting that information appraisal conditions institutional trust dynamics, challenging traditional information deficit models. Practically, it underscores the need for context-congruent communication and sequencing to foster public support for nuclear-related policy.",
+      "doi": "10.1057/s41599-026-08463-7",
+      "authors": [
+        "Yookyung Eoh",
+        "Jong-min Choi",
+        "Jinju Kim",
+        "Deok Hyun Jang",
+        "Kwanyoung Park",
+        "Won Mo Jang"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7171397230",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171397230",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Despite growing public concern regarding the marine discharge of Fukushima treated contaminated water (FTCW), trust aspects related to risk perception remain underexplored.",
+      "added": false
+    },
+    {
+      "title": "Tree mortality increases woodland structural complexity on productive sites in the southwestern US",
+      "abstract": "The extent and severity of tree mortality events are increasing in pinyon-juniper ecosystems of the American Southwest, mirroring trends observed in forested systems globally. Although disturbances may alter habitat suitability for numerous species, and indices of structural complexity may serve as useful, easily measured proxies for biodiversity and ecological resilience, few studies have examined relationships between structural complexity and disturbance severity in pinyon-juniper systems. In this study, we surveyed woodland structure across gradients of tree mortality and environmental conditions at 12 pinyon-juniper sites in northern Arizona, USA, and estimated recent tree mortality using stand reconstructions. Results indicated that 58% of sites showed overall tree density declines between 1996 and 2022. Mortality of pinyon pine ( Pinus edulis ) reached as high as 99.8% at one site. We found significant linear relationships among nine individual indicators of structural complexity, while our aggregate structural complexity index showed a significant (p < 0.001), positive linear relationship with actual evapotranspiration and tree loss (trees ha −1 ). We found limited support for a non-linear model that predicted maximum structural complexity at intermediate values of tree mortality. Our findings indicated that woodland structure is rapidly changing due to drought and insect outbreaks, and structural complexity is increasing under moderate levels of tree mortality, particularly on highly productive sites. Understanding these patterns may help managers in planning climate adaptation strategies and conserving biodiversity.",
+      "doi": "10.1016/j.foreco.2026.124120",
+      "authors": [
+        "David W. Huffman",
+        "Joseph E. Crouse",
+        "Kyle C. Rodman",
+        "Michael T. Stoddard",
+        "Andrew J. Sánchez Meador"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7171485306",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171485306",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "The extent and severity of tree mortality events are increasing in pinyon-juniper ecosystems of the American Southwest, mirroring trends observed in forested systems globally.",
+      "added": false
+    },
+    {
+      "title": "ВІТАЛЬНА БЕЗПЕКА ЯК НОВА ПАРАДИГМА ЗАБЕЗПЕЧЕННЯ БЕЗПЕКИ ОСОБИСТОСТІ В УМОВАХ ГІБРИДНИХ ЗАГРОЗ",
+      "abstract": "students, postgraduate students, Candidates and Doctors of Sciences, researchers, and practitioners from",
+      "doi": "10.64828/conf-139-2026-1",
+      "authors": [
+        "Петро Ящук"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171571343",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171571343",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "students, postgraduate students, Candidates and Doctors of Sciences, researchers, and practitioners from",
+      "added": false
+    },
+    {
+      "title": "Action Research with Artificial Intelligence in Sustainable and Experiential Tourism: A Case from Tlaxiaco, Mexico",
+      "abstract": "This study analyzes how the integration of native maize cultivation, cultural identity, and technological innovation can promote sustainable and experiential tourism in rural Mexico. The research was conducted in the community of Llano de Guadalupe, Tlaxiaco, Oaxaca. The participatory Action Research process progressed through institutional coordination, participatory diagnosis, biofertilization training, monitoring activities, and community dissemination phases conducted between 3 March 2025 to 25 May 2026. The methodological process included institutional coordination, participatory diagnosis, semi-structured interviews, focus groups, field observations, and the implementation of agroecological practices based on biofertilization. An AI-assisted illustrated field notebook was co-designed to support intercultural education, knowledge exchange, and community participation. The study also incorporated collaborative storytelling, seed preservation practices, and the co-design of sustainable tourism routes grounded in local gastronomy, biodiversity, and agricultural traditions. Preliminary impact indicators showed the expansion of participation from two pilot producers to 54 local producers after community dissemination activities. Findings indicate that the integration of traditional ecological knowledge with generative artificial intelligence (GenAI) can strengthen community empowerment, intergenerational learning, and sustainable livelihoods while preserving biocultural heritage. The proposed circular framework connects ecological, social, cultural, and economic subsystems by transforming agroecological practices into educational and tourism assets. The results suggest that Indigenous and rural communities can lead sustainable destination development when supported through participatory governance, inclusive education, and context-sensitive technological innovation. The Tlaxiaco case offers a transferable framework for sustainable rural development that contributes to food sovereignty, biodiversity conservation, environmental stewardship, and local economic resilience.",
+      "doi": "10.3390/su18157636",
+      "authors": [
+        "Omar Jiménez-Márquez",
+        "Rodolfo Martínez-Gutiérrez",
+        "Luis Alberto Manzano-Gómez",
+        "Karina González-Izquierdo",
+        "Clara Ivette Rincón-Molina",
+        "Gaudencio Lucas-Bravo",
+        "Reiner Rincón-Rosales",
+        "Diana Rubí Oropeza Tosca"
+      ],
+      "year": 2026,
+      "journal": "Sustainability",
+      "openalex_id": "W7171389568",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171389568",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This study analyzes how the integration of native maize cultivation, cultural identity, and technological innovation can promote sustainable and experiential tourism in rural Mexico. The research was conducted in the community of Llano de Guadalupe, Tlaxiaco, Oaxaca.",
+      "added": false
+    },
+    {
+      "title": "Description of seasonal patterns of migratory birds in the Pantanal wetland",
+      "abstract": "Abstract Migratory birds rely on habitats along their routes for rest, refueling, and reproduction. They adjust timing, speed, and stopover use to reduce energy and survival costs while maximizing reproductive success. This synchronization with resource availability defines the “critical periods” essential for migration success. Despite awareness of these needs, spatial and temporal patterns of migratory bird movements remain understudied, even for well-known species. This study identified critical periods for migratory birds in the Pantanal and discusses conservation implications. A dataset was compiled using records from biological collections and citizen science platforms. Species were grouped into ecological categories based on shared traits. Twenty ecological groups were identified, with five additional species analyzed separately. Weekly relative frequency of records was calculated by dividing each species’ records by total bird records per week. Generalized Additive Models (GAM) were applied to detect sustained periods of high relative frequency, defined as “critical periods.” Most groups and species exhibited critical periods during the rainy season (weeks 1–8 [Jan-Feb]; 45–53 [Nov-Dec]) linked to resource surges from flood pulses in Pantanal. However, some groups, like open-area insectivores, peaked during the dry season (weeks 30–40 [Jul-Sep]), indicating differing resource-use strategies. Recognizing these critical periods allows for targeted conservation and management during key vulnerability windows, ensuring migratory birds encounter essential resources in the Pantanal to complete their migratory cycles and maintain viable populations.",
+      "doi": "10.1007/s43388-026-00309-9",
+      "authors": [
+        "Gabriel Magalhães Tavares",
+        "Leda A. P. Stefan",
+        "Thais B. Zanata",
+        "Vítor de Queiroz Piacentini"
+      ],
+      "year": 2026,
+      "journal": "Ornithology Research",
+      "openalex_id": "W7171349927",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171349927",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Migratory birds rely on habitats along their routes for rest, refueling, and reproduction. They adjust timing, speed, and stopover use to reduce energy and survival costs while maximizing reproductive success.",
+      "added": false
+    },
+    {
+      "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
+      "abstract": "<title>Abstract</title> Boreal forests, covering approximately a quarter of the continuous permafrost zone, store relatively modest aboveground carbon, but thermally protect vast soil organic carbon pools. Using a process-based model to compare seasonal thaw depths under forested and bare-ground scenarios, we quantify distinct canopy thermal insulation capacities of deciduous needleleaf, evergreen needleleaf, and deciduous broadleaf canopies on permafrost thermal dynamics. Canopy buffering maintains approximately 59 Pg of carbon in a frozen state, which equals 32% of the total forested permafrost carbon pool and far exceeds boreal biomass stocks (7-19 Pg). Canopy changes could mobilize this frozen SOC through gradual thaw (40 Pg) and rapid thermokarst collapse (19 Pg). While forest loss sacrifices biomass carbon stocks, resulting thaw would expose orders of magnitude more SOC from previously frozen reservoirs, revealing a critical asymmetry. Forest conservation strategies in continuous permafrost zones must account for canopy-mediated thermal protection of frozen SOC, which far exceeds its biomass carbon sequestration capacity.",
+      "doi": "10.1038/s41558-026-02692-z",
+      "authors": [
+        "Simone Maria Stuenzi",
+        "Guido Grosse",
+        "Frederieke Miesner",
+        "Sebastian Westermann",
+        "Moritz Langer"
+      ],
+      "year": 2026,
+      "journal": "Nature Climate Change",
+      "openalex_id": "W4416122704",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4416122704",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "<title>Abstract</title> Boreal forests, covering approximately a quarter of the continuous permafrost zone, store relatively modest aboveground carbon, but thermally protect vast soil organic carbon pools.",
+      "added": false
+    }
+  ]
+}
