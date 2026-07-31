@@ -1,0 +1,576 @@
+{
+  "date": "2026-07-31",
+  "statistics": {
+    "fetched": 126,
+    "duplicates_removed": 104,
+    "evaluated": 22,
+    "added": 2,
+    "ignored": 20,
+    "average_score": 1.73
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Climate change increases risks of wildfire and biome shifts in United States national parks in California",
+      "abstract": "Abstract Human-caused climate change has increased wildfire above natural levels across extensive areas of the world and caused vegetation biome shifts, detected and attributed from field observations. These changes threaten ecosystem integrity, yet detailed spatial patterns of risks remain unknown. We identify high risk areas in the globally unique ecosystems of Yosemite and three other United States national parks in California through analyses at 10 m spatial resolution. Our results reveal that climate change increased national park average temperatures up to 2.1 °C above pre-industrial levels from 1895 to 2023, exceeding the global average increase of 1.2 ± 0.1 °C. Forests in the region naturally require periodic fire but suppression generated severe fire risks on 6%–13% of park area by 2024. Under the highest emissions scenario (+4.6 °C–5 °C locally), climate change could shift potential biomes hundreds of meters upslope, on up to half of park area, increase fire frequencies 150%–350%, and shift wildfire into new areas, placing 8%–23% of park area at severe fire risk. Reduced emissions (+1.6 °C–1.9 °C locally) could avert biome shifts and limit fire frequency increases to &lt;40%. Use of naturally ignited fires and prescribed burning reduces understory fuel, decreasing fire risks. To identify sites for these fire management actions, managers currently use 1849 pre-European American settlement as a reference condition, missing extensive areas at risk under climate change. Here, we provide results for a new approach of using climate change conditions as a reference to target fire management for future ecological resilience. Ultimately, cutting the emissions from human activities that cause climate change remains the fundamental solution to reduce fire risks.",
+      "doi": "10.1088/1748-9326/ae89cf",
+      "authors": [
+        "Patrick González",
+        "Joshua Verkerke"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7171666786",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171666786",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 73%: matched 7/14 key interest terms (prescribed burning, prescribed, united states, united, burning)",
+      "tags": [
+        "Prescribed Burning",
+        "Prescribed",
+        "United States",
+        "United",
+        "Burning"
+      ],
+      "summary": "Abstract Human-caused climate change has increased wildfire above natural levels across extensive areas of the world and caused vegetation biome shifts, detected and attributed from field observations. These changes threaten ecosystem integrity, yet detailed spatial patterns of risks remain unknown.",
+      "added": true
+    },
+    {
+      "title": "Seasonal prediction of springtime tornado activity in the United States using a hybrid model",
+      "abstract": "Abstract. Tornado activity in the contiguous United States (CONUS) causes fatalities and financial losses every spring, motivating attempts to skillfully predict springtime tornadoes. Such predictions would facilitate decision-making and resource management for both public and private stakeholders. Using ERA5 reanalysis, we analyze five April–May weather regimes (WRs) from 1981–2023, some of which strongly modulate tornado activity. The WR information is incorporated into a hybrid model to predict April–May CONUS tornado activity, including tornado outbreaks (days with &gt; 10 EF-1+ tornadoes). ECMWF seasonal forecasts initialized on 1 April are applied to predict WR frequency, including persistent and non-persistent WRs (lasting ≥ 5 and &lt; 5 consecutive days, respectively). Prediction skill is evaluated using leave-one-year-out cross-validation. Predicted and observed tornado outbreak frequencies are significantly correlated (cc = 0.38). Outbreak predictions are more skillful during the positive phase of the Arctic Oscillation (AO) and Pacific North American pattern (PNA), with a proportion correct of 0.75 and 0.71, respectively. In general, model skill is higher during climate mode phases that favor suppressed tornado activity. This implies that climate modes of low-frequency variability can be used to identify forecasts of opportunity for low tornado activity. SSTs over the North Pacific and North Atlantic may help explain the predictability of tornado activity, specifically a +PNA pattern for years of low tornado activity, but further research is needed to confirm those results. Our study demonstrates the potential for skillful prediction of spring tornado outbreaks using WR forecasts and should be prioritized in future work.",
+      "doi": "10.5194/wcd-7-1349-2026",
+      "authors": [
+        "Matthew Graber",
+        "Zhuo Wang",
+        "Robert J. Trapp"
+      ],
+      "year": 2026,
+      "journal": "Weather and Climate Dynamics",
+      "openalex_id": "W7171505124",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171505124",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 49%: matched 4/14 key interest terms (causes, united states, united, states)",
+      "tags": [
+        "Causes",
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Abstract. Tornado activity in the contiguous United States (CONUS) causes fatalities and financial losses every spring, motivating attempts to skillfully predict springtime tornadoes. Such predictions would facilitate decision-making and resource management for both public and private stakeholders.",
+      "added": true
+    },
+    {
+      "title": "Creating fire-adapted landscapes for both people and nature: could we protect all western US communities from wildfires and facilitate restoring fire to wildlands within a decade?",
+      "abstract": "Abstract Wildfires burned hundreds of communities in the 11 western US states (11WS) over the last two decades, and a federal program, Confronting the Wildfire Crisis, is using fuel-reduction treatments (FRTs) over 7-9 million ha in 10 years to reduce exposure of communities to fires originating in distant wildlands. But, could a landscape system of fire-resistant land-uses and FRTs near communities better protect them all? If possible, this could also facilitate wildfire restoration in wildlands, both goals of Fire-Adapted Communities. I used GIS to estimate fire rates from 2000-2021 in 58 land covers to identify potential fire-resistant land uses, then used rates to place them into five categories from Safest to Very Dangerous. I added buffers of 100, 850, 2500, and 5000 m, representing different fire threats, to maps of 4,484 communities in the 11WS, then measured Safeness categories in them and their buffers. A surprising 34-39% of area inside communities and 53% in their outermost buffer were dangerous land uses. When 2000-2021 fires burned into 788 communities, 95% of burned area was in wildland vegetation, 88% was in dangerous, only 6% in safe land uses, validating these categories. For landscape fire protection, agencies/communities could: (1) move FRTs now in distant wildlands into dangerous land uses and wildland vegetation inside outer buffers of communities, where FRTs can reduce fire intensity and ember and smoke production, (2) replace dangerous internal land uses with safer uses, (3) retain safer uses internally and in buffers, and (4) link them with added safe uses or a constructed barrier, averaging as little as ∼25 m wide by 12-15 km long (&lt; 1% of the mean area of communities + buffers), across dangerous land uses externally. If funding was refocused, this could enable all communities in the 11WS to substantially develop fire-adapted landscapes for both people and nature within about a decade.",
+      "doi": "10.1088/2752-664x/ae9168",
+      "authors": [
+        "William L. Baker"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Ecology",
+      "openalex_id": "W7171497125",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171497125",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/14 key interest terms (wildfires, states, wildfire)",
+      "tags": [
+        "Wildfires",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfires burned hundreds of communities in the 11 western US states (11WS) over the last two decades, and a federal program, Confronting the Wildfire Crisis, is using fuel-reduction treatments (FRTs) over 7-9 million ha in 10 years to reduce exposure of communities to fires originating in distant wildlands.",
+      "added": false
+    },
+    {
+      "title": "Spatial bias in wildfire ignition models using a wildland urban Interface Pressure Index in the Tamil Nadu and Karnataka Belt",
+      "abstract": "Wildfire ignition is governed by complex interactions between anthropogenic activities and environmental conditions, yet many existing prediction models emphasize climatic variables while giving limited attention to human–environment interactions and spatial generalization. This study proposes a Wildland–Urban Interface Pressure Index (WUI-PI) that explicitly represents the interaction between anthropogenic pressure and fuel availability for wildfire ignition modeling in the Tamil Nadu–Karnataka region of India. Multi-source remote sensing, environmental, and anthropogenic datasets were integrated within a Random Forest framework, and model performance was evaluated using both conventional metrics and spatially independent validation. The proposed WUI-PI model achieved an Area Under the Receiver Operating Characteristic Curve (AUC) of 0.948, Area Under the Precision–Recall Curve (PR-AUC) of 0.220, and a Top-10% Fire Rate of 9.88%, outperforming the compared Logistic Regression and XGBoost models in overall predictive performance. Spatial validation revealed a trade-off between global predictive accuracy and geographic transferability, with the inclusion of Vapor Pressure Deficit (VPD) improving global model performance while reducing spatial generalization. Spatial bias analysis further identified consistent geographic error patterns, with underprediction occurring more frequently in climatically stressed regions and overprediction in landscapes characterized by greater anthropogenic influence. These findings demonstrate that incorporating interaction-based human–fuel predictors together with spatial validation provides a more comprehensive framework for wildfire ignition modeling than relying on global accuracy metrics alone. The proposed framework can support wildfire risk mapping, identification of high-risk Wildland–Urban Interface regions, and more spatially informed decision-making for wildfire prevention and management.",
+      "doi": "10.3389/ffgc.2026.1857505",
+      "authors": [
+        "Nipun Anand Saxena",
+        "U. Vignesh",
+        "R. Parvathi"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7171660168",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171660168",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 2/14 key interest terms (ignition, wildfire)",
+      "tags": [
+        "Ignition",
+        "Wildfire"
+      ],
+      "summary": "Wildfire ignition is governed by complex interactions between anthropogenic activities and environmental conditions, yet many existing prediction models emphasize climatic variables while giving limited attention to human–environment interactions and spatial generalization.",
+      "added": false
+    },
+    {
+      "title": "Representing prescribed fire and mechanical thinning in a demographic vegetation model: mechanisms driving forest structure, fuel, and demographic rates in California mixed-conifer forests",
+      "abstract": "Abstract. Prescribed fire and mechanical thinning are common fuel management and forest restoration practices in fire-prone ecosystems, particularly where long-term fire suppression has led to significant fuel accumulation and altered stand structure. Existing field evidence shows varied outcomes depending on environmental and stand conditions, with long-term, landscape-scale management effects remaining poorly understood. The majority of large-scale models that project long-term effects lack mechanistic management processes and are rarely validated for the ecological processes driving outcomes. To address this, we implemented a new prescribed fire model and adapted a pre-existing wood harvest model to represent restoration thinning in the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), a dynamic vegetation demography model. We developed a model validation framework emphasizing the key ecological mediators and expected feedback between management, vegetation, and fire. Running simulations with varying weather conditions under which prescribed fire can occur (burn window) and with the forest thinning model across three sites in California’s mixed conifer forests, we found that FATES successfully captured the observed relative changes in stand structure, tree size distribution, fuel load, and demographic rates following forest health treatments. Additionally, model results aligned with general ecological expectations and reproduced the key differences between thinning and prescribed fire: logging immediately and significantly reduces stem density and basal area but not surface fuel load, while prescribed fire results in nonsignificant to moderate reduction in stem density and basal area but an immediate decrease in surface fuel load. Notably, simulations with a wide, inclusive burn window resulted in cooler fires and caused less change in stem density and basal area than those with a narrow, exclusive burn window, but only at the warmest and driest modeled study site. Our work advances the integration of management activities into Earth system models by introducing a mechanistic, interactive prescribed fire model, and a validation framework grounded in empirical data to assist model evaluations and applications. The model provides a promising tool for projecting the complex climate-vegetation-fire-human interactions in dry conifer forests of the Western U.S. and other fire-adapted ecosystems with similar management history.",
+      "doi": "10.5194/egusphere-2026-3850",
+      "authors": [
+        "Xiulin Gao",
+        "J. Katz",
+        "Charles D. Koven",
+        "Adam Hanbury-Brown",
+        "Lara M. Kueppers"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171490757",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171490757",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 2/14 key interest terms (prescribed, large)",
+      "tags": [
+        "Prescribed",
+        "Large"
+      ],
+      "summary": "Abstract. Prescribed fire and mechanical thinning are common fuel management and forest restoration practices in fire-prone ecosystems, particularly where long-term fire suppression has led to significant fuel accumulation and altered stand structure.",
+      "added": false
+    },
+    {
+      "title": "Shrub-mediated vertical coupling regulates Holocene ecosystem variability and transition dynamics",
+      "abstract": "Ecosystems face amplified variability and abrupt reorganization under climate and land-use change, yet the role of vertical vegetation structure over millennia remains poorly constrained. Here we show, using Holocene pollen, charcoal, palaeoclimate and human-activity proxies from the Eastern China Monsoon Region, how tree, shrub and herb layers relate to ecosystem variability and potential tipping points. Shrubs are associated with reduced variability in northern temperate forest–grassland mosaics and southern subtropical forests, consistent with buffering that maintains continuity between canopy and ground layers. In the more open warm-temperate central region, shrub buffering is weak and lower variability depends mainly on a woody framework. Potential tipping points are asynchronous, with earlier transitions in the structurally weaker central region. As transitions are approached, shrubs shift from buffering variability to being linked with vegetation reorganization under intensifying fire, climatic stress and human activity. These results identify shrub-mediated vertical coupling as a key axis of long-term ecosystem stability. Shrubs stabilize long‑term ecosystem dynamics by buffering variability across vegetation layers but shift to drivers of reorganization under increasing fire, climate, and human pressures, based on Holocene pollen, charcoal, and paleoenvironmental analyses from the Eastern China Monsoon Region.",
+      "doi": "10.1038/s43247-026-03877-2",
+      "authors": [
+        "Haoyan Wang",
+        "Yan Liu",
+        "Li Xiao",
+        "Yili Jin",
+        "Kai Li",
+        "Mengna Liao",
+        "Ning Zhao",
+        "Shihao Liu",
+        "Qianli Sun",
+        "Jing Chen",
+        "Maotian Li"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7171570874",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171570874",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 2/14 key interest terms (drivers, eastern)",
+      "tags": [
+        "Drivers",
+        "Eastern"
+      ],
+      "summary": "Ecosystems face amplified variability and abrupt reorganization under climate and land-use change, yet the role of vertical vegetation structure over millennia remains poorly constrained.",
+      "added": false
+    },
+    {
+      "title": "Indoor Burning of Arabian Incense Generates Abundant Ultrafine Particles with Strong Oxidative Potential",
+      "abstract": "Abstract. Arabian incense (Bakhoor) burning is a widely practiced fragrancing and ceremonial activity, yet how the Bakhoor composition controls particle emissions and oxidative potential remains poorly constrained, especially under repeated use in low-ventilation settings. Here we characterized emissions from Bakhoor burning in a controlled chamber using a charcoal-assisted heating configuration representative of common practice and quantified aerosol oxidative potential using complementary acellular dithiothreitol (DTT) activity and a macrophage-based intracellular oxidative-stress response, with smoldering sidestream cigarette smoke as a protocol-matched indoor combustion reference. Normalized by the initial Bakhoor mass per burn, Bakhoor burning produced particle mass and number emission rates of 670–1690 µg min−1 g−1 and (6–7) × 1011 particles min−1 g−1, respectively. Ultrafine particles contributed 70 %–75 % of the total particle number, and their emission rates substantially exceeded those from sidestream cigarette smoke. Across Bakhoor materials, emission magnitude followed a nonlinear power-law relationship with the loading of the hexane-soluble fraction, indicating that this fraction is an important control on particle production. In the acellular assay, the water-soluble particle mass-normalized DTT consumption rate (OPDTT, mWS) was approximately 32 pmol min−1 µg−1, modestly lower than that of cigarette smoke particles, whereas Bakhoor burning particles elicited stronger intracellular oxidative-stress responses. Ozone aging increased oxidative potential for both sources, and the acellular and cellular responses remained evident after aging equivalent to days of indoor exposure. Overall, Bakhoor burning represents a previously underrecognized source of ultrafine aerosol with substantial oxidative potential.",
+      "doi": "10.5194/acp-26-10587-2026",
+      "authors": [
+        "Liyuan Zhou",
+        "Zhancong Liang",
+        "Wei Xu",
+        "Ru‐Jin Huang",
+        "Patrick K. H. Lee",
+        "Chak K. Chan"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7171728024",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171728024",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/14 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Abstract. Arabian incense (Bakhoor) burning is a widely practiced fragrancing and ceremonial activity, yet how the Bakhoor composition controls particle emissions and oxidative potential remains poorly constrained, especially under repeated use in low-ventilation settings.",
+      "added": false
+    },
+    {
+      "title": "Reforestation following megafires in boreal forests: silvicultural challenges and available tools",
+      "abstract": "In North America, climate change is projected to increase wildfire activity, leading to more frequent megafires that will likely overwhelm current regeneration processes, threatening the resilience of boreal forests and the services that they provide. The devastating 2023 wildfire season exposes the magnitude of the challenge facing North America, including eastern regions. Post-fire reforestation needs can far exceed current capacity, which relies almost exclusively on manual tree planting. Our review addresses urgent needs to increase reforestation capacity to restore vast burned landscapes that are experiencing regeneration failures. We first provide an overview of current challenges and promising reforestation methods for tree planting and direct seeding. Challenges include addressing regeneration failure risks and limited road access, and strengthening reforestation value chains amid workforce shortages. We discuss the suitability of traditional and innovative reforestation methods, considering these challenges, to situate them within a broader restoration strategy. We show that using multiple methods expands reforestation capacity by providing more options for reforesting sites with a wider range of biophysical conditions. However, robust evidence on method-specific outcomes across different timescales is still needed to understand their effectiveness for post-fire restoration. Future research should further assess the cost-benefits of these methods and improve our ability to predict and mitigate regeneration failures across varying forest landscapes to support efficient restoration efforts. Our work provides a foundation for transferring current knowledge into strategic reforestation planning and execution. It is relevant to communities, scientists, governments and managers seeking to adapt regeneration silviculture to changing fire regimes.",
+      "doi": "10.1007/s11056-026-10196-z",
+      "authors": [
+        "Claudie‐Maude Canuel",
+        "Faustine Guyot",
+        "François Hébert",
+        "Émie Jacques-Beaudoin",
+        "Daniel Dumais",
+        "Nelson Thiffault",
+        "Martin Barrette",
+        "Yan Boucher"
+      ],
+      "year": 2026,
+      "journal": "New Forests",
+      "openalex_id": "W7171500597",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171500597",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 2/14 key interest terms (eastern, wildfire)",
+      "tags": [
+        "Eastern",
+        "Wildfire"
+      ],
+      "summary": "In North America, climate change is projected to increase wildfire activity, leading to more frequent megafires that will likely overwhelm current regeneration processes, threatening the resilience of boreal forests and the services that they provide.",
+      "added": false
+    },
+    {
+      "title": "Influence of Emission Inventories and Secondary Organic Aerosol Chemistry on Simulated Fine Particulate Matter Over the U.S. in a Chemical Transport Model",
+      "abstract": "Abstract Accurately modeling ambient fine particulate matter (diameter &lt;2.5 μm, PM 2.5 ) is crucial to air quality management. We evaluate how uncertainties in biomass burning (BB) emissions, anthropogenic emissions, and secondary organic aerosol (SOA) production mechanisms impact simulated PM 2.5 mass, composition, and statistical accuracy of modeled PM 2.5 over the continental U.S. using the GEOS‐Chem chemical transport model. We compare simulations driven by different BB inventories (Global Fire Emissions Database, GFED; Global Fire Assimilation System, GFAS) and anthropogenic emissions inventories (Community Emissions Data System, CEDS; U.S. Environmental Protection Agency National Emissions Inventory, NEI), and SOA chemistry schemes (simple, S; complex, C).Six scenario combinations (S‐GFED‐CEDS, C‐GFED‐CEDS, C‐GFED‐NEI, S‐GFED‐NEI, S‐GFAS‐CEDS, and C‐GFAS‐NEI) were analyzed for August and December 2021, representing wildfire and non‐wildfire periods. In August, GFED‐driven scenarios produce PM 2.5 concentrations &gt;38% higher than the GFAS‐driven simulation (C‐GFAS‐NEI) change. GFED leads to increased organic aerosols (OA) in August, while in December the SOA chemistry scheme drives OA differences between simulations. Compared to ground‐based observations, the C‐GFAS‐NEI simulation has the highest spatial correlation and lowest bias in August, when GFED‐based simulations overestimate PM 2.5 by more than 80% on average. In December, performance was similar across scenarios, with the simple SOA scheme yielding a lower bias than the complex scheme. These findings demonstrate that BB inventories dominate uncertainty in simulated PM 2.5 during wildfire‐impacted periods, whereas SOA chemistry exerts greater influence when wildfire activity is limited. Accounting for these uncertainties can guide emission inventory selection, choice of SOA treatment, and inform future model developments to improve policy or source attribution applications.",
+      "doi": "10.1029/2025jd046028",
+      "authors": [
+        "Tessa Clarizio",
+        "Mashiat Hossain",
+        "Hannah M. Horowitz"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W4417046262",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4417046262",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 2/14 key interest terms (burning, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Abstract Accurately modeling ambient fine particulate matter (diameter &lt;2.5 μm, PM 2.5 ) is crucial to air quality management. We evaluate how uncertainties in biomass burning (BB) emissions, anthropogenic emissions, and secondary organic aerosol (SOA) production mechanisms impact simulated PM 2.5 mass, composition,…",
+      "added": false
+    },
+    {
+      "title": "Extreme droughts' impact on Scots pine net primary productivity in Poland in the period 2002–2023",
+      "abstract": "Severe drought episodes significantly influence the productivity of trees in many parts of Europe. This paper shows in detail the influence of the most severe drought events on the productivity of the most important and dominant tree species in Poland – Scots pine ( Pinus sylvestris L. ). We identified four months with most severe drought conditions that occurred in Poland during 2002–2023: July 2006, April 2009, August 2015 and June 2019. To estimate the net primary productivity (NPP) of pine forests, we used the Moderate Resolution Imaging Spectroradiometer (MODIS) NPP product for homogeneous pixels for this tree species. The obtained values were further correlated with temperature, precipitation, evapotranspiration and climatic water balance. The identified summer droughts had considerable effect on pine forest productivity. August 2015 exhibited the lowest NPP among all Augusts within the study period, representing a decrease of 57.80% relative to the long-term August mean. Similarly, July 2006 and June 2019 recorded pronounced reductions in NPP, declining by 40.81% and 20.59%, respectively, representing the lowest NPP values for these months across the entire period analysed. Our study demonstrates that the relationship between drought severity and pine's productivity depends on the time during the year, when the drought occurs. Summer droughts, with their peak in June, July or August, resulted in significantly decreased productivity of trees, while spring droughts, tend to have an initial positive impact on pine's condition. Pine forest productivity showed a prolonged decrease during summer droughts (e.g., August 2015, June 2019), with a negative relationship between NPP and temperature. Such long response of MODIS-derived NPP of pine is not clearly visible for drought occurring on the beginning of the growing season (April 2009). The results indicate that drought events significantly reduce pine NPP in Poland, with both the magnitude and duration of their impacts being strongly modulated by the timing of drought occurrence.",
+      "doi": "10.1016/j.ecoinf.2026.103936",
+      "authors": [
+        "Oliwier Zając",
+        "Kinga Kulesza",
+        "Agata Hościło"
+      ],
+      "year": 2026,
+      "journal": "Ecological Informatics",
+      "openalex_id": "W7170856147",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170856147",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/14 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Severe drought episodes significantly influence the productivity of trees in many parts of Europe. This paper shows in detail the influence of the most severe drought events on the productivity of the most important and dominant tree species in Poland – Scots pine ( Pinus sylvestris L. ).",
+      "added": false
+    },
+    {
+      "title": "Very short-term production prediction for photovoltaic plants using Temporal Convolutional Networks",
+      "abstract": "Very short-term forecasting of solar photovoltaic energy production at national scale is challenging due to the high variability and spatial aggregation of generation across large territories. This paper evaluates Temporal Convolutional Networks (TCN) - a deep learning architecture based on causal and dilated convolutions - for nowcasting national-level solar production at one-hour and fifteen-minute horizons, using data from Spain sourced from the European Network of Transmission System Operators for Electricity. Multivariate models augmented with past weather observations (solar irradiance and sun height) are compared against linear regression baselines. Results demonstrate that the multivariate TCN substantially outperforms linear regression at the one-hour horizon, and achieves consistent improvement at the fifteen-minute horizon. The relative contribution of architecture and weather features is resolution-dependent: at hourly granularity, the TCN architecture itself provides the dominant gain, while at the fifteen-minute scale the inclusion of weather covariates becomes the primary driver of accuracy, reflecting the greater atmospheric variability at finer temporal scales. A key finding is that past-only weather inputs are sufficient for accurate nowcasting, eliminating the need for future meteorological forecasts as model inputs. The results support the practical applicability of TCN-based models for national-level solar energy integration and provide a data-driven feature-selection criterion for similar renewable energy forecasting tasks.",
+      "doi": "10.1371/journal.pone.0354512",
+      "authors": [
+        "Loukas Samaras",
+        "Elena García‐Barriocanal",
+        "Miguel‐Ángel Sicilia",
+        "Lino González García"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7171531279",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171531279",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Very short-term forecasting of solar photovoltaic energy production at national scale is challenging due to the high variability and spatial aggregation of generation across large territories.",
+      "added": false
+    },
+    {
+      "title": "Photochemical ageing drives the browning of urban outflows through secondary brown carbon production",
+      "abstract": "Abstract. Brown carbon (BrC) absorbs solar radiation, thereby partially offsetting the cooling effect of aerosols on the climate. However, its contribution to climate forcing remains poorly constrained and is currently not explicitly included in the overall radiative forcing estimates of the IPCC. In this work, we quantify the contributions of BrC to light absorption in urban outflows from Paris using aircraft observations. We observe a progressive \"browning\" of the plume over 6 hours of transport time, characterised by a significant increase in the relative contribution of BrC to aerosol light absorption. This optical shift is strongly correlated with photochemical ageing as evidenced by the increase in the organic aerosols-to-BC mass ratio and the simultaneous depletion of aromatic volatile organic precursors. The corresponding rise in the Absorption Angström Exponent from 1.1 to 2.6 provides further evidence that secondary organic aerosol formation is the primary driver of enhanced light absorption at 450 nm in the aged plume. Our observations indicate that BrC is photochemically produced during transport at a rate of ~0.25 h-1 over 6 hours of atmospheric processing under the conditions examined in this study. For these cases, the findings suggest that urban outflows are not merely diluted during transport but undergo significant chemical transformations that alter their radiative impact. Accounting for these time-dependent optical changes provides a way to refine how climate models simulate radiative impacts of large metropolitan areas to climate change.",
+      "doi": "10.5194/egusphere-2026-4423",
+      "authors": [
+        "Alejandra Velazquez-Garcia",
+        "Chenjie Yu",
+        "S. Tinorua",
+        "Hichem Bouzidi",
+        "Eleonora Aruffo",
+        "Piero Di Carlo",
+        "P. F. DeCarlo",
+        "Benjamin A. Nault",
+        "Thierry Bourrianne",
+        "Kevin Tu",
+        "Edouard Pangui",
+        "Diana L. Pereira",
+        "Mathieu Cazaunau",
+        "Ludovico Di Antonio",
+        "Guillaume Siour",
+        "Matthias Beekmann",
+        "Astrid Bauville",
+        "C. A. Cantrell",
+        "Paola Formenti",
+        "Vincent Michoud",
+        "Cyrielle Denjean"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171549994",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171549994",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract. Brown carbon (BrC) absorbs solar radiation, thereby partially offsetting the cooling effect of aerosols on the climate. However, its contribution to climate forcing remains poorly constrained and is currently not explicitly included in the overall radiative forcing estimates of the IPCC.",
+      "added": false
+    },
+    {
+      "title": "A New Chapter: Opportunities to seed new industries for Queensland over the coming decade",
+      "abstract": "Queensland’s post-COVID economic recovery and transformation depends on being ready for new economic opportunities. In a time of significant change and disruption, the state has an opportunity to harness its strengths in science and technology to position itself ahead of the curve. This report was developed by CSIRO and the Queensland University of Technology’s Centre for Future Enterprise and commissioned by the Queensland Department of Environment and Science. It aims to explore the areas where Queensland’s scientific and technological capabilities overlap with its comparative advantages and state priorities, opening up the potential to seed new industry opportunities for the state.&lt;br/&gt;&lt;br/&gt;Through this work, a set of nine emerging, knowledge‑driven seed industries have been identified as having potential for strong, sustained jobs growth, if supportive ecosystems can be established for them. They should not necessarily be viewed as the only opportunities or the best opportunities for Queensland, but as additional options for policy-makers to consider. Each of the nine seed industries presented in this report is defined using a holistic approach that considers the social, economic and environmental benefits and costs, to support innovation and entrepreneurship, investment and job creation opportunities and overall economic outputs and exports&lt;br/&gt;for Queensland.",
+      "doi": "10.25919/rbhq-9x68",
+      "authors": [
+        "Claire Naughtin",
+        "Char-lee Moyle",
+        "Vibhor Pandey",
+        "Chad Renando",
+        "Lavinia Poruschi",
+        "Rui Torres de Oliveira",
+        "Nam X. Doan",
+        "Emma Schleiger"
+      ],
+      "year": 2026,
+      "journal": "QUT ePrints (Queensland University of Technology)",
+      "openalex_id": "W3187563762",
+      "citation_count": 2,
+      "url": "https://openalex.org/W3187563762",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Queensland’s post-COVID economic recovery and transformation depends on being ready for new economic opportunities. In a time of significant change and disruption, the state has an opportunity to harness its strengths in science and technology to position itself ahead of the curve.",
+      "added": false
+    },
+    {
+      "title": "Warn-on-Forecast System: Concept of Operations Demonstration with the Storm Prediction Center in the 2023–2024 Cool Season",
+      "abstract": "Cool-season severe weather events can be a notable forecasting challenge for operational meteorologists. Oftentimes these events can occur overnight, with complex storm modes, and in environments containing limited buoyancy and substantial vertical wind shear, commonly referred to as “high-shear, low-CAPE.” The Warn-on-Forecast System (WoFS) can provide critical short-term, storm-scale information to forecasters, as shown in previous testing of the system, but has had limited exposure during cool-season events. A 2023–2024 demonstration aimed to explore the use of WoFS in cool-season events while also demonstrating a “concept of operations” in which the Storm Prediction Center (SPC) led placement of the WoFS regional domain for severe weather. During the WoFS Concept of Operations Demonstration with SPC, several firsts occurred, including the first real-time run in January, the first domain aimed at fire weather rather than convective weather, and the first use of WoFS data as an underlay in an SPC Mesoscale Convective Discussion. We will highlight how the demonstration prompted improvements to WoFS products to better suit cool-season events and showed the importance of increasing WoFS availability to forecasters so its value can be consistently realized in National Weather Service operations.",
+      "doi": "10.15191/nwajom.2026.1415",
+      "authors": [
+        "Miranda Silcott",
+        "Patrick C. Burke",
+        "Israel L. Jirak",
+        "Patrick T. Marsh",
+        "William F. Bunting",
+        "Brian C. Matilla",
+        "Kent Knopfmeier",
+        "Joshua Martin"
+      ],
+      "year": 2026,
+      "journal": "Journal of Operational Meteorology",
+      "openalex_id": "W7171554679",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171554679",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Cool-season severe weather events can be a notable forecasting challenge for operational meteorologists. Oftentimes these events can occur overnight, with complex storm modes, and in environments containing limited buoyancy and substantial vertical wind shear, commonly referred to as “high-shear, low-CAPE.” The Warn-on…",
+      "added": false
+    },
+    {
+      "title": "Habitat Association of Key Wildlife Species in One of the Largest Lowland Evergreen Forests in Southeast Asia",
+      "abstract": "Wildlife plays a vital role in maintaining ecological balance and biodiversity, relying on habitats that provide shelter, food, and essential resources. This study investigated wildlife distribution and diversity across the REDD+ program area in Cambodia’s Prey Lang Wildlife Sanctuary, a lowland evergreen forest ecosystem, and assessed the effects of forest habitats and anthropogenic pressure on their distribution. We used square transects for sampling and ArcGIS to calculate forest cover and distance to the nearest village as a proxy for human impact. Overall, we recorded seven mammals and two birds, with the great hornbill (Buceros bicornis) most frequently detected, followed by pileated gibbon (Hylobates pileatus), wild pig (Sus scrofa), long-tailed macaque (Macaca fascicularis), green peafowl (Pavo muticus), northern red muntjac (Muntiacus vaginalis), and Indochinese silvered langur (Trachypithecus germaini), while gaur (Bos gaurus) and sambar deer (Rusa unicolor) were least detected. Wildlife richness and abundance were higher in evergreen-dominated habitats than in mixed deciduous–evergreen forests. Certain K-selected species, including pileated gibbon, Indochinese silvered langur, and great hornbill, were highly specialized and preferred intact forests, whereas generalist species such as northern red muntjac, long-tailed macaque, and wild pig showed ecological flexibility in habitat use. These findings emphasize tailored conservation strategies: protecting intact evergreen forests via REDD+ supports specialized species, while adaptive management in mosaic landscapes benefits generalists, enhancing wildlife conservation and sustainable management of the Prey Lang Wildlife Sanctuary.",
+      "doi": "10.3390/biosphere2030007",
+      "authors": [
+        "Kimnannara Khiev",
+        "Ratha Sor",
+        "Vanna Chea",
+        "Sophak Sett",
+        "Jackson L. Frechette",
+        "Naven Hon"
+      ],
+      "year": 2026,
+      "journal": "Biosphere",
+      "openalex_id": "W7171513579",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171513579",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Wildlife plays a vital role in maintaining ecological balance and biodiversity, relying on habitats that provide shelter, food, and essential resources. This study investigated wildlife distribution and diversity across the REDD+ program area in Cambodia’s Prey Lang Wildlife Sanctuary, a lowland evergreen forest ecosys…",
+      "added": false
+    },
+    {
+      "title": "ALS Pulse Density Effects on Tree Height Accuracy and the Quality of Elevation and Canopy Rasters",
+      "abstract": "This study investigated the influence of airborne laser scanning (ALS) pulse density on the accuracy of total tree height estimates and the quality of raster products commonly used in individual tree detection (ITD) workflows. Using a high-density (36 pulses per square meter (PPM)) ALS dataset, we generated lower-density subsets and compared derived outputs using a standardized processing pipeline. Tree height estimates were validated against field measurements, and elevation products—digital elevation models (DEMs), digital surface models (DSMs), and canopy height models (CHMs)—were assessed across pulse densities. DSM and CHM quality improved with increasing density, showing reduced bias and tighter variation. In contrast, DEM accuracy remained relatively stable across densities, indicating lower-density ALS may suffice for ground modeling in forested environments. The results also revealed a strong positive relationship between pulse density and total tree height accuracy. Higher-density datasets consistently produced more accurate and less biased tree height estimates, while sparser datasets exhibited systematic underestimation due to missed canopy peaks. These findings emphasize the importance of aligning ALS pulse density with project objectives. While low-density data may be adequate for terrain modeling, higher-density acquisitions are critical for reliable canopy representation and accurate ITD outputs. This study provides operational guidance for forestry practitioners and highlights the value of investing in higher-resolution ALS data for modern forest inventories.",
+      "doi": "10.3390/f17080878",
+      "authors": [
+        "Logan Wimme",
+        "Mark V. Corrao",
+        "Dan Kluskiewicz",
+        "Joel Glaze"
+      ],
+      "year": 2026,
+      "journal": "Forests",
+      "openalex_id": "W7171565628",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171565628",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "This study investigated the influence of airborne laser scanning (ALS) pulse density on the accuracy of total tree height estimates and the quality of raster products commonly used in individual tree detection (ITD) workflows.",
+      "added": false
+    },
+    {
+      "title": "A comparative analysis of Thermal-Optical and Optical Trapezoid Models (TOTRAM)",
+      "abstract": "Soil moisture is essential for agricultural drought monitoring and water management in semi-arid northern Namibia, yet high-resolution evidence remains limited. This study compared thermal-optical and optical trapezoid models for the Rundu Basin using Landsat 8/9 and Sentinel-2 data in an extreme drought year (2019) and a wetter year (2021). Methods included scatter plot-based dry-edge/wet-edge parameterization, monthly soil-moisture time-series analysis, and Pearson correlation with vegetation, drought, and topographic variables. Results showed that Optical Trapezoid (OPTRAM) performed more consistently than Thermal-Optical Trapezoid Model (TOTRAM), especially with Sentinel-2, with stronger trapezoidal structure and more stable parameters. Soil moisture increased during the rainy season and declined during the dry season, with 2021 showing higher and more persistent moisture than 2019. Vegetation indices were the strongest correlates of modeled soil moisture, while topographic variables had weak influence in this low-relief landscape. The study demonstrates the value of high-resolution optical remote sensing for fine-scale drought monitoring and highlights the need for in-situ validation and more objective edge parameterization. Key words: Remote sensing, soil moisture estimation, Thermal-Optical Trapezoid Models (TOTRAM), climate change, Namibia.",
+      "doi": "10.5897/ajest2026.3499",
+      "authors": [
+        "Wyss Daniel",
+        "Streit Maurice",
+        "Bestert Melina",
+        "Gizaw Negussie Kaleb",
+        "Heim Rene",
+        "K. Martin"
+      ],
+      "year": 2026,
+      "journal": "African Journal of Environmental Science and Technology",
+      "openalex_id": "W7171492658",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171492658",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Soil moisture is essential for agricultural drought monitoring and water management in semi-arid northern Namibia, yet high-resolution evidence remains limited. This study compared thermal-optical and optical trapezoid models for the Rundu Basin using Landsat 8/9 and Sentinel-2 data in an extreme drought year (2019) an…",
+      "added": false
+    },
+    {
+      "title": "Derivative landmarking corroborates convergence in Mesozoic marine reptile skulls and their feeding performance",
+      "abstract": "editorial reviewed",
+      "doi": "10.13140/rg.2.2.27950.68162",
+      "authors": [
+        "Francesco Della Giustina",
+        "Valentin Fischer"
+      ],
+      "year": 2026,
+      "journal": "Open Repository and Bibliography (University of Liège)",
+      "openalex_id": "W7171490641",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171490641",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "editorial reviewed",
+      "added": false
+    },
+    {
+      "title": "Biodiversity-focused nature-based solutions for climate-resilient Agri-food systems: A systematic review",
+      "abstract": "Context Nature-based Solutions (NBS) are increasingly promoted as a strategy to support climate change adaptation in agricultural systems to maintain agricultural productivity while delivering co-benefits for biodiversity conservation and farmers' livelihoods. However, increasing the frequency and intensity of climate extremes, along with other management and social-ecological challenges, can affect the effectiveness of NBS. There is insufficient robust evidence on whether NBS can consistently achieve multiple objectives across different contexts. Objective This study synthesised global evidence on whether biodiversity-focused NBS in agricultural landscapes can simultaneously support biodiversity, agricultural production, and livelihoods, including under climate stress. Methods Following PRISMA guidelines, we systematically reviewed literature on biodiversity-focused NBS in agricultural landscapes. We used a mixed-methods approach to screen and synthesise qualitative and quantitative evidence on biodiversity, agricultural and livelihood outcomes, and to examine the factors associated with success, trade-offs, and NBS performance under extreme weather. Results and conclusions Across 117 NBS interventions reported in 62 cases worldwide, more than half of the reviewed cases reported simultaneous positive outcomes for biodiversity, agriculture, and livelihoods, which reveals the potential for NBS to deliver “triple-wins” under appropriate conditions. Interventions combining multiple NBS were more likely to generate positive triple outcomes than single interventions. Trade-offs and mixed outcomes were associated with socio-economic, behavioural, and biophysical constraints. Overall, the findings suggest that well-designed NBS can drive recovery and adaptive reorganisation of ecosystem function in addition to achieving goals for people at local and global scales. Significance This study provides one of the first global syntheses of “triple-win” outcomes from biodiversity-focused NBS in agricultural systems under extreme weather. It advances understanding of how NBS may contribute to climate-resilient agricultural systems and identifies the conditions under which multiple benefits are more or less likely to be achieved.",
+      "doi": "10.1016/j.agsy.2026.104907",
+      "authors": [
+        "Thi Tinh Chi Le",
+        "Daniel Cruz",
+        "Carol Richards",
+        "Lin Dai",
+        "Ayesha Tulloch"
+      ],
+      "year": 2026,
+      "journal": "Agricultural Systems",
+      "openalex_id": "W7171511748",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171511748",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Context Nature-based Solutions (NBS) are increasingly promoted as a strategy to support climate change adaptation in agricultural systems to maintain agricultural productivity while delivering co-benefits for biodiversity conservation and farmers' livelihoods.",
+      "added": false
+    },
+    {
+      "title": "Towards Comprehensive Economic Assessments of Climate Change Impacts",
+      "abstract": "Abstract Robust and comprehensive economic assessments of climate change impacts are essential for effective mitigation and adaptation policy. However, estimates of economic impacts remain highly uncertain and vary substantially across modelling approaches. To increase transparency and cross-disciplinary understanding, we review the key strengths and limitations of widely used economic modelling approaches. We find that none of the modelling approaches can comprehensively assess both direct and indirect impacts of climate change, particularly those caused by climate extremes, across spatiotemporal scales. Modelling approaches typically face trade-offs between broad regional and sectoral coverage and high granularity. Yet, there is a growing need for assessments that link asset-level impacts to cross-regional and cross-sectoral spillover effects. Future research should focus on: (i) better quantifying the persistence of climate change impacts on economic output, (ii) integrating often-omitted climate hazards, (iii) improving the representation of interactions among environmental, social, economic, and financial systems, and (iv) advancing cross-sectoral adaptation modelling across scales. We propose a modular, multi-scale integration of complementary modelling approaches that can enable more comprehensive assessments of socioeconomic impacts from local to global scales and improve the representation of persistent climate impacts on socioeconomic development. The proposed framework can support more robust evaluation of mitigation and adaptation policies and better guide decision-making.",
+      "doi": "10.1007/s41885-026-00205-y",
+      "authors": [
+        "Anton Orlov",
+        "Benjamin Blanz",
+        "Leonard Borchert",
+        "Paul Waidelich",
+        "Moritz A. Drupp",
+        "Felix Schaumann",
+        "Vito Avakumovic",
+        "Jana Sillmann"
+      ],
+      "year": 2026,
+      "journal": "Economics of Disasters and Climate Change",
+      "openalex_id": "W7171642316",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171642316",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract Robust and comprehensive economic assessments of climate change impacts are essential for effective mitigation and adaptation policy. However, estimates of economic impacts remain highly uncertain and vary substantially across modelling approaches.",
+      "added": false
+    },
+    {
+      "title": "Managing climate overshoot: a risk-based strategy for climate stabilisation",
+      "abstract": "Global warming is accelerating, yet current climate strategies centred on emissions reduction and carbon removal are unlikely to prevent temperatures from crossing dangerous tipping points. Although essential, these approaches operate too slowly to counter near-term warming driven by Earth’s growing energy imbalance, weakening carbon sinks, and amplifying climate feedbacks. This mismatch reflects systemic shortcomings in climate risk assessment that underestimate nonlinear risks and the escalating costs of delay. We argue that climate stabilisation should be treated as a risk-management challenge rather than an incremental policy process. This requires explicit comparison of intervention risks with those of continued warming. We outline a comparative risk–risk framework that integrates mitigation, carbon removal, and cooling interventions, and suggests that a viable strategy may require combining rapid decarbonisation and expanded carbon removal with carefully governed cooling interventions to limit near-term warming. Without aligning response timelines with accelerating climate threats, the likelihood of irreversible Earth-system disruption will continue to grow.",
+      "doi": "10.3389/fclim.2026.1872846",
+      "authors": [
+        "Graeme Taylor",
+        "Peter Wadhams",
+        "Thomas Goreau",
+        "Suzanne Reed",
+        "Heri Kuswanto",
+        "Daniele Visioni",
+        "Dennis Garrity"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7171708861",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171708861",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Global warming is accelerating, yet current climate strategies centred on emissions reduction and carbon removal are unlikely to prevent temperatures from crossing dangerous tipping points.",
+      "added": false
+    },
+    {
+      "title": "Bridging data and decisions: Lessons learned from co-producing climate tools for the mid-Atlantic",
+      "abstract": "The growing demand for climate data tools to support planning, design, and policy decisions has led to a proliferation of platforms, dashboards, and datasets. However, not all tools are equally effective in bridging the gap between climate science and actionable policy. This paper synthesizes insights from eight years of collaboration with decisionmakers across government agencies, water utilities, and other practitioners to develop over 30 climate and environmental data tools. These tools, created as part of the Mid-Atlantic Climate Adaptation Partnership/Regional Integrated Sciences and Assessments Program (MARISA), address diverse challenges such as drought preparedness, air quality management, stormwater infrastructure design, extreme heat management, and environmental modeling. Drawing from user feedback, surveys, and interviews, as well as lessons learned during tool development and maintenance, we outline six best practices for creating user-centered climate data tools. These practices emphasize addressing user-defined data gaps, designing for real-world integration, matching tool complexity to user capacity, prioritizing iterative development, enabling continuous improvement, and supporting users with complementary resources. By distilling key lessons and emerging best practices, this paper aims to guide researchers and developers working at the science–policy interface, supporting a growing community of practice focused on translating climate data into meaningful policy action.",
+      "doi": "10.1016/j.cliser.2026.100696",
+      "authors": [
+        "Michelle E. Miro",
+        "Krista Romita Grocholski",
+        "Lena Easton-Calabria",
+        "Linnea Warren May"
+      ],
+      "year": 2026,
+      "journal": "Climate Services",
+      "openalex_id": "W4416708026",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4416708026",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "The growing demand for climate data tools to support planning, design, and policy decisions has led to a proliferation of platforms, dashboards, and datasets. However, not all tools are equally effective in bridging the gap between climate science and actionable policy.",
+      "added": false
+    }
+  ]
+}
