@@ -1,0 +1,575 @@
+{
+  "date": "2026-08-01",
+  "statistics": {
+    "fetched": 138,
+    "duplicates_removed": 116,
+    "evaluated": 22,
+    "added": 3,
+    "ignored": 19,
+    "average_score": 1.64
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery",
+      "abstract": "Abstract. In the United States (U.S.), aggressive suppression policies in the 20th century reduced wildfires in the short term, but accumulated fuels contributed to increased wildfire risk in the long term. Land managers are slowly reintroducing the use of fuel treatments, including prescribed (Rx) fires, to remove fuels and mitigate future wildfires. To date, efforts to systematically quantify the efficacy of fuel treatments for wildfire mitigation have been limited in spatial and temporal scope or rely on proxies, such as low-intensity wildfires. Here we use the 30-m Harmonized Landsat and Sentinel-2 (HLS) dataset to analyze timeseries of vegetation “greenness” indices, such as the Normalized Burn Ratio (NBR), with observations up to every 1.4 days. We apply a causal inference approach, difference-in-differences (DID), on HLS-derived timeseries of NBR to compare outcomes in treated and surrounding control areas in three different time phases: 1) post-treatment fuel reduction, 2) wildfire-induced burn severity, and 3) post-wildfire vegetation recovery. As a case study, we targeted 37 Rx fires that preceded and intersected the 2024 Park Fire, a large wildfire in northern California. We show statistical evidence that Rx fires reduce fuel loads (12 Rx fires), wildfire burn severity (12 Rx fires), and postwildfire vegetation recovery (14 Rx fires). Our approach requires only the spatial footprint and timing of the fuel treatments, thus enabling regional to nationwide analyses using a large number of fuel treatments to quantify the general efficacy of fuel treatments across a variety of treatment types, fuel types, and topography.",
+      "doi": "10.5194/isprs-archives-xlix-b3-2026-987-2026",
+      "authors": [
+        "Tianjia Liu",
+        "Kento Otobe",
+        "Makoto Kelp"
+      ],
+      "year": 2026,
+      "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+      "openalex_id": "W7171881315",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171881315",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 63%: matched 7/13 key interest terms (states, large, prescribed, united states, united)",
+      "tags": [
+        "States",
+        "Large",
+        "Prescribed",
+        "United States",
+        "United"
+      ],
+      "summary": "Abstract. In the United States (U.S.), aggressive suppression policies in the 20th century reduced wildfires in the short term, but accumulated fuels contributed to increased wildfire risk in the long term.",
+      "added": true
+    },
+    {
+      "title": "Creative destruction: from fire ecology to management principles—a conceptual review",
+      "abstract": "This conceptual review aims to synthesize fire management principles that have the potential to restore and conserve biodiversity and ecosystem processes, avert catastrophic events and ensure the sustainable use of ecosystem resources, goals that are often perceived as conflicting but can be addressed synergistically. To achieve this, we first examine the role of fire in natural systems. Fire regimes operating across specific spatiotemporal scales and exhibiting particular patterns are conceptualized as potentially creative, regulating species diversity, ecosystem resilience and landscape configuration. Within the contemporary Non-Equilibrium ecological paradigm, the structural and creative role of fire is analyzed across four domains: evolution, community assembly, landscape structure and ecosystem functioning. Building on this framework, we identify key conceptual principles for managing anthropogenic fire disturbances as creative ecological drivers. To further substantiate fire management principles and management’s creative potential, we critically assess a series of fire-related case studies in mediterranean-type ecosystems: managed wildfires, prescribed burning, pyrosilviculture, cultural burning and shepherding for wildfire adaptation. The results of ecological theory and empirical evidence highlight the capacity of fire management to regulate community assembly, facilitate species co-existence, generate landscape heterogeneity, influence ecosystem processes, and shape evolutionary trajectories. We argue that these insights support a paradigm shift in contemporary fire management: from a predominantly suppressive and preventive approach to one that recognizes fire as a creative tool for integrated and adaptive interventions in fire-prone landscapes.",
+      "doi": "10.3389/ffgc.2026.1882526",
+      "authors": [
+        "Ioanna Potiriadi",
+        "Anastasia Christopoulou",
+        "Panayiotis G. Dimitrakopoulos",
+        "Margarita Arianoutsou"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7171802580",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171802580",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 44%: matched 6/13 key interest terms (prescribed burning, drivers, prescribed, burning, wildfires)",
+      "tags": [
+        "Prescribed Burning",
+        "Drivers",
+        "Prescribed",
+        "Burning",
+        "Wildfires"
+      ],
+      "summary": "This conceptual review aims to synthesize fire management principles that have the potential to restore and conserve biodiversity and ecosystem processes, avert catastrophic events and ensure the sustainable use of ecosystem resources, goals that are often perceived as conflicting but can be addressed synergistically.",
+      "added": true
+    },
+    {
+      "title": "Spatial and temporal wildfire variations within the Mid Zambezi protected areas",
+      "abstract": "Wildfires in protected areas are increasingly frequent and are severely putting the world's biodiversity in danger. This study assessed spatial and temporal variations in wildfire occurrence and intensity within the Mid Zambezi protected areas between August 2001 and August 2022 and evaluated the effectiveness of early burning as a fire management strategy. Active fire data were obtained from NASA's Fire Information for Resources Management System (FIRMS), and QGIS software was used to map the fire distribution, frequency and hotspots. The Getis‒Ord Gi* statistic was used to identify hotspots and coldpots, while QGIS was used to generate maps for the visualisation of the resulting spatial patterns. The results indicate pronounced clustering of wildfire hotspots along the highway, indicating anthropogenic influence. Quantitative analysis revealed that early burning affected a mean area of 119 km2, while late season fires burned a substantially larger mean area of 1108 km2. These findings demonstrate that early burning reduces the spatial extent of intense wildfires. This study underscores the need for strengthening early-season fire management, reducing human encroachment and enhancing community awareness to mitigate wildfire risk in the Mid Zambezi protected areas.",
+      "doi": "10.1080/27658511.2026.2708431",
+      "authors": [
+        "Jeremiah Chakuya",
+        "Ethel Y. Mugova",
+        "Cosmas T. Nyapundo",
+        "Constance D. Mangwanya"
+      ],
+      "year": 2026,
+      "journal": "Sustainable Environment",
+      "openalex_id": "W7171628663",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171628663",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 42%: matched 5/13 key interest terms (wildfire occurrence, occurrence, burning, wildfires, wildfire)",
+      "tags": [
+        "Wildfire Occurrence",
+        "Occurrence",
+        "Burning",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires in protected areas are increasingly frequent and are severely putting the world's biodiversity in danger. This study assessed spatial and temporal variations in wildfire occurrence and intensity within the Mid Zambezi protected areas between August 2001 and August 2022 and evaluated the effectiveness of early…",
+      "added": true
+    },
+    {
+      "title": "Assessing the protective role of active agriculture in wildfire exposure in a Mediterranean region",
+      "abstract": "Global change and rural abandonment are restructuring Mediterranean fire regimes, as landscapes once characterized by heterogeneous agricultural mosaics are progressively replaced by homogenized, drought-limited fuel complexes. This transformation increases the likelihood of high-intensity wildfire events and their associated impacts. This study applied a stochastic fire-spread modeling framework based on thousands of simulated wildfire events to quantify the effects of land abandonment in the Matarranya region in eastern Spain, comparing current landscape conditions with a counterfactual “no-abandonment” scenario. Results indicate that active agriculture serves as a critical passive infrastructure protection system by maintaining fuel discontinuity, yielding a 75% mean reduction in building exposure (β = 0.24). Conversely, land abandonment functions as an exposure multiplier, triggering a 7-fold increase in the number of structures reaching high and very high burn probability threshold. Abandonment also raises burning intensity (flame length), which limits suppression capability. Overall, the cessation of management roughly tripled potential fire size and quadrupled exposure of human infrastructure, highlighting the importance of identifying “high-leverage plots” where targeted agricultural restoration maximizes safety. By strategically prioritizing these parcels, planners can transform abandoned land into revenue-generating firebreaks and functional strategic fire zones (SFZs), establishing an evidence-based framework for rural development and wildfire risk mitigation.",
+      "doi": "10.31223/x5kb7s",
+      "authors": [
+        "Marcos Rodrígues",
+        "Carmen Bentué",
+        "Minia Blanco",
+        "Isabel Gómez-Lain",
+        "Marcelo Ramos",
+        "Paloma Ibarra"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171862552",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171862552",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 3/13 key interest terms (eastern, burning, wildfire)",
+      "tags": [
+        "Eastern",
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Global change and rural abandonment are restructuring Mediterranean fire regimes, as landscapes once characterized by heterogeneous agricultural mosaics are progressively replaced by homogenized, drought-limited fuel complexes.",
+      "added": false
+    },
+    {
+      "title": "Air pollution exposure inequality across U.S. income and racial groups, 2000–2023: A hybrid monitor–satellite analysis with two new shape diagnostics",
+      "abstract": "Estimates of exposure inequality depend both on where air pollution is measured and on how inequality is summarized from those measurements. Environmental-justice surveillance typically compresses a pollutant’s socioeconomic gradient into one regression slope, the slope index of inequality (SII), defined as the population-weighted slope of group-mean concentration on income rank. A single slope assumes that the concentration–rank profile is a straight line and that exposure and income move together within every income group. The SII still returns a number when either assumption fails, but it no longer flags the misfit. We characterize county-level exposure inequality across the contiguous United States for four criteria pollutants (PM 2.5 , NO 2 , O 3 , SO 2 ) over 2000–2023 (up to 44 states). We add two dimensionless shape diagnostics to the standard slope. The Middle-Group Residual (MGR) is the signed departure of the middle-income stratum from the SII line, and the Within-Stratum Slope Heterogeneity (WSSH) is the spread of within-stratum exposure–income correlations. PM 2.5 exposure uses a population-weighted hybrid of regulatory monitors and satellite-derived concentrations; the other pollutants use the monitor network. The mean income-stratified relative index of inequality (RII) is − 0.048 (PM 2.5 ), + 0.278 (NO 2 ), − 0.018 (O 3 ), and + 0.147 (SO 2 ). The PM 2.5 gradient reverses sign between the monitor-equipped county subset (RII + 0.074 , lower-income more exposed) and the population-representative full-county sample (RII − 0.048 ). This reversal directly reflects the siting of the monitoring network. Non-linear profiles dominate; | MGR | exceeds 0.02 in 50%–92% of state-years and rises monotonically at finer partitions. The SO 2 gradient reversed direction over the period (HAC p = 0.003 ). Its remaining burden along the racial-composition axis falls on lower-income but predominantly White rural counties, so the income and racial axes diverge. A single slope cannot reveal this divergence. Across these four pollutants, the slope alone is therefore an incomplete summary. Its sign can hinge on which counties host monitors, and its straight-line form fails in most state-years. The MGR and WSSH recover the missing shape and coverage information from the same county data the SII already uses.",
+      "doi": "10.1016/j.aeaoa.2026.100492",
+      "authors": [
+        "Tom Regpala",
+        "Eric Palafox",
+        "Anjana Yatawara"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric Environment X",
+      "openalex_id": "W7171558072",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171558072",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 3/13 key interest terms (states, united states, united)",
+      "tags": [
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "Estimates of exposure inequality depend both on where air pollution is measured and on how inequality is summarized from those measurements. Environmental-justice surveillance typically compresses a pollutant’s socioeconomic gradient into one regression slope, the slope index of inequality (SII), defined as the populat…",
+      "added": false
+    },
+    {
+      "title": "Communication-Aware Decentralised Multi-Agent Reinforcement Learning Framework for UAV-Based Wildfire Suppression: Challenges Under Realistic Communication Constraints",
+      "abstract": "The increasing frequency and intensity of wildfires has created an urgent demand for scalable and autonomous wildfire response systems. While recent advances in multi-agent reinforcement learning (MARL) have demonstrated promise for collaborative uncrewed aerial vehicle (UAV)-based wildfire suppression, most existing approaches rely on simplified fire propagation dynamics and highly centralised learning architectures that are difficult to deploy in realistic operational settings. This paper presents a decentralised MARL framework for wildfire suppression that combines stochastic wildfire propagation, wind-driven spread dynamics, and communication-aware multi-agent coordination. The proposed framework extends an existing probabilistic wildfire environment through the incorporation of wind speed and directional effects, producing highly asymmetric and stochastic wildfire behaviour that more closely resembles real wildfire propagation. A decentralised Deep Q-Network (DQN) architecture is then introduced in which UAV agents learn independently through individual replay buffers. To mitigate the sparse-learning challenges introduced by decentralisation, selective experience sharing based on the SUPER algorithm is incorporated, enabling agents to exchange only high-value experiences under realistic communication constraints. Experimental results demonstrate that selective communication significantly improves containment performance and learning efficiency while preserving decentralised execution. The work highlights both the feasibility and challenges of realistic UAV swarm coordination for wildfire suppression, particularly the trade-offs between communication bandwidth, environmental stochasticity, and collaborative performance.",
+      "doi": "10.3390/drones10080580",
+      "authors": [
+        "Samuel Cartwright",
+        "Maxime Collignon",
+        "Adolfo Perrusquía",
+        "Antonios Tsourdos"
+      ],
+      "year": 2026,
+      "journal": "Drones",
+      "openalex_id": "W7171738781",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171738781",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 2/13 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "The increasing frequency and intensity of wildfires has created an urgent demand for scalable and autonomous wildfire response systems. While recent advances in multi-agent reinforcement learning (MARL) have demonstrated promise for collaborative uncrewed aerial vehicle (UAV)-based wildfire suppression, most existing a…",
+      "added": false
+    },
+    {
+      "title": "A Comparative Analysis of National Health Strategies and Policy Documents in Selected Latin American and African Countries",
+      "abstract": "Latin America and Africa face complex public health challenges shaped by social, environmental, and epidemiological factors. This study conducts a comparative analysis of publicly available national health strategies and national policy documents from 52 countries in Africa and 12 countries from Latin America, supplemented with data from the World Health Organization (WHO) and Pan American Health Organization (PAHO). The analysis focuses on five domains: social determinants of health, environmental health, infectious diseases, non-communicable diseases (NCDs), and immunization. This study examines how these health priorities are represented in national policy frameworks. Across the reviewed country sample, national policy documents tend to emphasize challenges related to health care access, the growing burden of NCDs, and environmental risks. In selected Latin American countries, migration-related pressures, health system fragmentation, and uneven vaccination coverage are primarily highlighted. In selected African countries, policy priorities tend to focus on communicable diseases, infrastructure limitations, and large zero-dose populations. The study underscores policy priorities and highlights opportunities for cross-regional learning. Strengthening primary health care, improving domestic health financing, and enhancing environmental health governance emerge as key areas for policy development. These findings support the value of comparative policy analysis in informing context-sensitive and equity-oriented health strategies.",
+      "doi": "10.3390/ijerph23080986",
+      "authors": [
+        "Andrés Mauricio García Sierra",
+        "Mahmud Sheku",
+        "Luz Adriana Urbina",
+        "Francisco Becerra-Posada",
+        "Carlos Espinal",
+        "Rodrigo DeAntonio",
+        "Diana Carolina Rivera-Pinzón"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Environmental Research and Public Health",
+      "openalex_id": "W7171706688",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171706688",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/13 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Latin America and Africa face complex public health challenges shaped by social, environmental, and epidemiological factors. This study conducts a comparative analysis of publicly available national health strategies and national policy documents from 52 countries in Africa and 12 countries from Latin America, suppleme…",
+      "added": false
+    },
+    {
+      "title": "A post-structuralist analysis of sustainability as a new hegemonic identity",
+      "abstract": "Abstract Sustainability has become a central concept in global policy agendas, corporate strategies, and civil society discourse. Yet, despite its ubiquity, the term often functions as a vague ideal, encompassing divergent-and at times conflicting-interests. This study addresses the critical gap in understanding how sustainability operates not merely as an environmental or developmental goal, but as a discursive construction that shapes political identities and power relations. Drawing on post-structuralist theory, particularly the works of Foucault, Derrida, Laclau, and Mouffe, the research investigates how sustainability functions as a hegemonic identity by marginalizing alternative narratives and securing broad ideological consensus. Employing critical discourse analysis, the study examines policy documents and public narratives from the European Union, the United Nations, and Turkey to trace how sustainability is articulated, institutionalized, and contested in different governance settings. The findings indicate that sustainability has evolved into an “empty signifier”-a flexible concept that unites diverse agendas under a common rhetorical umbrella. While this discursive openness facilitates global alignment, it also allows for co-optation, symbolic politics, and the suppression of transformative alternatives. Emerging critiques such as degrowth and climate justice movements reveal the fragility of this consensus and highlight growing resistance to technocratic and market-driven sustainability models. By situating sustainability within a broader field of ideological struggle, the study underscores its unstable and contested nature. Recognizing the discursive mechanisms that elevate sustainability to hegemonic status opens space for more pluralistic, democratic, and justice-oriented sustainability imaginaries. These insights carry important implications for rethinking policy frameworks and grassroots strategies in the face of ecological and political crises.",
+      "doi": "10.1057/s41599-026-06844-6",
+      "authors": [
+        "Elif Saracoğlu"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7171622510",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171622510",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "Abstract Sustainability has become a central concept in global policy agendas, corporate strategies, and civil society discourse. Yet, despite its ubiquity, the term often functions as a vague ideal, encompassing divergent-and at times conflicting-interests.",
+      "added": false
+    },
+    {
+      "title": "Public perception of forest fires: The role of knowledge, socio-demographic factors, and implications for fire management",
+      "abstract": "Forest fires are becoming an increasingly serious environmental and social problem, driven by climate change and growing anthropogenic pressure. While their ecological aspects have been widely studied, less attention has been paid to social perception and its impact on fire management. The aim of this study is to analyse the social perception of forest fires among respondents residing in Poland, with particular emphasis on levels of knowledge, attitudes, and perceived risk. A quantitative (Computer-Assisted Web Interview, CAWI) survey was conducted between November 2025 and February 2026, involving 246 participants. Statistical analyses included non-parametric tests, correlation analysis, and the Relative Importance Index. The results indicate a moderate level of knowledge combined with predominantly negative attitudes toward forest fires. Significant differences were observed between socio-demographic and professional groups, with higher levels of knowledge recorded among respondents associated with forestry. A discrepancy was identified between perceived and actual knowledge, as well as a tendency to prioritise direct and visible effects of fires over long-term climatic consequences. Although some respondents recognised fire as a natural ecological process, the level of acceptance and understanding of management practices, such as controlled burning, remained limited. The findings highlight the importance of strengthening environmental education, improving risk communication, and increasing public awareness of integrated fire management methods. Given the non-probability and forestry-skewed sample, the findings should be interpreted as exploratory and cannot be generalised to the Polish population. Nevertheless, they provide insight into patterns of forest-fire perception that may inform further representative studies.",
+      "doi": "10.17221/46/2026-jfs",
+      "authors": [
+        "Agata Warczyk",
+        "Mateusz Szast",
+        "Lizardo Reyna-Bowen",
+        "Salmon Johannes van Zyl",
+        "Anna Klamerus‐Iwan"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forest Science",
+      "openalex_id": "W7171662609",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171662609",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/13 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Forest fires are becoming an increasingly serious environmental and social problem, driven by climate change and growing anthropogenic pressure. While their ecological aspects have been widely studied, less attention has been paid to social perception and its impact on fire management.",
+      "added": false
+    },
+    {
+      "title": "Method Validation of the CDC Bottle Bioassay and a Historical Record of Polycyclic Aromatic Hydrocarbons in Glacier National Park",
+      "abstract": "Certain contaminants can persist in the environment for long periods of time, build up within living tissues, travel far from their origin, and harm both ecosystems and organisms. This thesis focuses on two types of contaminants: insecticides and polycyclic aromatic hydrocarbons (PAHs). Insecticides are manufactured to control pests while PAHs are found in oil and gas products and can be produced by industry, vehicle engines, and wildfires. Understanding how harmful these contaminants are and where they end up in the environment is critical for protecting environmental health. First, I evaluated a widely used test developed by the Centers for Disease Control and Prevention (CDC) that measures how insects respond to insecticides. While this method is commonly used around the world, results can vary more than expected. This work shows that variability can arise due to differences between how much insecticide researchers intend to use and the amount actually present during testing. Second, I investigated how PAHs are deposited in Glacier National Park using lake sediments, which can serve as a historical record of contaminant deposition over time. I examined how distance from a smelter, vegetation, climate, human activity, and wildfires influence PAH deposition. Overall, the results highlight the strong influence of industrial sources of environmental pollution, even in protected environments.",
+      "doi": null,
+      "authors": [
+        "Evah F. Peard"
+      ],
+      "year": 2026,
+      "journal": "Digital Commons - USU (Utah State University)",
+      "openalex_id": "W7171910065",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171910065",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/13 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Certain contaminants can persist in the environment for long periods of time, build up within living tissues, travel far from their origin, and harm both ecosystems and organisms. This thesis focuses on two types of contaminants: insecticides and polycyclic aromatic hydrocarbons (PAHs).",
+      "added": false
+    },
+    {
+      "title": "Review article: How hazard-related disruptions become system-wide crises: event-level evidence on failure pathways and continuity functions, 1980–2025",
+      "abstract": "Abstract. Cascading disasters are increasingly recognized as systemic escalation processes, yet comparative evidence on how initial hazard impacts are transformed into wider crises remains fragmented. Resilience dimensions clarify how system weaknesses interact with triggering hazards and determine whether disruption is absorbed, contained, or transmitted. Drawing on a PRISMA-guided search and targeted supplementary searches, this review synthesizes 43 event-level cascading-disaster cases from 1980 to 2025 to identify failure pathways linking hazards, failure mechanisms, and resilience dimensions. Each event was coded for initiating hazards and transformed hazards, propagation stages, escalation points, failure mechanisms, impacts, and resilience dimensions. Results show that technological and infrastructure failures were the most recurrent transformed hazards, while lifeline failure and secondary hazards formed the main escalation points. Cascade severity depended less on the length of the propagation chain than on which critical functions failed and how disruption propagated through dependent systems. Failure mechanisms clustered around monitoring/control, transport/access, coordination, lifeline services, exposure management, and health-system protection. The resilience crosswalk revealed an interdependence–redundancy gap in which connected systems lacked fallback capacity. These pathways produced persistent recovery burdens. The review proposes a continuity-function framework for cascade-risk reduction, emphasizing monitoring and control, lifeline services, access and logistics, emergency coordination, and equity-sensitive social protection.",
+      "doi": "10.5194/egusphere-2026-3753",
+      "authors": [
+        "Homa Bahmani"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171721233",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171721233",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Cascading disasters are increasingly recognized as systemic escalation processes, yet comparative evidence on how initial hazard impacts are transformed into wider crises remains fragmented.",
+      "added": false
+    },
+    {
+      "title": "Temperature exposures and mortality: evidence from Russia",
+      "abstract": "Abstract Climate change is expected to disproportionately affect populations in the mid-latitudes, including Russia, which face unprecedented risks due to limited prior heatwave exposure. Yet evidence from these contexts remains limited and comprehensive studies have only recently emerged. This study investigates regional heterogeneities in the temperature-mortality relationship in Russia, focusing on geographic and socioeconomic disparities. A two-stage meta-analysis was conducted, first estimating region-period-specific temperature-mortality associations. In the second stage, these estimates were pooled in a meta-analytic model incorporating geographic and socioeconomic predictors, from which estimates at their different levels were derived. The pooled exposure-response curve showed greater cold-related relative risks (RR = 1.25, 95% confidence interval (CI): 1.22–1.27) than heat-related risks (RR = 1.08, 95% CI: 1.07–1.09) relative to the minimum mortality temperature (MMT = 19.3 °C). Heat-related risks were lower in regions with colder summers and higher air-conditioning (AC) prevalence, and they declined over time. No clear temporal change was observed for cold-related risks and no consistent associations emerged for regional socioeconomic indicators. Overall, these findings confirm the central role of AC as an effective but unevenly distributed heat-adaptation measure in Russia. Additionally, uneven heat-related impacts in cold regions reflects inconclusive empirical evidence of heat-related mortality, necessitating caution when extrapolating exposure-response curves. This study thus offers a comprehensive assessment of temperature-mortality relationships across Russia and leverages rarely used survey microdata to derive household-level indicators, including AC prevalence as a key adaptation factor.",
+      "doi": "10.1007/s11111-026-00533-x",
+      "authors": [
+        "Mikhail Maksimenko"
+      ],
+      "year": 2026,
+      "journal": "Population and Environment",
+      "openalex_id": "W7171769836",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171769836",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Climate change is expected to disproportionately affect populations in the mid-latitudes, including Russia, which face unprecedented risks due to limited prior heatwave exposure. Yet evidence from these contexts remains limited and comprehensive studies have only recently emerged.",
+      "added": false
+    },
+    {
+      "title": "Multimodal Data Comprehension: Understanding How Visual-Textual Chains of Information Influence Data Interpretation",
+      "abstract": "Visualizations and text often work together to support effective data communication. Despite this common paradigm, we know little about how the interplay of these modalities affects people's data comprehension. We present a novel experimental paradigm to investigate multimodal data comprehension---the process of people comprehending information from multimodal visual and textual data---across both crowdsourced and think-aloud environments. Our methodology employs two sequential chains for presenting multimodal information---a visualization-first chain and a text-first chain---asking people to describe the data presented iteratively. By comparing how people's data comprehension changes across the chain, we can assess the information contribution of each modality and how they shape subsequent comprehension. We found that the visualization-first chain facilitates exploratory comprehension with hypothesis-driven discovery, whereas the text-first chain yields confirmatory comprehension akin to framing effects where visualizations serve to reinforce and confirm observations drawn from text. Our findings provide empirical insights into multimodal information integration, with implications for designing more effective data-driven communication.",
+      "doi": null,
+      "authors": [
+        "Arran Zeyu Wang",
+        "Fuling Sun",
+        "Danielle Albers Szafir"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7171748401",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171748401",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Visualizations and text often work together to support effective data communication. Despite this common paradigm, we know little about how the interplay of these modalities affects people's data comprehension.",
+      "added": false
+    },
+    {
+      "title": "Demand for Green Skills in an Evolving Landscape",
+      "abstract": "How does the skill demand of firms shift as the business landscape evolves? We study this question using hurricanes as a source of plausibly exogenous variation in local exposure to climate risk, and examine how firms' demand for green skills responds. Using U.S. online job postings (2010–2019) linked to hurricane exposure, we find that firms in affected areas are 8% more likely to post jobs requiring green skills after a hurricane, relative to the baseline mean. This effect is persistent and considerably larger in non-tradable, consumer-facing sectors than in tradable sectors. Survey data corroborate that disaster exposure leads people to update their beliefs about climate change as a local threat. We also show that the effect is not explained by post-disaster \"build-back-better\" reconstruction activity or firms' anticipation of stricter regulation, and that it is robust to the inclusion of industry trends. Together, these results are consistent with a consumer-demand channel through which climate shocks shape firms' skill demand.",
+      "doi": "10.65864/i2a5nfqlmx",
+      "authors": [
+        "Esther Arenas-Arroyo",
+        "Jacob Fabian",
+        "Friederike Mengel",
+        "Bernhard Schmidpeter",
+        "Michel Serafinelli"
+      ],
+      "year": 2026,
+      "journal": "CESifo",
+      "openalex_id": "W7171726728",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171726728",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "How does the skill demand of firms shift as the business landscape evolves? We study this question using hurricanes as a source of plausibly exogenous variation in local exposure to climate risk, and examine how firms' demand for green skills responds. Using U.S.",
+      "added": false
+    },
+    {
+      "title": "Impact mechanisms and policy regulation of human socioeconomic activities on mangrove evolution in China’s coastal cities",
+      "abstract": "In recent years, the spatial dynamics of mangrove ecosystems in China have exhibited a complex pattern of both restoration and degradation, reflecting the multifaceted and spatiotemporally heterogeneous impacts of human activities, yet these dynamics remain insufficiently understood. This study employs city-level panel data from 2003 to 2023 to investigate how coastal urban activities influence mangrove ecosystems across four dimensions: socioeconomic pressure, marine industrial development, pollution load and environmental governance, and ecosystem status. Using fixed effects models, spatiotemporal heterogeneity models, and moderation models, we identify the evolving impact mechanisms of urban coastal activities on mangroves, with particular attention to the moderating role of environmental protection investment. The empirical results reveal that industrial pollution and habitat fragmentation significantly suppress mangrove area. However, environmental protection investment plays a crucial moderating role in mitigating the negative impacts of marine industrial expansion, highlighting the irreplaceability of environmental governance to foster ecological–economic synergies. Regionally, the Pearl River Delta exhibits a pronounced negative effect from marine economic activities, whereas Guangxi demonstrates a strong moderating influence from environmental investment, resulting in an overall positive impact of urban activity factors. These findings offer robust empirical support for enhancing environmental governance and industrial restructuring in coastal cities, and provide theoretical and policy insights for developing resilience-oriented sustainable development strategies.",
+      "doi": "10.1057/s41599-026-08499-9",
+      "authors": [
+        "Siyang She",
+        "Jianghao Xu",
+        "Jihong Chen",
+        "Hao Chen (5190)"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7171684234",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171684234",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "In recent years, the spatial dynamics of mangrove ecosystems in China have exhibited a complex pattern of both restoration and degradation, reflecting the multifaceted and spatiotemporally heterogeneous impacts of human activities, yet these dynamics remain insufficiently understood.",
+      "added": false
+    },
+    {
+      "title": "Climatic pluriverses: community contributions to socio-ecological resilience from intercultural territories within climate-extractive entanglements in south-central Chile",
+      "abstract": "Introduction The climate change crisis intensifies territorial inequalities and gives rise to diverse community responses oriented toward environmental justice, which we term climatic pluriverses. These are initiatives grounded in local knowledges, practices, and ontologies that propose alternatives to universalizing global technopolitical approaches. Within this framework, the Biobío region (Chile), a territory historically shaped by territorial conflicts between the Mapuche people and the Chilean State, presents high climate vulnerability and marked socio-environmental degradation produced by extractive dynamics. We define this intersection of threats as climate-extractive entanglements, whose complexity has exacerbated structural inequalities and strengthened community territorial defenses. Methods This article analyzes pluriversal experiences through an interdisciplinary approach based on a georeferenced inventory and ethnographic fieldwork grounded in geonarratives across Andean foothill, dryland, and coastal territories. Results and discussion The results show that these experiences express forms of socioecological resilience based on deep territorial rootedness and ecologically interdependent ties with ecosystems, deploying diverse strategies in response to climate–extractive entanglements. Despite the limitations on collective action, climate pluriverses emerge as alternatives co-produced with nature and with affective rootedness in place that make it possible to rethink community resilience from its socioecological, relational, and decolonial dimensions, contributing new perspectives to academic debate and to the design of climate strategies in interculturally diverse and ecologically degraded territories.",
+      "doi": "10.3389/fpubh.2026.1841434",
+      "authors": [
+        "Bárbara Jerez-Henríquez",
+        "Pablo Mansilla–Quiñones",
+        "Janny Figueroa-Ayala",
+        "Gerson Castillo-Queupul",
+        "Andrea Monica D. Ortiz"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7171765094",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171765094",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Introduction The climate change crisis intensifies territorial inequalities and gives rise to diverse community responses oriented toward environmental justice, which we term climatic pluriverses.",
+      "added": false
+    },
+    {
+      "title": "A LONGITUDINAL STUDY OF STUDENTS’ EMOTIONAL ENGAGEMENT IN TASK-BASED EFL READING LESSONS",
+      "abstract": "This study investigates how English as a Foreign Language (EFL) university students’ emotional engagement develops over time across task-based reading lessons. Adopting a short-term longitudinal mixed-methods design, the data were collected from 66 Vietnamese EFL students over five task-based reading lessons within half a semester. The quantitative data were collected via repeated questionnaires administered after each reading task, while the qualitative data were obtained from follow-up interviews with ten selected students. The quantitative results revealed a significant change in emotional engagement across tasks, with engagement increasing after the initial task, peaking midway through the sequence, and declining slightly in the final task. The qualitative findings further showed that students’ emotional engagement was characterized by evolving patterns of enjoyment, enthusiasm, curiosity, and limited boredom, which were closely related to task design, topic relevance, interaction, and novelty. The findings indicate that emotional engagement in task-based reading lessons is dynamic and task-sensitive rather than stable over time. The study highlights the importance of sequencing and designing reading tasks that sustain positive emotional engagement throughout a task sequence in EFL classrooms.",
+      "doi": "10.63023/2525-2445/jfs.ulis.5722",
+      "authors": [
+        "Thi Minh Ngoc Nguyen",
+        "Ba Tien Tran"
+      ],
+      "year": 2026,
+      "journal": "VNU Journal of Foreign Studies",
+      "openalex_id": "W7171614705",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171614705",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "This study investigates how English as a Foreign Language (EFL) university students’ emotional engagement develops over time across task-based reading lessons. Adopting a short-term longitudinal mixed-methods design, the data were collected from 66 Vietnamese EFL students over five task-based reading lessons within hal…",
+      "added": false
+    },
+    {
+      "title": "Why the media underreport about people: Structural constraints, commercial pressure and resource scarcity",
+      "abstract": "The media shape public opinion and community responses to environmental issues. So far, much attention has been paid to the dominant narratives and potential biases in media discourses, but the underreporting of certain issues has generally been overlooked. The present article addresses this gap in the literature by mapping the range of topics reported by the media and by explaining why the media underreport the daily challenges faced by Danube Delta communities in Romania. The study uses topic modelling of media articles in national and local newspapers to illustrate how they amplify the narratives of the politicians and local authorities while omitting the people’s concerns and daily challenges. Then, our qualitative analysis based on semi-structured interviews with journalists writing about the Danube Delta in local and national newspapers aims to explain why underreporting occurs. We find that it is the result of structural constraints and limited resources, commercial pressure, human and expertise barriers, and political control.",
+      "doi": "10.1177/14648849261472109",
+      "authors": [
+        "Aurelian Giugăl",
+        "Sergiu Gherghina",
+        "Alexandru Gavriș",
+        "George Secăreanu"
+      ],
+      "year": 2026,
+      "journal": "Journalism",
+      "openalex_id": "W7171437983",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171437983",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "The media shape public opinion and community responses to environmental issues. So far, much attention has been paid to the dominant narratives and potential biases in media discourses, but the underreporting of certain issues has generally been overlooked.",
+      "added": false
+    },
+    {
+      "title": "The TIPMIP Earth system model experiment protocol: phase 1",
+      "abstract": "Abstract. We describe a new Earth system model (ESM) experiment protocol, as part of the international Tipping Points Modelling Intercomparison Project (TIPMIP) project. We propose this as a protocol for the Coupled Model Intercomparison Project 7 (CMIP7). The protocol requires ESMs to run in CO2-emission mode, with atmospheric CO2 a predicted variable. Forcing for the protocol consists solely of a constant emission of CO2, based on each model's transient climate response to cumulative emissions of carbon dioxide (TCRE) value, to give a common global mean surface warming rate of 2 °C per century. This positive emission (ramp-up) experiment is started from the pre-industrial state of a given model. When the ramp-up run first exceeds a specified level of global warming (2 and 4 °C) relative to the model's pre-industrial global mean surface air temperature (GMSAT), CO2 emissions are set to zero and the positive emission run is branched into a zero-emission run. The zero-emission runs continue for 300 years. 50 years into each zero-emission run, CO2 emissions are set to the negative of the positive emission rate and the model run until GMSAT cools below the original pre-industrial value. Additionally, when the negative emission run started from the global warming level (GWL)=4 °C first drops below GWL=2 °C, a zero-emission run is branched off this, completing the set of experiments. Using this protocol, we are able to control the rate of global warming, and potentially also the rate of cooling, across participating models. TIPMIP experiments will support a range of analyses, including; an assessment of abrupt/rapid Earth system change under net zero CO2 emissions at a range of global warming levels, the long-term Earth system response to net zero CO2 emissions at these warming levels, the response to net negative CO2 emissions and the efficacy of negative emissions to drive cooling, and the reversibility of Earth system change under a pathway of positive (warming), zero, and negative (cooling) CO2 emissions.",
+      "doi": "10.5194/gmd-19-6941-2026",
+      "authors": [
+        "Colin Jones",
+        "Colin Jones",
+        "Isaline Bossert",
+        "Donovan Dennis",
+        "Hazel Jeffery",
+        "Chris Jones",
+        "Chris Jones",
+        "Torben Koenigk",
+        "Sina Loriani",
+        "Benjamin M. Sanderson",
+        "Roland Séférian",
+        "Klaus Wyser",
+        "Shuting Yang",
+        "Manabu Abe",
+        "Sebastian Bathiany",
+        "Pascale Braconnot",
+        "﻿Victor Brovkin",
+        "Friedrich A. Burger",
+        "Patricia Cadule",
+        "Frédéric Castruccio",
+        "Gökhan Danabasoglu",
+        "Andrea J. Dittus",
+        "Jonathan F. Donges",
+        "Friederike Fröb",
+        "Thomas L. Frölicher",
+        "Goran Georgievski",
+        "Chuncheng Guo",
+        "Aixue Hu",
+        "Peter Lawrence",
+        "Paul Lerner",
+        "José Licón-Saláiz",
+        "Bette L. Otto‐Bliesner",
+        "Anastasia Romanou",
+        "Elena Shevliakova",
+        "Yona Silvy",
+        "Didier Swingedouw",
+        "Jerry Tjiputra",
+        "Jeremy Walton",
+        "Andy Wiltshire",
+        "Ricarda Winkelmann",
+        "Richard Wood",
+        "Tokuta Yokohata",
+        "Tilo Ziehn"
+      ],
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "openalex_id": "W7171743863",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171743863",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract. We describe a new Earth system model (ESM) experiment protocol, as part of the international Tipping Points Modelling Intercomparison Project (TIPMIP) project. We propose this as a protocol for the Coupled Model Intercomparison Project 7 (CMIP7).",
+      "added": false
+    },
+    {
+      "title": "A perfect procedure for fair climate cooperation: a novel approach to structure self-enforcing multilateral environmental agreements",
+      "abstract": "In a fragmented and multipolar world in which international multilateralism is showing many of its limits, cooperation for addressing climate change through a collective effort is, unavoidably, becoming more fragile. This paper tackles this issue by proposing a novel theoretical approach to structure self-enforcing multilateral environmental agreements for the implementation of rapid and effective climate change mitigation actions. Notwithstanding over three decades of international negotiations and agreements to arrest climate change, both global greenhouse gas emissions and average temperatures continue to increase. This persistent deadlock is due to the fact that the majority of the agreements are non-binding and rely on voluntary compliance, so the underlying social dilemma structure of climate change mitigation remains unaltered compared to a situation with no agreement: the connected benefits are globally shared while countries incur individual mitigation costs, making it strategically inconvenient to cooperate. Given this framework, global climate cooperation succumbs to the propagation of freeriding. To circumvent this conflict that distinguishes many collective action problems, I propose a theoretical novel approach such that a country implements its own climate change mitigation actions by availing itself of the financial resources of a counterpart country, and vice versa. This intersected arrangement overturns the social dilemma that usually paralyzes climate cooperation, thus establishing a voluntary, incentive-compatible, self-enforcing, and socially advantageous mechanism that makes cooperation strategically stable and guarantees the necessary level of climate change mitigation actions. I refer to this approach as a perfect procedure for fair climate cooperation.",
+      "doi": "10.3389/fpos.2026.1823780",
+      "authors": [
+        "Klaudijo Klaser"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Political Science",
+      "openalex_id": "W7171809944",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171809944",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "In a fragmented and multipolar world in which international multilateralism is showing many of its limits, cooperation for addressing climate change through a collective effort is, unavoidably, becoming more fragile.",
+      "added": false
+    },
+    {
+      "title": "Ethics and Planetary Boundaries",
+      "abstract": "The planetary boundaries framework examines the profound risks human actions pose to Earth's stability and resilience. Since its introduction in 2009, and through subsequent updates, the framework has become one of the most influential ideas of our age, yet it has not been put to close ethical scrutiny. This book takes a multidisciplinary approach to the ethics of the planetary boundaries, ranging from international law to Indigenous knowledge and from science to art, and political ecology. The editors introduce each boundary before two chapters examine the reach, limits, and ethical stakes of each of the nine planetary boundaries. This volume comes at a critical moment, when unprecedented environmental challenges demand new approaches, tools, and perspectives to address questions of epistemology and justice. It is a valuable resource for students, citizens, and academics concerned with relationships of knowledges, ethics, and environments. This title is available Open Access through Cambridge Core.",
+      "doi": "10.1017/9781009443586",
+      "authors": [
+        "Jeremy J. Schmidt",
+        "Simon P. Meisch",
+        "Louise du Toit",
+        "Christine Winter",
+        "Miriam Gay-Antaki",
+        "Tanguy Sandré",
+        "Jeanne-Marie Gherardi",
+        "Uta Eser",
+        "Makere Stewart-Harawira",
+        "Joana Castro Pereira",
+        "Carlota Houart",
+        "Alice Benessia",
+        "Neelke Doorn",
+        "Nicole J. Wilson"
+      ],
+      "year": 2026,
+      "journal": "Cambridge University Press eBooks",
+      "openalex_id": "W7171720036",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171720036",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "The planetary boundaries framework examines the profound risks human actions pose to Earth's stability and resilience. Since its introduction in 2009, and through subsequent updates, the framework has become one of the most influential ideas of our age, yet it has not been put to close ethical scrutiny.",
+      "added": false
+    },
+    {
+      "title": "Residential Structure-Resolved Fuel Loading for Emissions Estimation in a Wildland–Urban Interface Fire",
+      "abstract": "Fuels in the Wildland-Urban Interface (WUI) include a variety of anthropogenic materials connected to historical and socio-economic backgrounds in addition to biomass. Yet current emission inventories rely on uniform fuel loading factors (FLFs) that treat all structures as compositionally identical. In this study, we develop a structure-resolved combustible fuel inventory for ~5,400 single-family homes destroyed in the January 2025 Eaton Fire (Los Angeles, California) by linking CAL FIRE Damage Inspection records and county assessor data with era-specific material quantities derived from six architectural plans and two published residential fuel inventories. A component-based model assigns era-specific rates for structural lumber, sheathing, insulation, and minor combustibles, adjusted for foundation type, story count, roof covering, and cladding. The aggregate structural combustible mass is approximately 79,000 tons, with a mean FLF of 92 kg/m². This estimate is 65% lower than the 151.6 kg/m² uniform FLF applied in prior work, with overestimation ranging from 48% for post-2000 homes to 80% for the 1960 to 1979 cohort. This bias has two reinforcing sources. First, the material inventory used to derive the uniform FLF reports approximately twice the wood mass obtained from independent building plan analyses, including both the architectural plans evaluated here and prior published estimates for similar homes. Second, this elevated rate is applied uniformly to all structures without differentiation by construction era or regional building practice. In the Eaton Fire, 88% of the destroyed homes were built before 1960, when Southern California construction practices typically incorporated less sheathing and insulation than are required under modern building standards. Sensitivity analyses indicate that reconstruction with modern construction practices would increase total structural combustible mass by approximately 5.5%, as the greater material intensity of modern wood-frame construction outweighs reductions from non-combustible roof coverings and slab-on-grade foundations. Because fuel load estimates propagate directly into pollutant-specific emission factors and air quality models, the structure-resolved inventory presented here provides a more accurate foundation for exposure assessment and public health analysis of WUI fire events.",
+      "doi": "10.31223/x5749c",
+      "authors": [
+        "Hanyang Li",
+        "Ehsan Goftari",
+        "Kamden Conley",
+        "David Goldstein",
+        "Andreas Lundberg",
+        "Luca Carmignani",
+        "Neil E. Klepeis"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171650972",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171650972",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Fuels in the Wildland-Urban Interface (WUI) include a variety of anthropogenic materials connected to historical and socio-economic backgrounds in addition to biomass. Yet current emission inventories rely on uniform fuel loading factors (FLFs) that treat all structures as compositionally identical.",
+      "added": false
+    }
+  ]
+}
