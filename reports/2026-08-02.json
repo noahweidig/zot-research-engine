@@ -1,0 +1,490 @@
+{
+  "date": "2026-08-02",
+  "statistics": {
+    "fetched": 165,
+    "duplicates_removed": 146,
+    "evaluated": 19,
+    "added": 2,
+    "ignored": 17,
+    "average_score": 1.79
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California",
+      "abstract": "Wildfire smoke is a dominant threat to air quality and public health in North America, but smoke from other fire sources can also affect health during wildfire seasons. In California, smoke from agricultural burning and prescribed fire co-occurs with wildfire smoke, yet the competing health impacts of these sources remain poorly quantified. To investigate these differential impacts, we estimate daily source-specific fine particulate matter (PM2.5) from wildfires, agricultural burning, and prescribed fires across California from 2014 to 2020 by combining empirical smoke estimates with emissions-based source attribution; and link these concentrations to statewide emergency department (ED) records of asthma-related visits. A 10 µg/m3 increase in smoke PM2.5 is associated with similar increases in asthma-related visits for wildfire (3.0% [95% CI: 2.6%, 3.5%]) and agricultural burning (2.7% [1.2%, 4.3%]), while the estimate for prescribed fire smoke is smaller and more uncertain (1.5% [-0.1%, 3.1%]). Although wildfire dominates the statewide burden, agricultural burning and prescribed fire account for 24% and 11% of smoke-attributable asthma ED visits during 2014-2020. Using the historical agricultural burning record to evaluate how planned burns relate to health impacts, we find that with 5-7% of burn days accounting for 20-25% of ED visits across the Central Valley, indicating that impacts are concentrated on a few meteorologically unfavorable days rather than scaling directly with emissions or burned area. We also find that 24% of nonburn days have atmospheric conditions associated with lower ED impacts, suggesting that additional lower impact burn windows may have existed.",
+      "doi": "10.31223/x5cn4w",
+      "authors": [
+        "Makoto Kelp",
+        "Minghao Qiu",
+        "Sam Heft-Neal",
+        "Rebecca Sandoval",
+        "Claire Schollaert",
+        "Miriam Marlier",
+        "Marshall Burke",
+        "Noah Diffenbaugh"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7172040203",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172040203",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 81%: matched 4/9 key interest terms (prescribed, wildfires, burning, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfires",
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Wildfire smoke is a dominant threat to air quality and public health in North America, but smoke from other fire sources can also affect health during wildfire seasons.",
+      "added": true
+    },
+    {
+      "title": "Major intensification of fire weather across southern Europe in recent decades",
+      "abstract": "After decades of declining ignitions and burned area, recent fire seasons in Southern Europe (including the record-breaking 2025 season) have shown that wildfires are increasingly exceeding existing suppression capacity. The region appears to be entering an era of extreme fire risk, underscoring the urgent need to understand the drivers behind this escalation. Here, we use national wildfire statistics, reanalysis data, and large-scale climate indices to examine recent changes in fire risk across Southern Europe. We found that fire weather has severely intensified across the region. In vast parts of the Iberian Peninsula, France, Italy, and Greece, summer days featuring extreme fire-prone conditions have more than doubled between 1981 and 2025. This intensification is consistent with broader changes in temperature and precipitation patterns. We also found associations between fire-risk variability in Southern Europe and both the North Atlantic Oscillation (NAO) and the El Niño-Southern Oscillation (ENSO), highlighting their potential relevance for seasonal fire-risk outlooks in the region. Our findings illuminate the growing climatic pressure on Southern European fire regimes and underscore the need for integrated adaptation strategies.",
+      "doi": "10.1038/s41598-026-61756-4",
+      "authors": [
+        "Sarah Feron",
+        "Raúl R. Cordero",
+        "Alessandro Damiani",
+        "Karsten Schulz",
+        "Chenghao Wang",
+        "Zutao Ouyang",
+        "Francesca Giardini",
+        "Alberto Redondas",
+        "Anne Beaulieu"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7171841093",
+      "citation_count": 1,
+      "url": "https://openalex.org/W7171841093",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 44%: matched 4/9 key interest terms (wildfires, drivers, large, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Drivers",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "After decades of declining ignitions and burned area, recent fire seasons in Southern Europe (including the record-breaking 2025 season) have shown that wildfires are increasingly exceeding existing suppression capacity.",
+      "added": true
+    },
+    {
+      "title": "A Critical Analysis of the U.S. Emergency Management System: A Theoretical and Comparative Perspective",
+      "abstract": "In an era characterized by escalating climate volatility, urbanization, and complex transnational threats, the efficacy of national emergency management systems has become a paramount concern for public administration and social stability. The United States, with its long history of grappling with diverse catastrophic events, has developed one of the world's most intricate and debated emergency management architectures. This paper presents a theoretical and empirical analysis of the U.S. emergency management system, focusing explicitly on its hierarchical framework, core practical characteristics, and operational mechanisms as delineated in recent policy frameworks. Utilizing a multi-method analytical approach that combines document analysis with comparative case study insights, this research examines the interplay between federalist principles and collaborative governance. The study identifies the dual nature of the U.S. model: on one hand, it features a sophisticated \"whole-process\" management cycle encompassing unified command, tiered response, and multi-departmental coordination; on the other hand, it reveals inherent systemic tensions arising from constitutional constraints and socio-political polarization. By contextualizing the U.S. framework within broader theoretical discourses—such as polycentric governance, collaborative federalism, and crisis decision-making theory—this paper argues that the resilience of the U.S. system is predominantly driven by technological empowerment and societal pluralism, yet remains vulnerable to issues of bureaucratic fragmentation and resource allocation inefficiencies. Furthermore, adopting a comparative lens, this study contrasts the U.S. model with other federal systems to extract transferable lessons regarding information sharing and social mobilization. The findings suggest that while the U.S. emphasis on risk anticipation and professionalization offers valuable insights, its limitations underscore the necessity for adaptive institutional reforms. This research contributes to the existing literature by providing a nuanced, up-to-date critique of the U.S. system, highlighting its theoretical underpinnings and practical implications for global disaster risk reduction. The study concludes by outlining the limitations of the current framework, including the politicization of disaster response, and proposes avenues for future research focusing on digital governance and cross-jurisdictional learning.",
+      "doi": "10.62306/e760mm49",
+      "authors": [
+        "Shouli Yan"
+      ],
+      "year": 2026,
+      "journal": "Digital Science",
+      "openalex_id": "W7171773863",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171773863",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 3/9 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "In an era characterized by escalating climate volatility, urbanization, and complex transnational threats, the efficacy of national emergency management systems has become a paramount concern for public administration and social stability.",
+      "added": false
+    },
+    {
+      "title": "EEG Microstate Dynamics During Immersive VR Earthquake Exposure: Signatures of Threat Reactivity, Recovery, and Resilience",
+      "abstract": "Adapting to natural disasters requires rapid and flexible regulation of emotional and physiological responses, yet the large-scale brain dynamics supporting this process remain poorly understood. Using an immersive virtual reality (VR) earthquake simulation, we investigated real-time neural adaptation to acute environmental threat and its modulation by resilience. Seventy-six participants were randomly assigned to a VR earthquake condition (VR-ES, n =38) or a control VR condition (VR-CTRL, n = 38). Resting-state EEG was recorded before and after the VR experience, and continuous mobile EEG was recorded during the simulation. EEG microstate analysis was used to characterize large-scale brain dynamics associated with threat exposure and recovery. Exposure to the simulated disaster induced distinct alterations in microstate dynamics, with opposing changes in microstates C (p&lt;0.001, rb=0.55) and D (p&lt;0.001, rb=0.52) observed specifically in the VR-ES group. Moreover, our results confirm that distinct neural patterns are activated during the recovery resting-state phase following VR-ES. Critically, resilience and childhood adversity moderated the patterns of associations with emotional recovery, such that individuals with higher resilience exhibited more adaptive microstate configurations associated with improved recovery outcomes. These findings suggest that flexible reorganization of large-scale brain states supports adaptation to acute environmental stress and that resilience shapes the neural dynamics underlying recovery. This work highlights the value of ecologically valid VR paradigms combined with mobile neurophysiology for understanding individual differences in responses to environmental threat and their adaptive neural mechanisms.",
+      "doi": "10.64898/2026.07.28.741178",
+      "authors": [
+        "Mihai Dragu",
+        "Ciprian Făcăeru",
+        "Magdalena Turcanu",
+        "Cosmina A. Dutica",
+        "Alexandru Bicu",
+        "Olguta Barizi",
+        "Octavian F. Mirica",
+        "Alexandra Sofonea",
+        "Gabriela Niculescu",
+        "Miralena I. Tomescu"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7171809556",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171809556",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 2/9 key interest terms (large, states)",
+      "tags": [
+        "Large",
+        "States"
+      ],
+      "summary": "Adapting to natural disasters requires rapid and flexible regulation of emotional and physiological responses, yet the large-scale brain dynamics supporting this process remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales",
+      "abstract": "Abstract. Increased human impacts on Earth systems are radically altering biogeochemical cycles. While long-term environmental observatories and Earth System Models (ESMs) provide valuable insights into the mechanisms of nutrient dynamics, their performance is limited at the fine spatial scales controlled by the functional diversity of plant and microbial communities. This gap in our understanding concerning the roles of microbial diversity and plant-microbial interactions in decomposition and nutrient dynamics extends across many global ecosystems. Recent advances in meta-omics technologies, including metagenomics, metatranscriptomics, metaproteomics, and metabolomics, offer a wide array of tools for assessing metabolic to genetic to evolutionary drivers of ecosystem functioning. Here, we explore the integration of meta-omics with traditional ecological approaches to examine responses to global environmental changes. We present case studies from diverse environments—soils, aquatic systems, clouds, and paleoarchives—demonstrating how meta-omics can unravel the roles of microbial diversity, metabolic pathways, and trait distributions critical to understanding greenhouse gas fluxes, nutrient cycling, and biogeochemistry. Although meta-omics is still beset with challenges including data heterogeneity arising from wide-ranging methods, omics-derived traits, kinetic parameters, and machine learning tools can be used to enhance ESM predictive capability. For example, emerging applications of meta-omics to ancient environmental DNA are extending our capacity to link historical patterns with future projections, offering a long-term perspective on ecosystem dynamics. This review highlights the potential of integrating omics with experimental manipulations alongside existing monitoring and modelling efforts to refine predictions of ecosystem responses to natural and anthropogenic-driven environmental changes. Because omics approaches cross a range of scientific domains, they could be used to foster collaboration and even integration within existing models, thus laying the foundation for informed conservation and ecosystem management strategies from local to global scales.",
+      "doi": "10.5194/bg-23-5205-2026",
+      "authors": [
+        "Elsa Abs",
+        "Christoph Keuschnig",
+        "Pierre Amato",
+        "Chris Bowler",
+        "Éric Capo",
+        "Alexander B. Chase",
+        "Luciana Chávez Rodríguez",
+        "Abraham Dabengwa",
+        "Thomas Dussarrat",
+        "Thomas Guzman",
+        "Linnea K. Honeker",
+        "Jenni Hultman",
+        "Kirsten Küsel",
+        "Zhen Li",
+        "Anna Mankowski",
+        "W. J. Riley",
+        "S. R. Saleska",
+        "Lisa Wingate"
+      ],
+      "year": 2026,
+      "journal": "Biogeosciences",
+      "openalex_id": "W4409542790",
+      "citation_count": 2,
+      "url": "https://openalex.org/W4409542790",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract. Increased human impacts on Earth systems are radically altering biogeochemical cycles. While long-term environmental observatories and Earth System Models (ESMs) provide valuable insights into the mechanisms of nutrient dynamics, their performance is limited at the fine spatial scales controlled by the functi…",
+      "added": false
+    },
+    {
+      "title": "Route Planning for Fixed-Wing Unmanned Aerial Vehicles in Complex Forest Terrain Under Dynamic Fire and Smoke Threats",
+      "abstract": "To address the limitations of static-obstacle-based route planning in forest fire missions, this study develops a three-dimensional route-planning method for fixed-wing unmanned aerial vehicles (UAVs) that accounts for time-varying fire and smoke threats, complex terrain, and flight-dynamics constraints. A cellular automaton models fire spread with wind, slope, fuel, and moisture effects, while a Gaussian plume model estimates smoke concentration. The resulting burning and high-concentration smoke cells are encoded as dynamic three-dimensional threat envelopes and local grid masks. A hierarchical proximal policy optimization (H-PPO) architecture then combines a high-level stateful long short-term memory (LSTM) policy for route-subgoal generation with a pretrained low-level flight controller that produces continuous throttle and control-surface commands in JSBSim. In 100 independent simulation tests, the complete H-PPO model achieved a 100% task success rate, a mean terrain clearance of 771.92 m, and an average online decision time of 1.290 ms. Compared with A* and RRT*, H-PPO provided higher task reliability, greater mean terrain clearance, and lower online computational cost. The results show that hierarchical temporal decision making improves safety-prioritized planning in evolving fire and smoke environments, although conservative avoidance increases route length and mission duration. Further real-world and flight-test validation is required.",
+      "doi": "10.3390/drones10080585",
+      "authors": [
+        "Jianfeng Xie",
+        "Siyuan Wang",
+        "Jiandong Zhang",
+        "Qiming Yang",
+        "Shuling Dai"
+      ],
+      "year": 2026,
+      "journal": "Drones",
+      "openalex_id": "W7171791247",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171791247",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "To address the limitations of static-obstacle-based route planning in forest fire missions, this study develops a three-dimensional route-planning method for fixed-wing unmanned aerial vehicles (UAVs) that accounts for time-varying fire and smoke threats, complex terrain, and flight-dynamics constraints.",
+      "added": false
+    },
+    {
+      "title": "Global sustainable development trends reveal widespread inequality and tradeoffs",
+      "abstract": "Progress towards the United Nations Sustainable Development Goals is usually assessed at the national scale, but national averages can hide local differences and trade-offs. Here we show a global assessment of sustainable development trends from 2000 to 2019 using high-resolution gridded data, covering climate mitigation, air pollution control, socioeconomic activity and infrastructure development, and ecosystem vitality. We use carbon dioxide emissions, fine particle air pollution, nighttime light intensity, and vegetation greenness as indicators. We find that deterioration in at least one dimension occurs across 95.0% of land, where 94.8% of people live, while improvement across all four dimensions occurs on only 5.0% of land, covering 5.2% of people. Mixed outcomes are the dominant pattern, showing that gains in one dimension often coincide with setbacks in another. Inequality is pronounced: 72.4% of people in high-income countries live in improving areas, compared with 24.7% in low-income countries and 11.6% in lower-middle-income countries. These results call for fairer, place-specific policies. From 2000–2019, sustainable development progressed unevenly. Most places saw decline in at least one area, while only a few improved across all four. Carbon emissions, air pollution, nighttime light and vegetation often changed in different directions, revealing tradeoffs and spatial inequality.",
+      "doi": "10.1038/s44458-026-00124-9",
+      "authors": [
+        "Yangyang Guo",
+        "Wenhua Yu",
+        "Rongbin Xu",
+        "Zhihu Xu",
+        "Tingting Ye",
+        "Michael Tong",
+        "Sotiris Vardoulakis",
+        "Yuming Guo",
+        "Xuemei Bai"
+      ],
+      "year": 2026,
+      "journal": "Communications Sustainability",
+      "openalex_id": "W7171841503",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171841503",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "Progress towards the United Nations Sustainable Development Goals is usually assessed at the national scale, but national averages can hide local differences and trade-offs.",
+      "added": false
+    },
+    {
+      "title": "Climate Change, Urban Health, and Climate-Resilient Public Health Systems: Global Challenges and Strategies for Managing Climate-Sensitive Diseases",
+      "abstract": "Climate change has emerged as one of the most important public health challenges of the twenty-first century, profoundly influencing the epidemiology of climate-sensitive diseases and increasing the vulnerability of urban populations worldwide. This review aimed to analyze current scientific evidence regarding the relationship between climate change, climate-sensitive diseases, and the resilience of public health systems, with particular emphasis on urban environments and the Latin American context. A narrative literature review was conducted following the Scientific Method, using publications indexed in PubMed/MEDLINE, Scopus, Web of Science, and official reports issued by international organizations, including the World Health Organization, the Pan American Health Organization, the Intergovernmental Panel on Climate Change, the United Nations, and the World Meteorological Organization. The reviewed evidence demonstrated that rising temperatures, changing precipitation patterns, extreme weather events, environmental degradation, and accelerated urbanization contribute to the increasing burden of vector-borne, respiratory, water- and food-borne, and heat-related diseases. Urban environments were identified as particularly vulnerable because of high population density, socioeconomic inequalities, environmental pollution, and limitations in health infrastructure. The review also highlighted that resilient public health systems incorporating epidemiological surveillance, early warning systems, climate-resilient healthcare infrastructure, technological innovation, and multisectoral governance are essential to strengthen adaptation capacity and reduce climate-related health impacts. Overall, the findings support the integration of climate adaptation into routine public health planning and emphasize the importance of international collaboration, sustainable urban development, and evidence-based policies to protect increasingly urbanized populations under future climate scenarios.",
+      "doi": "10.64784/263",
+      "authors": [
+        "Patricia Equilea Veizaga",
+        "Luis A. Jacobo Saucedo",
+        "Ernesto Marín-Peña",
+        "Lic. Dina Berenissee Alvarez Ugarte",
+        "Mauricio Quijano",
+        "Benitez Barrios Sosimo Isaac",
+        "Ana Carla Naranjo González",
+        "Alexa Fernanda Uriostegui Navarro"
+      ],
+      "year": 2026,
+      "journal": "IECCMEXICO",
+      "openalex_id": "W7171832324",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171832324",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "Climate change has emerged as one of the most important public health challenges of the twenty-first century, profoundly influencing the epidemiology of climate-sensitive diseases and increasing the vulnerability of urban populations worldwide.",
+      "added": false
+    },
+    {
+      "title": "Exposure to Climate Change and Earnings Manipulation",
+      "abstract": "ABSTRACT This study investigates whether and how climate change exposure (CCE) influences corporate financial reporting practices. Using a newly developed firm‐specific CCE measure from conference calls, we find that US firms with higher CCE exhibit greater real earnings management (REM). A one standard deviation increase in CCE corresponds to an 8.1% increase in REM. In contrast, we observe no significant effect of CCE on accrual‐based earnings management (AEM). The positive association between CCE and REM is more pronounced among firms with weaker profitability, higher financial risk and leverage, poor internal monitoring, and limited social responsibility engagement. Additional analysis reveals that wildfire events and related economic disruptions further strengthen the CCE–REM link.",
+      "doi": "10.1111/jbfa.70081",
+      "authors": [
+        "Ramzi Benkraiem",
+        "Mostafa M. Hasan",
+        "Ashrafee HOSSAIN",
+        "Abdullah‐Al Masum",
+        "Samir Saadi"
+      ],
+      "year": 2026,
+      "journal": "Journal of Business Finance &amp Accounting",
+      "openalex_id": "W7171808455",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171808455",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "ABSTRACT This study investigates whether and how climate change exposure (CCE) influences corporate financial reporting practices. Using a newly developed firm‐specific CCE measure from conference calls, we find that US firms with higher CCE exhibit greater real earnings management (REM).",
+      "added": false
+    },
+    {
+      "title": "Do environmental taxes improve environmental sustainability beyond net-zero emissions? Evidence from ecological footprint subcomponents in the EU",
+      "abstract": "Abstract Environmental degradation has manifested in various forms, including air and water pollution. Therefore, the impacts of environmental policies should be evaluated across all dimensions of environmental degradation. The European Union has targeted to stop CO 2 emissions by 2050. Accordingly, the literature has predominantly focused on the relationship between environmental taxation and CO₂ emissions. Even if the net-zero emissions target is achieved, this does not necessarily ensure the elimination of overall environmental degradation. This study investigates the impact of environmental taxation on environmental degradation in the European Union over the period 1995–2021 using the Driscoll-Kraay (1998) estimator. The study focuses on the impact of environmental tax on ecological footprint and its subcomponents. The findings show that the ecological footprint and its subcomponents, except for built-up land and forest product footprints, can be mitigated by current environmental tax policies. However, in order to achieve net-zero environmental degradation, the European Union must reduce pressures arising from built-up land and forest product footprints. In addition to the Driscoll-Kraay (1998) estimator, the Feasible Generalized Least Squares (FGLS) estimator is employed as a robustness check, and the results remain broadly consistent across both methods. Moreover, Dumitrescu and Hurlin (2012) causality test states that strong and bidirectional causal relationships between environmental tax and ecological footprint components. This overall result confirms the existence of a green dividend within the double dividend hypothesis. It is suggested that renewable energy plants should be constructed in areas where built-up land and forest products footprint are not affected. For example, floating solar panels do not use land and also protect water bodies from evaporation.",
+      "doi": "10.1057/s41599-026-08230-8",
+      "authors": [
+        "Mürşit Recepoğlu",
+        "Sümeyra Çay Çakır",
+        "Mehmet Ali ÇAKIR",
+        "Seyfettin Artan",
+        "Pınar Hayaloğlu",
+        "Doğan KEŞAP"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7171879390",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171879390",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Abstract Environmental degradation has manifested in various forms, including air and water pollution. Therefore, the impacts of environmental policies should be evaluated across all dimensions of environmental degradation. The European Union has targeted to stop CO 2 emissions by 2050.",
+      "added": false
+    },
+    {
+      "title": "Governing Catastrophe in a Federation: A Comparative Analysis of Emergency Management Systems in Australia and Germany",
+      "abstract": "This paper examines the evolution, institutional architecture, and theoretical underpinnings of emergency management (EM) systems in federal democracies, with a particular focus on Australia as a paradigmatic case of \"risk-based collaborative governance.\" Utilizing a mixed-methods comparative approach, the study analyzes the structural dichotomy between centralized political authority and decentralized operational execution. Drawing upon the Institutional Analysis and Development (IAD) framework and resilience theory, this research interrogates how federated states reconcile the tension between national standards and local autonomy in disaster risk reduction. Through a critical analysis of legislative frameworks, intergovernmental relations, and community engagement mechanisms, the study reveals that effective EM in federations requires sophisticated \"meta-governance\"—the capacity to coordinate governance without appropriating it. The paper concludes by proposing a refined model of \"resilient federalism\" that integrates polycentric governance principles to enhance adaptive capacity in an era of climate volatility.",
+      "doi": "10.62306/tnbtes77",
+      "authors": [
+        "Shouli Yan"
+      ],
+      "year": 2026,
+      "journal": "Digital Science",
+      "openalex_id": "W7171833386",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171833386",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "This paper examines the evolution, institutional architecture, and theoretical underpinnings of emergency management (EM) systems in federal democracies, with a particular focus on Australia as a paradigmatic case of \"risk-based collaborative governance.\" Utilizing a mixed-methods comparative approach, the study analyz…",
+      "added": false
+    },
+    {
+      "title": "Trial by Fire: Uncertainty and Adaptive Management in Forest Ecology",
+      "abstract": "Abstract Scientists studying fire-prone ecosystems have to contend with uncertainty stemming from causal complexity and conflicting aims, but they manage different types of uncertainty differently. I recommend that they instead adopt a common approach to uncertainty involving context-sensitivity and adaptive learning. Such an approach is consonant with insights from pragmatism and pluralism in philosophy of science and may even suggest a productive way to frame uncertainty while facilitating public trust.",
+      "doi": "10.1017/psa.2026.10271",
+      "authors": [
+        "Aja Watkins"
+      ],
+      "year": 2026,
+      "journal": "Philosophy of Science",
+      "openalex_id": "W7171890610",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171890610",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Scientists studying fire-prone ecosystems have to contend with uncertainty stemming from causal complexity and conflicting aims, but they manage different types of uncertainty differently. I recommend that they instead adopt a common approach to uncertainty involving context-sensitivity and adaptive learning.",
+      "added": false
+    },
+    {
+      "title": "Living Archives: Pine Resin Harvesting and Culturally Modified Trees as Intangible Cultural Heritage in Poland",
+      "abstract": "Pine resin harvesting, a traditional practice in Poland, involves carefully stripping a small section of bark to collect raw resin from pine trees. This skill, passed down through generations, has been integral to producing valuable goods such as turpentine, traditional medicine, glue, and other forest-based products. Resin harvesting played an important economic and cultural role in many rural communities, particularly in forested regions where livelihoods were closely connected to the sustainable use of non-timber forest resources. Today, pine resin harvesting is an at-risk element of Poland’s intangible cultural heritage, with only a few remaining practitioners left preserving and transmitting this knowledge. Preserving and revitalizing this practice is essential for its continuity across generations, while conserving the old-growth trees marked by this tradition supports ecological diversity and strengthens the relationship between cultural heritage and the natural environment. This article explores the role of pine resin harvesting in the Lower Vistula River Valley and Tuchola Forest regions of Poland, emphasizing ongoing efforts to document and safeguard its associated knowledge and skills. Drawing on field research, interviews with knowledge holders, and collaboration with forestry institutions, it highlights the importance of intergenerational transmission and community engagement in sustaining this heritage. By situating pine resin harvesting within the context of culturally modified trees, the article demonstrates how resin-harvested pines function as living archives of human interaction with forest ecosystems. These trees provide tangible evidence of historical land-use practices while supporting biodiversity and ecological resilience. The article argues that documenting and recognizing this heritage not only contributes to the revitalization of an at-risk tradition, but also promotes a shift in forestry and conservation practices that acknowledges the interconnections between cultural heritage, ecological stewardship, and biocultural diversity.",
+      "doi": "10.4467/2450050xsnr.26.002.23492",
+      "authors": [
+        "Agnieszka Pawłowska-Mainville",
+        "Jarosław Pająkowski",
+        "Franciszek Chmarzyński"
+      ],
+      "year": 2026,
+      "journal": "Santander Art and Culture Law Review",
+      "openalex_id": "W7171923561",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171923561",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Pine resin harvesting, a traditional practice in Poland, involves carefully stripping a small section of bark to collect raw resin from pine trees. This skill, passed down through generations, has been integral to producing valuable goods such as turpentine, traditional medicine, glue, and other forest-based products.",
+      "added": false
+    },
+    {
+      "title": "Small Machines and Their Role in Forest Management - From Their Introduction to the Present Day with Automation",
+      "abstract": "Abstract Purpose of review This review traces the development of mini forestry crawlers (MFCs) from earlier small-scale skidding machines to modern remote-controlled tool carriers, and evaluates their current applications, technological characteristics, operational performance, safety, soil impact, ergonomics, and automation potential. Recent findings Recent studies show that MFCs have evolved from simple extraction-oriented machines into multifunctional platforms whose suitability depends on machine class, task–machine matching, site conditions, and work organisation. Field and bench studies report productivity, soil impacts, operator workload, remote-controlled felling performance, non-harvesting applications, and early automation functions. Summary Mini forestry crawlers are most effective in constrained-access settings and in tasks that align with their limited payload while benefitting from high manoeuvrability, remote operation, and multifunctionality. Their advantages are therefore conditional on careful deployment, particularly with respect to soil moisture, turning intensity, traffic frequency, and operator workload. Future evaluations should adopt integrated performance metrics that jointly assess productivity, soil response, and human workload under realistic operating conditions.",
+      "doi": "10.1007/s40725-026-00282-y",
+      "authors": [
+        "Janine Schweier",
+        "Raffaele Spinelli",
+        "Francesco Latterini",
+        "Natascia Magagnotti",
+        "Rodolfo Picchio",
+        "Stelian Alexandru Borz",
+        "Csongor Márk Horváth",
+        "Leo Bont",
+        "Stephan Hoffmann"
+      ],
+      "year": 2026,
+      "journal": "Current Forestry Reports",
+      "openalex_id": "W7171997718",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171997718",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Purpose of review This review traces the development of mini forestry crawlers (MFCs) from earlier small-scale skidding machines to modern remote-controlled tool carriers, and evaluates their current applications, technological characteristics, operational performance, safety, soil impact, ergonomics, and auto…",
+      "added": false
+    },
+    {
+      "title": "Spatial intensity modelling of ISIS-related attacks using random forest regression: A GeoAI-based analysis of GTD data (2012–2019)",
+      "abstract": "Spatial information is of crucial importance to understanding terrorist attacks and for security applications. Conventional risk assessments of terrorism are typically focused on retrospective identification of hotspots and may fail to fully account for complex spatial-temporal patterns. This research proposes an approach to modelling the relative intensity of ISIS/ISIL attacks across space using Random Forest regression, a type of Geospatial Artificial Intelligence (GeoAI). A subset of the Global Terrorism Database (GTD) from 2012-2019 is screened to develop a spatially aggregated data set with geographic coordinates, temporal information and some incident details. The modelling strategy estimates the intensity of events in a grid cell, with values normalized based on the count of previous events, allowing for an analysis of spatial patterns rather than the prediction of future events. Modelling results show that the Random Forest model captures spatial variability in historical attack intensity with a high level of fit (R² = 0.84; RMSLE = 0.213). Analysis of variable importance suggests spatial and temporal features play an important role, but this is contextualised by the spatial construction of the response variable. The research presents a repeatable GeoAI process for modelling spatial patterns of terrorism incidents and offers an interpretable model for exploratory spatial analysis and scenario-based spatial analysis development. The approach is not suitable for real-time prediction, but aids in understanding historical spatial concentration patterns in a complex threat environment.",
+      "doi": "10.1371/journal.pone.0355100",
+      "authors": [
+        "A.A.B.D.P. Abewardhana",
+        "Rubasin Gamage Niluka Lakmali",
+        "Paolo Vincenzo Genovese"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7171794631",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171794631",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Spatial information is of crucial importance to understanding terrorist attacks and for security applications. Conventional risk assessments of terrorism are typically focused on retrospective identification of hotspots and may fail to fully account for complex spatial-temporal patterns.",
+      "added": false
+    },
+    {
+      "title": "Restoration-driven soil processes regulating organic carbon accumulation and stabilization in restored ecosystems",
+      "abstract": "Abstract Land degradation severely undermines ecosystems’ capacity to function as carbon sinks, thereby accelerating atmospheric CO 2 accumulation and climate change. Despite a growing body of research on land restoration, the specific soil-based mechanisms driving long-term carbon sequestration across restoration strategies have not been synthesized systematically. We conducted a comprehensive systematic review of global literature from 2000 to 2024, uncovering how key soil variables mediate carbon dynamics in restored ecosystems. This review synthesizes recent advances in understanding how restoration interventions regulate soil–carbon interactions across different ecosystems. Restoration practices via afforestation, grazing exclusion, land-use conversion, terracing, wetland rehabilitation, and peatland rewetting modify key soil properties, including bulk density, soil aggregation, texture distribution, pH, and microbial community composition. These changes influence soil organic carbon (SOC) dynamics by increasing organic matter inputs from vegetation, improving soil structural stability, enhancing organo-mineral associations, and regulating microbial processing of organic carbon. In particular, the formation of stable aggregates and mineral-associated organic carbon plays a crucial role in long-term SOC stabilization. The magnitude and direction of SOC responses depend strongly on the ecosystem context, restoration age, soil mineralogy, and hydrological conditions. While restoration generally enhances SOC accumulation, trade-offs such as soil acidification or water availability constraints may influence long-term carbon sequestration outcomes. By integrating restoration pathways with soil physicochemical and biological mechanisms, this review highlights the central role of soil processes in determining the effectiveness of ecosystem restoration for climate mitigation and sustainable land management.",
+      "doi": "10.1007/s44378-026-00289-8",
+      "authors": [
+        "Jyotirmay Roy",
+        "Suman Dutta",
+        "Subhajeet Sarkar",
+        "Subrata Gorain",
+        "Koushik Banerjee"
+      ],
+      "year": 2026,
+      "journal": "Discover Soil.",
+      "openalex_id": "W7171939331",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171939331",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Land degradation severely undermines ecosystems’ capacity to function as carbon sinks, thereby accelerating atmospheric CO 2 accumulation and climate change.",
+      "added": false
+    },
+    {
+      "title": "THE İNTERRELATİON OF SOCİAL CONSEQUENCES OF CLİMATE CHANGE İMPACT ON SOCİETİES: THE ROLE OF SOİL",
+      "abstract": "Climate change as the most important global issue of the world demonstrates its social conseqeunces on societies.This impact affects not only the social life of people but the economy and health, agricultural system.The article studies the interrelation of social consequences of climate change impact in societies and gives the overview of preventing adverse effects of climate change.The findings show that social dimensions are interrelated to each other and their soulition should be implemented in whole pattern.Only through complex approach the solution seems possible for preventing unpredictable adverse effects.The discussion of how governments and scientists can build teamwork to prevent the damages of possible effects of social consequences of climate change and protect their population, and the analysis of the data from the international sources such as UNFCCC, WHO, IPCC, and national governments statistical data comprise the methodology of this study.Thereby, this research will contribute to shed light on social aspects of climate change impact on societies and propose solutions to adapting policies of governments, international organizations, regional or local communities in combating with predictable adverse effects of social dimensions of climate change impact on societies as well as the countries' development goals.",
+      "doi": "10.30546/sw.2023.2(41).123",
+      "authors": [],
+      "year": 2026,
+      "journal": "Scientific Works",
+      "openalex_id": "W7171850022",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171850022",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Climate change as the most important global issue of the world demonstrates its social conseqeunces on societies.This impact affects not only the social life of people but the economy and health, agricultural system.The article studies the interrelation of social consequences of climate change impact in societies and g…",
+      "added": false
+    },
+    {
+      "title": "A machine learning and agent-based modeling framework for tourism crisis management",
+      "abstract": "Abstract This study proposes and tests a new Destination Resilience Assessment Framework (DRAF) to overcome the weaknesses of existing models which have a limited focus on multi-hazard prediction and on multi-layered interactions of stakeholders/infrastructure/markets during recovery in the context of cascading crises (pandemics, natural disasters and geopolitical shocks). The research employs a mixed-methods design that combines decision-tree based machine learning (random forests), an LSTM-based neural network, and ensemble approaches with agent-based modeling in NetLogo. Simulations are informed and calibrated using real-time streams from 847 sources globally (2019–2024), such as economic indicators, tourist flows, infrastructure capacity and stakeholder sentiment, combined with case data for 12 crises. DRAF achieves 94.7% accuracy in predicting recovery trajectories, identifies key resilience variables with 89.3% accuracy, and forecasts recovery time within ± 2.3 months. Simulation-based counterfactual analyses indicate that destinations implementing DRAF would recover an estimated 67% faster and regain visitor confidence an estimated 43% more quickly than the simulated baseline scenario.The five principal resilience factors are adaptive governance (β = 0.847), stakeholder collaboration networks (β = 0.723), infrastructure flexibility (β = 0.692), market diversification (β = 0.634), and community engagement (β = 0.587). Conceptually, the framework advances tourism crisis management models and, practically, provides transparent decision support that empowers stakeholders to assess impacts and coordinate evidence-based recovery actions.",
+      "doi": "10.1038/s41598-026-63675-w",
+      "authors": [
+        "Yingjie Wang"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7171834979",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171834979",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract This study proposes and tests a new Destination Resilience Assessment Framework (DRAF) to overcome the weaknesses of existing models which have a limited focus on multi-hazard prediction and on multi-layered interactions of stakeholders/infrastructure/markets during recovery in the context of cascading crises…",
+      "added": false
+    },
+    {
+      "title": "The Role of Boutique Advisers in Fairness Opinions",
+      "abstract": "In this study, we investigate the role of boutique advisers in the provision of fairness opinions (FOs) in M&amp;A transactions. Using a hand-collected sample of US M&amp;A transactions between 2005 and 2016 and an instrumental variable approach to address endogeneity in adviser selection, we find that boutique advisers provide more precise FOs than non-boutique advisers, consistent with their greater independence and industry specialization. However, this improved precision is attenuated for boutique advisers with prior ties to the acquiring firm, suggesting that such ties create conflicts of interest that compromise FO quality. We further find that more precise FOs are associated with timelier deal completion, consistent with target shareholders valuing precise FO disclosures when making their tendering or voting decisions. Collectively, our findings highlight the importance of adviser type and FO precision as determinants of disclosure quality and transaction efficiency in M &amp; A markets.",
+      "doi": "10.1177/0148558x261473714",
+      "authors": [
+        "Olga Ihl - Deviv'e",
+        "Annelies Renders"
+      ],
+      "year": 2026,
+      "journal": "Journal of Accounting Auditing & Finance",
+      "openalex_id": "W7171974437",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171974437",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "In this study, we investigate the role of boutique advisers in the provision of fairness opinions (FOs) in M&amp;A transactions. Using a hand-collected sample of US M&amp;A transactions between 2005 and 2016 and an instrumental variable approach to address endogeneity in adviser selection, we find that boutique adviser…",
+      "added": false
+    }
+  ]
+}
