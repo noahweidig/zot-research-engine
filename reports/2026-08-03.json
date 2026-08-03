@@ -1,0 +1,450 @@
+{
+  "date": "2026-08-03",
+  "statistics": {
+    "fetched": 178,
+    "duplicates_removed": 161,
+    "evaluated": 17,
+    "added": 0,
+    "ignored": 17,
+    "average_score": 1.82
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Global Research Trends in the Genetics and Genomics Related to Heat Tolerance in Cattle: A Bibliometric and Science Mapping Analysis (2005 – 2025)",
+      "abstract": "<ns5:p>Background Heat stress is one of the challenges that limit productivity, health, and the sustainability of cattle production systems in various regions of the world. Genetics- and genomics-based approaches were gaining increasing attention as long-term strategies for improving heat tolerance. This study aimed to evaluate global developments, patterns of scientific collaboration, intellectual structures, and current research trends related to the genetics and genomics of heat tolerance in cattle using a bibliometric approach. Methods A total of 859 English-language research articles published between 2005 and 2025 and indexed in the Scopus database were analyzed in this study. Bibliometric analysis was performed using Bibliometrix, Biblioshiny, and VOSviewer. Results The results showed an increasing number of publications over the past two decades, reflecting growing attention to the development of livestock that are adaptive to climate change. A total of 3785 authors were involved in the analyzed publications, with an international collaboration rate of 31.78%. China and the United States are the countries with the highest number of publications. Keyword analysis identified an imbalance in research focus between dairy cattle and beef cattle. Several candidate genes have also been identified, such as PRLR, HSP70, HSP90, and ATP1A1. Historically, the research focus has evolved from evaluating physiological responses and oxidative stress to a more comprehensive genomic approach in heat tolerance. These findings indicate a paradigm shift in research toward the use of high-precision molecular technologies to support cattle breeding programs that produce animals more resistant to heat stress. Conclusions Future research should increase the involvement of tropical countries and integrate local cattle genetic resources into genomic selection programs, which are critical steps to accelerate the development of livestock adapted to global climate change.</ns5:p>",
+      "doi": "10.12688/f1000research.186978.1",
+      "authors": [
+        "Husnul Qhatimah",
+        "Muhammad Ridwan",
+        "Ummul Khasanah",
+        "Christina Mariantje Natal"
+      ],
+      "year": 2026,
+      "journal": "F1000Research",
+      "openalex_id": "W7172019185",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172019185",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 3/11 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "<ns5:p>Background Heat stress is one of the challenges that limit productivity, health, and the sustainability of cattle production systems in various regions of the world. Genetics- and genomics-based approaches were gaining increasing attention as long-term strategies for improving heat tolerance.",
+      "added": false
+    },
+    {
+      "title": "Wildfire Hazard in Germany Under Worst-Case Conditions",
+      "abstract": "Abstract. Climate change is amplifying wildfire frequency and intensity in temperate Central Europe, making proactive hazard mapping essential for landscape mitigation. This study evaluates wildfire hazard in Germany under worst-case (i.e., near-maximum) environmental conditions to identify high-priority management zones. The minimum travel time algorithm was used to simulate over 50 million independent fires at a spatial resolution of 100 meters. The landscape was divided into seven distinct climatic fire occurrence areas and evaluated across all combinations of three wind speed percentiles (80th, 90th, and 97th) and three fuel moisture scenarios. We quantified hazard by integrating conditional burn probability (CBP) and conditional flame length (CFL). Fuel moisture emerged as the dominant driver of wildfire hazard, with drier conditions dramatically increasing simulated fire sizes and variances, whereas increases in wind speed had a negligible effect. Shrub fuels produced the most extreme fire behavior and frequently generated the longest flame lengths under worst-case conditions. Grass and forest fuels burned less intensely on average, but maximum aridity caused high-hazard forest areas to expand tenfold. Across the landscape, CBP remained highly skewed, revealing that a small number of volatile hotspots burn repeatedly while the vast majority of the country burns infrequently. The hazard map of Germany is dominated primarily by low hazard ratings, which cover large, continuous forest stands with dense overstorey canopies. Elevated hazards are concentrated in the northeast and west. These are represented either as an intensity-driven regime, defined by severe flame lengths, or a frequency-driven regime, characterized by a mix of fast-spreading grass and shrub fuels. The highest hazard ratings occur in open landscapes such as military areas and subalpine parklands, where rapid fire spread greatly increased burn probability. High-hazard zones consistently correlate with low canopy cover and reduced crown bulk density. This structural vulnerability is particularly evident in disturbed regions, where canopy dieback has simultaneously increased surface fuel loads and reduced the sheltering effect that typically dampens wind speeds and evaporation. Long-term wildfire mitigation in Germany should focus on high-hazard hotspots where volatile fuel configurations overlap with containment constraints resulting from terrain or unexploded ordnance. As fuels are the only landscape component that humans can actively manipulate, management frameworks must prioritize reducing understorey shrub loads, maintaining closed overstorey canopies, and diversifying forest structure, in order to build resilience against accelerating climate pressures.",
+      "doi": "10.5194/egusphere-2026-4416",
+      "authors": [
+        "Johannes Heisig",
+        "Edzer Pebesma"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171920492",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171920492",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/11 key interest terms (occurrence, large, wildfire)",
+      "tags": [
+        "Occurrence",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Climate change is amplifying wildfire frequency and intensity in temperate Central Europe, making proactive hazard mapping essential for landscape mitigation.",
+      "added": false
+    },
+    {
+      "title": "Human activity increases Arctic fire occurrence within and near lit areas",
+      "abstract": "Abstract Arctic fires have become more frequent in recent decades. Previous research highlighted climate variables as the driving factor of fire occurrence in the Arctic, largely ignoring the contribution of human activity. Here, we analyzed the relationship between fire occurrence and human activity, as represented by artificial light at night, from 2001 to 2013 at pan-Arctic scale. Our results show a 2.45 [2.14, 2.82] times higher fire occurrence inside the lit area (exactly zero km distance) compared to control points randomly selected from areas with similar climate conditions. Moreover, fire occurrence exhibited a strong spatial association with distance to lit areas, with higher fire occurrence observed closer to human activity. Differences in fire occurrence near lit area for similar human activities suggest the potential of fire management. Effective management of fire risk around lit area to reduce ignition risks along with effective firefighting strategies are important to reduce damage to infrastructure, disturbance to permafrost ecosystems and positive feedbacks to climate warming.",
+      "doi": "10.1038/s43247-026-03884-3",
+      "authors": [
+        "Cengiz Akandil",
+        "Ramona Julia Heim",
+        "Elena Plekhanova",
+        "Nils Rietze",
+        "Miguel O. Román",
+        "Zhuosen Wang",
+        "Reinhard Furrer",
+        "Gabriela Schaepman‐Strub"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7171971215",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171971215",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 25%: matched 2/11 key interest terms (ignition, occurrence)",
+      "tags": [
+        "Ignition",
+        "Occurrence"
+      ],
+      "summary": "Abstract Arctic fires have become more frequent in recent decades. Previous research highlighted climate variables as the driving factor of fire occurrence in the Arctic, largely ignoring the contribution of human activity.",
+      "added": false
+    },
+    {
+      "title": "Identifying Leading Hazards in Riau Islands: A Monthly Markov Chain Analysis of Disaster Dominance Patterns",
+      "abstract": "This study analyzes disaster dominance patterns in the Riau Islands using a monthly Markov chain model with five states: non hazard (S0), hydrological (S1,flood), geomorphological (S2,landslide), meteorological (S3,extreme weather), and ecological (S4,wildfire) hazard. Based on 2019-2024 data from Indonesia’s National Disaster Management Agency (BNPB), the research quantifies transition probabilities between hazard states and computes steady-state distributions to identify long-term risks. Key findings reveal wildfires dominate the system with 40.6% steady-state probability and high persistence (63% monthly recurrence), reflecting the region’s dry-seasonal vulnerability. Extreme weather and floods show significant but secondary prevalence (24.1% and 12.5%, respectively). Landslides are rare (2.5%) but often escalate to wildfires. The transition matrix highlights wildfire transitions following floods (44.5% probability), suggesting delayed risk cascades. Methodologically, this study advances archipelagic hazard modeling by integrating monthly timesteps and hazard taxonomy, offering granular insights for policymakers. Practical implications include prioritizing peatland restoration, flood-resistant infrastructure, and ASEAN-wide early warning systems to address transboundary haze.",
+      "doi": "10.25077/jmua.15.3.436-448.2026",
+      "authors": [
+        "Nahrul Hayati",
+        "Eko Sulistyono",
+        "Andini Setyo Anggraeni",
+        "Vitri Aprilla Handayani",
+        "Sabarinsyah",
+        "Laras Devikaduri"
+      ],
+      "year": 2026,
+      "journal": "Jurnal Matematika UNAND",
+      "openalex_id": "W7171996178",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171996178",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 3/11 key interest terms (states, wildfires, wildfire)",
+      "tags": [
+        "States",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "This study analyzes disaster dominance patterns in the Riau Islands using a monthly Markov chain model with five states: non hazard (S0), hydrological (S1,flood), geomorphological (S2,landslide), meteorological (S3,extreme weather), and ecological (S4,wildfire) hazard.",
+      "added": false
+    },
+    {
+      "title": "Characterizing Wildland-Urban Interface Fire Typology and Climate Associations Across California, USA",
+      "abstract": "Abstract. California experiences some of the most intense wildfire activity globally, with substantial human casualties and economic losses that show accelerating trends. Existing research predominantly quantifies the relative contributions of anthropogenic factors and climate forcing to WUI fires at the aggregate level, yet overlooks the heterogeneity in fire initiation and propagation mechanisms arising from differences in ignition locations and dominant spread areas. Using multi-source data from California (2002–2023), we classified WUI fires into four behavioral modes based on whether ignition sites and primary spread areas were located in the WUI: I-I (WUI ignition, WUI spread), I-W (WUI ignition, wildland spread), W-I (wildland ignition, WUI spread), and W-W (wildland ignition, wildland spread). We systematically analyzed size characteristics, inter-annual trends, fuel composition, and climate sensitivity across modes. Results revealed: (1) WUI fires accounted for 96.6% of total burned area from large fires, although only 12.2% of burned area fell within the WUI; both total and mean burned area increased significantly over the two-decade period. (2) Naturally-ignited WUI fires showed significantly delayed ignition dates, whereas human-caused fires occurred significantly earlier, with peaks in fire frequency during Independence Day, Labor Day, and Thanksgiving. (3) I-I fires were predominantly driven by anthropogenic factors with the highest proportion of shrubland fuel and the smallest mean size; W-W and I-W fires exhibited significant climate sensitivity, with I-W showing a higher rate of increase than W-W over the two decades. These findings reveal differentiated driving mechanisms of anthropogenic and climatic factors across WUI fire behavioral types, providing scientific evidence for stratified fire management strategies.",
+      "doi": "10.5194/isprs-archives-xlix-b3-2026-1411-2026",
+      "authors": [
+        "Huiyi Su",
+        "Pingting Cao",
+        "Ximei Wu",
+        "Lu Liang",
+        "Qingqing Xu",
+        "Yang Ju",
+        "Jiaojiao Diao",
+        "Qin Ma"
+      ],
+      "year": 2026,
+      "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+      "openalex_id": "W7171953438",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171953438",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 3/11 key interest terms (ignition, large, wildfire)",
+      "tags": [
+        "Ignition",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract. California experiences some of the most intense wildfire activity globally, with substantial human casualties and economic losses that show accelerating trends.",
+      "added": false
+    },
+    {
+      "title": "A study on the lifespan of burnt logs used in nature-based solutions for post-fire anti-erosion barriers and forest regeneration promotion",
+      "abstract": "Abstract Mediterranean forest ecosystems are increasingly threatened by wildfires, compromising slope stability and delaying natural regeneration. In these contexts, Nature-based Solutions (NbS) represent sustainable approaches for post-fire restoration. This study evaluated the short- to medium-term structural durability and ecological effectiveness of fire-affected logs repositioned as erosion barriers after a large wildfire in a Pinus radiata stand in Southern Italy. The objectives were to assess the mechanical degradation of burnt logs using non-destructive technologies, to develop a predictive decay model, and to evaluate the effects of log arrangement on hydrological response and natural forest regeneration. Burnt logs were monitored over 24 months and classified according to bark damage. Wood decay was modelled using beta regression based on physical and mechanical parameters. Moderately burnt bark logs retained higher mechanical stability than logs with intact or completely burnt bark. Time since fire, bark damage class, and acoustic wave velocity were the main predictors of decay. Contour-aligned logs reduced runoff and erosion while promoting a higher proportion of established seedlings, whereas randomly distributed logs showed greater initial regeneration density but lower regeneration quality. These findings provide practical guidance for selecting fire-affected logs in NbS and improve understanding of their structural and ecological role in post-fire Mediterranean forest restoration.",
+      "doi": "10.1038/s41598-026-64506-8",
+      "authors": [
+        "Salvatore F. Papandrea",
+        "Pasquale A. Marziliano",
+        "Maria Francesca Cataldo",
+        "Daniela D’Agostino",
+        "Michele Mercuri",
+        "Silvio Bagnato",
+        "Giuseppe Bombino",
+        "Andrea R. Proto"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7172000865",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172000865",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 3/11 key interest terms (wildfires, large, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract Mediterranean forest ecosystems are increasingly threatened by wildfires, compromising slope stability and delaying natural regeneration. In these contexts, Nature-based Solutions (NbS) represent sustainable approaches for post-fire restoration.",
+      "added": false
+    },
+    {
+      "title": "Long-term solar-induced fluorescence data record from GOME-2A and GOME-2B (2007–2023) using the SIFTER v3 algorithm",
+      "abstract": "Abstract. Design differences in sensors and retrieval algorithms complicate the harmonisation of space-based solar-induced fluorescence (SIF) observations. The GOME-2 series, with its identical sensor design, offers potential for constructing a long-term coherent record. However, instrumental artefacts, such as degradation, affect the sensors differently and diverge the intersensor SIF observations. Achieving internal consistency within each record is therefore a critical first step in harmonisation. We present a combined GOME-2 SIF dataset for 2007–2023 that consists of GOME-2A (January 2007–December 2017) and GOME-2B SIF (July 2013–December 2023) data. Both individual records are retrieved using the previously developed SIFTER v3 algorithm, which applies time-, wavelength-, and scan-angle-dependent degradation corrections. Spatial agreement between GOME-2A and GOME-2B SIF during the overlapping period was strong (r≥ 0.96), although viewing geometry differences caused substantial systematic biases, specifically over high activity regions; these were reduced to within 2 % by constraining to common viewing zenith angle ranges. In terms of temporal alignment, most analysed regions showed no significant step change at the July 2013 sensor transition, from full-swath GOME-2A to GOME-2B SIF. Small offsets in Eastern China and the Amazon were corrected for using a simple additive correction, which improved the coherence and agreement with independent GPP estimations from FluxSat. Finally, the GOME-2 records align closely with FluxSat GPP and TROPOMI SIF across various biomes, and support monitoring of vegetation activity over 17 years. Our work presents a framework for detecting and, when necessary, correcting intersensor offset biases, enabling the use of GOME-2A and GOME-2B SIF as a single record. Moreover, it offers guidance for harmonising multi-sensor datasets and for other causes of potential structural breaks in long-term observation records. The GOME-2A and GOME-2B SIF (obtained in this study) datasets are available at https://doi.org/10.21944/gome2a-sifter-v3-solar-induced-fluorescence (Anema et al., 2025a) and https://doi.org/10.21944/gome2b-sifter-v3-solar-induced-fluorescence (Anema et al., 2025b), respectively.",
+      "doi": "10.5194/essd-18-5643-2026",
+      "authors": [
+        "Juliëtte C. S. Anema",
+        "K. F. Boersma",
+        "L. G. Tilstra",
+        "Ruben van 't Loo",
+        "O. N. E. Tuinder"
+      ],
+      "year": 2026,
+      "journal": "Earth system science data",
+      "openalex_id": "W4416789394",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4416789394",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 2/11 key interest terms (eastern, causes)",
+      "tags": [
+        "Eastern",
+        "Causes"
+      ],
+      "summary": "Abstract. Design differences in sensors and retrieval algorithms complicate the harmonisation of space-based solar-induced fluorescence (SIF) observations. The GOME-2 series, with its identical sensor design, offers potential for constructing a long-term coherent record.",
+      "added": false
+    },
+    {
+      "title": "Pre-Ignition Forest Fire Risk Prediction Using Multi-Temporal Vegetation Indices and Machine Learning: A Case Study from California",
+      "abstract": "Abstract. This study proposes a machine learning-based approach for predicting forest fire occurrences one month in advance in high-risk regions of California. Multiple algorithms, including Logistic Regression (LR), Support Vector Machine (SVM), Extreme Gradient Boosting (XGB), and a Hybrid LSTM + LR model, were systematically evaluated using dynamic vegetation indices such as Normalized Difference Vegetation Index (NDVI), Normalized Difference Water Index (NDWI), Gross Primary Productivity (GPP), Leaf Area Index (LAI), along with their derivative components including trend and Exponential Moving Average (EMA). Static topographical and forest attributes such as slope, elevation, forest type, and forest group were also incorporated. Among the evaluated models, LR demonstrated the most consistent performance, achieving a validation Area Under the Curve (AUC) of 0.90 in Scenario F, which combined static variables with trend and EMA-based vegetation features. Experiments with varying historical windows (12, 9, and 6 months) showed that a 12-month period provided the best predictive accuracy by effectively capturing seasonal and long-term vegetation dynamics. The model was further validated using independent fire datasets from 2021 and 2024, achieving an AUC of 0.84 in 2021. However, performance declined to 0.64 in 2024, likely due to changes in satellite data products, spatial resolution, and forest phenology. The findings indicate that integrating long-term vegetation trends and EMA-based dynamic indices with static environmental variables can provide a robust and computationally efficient framework for forest fire prediction. However, future models must address data variability and environmental shifts to sustain long-term predictive performance.",
+      "doi": "10.5194/isprs-archives-xlix-b3-2026-1403-2026",
+      "authors": [
+        "Jayantrao Mohite",
+        "Suryakant Sawant",
+        "Ankur Pandit",
+        "Dineshkumar Singh"
+      ],
+      "year": 2026,
+      "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+      "openalex_id": "W7171960444",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171960444",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/11 key interest terms (ignition)",
+      "tags": [
+        "Ignition"
+      ],
+      "summary": "Abstract. This study proposes a machine learning-based approach for predicting forest fire occurrences one month in advance in high-risk regions of California. Multiple algorithms, including Logistic Regression (LR), Support Vector Machine (SVM), Extreme Gradient Boosting (XGB), and a Hybrid LSTM + LR model, were syste…",
+      "added": false
+    },
+    {
+      "title": "African Natural and Man-Made Disasters: The Management of the Continent's Nemesis",
+      "abstract": "Disasters have been occurring since time immemorial and have significant economic and social impacts, causing direct damages and long-term economic losses requiring large fiscal outlays for reconstruction and recovery in Africa. This paper reviews the state of disaster management in Africa and how African countries can best strengthen their disaster preparedness and response capabilities. The review examines disasters that have occurred over the past five decades (1970-2023), including natural disasters (droughts, floods, cyclones, earthquakes, volcanoes, heatwaves, wildfires), man-made disasters (conflicts, insurgencies), and health emergencies (epidemics, pandemics, drug abuse). The research is based primarily on a qualitative literature review of secondary data sources, including journals, handbooks, working papers, government documents, and conference proceedings. The findings reveal that Africa faces a convergence of environmental, economic, and social vulnerabilities that reduce the capacity of individuals and communities to secure and protect their livelihoods. About 1,700 natural disasters have been reported in Africa over the past five decades, causing economic losses of approximately US$38.5 billion and over 750,000 deaths. The paper concludes that while disasters cannot be prevented, disaster management can be reinforced to reduce mortality and suffering. Strengthening early warning systems, enhancing institutional frameworks, promoting regional cooperation, and addressing underlying vulnerabilities are essential for building resilience and reducing disaster losses in Africa.",
+      "doi": "10.25125/ijoear-jul-2026-5",
+      "authors": [
+        "Douglas Ncube",
+        "Rudo Abigail Togaraseyi"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Environmental and Agriculture Research",
+      "openalex_id": "W7171980746",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171980746",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 2/11 key interest terms (wildfires, large)",
+      "tags": [
+        "Wildfires",
+        "Large"
+      ],
+      "summary": "Disasters have been occurring since time immemorial and have significant economic and social impacts, causing direct damages and long-term economic losses requiring large fiscal outlays for reconstruction and recovery in Africa.",
+      "added": false
+    },
+    {
+      "title": "Acute Mental Health Impacts and Mid-Term Symptom Trajectories Following Wildfire Exposure",
+      "abstract": "This longitudinal cohort study examined acute and mid-term mental health impacts among 4346 survivors of the 2018 Camp Fire in Northern California using a retrospective survey that asked participants to report symptoms at one, three, and six months post-wildfire. Forty-one percent of participants reported at least one mental health symptom three weeks after the wildfire. Mental health symptoms declined over the six-month follow-up. The mean number of mental health symptoms was 3.7 (95% CI, 3.3–4.1) at three weeks, 3.3 (3.0–3.7) at one month, 3.1 (2.8–3.4) at three months, and 2.7 (2.5–3.1) at six months. Among survivors reporting one or more symptoms, severe home damage was associated with a 1.6-fold higher number of mental health symptoms, preexisting mental health conditions and job loss due to the wildfire were each associated with 1.2-fold increase, and prior physical disabilities with a 1.1-fold increase. Loss of a family member or friend and living alone were also associated with a higher number of mental health symptoms, whereas both younger age (&lt;18 years) and male sex were associated with fewer symptoms. Wildfire exposure is associated with increased mental health risks, particularly among those with preexisting conditions and significant fire-related losses.",
+      "doi": "10.3390/ijerph23081005",
+      "authors": [
+        "Lusine Gigoyan",
+        "Michelle L. Dossett",
+        "Kathryn C. Conlon",
+        "Shuai Chen",
+        "Sean Raffuse",
+        "Irva Hertz‐Picciotto"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Environmental Research and Public Health",
+      "openalex_id": "W7171985941",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171985941",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "This longitudinal cohort study examined acute and mid-term mental health impacts among 4346 survivors of the 2018 Camp Fire in Northern California using a retrospective survey that asked participants to report symptoms at one, three, and six months post-wildfire.",
+      "added": false
+    },
+    {
+      "title": "Natural hazard perception and preparedness in a rural, complex jurisdiction: A case study in southwestern British Columbia, Canada",
+      "abstract": "As climate change reshapes hazard profiles, strengthening public preparedness for natural hazards has received growing attention worldwide. Although substantial research has examined behavioural drivers of preparedness and the operational constraints of emergency management systems, these dimensions are often studied separately, limiting understanding of how individual and institutional factors operate together. This study examines both dimensions in the Squamish–Lillooet Regional District, a rural, multi-hazard region in southwestern British Columbia, Canada. Using a mixed-methods approach, a resident survey investigated individual hazard perceptions, preparedness behaviours, and associated factors, while interviews with local emergency managers examined current strategies and operational challenges. Although survey participants demonstrated relatively high hazard awareness and willingness to comply with official guidance, notable gaps remained in preparedness, hazard knowledge, and satisfaction with government performance. Examination of psychological and experiential factors also showed that hazard experience, worry, and self-efficacy sometimes had counterintuitive associations with individual preparedness. Interview findings further indicated that institutional and systemic constraints, such as fragmented responsibilities and limited capacity, might indirectly hamper public preparedness outcomes. These findings suggest that strengthening public preparedness for natural hazards depends not only on individual behavioural factors but also on broader institutional systems and legislative frameworks. Practical recommendations include regular baseline surveys, tailored communication strategies, and parallel investment in both informal partnerships and formal governance capacity. Together, this study provides a more comprehensive understanding of preparedness and offers practical insights for similarly resource-constrained jurisdictions facing increasing multi-hazard risks internationally.",
+      "doi": "10.1016/j.ijdrr.2026.106348",
+      "authors": [
+        "Yu-Yen Pan",
+        "Glyn Williams‐Jones",
+        "Pascal Haegeli",
+        "Eileen Van der Flier-Keller",
+        "Peter Anderson",
+        "Courtney Onstad"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7171543086",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171543086",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "As climate change reshapes hazard profiles, strengthening public preparedness for natural hazards has received growing attention worldwide. Although substantial research has examined behavioural drivers of preparedness and the operational constraints of emergency management systems, these dimensions are often studied s…",
+      "added": false
+    },
+    {
+      "title": "Global Risk and Resilience in Sustainable Climate Finance: Behavioral, Financial, and Governance Implications for Financial Institutions",
+      "abstract": "Climate change presents a paradox: regardless of ongoing debate about its causes or magnitude, the associated physical, transition, and liability risks pose tangible and increasingly material challenges for financial institutions (Carney, 2015; Peterson et al., 2023). This study examines climate-related financial risk through an integrated lens that combined extant literature, behavioral analysis, a detailed case study, and original empirical evidence drawn from a survey of ten executives and board members across seven U.S.-based credit unions. Survey findings revealed that most participants had not deliberately incorporated climate risk into strategic or risk-management processes; instead, attention to climate-related issues was often incidental or reactive. Several primary risk channels influencing institutional financial stability emerged: supply chain disruption, technology-related disruption (including business continuity and innovation-induced risk), and policy or regulatory transition risk. The article explores how these risks affect financial resilience, governance structures, socio-economic and geopolitical dynamics, and technology and sustainability strategies, with particular emphasis on managerial decision-making and board oversight (Laliotis &amp; Lamichhane, 2023; OECD, 2022). Long-tail risk and the skewness of climate-related disruptions are examined to illustrate the inadequacy of short-term planning horizons (Dietz et al., 2016). A detailed case study of California-based Meriwest Credit Union demonstrates how climate risk manifests operationally and strategically within a community-based financial institution. Grounded in prospect theory and enterprise risk management (ERM) (Freeman et al., 2010; Kahneman &amp; Tversky, 1979; Paine, 2020), this study’s primary focus was the behavioral (prospect theory) and enterprise risk management theoretical framework (ERM). The study suggests that deliberate, long-term, and behaviorally informed climate-risk management is essential for sustaining financial stability and organizational resilience in a low-carbon transition.",
+      "doi": "10.21818/001c.166105",
+      "authors": [
+        "Udey Chaudhry",
+        "Arthur Jue"
+      ],
+      "year": 2026,
+      "journal": "Journal of Behavioral and Applied Management",
+      "openalex_id": "W7171929296",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171929296",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Climate change presents a paradox: regardless of ongoing debate about its causes or magnitude, the associated physical, transition, and liability risks pose tangible and increasingly material challenges for financial institutions (Carney, 2015; Peterson et al., 2023).",
+      "added": false
+    },
+    {
+      "title": "Influence of climate change on the geographic distribution of forest fires and their potential scale in Sri Lanka",
+      "abstract": "Forest fires pose a significant threat to the conservation of forest resources in Sri Lanka. Forest fire modeling is a novel technique to study and predict the behavior of forest fires. This study utilizes simulation techniques to investigate the relationship between forest fire occurrence and climate change particularly in the dry zone of Sri Lanka. The frequency and duration of phenomena such as sea current oscillation El Niño southern oscillation (ENSO) change due to climate change, can create extreme dry conditions that increase the risk of intensified fires, especially in the dry zone of Sri Lanka. To assess fire vulnerability under prevailing weather conditions and projected climate change scenarios, the FConstMTT simulation algorithm was used with 1,000 iterations per scenario. In this analysis forest types across Sri Lanka were classified into six classes based on elevation, rainfall, and fuel characteristics. Customized fuel models were created using BehavePlus and spatial data was processed through the ArcFuel extension of ArcGIS. The results indicate that under projected climate scenarios, fire hazards in the dry zone particularly in the districts of Mullaitivu, Monaragala, Anuradhapura, Polonnaruwa, and Badulla, are likely to worsen in the future. In the climate change scenarios, Monaragala district accounted for approximately 53% of total fire damage, with Badulla district showing a significant baseline vulnerability. Anuradhapura district also showed significant levels of fire vulnerability under the projected climate change conditions. Based on fire frequency and intensity, the 25 administrative districts in Sri Lanka were categorized into high, moderate, and low-risk areas. Forest types such as dry monsoon forests, shrublands, open forests, and savannahs are particularly vulnerable under the predicted climate change scenarios.",
+      "doi": "10.4038/jnsfsr.v54i2.12650",
+      "authors": [
+        "M. Heenatigala",
+        "M. Nielsen-Pincus",
+        "S. Dissanayake",
+        "A. Sathurusinghe",
+        "C. Evers"
+      ],
+      "year": 2026,
+      "journal": "Journal of the National Science Foundation of Sri Lanka",
+      "openalex_id": "W7172029146",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172029146",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Forest fires pose a significant threat to the conservation of forest resources in Sri Lanka. Forest fire modeling is a novel technique to study and predict the behavior of forest fires.",
+      "added": false
+    },
+    {
+      "title": "Spatial Heterogeneity and Temporal Trends of California Extreme Heat Using High-Resolution Earth System Model Simulations",
+      "abstract": "Extreme heat threatens California’s diverse landscapes and populations through intensifying and geographically shifting patterns. This study examined the temporal trend and spatial heterogeneities of California’s extreme heat for 1994–2015. The analysis was based on the fully coupled Energy Exascale Earth System Model version 2 (E3SMv2), specifically its 25-km regionally refined configuration. While the Desert/Inland region exhibited the highest number of days ≥ 35 °C and the highest heatwave severity, Central Valley showed the fastest increase in the number of days ≥ 35 °C and heatwave events, as well as the fastest increases of days exceeding various heat index thresholds over the two decades. Large spatial heterogeneities were found at sub-regional, county, and census tract levels in terms of 22-year averages as well as decadal trends. Analyses of internal variabilities – El Niño, La Niña or Neutral conditions – showed that the El Niño years had the least impacts from heat events. Vulnerability indices were calculated based on meteorological and socioeconomic conditions to assess the average and evolving changes of population vulnerability and potential growth of energy demand. Overall, these results provided a framework for using Earth system modeling to guide societal adaptation plans and support decision-making activities to enhance both public health and energy resilience.",
+      "doi": "10.31979/etd.d8qf-bwvy",
+      "authors": [
+        "Eleni Konstantelos"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7171977873",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171977873",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Extreme heat threatens California’s diverse landscapes and populations through intensifying and geographically shifting patterns. This study examined the temporal trend and spatial heterogeneities of California’s extreme heat for 1994–2015.",
+      "added": false
+    },
+    {
+      "title": "Integrating Explainable Machine Learning and Classification methods for Wildland Fire Danger Mapping",
+      "abstract": "Abstract. In the context of contemporary wildland fire management, accurately understanding and predicting fire danger is fundamental to ensuring public safety and optimizing the allocation of suppression resources. Geospatial data combined with machine learning provides an effective framework for analyzing the complex interactions between weather patterns and site characteristics, thereby identifying conditions associated with elevated wildfire danger. Machine learning encompasses a range of algorithms developed to detect patterns in data. This study integrates a Random Forest model with Recursive Feature Elimination and Cross Validation (RFECV) and three classification methods to generate wildland fire danger maps. To address the opacity inherent in machine learning models, SHapley Additive exPlanations (SHAP) were utilized to quantify the marginal contribution of each variable to the predicted distance from fire. Given the critical role of classification in mapping outcomes, we evaluated the relative effectiveness of several classification methods, including Natural Breaks (NB), Geometrical Interval (GI), and Standard Deviation (STDI). The results indicate that the GI approach most effectively aligns high-risk classes with observed fire patterns. Assessing the sensitivity of wildland fire danger mapping across the three classification methods demonstrates both consistency and uncertainty in the resulting fire danger maps. Overall, the comparative results highlight the robustness of the proposed machine learning based framework for producing spatially explicit fire danger maps.",
+      "doi": "10.5194/isprs-archives-xlix-b3-2026-1315-2026",
+      "authors": [
+        "Saeideh Sahebi Vayghan",
+        "Tarmo K. Remmel"
+      ],
+      "year": 2026,
+      "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+      "openalex_id": "W7171949947",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171949947",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract. In the context of contemporary wildland fire management, accurately understanding and predicting fire danger is fundamental to ensuring public safety and optimizing the allocation of suppression resources.",
+      "added": false
+    },
+    {
+      "title": "Two Amazon freshwater sponges, Drulia brownii and Tubella paulula, share a resilient microbiome strongly shaped by seasonality and urbanization",
+      "abstract": "Sponges are among the earliest-diverging metazoans, and their evolutionary success has been strongly linked to their symbiosis with microorganisms. While marine sponge-microbiome associations have been extensively characterized, freshwater sponges remain comparatively understudied, particularly in tropical systems such as the Amazon, where sponges undergo seasonal flood pulses and urbanization-derived disturbance. Here we characterized the microbiomes of two freshwater sponge species, Drulia brownii and Tubella paulula, from two contrasting sites in the Tapajos River (Amazon basin), a non-urbanized and an urbanized site, at two time points, the rainy and dry seasons. The whole metagenome was sequenced using a long-read shotgun approach, and metabarcoding was employed to characterize the gemmule microbiome. The analyses revealed that microbiome composition was primarily influenced by season, with urbanization exerting a secondary but significant effect. In non-urbanized rainy-season sponges, the microbiome was dominated by Pseudomonadales and Bacillales, whereas urbanized sponges showed more diverse profiles enriched with Burkholderiales, a possible symbiont. During the dry season, communities converged across sites, with Burkholderiales becoming the dominant taxon, including in gemmules. The 23 high-quality MAGs recovered revealed symbiosis-related genes, broad biosynthetic repertoires, and a distinctive carbohydrate-active enzyme profile. Functional analyses suggest that Pseudomonadales and Burkholderiales may play complementary roles across seasons, and Bacillales may be associated with organic matter turnover. These results show that Amazonian freshwater sponges harbor stress-sensitive but resilient microbiomes, with seasonality driving major compositional shifts and urbanization accelerating convergence toward Burkholderiales-dominated consortia, and highlight the central role of bacterial symbionts in nutrient acquisition, photoprotection, and chemical defense.",
+      "doi": "10.64898/2026.07.30.741787",
+      "authors": [
+        "Lucas da Silva e Silva",
+        "Joelma Leão",
+        "Graciene do Socorro Taveira Fernandes",
+        "Rafael A. Baraúna",
+        "Diego Assis das Graças",
+        "Artur Silva",
+        "Maria Paula Cruz Schneider"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7172091100",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172091100",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Sponges are among the earliest-diverging metazoans, and their evolutionary success has been strongly linked to their symbiosis with microorganisms. While marine sponge-microbiome associations have been extensively characterized, freshwater sponges remain comparatively understudied, particularly in tropical systems such…",
+      "added": false
+    },
+    {
+      "title": "The Landscape Resilience Index: a flexible tool for integrated landscape management",
+      "abstract": "Globally, landscapes are subject to intensifying and interacting environmental pressures, making landscape resilience increasingly important for sustaining ecosystem services, livelihoods, and long-term development. Integrated landscape management offers a promising approach to strengthening resilience, yet many existing monitoring frameworks are not fit for purpose because they are too narrow in either scope or scale. This paper presents the Landscape Resilience Index (LRI), a flexible tool that integrates diverse primary and secondary datasets to monitor progress towards resilience over time across three interconnected pillars: land, water, and adaptive capacity. The LRI combines monitoring at site and landscape scales while aligning outcomes with national policy objectives. Using the Kilombero landscape in Morogoro, Tanzania, as a case study, we demonstrate how the LRI can provide a coherent picture of landscape resilience and identify priority interventions linked to national policy commitments. The framework strengthens the evidence base for adaptive management, policy alignment, and investment by linking local interventions to broader resilience outcomes and supporting more coordinated, scalable landscape action.",
+      "doi": "10.3389/fsufs.2026.1881795",
+      "authors": [
+        "W. Ovenden",
+        "E. Durrant",
+        "S. Ovenden",
+        "E. Ishengoma",
+        "S. Davis",
+        "M. A. Borges",
+        "M. Matediane",
+        "M. Esmael",
+        "Metta C.",
+        "A. Mhagama",
+        "A. Al Dwairi"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Sustainable Food Systems",
+      "openalex_id": "W7171924333",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171924333",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Globally, landscapes are subject to intensifying and interacting environmental pressures, making landscape resilience increasingly important for sustaining ecosystem services, livelihoods, and long-term development.",
+      "added": false
+    }
+  ]
+}
