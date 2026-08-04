@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-04",
+  "statistics": {
+    "fetched": 153,
+    "duplicates_removed": 152,
+    "evaluated": 1,
+    "added": 1,
+    "ignored": 0,
+    "average_score": 5.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Vegetation type shapes wildfire emissions in northern Algeria: Implications for Mediterranean forest management",
+      "abstract": "Wildfires are among the main environmental challenges in Mediterranean ecosystems affecting atmospheric composition, carbon cycling and ecosystem functioning.In North Africa the vegetation-specific contribution of wildfires to atmospheric emissions remains poorly studied despite the increasing frequency of large wildfires under climate change.This study assesses the effect of burned vegetation types (Forests, Shrublands-grasslands, Croplands and Savannas) on the emissions of five main atmospheric pollutants (CO 2 , CO, CH 4 , N 2 O, NOx) in Northern Algeria during the fire seasons (May-October) from 2002 to 2024.Monthly burned area data from the MCD64A1 dataset and monthly wildfire emissions from FAOSTAT were combined to quantify vegetation-specific emissions.The results revealed substantial interannual variability in wildfire atmospheric emissions throughout the study period.Although shrublands-grasslands burned more than four times the area burned in forests, forests generated nearly twice the atmospheric emissions and consistently exhibited the highest emission efficiencies for all investigated pollutants.Together, these patterns demonstrate that wildfire atmospheric pollution is not controlled solely by fire extent but also by vegetation type.These findings provide new insights into wildfire atmospheric interactions in Mediterranean North Africa and underline the importance of integrating vegetation-specific fuel management into regional wildfire mitigation strategies aimed at reducing atmospheric emissions and improving ecosystem resilience under future climate change.",
+      "doi": "10.12912/27197050/225431",
+      "authors": [
+        "Aymen Moghli",
+        "Mostefa E. Kouachi"
+      ],
+      "year": 2026,
+      "journal": "Ecological Engineering & Environmental Technology",
+      "openalex_id": "W7172125292",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172125292",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 4/4 key interest terms (wildfire, large wildfires, large, wildfires)",
+      "tags": [
+        "Wildfire",
+        "Large Wildfires",
+        "Large",
+        "Wildfires"
+      ],
+      "summary": "Wildfires are among the main environmental challenges in Mediterranean ecosystems affecting atmospheric composition, carbon cycling and ecosystem functioning.In North Africa the vegetation-specific contribution of wildfires to atmospheric emissions remains poorly studied despite the increasing frequency of large wildfi…",
+      "added": true
+    }
+  ]
+}
