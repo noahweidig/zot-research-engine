@@ -1,0 +1,446 @@
+{
+  "date": "2026-08-06",
+  "statistics": {
+    "fetched": 116,
+    "duplicates_removed": 98,
+    "evaluated": 18,
+    "added": 0,
+    "ignored": 18,
+    "average_score": 1.39
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "A Hierarchical Framework for Quantifying Seasonal and Daily Wildland Fire Risk in Great Plains Grasslands",
+      "abstract": "Accurate quantification of wildfire risk is essential for balancing wildfire mitigation and prescribed fire management in grassland ecosystems, yet existing fire danger indices do not explicitly distinguish seasonal fuel dynamics from daily weather variability. This study presents a hierarchical framework for quantifying wildland fire risk by explicitly separating seasonal wildfire potential from daily weather-driven fire activity. The framework introduces the Daily Burned Area Ratio (DBAR) as a quantitative measure of realized wildfire risk and decomposes it into the Seasonal Burned Area Ratio (SBAR) and the Daily Burn Activity Index (DBAI). Wildfire records from the U.S. Forest Service Fire Program Analysis Fire-Occurrence Database, Oklahoma Mesonet weather observations, and remotely sensed vegetation data collected between 1995 and 2020 were used to develop and evaluate the framework in the Flint Hills of Kansas and Oklahoma. SBAR was modeled using grass curing and air temperature to characterize the seasonal baseline of wildfire activity, whereas DBAI was modeled using dead fuel moisture content (DFMC) and wind speed to quantify day-to-day departures from that seasonal baseline. The SBAR model accurately reproduced the characteristic bimodal wildfire regime of the Great Plains, whereas the DBAI model identified DFMC as the dominant control on daily wildfire activity, with wind speed providing an important secondary influence. Compared with the Burning Index (BI) and the Grassland Fire Danger Index (GFDI), the hierarchical framework achieved superior performance in discriminating fire days from non-fire days. Global sensitivity analysis further demonstrated that the framework provides a more balanced representation of the influences of grass curing, relative humidity, air temperature, and wind speed than the conventional indices. By explicitly separating seasonal fuel dynamics from short-term weather variability, the proposed framework provides an ecologically interpretable, locally calibratable, and operationally practical approach to wildfire risk assessment. Because the seasonal and daily components can be calibrated independently, the framework is readily transferable to other grassland ecosystems and provides a flexible foundation for adaptive wildfire and prescribed fire management under changing climatic conditions.",
+      "doi": "10.3390/fire9080329",
+      "authors": [
+        "Izuchukwu Oscar Okafor",
+        "Zifei Liu",
+        "Mayowa Boluwatife George"
+      ],
+      "year": 2026,
+      "journal": "Fire",
+      "openalex_id": "W7172255807",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172255807",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 37%: matched 4/11 key interest terms (occurrence, prescribed, burning, wildfire)",
+      "tags": [
+        "Occurrence",
+        "Prescribed",
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Accurate quantification of wildfire risk is essential for balancing wildfire mitigation and prescribed fire management in grassland ecosystems, yet existing fire danger indices do not explicitly distinguish seasonal fuel dynamics from daily weather variability.",
+      "added": false
+    },
+    {
+      "title": "FireLands 1.0: A landscape evolution model for simulating the effects of fires and post-fire erosion on sediment dynamics in evolving landscapes",
+      "abstract": "Abstract. Wildfires play an important control on changing Earth surface processes across a wide range of landscapes. Although post-fire changes in erosion and deposition dynamics have been widely documented, feedbacks among wildfire, vegetation, sediment dynamics, and topographic adjustment across large temporal and spatial scales remain poorly understood. Landscape evolution models provide a powerful framework for integrating these processes and timescales, enabling assessment of how wildfire influences long‑term landscape evolution. Here, we present FireLands, a landscape evolution model that integrates a newly developed component for fire ignition and spread (WildfireGenerator) with existing components for landscape evolution processes. WildfireGenerator is a cellular automaton model simulating fire ignition and spread, aridity‑controlled fire severity and vegetation regrowth. Within FireLands, WildfireGenerator is coupled with components for soil production, erosion by channelized flow, and hillslope sediment transport. We link wildfire effects to geomorphic process efficiency by positing fire-driven increases in sediment erodibility and hillslope transport efficiency, with the highest increases occurring after high-severity fires. Model testing suggests that WildfireGenerator realistically simulates the effects of fire on vegetation and the emergence of landscape‑scale vegetation patterns. An observed fire magnitude–frequency relationship from Calabria, a wildfire‑prone region in southern Italy, is reproduced with good agreement. Simulations incorporating coupling between wildfire and landscape evolution show that FireLands captures key aspects of post‑wildfire geomorphic response, whereby vegetation controls the magnitude of erosion on hillslopes and deposition within higher-order fluvial channels. The magnitude and spatial extent of sediment redistribution across post‑fire landscapes depend on fire frequency and severity, vegetation recovery rates and landscape heterogeneity. FireLands is able to simulate these dynamics across large spatial and temporal scales, providing a tool for integrating short‑duration, high‑intensity geomorphic extremes driven by wildfire within a long‑term landscape evolution framework. Including fires in a landscape evolution perspective is powerful to understand the effects of fire-vegetation feedbacks on sediment transport over various spatial and temporal scales.",
+      "doi": "10.5194/egusphere-2026-3521",
+      "authors": [
+        "Matheus de Almeida",
+        "Charles M. Shobe",
+        "Duna Roda-Boluda",
+        "Loraine Gourbet",
+        "Amber Distelbrink",
+        "Sander Veraverbeke",
+        "Benjamin Campforts"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7172325220",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172325220",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 4/11 key interest terms (ignition, wildfires, large, wildfire)",
+      "tags": [
+        "Ignition",
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Wildfires play an important control on changing Earth surface processes across a wide range of landscapes. Although post-fire changes in erosion and deposition dynamics have been widely documented, feedbacks among wildfire, vegetation, sediment dynamics, and topographic adjustment across large temporal and sp…",
+      "added": false
+    },
+    {
+      "title": "Inclusive Disaster Recovery Networks: Implications for Cross-Sectoral Collaboration in Disaster",
+      "abstract": "Disaster recovery in the United States (U.S.) relies on federally coordinated programs to distribute funding and information across government, nonprofit, and community organisations. Yet coordination structures can suppress organisational learning and innovation (normative) and reproduce unequal burdens within cross-sectoral collaboration (structural), contributing to uneven recovery outcomes for communities facing compounded risks. Research exploring how cross-sectoral collaboration challenges or reproduces these barriers is needed. To address this, we examine the normative and structural implications of the North Carolina Inclusive Disaster Recovery Network (NCIDR), a cross-sectoral network formed to promote inclusive access to recovery resources. Using an online survey, we compare organisations aware of NCIDR (N = 142; 52.8% aware) and then examine whether patterns differ for community-based organisations (CBOs). Findings indicate that organisations aware of NCIDR are marginally more likely to define inclusion as providing specialised services to historically underserved communities (U = 5240.50, p = 0.051) and report higher adaptive capacity (U = 5620.50, p = 0.02). Among those aware of NCIDR, 96.7% reported some form of engagement (i.e. reading emails, attending meetings, sharing resources). Perceptions of NCIDR’s collaborative structure are positive across organisation types. However, CBOs are more likely to cite funding efficiency as a motivation for engagement (χ 2 (1, N = 92) = 8.35, p = 0.004). Analysis shows that NCIDR may provide a learning space consistent with positive deviance from institutional norms while still requiring changes to prevent structural replication of marginalisation by collaboration. We discuss implications for designing disaster recovery networks that support adaptive capacity.",
+      "doi": "10.1016/j.ijdrr.2026.106354",
+      "authors": [
+        "Kayla C. Gilligan",
+        "Bethany B. Cutts",
+        "Andrew Loeb Shoenig",
+        "Teshanee Williams",
+        "Kathryn Stevenson",
+        "Uchenna Osia",
+        "Jacob Hunter"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7172252520",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172252520",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/11 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Disaster recovery in the United States (U.S.) relies on federally coordinated programs to distribute funding and information across government, nonprofit, and community organisations.",
+      "added": false
+    },
+    {
+      "title": "Vertiport Selection and Staging Node Deployment for UAVs in Forest Wildfire Rescue Areas",
+      "abstract": "In mountainous wildfire response, unmanned aerial vehicle (UAV) emergency services depend on rapidly deployable and spatially reliable vertiports. However, existing site-selection methods insufficiently support continuous UAV operations in topographically complex terrain. This study develops a geographic information system (GIS)-based framework integrating Multi-Criteria Decision-Making (MCDM) and k-medoids clustering to shift UAV vertiport planning from individual site suitability ranking to networked deployment. The framework organizes feasible vertiport candidates into sector-based support staging nodes for coordinated multi-node wildfire response. Applied to the Xichang wildfire, the selected vertiport candidates reduced the mean first-arrival time by up to 71.4% compared with existing fire stations. Under differentiated reload-time assumptions, the staging node support mode further reduced the mean sortie cycle time by up to 56.85% and increased the mean delivery capacity from 17 to 42 fire-extinguishing bombs per UAV per hour. These results indicate that combining vertiport suitability evaluation with staging node-based logistical coordination improves the spatial organization and operational efficiency of UAV-enabled wildfire suppression. The framework offers decision support for networked UAV vertiport and staging node deployment in mountainous wildfire response.",
+      "doi": "10.3390/fire9080321",
+      "authors": [
+        "Yibo Zhang",
+        "Weijun Pan",
+        "Yanqiang Jiang",
+        "Lang Lei",
+        "Qinyue He"
+      ],
+      "year": 2026,
+      "journal": "Fire",
+      "openalex_id": "W7172253856",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172253856",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "In mountainous wildfire response, unmanned aerial vehicle (UAV) emergency services depend on rapidly deployable and spatially reliable vertiports. However, existing site-selection methods insufficiently support continuous UAV operations in topographically complex terrain.",
+      "added": false
+    },
+    {
+      "title": "Biochar enhances soil hydrological buffering under hydroclimatic whiplash",
+      "abstract": "Hydroclimatic whiplash, characterised by rapid transitions between extreme dry and wet conditions, is intensifying under climate warming and increasingly influencing soil hydrological functioning, soil stability, and water regulation. Thermodynamic warming, described by the Clausius–Clapeyron relationship, increases atmospheric moisture-holding capacity, creating an expanding “atmospheric sponge” that amplifies both heavy precipitation and evaporative demand. While atmospheric drivers of hydroclimatic variability are well established, far less attention has been given to the capacity of soils to buffer these extremes. This study examines whether biochar enhances soil hydrological function and contributes to resilience under hydroclimatic whiplash by strengthening the terrestrial “soil sponge”. This study synthesises evidence from published meta-analyses and review studies, supported by laboratory and field experiments, on biochar effects on key soil physical and hydraulic properties, including infiltration, saturated hydraulic conductivity, water retention, runoff generation, and erosion across diverse climates, soil types, and rainfall regimes. Global syntheses indicate average reductions in runoff (25%) and soil erosion (16%), alongside increases in soil water retention up to 30%, with stronger responses in coarse-textured soils. Evidence also shows increased plant-available water during dry periods (e.g. up to 45%), highlighting the capacity to moderate both excess and deficit phases. Because infiltration rate controls whether intense rainfall enters the soil profile or is converted into surface runoff, it is treated here as a central process linking biochar-induced changes in pore structure to hydrological buffering. Field experiments under natural rainfall further show that biochar can reduce soil erosion during intense rainfall events and, in some context-specific cases, substantially increase soil water storage, although these responses depend strongly on soil texture, application rate, biochar properties, and event characteristics. These findings indicate enhanced soil-scale hydrological buffering and reduced soil moisture variability. This synthesis highlights soil management as a pathway for supporting climate-resilient land systems under increasing hydroclimatic variability.",
+      "doi": "10.1007/s44533-026-00054-4",
+      "authors": [
+        "Behrouz Gholamahmadi"
+      ],
+      "year": 2026,
+      "journal": "Water Science",
+      "openalex_id": "W7172430092",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172430092",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Hydroclimatic whiplash, characterised by rapid transitions between extreme dry and wet conditions, is intensifying under climate warming and increasingly influencing soil hydrological functioning, soil stability, and water regulation.",
+      "added": false
+    },
+    {
+      "title": "Quantifying uncertainty due to sampling error in a social vulnerability index: A Monte Carlo approach",
+      "abstract": "Social vulnerability indices are widely used to assess communities' relative vulnerability to environmental hazards. However, existing social vulnerability indices, including the CDC's Social Vulnerability Index (CDC SVI), rely on deterministic scores that do not account for uncertainty from sampling error in American Community Survey (ACS) data. This study introduces SVI-MC, a probabilistic approach that leverages 10,000 Monte Carlo simulations to quantify aleatoric uncertainty in the SVI. Our method embeds sampling variability directly into index calculations, producing uncertainty aware composite vulnerability estimates. Results from eight southeastern U.S. states using census tract level data reveal that Theme 2 (Household Characteristics) exhibits the highest uncertainty, while Theme 3 (Race & Ethnicity) is the most stable. Rural, mountainous, and coastal areas display greater classification instability, while urban tracts are generally more stable. Additionally, we introduce an entropy-based measure that complements coefficients of variation (CVs) by capturing instability in categorical rankings. Comparisons with the CDC SVI show that while 68% of tracts align in the most and least vulnerable categories, one-third experience ranking shifts in our model. SVI-MC provides a more comprehensive and uncertainty-aware approach to social vulnerability assessment. This method is scalable, replicable, and adaptable, offering future applications for larger study regions or at finer observation units. The findings underscore the need for uncertainty-aware mapping in disaster planning, emergency response, and public health research, supporting more informed decision-making.",
+      "doi": "10.1371/journal.pone.0354333",
+      "authors": [
+        "Jawata A. Saba",
+        "Kevin D. Ash"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7172324267",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172324267",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Social vulnerability indices are widely used to assess communities' relative vulnerability to environmental hazards. However, existing social vulnerability indices, including the CDC's Social Vulnerability Index (CDC SVI), rely on deterministic scores that do not account for uncertainty from sampling error in American…",
+      "added": false
+    },
+    {
+      "title": "The Possible Global Role of Nature-Based Solutions in Reducing People’s Vulnerability to Climate Change",
+      "abstract": "While climate mitigation is essential for maintaining global mean temperature within 1.5 °C above pre-industrial levels, climate adaptation is necessary both now and in the coming decades. Ecosystems provide a wide array of services, including those that can reduce the negative impacts of climate change. Actions that solve problems using ecosystem services, called Nature-based Solutions (NbS), include ecosystem conservation, restoration, or improved land management. We computed the vulnerability of the global human population to eight climate change impacts – coastal flooding, food insecurity, heat waves, landslides, river flooding, vector-borne diseases, water stress, and wildfires – and identified areas where ecosystem conservation, restoration, or improved land management could potentially reduce people’s vulnerability to climate impacts. Our results indicate that 7.5 billion people are projected to be vulnerable to at least one climate impact by 2030, and NbS can reduce the vulnerability of up to 5.1 billion. We estimate that ecosystem conservation could potentially reduce climate vulnerability of over two billion people; ecosystem restoration could do so for almost sixty million people; and sustainable land management practices for about four billion people. While we do not quantify the effect of NbS on reducing climate impacts, i.e., we did not conduct a quantitative evaluation of the role of nature for climate adaptation, This study is a key first step in identifying areas where nature could possibly help people adapt to climate change, where such effects could be further explored, and where synergies with biodiversity conservation, climate mitigation, and other benefits to people could be found.",
+      "doi": "10.31223/x53795",
+      "authors": [
+        "Douglas Becker",
+        "Camila [UNESP] Donatti",
+        "Robert Mcdonald",
+        "Carter Brandon",
+        "Cameryn Brock",
+        "Rebecca Chaplin-Kramer",
+        "Loan Diep",
+        "Giacomo Fedele",
+        "Nancy B. Grimm",
+        "David Hole",
+        "Holly Jones",
+        "Mark Mulligan",
+        "Rachel Neugarten",
+        "Jeffrey Opperman",
+        "Stephen Polasky",
+        "Patrick Roehrdanz",
+        "Alex Zvoleff"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7172342269",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172342269",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "While climate mitigation is essential for maintaining global mean temperature within 1.5 °C above pre-industrial levels, climate adaptation is necessary both now and in the coming decades. Ecosystems provide a wide array of services, including those that can reduce the negative impacts of climate change.",
+      "added": false
+    },
+    {
+      "title": "Return on investment applications in forest management and landscape restoration: current practices and future directions",
+      "abstract": "Maintaining and promoting forest ecosystem health and landscape management is a global challenge, given the social, ecological, and economic value of forests, the threats that they face from climate change and other stressors, and the substantial funding gap relative to the need to accomplish management objectives. The practice of calculating an economic Return on Investment (ROI) in business applications has migrated to conservation and land management planning as a means of informing and improving the positive impact of investments on forested landscapes. Forest management yields a large and complex array of benefits, each with its own spatial and temporal extent, with many being challenging to monetize. Standard ROI applications, although currently being used to represent monetizable costs and benefits of public land management options, can fall far short of representing the full suite of important, and in some cases irreplaceable, values associated with forested ecosystems. We present and discuss a conceptual framework of six key topics in ROI applications to forest management that merit attention: (1) the overarching challenge of bias from excluded benefit categories, (2) navigating uncertainty related to ROI components, (3) accounting for risk, (4) reconciling economic discounting and environmental improvement, (5) common pitfalls in summing up of benefits, and (6) the relationship between ROI and socio-ecological sustainability. Further development of mechanisms to address the complexities inherent in forest ecosystems, and to quantify and represent their diverse and substantial values would greatly enhance incentives for conservation finance and expedite forest conservation and restoration outcomes.",
+      "doi": "10.3389/ffgc.2026.1746687",
+      "authors": [
+        "Patricia N. Manley",
+        "Samuel G. Evans",
+        "Matthew Sloggy"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7172264102",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172264102",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Maintaining and promoting forest ecosystem health and landscape management is a global challenge, given the social, ecological, and economic value of forests, the threats that they face from climate change and other stressors, and the substantial funding gap relative to the need to accomplish management objectives.",
+      "added": false
+    },
+    {
+      "title": "Effectiveness of enhanced filtration interventions for improving indoor air quality in child-serving facilities",
+      "abstract": "Indoor air quality (IAQ) in schools and other child-serving facilities is crucial for the health and development of children, a large and vulnerable population. Interventions to improve IAQ, e.g., enhancing HVAC system filtration and deploying portable air cleaners (PACs), are especially needed at facilities located in polluted areas. Evidence of the actual effectiveness of these interventions, however, is limited and the reported performance is inconsistent. The objectives of this study, a component of a larger community-based participatory research partnership, were to evaluate the effectiveness of, and factors influencing, interventions using enhanced filtration; compare standard school buildings with other child-serving facilities such as nurseries, community centers, and childcare houses; and to identify IAQ improvement challenges and suggest relatively low-cost and effective mitigation methods. We evaluated 33 spaces in 12 facilities that served children from daycare through high school ages. Week-long baseline and follow-up measurements and teacher/staff surveys were obtained before and after the filter interventions. In most facilities, thermal comfort was acceptable, but ventilation rates were low (air change rates from 0.9–1.4 h −1 ). At baseline during school hours, indoor levels of PM 2.5 averaged 2.2–6.3 μg/m 3 and indoor PM 10 averaged 5.7–26.9 μg/m 3 . Standard schools saw the highest particulate matter (PM) levels. The intervention reduced PM 2.5 and PM 10 concentrations in the standard schools and nursery (by 45 to 54% for PM 2.5 ), but had little effect at childcare houses. A linear mixed-effects model (LMM) indicated a ∼51% reduction of indoor PM 2.5 levels by the PACs. For standard school classrooms and the nursery, the effectiveness of filtration strategies could be predicted using single-zone mass balance models, but predictions were inconsistent for portable buildings, facilities containing very large rooms, and houses repurposed for childcare. Overall, enhanced filtration can improve IAQ in child-serving facilities, but the long-term effectiveness, energy and economic costs require consideration. We recommend that teachers and staff acquire appropriate training and education to support and sustain effective and cost-efficient IAQ improvements.",
+      "doi": "10.3389/fped.2026.1875263",
+      "authors": [
+        "Tian Xia",
+        "Julia Raneses",
+        "Morgan Locke",
+        "Raquel Garcia",
+        "Alison Walding",
+        "Ricardo DeMajo",
+        "Amy J. Schulz",
+        "Stuart Batterman"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Pediatrics",
+      "openalex_id": "W7172403765",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172403765",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Indoor air quality (IAQ) in schools and other child-serving facilities is crucial for the health and development of children, a large and vulnerable population. Interventions to improve IAQ, e.g., enhancing HVAC system filtration and deploying portable air cleaners (PACs), are especially needed at facilities located in…",
+      "added": false
+    },
+    {
+      "title": "Satellite observations reveal underestimation of CO <sub>2</sub> emissions in Africa and the Middle East",
+      "abstract": "Africa and the Middle East contribute significantly to global fossil fuel production, yet the associated carbon emissions from these extraction and processing activities remain insufficiently reported. The current reporting is not only delayed but also heavily reliant on energy consumption statistics that are difficult to verify. Here, we introduce an alternative approach to indirectly infer and map anthropogenic carbon dioxide (CO 2 ) emissions using the coemitted nitrogen oxides (NO x ) emissions derived from TROPOMI satellite observations. We find that current global inventories underestimate total CO 2 emissions by about 30% for Africa and the Middle East. About 35% of this underestimation is related to newly identified CO 2 emission sources, which are mainly attributable to oil and gas infrastructure. The analysis reveals that these underestimated emissions could lead to a delay of ∼5 years in achieving the 2030 Nationally Determined Contribution targets in Africa and the Middle East. This study provides an effective tool for constructing an independent carbon emission accounting framework based on satellite observations and offers a scientific database for guiding climate action.",
+      "doi": "10.1126/sciadv.aee1447",
+      "authors": [
+        "Xiaojuan Lin",
+        "Ronald van der A",
+        "Jos de Laat",
+        "Jieying Ding",
+        "Henk Eskes",
+        "Zhu Liu"
+      ],
+      "year": 2026,
+      "journal": "Science Advances",
+      "openalex_id": "W7171982647",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171982647",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Africa and the Middle East contribute significantly to global fossil fuel production, yet the associated carbon emissions from these extraction and processing activities remain insufficiently reported.",
+      "added": false
+    },
+    {
+      "title": "Identifying hydrological indices derived with datasets from remotely sensed products to monitor climate change and variability impacts on water resources: a systematic review",
+      "abstract": "Hydrological indices are widely used to assess climate change and climate variability impacts on water resources; however, their application is often constrained by limited in-situ observations, particularly in data-scarce regions. Advances in remote sensing have enabled the development of hydrological indices derived from satellite and reanalysis datasets, providing new opportunities for monitoring droughts, water storage dynamics, and hydrological extremes. This systematic review synthesizes evidence on remotely sensed products and hydrological indices used for water resources monitoring between 2014 and 2024. Following PRISMA 2020 guidelines, literature was systematically searched in ScienceDirect, Semantic Scholar, IEEE Xplore, and Research4Life databases. After screening 46,101 records, 50 studies met the eligibility criteria and were included in the review. The findings indicate that optical sensors (Landsat, MODIS, Sentinel-2), precipitation products (CHIRPS, TRMM, IMERG), gravity missions (GRACE and GRACE-FO), and reanalysis datasets (ERA5-Land, GLDAS, FLDAS) were the most frequently used products. Commonly applied indices included SPI, SPEI, NDVI, VCI, TCI, ETDI, SRI, and GRACE-DSI. Research was concentrated in Asia, particularly China, while Africa remained underrepresented. Recent studies increasingly integrated multi-source datasets, cloud-computing platforms, and machine-learning approaches to improve hydrological monitoring. The review highlights the growing importance of remote sensing for climate-resilient water resources management and identifies opportunities for broader application in data-scarce regions and groundwater monitoring systems.",
+      "doi": "10.3389/frwa.2026.1850016",
+      "authors": [
+        "Christopher Mtonga",
+        "Kawawa Banda",
+        "Charles Bwalya Chisanga"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Water",
+      "openalex_id": "W7172466585",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172466585",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Hydrological indices are widely used to assess climate change and climate variability impacts on water resources; however, their application is often constrained by limited in-situ observations, particularly in data-scarce regions.",
+      "added": false
+    },
+    {
+      "title": "Flood and drought risk management across the hydroclimatic spectrum in the most affected regions under changing water resources conditions",
+      "abstract": "Abstract Floods and droughts are the most damaging and costly water-related hazards globally, and their frequency and severity are accelerating under changing climatic conditions. Despite decades of investment in risk reduction, the economic and human toll from extreme weather events continues to rise, particularly in regions with limited adaptive capacity. This perspective examines the evolving landscape of flood and drought risk management in the most affected areas, notably South Asia, Sub-Saharan Africa, East Asia, Southeast Asia, Europe, and Latin America. Drawing on recent literature, it traces how climate change is reshaping the spatial and temporal distribution of water-related hazards, creating compound and cascading risks that exceed the capacity of conventional management. The analysis evaluates the effectiveness of integrated water resource management frameworks, nature-based solutions, early warning systems, and adaptive governance structures in addressing these emerging challenges. Evidence suggests that siloed approaches to flood and drought management are increasingly inadequate, and that transformative governance models that address the full hydroclimatic spectrum offer a more promising path. Three findings stand out in this study. Risk is escalating fastest where physical exposure and socioeconomic vulnerability coincide, conventional single hazard and historically calibrated systems are increasingly overwhelmed by compound and unprecedented events, and integrated early warning, nature-based solutions, and adaptive cross-sectoral governance together offer the most credible levers for resilience. In contrast to assessments that treat floods or droughts in isolation or focus on a single region, the distinct contribution of this perspective is to synthesize this evidence across the full hydroclimatic spectrum and the most affected regions within an integrated governance argument. This perspective concludes that bridging the gap between scientific knowledge and institutional action remains the central challenge in reducing flood and drought impacts in a rapidly changing world.",
+      "doi": "10.1007/s44274-026-00937-4",
+      "authors": [
+        "Hamza Omar Ali",
+        "Mohamed Mustaf Ahmed"
+      ],
+      "year": 2026,
+      "journal": "Discover Environment",
+      "openalex_id": "W7172453385",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172453385",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Floods and droughts are the most damaging and costly water-related hazards globally, and their frequency and severity are accelerating under changing climatic conditions.",
+      "added": false
+    },
+    {
+      "title": "Spatial Patterns and Associated Factors of Ecological Resilience Across Urban–Rural Catchments in the Urumqi Metropolitan Area",
+      "abstract": "Understanding ecological resilience (ER) across urban–rural gradients is important for differentiated management in arid metropolitan areas. Using 2 km grid data for 2013, 2018, and 2023, this study delineated travel-time-based urban–rural catchments in the Urumqi Metropolitan Area. The optimal-parameter Geodetector and multiscale geographically weighted regression were used to examine global explanatory patterns and local ER–factor associations, while spatially constrained clustering identified management types. The results showed that (1) mean ER values were 0.49, 0.50, and 0.48, respectively. ER was lower in urban centers and higher in rural areas and hinterlands. Compared with 2013, ER in 2023 was higher in urban centers and peri-urban regions but lower in rural areas and hinterlands. (2) Socioeconomic factors were more prominent in urban centers and peri-urban regions, whereas rural areas exhibited temporally variable natural and socioeconomic patterns. Elevation and soil organic matter were more prominent in hinterlands, and factor interactions were predominantly characterized by bi-factor or nonlinear enhancement. (3) Local ER–factor associations varied in direction, magnitude, and spatial scale. Negative associations with nighttime light intensity, road density, and built-up land proportion were concentrated in more urbanized areas. (4) Overlaying four spatial clusters with four catchment categories produced 16 integrated management types. These units provide a spatial basis for differentiated ecological management and regional planning in the Urumqi Metropolitan Area.",
+      "doi": "10.3390/land15081396",
+      "authors": [
+        "Meilin Yuan",
+        "Zhaohui Zhang"
+      ],
+      "year": 2026,
+      "journal": "Land",
+      "openalex_id": "W7172321289",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172321289",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Understanding ecological resilience (ER) across urban–rural gradients is important for differentiated management in arid metropolitan areas. Using 2 km grid data for 2013, 2018, and 2023, this study delineated travel-time-based urban–rural catchments in the Urumqi Metropolitan Area.",
+      "added": false
+    },
+    {
+      "title": "The rising cost of climate change for tourism: a risk assessment",
+      "abstract": "Tourism faces rising costs from climate change, yet a comprehensive understanding of current and emerging economic risks remains limited. This paper conducts a scoping review of how climate change imposes economic burdens on global tourism. Drawing on n = 41 academic studies and n = 25 industry and media reports (2018–2026), it finds that costs stem from physical climate risks and low-carbon transition pressures and propagate through four pathways: operating expenses, capital expenditures, revenue volatility and financing/risk transfer. Research is heavily concentrated on revenue volatility, typically proxied by visitation, with far fewer studies quantifying operating, capital, or financing costs. Empirical evidence links extreme events and environmental degradation to declines in arrivals and significant revenue losses, alongside rising costs such as clean-up, insurance and regulatory compliance. Sector-wide costs already reach hundreds of billions of US$ annually and are likely to rise non-linearly. Capital and financing impacts remain underexplored but include major adaptation investments and rising insurance premiums. Overall, climate change increases cost uncertainty, reduces financial predictability and shifts costs to tourists, with uneven spatial and temporal impacts and impacts on destination and firm competitiveness. Key research gaps must be addressed to better understand tourism’s exposure to climate-related business risks and inform adaptation.",
+      "doi": "10.1080/09669582.2026.2709157",
+      "authors": [
+        "Stefan Gößling",
+        "Daniel Scott"
+      ],
+      "year": 2026,
+      "journal": "Journal of Sustainable Tourism",
+      "openalex_id": "W7172331901",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172331901",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Tourism faces rising costs from climate change, yet a comprehensive understanding of current and emerging economic risks remains limited. This paper conducts a scoping review of how climate change imposes economic burdens on global tourism.",
+      "added": false
+    },
+    {
+      "title": "The Impact of Media-Based Transition and Physical Climate Risks on Banks’ Credit Risk: Evidence from a Dynamic Panel Threshold Model",
+      "abstract": "This paper examines the threshold impact of media-based attention to transition and physical climate risks on banks’ credit risk among the 230 largest US commercial banks from 2011 to 2022. Using a dynamic panel threshold model, our analysis reveals a non-linear relationship between media-based climate risk and banks’ credit risk. The empirical results indicate the existence of a significant threshold dividing the data into lower and upper regimes for both climate transition risks and physical climate risks. More specifically, the estimated threshold levels are 0.500 for the transition risk index and 0.571 for the physical climate risk index. Below these critical thresholds, banks appear resilient to increased media attention to climate risks; however, once these thresholds are exceeded, growing concern about climate risks significantly increases banks’ vulnerability to credit risk. These findings highlight the critical implications of physical and transition risks for financial stability. Our results are robust to a range of alternative measures and model specifications, providing valuable insights for bank managers, regulators, and policymakers, while emphasizing the need to integrate media-based climate risk considerations into credit risk assessments and policy frameworks to strengthen the banking sector’s resilience.",
+      "doi": "10.3390/jrfm19080568",
+      "authors": [
+        "Mariem Turki",
+        "Imed Chkir",
+        "Kamel Naoui"
+      ],
+      "year": 2026,
+      "journal": "Journal of risk and financial management",
+      "openalex_id": "W7172279155",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172279155",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This paper examines the threshold impact of media-based attention to transition and physical climate risks on banks’ credit risk among the 230 largest US commercial banks from 2011 to 2022.",
+      "added": false
+    },
+    {
+      "title": "Interdisciplinary insights on climate-smart rewilding: Lessons from pioneering Dutch river transformations",
+      "abstract": "With climate and biodiversity crises intensifying, integrated solutions are urgently needed. Rewilding offers a promising approach to ecosystem restoration and climate adaptation. However, challenges regarding land-use, societal conflicts and governance can hinder its implementation. This paper discusses the elements of transformative thinking that can support rewilding implementation and establishment as an innovative approach to ecological recovery. We draw on the lessons learned from over 30 years of rewilding in the Gelderse Poort, the Netherlands. The floodplains in this area have been transformed from a predominantly dry, agricultural landscape into a dynamic riverine nature landscape with a broader range of socio-economic services in a peri-urban area and densely populated region. We describe how a readiness to embrace uncertainty, supportive policies, dedicated champions and innovative funding partnerships were crucial for this rewilding project. We explore how these lessons can inform rewilding efforts in Europe to deliver both climate resilience and biodiversity benefits.",
+      "doi": "10.1007/s13280-026-02451-6",
+      "authors": [
+        "Tim de Kruiff",
+        "Cecilia Fraccaroli",
+        "Nacho Villar",
+        "Judith Slagt",
+        "Ravi van de Port",
+        "Elisabeth S. Bakker"
+      ],
+      "year": 2026,
+      "journal": "AMBIO",
+      "openalex_id": "W7172327240",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172327240",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "With climate and biodiversity crises intensifying, integrated solutions are urgently needed. Rewilding offers a promising approach to ecosystem restoration and climate adaptation. However, challenges regarding land-use, societal conflicts and governance can hinder its implementation.",
+      "added": false
+    },
+    {
+      "title": "Materially Imagining Earth’s Atmospheres Remembering/ Futuring the Air in Breathable Artworks",
+      "abstract": "The air is hard to perceive as a material reality because we are so entangled in it. To remedy this “forgetting of air” (Irigaray, 1999) some artists from the early 1970s onward have moved beyond visual representation to create a new æsthesia of air, working with inhalable gases, odorous molecules and other volatile substances to bring the atmosphere back into people’s sphere of experience. Many of their works critically engage with the alarming changes of our aerobic environment in the context of the Capitalocene by mediating material encounters with past tropospheric conditions and potential atmospheric becomings –both material and temporal. This article examines a selection of contemporary breathable ‘airworks’ that provide a sensory experience and an embodied understanding of evolving human-and-other-than human-made ‘airscapes’ across deep time and human time.",
+      "doi": "10.60923/issn.2724-2463/21529",
+      "authors": [
+        "Clara Muller"
+      ],
+      "year": 2026,
+      "journal": "img journal",
+      "openalex_id": "W7172423623",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172423623",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "The air is hard to perceive as a material reality because we are so entangled in it. To remedy this “forgetting of air” (Irigaray, 1999) some artists from the early 1970s onward have moved beyond visual representation to create a new æsthesia of air, working with inhalable gases, odorous molecules and other volatile su…",
+      "added": false
+    },
+    {
+      "title": "Public Utilities Commission",
+      "abstract": "he California Public Utilities Commission (CPUC) was created in 1911 to regulate privately-owned utilities and ensure public access to reasonable rates and services.Today, under the Public Utilities Act of 1951, Public Utilities Code section 201 et seq., the CPUC regulates energy, some aspects of transportation (rail, moving companies, limos, and shared-ride carriers), water/sewage, and limited aspects of communications.The CPUC licenses more than 1,200 privately owned and operated gas, electric, telephone, water, sewer, steam, and pipeline utilities.Additionally, it licenses 3,300 trucks, buses, \"shared rides,\" railroads, light rail, ferries, and other transportation companies in California.The CPUC grants operating authority, regulates service standards, and monitors utility operations for safety.The Governor appoints five full-time members to the Commission, subject to Senate confirmation, to direct the agency.The California Constitution directly authorizes the Commission and mandates that it balance the public interest-the need for reliable, safe utility services at reasonable rates-with the constitutional right of a utility to compensation for its \"prudent costs\" and a fair rate of return on \"used and useful\" investments.The Commission holds quasi-legislative authority, enabling it to adopt regulations, some of which are codified in Chapter 1, Title 20 of the California Code of Regulations (CCR).The Commission also possesses quasi-judicial authority, granting it the ability to take testimony, subpoena witnesses and records, and issue decisions and orders.The CPUC's Administrative Law Judge (ALJ) Division supports the Commission's decision-making process and conducts quasilegislative and quasi-judicial hearings when evidence-taking and findings of fact are needed.T",
+      "doi": null,
+      "authors": [
+        "Reese J. Galvin",
+        "Nisha Ahmed",
+        "Lexi McCrillis",
+        "Marcus Friedman"
+      ],
+      "year": 2026,
+      "journal": "Digital USD (University of San Diego)",
+      "openalex_id": "W7172474201",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172474201",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "he California Public Utilities Commission (CPUC) was created in 1911 to regulate privately-owned utilities and ensure public access to reasonable rates and services.Today, under the Public Utilities Act of 1951, Public Utilities Code section 201 et seq., the CPUC regulates energy, some aspects of transportation (rail,…",
+      "added": false
+    }
+  ]
+}
