@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-07",
+  "statistics": {
+    "fetched": 94,
+    "duplicates_removed": 85,
+    "evaluated": 9,
+    "added": 2,
+    "ignored": 7,
+    "average_score": 1.78
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Monitoring post-fire ecohydrological recovery through integrated remote sensing and ecological modeling",
+      "abstract": "Wildfire simultaneously disrupts ecosystem carbon, water, and soil processes, yet these coupled effects and post-fire recovery trajectories cannot be reliably assessed from spectral vegetation indices alone. Here, we developed a fine-scale, multi-dimensional framework to quantify wildfire impacts and post-fire ecohydrological recovery, using the 2016 megafire in Great Smoky Mountains National Park in the eastern United States as a testbed. This framework integrated gap-filled 30 m NASA Harmonized Landsat and Sentinel-2 surface reflectance with an expanded diagnostic ecosystem model (Coupled Carbon and Water Model) to generate spatially consistent estimation of gross primary productivity (GPP), evapotranspiration (ET), water yield (WY), and soil erosion (SE) from 2014 to 2024 within Google Earth Engine. Fire effects were isolated from climate variability using pixel-level counterfactual simulations that produced no-fire baselines under identical meteorological forcing. We found that GPP declined by 20.7%, ET by 20.0%, WY increased by 19.2%, and soil erosion increased 12.5 times in the first post-fire year. Recovery trajectories varied strongly with burn severity, with high-severity patches retaining persistent modeled functional deficits (−13% GPP, −9% ET, +9% WY, and 5× SE) after eight years despite full spectral recovery (NDVI +2%). Our findings reveal a distinct decoupling between spectral recovery and the modeled carbon, water, and erosion responses, driven by incomplete ecological succession, where high-severity areas remain in herb- and shrub-dominated stages rather than recovering to forest. The severity-stratified diagnostic framework we provide offers a directly applicable tool for post-fire vegetation assessment, hydrological response monitoring, and long-term restoration planning in fire-affected ecosystems.",
+      "doi": "10.1016/j.srs.2026.100482",
+      "authors": [
+        "Yulong Zhang",
+        "Wenhong Li",
+        "Peter V. Caldwell",
+        "Steven P. Norman",
+        "Chunling Tang",
+        "Conghe Song",
+        "Ge Sun"
+      ],
+      "year": 2026,
+      "journal": "Science of Remote Sensing",
+      "openalex_id": "W7172445730",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172445730",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 49%: matched 6/12 key interest terms (united states, states, eastern, united, eastern united)",
+      "tags": [
+        "United States",
+        "States",
+        "Eastern",
+        "United",
+        "Eastern United"
+      ],
+      "summary": "Wildfire simultaneously disrupts ecosystem carbon, water, and soil processes, yet these coupled effects and post-fire recovery trajectories cannot be reliably assessed from spectral vegetation indices alone.",
+      "added": true
+    },
+    {
+      "title": "Rekindling fire: The resurgence and challenges of prescribed fire culture in Texas",
+      "abstract": "On the Ground • Catastrophic wildfires in Texas, from the 2011 Bastrop Complex Fire to the 2024 Panhandle megafires, have accelerated a fundamental shift in public attitudes, demonstrating that proactive prescribed burning is not optional but essential for protecting communities, rural economies, and fire-adapted ecosystems. • A growing network of Prescribed Burn Associations and the Prescribed Burn Alliance of Texas is rebuilding fire culture through neighbor-to-neighbor training, equipment sharing, and legislative advocacy, but uneven geographic coverage, liability concerns, insurance gaps, and limited access to cost-share funding still prevent many landowners from burning as often or as broadly as ecological conditions warrant. • Expanded educational pathways, including AgriLife Extension’s online Prescribed Burn School, the Certified and Insured Prescribed Burn Manager credentialing program, and new interagency coordinator positions, have substantially lowered the barriers to entry for aspiring practitioners, yet an aging practitioner workforce and a shrinking pipeline of new candidates for Certified and Insured Prescribed Burn Managers represent the most consequential long-term threat to Texas’s prescribed fire culture. • Sustaining Texas’s prescribed fire revival requires a deliberate next-generation strategy: structured mentorship programs, municipally embedded wildland fire coordinators modeled on Borger’s success, expanded Texas Department of Transportation right-of-way burning partnerships, and continued federal farm bill advocacy, all that are concrete steps that will determine whether the gains of the past decade outlast the practitioners who achieved them.",
+      "doi": "10.1016/j.rala.2026.07.001",
+      "authors": [
+        "David Brooke",
+        "Charles A. “Butch” Taylor",
+        "Morgan L. Treadwell"
+      ],
+      "year": 2026,
+      "journal": "Rangelands",
+      "openalex_id": "W7172433713",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172433713",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 42%: matched 4/12 key interest terms (prescribed, prescribed burning, burning, wildfires)",
+      "tags": [
+        "Prescribed",
+        "Prescribed Burning",
+        "Burning",
+        "Wildfires"
+      ],
+      "summary": "On the Ground • Catastrophic wildfires in Texas, from the 2011 Bastrop Complex Fire to the 2024 Panhandle megafires, have accelerated a fundamental shift in public attitudes, demonstrating that proactive prescribed burning is not optional but essential for protecting communities, rural economies, and fire-adapted ecosy…",
+      "added": true
+    },
+    {
+      "title": "Assessment of fire susceptibility in Wildland—Urban interfaces according to explainable artificial intelligence: a case study of Antalya province, Mediterranean region, Türkiye",
+      "abstract": "Global changes in climatic parameters have significantly altered fire regimes in Mediterranean ecosystems, increasing wildfire risk through higher temperatures and prolonged dry periods. This study assesses forest fire susceptibility in Antalya Province, Türkiye, using an Explainable Artificial Intelligence (XAI) framework based on the XGBoost algorithm integrated with SHapley Additive exPlanations (SHAP) to interpret model predictions. Two models were developed: a province-wide model and a Wildland–Urban Interface (WUI) model to capture differences between natural and human-influenced landscapes. A total of 33 spatial variables representing topography, vegetation, climate, and anthropogenic factors were used. Both models demonstrated strong predictive performance. The provincial model achieved an accuracy of 0.844 and an AUC-ROC of 0.911, while the WUI model reached an accuracy of 0.826 and an AUC-ROC of 0.891. SHAP results indicated that temperature and land surface temperature are the most influential drivers in both models, followed by NDVI, precipitation, atmospheric pressure, and evapotranspiration. However, scale-dependent differences were evident. At the provincial scale, climatic and biophysical variables dominated susceptibility patterns, whereas in WUI zones, anthropogenic factors such as population density and proximity to infrastructure played a greater role alongside environmental drivers. High susceptibility areas are mainly concentrated along coastal districts extending eastward from the city center, including Muratpaşa, Kepez, Aksu, Serik, and Manavgat. Overall, high and very high susceptibility zones account for approximately 14% of the area in both models, with WUI risk more clustered around settlements and transport corridors. The findings highlight that wildfire susceptibility in Antalya is driven by interacting climatic, ecological, and human factors, with climate dominating at broader scales and human influence increasing in WUI areas. These results support integrated fire management strategies that address both environmental change and anthropogenic pressure.",
+      "doi": "10.1038/s41598-026-63526-8",
+      "authors": [
+        "Mücahit Coşkun",
+        "Sohaib K. M. Abujayyab",
+        "Onur Canbulat",
+        "Nigar Canbulat",
+        "Nesrin Sarsıcı Demir",
+        "Selime Tut",
+        "Kamile Zeren"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7172450867",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172450867",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/12 key interest terms (drivers, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "Global changes in climatic parameters have significantly altered fire regimes in Mediterranean ecosystems, increasing wildfire risk through higher temperatures and prolonged dry periods.",
+      "added": false
+    },
+    {
+      "title": "Flood and landslide susceptibility assessment and multi hazard interaction mapping using machine learning and GIS for sustainable settlement planning in Nepal",
+      "abstract": "Nepal lies within an active seismic zone and is influenced by most dynamic climatic systems in the world. It faces compounding floods and landslide threats. Impacts are worst where multi-hazard interactions create spatially linked corridors. Despite frequent co-occurrence, national-scale assessments remain limited. This study presents machine learning and GIS-based approach to map nationwide susceptibility to floods, landslides, and identify their potential interaction zones, and delineate critical multi-hazard flow zones through spatial adjacency analysis. Using Google Earth Engine, the Random Forest model integrates topographic, climatic, environmental, and hydrological datasets to overcome subjective expert-driven methods. The model achieved strong predictive accuracy (AUC: 0.84 for floods, 0.85 for landslides). The results showed 19% of Nepal’s lowlands are medium to very highly susceptible to inundation, threatening approximately 900,000 people and over 3.4 million buildings; whilst in the hilly terrains, 40% is susceptible to slope-failure endangering 200,000 people and about 0.6 million buildings. K-means clustering followed by spatial adjacency analysis identified four spatial zonation: 81% of national area as low-hazard zone, 9% as flood-only zone, 5% as landslide-only zone, and 5% as interaction zones. Critical multi-hazard flow zone covering 7,588 km² represents spatially connected corridors linking interaction zones to downstream flood-prone populated areas, affecting 88 km² built-up land and 1,722 km² cropland. These zones represent susceptibility-based spatial connectivity rather than physically simulated cascading processes. These findings support recommendations for risk-informed land-use planning, resilient infrastructure development and climate adaptation aligned to sustainable development and investment risk screening.",
+      "doi": "10.1007/s44288-026-00670-8",
+      "authors": [
+        "Narayan Thapa",
+        "Kabir Uddin",
+        "Rajesh Bahadur Thapa",
+        "Erica Udas"
+      ],
+      "year": 2026,
+      "journal": "Discover Geoscience",
+      "openalex_id": "W7172411682",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172411682",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Nepal lies within an active seismic zone and is influenced by most dynamic climatic systems in the world. It faces compounding floods and landslide threats. Impacts are worst where multi-hazard interactions create spatially linked corridors. Despite frequent co-occurrence, national-scale assessments remain limited.",
+      "added": false
+    },
+    {
+      "title": "Crisis media exposure cognitive appraisal disaster preparedness and resilience among older adults a narrative review",
+      "abstract": "Older adults are disproportionately affected by nature-induced and human-made disasters. Media can support preparedness by disseminating timely guidance, but high-intensity exposure to distressing coverage and misinformation can also increase anxiety and impede action. This narrative review synthesizes evidence on relationships among crisis media exposure, cognitive appraisal, preparedness behaviors, emotional responses, and resilience in older adults, and it outlines actionable, age-tailored risk-communication strategies. We conducted a narrative review and reported it with reference to the Scale for the Assessment of Narrative Review Articles (SANRA). PubMed/MEDLINE, Scopus, Web of Science Core Collection, and Google Scholar were searched for English-language sources published from January 2000 through July 2025. Google Scholar was searched separately using simplified keyword strings and relevance-ranked screening. Targeted searches of UN/international agencies and selected national public-health and older-adult preparedness guidance sources complemented database searching. An a priori operational screening ceiling of 5,000 unique records was used for title/abstract screening; screening proceeded in relevance-ranked batches and no new eligible conceptual domains emerged in the final batches. In total, 120 full-text sources were assessed and 36 sources were included in the thematic synthesis (28 peer-reviewed studies and 8 guidelines/reports/other key sources). Across heterogeneous designs, evidence converges on three pathways. First, when information is delivered through trusted sources and paired with concrete, feasible steps, media exposure is associated with improved risk appraisal and preparedness actions, including emergency kits, medication buffers, and evacuation planning. Second, repeated or prolonged exposure to graphic or sensational crisis coverage is associated with higher stress and anxiety, including in indirectly exposed audiences, with evidence of a feedback loop in which distress drives further media consumption. Third, digital health literacy and misinformation management shape whether digital channels enable or obstruct preparedness and resilience. Crisis communication for older adults should use multiple accessible channels (television/radio plus simple digital formats) and should deliberately support coping appraisal by emphasizing response efficacy and self-efficacy. Recommendations include: limiting “always-on” distressing coverage; using plain-language, stepwise guidance; leveraging trusted local messengers; and integrating rapid misinformation correction with practical support services. These strategies align preparedness goals with psychological resilience, reducing avoidable distress while maintaining situational awareness.",
+      "doi": "10.1186/s12982-026-02620-8",
+      "authors": [
+        "Fatma M. Ibrahim",
+        "Ghada Shahrour"
+      ],
+      "year": 2026,
+      "journal": "Discover Public Health",
+      "openalex_id": "W7172444292",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172444292",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Older adults are disproportionately affected by nature-induced and human-made disasters. Media can support preparedness by disseminating timely guidance, but high-intensity exposure to distressing coverage and misinformation can also increase anxiety and impede action.",
+      "added": false
+    },
+    {
+      "title": "Fire-Prevention-Oriented Environmental Design and Governance: A Case Study Focusing on Vernacular Residential World Heritage Sites",
+      "abstract": "The aim of this study is to explore the fire resilience of traditional ancient villages in Huizhou, China, and to reveal “traditional environmental planning knowledge” as a spatial survival strategy for high-density settlements. This study adopts a qualitative interpretive paradigm, combining historical geography with a literature review, field surveys, and overlay analysis. The study found that these villages, during site selection, utilized basin topography to construct a multi-level disaster mitigation system encompassing “macro-level water systems, meso-level alleyways, micro-level firewalls, and sandwich fire-extinguishing floors.” This endogenous physical technology, based on defensive awareness and community agreements, achieves a dynamic balance of resilience between humans and the environment. The cultural interpretation based on the indicators in this study primarily reflects the disaster resilience potential of traditional planning. The conclusions should be carefully interpreted within the framework of traditional environmental design. Furthermore, commercial intervention, infrastructure renovation, and population loss are leading to the neglect of this defensive space. This lack of a holistic perspective will trigger the “resilience degradation” of ancient villages. Future research urgently needs to establish a “resilience decay model” to quantitatively assess the disaster resistance capabilities remaining after damage to the surrounding buffer space, based on traditional environmental planning knowledge.",
+      "doi": "10.3390/fire9080335",
+      "authors": [
+        "Shu-Chen Tsai",
+        "Meng-Xin Chi",
+        "Wei-Min Luo"
+      ],
+      "year": 2026,
+      "journal": "Fire",
+      "openalex_id": "W7172435537",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172435537",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "The aim of this study is to explore the fire resilience of traditional ancient villages in Huizhou, China, and to reveal “traditional environmental planning knowledge” as a spatial survival strategy for high-density settlements.",
+      "added": false
+    },
+    {
+      "title": "From Coal to Chlorophyll: Identifying Green Job Opportunities for Youth in the case of South Africa’s Just Transition",
+      "abstract": "<title>Abstract</title> In an attempt to mitigate their effect on climate change, a number of economies have already, or are in the process of shifting away from a reliance on coal-based power. This just energy transition means that many existing jobs in the coal industry will be lost in favour of so-called “green jobs”, which aim to contribute positively and sustainably to the environment. South Africa is one such economy that is embarking on the process of a just transition, but given that the coal industry is predominantly represented by young people in the province of Mpumalanga, it is not clear how or if this vulnerable group will transition into newly created green jobs. Making use of occupational relatedness metrics, this research investigates the feasibility of green job opportunities to capture displaced youth in Mpumalanga, depending on their employment history. Results of this desktop study suggest that green jobs are relatively different to the existing experience and task competences of young people, and thus some form of reskilling programme is likely to be necessary for young people to take full advantage of any employment opportunities offered by green jobs.",
+      "doi": "10.1007/s11067-026-09780-9",
+      "authors": [
+        "Robert Hill",
+        "Leigh Neethling",
+        "Morné Oosthuizen"
+      ],
+      "year": 2026,
+      "journal": "Networks and Spatial Economics",
+      "openalex_id": "W4414234314",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4414234314",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "<title>Abstract</title> In an attempt to mitigate their effect on climate change, a number of economies have already, or are in the process of shifting away from a reliance on coal-based power.",
+      "added": false
+    },
+    {
+      "title": "Environmental Assessment of Forest Fire Dynamics using Multi-Temporal Remote Sensing Data: A Case Study of Khammam District, Telangana",
+      "abstract": "Forest fires represent a major threat to ecological balance, environmental sustainability and regional socio-economic systems. This study presents an environmental assessment of forest fire dynamics through mapping and quantification of burned areas using multi-temporal satellite imagery from Landsat 8 OLI/TIRS and Landsat 9 OLI-2/TIRS-2 sensors. Two adjacent path/row scenes (P142/R48 and P143/R48) were analyzed to capture the fire season from February to June 2024. Pre-fire environmental conditions were characterized using imagery from November to December 2023, while January 2024 data were excluded due to significant cloud contamination. The study area, located in Khammam district, Telangana, India (17.24° N, 80.15° E), was evaluated using post-fire imagery for burned-area assessment in QGIS. Key spectral bands: Green, Red, Near-Infrared (NIR), Shortwave Infrared-1 (SWIR-1) and Shortwave Infrared-2 (SWIR-2), were utilized to derive the Burned Area Index (BAI) for accurate detection of fire-affected zones. Burned-area maps were generated for each acquisition date, enabling a detailed temporal analysis of fire progression and associated environmental changes. To account for variations in fire intensity and environmental conditions, date-specific BAI threshold values (ranging from 0.005 to 0.1622) were applied. The results indicate that fire activity initiated in midFebruary, intensified through March and peaked in April. The total burnt area increased from 14.94 km² in February to 84.35 km² in April followed by a decline in May. Overall, the study demonstrates the effectiveness of GIS-based remote sensing techniques in monitoring forest fire dynamics and assessing their environmental impacts. The findings provide valuable insights for ecosystem management, environmental monitoring, disaster risk reduction and forest resource planning.",
+      "doi": "10.25303/199da051060",
+      "authors": [
+        "Akhila Pagidipally",
+        "Varalakshmi Vajja",
+        "Ramana K.V.",
+        "Ravi Yakkanti",
+        "Sridhar Parupalli"
+      ],
+      "year": 2026,
+      "journal": "Disaster Advances",
+      "openalex_id": "W7172389948",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172389948",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Forest fires represent a major threat to ecological balance, environmental sustainability and regional socio-economic systems. This study presents an environmental assessment of forest fire dynamics through mapping and quantification of burned areas using multi-temporal satellite imagery from Landsat 8 OLI/TIRS and Lan…",
+      "added": false
+    },
+    {
+      "title": "Embodied Intelligence for Safer Power-System Field Operations: A Critical Review of Technologies, Applications, and Challenges",
+      "abstract": "Modern power grids require safer and more reliable field operations, yet conventional robots often face limitations in unstructured environments because of rigid pre-programming and weak perception–action coupling. This review examines Embodied Intelligence (EI) as an emerging direction for enhancing power-system field operations. We first evaluate the environmental adaptability of morphological carriers, including quadrupeds, humanoids, and unmanned aerial vehicles, and then define the perception–cognition–execution closed-loop architecture used in this review. Three application domains are then examined. Intelligent inspection focuses on active perception and potential open-vocabulary object detection. Live-line maintenance emphasizes Sim-to-Real methods and shared autonomy, while disaster-response applications involve heterogeneous air–ground robotic coordination. The review also discusses the potential for EI to reduce human exposure to hazardous tasks and influence labor structures, while a regional text-based proxy illustrates differences in policy attention to digital infrastructure. Finally, we analyze major constraints, including hardware endurance under extreme climates, edge-computing latency, foundation-model uncertainty and hallucination, cybersecurity, and safety certification. Overall, EI should not be interpreted as a mature replacement for current utility practice; it is a developing technological direction whose safe deployment will require field validation, standardized evaluation, cybersecurity assurance, and continued human supervisory authority.",
+      "doi": "10.3390/ai7080299",
+      "authors": [
+        "Yuxin Wen",
+        "Peixiao Fan",
+        "Zhiyu Mao",
+        "Fang Chi",
+        "Zhang Chenxuan",
+        "Yuhong Lu"
+      ],
+      "year": 2026,
+      "journal": "AI",
+      "openalex_id": "W7172453402",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172453402",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Modern power grids require safer and more reliable field operations, yet conventional robots often face limitations in unstructured environments because of rigid pre-programming and weak perception–action coupling.",
+      "added": false
+    }
+  ]
+}
