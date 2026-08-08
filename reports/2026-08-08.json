@@ -1,0 +1,547 @@
+{
+  "date": "2026-08-08",
+  "statistics": {
+    "fetched": 91,
+    "duplicates_removed": 71,
+    "evaluated": 20,
+    "added": 3,
+    "ignored": 17,
+    "average_score": 1.9
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Spatially interpolated non-smoke and smoke PM2.5 concentrations for the US from 2006-2024",
+      "abstract": "Seasonal-mean concentrations of particulate matter with diameters smaller than 2.5 μm (PM2.5) have been decreasing across the United States (US) for several decades, with large reductions in spring and summer in the eastern US. In contrast, summertime-mean PM2.5 in the western US has not significantly decreased. Wildfires, a large source of summertime PM2.5 in the western US, have been increasing in frequency and burned area in recent decades. Increases in extreme PM2.5 events attributable to wildland fires have been observed in wildfire-prone regions, but it is unclear how these increases impact trends in seasonal-mean PM2.5. Using two distinct methods, (1) interpolated surface observations combined with satellite-based smoke plume estimates and (2) the GEOS-Chem chemical transport model (CTM), we identify recent trends (2006–2016) in summer smoke, nonsmoke, and total PM2.5 across the US. We observe significant decreases in nonsmoke influenced PM2.5 in the western US and find increases in summer-mean smoke PM2.5 in fire-prone regions, although these are not statistically significant due to large interannual variability in the abundance of smoke. These results indicate that without the influence of wildland fires, we would expect to have observed improvements in summer fine particle pollution in the western US but likely weaker improvements than those observed in the eastern US.",
+      "doi": "10.5281/zenodo.21813335",
+      "authors": [
+        "Pierce, Jeffrey",
+        "Ford, Bonne",
+        "O'Dell, Katelyn",
+        "McGinnis, Jennifer",
+        "Fischer, Emily"
+      ],
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "openalex_id": "W7172698966",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172698966",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 73%: matched 7/9 key interest terms (eastern, united states, united, wildfires, states)",
+      "tags": [
+        "Eastern",
+        "United States",
+        "United",
+        "Wildfires",
+        "States"
+      ],
+      "summary": "Seasonal-mean concentrations of particulate matter with diameters smaller than 2.5 μm (PM2.5) have been decreasing across the United States (US) for several decades, with large reductions in spring and summer in the eastern US. In contrast, summertime-mean PM2.5 in the western US has not significantly decreased.",
+      "added": true
+    },
+    {
+      "title": "Snow-eater heat waves of the western United States",
+      "abstract": "Abrupt snowmelt, triggered by rain-on-snow events or \"snow-eater heat waves,\" can cause flooding, initiate or accelerate snow drought, and affect water availability. However, the characteristics (e.g., area, duration, and frequency), impacts, and trends of snow-eater heat waves have received little attention. To address this gap, we developed a method to identify snow-eater heat waves and estimate their melt potential using 20th Century Reanalysis version 3 air temperature data, the TempestExtremes algorithm, and an operational snowmelt model (SNOW-17) across 1850-2015. Melt season snow-eater heat waves typically last 3 to 5 days, with three to five events, doubling snowmelt rates. Seven of 11 spring superfloods are shown to coincide with snow-eater heat waves. Since the 1850s, snow-eater heat waves have increased in area and frequency, decreased in duration, and shifted earlier in the melt season. Incorporating snow-eater heat-wave impacts into SNOW-17 enhances extreme melt estimates, improving water management support tools.",
+      "doi": "10.1126/sciadv.aeb3361",
+      "authors": [
+        "Alan M. Rhoades",
+        "Joshua S. North",
+        "William Rudisill",
+        "Benjamin J. Hatchett",
+        "Mark D. Risser",
+        "Areidy Aracely Beltran-Peña",
+        "Anne Heggli",
+        "Scott Hotalling",
+        "Laurie S. Huning",
+        "Andrew Joros",
+        "Matthew LaPlante",
+        "Ankur Mahesh",
+        "Adrienne Marshall",
+        "Rachel McCrary",
+        "Daniel McEvoy",
+        "Stefan Rahimi",
+        "Mark S. Raleigh",
+        "Calen Randall",
+        "Abhishekh Srivastava",
+        "Michael Wehner",
+        "Yang Zhou",
+        "Andrew D. Jones"
+      ],
+      "year": 2026,
+      "journal": "Science Advances",
+      "openalex_id": "W4414139433",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4414139433",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 66%: matched 3/9 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Abrupt snowmelt, triggered by rain-on-snow events or \"snow-eater heat waves,\" can cause flooding, initiate or accelerate snow drought, and affect water availability. However, the characteristics (e.g., area, duration, and frequency), impacts, and trends of snow-eater heat waves have received little attention.",
+      "added": true
+    },
+    {
+      "title": "Spatially clustered global wildfire trends and their climate, fuel and human drivers (2001–2025): A spatio-temporal trend-cluster attribution approach",
+      "abstract": "The spatio-temporal distribution of wildfire trends reveals spatially uneven changes in fire activity across the globe. Existing studies primarily rely on temporal models and climatic variables but ignore the spatial disparities of drivers. This study develops a spatio-temporal trend-cluster attribution (STCA) model to explore joint climate–fuel–human controls on global fire-trend patterns. STCA combines spatial trend clustering, optimal parameters-based geographical detector and grid-based temporal analysis to identify spatial hotspot and coldspot regions in burned-area trends and to attribute them to individual and interactive climate, fuel and human effects. The model is implemented on global burned area derived from the Moderate Resolution Imaging Spectroradiometer (MODIS, MCD64A1) for 2001–2025, with drivers of climate and fire weather, fuel and vegetation, and anthropogenic pressure. Globally, burned area declined by 1.28 % ± 0.35 % of its 2001–2025 mean per year, but the model identified strong regional disparities, including nine trend hotspot regions and six trend coldspot regions of burned-area trends. The spatio-temporal analysis demonstrates that fire weather dominates globally, whereas savanna fuel and anthropogenic pressure become comparably important within trend clusters. In addition, warming and drying are associated with increases in hotspots, while cooling and wetting are associated with declines in coldspots. Finally, climate drivers weaken in rising hotspots and fuel control strengthens in declining coldspots. STCA provides a scalable and reproducible approach for identifying climate–fuel–human drivers on spatially structured wildfire trends.",
+      "doi": "10.1016/j.geosus.2026.100530",
+      "authors": [
+        "Yongze Song",
+        "Joseph Awange",
+        "Jielong Wang",
+        "Dong Xu",
+        "Chao Wu"
+      ],
+      "year": 2026,
+      "journal": "Geography and sustainability",
+      "openalex_id": "W7197041196",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197041196",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 43%: matched 2/9 key interest terms (drivers, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "The spatio-temporal distribution of wildfire trends reveals spatially uneven changes in fire activity across the globe. Existing studies primarily rely on temporal models and climatic variables but ignore the spatial disparities of drivers.",
+      "added": true
+    },
+    {
+      "title": "Sequential Operational Decision-Making for Power System Resilience Under Evolving Wildfires",
+      "abstract": "This paper proposes a novel automated decision-support framework aimed at enhancing the resilience of power systems and operational resilience against wildfires by formulating the decision-making process as a stochastic multi-stage programming during a progressive wildfire. The paper develops a framework that takes into account both preventive and corrective actions, enabling automated and adaptive decisions based on potential scenarios over the course of a wildfire's progression. This approach considers the evolving nature of the wildfire threat and seeks to optimize the response strategies accordingly throughout its duration. The objective is to minimize wildfire risk and operational costs while reducing load curtailment. The framework accounts for potential contingencies caused by progressive wildfires. A novel algorithm is proposed to construct a decision tree based on wildfire progression and system geographical information. Additionally, a novel stochastic dual dynamic programming approach is deployed to solve the proposed optimization problem, achieving a global optimum for the framework. The effectiveness of the proposed method is demonstrated on the IEEE 30-bus system under various wildfire impact scenarios and is then applied to the IEEE 300-bus system to illustrate the scalability of the proposed approach. The results highlight the advantages of the proposed automated framework over a single-stage operational optimization strategy in enhancing power grid resilience under wildfire conditions.",
+      "doi": null,
+      "authors": [
+        "Arastoo H Salimi",
+        "Majid Dehghani",
+        "Hamidreza Nazaripouya"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7197053756",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197053756",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 2/9 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "This paper proposes a novel automated decision-support framework aimed at enhancing the resilience of power systems and operational resilience against wildfires by formulating the decision-making process as a stochastic multi-stage programming during a progressive wildfire.",
+      "added": false
+    },
+    {
+      "title": "Enhancing Operational Grid Resilience Against Wildfires Under Decision-Dependent Uncertainties",
+      "abstract": "This paper proposes a new automated decision-making framework to enhance the resilience of electrical systems against wildfires by applying operational strategies that account for decision-dependent uncertainty (DDU). The proposed framework incorporates both preventive and corrective measures, enabling adaptive and automated decision-making throughout the course of evolving wildfire scenarios. First, a baseline multistage optimization model is presented as a foundation to support wildfire-driven operational decision-making. The model then incorporates DDU, wherein Public Safety Power Shutoff (PSPS) decisions made in earlier stages influence the probabilities and parameters of future wildfire scenarios. To efficiently solve the resulting complex optimization problem, a mathematical decomposition algorithm is employed. The effectiveness of the proposed approach is demonstrated through case studies on the IEEE 30-bus system. Simulation results confirm that incorporating the impact of DDU into the optimization process provides more realistic, and operationally resilient solutions in the face of evolving wildfire threats.",
+      "doi": null,
+      "authors": [
+        "Arastoo H Salimi",
+        "Hamidreza Nazaripouya"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7197052964",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197052964",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 2/9 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "This paper proposes a new automated decision-making framework to enhance the resilience of electrical systems against wildfires by applying operational strategies that account for decision-dependent uncertainty (DDU).",
+      "added": false
+    },
+    {
+      "title": "UCB-GLOBES: an open-access mass spectral database of identified and unidentified atmospheric organic compounds",
+      "abstract": "Abstract. Chemical characterization of atmospheric organic aerosols using gas chromatography with 70 eV electron ionization mass spectrometry (GC/EI-MS) has been used for decades in advancing molecular marker detection and identification, though primarily through suspect screening and/or targeted analyses. To advance non-targeted analyses of environmental samples, we have catalogued approximately 27 000 mass spectra (MS) of the trimethylsilyl derivatives of semi-volatile organic aerosol (OA) analytes in the open-access University of California Berkeley Goldstein Library of Organic Biogenic Environmental Spectra (UCB-GLOBES). Analytes were observed in ambient samples from the U.S. and the Central Amazon and/or laboratory simulations of secondary OA (SOA) formation. These samples are representative of OA under urban and biomass burning influences as well as SOA derived from biogenic precursors (e.g., isoprene, monoterpenes, sesquiterpenes) and biomass burning intermediates. MS are documented in UCB-GLOBES without regard to known chemical identity, annotated with extensive metadata such as sample source/experimental conditions, any structural information gained from MS analyses, and predicted chemical properties such as average carbon oxidation state and carbon number. UCB-GLOBES MS are compatible for importing into the NIST MS Search program, and we have also provided a Jupyter Notebook for MS visualization and comparisons. We demonstrate the utility of UCB-GLOBES through MS reanalyses of prior analytes observed in ambient data, finding a 20 % reduction in the number of analytes assigned to OA source categories reliant solely on time series correlation and an overall 11 % increase in new MS-based OA source categorization for the Southeast U.S. For 1513 analytes observed previously in the Central Amazon, we found 375 MS matches using UCB-GLOBES vs. 136 MS matches during prior analyses, representing a 14 % gain in newly confirmed or newly categorized OA species. While OA from laboratory oxidation experiments in UCB-GLOBES are highly diverse chemically, on average only 29 % of UCB-GLOBES MS have a mass spectral match to another MS entry in UCB-GLOBES and/or in databases of known compounds (i.e. NIST MS Database, Adams Essential Oil, MANE Flavor and Fragrance Company). This indicates that roughly 70 % of UCB-GLOBES MS are unique thus far, not observed more than once among the laboratory oxidation samples and ambient data in UCB-GLOBES MS. Further, only 18 % can be positively identified using these databases or known authentic standards. This points to a large gap between these laboratory simulations and ambient OA. Overall, the UCB-GLOBES database can be utilized for improving confidence in OA source categorization and/or identification, novel chemical marker discovery, tracking chemical diversity, de novo structure and properties prediction, and improving MS search and matching algorithms. This can ultimately inform future research priorities for the chemical characterization of atmospheric organic samples.",
+      "doi": "10.5194/amt-19-5027-2026",
+      "authors": [
+        "Lindsay D. Yee",
+        "Emily B. Franklin",
+        "Robin J. Weber",
+        "Jessica Zhao",
+        "Tiger Zhang",
+        "Stephanie Xu",
+        "Isaac Santillan",
+        "F. Li",
+        "Coty N. Jen",
+        "Haofei Zhang",
+        "Yutong Liang",
+        "Gabriel Isaacman‐VanWertz",
+        "Rebecca A. Wernis",
+        "John H. Offenberg",
+        "Michael Lewandowski",
+        "Taekyu Joo",
+        "Masayuki Takeuchi",
+        "Gamze Eris",
+        "Weiqi Xu",
+        "N. L. Ng",
+        "Yuzhi Chen",
+        "John E. Shilling",
+        "Mary Alice Upshur",
+        "Ariana Gray Bé",
+        "Regan J. Thomson",
+        "Franz M. Geiger",
+        "Allen H. Goldstein"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric measurement techniques",
+      "openalex_id": "W7196931968",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196931968",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 2/9 key interest terms (burning, large)",
+      "tags": [
+        "Burning",
+        "Large"
+      ],
+      "summary": "Abstract. Chemical characterization of atmospheric organic aerosols using gas chromatography with 70 eV electron ionization mass spectrometry (GC/EI-MS) has been used for decades in advancing molecular marker detection and identification, though primarily through suspect screening and/or targeted analyses.",
+      "added": false
+    },
+    {
+      "title": "Machine learning for modeling forest dynamics using National Forest Inventory and climate data",
+      "abstract": "Accurate prediction of forest structure and composition is essential for forest management, as planning depends on anticipating future stand dynamics under changing environmental conditions. Machine learning algorithms have proven useful for this task due to their ability to capture non-linear ecological patterns in forest dynamics. However, current machine learning applications in forest ecology mostly focus on component growth rates, leaving approaches that directly predict future stand-level states like total basal area and species composition under-explored. This study develops a national-scale XGBoost model for Swiss forests, using Swiss National Forest Inventory data and CH2018 climate scenarios to predict changes in basal area and broadleaf proportion. Tested on a later inventory not used for training, XGBoost predicts the next inventory state with an R 2 of 0.66 for basal area and 0.91 for broadleaf proportion, slightly above a linear Lasso model (0.65 and 0.90). When applied recursively to generate exploratory projections to 2099, the model indicates an overall increase in basal area, although unmanaged lower-elevation belts decrease, and an increase in broadleaf proportion mainly at lower elevations, especially under high emissions. These trends are similar to patterns reported by established process-based and empirical forest models. This work offers a computationally efficient approach for projecting forest dynamics over large areas, without the extensive parameterization required by process-based models.",
+      "doi": "10.1016/j.ecolmodel.2026.111763",
+      "authors": [
+        "Dea Rieder",
+        "Maximiliano Costa",
+        "Christian Temperli",
+        "Francesco Giardina",
+        "Giacomo Vaccario"
+      ],
+      "year": 2026,
+      "journal": "Ecological Modelling",
+      "openalex_id": "W7172528668",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172528668",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 2/9 key interest terms (states, large)",
+      "tags": [
+        "States",
+        "Large"
+      ],
+      "summary": "Accurate prediction of forest structure and composition is essential for forest management, as planning depends on anticipating future stand dynamics under changing environmental conditions.",
+      "added": false
+    },
+    {
+      "title": "Beyond the initial impact: Channel evolution following wildfire and debris flows in a mountain stream of the Upper Colorado River Basin",
+      "abstract": "Wildfire-driven sediment pulses can radically alter river morphology, yet the spatial and temporal variability of channel response and recovery remain poorly constrained, especially in low-order headwater systems. This study builds upon prior work in a steep, fire-affected catchment in the Upper Colorado River Basin by documenting the geomorphic response to repeat widespread debris-flows during a high-intensity convective storm—three years after the wildfire and two years after initial debris-flow events. The storm remobilized sediment from previously activated hillslopes, delivering new debris-flow deposits to channel reaches that had been buried and partially reworked by intervening snowmelt events. We combine field-based mapping of repeat debris-flow deposits, in situ instrumentation data, and repeat cross-sectional surveys to characterize evolving channel morphology, and apply two-dimensional hydro-morphodynamic modeling to simulate sediment reworking and channel evolution across a range of flow scenarios. Cross-sectional analyses reveal continued channel adjustment consistent with a multi-year sediment-wave recovery trajectory punctuated by episodic sediment reloading. Together, field observations and modeling results indicate how debris-flow reinitiation can extend the geomorphic legacy of wildfire and provide empirical constraints for predicting river evolution in fire-prone landscapes, underscoring the importance of sustained monitoring and process-based modeling beyond the initial post-fire disturbance window.",
+      "doi": "10.1016/j.geomorph.2026.110485",
+      "authors": [
+        "Paxton Ridgway",
+        "Lionel T. Bläsi",
+        "Matthew C. Halso",
+        "David F. Vetsch",
+        "Belize Lane"
+      ],
+      "year": 2026,
+      "journal": "Geomorphology",
+      "openalex_id": "W7196977408",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196977408",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Wildfire-driven sediment pulses can radically alter river morphology, yet the spatial and temporal variability of channel response and recovery remain poorly constrained, especially in low-order headwater systems.",
+      "added": false
+    },
+    {
+      "title": "Defining reference forests for management, restoration and conservation: a multidimensional evaluation of Nothofagus pumilio forests",
+      "abstract": "Reference forests provide essential benchmarks for conservation, forest management, and ecological restoration. However, they are commonly represented by a single old-growth condition and primarily characterized by structural attributes, overlooking both the natural variability generated by forest development under natural disturbance regimes and other ecosystem dimensions relevant to these objectives. Characterizing the natural range of variation across forest developmental stages through multiple ecological dimensions can improve the definition and selection of reference conditions by capturing the diversity of ecosystem states that occur throughout forest development. We proposed a seven developmental stages model representing the natural dynamic cycle of Nothofagus pumilio forests in Tierra del Fuego (Argentina), encompassing both even- and uneven-aged stand structures generated by natural disturbance regimes. By integrating forest structure, soil, understory vegetation, and animal use, we aimed to identify multidimensionally reference forests within this natural range of variability for management, restoration and conservation objectives, using univariate, multivariate, and integrative index analyses. Forest developmental stages differed consistently in structural attributes, while soil, understory vegetation, and animal use exhibited more gradual or dimension-specific responses. Live tree volume, coarse woody debris, dead tree density, and soil phosphorus emerged as useful indicators of forest development, whereas several other attributes showed limited variation across stages. Dimension-specific indices identified developmental stages representing the boundaries of the natural range of variation, while multivariate analyses identified groups of stages sharing similar ecological characteristics. These results demonstrate that no single developmental stage adequately represents the full natural range of variation and that the most appropriate reference condition depends on the ecological dimension and management objective being considered. Multiple forest developmental stages provide a more comprehensive representation of reference conditions than a single old-growth forest. By integrating multiple ecological dimensions, our framework captures the natural variability generated by forest development and offers ecological baselines for forest management, conservation, and ecological restoration. Beyond Nothofagus pumilio forests, this multidimensional approach provides a flexible basis for defining reference conditions across ecosystems with contrasting disturbance histories and may contribute to adaptive forest management under future environmental change.",
+      "doi": "10.1186/s13717-026-00740-2",
+      "authors": [
+        "Jimena E. Chaves",
+        "Julián Rodríguez‐Souilla",
+        "Juan Manuel Cellini",
+        "M. Vanessa Lencinas",
+        "Pablo L. Peri",
+        "Guillermo Martínez Pastur"
+      ],
+      "year": 2026,
+      "journal": "Ecological Processes",
+      "openalex_id": "W7172510533",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172510533",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Reference forests provide essential benchmarks for conservation, forest management, and ecological restoration. However, they are commonly represented by a single old-growth condition and primarily characterized by structural attributes, overlooking both the natural variability generated by forest development under nat…",
+      "added": false
+    },
+    {
+      "title": "Earth Embeddings",
+      "abstract": "Earth observation is moving from foundation models that users must run themselves toward embedding products that package model feature outputs as reusable data without needing to download and process the imagery used to generate them. Earth embeddings are vectors that summarize locations, image patches, or pixels, letting users analyze compact features instead of repeatedly training or running large models on raw satellite imagery. This chapter explains the main types of Earth embeddings, from implicit location encoders to explicit patch and pixel products, and compares their coverage, resolution, dimensionality, storage cost, licenses, and reproducibility. We review their use in land cover and crop mapping, ecological and hazard modeling, socioeconomic prediction, and semantic search, with evidence on when embeddings improve on conventional features and when pooling, fusion, or spatial transfer limit performance. Two case studies show practical workflows for similarity search and land cover mapping. We close with guidance for choosing, evaluating, storing, compressing, and publishing embeddings, and with open problems in oceanic and atmospheric coverage, uncertainty, and benchmarking.",
+      "doi": null,
+      "authors": [
+        "Adam J. Stewart",
+        "Heng Fang",
+        "Isaac Corley",
+        "Xiao Xiang Zhu"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7197053996",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197053996",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Earth observation is moving from foundation models that users must run themselves toward embedding products that package model feature outputs as reusable data without needing to download and process the imagery used to generate them.",
+      "added": false
+    },
+    {
+      "title": "Drones and Autonomous Systems in Disaster Relief Operations: Advancing Emergency Response, Operational Effectiveness, and Humanitarian Logistics",
+      "abstract": "The increasing frequency, intensity, and complexity of natural and human-induced disasters have exposed critical limitations in conventional emergency response systems, creating an urgent need for rapid, intelligent, and resilient disaster management solutions. Recent advances in autonomous technologies, including unmanned aerial vehicles (drones), autonomous ground vehicles, marine robots, and artificial intelligence (AI)-enabled decisionsupport systems, have transformed disaster operations by enhancing real-time situational awareness, search and rescue, infrastructure assessment, medical supply delivery, and humanitarian logistics. This narrative review critically synthesizes the current evidence on the evolution and applications of autonomous systems across the disaster management cycle, encompassing preparedness, emergency response, recovery, and humanitarian logistics. It examines recent technological advances while evaluating the technical, operational, regulatory, ethical, and economic barriers that continue to limit large scale implementation. Building on these insights, the review proposes the Adaptive Autonomous Disaster Response Ecosystem (AADRE) Framework, a novel conceptual model that integrates AI-driven decision support, heterogeneous autonomous platforms, human expertise, humanitarian logistics, and continuous learning into a unified disaster response ecosystem. The framework provides a scalable roadmap for improving coordination, interoperability, adaptive decision-making, and disaster resilience. The findings highlight the need for harmonized governance, interoperable digital infrastructure, multidisciplinary collaboration, and implementation-focused research to facilitate the safe and effective integration of autonomous technologies into future disaster management systems, with important implications for policymakers, emergency management agencies, humanitarian organizations, and researchers.",
+      "doi": "10.58613/jca221",
+      "authors": [
+        "Ruth Udu Ohaka",
+        "Ayomide Daniel Akinyemi",
+        "Ugochukwu Udonna Okonkwo"
+      ],
+      "year": 2026,
+      "journal": "Journal of Computers and Applications",
+      "openalex_id": "W7172533264",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172533264",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "The increasing frequency, intensity, and complexity of natural and human-induced disasters have exposed critical limitations in conventional emergency response systems, creating an urgent need for rapid, intelligent, and resilient disaster management solutions.",
+      "added": false
+    },
+    {
+      "title": "Google's Sustainable Business Strategy: Synthesis of the 5Ps Framework, Creating Shared Value, ESG, and SDGs",
+      "abstract": "This paper aims to describe Google's sustainable business strategy as a single, document-based case study. This study uses a descriptive qualitative approach with a documentary case study method, analyzing the Google Environmental Report 2026 as the main source of cases, complemented by supporting academic literature. Five analytical lenses are used in an integrated manner to describe the strategy, namely Henry Mintzberg's 5Ps of Strategy, Deliberate Strategy and Emergent Strategy, Porter and Kramer's Creating Shared Value, and ESG and SDGs frameworks. The results show that Google's sustainability strategy includes large-scale clean energy procurement, supply chain transformation, circular product innovation, and structured sustainability governance. In terms of emissions, Google reported a 3% decrease in Scope 2 emissions, while Scope 1 and Scope 3 emissions increased by 20% and 25%, respectively, in the same reporting period. This research contributes to providing an integrated picture of how the five frameworks can be used together to describe the sustainability strategy of a global technology company.",
+      "doi": "10.64243/jodigbi.02.4.01",
+      "authors": [
+        "Fonny Arisandy Jacob",
+        "Mohamad Rizan",
+        "Muhammad Awaluddin"
+      ],
+      "year": 2026,
+      "journal": "Journal of Digital Business and Global Economy",
+      "openalex_id": "W7172530139",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172530139",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "This paper aims to describe Google's sustainable business strategy as a single, document-based case study. This study uses a descriptive qualitative approach with a documentary case study method, analyzing the Google Environmental Report 2026 as the main source of cases, complemented by supporting academic literature.",
+      "added": false
+    },
+    {
+      "title": "Beyond Predicting Responses: Conformal Inference for Latent Distributional Parameters",
+      "abstract": "Many prediction problems seek to infer an unobserved, instance-specific parameter that governs the distribution of an observable response, even though the latent parameter is unavailable for both historical and future instances. We develop LatentCP, a prior-free conformal framework that constructs uncertainty sets for latent distributional parameters using only observed context--response pairs and a specified forward model. The method first constructs a conformal prediction set in the observable response space and then retains candidate latent parameters according to the probability their induced response distributions assign to that set. This inversion provides finite-sample marginal coverage without requiring latent calibration labels, a unique inverse mapping, or knowledge of the latent mixing distribution. Because latent-set efficiency depends nonmonotonically on the response-space miscoverage rate, we further introduce a multilevel procedure that aggregates normalized incompatibility scores across several response sets and selects the aggregation distribution using an independent tuning sample. Across synthetic experiments, LatentCP maintains nominal latent coverage under weak forward identification, observational nonidentifiability, and latent heterogeneity and multimodality, where empirical-Bayes, likelihood-based, and proxy-label conformal methods can substantially under-cover. On a California wildfire real dataset, it produces spatially adaptive uncertainty sets for latent fire intensity. Independent tuning improves efficiency, while multilevel aggregation provides additional gains when different response levels contain complementary information, without sacrificing validity.",
+      "doi": null,
+      "authors": [
+        "Minxing Zheng",
+        "Wenbin Zhou",
+        "Shixiang Zhu"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7197053574",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197053574",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Many prediction problems seek to infer an unobserved, instance-specific parameter that governs the distribution of an observable response, even though the latent parameter is unavailable for both historical and future instances.",
+      "added": false
+    },
+    {
+      "title": "Integrating socio-economic dimensions into climate change hotspot identification",
+      "abstract": "Abstract As climate impacts accelerate, \"climate change hotspots\" (CCHs) are increasingly used to prioritise limited adaptation resources. However, hotspot conceptualisation remains fragmented. To address this gap, this study first conducts an evidence synthesis of 353 studies to investigate how CCHs are conceptually defined and analytically identified across four major climate hazards (heat, drought, flood and snow). This synthesis shows that most existing hotspot methodologies are dominated by potential hazard intensity, while socio-economic dimensions, stakeholder knowledge and impact-based validation are rarely integrated. To address this knowledge gap, we develop a bottom-up integrated framework for CCHs identification. Transitioning away from a top-down hazard-centric approach, our bottom-up approach integrates biophysical and socio-economic data with event-based storylines and stakeholder consultation. The transferability of our framework is demonstrated through two European case studies, snow avalanches in Alps and Carpathians, and flash flood in Trentino-Alto Adige, Italy. The case studies identify hotspots by intersecting climate hazard data with local geographic characteristics and socio-economic information. In both applications, historical event-based storylines ground quantitative risk classifications in real-world disaster dynamics, while stakeholder consultations refine the localised exposure. The results reveal that Alpine and Carpathian snow hotspots are projected to persist and intensify by 2100. The flash flood hotspots remain concentrated in alluvial valley bottoms, where the hazard converges with dense socio-economic and infrastructural exposure. Our integrated framework provides an adaptable and transferable approach for identifying climate change hotspots. It can serve as good practice and can support the prioritisation of adaptation effort and planning across administrative regions and sectors.",
+      "doi": "10.1088/2752-5295/ae958d",
+      "authors": [
+        "Shreya Some",
+        "Dana Micu",
+        "Giovanna Piracci",
+        "Oliver Bothe",
+        "Aleš Urban",
+        "Liliana Velea",
+        "Paul Bowyer",
+        "Mihai Adamescu",
+        "Vlad Amihăesei",
+        "Roxana Bojariu",
+        "Tuğba Doğan",
+        "Vladut Falcescu",
+        "Cristiano Franceschinis",
+        "Relu Giucă",
+        "Kirsten Halsnæs",
+        "Katie Jenkins",
+        "Alice Ludvig",
+        "Hermine Mitter",
+        "Monica Paraschiv",
+        "Mara Thiene",
+        "Nicholas Vasilakos",
+        "Latifa A. Yousef",
+        "Sorin Cheval"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Climate",
+      "openalex_id": "W7172530003",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172530003",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract As climate impacts accelerate, \"climate change hotspots\" (CCHs) are increasingly used to prioritise limited adaptation resources. However, hotspot conceptualisation remains fragmented.",
+      "added": false
+    },
+    {
+      "title": "Agroecological farming practices for climate change mitigation in Mediterranean agricultural systems: the case of the Sardinia region",
+      "abstract": "Agriculture is a key driver of greenhouse gas emissions (GHG) and is simultaneously vulnerable to climate change. Agroecological farming practices, in addition to regenerating farming systems, offer promising solutions in this regard, helping agroecosystems both adapt to climate change and mitigate emissions. Here, we investigated the extent to which agroecological transition pathways in Mediterranean landscapes can reduce and offset agricultural emissions and support direct methane mitigation measures. To this end, a territorial cradle-to-gate life cycle assessment (LCA) was used to assess changes in GHG emissions from the agricultural sector under alternative scenarios in the region of Sardinia (Italy). The results show that a transformational transition in agroecosystems and landscapes toward agroecological, biodiversity-based farming practices and land use could offset nearly 37% of agricultural emissions, strongly supporting animal-based mitigation measures. This transition includes, among other measures, expanding organic farming and transitioning to permanent grasslands and agroforestry systems. Overall, a systemic shift toward agroecological and sustainable land management can meaningfully mitigate emissions while delivering broader environmental benefits. The findings can support informed decision-making to meet climate targets.",
+      "doi": "10.1016/j.cesys.2026.100483",
+      "authors": [
+        "Lara Abou Chehade",
+        "G. Pizzileo",
+        "A.S. Atzori",
+        "M.V. Chiriacò",
+        "M. Debolini"
+      ],
+      "year": 2026,
+      "journal": "Cleaner Environmental Systems",
+      "openalex_id": "W7196952801",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196952801",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Agriculture is a key driver of greenhouse gas emissions (GHG) and is simultaneously vulnerable to climate change. Agroecological farming practices, in addition to regenerating farming systems, offer promising solutions in this regard, helping agroecosystems both adapt to climate change and mitigate emissions.",
+      "added": false
+    },
+    {
+      "title": "Digital Environments, Misinformation, and Mental Health: A Systemic Ecology of Risk in Contemporary Society",
+      "abstract": "Global mental health is increasingly shaped by interacting stressors rather than isolated determinants. This narrative interdisciplinary review examines how COVID-19, climate-related distress, problematic technology use, and digital misinformation interact to intensify psychological burden, especially among vulnerable populations. Search was conducted in PubMed, Scopus, and Google Scholar for studies published between 2000 and 2025, prioritizing empirical studies, systematic reviews, and meta-analyses. The synthesis indicates that pandemic disruption, climate anxiety, compulsive digital engagement, and infodemics produce mutually reinforcing effects mediated by structural inequalities and high-engagement digital environments. The evidence suggests that contemporary mental-health responses should integrate community-based care, digital literacy, platform accountability, and climate-sensitive psychosocial support. The article argues that the current crisis is systemic and requires coordinated, cross-sectoral responses.",
+      "doi": "10.36704/sciaseducomtec.v8i1.10871",
+      "authors": [
+        "Heslley Machado Silva"
+      ],
+      "year": 2026,
+      "journal": "SCIAS Educação Comunicação e Tecnologia",
+      "openalex_id": "W7172509105",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172509105",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Global mental health is increasingly shaped by interacting stressors rather than isolated determinants. This narrative interdisciplinary review examines how COVID-19, climate-related distress, problematic technology use, and digital misinformation interact to intensify psychological burden, especially among vulnerable…",
+      "added": false
+    },
+    {
+      "title": "Reframing local empowerment for climate resilience through mutual aid",
+      "abstract": "Abstract No abstract for Perspectives",
+      "doi": "10.1088/1748-9326/ae9564",
+      "authors": [
+        "Carmen E. Elrick‐Barr",
+        "Mark Pelling",
+        "Bruce Glavovic",
+        "Timothy F. Smith",
+        "Katrina Brown"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7172492124",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172492124",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract No abstract for Perspectives",
+      "added": false
+    },
+    {
+      "title": "A GIS-based framework for identifying isolated communities and population-level accessibility assessment under compound multi-hazard conditions",
+      "abstract": "Coastal communities are increasingly exposed to compound multi-hazard events in which earthquakes, tsunamis, flooding, landslides, and severe wind impacts occur sequentially or concurrently, leading to transportation network disruption and loss of access to critical facilities. When roadway systems fragment under such conditions, communities may become isolated from hospitals, emergency resources, and regional transportation hubs, significantly constraining disaster response and recovery operations. Despite extensive research on hazard-specific transportation vulnerability, most existing studies evaluate hazards independently and assess connectivity loss without integrating critical facility accessibility, identifying road segments for repair, or quantifying population-level isolation under compound hazard scenarios. Consequently, current approaches provide limited guidance for understanding how interacting hazards collectively affect community isolation and access to critical facilities. The goal of this paper is to improve transportation resilience assessment and planning under compound multi-hazard conditions by systematically evaluating how interacting hazards fragment roadway networks, isolate communities, and reduce access to critical facilities. Towards this end, an integrated GIS-based spatial-network framework is developed in this paper, which combines multi-hazard exposure modeling with graph-based fragmentation analysis to detect disconnected network components representing isolated communities, centrality analysis to identify critical road segments, and population-weighted accessibility estimation to facilities like hospitals and airports. The framework provides conservative, exposure-based estimates of transportation disruption by assuming that hazard-exposed roadway segments are nonfunctional. The framework is demonstrated through a case study of Clatsop County, Oregon, USA, a coastal region that is vulnerable to earthquakes, tsunamis, flooding, landslides, and severe wind events. Results indicate that flooding-inclusive scenarios produce the highest levels of transportation-network fragmentation, while tsunami-inclusive scenarios, particularly those involving near-field tsunami inundation combined with flooding, produce the greatest losses in accessibility to critical facilities and population-level access. Pre-disaster centrality analysis identifies key lifeline roads for restoration prioritization. These findings provide a unified, spatially explicit decision-support foundation for pre-disaster planning, restoration prioritization, and post-disaster transportation resilience management under compound hazard conditions.",
+      "doi": "10.3389/fbuil.2026.1856100",
+      "authors": [
+        "Chonnapat Opanasopit",
+        "Joseph Louis"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Built Environment",
+      "openalex_id": "W7196928640",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196928640",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Coastal communities are increasingly exposed to compound multi-hazard events in which earthquakes, tsunamis, flooding, landslides, and severe wind impacts occur sequentially or concurrently, leading to transportation network disruption and loss of access to critical facilities.",
+      "added": false
+    },
+    {
+      "title": "Vulnerability Modeling for the Adaptation of Physical Systems to Climate Change Extremes",
+      "abstract": "Climate change is modifying the frequency and intensity of extreme hazards in a non-uniform spatial manner, increasing the risk of damage for existing physical systems. Vulnerability modeling based on vulnerability curves provides a quantitative link between hazard intensity and physical damage, supporting adaptation strategies. This paper proposes conceptual frameworks for vulnerability models of physical systems in the context of climate change, aimed at supporting vulnerability based adaptation. A theoretical use case illustrates the methodology: potential damage on power transmission towers facing wind gust hazards across France, modeled through vulnerability curves. Despite strong assumptions, this theoretical case study demonstrates how vulnerability models can guide adaptation by reducing intrinsic vulnerability, adapting the physical system to maintain acceptable damage levels under evolving climate extremes.",
+      "doi": null,
+      "authors": [
+        "Matthieu Dutel"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7172557344",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172557344",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Climate change is modifying the frequency and intensity of extreme hazards in a non-uniform spatial manner, increasing the risk of damage for existing physical systems.",
+      "added": false
+    },
+    {
+      "title": "Ozone suppresses rice photosynthesis and yield in China’s Middle-Lower Yangtze Plain: satellite evidence from SIF and panel regression",
+      "abstract": "Ground-level ozone (O 3 ) adversely affects rice physiology and is associated with yield reductions. This study developed a high-resolution assessment framework integrating multi-source satellite remote sensing with econometric methods to quantify the impacts of O 3 on rice production in China's primary rice-growing region—the Middle and Lower Reaches of the Yangtze River (MLYR)—from 2019 to 2023. We fused Sentinel-5P TROPOMI total ozone column (TOC) data, a harmonized multi-satellite solar-induced chlorophyll fluorescence (SIF) product (LHSIF), high-precision rice distribution maps, and ERA5 meteorological reanalysis data. In addition to SIF, we examined multiple vegetation indicators (chlorophyll content, leaf area index, and vegetation indices) to capture broad physiological responses. A bidirectional fixed-effects panel model was employed to control for spatiotemporal confounders, revealing a significant inhibitory effect of O 3 on photosynthesis (β = -1.334 × 10 -5 , p < 0.001). The analysis identified distinct spatiotemporal heterogeneities: June was the period of peak sensitivity, with Anhui and Zhejiang provinces constituting high-vulnerability zones. Counterfactual analysis demonstrated that a 10% reduction in June O 3 concentrations would increase regional SIF by 36.36%, while a commensurate 10% reduction in annual exposure could elevate rice yields by approximately 8.4%. This spaceborne remote sensing approach provides a robust and transferable methodology for the precise regional monitoring of ozone stress and for informing targeted mitigation strategies to safeguard crop productivity.",
+      "doi": "10.1016/j.plaphy.2026.111599",
+      "authors": [
+        "Changsheng Tang",
+        "Yihao Wang",
+        "Leizi Jiao",
+        "Wenqian Zang",
+        "Daming Dong",
+        "Xiufeng Yang"
+      ],
+      "year": 2026,
+      "journal": "Plant Physiology and Biochemistry",
+      "openalex_id": "W7172502905",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172502905",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Ground-level ozone (O 3 ) adversely affects rice physiology and is associated with yield reductions. This study developed a high-resolution assessment framework integrating multi-source satellite remote sensing with econometric methods to quantify the impacts of O 3 on rice production in China's primary rice-growing re…",
+      "added": false
+    }
+  ]
+}
