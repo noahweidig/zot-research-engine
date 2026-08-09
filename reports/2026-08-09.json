@@ -1,0 +1,506 @@
+{
+  "date": "2026-08-09",
+  "statistics": {
+    "fetched": 109,
+    "duplicates_removed": 90,
+    "evaluated": 19,
+    "added": 2,
+    "ignored": 17,
+    "average_score": 1.74
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Wildfire contributions to prenatal PM2.5 exposure in the contiguous United States, 2003–2019",
+      "abstract": "Introduction Anthropogenic air pollution has declined substantially across the United States, but wildfire smoke may be offsetting these gains. PM2.5 exposure increases the risk of adverse birth outcomes, and wildfire-related PM2.5 may be more toxic than PM2.5 from other sources. Yet limited data exist on spatiotemporal changes in population-level prenatal wildfire PM2.5 exposure. Existing studies have characterized geographic patterns of wildfire contributions to ambient PM2.5 but have not estimated population-based prenatal exposure at the national scale, a perspective essential for allocating public-health resources to the people most affected. Methods We linked daily county-level PM2.5 data from 2,842 counties (2003–2019) to national birth certificate records covering 64.5 million live births. Using chemical transport modeling, we separated wildfire-related from non-fire PM2.5 and computed period-averaged exposure for baseline (2003–2005) and endline (2017–2019). We assessed trends across nine NOAA climate regions, demographic subgroups, and counties stratified by wildland-urban interface (WUI) status and perinatal healthcare availability, and quantified prenatal exceedance days above 35 µg/m³. Results Prenatal PM2.5 declined from 12.82 to 8.45 µg/m³ (−34.1%), but non-fire PM2.5 declined more steeply (−37.2%), indicating that wildfire offset a portion of these gains. Wildfire's share more than doubled (3.71% to 8.19%), with 0.22 µg/m³ of improvement foregone nationally. Fire-attributable exceedance days were essentially unchanged (∼14%–15% of infants) while non-fire exceedance fell 85%; wildfire now accounts for 65% of remaining events. WUI, low-income, and American Indian/Alaska Native infants bore disproportionate burdens, and maternity hospital shortage counties had wildfire contributions nearly double those of adequate-access counties by 2017–2019. Discussion Increasing wildfire activity is systematically offsetting prenatal air quality gains from anthropogenic emission reductions, disproportionately burdening low-income, rural, and Indigenous communities, with the potential to further erode progress as wildfire activity intensifies.",
+      "doi": "10.3389/fenvh.2026.1838836",
+      "authors": [
+        "Menglu Liang",
+        "Amir Sapkota",
+        "Hao He",
+        "Samyam Aryal",
+        "Nicole E. Sieck",
+        "Michel Boudreaux"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Environmental Health",
+      "openalex_id": "W7196925579",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196925579",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 70%: matched 4/11 key interest terms (united states, united, states, wildfire)",
+      "tags": [
+        "United States",
+        "United",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Introduction Anthropogenic air pollution has declined substantially across the United States, but wildfire smoke may be offsetting these gains. PM2.5 exposure increases the risk of adverse birth outcomes, and wildfire-related PM2.5 may be more toxic than PM2.5 from other sources.",
+      "added": true
+    },
+    {
+      "title": "U.S. wildfire-power grid risk: A review of policy &amp; practices in ten western states",
+      "abstract": "Record-breaking fires in the western U.S. have drawn considerable scrutiny of the risks associated with wildfires and the power grid. Electricity infrastructure can both cause and be impacted by wildfires, at times forcing planned shutoffs. As utilities rapidly deploy mitigation measures and policymakers seek systematic solutions, this paper reviews the state of knowledge on the wildfire-grid nexus, synthesizing insights from risk analysis, power system technology, and policy fields. We address a significant research gap by evaluating recent policy advances and practices in ten Western states (AK, AZ, CA, ID, MT, NV, OR, TX, UT, WA). Using historical record review and five policy indicators, our findings demonstrate a rapid yet fragmented policy landscape. We establish a fundamental accountability asymmetry where public wildfire hazards are managed via disconnected proprietary utility frameworks, resulting in a state-by-state patchwork. We outline pathways for regional harmonization, evaluate upcoming technical integration like machine learning architectures, and identify the expansion of oversight to resource-constrained municipal and cooperative utilities as a critical next policy frontier.",
+      "doi": "10.1016/j.jup.2026.102291",
+      "authors": [
+        "Cassandra Koerner",
+        "Kathleen Araujo",
+        "Adair Muth",
+        "Palista Kharel",
+        "Jason Hampshire",
+        "Ned Potter"
+      ],
+      "year": 2026,
+      "journal": "Utilities Policy",
+      "openalex_id": "W7197050704",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197050704",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 40%: matched 3/11 key interest terms (wildfires, states, wildfire)",
+      "tags": [
+        "Wildfires",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Record-breaking fires in the western U.S. have drawn considerable scrutiny of the risks associated with wildfires and the power grid. Electricity infrastructure can both cause and be impacted by wildfires, at times forcing planned shutoffs.",
+      "added": true
+    },
+    {
+      "title": "Regional CO <sub>2</sub> and CH <sub>4</sub> inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision observations over the Korean Peninsula",
+      "abstract": "Abstract. Quantifying greenhouse gas (GHG) emissions over complex terrain remains a significant challenge for conventional inversion systems due to the high sensitivity of tracer transport to surface heterogeneity. We develop a high-resolution dual-species GHG top-down inversion framework by integrating the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem v4.4) and the Data Assimilation Research Testbed (DART v9.8.0) in a cycling ensemble Kalman filter system. Built on community tools, the framework is designed to be portable and configurable, enabling applications to other regions, resolutions, and observing-system configurations (e.g., expanded surface networks and additional data streams). This framework jointly assimilates near-surface CO2 and CH4 concentrations to produce dynamically consistent updates of emissions. By employing a unified Eulerian framework that simultaneously updates meteorology and 3-D tracer fields, the system is designed to maintain consistency between transport and concentrations and to reduce the risk that transport-related concentration errors are aliased into flux adjustments over the complex landscapes of the Korean Peninsula. To improve the simulation of turbulent GHG dispersion in the atmospheric boundary layer over complex terrain, we incorporate surface heterogeneity parameterizations (roughness sublayer and canopy height) into the model physics in the inversion system. The system assimilates high-precision continuous in situ observations from three World Meteorological Organization/Global Atmosphere Watch (WMO/GAW) stations to constrain CO2 and CH4 emissions. Prior flux estimates include anthropogenic emissions from the Emissions Database for Global Atmospheric Research (EDGAR v8.0), biogenic exchanges (the region-optimized Vegetation Photosynthesis and Respiration Model), biomass burning (Fire Inventory from the National Center for Atmospheric Research v2.5), and oceanic CO2 exchanges (SeaFlux). In a 2020 case study, the top-down estimates improve the agreement with ground observations, reducing root-mean-square errors by 30 %–60 % and lowering posterior mean bias to 1–2 ppm for CO2 and 20–30 ppb for CH4 at the high-precision surface observation sites. Independent aircraft profiles provide external evaluation and indicate residual CH4 discrepancies consistent with prior emissions and boundary condition uncertainties. Controlled observing-system simulation experiments show that, under prescribed perturbations, the system produces bounded and interpretable emission responses to transport-model, boundary-condition, and observation-error perturbations. They also indicate that recovery is strongest within station footprints and remains coverage-limited under the current three-station network, while a dense-network known-truth experiment highlights the value of expanded observational coverage for improving domain-wide emission constraints. Posterior adjustments suggest reduced CO2 emissions over the Seoul Metropolitan Area and parts of the western coastal region and increased CH4 emissions over inland agricultural source regions relative to the priors, highlighting priorities for follow-on evaluation of inventory components. Our posterior CO2 total (620 ± 45 Mt yr−1) is consistent with the Republic of Korea Biennial Transparency Report (ROK-BTR) estimate (624 Mt yr−1) at the national scale, while the posterior CH4 total (54.7 ± 5.2 Mt CO2eq yr−1) exceeds the ROK-BTR estimate (35.5 Mt CO2eq yr−1) by 19.2 Mt CO2eq yr−1, consistent with the larger structural uncertainty in CH4 source characterization and spatial allocation noted in previous studies.",
+      "doi": "10.5194/gmd-19-7325-2026",
+      "authors": [
+        "Doyoon Kwon",
+        "Bonhoon Koo",
+        "Jooyeop Lee",
+        "Jeongwon Kim",
+        "Jaehyung Ahn",
+        "﻿Jinkyu ﻿Hong",
+        "﻿Jinkyu ﻿Hong",
+        "Eri Saikawa",
+        "Alexander Avramov",
+        "Changsub Shim",
+        "Je-Woo Hong",
+        "Je-Woo Hong",
+        "Daegeun Shin",
+        "Shanlan Li",
+        "Sumin Kim",
+        "Sangwon Joo"
+      ],
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "openalex_id": "W4415656906",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4415656906",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 2/11 key interest terms (prescribed, burning)",
+      "tags": [
+        "Prescribed",
+        "Burning"
+      ],
+      "summary": "Abstract. Quantifying greenhouse gas (GHG) emissions over complex terrain remains a significant challenge for conventional inversion systems due to the high sensitivity of tracer transport to surface heterogeneity.",
+      "added": false
+    },
+    {
+      "title": "Power law scaling reveals systemic divergence in fire risk across South and Southeast Asian Countries",
+      "abstract": "Abstract Vegetation fires across South and Southeast Asia exhibit strong spatial and cross-country heterogeneity, yet their scaling behavior remains poorly quantified. This study utilizes scaling behavior as a framework to analyze VIIRS 375 m satellite-derived fire detections and fire radiative power from 2012 to 2024, in order to characterize how fire variability escalates across spatial scales and regions. The results suggest that most countries exhibit scaling exponents near or above two, consistent with classical Taylor’s Power Law (TPL), indicating nonlinear intensification of fire dynamics. However, pronounced regional divergences emerged. India displays an exceptionally steep scaling response, suggesting heightened sensitivity to rapid escalation, while Indonesia and the Philippines also showed strong amplification. In contrast, Pakistan, Sri Lanka, and Timor-Leste exhibited more gradual fire responses. Spatially explicit TPL mapping revealed coupled hotspots of highly variable fire occurrence and intensity across central and eastern India and mainland Southeast Asia, whereas peat-dominated regions in maritime Southeast Asia are characterized by exceptionally high variability in fire intensity. These results demonstrate that TPL effectively identifies fire regimes that are most susceptible to abrupt transitions and extreme impacts. The insights from TPL can inform risk-based fire management, guide emissions mitigation, and support proactive adaptation strategies.",
+      "doi": "10.1088/1748-9326/ae962a",
+      "authors": [
+        "Krishna Prasad Vadrevu"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7196963191",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196963191",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 2/11 key interest terms (eastern, occurrence)",
+      "tags": [
+        "Eastern",
+        "Occurrence"
+      ],
+      "summary": "Abstract Vegetation fires across South and Southeast Asia exhibit strong spatial and cross-country heterogeneity, yet their scaling behavior remains poorly quantified.",
+      "added": false
+    },
+    {
+      "title": "Modelling the influence of meteorological drivers on spectral fire severity: a case study in NW Spain",
+      "abstract": "Fire severity is a key indicator of post-fire ecological impacts. While previous studies have shown that fire-weather conditions can strongly influence fire severity, the direct influence of meteorological variables on severity has not yet been sufficiently explored. This study aims to quantify the influence of meteorological variables on vegetation and soil fire severity measured through spectral burn indices. First, we evaluated the correspondence between field-measured vegetation and soil fire severity (VBS, SBS) and several spectral indices: differenced Normalized Burn Ratio (dNBR), the relativized dNBR (RdNBR), the dNBR enhanced with the Enhanced Vegetation (dNBR-EVI) and the Blue Normalized Difference Vegetation (BNDVI). BNDVI showed the strongest and most consistent agreement with field severity for both VBS and SBS across shrublands and forested stands, while dNBR performed best only for VBS in forested areas. Then, to quantify the influence of meteorological variables on severity, we fitted Generalized Additive Models (GAM) and Random Forests (RF) based on meteorological predictors filtered through correlation and Variance Inflation Factor (VIF) analysis. The results showed that RF models generally provided comparatively lower prediction errors across fire severity descriptors. The strongest RF model predicted performance was obtained for dNBR standard deviation (R² = 0.67), while relatively high predictive performance was also observed for the 75th percentile of BNDVI (R² = 0.62). Variable importance and partial dependence analyses identified atmospheric moisture conditions (d2m), Initial Spread Index (ISI), vapor pressure deficit (VPD), surface soil moisture (Swvl1), and incoming solar radiation (ssrd) as the most influential meteorological predictors. These results advance the integration of atmospheric variables and fuel dryness into severity prediction and demonstrate the potential of spectral indices to improve assessment of post-fire impacts. However, this study focused exclusively on meteorological drivers of fire severity, the findings should be interpreted as evidence of the relevance of meteorological controls rather than as a comprehensive assessment of all drivers of fire severity.",
+      "doi": "10.1016/j.agrformet.2026.111405",
+      "authors": [
+        "A. Novo",
+        "Adrián Regos",
+        "João Gonçalves",
+        "Sergio Prats",
+        "Cristina Fernández"
+      ],
+      "year": 2026,
+      "journal": "Agricultural and Forest Meteorology",
+      "openalex_id": "W7196959455",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196959455",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Fire severity is a key indicator of post-fire ecological impacts. While previous studies have shown that fire-weather conditions can strongly influence fire severity, the direct influence of meteorological variables on severity has not yet been sufficiently explored.",
+      "added": false
+    },
+    {
+      "title": "Behaviorally informed modeling of daily urban water demand: integrating environmental drivers, mobility, and online search activity",
+      "abstract": "Abstract Forecasting urban water demand requires approaches that account for both environmental variability and human behavior. Traditional models rely primarily on climatic drivers and assume stable consumption patterns, overlooking the rapid behavioral shifts triggered by social events, consumers’ attention, and environmental stress. The objective of this study is to develop and evaluate a behaviorally informed, event-aware framework for short-term urban water demand forecasting that explicitly integrates physical and social drivers. The proposed framework utilizes data from weather records, Meta mobility distributions, Google Trends search activity, and demand records from the North Okanagan Valley in British Columbia, Canada. By coupling data-driven modeling with interpretable Machine Learning (ML), the framework identifies environmental thresholds and behavioral triggers influencing consumption. The results underscore that integrating digital behavior indicators with climate ones improves forecasting performance, increasing R 2 from 0.79 to 0.85, while behavioral indicators alone achieve an R 2 of 0.70, highlighting their independent explanatory power. These findings emphasize the value of integrating real-time behavioral proxies into operational forecasting models, supporting more adaptive and socially aware water resource management. The framework is demonstrated using a real-world case study and is designed to be transferable to other urban systems where human activity strongly influences short-term demand dynamics.",
+      "doi": "10.1007/s44285-026-00076-5",
+      "authors": [
+        "Mohamad Zeidan",
+        "Nicolás M. Peleato"
+      ],
+      "year": 2026,
+      "journal": "Urban Lifeline",
+      "openalex_id": "W7196929079",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196929079",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Forecasting urban water demand requires approaches that account for both environmental variability and human behavior. Traditional models rely primarily on climatic drivers and assume stable consumption patterns, overlooking the rapid behavioral shifts triggered by social events, consumers’ attention, and envi…",
+      "added": false
+    },
+    {
+      "title": "Fire as a productive and preventive technology: traditional knowledge and risk governance in Kalunga agropastoral mosaics",
+      "abstract": "Abstract Background Savanna landscapes have returned to the centre of socio-environmental debate as climate variability, agricultural expansion, and prohibition-oriented policies reshape how fire is understood and governed. Focusing on Brazil’s largest maroon (quilombola) territory, we examine how Kalunga communities mobilize fire as both a productive technology and a preventive tool within agropastoral socioecological mosaics of the Cerrado. Our mixed-methods approach combines semi-structured interviews, participant observation across dry and wet seasons, and analysis of historical climate series (1980–2024) for precipitation, temperature, relative humidity, and wind. Results We show that roças de toco (rainfed swidden fields) form dynamic patchworks that sustain soil fertility, conserve useful native species, fragment fuel continuity, and may contribute to limiting wildfire spread. Cropping and grazing are coordinated through locally defined burning windows, ash-mediated nutrient inputs, and community firebreaks, producing landscapes that support livelihoods while regulating wildfire risk. Local perceptions of delayed rainy seasons, prolonged droughts, and “hot winds” are consistent with instrumental climate trends, indicating increasingly dry and flammable dry seasons, thereby narrowing the safety margins for controlled burning. Simultaneously, external pressures—including shifts towards poorly adapted cattle breeds, expansion of planted pastures, enforcement of “zero-fire” policies, and land conflicts—are reconfiguring local practices and redistributing risks. We argue that, in Kalunga systems, fire operates as a technology of socioecological governance, sustaining production while contributing to wildfire-risk reduction through fuel fragmentation, low-intensity burning practices, and community-based monitoring. Conclusions We conclude that blanket fire prohibitions should be replaced by co-managed governance arrangements that formalize locally defined burning windows, maintain community firebreaks, and integrate Traditional Ecological Knowledge with technical criteria within adaptive and risk-aware fire and water governance frameworks in the Brazilian savanna.",
+      "doi": "10.1186/s42408-026-00522-3",
+      "authors": [
+        "Sílvia Laine Borges",
+        "Ana Carla Santos",
+        "Patrícia Santos Silva",
+        "Isabel Belloni Schmidt"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7172441621",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7172441621",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 2/11 key interest terms (burning, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Abstract Background Savanna landscapes have returned to the centre of socio-environmental debate as climate variability, agricultural expansion, and prohibition-oriented policies reshape how fire is understood and governed.",
+      "added": false
+    },
+    {
+      "title": "Characterizing emissions, chemistry, and health impacts of aged wildfire smoke in a western US city",
+      "abstract": "Abstract. We report hourly surface observations of PM2.5, CO, NOx, O3, and 75 speciated VOCs in Missoula, Montana, during a strong smoke event in 2020. This study tests our current understanding of wildfire emissions, chemistry, and health effects as implemented in the GEOS-Chem chemical transport model. Three-or-more-day-old smoke transported from California and the Pacific Northwest increased CO, PM2.5, and total measured VOCs by factors of 2–8, with hourly maxima of 800 ppb, 120 µg m−3, and 85 ppb, respectively. In contrast, NOx levels were not elevated compared to the urban background. O3 showed a non-monotonic response to wildfire smoke: MDA8 O3 increased under light smoke but flattened or declined when PM2.5 exceeded ∼ 30–40 µg m−3, a feature that GEOS-Chem failed to reproduce. A 2020-style wildfire season recurring annually would yield an excess lifetime cancer risk of 100-in-1 million or approximately 7 times the non-smoke baseline. The chronic non-cancer hazard index (HI) would reach 3.0, indicating appreciable potential for chronic non-cancer effects. About 90 % of cancer risks are from PM2.5 whereas non-cancer risks are dominated by formaldehyde, benzene, acrolein, and acetaldehyde. GEOS-Chem captured major smoke intrusions but underestimated CO, PM2.5, and VOCs by 30 %–90 %. These model biases propagate to health metrics, with GEOS-Chem underestimating smoke-attributable cancer risk by ∼ 40 % and chronic HI by ∼ 10 times. We attribute the model errors to underpredicted fire emissions and unrepresented VOC chemistry, which together led to an overestimation of OH and insufficient secondary production.",
+      "doi": "10.5194/acp-26-11047-2026",
+      "authors": [
+        "Lixu Jin",
+        "Lu Tan",
+        "Damien Ketcherside",
+        "Vanessa Selimovic",
+        "Keri Nauman",
+        "R. J. Yokelson",
+        "Lu Hu"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7196924616",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196924616",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract. We report hourly surface observations of PM2.5, CO, NOx, O3, and 75 speciated VOCs in Missoula, Montana, during a strong smoke event in 2020. This study tests our current understanding of wildfire emissions, chemistry, and health effects as implemented in the GEOS-Chem chemical transport model.",
+      "added": false
+    },
+    {
+      "title": "Ecoregion-Specific Variation in Predictor Importance for Wildfire Presence within and outside the Wildland–Urban Interface in Alaska",
+      "abstract": "Abstract Wildfire risk in Alaska is increasing under warming and drying conditions and continued expansion of the wildland–urban interface (WUI), yet statewide evidence remains limited on how climate, fuels, terrain, and human-related landscape context jointly structure wildfire presence across regions. Understanding this spatial heterogeneity is important for identifying management priorities that are appropriate to different ecoregions and WUI settings. We fitted Maximum Entropy (MaxEnt) models to fire-perimeter observations from 1991–2020 on a 30-arc-second (~800 m) grid, stratified by four Level I ecoregions (Tundra, Taiga, Northwestern Forested Mountains, Marine West Coast Forest) and by WUI status defined using community zones that combine U.S. Census populated-place cores with associated WUI polygons. We compared full models including biophysical and anthropogenic predictors with biophysical-only models to evaluate the additional explanatory information provided by human-related variables. Full models generally outperformed biophysical-only models, but performance gains were modest, with mean ΔAUC ranging from −0.001 to 0.011 and mean ΔTSS from −0.002 to 0.021. Climate variables accounted for the largest share of model importance across most ecoregion-WUI combinations, whereas fuels were the leading predictor group in the Taiga WUI. Anthropogenic predictors generally showed greater importance within the WUI than outside it, although their independent contribution to predictive discrimination varied across ecoregions. Partial dependence relationships showed that modeled wildfire presence in WUI settings was generally higher in lower suppression-priority categories and decreased with increasing Global Human Modification, with weaker or inconsistent patterns outside the WUI. These findings suggest that the management relevance of anthropogenic and biophysical predictors varies across ecoregion–WUI combinations in Alaska. Rather than supporting a uniform statewide interpretation of wildfire presence, the results highlight ecoregion-specific predictor-importance profiles that can inform where climate adaptation, fuel management, access planning, and community-focused mitigation may be most relevant.",
+      "doi": "10.1088/2515-7620/ae967f",
+      "authors": [
+        "Xiaoyu Liang",
+        "Desheng Liu"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7196927092",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196927092",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfire risk in Alaska is increasing under warming and drying conditions and continued expansion of the wildland–urban interface (WUI), yet statewide evidence remains limited on how climate, fuels, terrain, and human-related landscape context jointly structure wildfire presence across regions.",
+      "added": false
+    },
+    {
+      "title": "From Detection to Maps: A Review of Automated Urban Tree Mapping Using UAV and High-Resolution Satellite Data",
+      "abstract": "Urban tree mapping is necessary in environmental sustainability and climate change mitigation, and it depends heavily on the individual tree recognition and canopy segmentation to analyze city green cover. This systematic review discusses recent developments in the 2014–2026 mapping of these trees with the use of UAVs and high-resolution satellite imagery. Our preliminary selection of 4148 records reduced to 101 eligible publications following a systematic screening and synthesis of the records, assessed the efficiency of deep learning models such as Convolutional Neural Networks and Vision Transformers in processing various source images. We also compare object detection and semantic segmentation to see which one is more competent to deal with typical urban challenges, including overlapped canopies and building shadows. According to the reviewed studies, UAV-based models generally achieve higher spatial accuracy than satellite-based approaches for individual tree detection and crown delineation, with reported average Intersection over Union (IoU) values of approximately 70–75%, whereas satellite imagery provides superior spatial coverage for large-scale urban forest monitoring. Lastly, we present a research roadmap to address the existing weaknesses such as geographic bias, which propels the research direction towards multimodal data fusion and Foundation Models to sustain consistent, large-scale urban forest monitoring.",
+      "doi": "10.3390/jimaging12080358",
+      "authors": [
+        "Syndar SATBAYEV",
+        "Didar Yedilkhan",
+        "Aruzhan Shoman",
+        "Azamat Serek",
+        "Mohammad Shadab Khan"
+      ],
+      "year": 2026,
+      "journal": "Journal of Imaging",
+      "openalex_id": "W7196952649",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196952649",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Urban tree mapping is necessary in environmental sustainability and climate change mitigation, and it depends heavily on the individual tree recognition and canopy segmentation to analyze city green cover.",
+      "added": false
+    },
+    {
+      "title": "OCCURRENCES OF THREE SPECIES OF GNATCATCHERS IN THE SAN GORGONIO PASS, CALIFORNIA",
+      "abstract": "The San Gorgonio Pass is an important zone of interchange between desert and coastal flora and fauna in southern California. We report multiple recent observations of California Gnatcatchers (Polioptila californica) within the pass, apparently persisting since their first documentation in 1908. While the Blue-gray Gnatcatcher (P. caerulea) has been documented here for more than a century, the occurrence of the California Gnatcatcher in this area is not widely known and not included in recent distribution maps for this threatened species. We also report the expansion of the Black-tailed Gnatcatcher (P. melanura) into the pass in recent decades, forming one of the few zones of overlap between these two species. With its elevational gradients, vegetation mosaics, and shifting species ranges the San Gorgonio Pass serves as a potential refugium from various anthropogenic stressors including climate change. The pass is currently subject to piecemeal development and lacks any significant conservation areas. It deserves more comprehensive conservation planning attention.",
+      "doi": "10.21199/wb57.3.2",
+      "authors": [
+        "Kevin B. Clark",
+        "Lori Hargrove",
+        "STEVEN M. RITT",
+        "STEPHEN J. MYERS",
+        "Philip Unitt"
+      ],
+      "year": 2026,
+      "journal": "Western Birds",
+      "openalex_id": "W7196948329",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196948329",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "The San Gorgonio Pass is an important zone of interchange between desert and coastal flora and fauna in southern California. We report multiple recent observations of California Gnatcatchers (Polioptila californica) within the pass, apparently persisting since their first documentation in 1908.",
+      "added": false
+    },
+    {
+      "title": "An interdisciplinary agenda to assess risks of climate extremes to nature’s contributions to people",
+      "abstract": "Abstract Weather and climate extremes are transforming ecosystems in ways that threaten society through the disruption of nature’s contributions to people (NCP) from food and water security to disaster mitigation and mental well-being. While scientists and policy makers increasingly recognize the need to account for nature-related losses from climate-driven weather extremes, major research gaps remain, particularly in how climate-altered disturbance regimes will impact NCP and associated human well-being. Addressing this gap is critical for climate mitigation and adaptation planning, because the loss of NCP amplifies social-ecological vulnerability and exacerbates climate risks. However, this cross-systems dynamic remains underrepresented in most climate risk models. Climate risk modeling offers a probabilistic view of evolving hazard regimes under climate change, while ecological research provides mechanistic insight into ecosystem responses to disturbance. We argue that bridging these fields is essential to increasing societal resilience to climate change and propose an interdisciplinary research agenda to integrate social-ecological dynamics with a climate risk perspective. Advancing this agenda is critical to project, anticipate, and plan for ecosystem-related impacts of weather and climate extremes on society.",
+      "doi": "10.1088/2752-5295/ae861e",
+      "authors": [
+        "Sarah Hülsen",
+        "Cibele Hummel do Amaral",
+        "David N. Bresch",
+        "Meghan T. Hayden",
+        "Chahan M. Kropf",
+        "Anna LoPresti",
+        "Kyle Manley",
+        "Robert I. McDonald",
+        "Tyler L. McIntosh",
+        "Keiko Nomura",
+        "Timothy Ohlert",
+        "Katherine Siegel",
+        "Carmen B. Steinmann",
+        "Laura E. Dee"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Climate",
+      "openalex_id": "W7196991072",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196991072",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Weather and climate extremes are transforming ecosystems in ways that threaten society through the disruption of nature’s contributions to people (NCP) from food and water security to disaster mitigation and mental well-being.",
+      "added": false
+    },
+    {
+      "title": "Wicked problems in practice: Responding to ecological transformation in wilderness",
+      "abstract": "Congressionally designated wilderness offers the highest level of land protection in the USA, comparable to category 1b wilderness as defined by the International Union for Conservation of Nature, yet wilderness areas face impacts of climate change. Researchers and managers increasingly recognize the immense challenge of stewarding wilderness in a changing climate. Although responding to climate change is considered a wicked problem, this framing has not been applied to wilderness contexts. We move theory into practice by using wicked problem framing and four illustrative cases to explore how the resist-accept-direct (RAD) framework can help untangle the wicked problem of addressing unprecedented ecological transformation in wilderness. The RAD framework clarifies a range of response options including resisting transformation, accepting it, or directing it toward preferred new conditions. As climate change continues to challenge wilderness managers, the RAD framework can help assess trade-offs and preserve wilderness character into the twenty-first century.",
+      "doi": "10.1007/s13280-026-02446-3",
+      "authors": [
+        "Jaclyn Fox Rushing",
+        "Kira Hefty",
+        "Teresa N. Hollingsworth",
+        "Amanda E. Cravens",
+        "Christopher A. Armatas",
+        "Clare Boerigter",
+        "Kellie J. Carim",
+        "Shelley D. Crausbay",
+        "Olga Helmy",
+        "David J. Lawrence",
+        "Lauren Redmore",
+        "Gregor W. Schuurman",
+        "Eric J. Taylor",
+        "Jennifer Nifer L. Wilkening",
+        "Katherine A. Zeller",
+        "Sean A. Parks"
+      ],
+      "year": 2026,
+      "journal": "AMBIO",
+      "openalex_id": "W7196977954",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196977954",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Congressionally designated wilderness offers the highest level of land protection in the USA, comparable to category 1b wilderness as defined by the International Union for Conservation of Nature, yet wilderness areas face impacts of climate change.",
+      "added": false
+    },
+    {
+      "title": "Biofortification with Selenium: Implications for the Resilience and Nutritional Value of Plants Under Changing Climate Conditions",
+      "abstract": "Selenium (Se) is an essential trace element in animals and humans, usually acquired via nutrition and thus often dependent on the Se content of the soil from where the food crops originate. The uneven distribution of Se in soils may therefore result in regional Se deficiencies, often further exacerbated due to climate change and its subsequent effects on Se speciation (i.e., the chemical forms in which Se occurs) and the element’s mobility. In recent years, biofortification has emerged as a promising approach to address this issue. This review provides an overview of how climate-driven changes in Se cycling influence soil Se availability and discusses the resulting implications for plant resilience, crop biofortification and dietary Se supply. Although plants do not require Se per se, an increased Se content of plants may improve their yields, antioxidant defences, and tolerance to various—climate (change)-related—stresses such as drought, salinity, and oxidative stress at low concentrations. So far, selenite (SeO32−) and selenate (SeO42−) are the most commonly employed Se species in agriculture, often via foliar and soil applications, and due to their excellent solubility in water are subject to leaching or other weather-related limitations. Alternative Se compounds, such as Se nanoparticles (SeNPs) and selenium sulfide (SeS2) present promising approaches that may enable a more controlled Se release in soils. Nonetheless, their long-term agronomic performance and environmental behaviour require further investigations.",
+      "doi": "10.3390/sci8080196",
+      "authors": [
+        "Kevin Böhm",
+        "Shahrzad Safinazlou",
+        "Jean‐Philippe Reichheld",
+        "Muhammad Jawad Nasim",
+        "Claus Jacob"
+      ],
+      "year": 2026,
+      "journal": "Sci",
+      "openalex_id": "W7196927707",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196927707",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Selenium (Se) is an essential trace element in animals and humans, usually acquired via nutrition and thus often dependent on the Se content of the soil from where the food crops originate.",
+      "added": false
+    },
+    {
+      "title": "Embracing wicked problems thinking will advance conservation science and practice",
+      "abstract": "Wicked problems thinking has been used to describe problems related to food security and health care, but it is often underused or misused to describe and investigate conservation problems. In this paper, we define wicked conservation problems as conservation problems that involve the following: (1) non-human, more than human, and human actors; (2) conflicting values among actors; (3) uncertainty that is non-reducible; (4) an extended timeline with no set end; (5) a need for satisficing decisions agreed among most actors; (6) inability to isolate the nature of the problem; (7) no test of success; and (8) every wicked conservation problem can be considered a symptom of another problem. We explore three case studies of conservation science problems, two of which have not been described previously in the literature as wicked problems. Using our definition of a wicked conservation problem, we provide evidence that each case study meets the criteria of a wicked conservation problem. To better support conservation scientists in studying wicked conservation problems, we provide several recommendations to facilitate more effective research: (1) where appropriate, accept a conservation problem as a wicked conservation problem; (2) take collective action; (3) set and manage expectations; and (4) reassess the wicked conservation problem as it evolves. We hope that this paper will be used by conservation scientists to conduct and facilitate more context-appropriate research on wicked conservation problems.",
+      "doi": "10.1016/j.biocon.2026.112037",
+      "authors": [
+        "Raegan Davis",
+        "Tamara Donnelly",
+        "Brenna Hynes",
+        "Karolyn McGovern",
+        "Douglas Strick",
+        "Madison Empey",
+        "Steven J. Cooke",
+        "Andrew Howarth"
+      ],
+      "year": 2026,
+      "journal": "Biological Conservation",
+      "openalex_id": "W7196963287",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196963287",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Wicked problems thinking has been used to describe problems related to food security and health care, but it is often underused or misused to describe and investigate conservation problems.",
+      "added": false
+    },
+    {
+      "title": "Exploring indoor environmental quality intervention strategies for enhancing building occupants’ comfort: a systematic review",
+      "abstract": "Introduction The need to provide buildings with adequate Indoor Environmental Quality (IEQ) has increasingly emerged as a global concern, driven by growing occupant expectations for comfortable and healthy indoor environments. Nowadays, most buildings are often faced with IEQ-related challenges that contribute to occupant discomfort. Therefore, IEQ intervention strategies can be targeted directly to enhance the comfort and wellbeing of building occupants. Methods Following the PRISMA research flow, this study examined 47 peer-reviewed publications retrieved from Scopus and Web of Science databases published between 2016 and 2026. Results The findings revealed that indoor environmental interventions are predominantly focused on addressing thermal comfort and indoor air quality across different building typologies. Technical intervention strategies such as HVAC optimisation, ventilation improvement, filtration systems, building retrofitting and IoT-based monitoring were identified as the most prevalent interventions addressing IEQ conditions in buildings. The findings revealed a growing development in the adoption of sustainable and nature-based intervention strategies in improving indoor environmental conditions. Despite this trend, integration across all four IEQ domains remains limited; visual and acoustic comfort are consistently underrepresented in the intervention studies. This study identifies cross-cutting patterns in intervention deployment and reveals context-specific differences across building typologies. Discussion In doing so, it presents a comprehensive conceptual framework that integrates technical, sustainable, behavioural, and policy/regulatory strategies to support evidence-based deployment of IEQ interventions for enhanced building occupants’ comfort.",
+      "doi": "10.3389/fbuil.2026.1844099",
+      "authors": [
+        "Emmanuel Chongcicimmi Ibrahim",
+        "Amusan Lekan",
+        "Andrew Mhya Stanley"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Built Environment",
+      "openalex_id": "W7196927721",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196927721",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Introduction The need to provide buildings with adequate Indoor Environmental Quality (IEQ) has increasingly emerged as a global concern, driven by growing occupant expectations for comfortable and healthy indoor environments.",
+      "added": false
+    },
+    {
+      "title": "Source Apportionment and Human Health Risk Assessment of PAHs and PCBs in Greenhouse Soil Systems",
+      "abstract": "Abstract Intensive greenhouse farming creates distinct enclosed microclimates that can exacerbate the accumulation of persistent organic pollutants (POPs) in agricultural soils. The primary objectives of this study were to quantify 16 PAHs and 12 PCBs in tomato-cultivated greenhouse soils in Antalya, Turkiye, to apportion their emission sources, and to explicitly evaluate the influence of greenhouse cover materials (glass vs. polyethylene plastic) and seasonal variations on pollutant dynamics. Furthermore, the study aimed to conduct a multi-pathway occupational health risk assessment specifically tailored for greenhouse workers. A total of 100 soil samples were collected across two campaigns (autumn and winter) from 50 greenhouses and 5 reference sites. Following GC/MS quantification, source apportionment was performed using EPA PMF 5.0, and human health risks were estimated via USEPA deterministic models. Results indicated that total PAH concentrations were generally higher in glass greenhouses due to limited UV-driven photodegradation, whereas PCB levels showed stronger inter-compound correlations under plastic covers governed by distinct ventilation practices. PMF modeling identified five PAH sources, dominated by diesel combustion (33%), and three PCB sources, primarily driven by atmospheric transport and commercial mixtures (60%). Occupational health assessments revealed that the Incremental Lifetime Cancer Risk (ILCR) for PAHs (6.45 x 10-5) and the non-carcinogenic Hazard Index (HI) for PCBs (1.30 x 10-3) remained within acceptable regulatory safety limits. However, dermal contact emerged as the overwhelmingly dominant exposure pathway (accounting for ~75% of the total risk), highlighting the critical need for targeted occupational hygiene practices in enclosed agricultural environments.",
+      "doi": "10.1088/2515-7620/ae9680",
+      "authors": [
+        "Güray Doğan",
+        "Ahmet Mustafa Tepe",
+        "Ebru N. Dokumacı",
+        "Bihter Olgun"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7197015298",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7197015298",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Intensive greenhouse farming creates distinct enclosed microclimates that can exacerbate the accumulation of persistent organic pollutants (POPs) in agricultural soils.",
+      "added": false
+    },
+    {
+      "title": "Enhancing resilience through recovery modeling in multi-hazard contexts",
+      "abstract": "<title>Abstract</title> Natural hazards striking in rapid succession impose compound disruptions on communities, extending recovery timelines and challenging resilience planning. Current post‐disaster assessments often treat events in isolation, overlooking how the timing and intensity of secondary hazards influence infrastructure restoration. Here, we develop a probabilistic framework that integrates hazard sequencing, time between hazard events, and relative intensities to quantify their combined effects on the recovery of building structures. Using simulations of representative building repairs under varied earthquake–flood scenarios, we identify key delay factors, such as financing constraints, that can dominate overall recovery durations even when secondary events occur months later. Our results demonstrate that accounting for multi‐hazard interactions yields exacerbated restoration times. This can inform adaptive policy measures that support efficient resource allocation. In this work, we show that incorporating sequence‐dependent recovery dynamics can aid decision-making for enhancing post‐disaster community resilience.",
+      "doi": "10.1038/s44172-026-00724-2",
+      "authors": [
+        "Pouria Kourehpaz",
+        "Carmine Galasso",
+        "Carlos Molina Hutt"
+      ],
+      "year": 2026,
+      "journal": "Communications Engineering",
+      "openalex_id": "W4412996163",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4412996163",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "<title>Abstract</title> Natural hazards striking in rapid succession impose compound disruptions on communities, extending recovery timelines and challenging resilience planning.",
+      "added": false
+    },
+    {
+      "title": "An evaluation of farmworkers’ protection from pesticides, heatwaves, and fine particulate matter (PM <sub>2.5</sub> ) in California",
+      "abstract": "Abstract California employs hundreds of thousands of farmworkers who are disproportionally exposed to pesticides, air pollution, and heat. Workplace protections for farmworkers can vary across the state by differences in how employers implement workplace standards and by level of farmworker awareness. This study aims to understand farmworkers’ use and availability to personal protective equipment (PPE) and heat safety precautions, and their perception of air quality in relation to environmental exposures.&amp;#xD;&amp;#xD;Data from 1,454 survey participants from the UC Merced Farmworker Health Study were analyzed to understand farmworkers’ use and access to PPE and safety precautions and their perceptions of air pollution exposure. We considered three environmental exposures: pesticides, heatwaves, and fine particulate matter (PM 2.5 ), and assigned exposure levels based on farmworkers’ residential ZIP code. Logistic regression was conducted to investigate whether use or lack of PPE, heat safety precautions, and air quality perception differed by various environmental exposures. The analysis was adjusted for various covariates. &amp;#xD;&amp;#xD;Our study found that farmworkers were more likely to lack most of the essential PPE in high pesticide-use areas. Farmworkers in high heatwave areas were less likely to have heat precautions provided by their employers. Farmworkers in high PM 2.5 areas were able to recognize poor air quality when they were exposed to higher PM 2.5 levels but were also more likely to lack availability to masks and respirators. Additionally, farmworkers in heatwave areas were less likely to use certain PPE, which may help them avoid heat stress but could increase their exposure to concurrent pesticide or PM 2.5 exposure.&amp;#xD;&amp;#xD;It is necessary to continuously ensure that farmworkers can access different types of PPE and safety precautions to protect against occupational exposure to air pollution, pesticides, and heat. Our study underscores the importance of maintaining and strengthening workplace monitoring to ensure a safe work environment for farmworkers.",
+      "doi": "10.1088/2752-5309/ae9632",
+      "authors": [
+        "Alanna Bares",
+        "Keita Ebisu",
+        "A.M. Syed",
+        "Nimrat K. Sandhu",
+        "Ricardo Cisneros",
+        "Ana Padilla",
+        "Edward Flores",
+        "Paul Brown"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Health",
+      "openalex_id": "W7196958570",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196958570",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract California employs hundreds of thousands of farmworkers who are disproportionally exposed to pesticides, air pollution, and heat. Workplace protections for farmworkers can vary across the state by differences in how employers implement workplace standards and by level of farmworker awareness.",
+      "added": false
+    }
+  ]
+}
