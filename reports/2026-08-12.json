@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-12",
+  "statistics": {
+    "fetched": 74,
+    "duplicates_removed": 67,
+    "evaluated": 7,
+    "added": 1,
+    "ignored": 6,
+    "average_score": 2.14
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Is Wildfire Planning Evolving to Support Communities? Taking Stock of 20 years of Community Wildfire Protection Plans in the state of Colorado, United States",
+      "abstract": "Over the past two decades, wildfire policies at the national level have sought to catalyze locally led wildfire mitigation and forest management, while promoting collaboration across sectors. In the United States, Community Wildfire Protection Plans (CWPPs) have become one of the primary tools for local wildfire mitigation planning. CWPPs continue to be developed and funded, yet little is known about how CWPPs have evolved in response to changing wildfire vulnerability and advancing knowledge about wildfire risk. We investigated trends in the scope, participation, and mitigation content included in these plans through a review of plans published between 2004 and 2023 in the state of Colorado. Our review finds a notable pattern of stability: scope, participation, and mitigation priorities remain largely consistent over two decades of CWPP development. We found that fewer CWPPs are being developed, and recent plans primarily consist ofupdates to previous plans, trends which seem mainly driven by updated standards and funding requirements. A consistent set of institutional actors have been involved in CWPPs over time, with few trends indicating an expansion in the diversity of plan participants. We also observed a strong focus on fuels reduction, but an increased percentage of plans devoted attention to community preparedness, data collection/monitoring, and policies/standards, although the proportion of actions dedicated to each area remained consistent over time. Drawing on existing adaptive governance and wildfire planning literatures, we speculate on the lack of changes observed over time and reasons why these plans may not have evolved but still provide value to communities under certain conditions. This research seeks to enhance our knowledge of facilitative and inhibiting factors associated with bottom-up collaborative planning.",
+      "doi": "10.1007/s42532-026-00260-5",
+      "authors": [
+        "Jennifer Brousseau",
+        "Karissa Courtney",
+        "Maya Daurio",
+        "Matthew Hamilton",
+        "Antony S. Cheng",
+        "Cody Evers",
+        "A. Paige Fischer",
+        "Harrison Fried",
+        "Aidan Lyde",
+        "Emily Palsa",
+        "Max Nielsen-Pincus",
+        "Hallie Stelzle",
+        "Eric Toman",
+        "Jonathan Salerno"
+      ],
+      "year": 2026,
+      "journal": "Socio-Ecological Practice Research",
+      "openalex_id": "W7202099560",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202099560",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 4/6 key interest terms (united states, united, states, wildfire)",
+      "tags": [
+        "United States",
+        "United",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Over the past two decades, wildfire policies at the national level have sought to catalyze locally led wildfire mitigation and forest management, while promoting collaboration across sectors.",
+      "added": true
+    },
+    {
+      "title": "Transcriptomic signature comparisons identify conserved key events and respiratory disease signatures most similar to wildfire-relevant exposure",
+      "abstract": "Wildfire events pose increasing threats to public health, especially concerning the respiratory system. The chemistries of emission mixtures vary widely based on factors including fuel source, burn temperature, and atmospheric and photochemical processes. Because of these varying exposure conditions, differing biological responses may occur, making it difficult to identify common mediators of wildfire smoke-induced disease with which to base health and risk assessments upon. To address this difficulty, this study set out to identify genes and modes of action highly shared across biological responses to wildfire-relevant exposures and respiratory disease outcomes. Specifically, we mined the Molecular Signatures Database and Computational Toxicogenomics Database for human consensus gene expression signatures of respiratory diseases and infections putatively linked to wildfire smoke exposures. These gene signatures were then compared to transcriptomic signatures measured in the lung of mice exposed to condensates derived from variable controlled biomass burn conditions. Data cleaning followed by similarity scoring, clustering, data reduction, and pathway enrichment methods were used to identify patterns amongst exposure and disease profiles. Fifty-three genes were identified as highly shared across signatures of both exposure and disease. Jaccard-based similarity scoring analyses of these top shared genes revealed asthma as the respiratory disease most similar across the majority of biomass conditions under evaluation. Pathway enrichment of these top shared genes identified interleukin signaling, oxidative stress response, and estrogen signaling as mechanisms of action likely linking exposure-to-disease outcomes across these variable smoke exposure conditions. Altogether, these results highlight consistent mediators to use in future health risk-based evaluations of wildfire smoke emissions.",
+      "doi": "10.1016/j.cbi.2026.112294",
+      "authors": [
+        "Sarah Miller",
+        "Jessie R. Chappel",
+        "Elise Hickman",
+        "Lauren E. Koval",
+        "Mark Heise",
+        "Meghan E. Rebuli",
+        "Ilona Jaspers",
+        "Cynthia Rider",
+        "David M. Reif",
+        "Julia E. Rager"
+      ],
+      "year": 2026,
+      "journal": "Chemico-Biological Interactions",
+      "openalex_id": "W7196922520",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7196922520",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 1/6 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Wildfire events pose increasing threats to public health, especially concerning the respiratory system. The chemistries of emission mixtures vary widely based on factors including fuel source, burn temperature, and atmospheric and photochemical processes.",
+      "added": false
+    },
+    {
+      "title": "The Northern Ethiopia War and the persistence of internal displacement: subnational evidence from a difference-in-differences analysis",
+      "abstract": "Ethiopia faces one of Africa’s most severe internal displacement crises, with over 3.7 million people displaced as of 2023. While the Northern Ethiopia War is widely recognized as the principal driver of displacement in affected regions, whether those regions experienced higher displacement than unaffected regions, and whether this gap persisted after the ceasefire, remains underexamined. This study estimates the effect of war exposure on displacement from April 2020 to March 2025 using a difference-in-differences design, with the November 2022 Pretoria Agreement as the intervention point. The primary specification compares two war-affected regions (Tigray and Amhara) to eleven control regions, excluding Afar. An alternative specification includes Afar as a treated unit. Displacement data come from IOM’s Displacement Tracking Matrix and conflict data from ACLED. Under the primary specification, conflict-attributed displacement was approximately 640% higher than in control regions during active hostilities and 495% higher after the agreement, with Wald tests confirming the two effects are statistically indistinguishable. This suggests that the cessation of large-scale hostilities alone is insufficient to facilitate return, possibly due to the exclusionary territorial arrangements under Ethiopia’s ethnic federal system. Consequently, recovery programs focused solely on conflict cessation may underestimate the duration and resources required for sustainable return.",
+      "doi": "10.1080/10242694.2026.2714097",
+      "authors": [
+        "Seyoum Teffera Mengesha"
+      ],
+      "year": 2026,
+      "journal": "Defence and Peace Economics",
+      "openalex_id": "W7202127186",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202127186",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/6 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Ethiopia faces one of Africa’s most severe internal displacement crises, with over 3.7 million people displaced as of 2023. While the Northern Ethiopia War is widely recognized as the principal driver of displacement in affected regions, whether those regions experienced higher displacement than unaffected regions, and…",
+      "added": false
+    },
+    {
+      "title": "AI techniques for feature extraction, simplification and aggregation geospatial data",
+      "abstract": "This study proposes an Artificial Intelligence (AI) application to cartographic workflow with the purpose of environmental mapping. The Random Forest (RF) framework of Machine Learning (ML) was applied to satellite image analysis for detection and robust attribution of biodiversity changes in Africa. Changes in land cover types were investigated on Landsat using comparison of several algorithms integrated in data processing and cartographic scripts using Geographic Resources Analysis Support System (GRASS) Geographic Information System (GIS). The analysis of time series highlights biodiversity changes in north Namibian landscapes in relation to presumed impacts of multiple potential environmental drivers: climate-related factors in desert setting (high fluctuations in temperature, salt crust in the saline lake and low precipitation) and anthropogenic forces (land use, abandoned areas and agriculture). The computational results demonstrated following outcomes. According to the calculated number of pixels corresponding to the cells in the raster images covering the Etosha landscapes, the land use types demonstrated the following changes: 1. Mosaic vegetation and cropland (8.42%), Aquatic or regularly flooded vegetation decreased on 13,59% due to seasonal fluctuations, areas of artificial surfaces declined insignificantly (2.40%), Mixed broadleaved deciduous forests experienced slight decreasd (1.18%), and the class of open grasslands increased to 5.32 %. Moreover, rainfed croplands demonstrated stable development with 4.58% of changes, while salt hardpans changed significantly to 12, 73%. Finally, water bodies including Etosha basin decreased significantly due to the seasonal effects (21.73%), Herbaceous vegetation, shrubland and thickets developed relatively stable with minor changes not exceeding 3.25 %, and sparse savannah grasslands occupied similar areas with fluctuations not exceeding 4,72%. The accuracy of image classification was evaluated by kappa statistics and chi-square against the ground truth data obtained from the land cover and soil data inventory. The original data with Land Use Land Cover (LULC) thematic classes were reclassified into 10 categories. The results show variations in land cover change due to arid desert climate in northern Namibia. This provides evidence of biodiversity changes in Africa detected using AI-driven data analysis using multispectral satellite images.",
+      "doi": "10.35208/ert.1685945",
+      "authors": [
+        "Polina Lemenkova"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research and Technology",
+      "openalex_id": "W7202039758",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202039758",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/6 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "This study proposes an Artificial Intelligence (AI) application to cartographic workflow with the purpose of environmental mapping. The Random Forest (RF) framework of Machine Learning (ML) was applied to satellite image analysis for detection and robust attribution of biodiversity changes in Africa.",
+      "added": false
+    },
+    {
+      "title": "CLIMATE CHANGE AND LIVELIHOOD VULNERABILITY: ANALYZING RISKS AMONG ODISHA’S PARTICULARLY VULNERABLE TRIBAL GROUPS (PVTGS)",
+      "abstract": "<ns5:p>Background Climate change has become a major challenge for marginalized communities, particularly the 13 Particularly Vulnerable Tribal Groups (PVTGs) of Odisha, whose livelihoods depend heavily on forests and natural resources. Traditional activities such as shifting cultivation, collection of minor forest produce, hunting, handicrafts, and wage labour are increasingly threatened by cyclones, floods, droughts, and erratic rainfall. Despite growing concern over climate change, limited research has examined its specific impact on the livelihoods and resilience of Odisha’s PVTGs. Methods This study adopts a doctrinal method supported by secondary data analysis. It draws upon an extensive review of academic literature, government reports, policy documents, and published case studies to examine the relationship between climate variability and the livelihoods of Odisha’s PVTGs. The analysis focuses on how climate-induced environmental changes interact with structural and institutional challenges, including geographical isolation, inadequate infrastructure, limited market access, and insufficient institutional support. Results Many interesting findings indicate that climate change has significantly disrupted the traditional livelihood practices of Odisha’s PVTGs by reducing agricultural productivity, availability of forest resources, and increasing livelihood insecurity. Climate-induced risks have compelled many community members to shift from traditional occupations towards daily wage labour and other informal employment opportunities. This transition not only increases economic vulnerability but also threatens the preservation of indigenous knowledge systems, cultural identity, and traditional ecological practices. Conclusion Climate change threatens the livelihoods and cultural sustainability of Odisha’s PVTGs. Building resilience requires participatory, culturally sensitive approaches that involve indigenous communities in decision-making. Policies should promote livelihood diversification, strengthen institutional support, and recognize traditional ecological knowledge to achieve sustainable development while preserving the socio-cultural identity of these vulnerable communities. This article will pave a way towards future studies.</ns5:p>",
+      "doi": "10.12688/f1000research.186186.1",
+      "authors": [
+        "Srutee Badu",
+        "Shreya Chatterjee",
+        "Mrinalini Banerjee"
+      ],
+      "year": 2026,
+      "journal": "F1000Research",
+      "openalex_id": "W7202059014",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202059014",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "<ns5:p>Background Climate change has become a major challenge for marginalized communities, particularly the 13 Particularly Vulnerable Tribal Groups (PVTGs) of Odisha, whose livelihoods depend heavily on forests and natural resources.",
+      "added": false
+    },
+    {
+      "title": "Comparing crop evapotranspiration estimation methods to evaluate water-saving potential of alternative land uses in the San Joaquin Valley, California",
+      "abstract": "This study explores strategies for water conservation by repurposing agricultural land in California’s San Joaquin Valley (SJV) for alternative uses like habitat restoration, groundwater recharge, and solar energy development. Water availability in the region has become increasingly constrained due to climate variability and regulatory restrictions under the Sustainable Groundwater Management Act (SGMA), which mandates groundwater sustainability through reduced extraction and enhanced recharge. Climate change and expansion of water intensive high-value crops are further increasing agricultural water demand and exacerbating water scarcity. One proposed water demand management strategy is land fallowing, but leaving land idle can have significant financial and environmental trade-offs. Repurposing fallowed land for alternative uses can address these trade-offs and deliver benefits beyond water savings. Using the VIC-CropSyst, an agrohydrology model, this study assesses water savings across various land-use and climate change scenarios. Results show annual water savings between 370 and 3,740 million m 3 , requiring the fallowing of 838 to 4,360 km 2 of farmland, with estimated revenue losses ranging from $0.87 billion to $4.4 billion. Habitat restoration and groundwater recharge are identified as the most effective strategies for reducing water demand, while solar development offers moderate savings. Perennial crops, particularly almonds, demonstrate the highest water demand reductions, while corn shows the least. The findings underscore the importance of crop-specific and farm-centric strategies to optimize water use. These insights will aid policymakers in developing multi-benefit land repurposing policies to support sustainable water management in the SJV amidst climate challenges.",
+      "doi": "10.3389/frwa.2026.1879797",
+      "authors": [
+        "Anshika Kandhway",
+        "Saswata Nandi",
+        "Martha H. Conklin",
+        "Mohammad Safeeq"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Water",
+      "openalex_id": "W7202082324",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202082324",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "This study explores strategies for water conservation by repurposing agricultural land in California’s San Joaquin Valley (SJV) for alternative uses like habitat restoration, groundwater recharge, and solar energy development.",
+      "added": false
+    },
+    {
+      "title": "The next generation of products and methodologies to establish biocrusts in degraded ecosystems",
+      "abstract": "Biological soil crusts (biocrusts)-thin, coherent soil surface layers aggregated and inhabited by communities of tiny photoautotrophic and heterotrophic organisms-support ecosystem functioning in drylands and influence the Earth system.Biocrust loss due to disturbance, global change, and land use leads to altered hydrological function, susceptibility to erosion, diminished biogeochemical cycling, with consequences extending to regional and global environmental quality and ecosystem service provisioning.To restore degraded drylands, specific techniques could inform how to: 1. produce biocrust biota ex-situ for use as an inoculum in degraded environments, then 2. encourage the establishment of the inoculum in high-stress environments.To re-establish lost biocrusts, a promising pathway could be the integration of adding biocrust biota (inoculation), ensuring that it stays where applied (retention), and softening environmental stresses and limitations (amelioration) at approximately the same time.Several techniques, most of them developed in only the past few years, demonstrate this integration: biocrust sods, cloths, pellets, capsules, and slurries.Biocrust sods are fabric-reinforced patches of biocrust growing on soil, produced in farms, and https://doi.org/10.",
+      "doi": "10.1017/dry.2026.10035",
+      "authors": [
+        "Lydia Bailey",
+        "Cara Lauria",
+        "Sierra Jech",
+        "Madeline Mayorga",
+        "Jasmine Anenberg",
+        "Keven Griffen",
+        "Lea Condon",
+        "Kyle Doherty",
+        "Colin Tucker",
+        "Philip Ramsey",
+        "Helen Ivy Rowe",
+        "Sasha Reed",
+        "Anita Antoninka",
+        "Rebecca Durham",
+        "Brianne Cooke",
+        "Kara Gibson",
+        "Darren Olney",
+        "Seth Charley",
+        "Ben Covington",
+        "Nelly Nelson",
+        "Amanda Gonzalez",
+        "Sean Pablo",
+        "Terrin Bia",
+        "Michael Sloan",
+        "Hilina Yohannes Kebede",
+        "Pete Fule",
+        "Henry Grover",
+        "Kara Dohrenwend",
+        "Matthew Bowker"
+      ],
+      "year": 2026,
+      "journal": "Cambridge Prisms Drylands",
+      "openalex_id": "W7202098292",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202098292",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Biological soil crusts (biocrusts)-thin, coherent soil surface layers aggregated and inhabited by communities of tiny photoautotrophic and heterotrophic organisms-support ecosystem functioning in drylands and influence the Earth system.Biocrust loss due to disturbance, global change, and land use leads to altered hydro…",
+      "added": false
+    }
+  ]
+}
