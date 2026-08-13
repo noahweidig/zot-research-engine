@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-13",
+  "statistics": {
+    "fetched": 96,
+    "duplicates_removed": 90,
+    "evaluated": 6,
+    "added": 2,
+    "ignored": 4,
+    "average_score": 2.33
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Wildfire Risk Reduction With a Twist in the Burns Lake Community Forest",
+      "abstract": "Wildfire Risk Reduction (WRR) has become a common term in British Columbia, Canada. While WRR is not a new concept in the management of fuels in and around commuinties and extending to the broader landscape, it has recently become a strong component of forest operations and funding. The purpose of this study is to share lessons learned while operationalizing WRR in the Burns Lake Community Forest (BLCF) in central BC. The main WRR treatments include thinning and prescribed fire with resulting effects on the remaining resources in the community forest including wildlife and its habitat. Creative and innovative techniques were applied to reduce wildfire risk hic resulted in co-benefits including incresaed wildlife habitat, fire absorbent landscapes, and local employment opportunities. Beyond this work remains the ened to test the treatments with fire in a safe way through prescribed fire where indices can be closely monitored to determine the influence of the treatments on fire behaviour.",
+      "doi": "10.5281/zenodo.21878626",
+      "authors": [
+        "Michaella Foster",
+        "Sonja E. R. Leverkus",
+        "Frank Varga"
+      ],
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "openalex_id": "W7202114533",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202114533",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 2/2 key interest terms (prescribed, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfire"
+      ],
+      "summary": "Wildfire Risk Reduction (WRR) has become a common term in British Columbia, Canada. While WRR is not a new concept in the management of fuels in and around commuinties and extending to the broader landscape, it has recently become a strong component of forest operations and funding.",
+      "added": true
+    },
+    {
+      "title": "Wildfire Risk Reduction With a Twist in the Burns Lake Community Forest",
+      "abstract": "Wildfire Risk Reduction (WRR) has become a common term in British Columbia, Canada. While WRR is not a new concept in the management of fuels in and around commuinties and extending to the broader landscape, it has recently become a strong component of forest operations and funding. The purpose of this study is to share lessons learned while operationalizing WRR in the Burns Lake Community Forest (BLCF) in central BC. The main WRR treatments include thinning and prescribed fire with resulting effects on the remaining resources in the community forest including wildlife and its habitat. Creative and innovative techniques were applied to reduce wildfire risk hic resulted in co-benefits including incresaed wildlife habitat, fire absorbent landscapes, and local employment opportunities. Beyond this work remains the ened to test the treatments with fire in a safe way through prescribed fire where indices can be closely monitored to determine the influence of the treatments on fire behaviour.",
+      "doi": "10.5281/zenodo.21878627",
+      "authors": [
+        "Michaella Foster",
+        "Sonja E. R. Leverkus",
+        "Frank Varga"
+      ],
+      "year": 2026,
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "openalex_id": "W7202123344",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202123344",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 2/2 key interest terms (prescribed, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfire"
+      ],
+      "summary": "Wildfire Risk Reduction (WRR) has become a common term in British Columbia, Canada. While WRR is not a new concept in the management of fuels in and around commuinties and extending to the broader landscape, it has recently become a strong component of forest operations and funding.",
+      "added": true
+    },
+    {
+      "title": "Advances in research on the association between global air pollution and atopic dermatitis",
+      "abstract": "Background Escalating global air pollution poses severe threats to public health. Beyond respiratory and cardiovascular damage, air pollutants adversely affect cutaneous health. Atopic dermatitis (AD), a common chronic inflammatory skin disease, has been closely linked to environmental pollutant exposure in recent research, arousing widespread academic concern. Objective This narrative review aimed to comprehensively summarize current evidence on the correlation between air pollution and AD, and further elaborate the epidemiological features, potential pathogenic mechanisms, as well as targeted prevention and therapeutic strategies for pollution-related AD. Methods Literature was retrieved from PubMed, Web of Science and CNKI databases covering April 2021 to December 2025, with core keywords related to air pollutants, AD, pathogenesis, exposure and climate change. Following narrative review guidelines, high-quality peer-reviewed studies with an impact factor ≥ 3.0 were included, focusing on cutting-edge evidence regarding air pollutant-AD associations, climatic and geographical disparities, microbiome interactions, and novel therapies. Results Exposure to particulate matter, nitrogen dioxide, ozone and cigarette smoke significantly increases AD incidence and severity. Key mechanisms include skin barrier damage, skin microbiota dysbiosis, oxidative inflammatory stress, aryl hydrocarbon receptor pathway activation, and epigenetic gene–environment interactions. Urban residents, children, pregnant women and outdoor workers are high-risk populations. Biologics and JAK inhibitors effectively relieve AD symptoms, while antioxidants and medical ozone therapy are promising adjuvant or emerging interventions. Conclusion Air pollution is a critical modifiable risk factor for AD onset and exacerbation via multi-pathway mechanisms. Integrated prevention, skincare and clinical treatment can reduce AD burden. Current evidence is limited to observational studies, lacking definitive causal verification. Future multicenter prospective cohort studies, standardized novel therapy application and AI-assisted precise management will facilitate systematic AD prevention and control.",
+      "doi": "10.3389/fpubh.2026.1854212",
+      "authors": [
+        "Boyang Xue",
+        "Yicheng Zhang",
+        "Weihao Cheng",
+        "Jing Fan",
+        "Xuesong Jia",
+        "Xue Wang"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7202194090",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202194090",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/2 key interest terms",
+      "tags": [],
+      "summary": "Background Escalating global air pollution poses severe threats to public health. Beyond respiratory and cardiovascular damage, air pollutants adversely affect cutaneous health.",
+      "added": false
+    },
+    {
+      "title": "Beyond the 1.5°C planetary boundary: AI-forecast of Global Disease Burden and Health inequities",
+      "abstract": "BACKGROUND: The planetary boundary for climate change-initially set at global mean temperature increase of 1.5°C above pre-industrial levels-has been significantly transgressed. Understanding the mechanistic pathways through which climate warming impacts disease burden is critical for evidence-based policy interventions. OBJECTIVE: This study aims to quantify and explain the global burden of disease when planetary climate boundaries are crossed at 1.5°C, 2.0°C, and 2.5°C warming thresholds. METHODS: We applied a dual-phase framework: (1) Exploratory AI using Random Forest and XGBoost algorithms to identify non-linear relationships and threshold effects between temperature increase and disease burden; (2) Explanatory AI employing SHAP (SHapley Additive exPlanations) values and causal inference models to mechanistically explain pathways linking climate change to health outcomes. RESULTS: At 1.5°C warming, global heat-related deaths increase from baseline (2019) of 0.21 million to 0.35 million (+66.7%), with corresponding heat-related disability-adjusted life-years (DALYs) rising from 4.77 million to 8.20 million (+71.9%). Cardiovascular disease burden escalates from 24.18 million DALYs to 29.50 million (+22.0%). At 2.0°C warming, these impacts intensify dramatically: heat-related deaths reach 0.52 million (+147.6%) and DALYs 12.50 million (+162.1%), while CVD DALYs increase to 35.80 million (+48.1%). At 2.5°C warming, heat-related deaths surge to 0.78 million (+271.4%) with DALYs of 18.90 million (+296.4%), and CVD DALYs reach 44.20 million (+82.8%). CONCLUSIONS: Crossing planetary climate boundaries triggers exponential escalation of global disease burden through multiple, synergistic pathways disproportionately affecting vulnerable populations in low-resource settings. Urgent climate mitigation to limit warming below 2.0°C could prevent millions of premature deaths and substantial DALY losses globally. Health system adaptation strategies must prioritize vulnerable populations and integrate climate resilience into health policy frameworks.",
+      "doi": "10.1371/journal.pone.0354159",
+      "authors": [
+        "Hanif Abdul Rahman",
+        "Hein Minn Tun"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7202137019",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202137019",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/2 key interest terms",
+      "tags": [],
+      "summary": "BACKGROUND: The planetary boundary for climate change-initially set at global mean temperature increase of 1.5°C above pre-industrial levels-has been significantly transgressed.",
+      "added": false
+    },
+    {
+      "title": "DETERMINING 3D CADASTRE VARIABLES FOR FISCAL CADASTRE IMPLEMENTATION IN INDONESIA USING THE ANALYTIC HIERARCHY PROCESS (AHP)",
+      "abstract": "The transition from two-dimensional (2D) to three-dimensional (3D) cadastral systems is increasingly important for addressing complex urban property rights and fiscal valuation. Existing studies have largely emphasized legal and geometric aspects, while the prioritization of variables for 3D fiscal cadastre implementation remains underexplored. This study identifies and prioritizes key variables for 3D fiscal cadastre development in Indonesia using the Analytic Hierarchy Process (AHP). A multi-criteria framework was developed from structural, environmental, location, and disaster-risk variables derived from the literature. Expert judgments from six specialists, consisting of three cadastral experts and three property valuation experts, were collected through pairwise comparisons and analyzed using AHP procedures, including hierarchy construction, weight derivation, consistency testing, and sensitivity analysis. The results show that structural variables (0.415) and location variables (0.409) are the dominant criteria, together contributing more than 78% of the total weight. The highest-ranked sub-criteria include proximity to educational facilities, proximity to workplace/employment centers, air quality, economic centers, and building area. Sensitivity analysis under +/-10% variation confirms that the ranking structure remains stable. The study contributes by demonstrating how 3D cadastre can improve fiscal valuation accuracy through volumetric representation and multi-dimensional valuation variables. It also provides a practical decision-support framework for integrating AHP-derived weights into 3D fiscal cadastre databases and property taxation systems in Indonesia.",
+      "doi": "10.13033/ijahp.v18i2.1407",
+      "authors": [
+        "Nurul Qamilah",
+        "Irwan Meilano",
+        "Andri Hernandi",
+        "Deni Suwardhi"
+      ],
+      "year": 2026,
+      "journal": "International Journal of the Analytic Hierarchy Process",
+      "openalex_id": "W7202140007",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202140007",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/2 key interest terms",
+      "tags": [],
+      "summary": "The transition from two-dimensional (2D) to three-dimensional (3D) cadastral systems is increasingly important for addressing complex urban property rights and fiscal valuation.",
+      "added": false
+    },
+    {
+      "title": "Towards community-scale resilience via repurposable computing continuum infrastructures",
+      "abstract": "Smart cities rely on Cyber Physical Human Systems (CPHS) for efficiently delivering critical services (water, electricity, weather, traffic, etc.) to the community. These community-scale CHPS typically rely on an edge-fog-cloud computing continuum spanning multiple abstraction levels, and are typically purpose-built to deliver these services. This article makes the case that these siloed CPHS can be repurposed to deliver additional services in the face of disasters and unexpected events, raising the overall resilience of these community-scale infrastructures. We use two motivating CPHS case studies–information exchange for healthcare resilience (NSF project CAREDEX) and community-scale urban mobility through end-to-end orchestration (EU project MYRTUS) – as exemplars to tease out the opportunities and challenges faced in repurposing these CHPS in extreme events such as disasters. We highlight some of the key technologies required to facilitate repurposing, summarize their current status, and discuss ongoing efforts and future challenges for achieving community-scale CPHS resilience.",
+      "doi": "10.3389/fcpxs.2026.1812652",
+      "authors": [
+        "Nikil Dutt",
+        "Julio A. de Oliveira Filho",
+        "Francesca Palumbo",
+        "Francesco Regazzoni",
+        "Nalini Venkatasubramanian"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Complex Systems",
+      "openalex_id": "W7202125890",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202125890",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/2 key interest terms",
+      "tags": [],
+      "summary": "Smart cities rely on Cyber Physical Human Systems (CPHS) for efficiently delivering critical services (water, electricity, weather, traffic, etc.) to the community.",
+      "added": false
+    }
+  ]
+}
