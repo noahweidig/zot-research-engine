@@ -1,0 +1,385 @@
+{
+  "date": "2026-08-15",
+  "statistics": {
+    "fetched": 82,
+    "duplicates_removed": 66,
+    "evaluated": 16,
+    "added": 1,
+    "ignored": 15,
+    "average_score": 1.69
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Effects of Indaziflam Control of Annual Grasses on Biodiversity, Biocrusts, Perennial Vegetation, and Fire Probability",
+      "abstract": "Annual grass invasion in the western United States decreases biodiversity, biocrusts, and perennial vegetation and escalates the risk of large frequent wildfires. These effects degrade critical wildlife habitat and reduce quality livestock forage. In addition, altered fire regimes threaten life and property as well as greatly increase fire suppression costs. Controlling annual grasses to negate these negative impacts is a common management objective. Indaziflam, a more recently developed pre-emergent herbicide with longer soil activity, is increasingly used for annual grass control. More information on the effects of indaziflam on plant biodiversity, biocrusts, and perennial vegetation is needed because of contradictions in reported effects and inconclusive results. We investigated the effects of indaziflam application at 14 annual grass-invaded sites in bunchgrass rangelands in eastern Oregon. Ventenata ( Ventenata dubia (Leers) Coss.) and medusahead ( Taeniatherum caput-medusae (L.) Nevski) were the dominant annual grasses at the study sites. Indaziflam was applied at a rate of 73 g ai · ha −1 in late August to early September in either 2019 or 2021. Plant community response to indaziflam application was measured for 3 yr posttreatment. Indaziflam effectively controlled invasive annual grasses for the duration of the study. Perennial vegetation cover and density increased substantially with indaziflam control of annual grasses. Plant biodiversity increased with indaziflam application, with it being 40% greater in the indaziflam treatment compared with the untreated control by the third year. Indaziflam control of annual grasses resulted in considerable increases in biocrusts and bare ground, and decreases in litter. The cumulative effects suggest that indaziflam increased plant community resistance to reinvasion by annual grasses and decreased wildfire probability. Indaziflam appears to be effective at controlling invasive annual grasses for multiple years and promoting perennial vegetation, biocrusts, and plant biodiversity.",
+      "doi": "10.1016/j.rama.2026.07.001",
+      "authors": [
+        "Kirk W. Davies",
+        "Rory C. O'Connor",
+        "Stella M. Copeland",
+        "Jon D. Bates"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7202364220",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202364220",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 88%: matched 7/8 key interest terms (united states, wildfires, united, wildfire, states)",
+      "tags": [
+        "United States",
+        "Wildfires",
+        "United",
+        "Wildfire",
+        "States"
+      ],
+      "summary": "Annual grass invasion in the western United States decreases biodiversity, biocrusts, and perennial vegetation and escalates the risk of large frequent wildfires. These effects degrade critical wildlife habitat and reduce quality livestock forage.",
+      "added": true
+    },
+    {
+      "title": "Intelligent diagnosis‐related group classification for 134,189 patients in eastern China using machine learning",
+      "abstract": "Abstract Diagnosis‐related group (DRG) classification is crucial for healthcare cost management and resource allocation, but traditional manual classification by physicians is inefficient and error‐prone, especially for large‐scale medical data. To address this challenge, we propose ELGWO‐LightGBM (elite gray wolf optimization–LightGBM), an automated DRG classification method that integrates an enhanced gray wolf optimization (GWO) algorithm with LightGBM. The method incorporates an elite wolf mechanism (ELGWO) to optimize LightGBM hyperparameters, effectively avoiding local optima while improving convergence speed. We evaluated our approach on a dataset of 134,189 patient records across 57 DRG categories. Experimental results demonstrate that ELGWO–LightGBM significantly outperforms traditional deep learning models and gradient boosting methods in classification accuracy. The ELGWO optimization also enhances model stability and robustness when handling large‐scale structured medical data. Our results show that ELGWO–LightGBM provides an efficient and accurate automated solution for DRG classification, contributing to the advancement of intelligent healthcare data processing systems.",
+      "doi": "10.1002/jim4.70050",
+      "authors": [
+        "Y. Zhang",
+        "Yihan Cheng",
+        "Yuhui Ruan",
+        "Kun Wang"
+      ],
+      "year": 2026,
+      "journal": "Journal of intelligent medicine.",
+      "openalex_id": "W7202409309",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202409309",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 2/8 key interest terms (large, eastern)",
+      "tags": [
+        "Large",
+        "Eastern"
+      ],
+      "summary": "Abstract Diagnosis‐related group (DRG) classification is crucial for healthcare cost management and resource allocation, but traditional manual classification by physicians is inefficient and error‐prone, especially for large‐scale medical data.",
+      "added": false
+    },
+    {
+      "title": "Human climatic and ecological drivers of Holocene fire regimes in North America",
+      "abstract": "Abstract Understanding Holocene scale fire history across North America is critical for disentangling climatic, ecological, and anthropogenic influences on fire activity. However, subcontinental fire histories remain coarsely resolved and mechanisms controlling fire dynamics are underexplored. We compiled 140 Holocene-length (12,000 years) charcoal records using a systematic database search and subsequent sensitivity analysis, comparing ecoregion-scale spatiotemporal variations with reconstructed climate parameters, global CO 2 emissions, ecological productivity, and human landscape impacts to evaluate the dominant drivers of fire activity over time. Notably, we implement a novel comparison of fire history data to taphonomically-corrected archaeological data, cultural practices, and climate-human feedbacks. Results indicate that temperature, emissions, vegetation, and human impacts each drove Holocene fire activity across subcontinental North America. Furthermore, our findings suggest humans began altering fire activity as early as 6,500 cal yr BP; much earlier than previous estimates. These findings demonstrate that anthropogenic changes (i.e., population growth and fossil fuel emissions) intensify climate-related fire activity, underscoring the urgent need for resilient fire management strategies that integrate ecology and human-environment interactions.",
+      "doi": "10.1038/s43247-026-03918-w",
+      "authors": [
+        "Alexandra Tsalickis",
+        "Richard S. Vachula",
+        "Ambarish V. Karmalkar",
+        "Nicholas L. Balascio"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7202282935",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202282935",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 1/8 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Understanding Holocene scale fire history across North America is critical for disentangling climatic, ecological, and anthropogenic influences on fire activity. However, subcontinental fire histories remain coarsely resolved and mechanisms controlling fire dynamics are underexplored.",
+      "added": false
+    },
+    {
+      "title": "EUMETSAT turns 40: International cooperation as a driver of global leadership in Earth observation",
+      "abstract": "Over the past four decades, the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT) has evolved into one of the leading global operational actors in Earth observation for meteorological and climate applications. This article examines how international cooperation has accompanied this transformation, supporting Europe’s contribution to the global meteorological, climate, environmental and hydrological monitoring system. It argues that cooperation has been a structural enabler of operational, continuous, user-focused and state-of-the-art services to EUMETSAT’s Member States and the global community. The first part situates EUMETSAT within the World Meteorological Organization’s (WMO) governance framework and priorities. It highlights how EUMETSAT’s Convention and data policy are purposefully aligned with global principles shaping requirements for coverage, continuity, interoperability and data openness, and examines what their evolution, such as the WMO Integrated Global Observing System 2050 update and the WMO Unified Data Policy (Resolution 1), implies for EUMETSAT as an operational satellite organisation. Fostering the general principles of global cooperation laid down by WMO, the second part assesses EUMETSAT’s practical implementation of international cooperation as a visionary, founding principle, built upon a unique European cooperation model. It reviews historical milestones, the organisation’s inaugural role of permanent Secretariat of the Coordination Group for Meteorological Satellites (CGMS), as well as its multilateral and bilateral engagements with major international space institutions. Examples of operational data sharing, scientific cooperation and mission synergies showcase the value added to numerical weather prediction, climate services, disaster resilience and capacity development for societies worldwide. The final part explores how international cooperation will shape the next decade and the evolution of the observing systems for meteorology and climate, from cloud-based architectures to artificial intelligence integration. The article concludes that EUMETSAT’s cooperative efforts have enabled the organisation to emerge as the European mature, globally relevant operational Earth observation actor in its area of expertise, set to remain essential as new challenges and opportunities arise.",
+      "doi": "10.1016/j.jemets.2026.100047",
+      "authors": [
+        "Paul Counet",
+        "Antoine Berment"
+      ],
+      "year": 2026,
+      "journal": "Journal of the European Meteorological Society.",
+      "openalex_id": "W7202285092",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202285092",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/8 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Over the past four decades, the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT) has evolved into one of the leading global operational actors in Earth observation for meteorological and climate applications.",
+      "added": false
+    },
+    {
+      "title": "One Health in Mesoamerica: historical legacies, current challenges, and strategic directions",
+      "abstract": "Mesoamerica, a biodiversity hotspot extending from Mexico to Panama, faces intersecting health challenges rooted in colonial-era transformations and amplified by contemporary environmental change. This perspective paper demonstrates how historical legacies interact with current ecological and social drivers to shape zoonotic disease vulnerability across the region. We integrate historical analysis of colonial disease introduction with an examination of current environmental, climatic, and social determinants of disease transmission. Findings from a structured multisectoral participatory workshop organized by the GLACIER Project Consortium in Guatemala in 2023, involving participants from academia, government, non-governmental organizations, and community representatives across Mesoamerica, were synthesized together with a narrative review to develop community-centered One Health strategies for the region. European colonization of the Americas during the 15th–18th centuries, introduced devastating pathogens and fundamentally altered disease ecology through the introduction of livestock, human-associated pathogens, vectors, and reservoirs, establishing transmission patterns that persist today. Contemporary vulnerabilities arise from: deforestation and agricultural expansion facilitating vector proliferation and wildlife-human contact; informal and unregulated animal movement enabling the spread of transboundary diseases; climate change altering vector distribution and creating novel health threats; fragmented health systems with inequitable access; and poverty-linked structural conditions amplifying disease transmission. Despite growing One Health discourse regionally, meaningful integration across human, animal, plant, and environmental health sectors remains limited, as evidenced by recent disease resurgences and continued institutional gaps in surveillance and cross-border coordination. Six priority action lines emerged from the workshop discussions and their thematic synthesis: strengthening intersectoral governance and regional cooperation; implementing integrated surveillance systems; ensuring community participation and intercultural inclusion of Indigenous knowledge; expanding culturally appropriate health education; promoting community-engaged applied research; and integrating sustainable territorial management. Success requires political commitment beyond economic capacity, positioning communities as decision-makers, and alignment with international frameworks including the FAO-WOAH-WHO-UNEP Joint Plan of Action. Mesoamerica’s interconnected health challenges demand One Health approaches acknowledging historical context while centering vulnerable communities. Regional cooperation, community empowerment, and sustained political will—rather than wealth alone—determine effective disease prevention and health equity.",
+      "doi": "10.1186/s42522-026-00236-1",
+      "authors": [
+        "Bernadeth Cubillo-Cervantes",
+        "Mauricio Losilla",
+        "Allan Fernández",
+        "Jeffry Ortiz-Gamboa",
+        "Carlos Ibarra Cerdena",
+        "Nadja Kabisch",
+        "Jan Felix Drexler",
+        "Gerardo Suzán",
+        "Andrea Chaves"
+      ],
+      "year": 2026,
+      "journal": "One Health Outlook",
+      "openalex_id": "W7202282971",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202282971",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/8 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Mesoamerica, a biodiversity hotspot extending from Mexico to Panama, faces intersecting health challenges rooted in colonial-era transformations and amplified by contemporary environmental change.",
+      "added": false
+    },
+    {
+      "title": "A Machine Learning Assessment of Land Use and Land Cover Change on Urban Thermal Dynamics in Makassar",
+      "abstract": "Rapid urbanization in Makassar City has intensified Land-Use and Land-Cover (LULC) transformation and altered urban thermal conditions. This study aims to assess the changes in LULC and their relationship with urban thermal dynamics in Makassar between 2019 and 2024. Sentinel-2 Level-2A imagery was used for LULC classification using the Support Vector Machine (SVM) algorithm. At the same time, Landsat-8 TIRS data were processed to derive the Land Surface Temperature (LST) and the Urban Thermal Field Variance Index (UTFVI). Four LULC classes were mapped: water, vegetation, built-up area, and bare land. The SVM classification achieved high reliability, with overall accuracies of 0.901 and 0.913 and kappa coefficients of 0.86 and 0.88 for 2019 and 2024, respectively. The results showed a 12% increase in built-up area and a 12% decrease in vegetation cover, accompanied by a 2.1°C increase in average LST and a 15% expansion of the UTFVI heat stress zone. Kruskal-Wallis tests confirmed significant differences in UTFVI between LULC classes in 2019 and 2024, with large effect sizes. These findings indicate that LULC transformation is a major driver of urban thermal stress in Makassar, highlighting the need for climate-adaptive spatial planning.",
+      "doi": "10.48084/etasr.16597",
+      "authors": [
+        "Suharman Hamzah",
+        "Regita Faridatunisa Wijayanti",
+        "Evi Aprianti",
+        "Atika Izzaty",
+        "Mohd Remy Rozainy Mohd Arif Zainol"
+      ],
+      "year": 2026,
+      "journal": "Engineering Technology & Applied Science Research",
+      "openalex_id": "W7202290455",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202290455",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/8 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Rapid urbanization in Makassar City has intensified Land-Use and Land-Cover (LULC) transformation and altered urban thermal conditions. This study aims to assess the changes in LULC and their relationship with urban thermal dynamics in Makassar between 2019 and 2024.",
+      "added": false
+    },
+    {
+      "title": "Famine risk under climate change: assessing the impact on local food production and the potential role of adaptation strategies",
+      "abstract": "While climate change will impact all aspects of the food system, it is not clear how it will influence the risk of famine: situations of extreme starvation. Drawing on theory for how and why famines occur, we analyze the ways that changes in extreme weather might alter local agricultural yields. We present CMIP6 projections of the change in risk for specific climate changes that are relevant to agriculture: heat, frost, precipitation, and dry spells. Then, we analyze crop model projections that estimate crop yields under future climate projections. In crop models run with a future scenario in which people plant the same crops as today, we find that calorie production from attainable crop yields is projected to decrease in much of Central America, Eastern South America, much of Africa, the Eastern Mediterranean, South Asia, parts of Southeast and East Asia, and Australia. However, under a scenario in which people are allowed to switch crops, we find that there is global potential for adaptation to climate change, with certain crops in every region that are projected to increase attainable yield under climate change. There are also major yield gaps that could be closed with adaptation investments. Based on the theory and analysis, we conclude that climate change may act as a contributing, rather than determinative, factor to famine-related risk. Given that adaptation will ultimately influence whether climate change will increase the probability of famine, we recommend investments in adaptation, especially in conflict-affected regions.",
+      "doi": "10.1057/s41271-026-00645-6",
+      "authors": [
+        "Erin Coughlan de Perez",
+        "Paul Howe",
+        "Catalina Jaime",
+        "Mothusi Nyofane",
+        "William Masters",
+        "Daniel Maxwell",
+        "Sophia Marks Miller",
+        "Ntlele Mphonyane",
+        "Komal Rathod",
+        "Udita Sanga",
+        "Akriti Sharma",
+        "Alexandra Thorn",
+        "Dennis dela Torre",
+        "Carolyn Van Sant"
+      ],
+      "year": 2026,
+      "journal": "Journal of Public Health Policy",
+      "openalex_id": "W7202244614",
+      "citation_count": 1,
+      "url": "https://openalex.org/W7202244614",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/8 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "While climate change will impact all aspects of the food system, it is not clear how it will influence the risk of famine: situations of extreme starvation. Drawing on theory for how and why famines occur, we analyze the ways that changes in extreme weather might alter local agricultural yields.",
+      "added": false
+    },
+    {
+      "title": "Mapping climate-related forest risks: An index-based approach",
+      "abstract": "The environmental challenges faced by many tree species as a result of climate change show substantial spatial and temporal variation. One method to compile these variations is to construct a risk map combining various indexes representing hazards, exposures and vulnerabilities. In this study we combine climate envelopes with topographic and soil hydrological data to create a risk map over the territory of Germany using an index-based approach, for two different future climate scenarios (SSP245 and SSP585) and the four tree species Scots pine ( Pinus Sylvestris ), Norway Spruce ( Picea abies ), European beech ( Fagus sylvatica ) and Pedunculate oak ( Quecus robur ). By taking soil hydrological aspects into account, as well as extreme events via climate envelopes, we expand the application of climate envelopes thereby creating a new basis for risk analyses. Sensitivity and elasticity analyses of our risk model indicate that the upper climate envelope bounds for climate factors representing extreme heat events, exert the strongest influence on risk patterns across all species. We then identified pronounced spatial and species-specific variation in climate-related forest risk. Our results show a significant shift towards higher risk across all tree species with the SSP585 scenario assigning over 80% of locations for spruce and pine to a high risk category, with 75% and 65% for beech and oak respectively. The spatial analysis identifies low risk areas in specific river lowlands with high soil moisture capacity soils, but highlights that soil water availability has the potential to partially mitigate the effects of drought and rising temperatures. These findings, validated against historical NDVI data in the Harz region, suggest that current diversification strategies may be insufficient, as even deciduous species face substantial climate-envelope exceedance. Our findings therefore underscore the urgent need to re-assess tree species selection for diversification, to diversify forest locations, and expand nature restoration efforts beyond current targets.",
+      "doi": "10.1371/journal.pclm.0000931",
+      "authors": [
+        "Leam Martes",
+        "Michael Köhl"
+      ],
+      "year": 2026,
+      "journal": "PLOS Climate",
+      "openalex_id": "W7202260469",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202260469",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "The environmental challenges faced by many tree species as a result of climate change show substantial spatial and temporal variation. One method to compile these variations is to construct a risk map combining various indexes representing hazards, exposures and vulnerabilities.",
+      "added": false
+    },
+    {
+      "title": "Hurricane damage and forest carbon stocks: evidence from Louisiana",
+      "abstract": "Abstract Long-term carbon storage by forests is important for climate mitigation, yet storage durability faces threats from natural disturbances whose causal impacts are not well quantified. We use the staggered timing of two Category 4 hurricanes that struck different regions of Louisiana—Laura in 2020 and Ida in 2021—to estimate the causal effect of severe hurricane damage on forest carbon stocks. Using parish-level data from the USDA Forest Inventory and Analysis program covering all 64 Louisiana parishes over 2017–2024 and a doubly robust difference-in-differences estimator, we find that hurricane damage reduced live biomass carbon by 7–8%: aboveground live carbon declined 7.3% and belowground live carbon 7.7%, results robust to both cluster-robust and wild cluster bootstrap inference. Total forest carbon—nearly half of which is held in a slow-changing soil pool—declined by 3.5% (95% CI: −6.9% to −0.2%); this aggregate effect is significant under cluster-robust inference but not under the wild cluster bootstrap appropriate for our small number of treated clusters. Effects persisted across the four-year post-treatment period with no evidence of recovery. Live carbon losses were concentrated on private forests (−7.9%, P = 0.022), with no detectable change on public forests (+0.9%, P = 0.892), though this private–public difference is not statistically significant (interaction P = 0.493). We measure changes in carbon stocks rather than net flux to the atmosphere. Because private lands make up 86% of Louisiana's forestland and underpin most carbon offset programs, the magnitude and persistence of these losses suggest that nature-based climate solutions in hurricane-prone regions face greater hurricane-related risks than current carbon-offset frameworks recognize.",
+      "doi": "10.1088/1748-9326/ae988e",
+      "authors": [
+        "Jinggang Guo",
+        "Jeffrey P. Prestemon",
+        "Jesse D. Henderson"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7202292632",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202292632",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract Long-term carbon storage by forests is important for climate mitigation, yet storage durability faces threats from natural disturbances whose causal impacts are not well quantified.",
+      "added": false
+    },
+    {
+      "title": "Linking Hate Crime and Democracy Crime to Climate Change Crime",
+      "abstract": "Green criminology refers to the study of harms on humanity, the environment and nonhuman species committed by powerful institutions and organisations as well as ordinary people. It addresses violations of environmental morality, environmental ethics, animal rights, nature rights, eco-justice and social justice. Analysing climate change crimes is particularly challenging. Few actors can cause great harm across the globe with many invisible victims. In addition, the International Court of Justice recently advised that nations that commit climate change crime can be held legally accountable if they fail to minimise severe harm to the climate system. Rising powers of far-right populists have come with increasing influence of climate change deniers over policy, and climate policies are denounced and aborted. In parallel, far-right politicians systematically use hate speech and hate crime as a tactic to polarise climate politics, mobilise ingroup followers, and delegitimise and silence pro-climate advocates, eventually harming democracy. This paper theorises on the links between climate change crime, hate crime and democracy crime and suggests a broadening of green criminology to better analyse crimes and victims of climate politics. Green criminology should not only address power in the political economy, but the ideologies and governance styles associated with politics.",
+      "doi": "10.20944/preprints202502.1902.v3",
+      "authors": [
+        "Fredrik von Malmborg"
+      ],
+      "year": 2026,
+      "journal": "Preprints.org",
+      "openalex_id": "W7202245736",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202245736",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Green criminology refers to the study of harms on humanity, the environment and nonhuman species committed by powerful institutions and organisations as well as ordinary people. It addresses violations of environmental morality, environmental ethics, animal rights, nature rights, eco-justice and social justice.",
+      "added": false
+    },
+    {
+      "title": "Indigenous mobility and forced immobility in the Brazilian Amazon: rights, livelihoods, and policy gaps under environmental change",
+      "abstract": "This Perspective examines the coexistence of population mobility and forced immobility among Indigenous communities in the Brazilian Amazon under conditions of environmental change. It advances a single analytical argument: environmental shocks, particularly extreme droughts and deforestation, interact with path-dependent institutional constraints to narrow the range of viable adaptation strategies available to Indigenous peoples. Drawing on political ecology and historical institutionalism, the analysis shows that institutional weakening after 2016 created enforcement gaps that allowed land appropriation to advance, while subsequent climate shocks intensified livelihood pressures. These conditions simultaneously generate incentives for short-term mobility and powerful structural disincentives to leave, because departure carries a high risk of permanent territorial dispossession. Policy responses since 2023, although marked by renewed federal commitment to Indigenous rights and territory demarcation, continue to be filtered through congressional veto points, federal–local tensions, and informal patronage networks. As a result, even progressive policy intentions have limited effect on the structural conditions that produce constrained adaptation. The Brazilian case illustrates how climate-related mobility and immobility are jointly produced by environmental degradation and historically sedimented institutional arrangements, rather than by climate impacts alone. It calls for greater attention to the domestic institutional mechanisms that mediate the relationship between environmental change and Indigenous adaptation, and for stronger Indigenous participation in the decisions that shape territorial security and climate resilience.",
+      "doi": "10.3389/fhumd.2026.1881799",
+      "authors": [
+        "Jianwei Gong"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Human Dynamics",
+      "openalex_id": "W7202344548",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202344548",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "This Perspective examines the coexistence of population mobility and forced immobility among Indigenous communities in the Brazilian Amazon under conditions of environmental change.",
+      "added": false
+    },
+    {
+      "title": "Climate change and liver diseases: from infectious disease dynamics to metabolic and malignant liver disorders, and sustainable healthcare solutions",
+      "abstract": "Climate change (CC) affects our health in ways especially when it comes to liver diseases. Rising temperatures and changing weather patterns are altering the spread and severity of liver diseases. CC can affect health, especially liver diseases, in direct and indirect ways. Hepatic infections such as viral hepatitis and schistosomiasis, metabolic dysfunction-associated steatotic liver disease (MASLD), hepatocellular carcinoma, and acute on chronic liver failure (ACLF) are examples. The movement of infected individuals from areas where diseases are endemic, prompted by ecological disasters, introduces these diseases to previously unexposed regions. CC serves as an early warning for shifts and the necessity to re-evaluate hepatic diseases, which is crucial for health policymakers. Ambient temperature and its variability have a major influence on the pathogenesis of MASLD, demonstrating nonlinear exposure–response relationships. Long-term temperature exposure follows a reverse J-shaped pattern, while temperature variability shows a U-shaped association, with both extremes independently increasing disease susceptibility. Prolonged exposure to cold and fluctuations in temperature could worsen various liver diseases. Gaining a deeper insight into these CC-related risks for our patients and practice is essential to optimize their care both now and in the warmer temperatures ahead. Incorporating climate resilience into public health initiatives may aid in alleviating the growing prevalence of liver diseases linked to CC. Aside from increasing awareness, which should take precedence, there is a pressing need to investigate innovative ways to frame the educational message and eliminate financial incentives that contribute to environmental damage. Common climate strategies for healthcare systems include reducing and managing waste, utilizing cleaner and less energy, offering and endorsing planet-friendly food options, and addressing transportation issues related to accessing healthcare facilities, such as transitioning in-person appointments to virtual consultations when possible, encouraging green-endoscopy practices, and participating in conferences virtually can be beneficial.",
+      "doi": "10.37349/edd.2026.1005131",
+      "authors": [
+        "Maged El-Ghannam",
+        "Moataz Hassan Hassanien",
+        "Yosry Abdelrahman Ameen",
+        "Emad Abdelwahab Turky",
+        "Gamal Mohammed ELattar",
+        "Hoda Abu‐Taleb",
+        "Ahmed El Ray",
+        "Mohammed Darwish Eltalkawy"
+      ],
+      "year": 2026,
+      "journal": "Exploration of Digestive Diseases",
+      "openalex_id": "W7202280273",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202280273",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Climate change (CC) affects our health in ways especially when it comes to liver diseases. Rising temperatures and changing weather patterns are altering the spread and severity of liver diseases. CC can affect health, especially liver diseases, in direct and indirect ways.",
+      "added": false
+    },
+    {
+      "title": "Omega-3 Effects on Firefighter Performance and Longevity",
+      "abstract": "Background: Firefighting involves repeated bouts of submaximal work performed under heat, load and psychological stress, contributing to elevated CV strain and high rates of duty-related CV events. Omega-3 supplementation is biologically plausible for improving vascular and autonomic function, but firefighter-specific applied trials remain limited. Aim: To determine whether eight weeks of omega-3 supplementation (3 g/day EPA+DHA; 1700 mg EPA and 1300 mg DHA) improves resting CV markers and reduces CV strain during standardised submaximal exercise in operational firefighters. Methods: Twenty male operational firefighters were randomly allocated to omega-3 supplementation (n=10) or no-treatment control (n=10) for eight weeks. Resting HR and BP were measured using repeated home readings (morning and evening across four consecutive days at each time-point). CV strain was assessed using the Chester Treadmill Test (CTT) with outcomes of average HR (CTTAveHR) and end-stage HR (CTTEndHR). Data were analysed using two-way mixed ANOVA (time × group) with Bonferroni-adjusted simple main effects. Results: Compliance exceeded 95% and no dropouts occurred. Significant time × group interactions were observed for CTTAveHR (p&lt;.001) and CTTEndHR (p=.007), with the omega-3 group demonstrating reductions in exercise HR strain (CTTAveHR: −7.1 bpm; CTTEndHR: −10.8 bpm) and the control group demonstrating small increases. Resting outcomes were less definitive: AveRHR showed a favourable trend but non-significant interaction (p=.072); SBP demonstrated a substantial reduction with significant pairwise effects but a non-significant interaction (p=.080); DBP showed no meaningful change (p=.463). Baseline diet analysis suggested broader nutritional shortfalls which may influence CV strain and recovery capacity. Conclusion: Eight weeks of 3 g/day EPA+DHA produced clear improvements in submaximal exercise HR strain during the CTT, while resting haemodynamic outcomes were mixed and less statistically robust. Omega-3 supplementation appears most defensible as a low-burden adjunct within a wider FF health and performance strategy. Larger placebo-controlled trials with biomarker confirmation are warranted.",
+      "doi": "10.82227/repository.uwtsd.ac.uk.00004340",
+      "authors": [
+        "Ioan Rhys Lewis"
+      ],
+      "year": 2026,
+      "journal": "University Of Wales Trinity Saint David Research Repository (University of Wales Trinity Saint David)",
+      "openalex_id": "W7202171445",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202171445",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Background: Firefighting involves repeated bouts of submaximal work performed under heat, load and psychological stress, contributing to elevated CV strain and high rates of duty-related CV events.",
+      "added": false
+    },
+    {
+      "title": "The Digital Frontier: AI Applications in Environmental Monitoring and Earth Science Research",
+      "abstract": "Emerging as the new frontier of environmental monitoring and environmental science studies, artificial intelligence (AI) promises to allow the process of scalable inferences when new volumes of satellite, airborne, in situ, and model-generated data are taken into account. This review brings together the data ecosystems, methodological principles and application evidence that shape the new frontier of Earth observation, namely the digital frontier. Measurement physics: We explain the effects of measurement physics on problem formulation, label uncertainty, and missingness, and how current machine-learning practices are naively transferred to other domains, despite these domains exhibiting different possibilities that could affect model performance. After this, we discuss principal AI strategies focusing on representation learning and self-supervised pretraining, spatio-temporal deep learning in map and prediction, multi-modal fusion, and generative learning in gap filling, downsizing, and reconstruction. Specific focus is made on physics-guided and hybrid modeling approaches that jointly integrate learned components with mechanistic models to enhance plausibility, extrapolation and uncertainty quantification, calibration, and interpretability needed to gain scientific credibility and operational decision support. In the fields of application that we have considered, land systems, atmosphere and air quality, hydrology and water resources, cryosphere, ocean and coasts, natural hazards and urban environments, we discuss common patterns of success and failure, with operational readiness spanning almost equally evaluation design, data governance, lifecycle maintenance, and architecture choice. Our final contribution is research and community priorities such as Earth system foundation models, resilient extremes and out of distribution beneficial products, decision facing probabilistic products and responsible governance that deal with bias, privacy and dual-use risks. This combination of directions defines a roadmap on the way to credible prototypes to reliable and reproducible and beneficial Earth AI systems.",
+      "doi": "10.30564/jees.v8i8.13362",
+      "authors": [
+        "Xuebin Wang",
+        "Huanle Zhang"
+      ],
+      "year": 2026,
+      "journal": "Journal of Environmental & Earth Sciences",
+      "openalex_id": "W7202298133",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202298133",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Emerging as the new frontier of environmental monitoring and environmental science studies, artificial intelligence (AI) promises to allow the process of scalable inferences when new volumes of satellite, airborne, in situ, and model-generated data are taken into account.",
+      "added": false
+    },
+    {
+      "title": "Improving Recycling Technologies for Thermoset Composites: Innovations, Challenges and Future Opportunities",
+      "abstract": "Composite materials, especially thermoset composites, play a key role in various industries such as aerospace, automotive, marine and wind energy. However, the challenge of recycling thermoset composites has attracted attention due to the increasing amount of composite waste and strict landfill regulations. Unlike thermoplastics, thermoset composites cannot be remelted and reshaped, making their recycling more complex. This study examines various recycling technologies that aim to improve the recovery of valuable materials while reducing environmental impact. Traditional recycling methods, including mechanical grinding, pyrolysis and solvolysis, are widely used. Mechanical recycling involves grinding composite waste into small particles for reuse as fillers in new products, but it does not recover intact fibers, limiting its effectiveness. Thermal degradation, such as pyrolysis, allows for fiber recovery, but can reduce fiber quality depending on processing conditions. Solvolysis, a chemical recycling approach that breaks down polymer matrices using solvents, achieves higher recovery rates with reduced fiber degradation, but requires extensive solvent management. Emerging technologies such as supercritical fluid processing, electrochemical recycling, and bio-metallurgical methods offer promising alternatives by improving recycling efficiency while reducing environmental impact. Process parameters such as temperature, processing time, and material composition significantly affect recycling yields. Analysis of experimental data indicates that moderate temperatures (500°C–600°C), controlled processing times (3–6 hours), and high material compositions (50%–70%) yield optimal results. Excessively high temperatures can cause fiber degradation, while prolonged processing times may increase energy consumption without improving yields. Machine learning algorithms including linear regression, random forest regression, and support vector regression (SVR) were used to model and predict recycling yields. Among these models, random forest regression demonstrated the highest accuracy, achieving an R² value of 0.9604 on experimental data, outperforming linear regression and SVR. This study highlights the need for continued advances in composite recycling technologies. A combination of optimized process parameters, innovative recycling methods, and machine learning-based predictive modeling will improve the efficiency and economic feasibility of composite recycling. Future research should focus on scaling up promising technologies, developing cost-effective solvent recovery systems, and integrating real-time monitoring for adaptive process control. Implementing these advances will contribute to a more sustainable circular economy by reducing waste, conserving raw materials, and improving the recyclability of thermoset composites.",
+      "doi": "10.46632/jacp/5/3/1",
+      "authors": [
+        "Vimala Saravanan"
+      ],
+      "year": 2026,
+      "journal": "Journal on Applied and Chemical Physics",
+      "openalex_id": "W7202384592",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202384592",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Composite materials, especially thermoset composites, play a key role in various industries such as aerospace, automotive, marine and wind energy. However, the challenge of recycling thermoset composites has attracted attention due to the increasing amount of composite waste and strict landfill regulations.",
+      "added": false
+    },
+    {
+      "title": "CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data",
+      "abstract": "Learning fine-grained spatial patterns from coarse-resolution data is challenging, especially in causal settings where high-resolution effects must be inferred from aggregated interventions and outcomes. We introduce CLAM, a method for estimating localized causal effects from coarse observations by exploiting high-resolution contextual covariates that modulate these effects. By jointly learning the causal mechanism and a disaggregation mapping, CLAM captures interactions that are missed when addressing these problems independently. The method supports localized effect estimation, counterfactual reasoning, and principled outcome disaggregation, and reliably captures spatially varying causal effects across diverse settings. This is particularly relevant for applications such as public health and environmental policy, where decisions are made at broad scales despite substantial local heterogeneity. Code is available at https://github.com/gerritgr/clam",
+      "doi": "10.48550/arxiv.2608.08064",
+      "authors": [
+        "Gerrit Großmann",
+        "Sumantrak Mukherjee",
+        "Sebastián Vollmer"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7202200211",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202200211",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Learning fine-grained spatial patterns from coarse-resolution data is challenging, especially in causal settings where high-resolution effects must be inferred from aggregated interventions and outcomes.",
+      "added": false
+    }
+  ]
+}
