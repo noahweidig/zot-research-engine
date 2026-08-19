@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-19",
+  "statistics": {
+    "fetched": 96,
+    "duplicates_removed": 89,
+    "evaluated": 7,
+    "added": 1,
+    "ignored": 6,
+    "average_score": 2.57
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "A brooms race: Seed ecology may explain differences in spread of two invasive legumes",
+      "abstract": "1. Biological invasions represent a major threat to biodiversity and ecological integrity worldwide. Shifts in dominance among invasive species provide valuable opportunities to identify the ecological traits that determine invasion success.2. In the Southern Pampas grasslands of Argentina, two introduced broom species, French broom (FB, Genista monspessulana) and Spanish broom (SB, Spartium junceum) became prominent invaders and management priorities. Historically, control efforts focused on SB. However, following extensive wildfires (2008 and 2013), FB rapidly expanded and displaced SB.3. We investigated the demographic and ecological mechanisms that may underlie this shift in species dominance by combining field studies, seed bank assessments, germination experiments under contrasting heat treatments and greenhouse water stress experiments.4. FB produces ~6 times more seeds/plant and develops seed banks ~5 denser than those of SB. Pre-germination heat treatments resulted in higher germination percentages in both species, but FB maintained faster and greater germination even after severe dry-heat exposure, enhancing post-fire regeneration.5. FB flowers earlier, providing a temporal advantage in reproduction and seed maturation in relation to seasonal rainfall peaks. It showed only limited changes in growth under reduced irrigation, although overall responses to water availability were similar between species.6. Implications. Abundant seed production, a high germination rate, a dense seed bank, greater tolerance to fire-related heat, and earlier flowering could explain the rapid spread and predominance of French broom in the grasslands of southwestern Buenos Aires Province. Management strategies should prioritize the early control of plants to prevent seed production, the depletion of the seed bank through prescribed burning and the control of post-fire seedlings to contain further expansion.",
+      "doi": "10.25260/ea.26.36.3.0.2691",
+      "authors": [
+        "Aldana M. Ariza",
+        "Cristina Sanhueza",
+        "Gabriela Brancatelli",
+        "S. M. Zalba"
+      ],
+      "year": 2026,
+      "journal": "Ecología Austral",
+      "openalex_id": "W7203542638",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203542638",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 43%: matched 4/9 key interest terms (prescribed burning, burning, prescribed, wildfires)",
+      "tags": [
+        "Prescribed Burning",
+        "Burning",
+        "Prescribed",
+        "Wildfires"
+      ],
+      "summary": "1. Biological invasions represent a major threat to biodiversity and ecological integrity worldwide. Shifts in dominance among invasive species provide valuable opportunities to identify the ecological traits that determine invasion success.2.",
+      "added": true
+    },
+    {
+      "title": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
+      "abstract": "A relatively small number of rapidly spreading wildfire events burn disproportionately large areas. But beyond area burned, do fast fires produce distinct postfire ecological outcomes? Here, we measure daily linear fire growth rates and assess relationships between fire spread, burn severity, and metrics of postfire landscape resilience from 3499 fires occurring between 2012 and 2023 in conifer-dominated forests of Canada and the western US. We find that as linear spread rate increases, so too does fire severity, proportion of area burned at high severity, and distance to surviving live tree seed sources. Thus, not only do the fastest fires burn outsized areas, but these areas have less remaining tree cover and reduced capacity for recovery, setting the stage for long-term vegetation shifts. Given anticipated increases in extreme fire spread as fire seasons lengthen and weather becomes more fire-conducive, our findings highlight growing needs to effectively reduce undesired impacts, manage postfire landscapes to sustain forest ecosystem functions, and foster social-ecological adaptation.",
+      "doi": "10.1126/sciadv.aeg5802",
+      "authors": [
+        "Jonathan D. Coop",
+        "Jared A. Balik",
+        "Jessika R. McFarland",
+        "Sean A. Parks",
+        "Kyle C. Rodman",
+        "Camille S. Stevens‐Rumann",
+        "Meg A. Krawchuk",
+        "Cameron E. Naficy",
+        "Marc‐André Parisien",
+        "Ellen Whitman"
+      ],
+      "year": 2026,
+      "journal": "Science Advances",
+      "openalex_id": "W7202300174",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202300174",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 2/9 key interest terms (large, wildfire)",
+      "tags": [
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "A relatively small number of rapidly spreading wildfire events burn disproportionately large areas. But beyond area burned, do fast fires produce distinct postfire ecological outcomes?",
+      "added": false
+    },
+    {
+      "title": "Wildfires, land markets, and agrarian inequality in northern Pakistan",
+      "abstract": "Wildfires are increasingly recognized as environmental disturbances associated with socio economic transformations in agrarian systems. This study examines the associations between reported wildfire exposure, land-market outcomes, and agrarian inequality in the Malakand Division of northern Pakistan, a region characterized by forest–agriculture interfaces and livelihood dependence on land. The study aims to analyze how different levels of wildfire exposure are associated with land values, ownership patterns, market transactions, inequality, and coping strategies among farming households. A quantitative cross-sectional design was employed using a sample of 400 households selected through multistage sampling. Data were collected through structured questionnaires and analyzed using ANOVA, chi-square tests, multiple and logistic regression, hierarchical regression, and principal component analysis. Results show that reported land values differed sig nificantly across wildfire-exposure categories (F = 48.72, p < 0.001), with directly exposed households reporting the lowest values. Regression analysis identified direct wildfire exposure as the strongest negative statistical predictor of reported land value (β = −0.468, p < 0.001). Retrospectively reported landholding data show an increase in the Gini coefficient from 0.41 before the reported fire period to 0.53 afterward. The addition of land-transaction variables increased the explained variance in agrarian inequality to 72%, which is consistent with a potential land-market pathway but does not constitute evidence of causal mediation. Coping strategies such as land sale, migration, and borrowing emerged as dominant reported responses among affected households. The study concludes that wildfire exposure is strongly associated with land devaluation, land sales, and greater agrarian inequality. Because the study is cross sectional and lacks an independently observed pre-fire baseline or causal identification strategy, these findings should not be interpreted as definitive causal effects.",
+      "doi": null,
+      "authors": [
+        "Daraz Umar",
+        "Štefan Bojnec"
+      ],
+      "year": 2026,
+      "journal": "Repository of the University of Primorsk (University of Primorska)",
+      "openalex_id": "W7203659154",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203659154",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 26%: matched 2/9 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires are increasingly recognized as environmental disturbances associated with socio economic transformations in agrarian systems. This study examines the associations between reported wildfire exposure, land-market outcomes, and agrarian inequality in the Malakand Division of northern Pakistan, a region character…",
+      "added": false
+    },
+    {
+      "title": "Forecast-based attribution of the role of stratospheric variability in weather extremes",
+      "abstract": "Abstract. Variability of the stratospheric polar vortex, particularly its dramatic breakdown during sudden stratospheric warming (SSW) events, has been linked to a number of surface weather extremes. However, attributing the role of stratospheric variability in a specific observed weather extreme, rather than an abstracted class of extremes, has proved highly challenging. Here we use an ensemble of subseasonal forecast simulations from 7 forecast systems participating in the Stratospheric Nudging and Predictable Surface Impacts (SNAPSI) project to carry out this task. By comparing the likelihood of extreme events in free-running forecasts to those with the zonal-mean stratospheric state nudged towards its observed or climatological evolution (while the troposphere is freely-evolving), we are able to calculate the changes in the risk and severity of extremes due to the occurrence, or non-occurrence, of an SSW. We focus on three case-study events: (i) the 2018 boreal SSW and subsequent Eurasian cold air outbreak and snowfall, (ii) the 2019 boreal SSW and subsequent North American cold air outbreak, and (iii) the 2019 austral near-SSW and subsequent Australian heat wave. Through an extreme value statistical analysis, we find in all three cases a significant stratospheric contribution to the risk of relevant weather extremes. In case (i), improving the SSW prediction by nudging as much as doubles the forecast risk of extreme Eurasian cold and UK snow. The differences in risk and severity between experiments nudged to the SSW and to climatology are relatively insensitive to the lead time before the cold air outbreak of case (i). By contrast, in case (ii) this difference only emerges at short lead times before the event, indicating a stratospheric influence on this event that is dependent on the tropospheric state. For case (iii) we find a stronger and more robust stratospheric impact on the severity of the Australian heat wave than on its risk, with the latter being highly sensitive to model bias. The methodology outlined here, including both the experimental design and the semi-parametric approaches for calculating risks, can be applied to attribute several other internal climate system drivers of extreme event risk.",
+      "doi": "10.5194/wcd-7-1405-2026",
+      "authors": [
+        "William J. M. Seviour",
+        "Justin Finkel",
+        "Philip Rupp",
+        "Regan Mudhar",
+        "Amy H. Butler",
+        "Chaim I. Garfinkel",
+        "Peter Hitchcock",
+        "Blanca Ayarzagüena",
+        "Dong-Chan Hong",
+        "Yu-Kyung Hyun",
+        "Hera Kim",
+        "Eun-Pa Lim",
+        "Daniel De Maeseneire",
+        "Gabriele Messori",
+        "Gerbrand Koren",
+        "Michael Sigmond",
+        "Isla R. Simpson",
+        "Seok-Woo Son"
+      ],
+      "year": 2026,
+      "journal": "Weather and Climate Dynamics",
+      "openalex_id": "W7128056181",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7128056181",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 2/9 key interest terms (occurrence, drivers)",
+      "tags": [
+        "Occurrence",
+        "Drivers"
+      ],
+      "summary": "Abstract. Variability of the stratospheric polar vortex, particularly its dramatic breakdown during sudden stratospheric warming (SSW) events, has been linked to a number of surface weather extremes.",
+      "added": false
+    },
+    {
+      "title": "Application of remote sensing and geospatial techniques for forest fire monitoring and air quality impact assessment",
+      "abstract": "Wildfires are among the most significant environmental disturbances worldwide, with substantial impacts on ecosystems and air quality. Remote sensing techniques have advanced considerably on detection, characterization, and monitoring of wildfire and their atmospheric effects. This study presents a structured literature review between 2019 and 2026 using the ProKnow-C methodology, resulting in a portfolio of 154 peer-reviewed articles. The results reveal growing research on emission estimation and air quality assessment, particularly on atmospheric impacts, burned area, fire severity, and fire detection. Machine and deep learning approaches emerge as dominant techniques, reflecting a shift toward data-driven methodologies. Additionally, integrated multisensor data improve detection accuracy and reduce uncertainties associated with atmospheric interference. This review proposes a coherent analytical chain that integrates fire detection, burned area mapping, fire severity assessment, emission estimation, and air quality evaluation. This study provides an understanding and monitoring of wildfire impacts, their current limitations and future research directions.",
+      "doi": "10.1080/10106049.2026.2684384",
+      "authors": [
+        "Isamar Alvarez",
+        "David Aguiar",
+        "Mauricio A. Correa",
+        "Jeiser Rendón Giraldo",
+        "Henry A. Colorado"
+      ],
+      "year": 2026,
+      "journal": "Geocarto International",
+      "openalex_id": "W7203538412",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203538412",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 2/9 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires are among the most significant environmental disturbances worldwide, with substantial impacts on ecosystems and air quality. Remote sensing techniques have advanced considerably on detection, characterization, and monitoring of wildfire and their atmospheric effects.",
+      "added": false
+    },
+    {
+      "title": "Sub-Seasonal Predictability of Heatwave Onset using Coupled Ocean-Atmosphere Teleconnections",
+      "abstract": "Heatwaves are among the deadliest climate extremes, and their impacts on human health, agriculture, energy demand, and infrastructure are strongly dependent on the amount of advance warning available to decision-makers. Weather forecasts provide reliable skill only to about 10–14 days, while seasonal forecasts operate at climatological, not event-scale, resolution, leaving a critical \"sub-seasonal\" gap of roughly two to six weeks in which actionable heatwave-onset prediction is most needed but least mature. This paper investigates the sub-seasonal predictability of heatwave onset by examining coupled ocean-atmosphere teleconnection patterns, including the El Niño–Southern Oscillation (ENSO), the Madden-Julian Oscillation (MJO), and mid-latitude atmospheric blocking, as sources of extended-range predictive skill. The study reviews observational and reanalysis-based evidence linking specific MJO phases and ENSO states to anomalous ridging, soil-moisture feedbacks, and Rossby wave train propagation associated with heatwave initiation over North America, Europe, and East Asia. A composite and lagged-correlation methodology is described using ERA5 reanalysis, NOAA Optimum Interpolation Sea Surface Temperature (OISST) data, and the Real-time Multivariate MJO (RMM) index, alongside statistical and machine-learning-based predictive frameworks (logistic regression, random forest, and LSTM architectures) applied in the subseasonal-to-seasonal (S2S) prediction literature. Comparative skill metrics reported across studies indicate that heatwave predictability at 3–4 week lead times is substantially enhanced when MJO phase and ENSO state are used as joint predictors relative to climatology alone, though skill remains regionally heterogeneous and highly sensitive to the underlying dynamical driver. The paper concludes by identifying persistent challenges in operational S2S heatwave prediction, including model bias in MJO teleconnection representation, land-atmosphere coupling errors, and the need for regionally tailored predictor combinations.",
+      "doi": "10.25125/ijoear-aug-2026-8",
+      "authors": [
+        "Sachin Chinchorkar"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Environmental and Agriculture Research",
+      "openalex_id": "W7203570703",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203570703",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Heatwaves are among the deadliest climate extremes, and their impacts on human health, agriculture, energy demand, and infrastructure are strongly dependent on the amount of advance warning available to decision-makers.",
+      "added": false
+    },
+    {
+      "title": "Fire absence favours tree growth above the flame zone threatening South American Cerrado vegetation",
+      "abstract": "Tropical savannas, including the Brazilian Cerrado, face significant woody encroachment linked to fire suppression. We investigated floristic composition, horizontal and vertical structure, and Enhanced Vegetation Index (EVI) time series in a 1-hectare plot within Chapada dos Guimarães National Park. This area has been fire-excluded since 1997, and it was represented by scattered trees and shrubs over a grassy layer. We found 60 tree species, including a new Tabebuia species (not yet described), with a notable dominance of tree species typical of Cerradão forests (58% of individuals, 55% of species) and a high proportion (67%) of typical species of other forest formations. In closed savannas or forests, animals are the primary dispersers, as we observed in the study area, where zoochorous species represent 65%. Conversely, Styrax ferrugineus , a typical cerrado species, showed high dominance, indicating its favored status in the absence of fire. Our vertical structure analysis, particularly for the forest species Tachigali rubiginosa , revealed heights exceeding typical flame escape, suggesting a shift towards a forest-like physiognomy. The EVI time series corroborated seasonal variations and structural changes, with increasing values over time, indicating encroachment processes. Our findings suggest that prolonged fire exclusion promotes the replacement of open Cerrado by denser, tree-dominated formations. We recommend implementing prescribed fires to control woody encroachment and prevent forest species from establishing above the flame zone, which is essential to maintain the natural structure, biodiversity, and long-term resilience of fire-adapted savanna community.",
+      "doi": "10.1007/s44415-026-00122-8",
+      "authors": [
+        "Wender Moreira Barros",
+        "Temilze Gomes Duarte",
+        "Ben Hur Marimon",
+        "Beatriz Schwantes Marimon",
+        "Maria Luiza Silva Barradas",
+        "Luiz Gustavo Gonçalves",
+        "Gabriel Henrique Pires de Mello Ribeiro"
+      ],
+      "year": 2026,
+      "journal": "Discover Forests",
+      "openalex_id": "W7203531372",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203531372",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (prescribed)",
+      "tags": [
+        "Prescribed"
+      ],
+      "summary": "Tropical savannas, including the Brazilian Cerrado, face significant woody encroachment linked to fire suppression. We investigated floristic composition, horizontal and vertical structure, and Enhanced Vegetation Index (EVI) time series in a 1-hectare plot within Chapada dos Guimarães National Park.",
+      "added": false
+    }
+  ]
+}
