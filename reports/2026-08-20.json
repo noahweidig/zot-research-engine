@@ -1,0 +1,262 @@
+{
+  "date": "2026-08-20",
+  "statistics": {
+    "fetched": 81,
+    "duplicates_removed": 71,
+    "evaluated": 10,
+    "added": 1,
+    "ignored": 9,
+    "average_score": 1.9
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "The people and the trees: postfire policy and rehabilitation in Washoe Country",
+      "abstract": "For thousands of years the Washoe people have cultivated a special relationship with the single-leaf pinyon pine. These trees once carpeted the Pine Nut Mountains of the Southern Carson Valley, providing the Washoe with a reliable source of food for countless generations. Today, large expanses of the Pine Nut Mountains have been denuded of pinyon pine, a consequence of high-severity wildfire. In this paper, we explore the impacts high-severity wildfires have had on the Washoe Tribe’s ability to access and cultivate pinyon pines on their ancestral homelands. In the fall of 2023, our research team interviewed Washoe community members and employees about their experiences in postfire landscapes. Our findings reveal a highly fragmented and volatile landscape that has significantly compromised the ecological stability of the Pine Nut Mountains. Interviewees regarded the disruption of Indigenous stewardship and its replacement with federal land management as primary drivers for the current ecological crisis confronting the Washoe people. In particular, the onset of colonial settlement brought new ways of knowing and interacting with the land that prioritized the economic aspects of land over its relational aspects. Participants also discussed challenges associated with the bureaucratic obstacles federal agencies impose upon the Washoe Tribe in their ongoing efforts to rehabilitate the land. These include delayed response times to administrative requests and a lack of collaboration in planning postfire treatments. We conclude by discussing practical solutions, such as enhancing tribal sovereignty and making land more accessible to the people.",
+      "doi": "10.1080/26395916.2026.2710839",
+      "authors": [
+        "Gregory Russell",
+        "Rhiana Jones",
+        "Courtney Schultz"
+      ],
+      "year": 2026,
+      "journal": "Ecosystems and People",
+      "openalex_id": "W7203720209",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203720209",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 64%: matched 4/6 key interest terms (wildfires, wildfire, drivers, large)",
+      "tags": [
+        "Wildfires",
+        "Wildfire",
+        "Drivers",
+        "Large"
+      ],
+      "summary": "For thousands of years the Washoe people have cultivated a special relationship with the single-leaf pinyon pine. These trees once carpeted the Pine Nut Mountains of the Southern Carson Valley, providing the Washoe with a reliable source of food for countless generations.",
+      "added": true
+    },
+    {
+      "title": "Climatic niche variation in genetically distinct populations throughout the annual cycle for a migratory parulid bird, <i>Cardellina pusilla</i>",
+      "abstract": "At the intraspecific level, environmental heterogeneity can create opportunities for local adaptation and population differentiation. However, studying the effects of environmental heterogeneity in migratory animals is challenging due to the complexity of their natural history, which is conditioned by their long journeys each year. Cardellina pusilla is a widespread Neotropical migratory bird that comprises six genetically distinct populations. We conducted a detailed study of the potential for differentiation among those populations in their climatic niche space and preferences across the annual cycle. Previous studies had focused mainly on the breeding part of their range, leaving the non-breeding range under-sampled. We filled in those sampling gaps with genetic samples in key regions of the non-breeding grounds to analyze variation in the realized climatic niche among the six genetically distinct populations. We found that niche breadth was wider during the non-breeding season than the breeding season. There were also clear differences in breeding niches among populations, with that of the Eastern Boreal population being the most differentiated from the other populations. The non-breeding niches were more similar among populations, but the Eastern Boreal population still showed low overlap with the other populations. Comparisons from seasonal climatic niche overlap and potential migratory destinations revealed that several populations ( e.g., Coastal California, Pacific Northwest) would experience a better climatic match if they occupied non-breeding grounds used by other populations, yet they do not do so. This pattern is consistent with recent theoretical frameworks suggesting that philopatry, site fidelity and energy efficiency are stronger drivers of migratory connectivity than climatic niche. Our findings demonstrate substantial intraspecific niche variation across the annual cycle, that populations follow distinct migratory strategies, and that non-breeding ground fidelity may limit migratory animals’ ability to adjust to climate change. Conservation efforts should prioritize the protection of historically used non-breeding areas and recognize that population-specific vulnerabilities are shaped by migratory fidelity, not by potential climatic optima.",
+      "doi": "10.7717/peerj.21540",
+      "authors": [
+        "Genaro Rodríguez Otero",
+        "Christen Bossu",
+        "Marius Somveille",
+        "Sergio Gómez-Villaverde",
+        "Kristen Ruegg",
+        "Blanca E. Hernández-Baños"
+      ],
+      "year": 2026,
+      "journal": "PeerJ",
+      "openalex_id": "W7203612318",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203612318",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 2/6 key interest terms (eastern, drivers)",
+      "tags": [
+        "Eastern",
+        "Drivers"
+      ],
+      "summary": "At the intraspecific level, environmental heterogeneity can create opportunities for local adaptation and population differentiation. However, studying the effects of environmental heterogeneity in migratory animals is challenging due to the complexity of their natural history, which is conditioned by their long journe…",
+      "added": false
+    },
+    {
+      "title": "From logistic regression to deep learning: machine learning modeling of lightning in ERA5 reanalysis data",
+      "abstract": "Abstract. Most lightning parameterization schemes rely on local approaches where the predictors are the atmospheric variables in the same grid cell as the output. To validate the hypothesis that large-scale thunderstorm clusters – such as mesoscale convective systems – are driven by broad spatial predictor patterns, we model lightning occurrence using architectures capable of processing surrounding grid-cell data rather than relying solely on local point-based inputs. This study develops a deep convolutional neural network (U-Net) to model lightning occurrence across Europe using ERA5 reanalysis data. The model is trained on 13 years of data and evaluated with a leave-one-year-out cross-validation strategy. We compare the performance of the U-Net to several local machine learning models of increasing complexity, including logistic regression, generalized additive model, extreme gradient boosting, and multi-layer perceptron. We find that the U-Net outperforms all single grid cell models in overall performance and on the most extreme events. Through a feature importance study, we find that the most important predictors depend on the model type. Finally we show with a spatial sensitivity study that the U-Net captures mesoscale patterns driving lightning occurrence.",
+      "doi": "10.5194/egusphere-2026-4363",
+      "authors": [
+        "Adrien Burq",
+        "Jean Jouhaud",
+        "Victor Xing",
+        "Victor Bouvier",
+        "Vincent Forcadell",
+        "Mateusz Taszarek",
+        "Mathieu Vrac",
+        "Davide Faranda"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203648609",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203648609",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 2/6 key interest terms (occurrence, large)",
+      "tags": [
+        "Occurrence",
+        "Large"
+      ],
+      "summary": "Abstract. Most lightning parameterization schemes rely on local approaches where the predictors are the atmospheric variables in the same grid cell as the output.",
+      "added": false
+    },
+    {
+      "title": "Power distribution system blackstart restoration using renewable energy",
+      "abstract": "Large-scale blackouts continue to expose the fragility of traditional top-down restoration, where end users remain de-energized until bulk generation and transmission are recovered. The rapid growth of inverter-based distributed energy resources (DERs) creates a credible alternative: bottom-up blackstart, in which grid-forming resources connected to the distribution system establish local voltage and frequency references, energize islands, and progressively extend and merge them after synchronization conditions are satisfied. However, feasibility at the grid edge is governed less by installed capacity than by deliverable inverter headroom under current and apparent power limits, low-inertia frequency dynamics, cold load pickup transients, protection admissibility, and imperfect situational awareness as topology changes. This Review synthesizes the operational foundations that define the bottom-up blackstart security envelope, and organizes the literature on multi-step, closed-loop decision workflows that co-optimize switching, stepwise load pickup, and DER dispatch decisions under renewable variability. We further survey uncertainty-aware formulations, information-adaptive rolling horizon and recourse perspectives, and learning-assisted surrogates that accelerate screening and combinatorial search while preserving physical feasibility guarantees. Finally, we connect standardization pathways to practical validation needs, and highlight open gaps in dynamic admissibility modeling, protection, observability, and real-time decision support required for reliable, scalable and autonomous bottom-up blackstart.",
+      "doi": "10.1038/s41467-026-76692-0",
+      "authors": [
+        "Wenlong Shi",
+        "Cong Bai",
+        "Zhaoyu Wang"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W4415981258",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4415981258",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/6 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Large-scale blackouts continue to expose the fragility of traditional top-down restoration, where end users remain de-energized until bulk generation and transmission are recovered.",
+      "added": false
+    },
+    {
+      "title": "Contrasting air pollution and surface temperature trends in South and East Asia: satellite observations and CMIP6 simulations assessment",
+      "abstract": "Abstract. South and East Asia have experienced contrasting air pollution trends over recent decades, with implications for regional climate, particularly surface temperature. However, the consistency between recent satellite-observed changes and climate model projections remains under-documented. Using IASI, OMI, MODIS and CERES satellite observations, we examine how changes in gaseous pollutants (CO, NO2, SO2) and aerosol loading (AOD) are associated with surface temperature (Tskin) changes over South and East Asia during 2008–2025, considering other key variables affecting Tskin (cloud fraction, surface shortwave radiation (SSW↓), vegetation cover). We compare observed changes with CMIP6 simulations under SSP1-2.6, SSP2-4.5, and SSP3-7.0 and discuss their evolution up to 2100. Observations reveal strong declines in CO, NO2, SO2, and AOD over East Asia and increases over South Asia. These trends align with a strong warming over East Asia and daytime cooling over South Asia, consistent with cloud fraction and SSW↓ trends. Vegetation greening reinforces cooling in South Asia while being outweighed by increased SSW↓ in East Asia. CMIP6 simulations reproduce observed gaseous pollutant changes over East Asia most consistently with SSP1-2.6, whereas South Asia lies between SSP1-2.6 and SSP2-4.5. AOD in both regions falls between SSP1-2.6 and SSP2-4.5. However, CMIP6 models do not reproduce the observed regional contrast in surface temperature. The extended historical period in CMIP7, overlapping with the satellite era, will provide new opportunities to evaluate model representations of recent air pollution changes and their associated climate responses.",
+      "doi": "10.5194/egusphere-2026-4393",
+      "authors": [
+        "Selviga Sinnathamby",
+        "Sarah Safieddine",
+        "Anne Boynard",
+        "Juliette Hadji-Lazaro",
+        "Solène Turquéty",
+        "Simon Whitburn",
+        "Lieven Clarisse",
+        "Marie Doutriaux-Boucher",
+        "Pierre Coheur",
+        "Cathy Clerbaux"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203598813",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203598813",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract. South and East Asia have experienced contrasting air pollution trends over recent decades, with implications for regional climate, particularly surface temperature. However, the consistency between recent satellite-observed changes and climate model projections remains under-documented.",
+      "added": false
+    },
+    {
+      "title": "Seizing the Next Decade: A Proposed Prioritisation Framework for Rwanda’s Economic Growth",
+      "abstract": "This report is offered as a roadmap for achieving 3x growth that is inclusive, sustainable, and resilient. It will identify key sectors that can drive targeted economic expansion (for example, agro-processing, manufacturing, digital services, tourism, and critical minerals beneficiation) and put in place the cross-cutting enablers required for its growth (such as skills development, green infrastructure, and financial sector depth).",
+      "doi": "10.64503/20260817",
+      "authors": [],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203667873",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203667873",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "This report is offered as a roadmap for achieving 3x growth that is inclusive, sustainable, and resilient. It will identify key sectors that can drive targeted economic expansion (for example, agro-processing, manufacturing, digital services, tourism, and critical minerals beneficiation) and put in place the cross-cutt…",
+      "added": false
+    },
+    {
+      "title": "The Value of Controlling Wilding Conifers in New Zealand",
+      "abstract": "ABSTRACT Exotic, invasive conifer tree species, known as ‘wilding conifers’, pose a significant threat to natural ecosystems and are costly to manage, creating a need to identify community preferences in order to inform and balance public investment in their control. Currently, approximately 7% of New Zealand's total land area is covered by invasive wilding conifers, and the rate of spread is approximately 5% per year. This study analysed the preferences of the New Zealand population regarding the control of wilding conifers in indigenous ecosystems using a choice experiment. The results, obtained through a mixed logistic model in willingness‐to‐pay space, showed that the public places significant value on controlling the spread of wilding conifers. Preferences for control displayed distance decay and diminishing marginal utility. The study also examined the spatial heterogeneity of preferences in terms of distance decay and the spatial dimension of scope. Finally, the study estimated the value of controlling the spread of wilding conifers nationally, which was found to be about NZ$147 million annually, and broadly consistent with the economic damage caused by other major invasive weeds in New Zealand. These findings confirm the importance of spatial factors in explaining preferences for the control of invasive trees and demonstrate how policymakers can use the estimated values to measure the benefits of different control options.",
+      "doi": "10.1111/1467-8489.70153",
+      "authors": [
+        "Maksym Polyakov",
+        "Abbie Rogers",
+        "Philip Stahlmann‐Brown",
+        "Rowan Sprague",
+        "Olivia R. Burge",
+        "Johanna Yletyinen",
+        "Duane A. Peltzer"
+      ],
+      "year": 2026,
+      "journal": "Australian Journal of Agricultural and Resource Economics",
+      "openalex_id": "W7203702063",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203702063",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Exotic, invasive conifer tree species, known as ‘wilding conifers’, pose a significant threat to natural ecosystems and are costly to manage, creating a need to identify community preferences in order to inform and balance public investment in their control.",
+      "added": false
+    },
+    {
+      "title": "Strategic HRM and Digital Marketing Integration for Enhancing Online Customer Ratings",
+      "abstract": "The advent of digital platforms has revolutionized the customer interaction of organizations and online ratings and reviews can make or break the brand image and business performance. Although digital marketing strategies have been found to affect customer perceptions, the effect of Strategic Human Resource Management (SHRM) on improving online customer ratings is less studied. This study explores the link between employee capabilities, customer oriented behavioural actions and the digital engagement, and the three variables combined impact on customer satisfaction and online evaluations. The research design is of quantitative type with primary data obtained from the employees and customers of the service-oriented organization in various activities such as retail, hospitality, healthcare and ecommerce. The respondents were purposively sampled and a structured questionnaire was used. Descriptive statistics, correlation analysis, and multiple regression analysis were used to analyze the collected data and examine the relationships among strategic HRM practices, digital marketing effectiveness, employee engagement, service quality and online customer ratings. The results show that companies which combine strategic recruitment, lifelong employee development, performance management and reward systems focused on customer value with targeted online marketing messages have a much greater customer satisfaction and positive online reviews. The HRM strategies were found to be associated with the employee responsiveness, communication quality and service competence in digital services, which were identified as important mediating factors between HRM strategies and online feedback from customers. The study findings show that sustainable online reputation improvement efforts must be from a cross-functional HR/marketing approach, not a one-off departmental effort. The research provides practical implications for managers who want to increase brand credibility, customer loyalty and competitive advantage by implementing an integrated approach between people management and digital marketing. It also makes a significant contribution to the emerging interdisciplinary literature by proposing an integrative framework to link strategic HRM with digital customer experience management in the digital economy.",
+      "doi": "10.70917/ijcisim-2026-4730",
+      "authors": [
+        "Divya Varghese",
+        "Jaya Ganesan",
+        "Shanu Singh",
+        "Sruthi S"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Computer Information Systems and Industrial Management Applications",
+      "openalex_id": "W7203621290",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203621290",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "The advent of digital platforms has revolutionized the customer interaction of organizations and online ratings and reviews can make or break the brand image and business performance.",
+      "added": false
+    },
+    {
+      "title": "Climate Change and Regional Development in South Africa: Exploring Emerging Research Trends",
+      "abstract": "Regional development in South Africa is currently undergoing significant transformation as climate change increasingly impacts local economies and governance structures. Notably, the country has not yet fully implemented any climate change legislation, with the Climate Change Act only receiving presidential assent on March 17, 2025. As a result, climate change does not prominently feature in South Africa's research and policy agendas. Adaptation and mitigation efforts frequently arise from pressures unrelated to climate change, leading to fragmented and inconsistent approaches. In an effort to contribute to the current lack of research on climate change and regional development within South Africa, this study conducts a systematic review that examines the 20 most recent Scopus-indexed articles that explore the intersection of regional development and climate change in South Africa. In rapidly evolving fields like climate change, up-to-date research provides essential insights into the latest advancements and shifts in the area of study, making it crucial for a comprehensive review. This study ultimately enhances our understanding of the relationship between regional development and climate change in South Africa by identifying key themes, addressing critical gaps, and outlining effective pathways for the future.",
+      "doi": "10.59072/rper.vi75.897",
+      "authors": [
+        "Chané de Bruyn",
+        "Rui Alexandre Castanho",
+        "Jose Manuel Jurado Almonte"
+      ],
+      "year": 2026,
+      "journal": "RPER",
+      "openalex_id": "W7203603437",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203603437",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Regional development in South Africa is currently undergoing significant transformation as climate change increasingly impacts local economies and governance structures.",
+      "added": false
+    },
+    {
+      "title": "Climate change and conservation of threatened tree species in the Doce River Basin: an ecological niche modeling approach",
+      "abstract": "Abstract Tropical forests, particularly the Atlantic Forest, are among the most biodiverse and threatened ecosystems on Earth. Intense fragmentation, historical deforestation, and climate change have compromised their integrity and endangered endemic and rare species. The situation is even more critical in the Doce River Basin (DRB), a biodiversity hotspot in southeastern Brazil, due to the expansion of pastureland and mining, as well as the 2015 Mariana disaster. Understanding how future climate may affect the persistence of threatened tree species in the region is essential. This study evaluated the effects of climate scenarios on the distribution of 26 rare and/or threatened tree species in the DRB. We used Species Distribution Models (SDMs), combining algorithms (GLM, RDF, SVM, MaxEnt) into a consensus ensemble model under SSP3-7.0 and SSP5-8.5 scenarios for 2050 and 2090. Climatic, topographic, and edaphic variables were predictors, with climate explaining most environmental variation. Among the 26 species, 19 are projected to lose over 75% of their suitable area, with local extinction likely for range-restricted and specialized species such as Handroanthus arianeae and Grazielodendron rio-docensis . Species associated with mature forests and humid microclimates were most severely affected, while some generalists showed resilience, maintaining or expanding suitable areas. Although all species retain some suitable habitats within Protected Areas (PAs), results indicate the current PA network will be insufficient for long-term conservation. Complementary strategies such as assisted translocation, habitat connectivity, and priority-area identification based on climate projections are needed. This study provides critical insights for policies and land-use planning aimed at conserving the DRB’s threatened flora.",
+      "doi": "10.1007/s10531-026-03455-0",
+      "authors": [
+        "Cecília Loren-Silva",
+        "Rodrigo Gomes Gorsani",
+        "Alex Josélio Pires Coelho",
+        "Carlos M. Galván-Cisneros",
+        "Rafaela Brandão-Gomes",
+        "Renato A. Ferreira de Lima",
+        "Carlos Moreira Miquelino Eleto Torres",
+        "Nathália Silva",
+        "Marcelo Simonelli",
+        "Markus Gastauer",
+        "Fabiana Bonani",
+        "João Augusto Alves Meira‐Neto"
+      ],
+      "year": 2026,
+      "journal": "Biodiversity and Conservation",
+      "openalex_id": "W7203678886",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203678886",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract Tropical forests, particularly the Atlantic Forest, are among the most biodiverse and threatened ecosystems on Earth. Intense fragmentation, historical deforestation, and climate change have compromised their integrity and endangered endemic and rare species.",
+      "added": false
+    }
+  ]
+}
