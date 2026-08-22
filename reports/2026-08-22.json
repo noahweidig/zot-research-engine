@@ -1,0 +1,746 @@
+{
+  "date": "2026-08-22",
+  "statistics": {
+    "fetched": 84,
+    "duplicates_removed": 56,
+    "evaluated": 28,
+    "added": 2,
+    "ignored": 26,
+    "average_score": 1.57
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "“Turn the faucet”: right-wing hydrosocial imaginaries of irrigation water in the Western United States",
+      "abstract": "The second administration of United States President Donald Trump has taken an authoritarian, centralized approach to governance in the United States. Water management is one area in which the president has attempted to show dominance. This research theorizes President Trump’s concept of water in the United States West as a “hydrosocial imaginary” in which the release of water from rivers and reservoirs indicates virility, action, and power, instead of liberal cautiousness and prudence. By ordering the release of two billion gallons of water from California’s Central Valley into the dry Tulare Basin one hundred miles north of Los Angeles for the purpose of battling the 2025 Los Angeles wildfires, Trump’s claim to have redirected water “down from the Pacific Northwest” into California to alleviate drought evokes an imaginary Western landscape of underexploited resources, instead of over-allocated river systems in water-stressed areas. Using content analysis of historical and contemporary newspaper articles and other relevant materials, this article first examines both parallel and contradictory rhetorical structures between Trump’s idea of water transfers and those of the past one hundred years. The article further refines this examination through semi-structured interviews of irrigators and water managers in the Pacific Northwest, demonstrating the differences between hydrosocial imaginaries of the Trump administration and those of actual water practitioners. The article concludes that Trump’s concept of what is possible in the development of hydraulic infrastructure represents a top-down technocratic authoritarian imaginary that echoes failed historical attempts at megaprojects. This approach is removed from present-day conditions in the United States West, and ignores the localist and regionally-grounded approaches of water practitioners. Overall, these findings suggest that the politics of water, agriculture, and natural resources do not settle comfortably along right- and left-wing polarities, but instead diverge between imaginaries that center localism and those that take a technocratic-authoritarian approach in relation to their views on potential for change to water systems, resource availability, power, and imagined connectivity.",
+      "doi": "10.3389/fsufs.2026.1869993",
+      "authors": [
+        "Alexander Reid Ross",
+        "Thien-Kim Bui",
+        "Alida Cantor"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Sustainable Food Systems",
+      "openalex_id": "W7203771426",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203771426",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 57%: matched 4/12 key interest terms (united, united states, states, wildfires)",
+      "tags": [
+        "United",
+        "United States",
+        "States",
+        "Wildfires"
+      ],
+      "summary": "The second administration of United States President Donald Trump has taken an authoritarian, centralized approach to governance in the United States. Water management is one area in which the president has attempted to show dominance.",
+      "added": true
+    },
+    {
+      "title": "A comprehensive assessment of emissions from prescribed fires in two Mediterranean shrublands: chemical and morphological analysis",
+      "abstract": "Abstract. Prescribed burning is widely used to reduce fuel loads and mitigate wildfire risk in Mediterranean shrublands, yet field-based emission factors (EFs) for these ecosystems remain scarce, limiting the accuracy of emission inventories and atmospheric models. This study investigates gaseous and particulate emissions from prescribed fires in Calluna vulgaris and Genista hispanica shrublands in northwestern Spain to characterize emission profiles and evaluate how vegetation-specific fire behaviour influences atmospheric emissions. A field-based approach combined gravimetric analysis, thermal–optical transmittance, ion chromatography, Fourier-transform infrared spectroscopy (FTIR), and scanning electron microscopy (SEM). Calluna burns were more intense and flaming (modified combustion efficiency, MCE = 90.6 %), whereas Genista burns were dominated by smouldering combustion (MCE = 70.8 %). Gas-phase concentrations of CO2, CO, CH4, C2H6, and total organic carbon were higher in Calluna fires, although EFs for incomplete-combustion products (CO, CH4, TOC, and elemental carbon) were generally higher for Genista. PM2.5 EFs reached 53.5 g kg−1 for Calluna and 44.7 g kg−1 for Genista. Organic and elemental carbon accounted for 28.1 % and 32.9 % of PM2.5 mass, respectively, while water-soluble inorganic ions contributed 6.9 % and 4.5 %. Morphological analysis revealed abundant tar-ball-like submicrometric organic particles and aggregates with thick organic coatings, suggesting effects on aerosol optical properties, hygroscopicity, and cloud condensation nuclei activity. These field-derived EFs improve the representation of Mediterranean shrubland fires in emission inventories and atmospheric chemistry–transport models, contributing to a better understanding of their impacts on air quality and the carbon cycle.",
+      "doi": "10.5194/acp-26-11695-2026",
+      "authors": [
+        "Carlos Blanco-Alegre",
+        "Ana Isabel Calvo",
+        "F. Oduber",
+        "Esther Coz",
+        "Célia A. Alves",
+        "Luz Valbuena",
+        "Rosa María Cadenas",
+        "Fernando Castedo",
+        "Roberto Fraile"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7136650862",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7136650862",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 44%: matched 4/12 key interest terms (prescribed, prescribed burning, burning, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Prescribed Burning",
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Prescribed burning is widely used to reduce fuel loads and mitigate wildfire risk in Mediterranean shrublands, yet field-based emission factors (EFs) for these ecosystems remain scarce, limiting the accuracy of emission inventories and atmospheric models.",
+      "added": true
+    },
+    {
+      "title": "Navigating the dual nature of wildfire in the Anthropocene: a framework for assessing impacts on nature’s contributions to people and pathways to adaptive management",
+      "abstract": "Wildfires historically shaped and sustained global biomes, but climate change, strict fire exclusion policies, and rapid expansion into the wildland–urban interface have fueled an era of unprecedented, high-severity “megafires.” This review synthesizes current literature on the dual nature of wildland fires, categorizing their impacts on material, non-material, and regulating Nature’s Contributions to People (NCP) using the IPBES framework. Grounded in case studies from regions experiencing acute megafires including California, Australia, Canada, Chile, Siberia, Maui, and Los Angeles, we present a conceptual framework illustrating fire's transition from an ecological regulator to a driver of severe NCP degradation. High-severity fires frequently cross ecological thresholds, causing acute detriments like massive timber loss, water quality degradation, disrupted soil microbiomes, and eroded recreational landscapes. Conversely, low-to-moderate severity fires, particularly Indigenous cultural burning practices, remain vital for sustaining these ecosystem contributions. We identify critical research gaps regarding multi-decadal post-fire recovery and sector-specific economic valuations, which are essential for improving decision support. Furthermore, we argue that risk-based NCP accounting must be paired with innovative conservation finance models to fund proactive, landscape-scale fire management. This synthesis underscores the urgent need to shift global land management from absolute fire suppression toward adaptive resilience and co-management, utilizing the NCP framework to evaluate complex trade-offs, target fuel treatments, quantify costs, and drive necessary policy reforms in increasingly fire-prone landscapes.",
+      "doi": "10.3389/ffgc.2026.1870338",
+      "authors": [
+        "Lacour M. Ayompe",
+        "Micah Elias"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7203674441",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203674441",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 3/12 key interest terms (burning, wildfires, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires historically shaped and sustained global biomes, but climate change, strict fire exclusion policies, and rapid expansion into the wildland–urban interface have fueled an era of unprecedented, high-severity “megafires.” This review synthesizes current literature on the dual nature of wildland fires, categorizi…",
+      "added": false
+    },
+    {
+      "title": "Uncovering Insights and Unsupervised Latent Topics in Global Habitat Suitability Research",
+      "abstract": "Abstract In recent years, the global community has aimed to mitigate the loss of biodiversity due to climate change and has focused on sustainability. Habitat suitability (HS) studies play a crucial role in biodiversity conservation and sustainable development practices. In this study, we explored the insights of 38,746 HS-related documents recorded in the Scopus database between 1947 and 2024, applying bibliometric analysis coupled with the Latent Dirichlet Allocation (LDA) unsupervised machine learning model. We examined the publication trends, cooccurrence and co-authorship networks, investigated species and their kingdoms and the thematic LDA topics. As a result, we observed an increasing trend that followed Benford distribution (P-value > 0.308), suggesting a natural growth pattern rather than any systematic irregularity in publications over time. Keywords such as habitat quality, ecosystems and biodiversity were highly interconnected. The United States of America authored the highest number of publications, followed by the People's Republic of China and the United Kingdom. While mapping the scientific names, we observed HS research was mainly centered on the Animalia kingdom, followed by plants, fungi, and chromista. In habitat suitability studies, species such as Salmo trutta (Animalia), Phragmites australis (Plantae), Escherichia coli (Bacteria), Plasmodium falciparum (Chromista), Trypanosoma cruzi (Protista), and Batrachochytrium dendrobatidis (Fungi) were identified as dominant representatives within their respective biological domains. From the LDA model, six thematic topics: ecological modeling, habitat suitability, bioactivity and integrity, species interactions, habitat quality, and taxonomy environmental modeling were observed. The comprehensive approaches and findings of this research offer insights into future researchers, conservationists, and policymakers, supporting environment and conservation management practices.",
+      "doi": "10.1088/2515-7620/ae9b6b",
+      "authors": [
+        "Thakur Dhakal",
+        "Shraddha Tiwari",
+        "Tae-su Kim",
+        "Anteneh Bongasie",
+        "Tulsi Paudel",
+        "Junyoung Kim",
+        "Gab‐Sue Jang",
+        "Su‐Jin Kim"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7203679378",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203679378",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 25%: matched 3/12 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract In recent years, the global community has aimed to mitigate the loss of biodiversity due to climate change and has focused on sustainability. Habitat suitability (HS) studies play a crucial role in biodiversity conservation and sustainable development practices.",
+      "added": false
+    },
+    {
+      "title": "High-severity shoreline wildfire triggers near-collapse of beaver lodge occupancy on a boreal lake",
+      "abstract": "Abstract Beavers are widely recognized ecosystem engineers that create persistent habitat structures such as lodges; yet, the conditions under which these structures fail to support occupancy remain poorly understood. We show that high-severity spring wildfire can precipitate abrupt functional collapse of these habitats. Following a May 2025 wildfire along Besnard Lake (Saskatchewan, Canada), we inventoried all 51 beaver lodges along the 154-km burned shoreline. Lodge occupancy declined markedly relative to pre-fire conditions; occupancy along the same shoreline segments decreased from 48.1% (26 of 54 lodges) in 2019 to 5.9% (3 of 51 lodges) after the fire. Among 32 lodges that could be matched between surveys, occupancy declined from 13 lodges in 2019 to 2 lodges in 2025. While 32 lodges experienced burning (of which 28 were partially or fully collapsed), structural damage alone did not predict occupancy. Occupied lodges occurred in areas of lower burn severity and where living deciduous vegetation remained available. These findings suggest a disturbance-driven decoupling between the physical persistence of engineered structures (i.e., lodges) and the ecological resources (i.e., food) required to sustain beavers. Under early-season, high-severity fire conditions, shoreline habitats that normally exhibit multi-year stability may rapidly fail due to loss of forage connectivity rather than lodge destruction alone.",
+      "doi": "10.1088/2752-664x/ae9b12",
+      "authors": [
+        "Cherie J. Westbrook",
+        "Elston Dzus",
+        "Zachary Waldner",
+        "Connie Dzus"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Ecology",
+      "openalex_id": "W7203688457",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203688457",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 2/12 key interest terms (burning, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Abstract Beavers are widely recognized ecosystem engineers that create persistent habitat structures such as lodges; yet, the conditions under which these structures fail to support occupancy remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Wildfire shocks, labor markets, and public policies: Economy-wide evidence from a Mediterranean country",
+      "abstract": "Using the 2017 Portuguese wildfires as empirical evidence from a Mediterranean climate country, this paper assesses the economy-wide and employment effects of wildfire-related capital and labor shocks through a static computable general equilibrium (CGE) model with an extended labor-market framework. The analysis focuses on how wildfire shocks interact with labor markets, affect aggregate welfare, and condition the effectiveness of public policy responses. The results show that labor-market disruptions amplify economic losses beyond direct physical damage. Among the policy scenarios examined, comprehensive responses combining infrastructure investment, sector-specific support, and household transfers provide the strongest mitigation of aggregate losses. Recovery and mitigation policies generate the strongest positive effects on GDP, while the fire suppression-cost scenario alone has limited effectiveness. Employment impacts are concentrated in the primary and tourism-related sectors, particularly forestry, agriculture, transport, and accommodation. The findings highlight the importance of maintaining labor-force participation during climate disasters and of combining capital restoration with household support. By quantifying the economy-wide trade-offs between wildfire damage, labor-market disruption, and public-response channels, the paper provides evidence relevant to wildfire-prone Mediterranean economies and to broader environmental-development debates.",
+      "doi": "10.1016/j.envdev.2026.101547",
+      "authors": [
+        "Luis Enrique Escalante Ochoa",
+        "Rita Sousa",
+        "Antonio Gómez Gómez-Plana",
+        "Cristiana Gião"
+      ],
+      "year": 2026,
+      "journal": "Environmental Development",
+      "openalex_id": "W7203560157",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203560157",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 2/12 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Using the 2017 Portuguese wildfires as empirical evidence from a Mediterranean climate country, this paper assesses the economy-wide and employment effects of wildfire-related capital and labor shocks through a static computable general equilibrium (CGE) model with an extended labor-market framework.",
+      "added": false
+    },
+    {
+      "title": "Impact of power line corridors on carbon stocks of upland forests in eastern Canada",
+      "abstract": "Hydroelectricity is considered a renewable energy source with low greenhouse gas emissions. However, little attention has been given to the impact of the construction and maintenance of power line corridors on soil and vegetation. This study assessed the effect of power line corridors on terrestrial carbon pools in upland forests across a 750-km gradient from deciduous forests to open-canopy taiga in Quebec (Canada). Quantification of ecosystem carbon pools (live biomass, dead organic matter and soil) was carried out using transects of plots located in: i) the power line corridor, ii) the forest located at 20 m from the corridor edge (forest edge), and iii) the forest located at 60 m from the corridor (interior forest, considered as a control). Ecosystem carbon stocks were significantly lower in the corridors, with reductions of 36–133 Mg of C ha −1 compared with interior forests. Yet, corridors still stored substantial carbon (average of 108.5 ± 13.7 Mg of C ha −1 ). While biomass of trees and shrubs was significantly reduced in the corridor compared with interior and edge forests, total soil carbon stocks (which varied from 80.11 to 169.91 Mg of C ha −1 across bioclimatic domains) were similar between corridors and forests. We also observed similar carbon stocks between edge and interior forests, suggesting that the influence of power line corridors is not noticeable at 20 m and beyond in adjacent forest ecosystems. Our study improves the quantification of carbon storage across forested landscapes and the GHG footprint of hydroelectricity.",
+      "doi": "10.1007/s11104-026-08978-7",
+      "authors": [
+        "Ariane Belleau",
+        "Évelyne Thiffault",
+        "David Paré",
+        "Jean‐François Boucher",
+        "Samuel Roy Proulx",
+        "Grant M. Domke"
+      ],
+      "year": 2026,
+      "journal": "Plant and Soil",
+      "openalex_id": "W7203674984",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203674984",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/12 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Hydroelectricity is considered a renewable energy source with low greenhouse gas emissions. However, little attention has been given to the impact of the construction and maintenance of power line corridors on soil and vegetation.",
+      "added": false
+    },
+    {
+      "title": "Assessing global flood risk from atmospheric rivers through physically guided machine learning",
+      "abstract": "Atmospheric rivers (ARs) are narrow corridors of concentrated moisture transport that play a crucial role in the global water cycle, delivering both beneficial rainfall and severe floods. Here, we develop a physically guided, explainable machine learning framework to predict flood occurrence during AR conditions worldwide by integrating AR characteristics with meteorological and topographic variables. The best model achieves a receiver operating characteristic area under the curve (ROC AUC) of 0.94, outperforming a logistic regression baseline at 0.81. Despite their limited footprint, we find that one third of large midlatitude floods occur under AR conditions, reflecting their disproportionate role in global flood risk. SHAP analysis highlights integrated vapor transport, precipitation, and elevation as dominant predictors. We show the non-linear amplification of flood risk under combined conditions of high soil moisture and persistent AR activity, underscoring the importance of antecedent wetness in modulating flood risk. Using consistent reanalysis inputs, we find that model-estimated high-flood-risk AR conditions increased globally by over 10% from 1980 to 2020 and shifted poleward. Validation on an independent satellite-based flood database shows comparable skill. We estimate that roughly 90% of the global population lives in regions that experience at least one AR annually, underscoring the broad societal relevance of AR dynamics. These findings highlight the value of physically guided machine learning for mapping and monitoring AR-related flood risk globally, offering actionable insights for preparedness and climate adaptation.",
+      "doi": "10.1038/s41598-026-67280-9",
+      "authors": [
+        "Assaf Shmuel",
+        "Oleg Zlydenko",
+        "Martin Gauch",
+        "Colin Price"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7203683413",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203683413",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/12 key interest terms (occurrence, large)",
+      "tags": [
+        "Occurrence",
+        "Large"
+      ],
+      "summary": "Atmospheric rivers (ARs) are narrow corridors of concentrated moisture transport that play a crucial role in the global water cycle, delivering both beneficial rainfall and severe floods.",
+      "added": false
+    },
+    {
+      "title": "Effectively Considering the Distribution System in Integrated Resource Plans",
+      "abstract": "While electricity planning practices vary by state and utility based on utility type and market structure, integrated resource planning (IRP) remains a prominent vehicle — even in states with centrally-organized wholesale electricity markets. IRP focuses on meeting forecasted long-term electricity needs. Typically, utilities have not considered impacts of design and operation of the low-voltage distribution network in IRP. With advanced capabilities of grid-edge technologies to generate and store electricity and provide load flexibility, and large utility investments in distribution systems, it's increasingly important to consider at least some distribution planning elements in IRP. This report considers the value proposition for doing so, such as reducing utility costs through resource co-optimization and strategic siting of grid-edge resources, and idenfities the most important touchpoints between planning for bulk power and distribution systems and provide a range of tactics for integrating these two processes.",
+      "doi": "10.2172/3424764",
+      "authors": [
+        "Grace Relf",
+        "USDOE Office of Electricity (OE)",
+        "Paul Martini",
+        "Jasmine McAdams",
+        "Vinita Srinivasan",
+        "Lisa Schwartz"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203787703",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203787703",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 2/12 key interest terms (states, large)",
+      "tags": [
+        "States",
+        "Large"
+      ],
+      "summary": "While electricity planning practices vary by state and utility based on utility type and market structure, integrated resource planning (IRP) remains a prominent vehicle — even in states with centrally-organized wholesale electricity markets. IRP focuses on meeting forecasted long-term electricity needs.",
+      "added": false
+    },
+    {
+      "title": "Profits Lost in the Haze: Evidence From Wildfire Smoke",
+      "abstract": "ABSTRACT Whereas prior studies primarily examine how environmental shocks affect manufacturing, distribution, and supply chains, we examine a distinct and understudied channel: the effect of wildfire smoke on human capital operating from firm headquarters. Using satellite‐based smoke plume measures, we show that wildfire smoke exposure in a firm's headquarters county is associated with lower operating income, with effects strengthening as smoke becomes more frequent and severe. Exposure is associated with increased employee health concerns, higher employee turnover, and shorter tenure. The negative association is stronger for firms that rely more heavily on skilled employees, and it is concentrated in higher operating costs. Collectively, these findings are consistent with wildfire smoke impairing workforce stability and productivity. Our study points to the need for enhanced climate‐risk and human‐capital disclosures. It also informs HR managers' planning for absenteeism and employee well‐being, and helps investors, audit committees, and auditors better assess smoke‐related operating risks.",
+      "doi": "10.1111/1911-3846.70079",
+      "authors": [
+        "Jing Kong",
+        "Harlow Loch",
+        "M.D. Shen"
+      ],
+      "year": 2026,
+      "journal": "Contemporary Accounting Research",
+      "openalex_id": "W7203692997",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203692997",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/12 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "ABSTRACT Whereas prior studies primarily examine how environmental shocks affect manufacturing, distribution, and supply chains, we examine a distinct and understudied channel: the effect of wildfire smoke on human capital operating from firm headquarters.",
+      "added": false
+    },
+    {
+      "title": "Post-agricultural land as a sustainable source of high-quality silver birch wood: opportunity for a destabilized timber market",
+      "abstract": "Introduction Over the last few decades, many drivers – natural, economic, geopolitical and policy-related – have destabilized the timber market in Europe, and suitable substitutes for high-quality hardwood are needed. Afforestation of agricultural land offers multiple benefits, including climate change mitigation, and the forest area in Europe has been growing for several decades; however, the wood properties of stands established on such sites remain insufficiently known. Methods The wood quality of silver birch ( Betula pendula Roth) was evaluated in north-western Poland by comparing the wood density and mechanical parameters of birch stands growing on afforested post-agricultural land (FA) with those of stands growing on standard forest soil (FL). In total, 850 birch wood samples, derived from twelve radial boards, underwent classification and testing, complemented by measurements of annual ring width and of anatomical traits (vessel diameter and length, fibre length). Results Wood density, the most important parameter, reached 0.669 g/cm 3 on former agricultural land and 0.643 g/cm 3 on forest land, with no statistically significant difference. Both mechanical parameters, MOR (FA 141 MPa, FL 127 MPa) and MOE (FA 11.27 GPa, FL 10.10 GPa), were significantly higher on former agricultural land, whereas vessel diameter and vessel length were significantly greater on forest land. Discussion All evaluated wood-quality parameters performed at least as well on afforested farmland as on forest land. Our results therefore demonstrate the high suitability of silver birch for the afforestation of abandoned agricultural land, especially given its high growth potential as a pioneer species.",
+      "doi": "10.3389/ffgc.2026.1890632",
+      "authors": [
+        "Karol Tomczak",
+        "Przemysław Mania",
+        "Jan Cukor",
+        "Zdeněk Vacek",
+        "Marta Pędzik",
+        "Stanislav Vacek",
+        "Aleš Zeidler",
+        "Arkadiusz Tomczak"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7203755265",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203755265",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Introduction Over the last few decades, many drivers – natural, economic, geopolitical and policy-related – have destabilized the timber market in Europe, and suitable substitutes for high-quality hardwood are needed.",
+      "added": false
+    },
+    {
+      "title": "A climate impact taxonomy operationalizing IPCC physical driver and risk concepts",
+      "abstract": "Strengthening the connection between physical climate science and adaptation communities is essential for producing actionable, integrated risk information. Here we present a climate impact taxonomy linking 35 climatic impact-drivers to 8 representative key risks, with metadata on climate impact characteristics, relevant subsystems and adaptation–mitigation linkages. This prototype taxonomy enables researchers, practitioners and policymakers to develop adaptation strategies and direct support towards the most urgent, evidence-based priorities across IPCC-aligned dimensions. Adaptation to climate risks requires integrating knowledge across IPCC working groups. This study presents a climate impact taxonomy that connects climatic impact-drivers from Working Group I to representative key risks from Working Group II and provides more direct guidance for risk assessment and adaptation strategies.",
+      "doi": "10.1038/s41558-026-02717-7",
+      "authors": [
+        "Michaela Werning",
+        "Edward Byers",
+        "Marina Andrijevic",
+        "Carl‐Friedrich Schleussner",
+        "Seth Monteith",
+        "Laura Aldrete Lopez",
+        "Valentin Lemaire",
+        "Elin Matsumae",
+        "Adelle Thomas",
+        "Alexander Nauels"
+      ],
+      "year": 2026,
+      "journal": "Nature Climate Change",
+      "openalex_id": "W7203795353",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203795353",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Strengthening the connection between physical climate science and adaptation communities is essential for producing actionable, integrated risk information. Here we present a climate impact taxonomy linking 35 climatic impact-drivers to 8 representative key risks, with metadata on climate impact characteristics, releva…",
+      "added": false
+    },
+    {
+      "title": "Towards a fit-for-purpose fire simulator ecosystem",
+      "abstract": "Abstract Background Fire simulators are computer programs that represent the key processes of fire spread, based on mathematical models of the physical processes of combustion and landscape fire propagation. The complexity and pace of change in fire regimes, science and technology pose challenges to the effective development and use of fire simulators. In this review, we address the nature of current fire simulators, their most common uses, and how to judge their performance. Results We find that fire simulators can be classified based on their underlying modeling approach: physical and quasi-physical, empirical and quasi-empirical, and coupled fire-atmosphere models. We find that faithful representation of fire spread and its drivers remains a primary focus and is being addressed through improved input data, spread models, and more robust validation standards. However, evidence suggests that fitness-for-purpose may be a more flexible and effective basis of simulator performance as it is able to incorporate both technical and contextual factors. Conclusions Our findings can be used by fire-prone countries and jurisdictions to support the development of an effective fire simulator “ecosystem” that addresses both technical and contextual issues.",
+      "doi": "10.1186/s42408-026-00566-5",
+      "authors": [
+        "Hamish Clarke",
+        "Kate Parkins",
+        "Erica Marshall",
+        "Alexander Filkov",
+        "Timothy Neale",
+        "Gabrielle Miller",
+        "Thomas Duff",
+        "Caitlin Symon",
+        "Trent D. Penman"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7203740021",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203740021",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Background Fire simulators are computer programs that represent the key processes of fire spread, based on mathematical models of the physical processes of combustion and landscape fire propagation.",
+      "added": false
+    },
+    {
+      "title": "Climate change impacts on forest and soil ecosystems: Microbial responses, carbon cycling, and future perspectives",
+      "abstract": "Global climate change is profoundly altering the structure and functioning of forest ecosystems by modifying temperature and precipitation regimes, increasing the frequency of extreme climatic events, and disrupting soil biological processes. This review synthesizes current knowledge on the impacts of climate change on forest and soil ecosystems, with particular emphasis on soil microbial communities, microbial biomass, enzymatic activities, nutrient cycling, and carbon sequestration. Relevant findings from recent international studies, together with regional observations and climate projections for Türkiye and the Mediterranean Basin, were critically evaluated to identify current knowledge and future research priorities. The reviewed evidence indicates that rising temperatures, prolonged drought, and altered precipitation patterns modify soil moisture, pH, organic carbon inputs, and nutrient availability, resulting in substantial changes in microbial diversity, community composition, and ecosystem functioning. Climate-induced disturbances, including wildfires, pest outbreaks, and vegetation shifts, further accelerate carbon losses and reduce ecosystem resilience, particularly in Mediterranean forests that are highly vulnerable to environmental stress. The review also highlights that microbial responses differ among forest types according to vegetation characteristics, stand age, soil properties, and topographic conditions. Overall, maintaining soil microbial diversity and ecosystem functioning will be essential for sustaining forest productivity and carbon storage under future climate scenarios. Long-term, multidisciplinary studies integrating climatic, ecological, and soil biological processes are therefore required to improve predictions and support adaptive forest management strategies.",
+      "doi": "10.32328/turkjforsci.1862878",
+      "authors": [
+        "Emre Babür"
+      ],
+      "year": 2026,
+      "journal": "TURKISH JOURNAL OF FOREST SCIENCE",
+      "openalex_id": "W7203743431",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203743431",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Global climate change is profoundly altering the structure and functioning of forest ecosystems by modifying temperature and precipitation regimes, increasing the frequency of extreme climatic events, and disrupting soil biological processes.",
+      "added": false
+    },
+    {
+      "title": "When best intentions are not enough − A collaboration between scientists, policymakers, and an agricultural community",
+      "abstract": "Rocky Mountain National Park is a Congressionally mandated Clean Air Act Class I Area, but years of research have documented evidence of biogeochemical and ecological change caused by atmospheric deposition of nitrogen. A coalition of government agencies—National Park Service, the Environmental Protection Agency Region 8, and the State of Colorado—developed the 2007 Nitrogen Deposition Reduction Plan to reduce wet nitrogen deposition to the park from the baseline in 2006 by 50% by 2032. Fifty-four percent of wet nitrogen deposition is ammonium, primarily sourced from industrial cattle and dairy operations east of the park. An Agriculture Subcommittee, meeting with regulatory and management agencies and scientists since 2006, has explored voluntary options to reduce ammonia emissions. Ammonia emissions are unregulated in the U.S. Despite sustained efforts, neither ammonium deposition nor total inorganic nitrogen deposition have declined at the rate determined to reach the targeted value by 2032. In fact, ammonia is increasing over the Front Range agricultural area. Wet nitrogen deposition in 2024 was 2.81 kg N ha−1 yr−1, 0.61 kg N ha−1 yr−1 higher than targeted in the Nitrogen Deposition Reduction Plan. The collaborative approach between agricultural producers, regulatory entities, and resource managers is not working, but not for lack of effort by all parties. Cattle process nitrogen inefficiently, and while management practices can somewhat reduce the proportion of ammonia emitted from feedlots, with more than one million head of cattle east of Rocky Mountain National Park, large-scale reductions are unlikely. New programs to reduce emissions of nitrogen oxides (46% of wet nitrogen deposition) may reduce nitrogen deposition that is changing park ecosystems. Improved integration of crop and livestock agriculture and valuation of the ecosystem services and economy of Rocky Mountain National Park alongside agricultural value are topics for further discussion.Implications: Nitrogen deposition in precipitation to Rocky Mountain National Park has changed natural ecosystems. To protect its Clean Air Act Class I status a 2007 Nitrogen Deposition Reduction Plan agreed upon by state and federal agencies set a goal to reduce wet nitrogen deposition to the Park by half by 2032. Industrial livestock operations are a large source of nitrogen; an Agriculture Subcommittee explored voluntary options to reduce emissions from cattle. Despite sustained efforts nitrogen deposition has not declined. Further reductions in industry and transportation emissions will be needed reduce nitrogen deposition to Rocky Mountain National Park.",
+      "doi": "10.1080/10962247.2026.2709772",
+      "authors": [
+        "Jill S. Baron",
+        "Sarah M. Lindley",
+        "Jeffrey L. Collett",
+        "Lillian E. Naimie"
+      ],
+      "year": 2026,
+      "journal": "Journal of the Air & Waste Management Association",
+      "openalex_id": "W7203743276",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203743276",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Rocky Mountain National Park is a Congressionally mandated Clean Air Act Class I Area, but years of research have documented evidence of biogeochemical and ecological change caused by atmospheric deposition of nitrogen.",
+      "added": false
+    },
+    {
+      "title": "Terrestrial Linkages Between Carbon and Water Cycle Interactions in India",
+      "abstract": "Abstract In a warming climate, elevated atmospheric CO₂ concentrations are altering ecological and hydrological systems globally. As the second-largest contributor to global greening, driven largely by agricultural intensification and with the country's rapid economic growth, India’s vegetation dynamics have significant implications for the global water and carbon cycles and their interactions. India, as a major contributor to global greening, offers key insights into the complex interactions among climate variability, land-use shifts, and anthropogenic activities. However, large uncertainties persist in India’s water cycle, particularly in understanding monsoon precipitation processes, sparsely monitored in-situ evapotranspiration, and soil moisture, which propagate into uncertainties in global model products and predictions over the region and fundamentally limit reliable projections of vegetation productivity and carbon dynamics. Vegetation, in turn, provides feedback to the water cycle through both biophysical and physiological processes, emphasizing the need to quantify two-way land–atmosphere interactions. Understanding and reducing these inherent uncertainties are necessary for projecting the future of India’s ecosystems under ongoing global climate change. This review synthesizes current understanding of terrestrial carbon–water interactions in India, exploring regional carbon budgets, atmospheric controls on vegetation productivity, the profound effects of land management, ecosystem feedback via evapotranspiration and land surface change. We highlight emerging state-of-the-art methods, such as causal inference and machine learning, which offer powerful tools for accurately diagnosing and predicting these coupled processes. Despite these advancements, significant limitations persist: long-term field observations remain sparse, plant physiological processes are underrepresented in current land-surface models, and human interventions like irrigation are often poorly parameterized. To address these critical gaps, we propose an integrated, multiscale research framework that cohesively connects field data, remote sensing, and land-surface modeling. Strengthening this integrated understanding is essential for improving projections of ecosystem change and hydroclimatic extremes in India under projected global warming scenarios, supporting climate resilience and sustainable development.",
+      "doi": "10.1088/2515-7620/ae9b6c",
+      "authors": [
+        "Akash Verma",
+        "Leena Khadke",
+        "Puja Tripathy",
+        "Nivedita Dubey",
+        "Ajinkya Khandare",
+        "Elizabeth Eldhose",
+        "Ripan Das",
+        "Vikram Chandel",
+        "Tejasvi Chauhan",
+        "Sachin Budakoti",
+        "Sampelli Anoop",
+        "Mayank Gupta",
+        "Subimal Ghosh"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7203717651",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203717651",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract In a warming climate, elevated atmospheric CO₂ concentrations are altering ecological and hydrological systems globally. As the second-largest contributor to global greening, driven largely by agricultural intensification and with the country's rapid economic growth, India’s vegetation dynamics have significan…",
+      "added": false
+    },
+    {
+      "title": "A coupled hydrologic modeling and multi-omics analysis reveals that inflow magnitude shapes cyanobacterial structure and function",
+      "abstract": "Climate-driven changes to lake inflow regimes are an increasing concern, with many regions expected to experience fewer but more intense storm-driven inflow events interspersed with extended droughts. We assessed how the magnitude of short-period inflows, characterized by hydraulic flushing and associated nitrogen and phosphorus loadings, shape cyanobacterial community composition and functional potential across 20 eutrophic lakes in southcentral USA. Lakes were sampled during the spring and summer of 2021, 2022, and 2023. Integrating hydrologic modeling and nutrient loading estimates with paired metagenomic and metatranscriptomic datasets, we quantified taxon-specific cyanobacterial abundances and functional gene expression in relation to the magnitude of inflows integrated over 7-, 15-, and 30-days. Hierarchical clustering and multivariate ordination (NMDS, PCA) revealed consistent groupings of cyanobacteria and metabolic pathways that tracked variation in flushing, nutrient loading, and season. Our data suggest that projected future inflow regimes characterized by large episodic, nutrient-enriched disturbances will favor Planktothrix , Pseudanabaena , and other Oscillatoriales, while reducing the prevalence of picocyanobacteria and suppressing cyanotoxin biosynthesis genes. In contrast, our data suggest that future regimes characterized by inflows of smaller magnitude may promote picocyanobacteria dominance and increased representation of toxin-associated pathways. Functional gene patterns reinforce these projections in our data, with large inflow events producing short-lived increases in denitrification and nitrite reduction, followed by declines as phytoplankton productivity intensifies, alongside a shift toward organic nitrogen and phosphorus utilization and reduced dependence on high-affinity inorganic nutrient acquisition systems.",
+      "doi": "10.1038/s41598-026-64013-w",
+      "authors": [
+        "Daniel L. Roelke",
+        "Crista M. Kieley",
+        "Smita Pal",
+        "Sierra E. Cagle",
+        "Jessica Labonté"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7203737468",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203737468",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Climate-driven changes to lake inflow regimes are an increasing concern, with many regions expected to experience fewer but more intense storm-driven inflow events interspersed with extended droughts.",
+      "added": false
+    },
+    {
+      "title": "Getting the story straight: common misconceptions around volcanoes and eruptions with case studies of recent events",
+      "abstract": "Abstract The ability to rapidly disseminate scientific knowledge across the world has never been greater. This is paralleled by the ability of rumors to spread equally far and fast. Popular misconceptions can take root and, without correction, take on the appearance of facts. Commonly misunderstood topics include those with attention-grabbing phrasing (e.g. “Pacific Ring of Fire”, “supervolcanoes”, or “mega-tsunamis”), the intersection of volcanic research with high-profile science topics (climate or human health), aspirational science goals (eruption forecasts), and basic terminology (volcanic ash versus smoke, or magma “chambers”). In this paper, we describe eighteen misconceptions grouped in six themes (seismology, volcanoes and climate, systems and structures, volcanic hazards, timescales, photographs and footage) commonly encountered by volcanologists who are actively engaging with the public and media both during and between eruptions. Each misconception description is accompanied by takeaway points and summaries of recent research to assist the reader with the information necessary to describe the issues. Finally, we present seven case studies where incorrect information was widely shared and counteracted at well-known volcanoes and recent eruptions at Mount Agung (Bali, Indonesia), Mount Etna (Sicily, Italy), Kīlauea (Hawaii, U.S.A.), Tajogaite (La Palma, Spain), La Soufrière (St. Vincent), Taal Volcano (Philippines), and Yellowstone caldera (U.S.A.). This work is intended to help both volcanologists and non-specialists get the story straight, and to effectively communicate processes and scales of volcanism and volcanic hazards, impacts, and risks.",
+      "doi": "10.1186/s13617-026-00168-5",
+      "authors": [
+        "Janine Krippner",
+        "Sam Poppe",
+        "Cristian Farías",
+        "Edward Venzke",
+        "M. P. Poland",
+        "Boris Behncke",
+        "Sara K. McBride",
+        "J. L. Ball",
+        "Diana C. Roman",
+        "Heather Handley",
+        "Claire J. Horwell",
+        "Benjamin R. Edwards",
+        "L. Vanderkluysen",
+        "Carol Stewart",
+        "Emma Liu",
+        "Alia Juman",
+        "Ma. Mylene Martinez-Villegas",
+        "Brian Terbush",
+        "Erik W. Klemetti",
+        "Jazmin Scarlett",
+        "Rebecca Williams",
+        "Valerie Finlayson",
+        "Kadie Bennis",
+        "Sally S. K. Sennert",
+        "Thomas C. Pierson",
+        "Devy Kamil Syahbana",
+        "Arianna Soldati"
+      ],
+      "year": 2026,
+      "journal": "Journal of Applied Volcanology",
+      "openalex_id": "W7203679773",
+      "citation_count": 1,
+      "url": "https://openalex.org/W7203679773",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract The ability to rapidly disseminate scientific knowledge across the world has never been greater. This is paralleled by the ability of rumors to spread equally far and fast. Popular misconceptions can take root and, without correction, take on the appearance of facts.",
+      "added": false
+    },
+    {
+      "title": "Implementing methane dynamics into the LPJmL6 model",
+      "abstract": "Abstract. We extend the Dynamic Global Vegetation Model LPJmL to version 6.0 by explicitly representing methane (CH4) dynamics within the coupled carbon–nitrogen–water system. The implementation (i) prognoses water-table depth and wetland extent using a CTI–TOPMODEL framework, (ii) solves sub-daily, vertically explicit mass balances for CH4 and O2 including diffusion, ebullition, and plant-mediated transport, (iii) represents methanogenesis and methanotrophy with temperature- and moisture-dependent kinetics, and (iv) integrates land-use and rice management effects alongside inundation-tolerant plant functional types. This architecture enables consistent simulation of CH4, carbon dioxide (CO2) and nitrous oxide (N2) emissions from natural wetlands and managed systems together with the soil CH4 sink. Extensive benchmarking against global datasets shows that LPJmL6 reproduces the magnitude and regional–temporal variability of CH4 flux pathways while maintaining strong skill in the simulated terrestrial carbon, nitrogen, and water budgets. The model thus provides a coherent, process-based framework to quantify CH4 within the coupled carbon–nitrogen–water system, elucidate interactions with vegetation and soils, and assess how land-use, wetland conservation and restoration, and rice management options affect methane and overall greenhouse–gas budgets in support of climate-mitigation strategies.",
+      "doi": "10.5194/gmd-19-7615-2026",
+      "authors": [
+        "Sibyll Schaphoff",
+        "David Hötten",
+        "Christoph Müller",
+        "Dieter Gerten",
+        "Sebastian Ostberg",
+        "Werner von Bloh"
+      ],
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "openalex_id": "W7125368300",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7125368300",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract. We extend the Dynamic Global Vegetation Model LPJmL to version 6.0 by explicitly representing methane (CH4) dynamics within the coupled carbon–nitrogen–water system.",
+      "added": false
+    },
+    {
+      "title": "Climate Resilient Buildings",
+      "abstract": "Climate Resilient Buildings: Thermal Resilience through Adaptive Strategies explores the urgent need for a paradigm shift in architectural design to address the growing challenges posed by climate change and energy instability. The book emphasizes the importance of thermal resilience, which involves designing buildings that maintain safe indoor conditions during extreme heat, cold, humidity, and power outages. It advocates for an integrated approach combining passive strategies, advanced materials, renewable energy systems, and digital tools such as modeling, optimization, and digital twins. Through detailed case studies and empirical research, the book demonstrates how buildings can function as adaptive thermal systems, interacting with their environment and energy networks to ensure year-round resilience. It serves as a useful resource for professionals, students, and policymakers involved in shaping the built environment under climatic and energy stress. Highlights the critical role of interdisciplinary collaboration and education in equipping architects, engineers, and policymakers with the skills to design climate-safe buildings.",
+      "doi": "10.1201/9781003781851",
+      "authors": [
+        "Tadeusz Kuczyński",
+        "Marta Gortych",
+        "Anna Staszczuk",
+        "Anna Bocheńska-Skałecka"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203664111",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203664111",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Climate Resilient Buildings: Thermal Resilience through Adaptive Strategies explores the urgent need for a paradigm shift in architectural design to address the growing challenges posed by climate change and energy instability.",
+      "added": false
+    },
+    {
+      "title": "Integrating risk and feasibility in the spatial planning of nature-based solutions: a cross-city analysis of Barcelona, Boston, and Rotterdam",
+      "abstract": "Abstract Urban areas increasingly turn to nature-based solutions (NbS) to adapt to climate-related risks, which require integrated and systemic planning evaluating risks and feasibility of implementation. Here we develop a transferable, SETS-based decision-support framework that spatially analyzes multi-hazard climate risk and feasibility for four NbS types: green roofs, permeable pavements, rain gardens, and urban parks, across Barcelona, Boston, and Rotterdam. Integrating spatial and statistical analyses, we identify where different kinds of NbS are both most needed and most feasible for mitigating urban flooding and heat stress. Results reveal strong spatial clustering of risks and feasibility across all cities, with heat risk showing the highest spatial autocorrelation. Across cases, green roofs and permeable pavements consistently exhibit high feasibility in dense, heat-prone urban areas, whereas rain gardens and urban parks are constrained by land availability and underground infrastructure. The comparative analysis highlights how urban morphology, governance structures, and socio-economic factors shape feasibility for NbS implementation. Overlaying risk and feasibility identifies priority high risk –high feasibility zones for rapid implementation and flags high-risk/low-feasibility neighborhoods where infrastructure deficits and vulnerability may constrain adaptation, supporting more justice-oriented, context-sensitive NbS planning.",
+      "doi": "10.1038/s42949-026-00461-7",
+      "authors": [
+        "Svetlana Khromova",
+        "Svea Busse",
+        "Giulia Benati",
+        "Pablo Herreros-Cantis",
+        "Charlie Mioulet",
+        "Matthew J. Eckelman",
+        "Gara Villalba",
+        "Johannes Langemeyer"
+      ],
+      "year": 2026,
+      "journal": "npj Urban Sustainability",
+      "openalex_id": "W7138947209",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7138947209",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Urban areas increasingly turn to nature-based solutions (NbS) to adapt to climate-related risks, which require integrated and systemic planning evaluating risks and feasibility of implementation.",
+      "added": false
+    },
+    {
+      "title": "From Data to Decisions: Integrative Frameworks for Environmental Monitoring in the Anthropocene",
+      "abstract": "Environmental monitoring in the Anthropocene is at a pivotal moment from data accumulation towards decision-oriented environmental intelligence. The monitoring systems must be able to integrate multiple data streams and transform these data into actionable, credible and timely knowledge to address the critical issues of rapid climate change, biodiversity loss, pollution, land-use transformation and increasing disaster risks. This review discusses integrative frameworks bringing together the generation of environmental data, analytical synthesis, decision support systems and policy translation. It emphasizes the synergistic use of in situ observations, remote sensing, citizen science, Internet of Things sensors, environmental DNA, bioacoustics and emerging digital platforms. The article examines the role of data fusion, geospatial analysis, statistical modelling, AI, socio-ecological modelling, indicator frameworks, and uncertainty assessment as means to convert observations of diverse nature to usable evidence. It also maintains that interoperability, transparency, institutional capacity, ethical data governance, stakeholder involvement, and environmental justice are equally critical to successful monitoring. The relevance of connecting the outputs of climate monitoring to unambiguous decision pathways is illustrated in applications to climate adaptation, the conservation of biodiversity, pollution control, urban sustainability, water–land systems and disaster risk reduction. The review finds that next-generation environmental monitoring needs to be an adaptive system of knowledge-action that can learn from results, be transparent about uncertainty, and enable accountable governance in a world of dynamic environmental conditions.",
+      "doi": "10.30564/jees.v8i8.13589",
+      "authors": [
+        "Fei Zhao"
+      ],
+      "year": 2026,
+      "journal": "Journal of Environmental & Earth Sciences",
+      "openalex_id": "W7203744778",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203744778",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Environmental monitoring in the Anthropocene is at a pivotal moment from data accumulation towards decision-oriented environmental intelligence. The monitoring systems must be able to integrate multiple data streams and transform these data into actionable, credible and timely knowledge to address the critical issues o…",
+      "added": false
+    },
+    {
+      "title": "BIODIVERSITY CONSERVATION IN AN ERA OF RAPID GLOBAL ENVIRONMENTAL CHANGE",
+      "abstract": "Biodiversity is essential to the sustainability of ecosystems, their ability to recover from disturbance, and the services they provide for human life. The rapidly changing environment has made biodiversity even less relevant. According to IPCC (2022), \"climate change has caused substantial damages, and increasingly irreversible losses, in terrestrial, freshwater and coastal and open ocean marine ecosystems.\" This has profound effects on plants, animals, and humans. \"Observed wildlife populations have seen a devastating 69% drop on average since 1970\" (WWF, 2022); \"more than 44,000 species are threatened with extinction\" (IUCN, 2023); and \"the biodiversity that underpins our food systems is disappearing\" (FAO, 2019). This review describes current status of biodiversity conservation and challenges associated with human activity. It acknowledges that “climate change puts additional stresses on land, enhancing existing risks to livelihoods, biodiversity, human and ecosystem health” (IPCC, 2019). There are new approaches for the mitigation of biodiversity stress, including ecosystem-based adaptation and nature-based solutions, which affirms that “protecting biodiversity and ecosystems is fundamental to climate resilient development” (IPCC, 2023). The paper recommends linking science to adaptive governance, sustainable development, and international conservation efforts to attain long-term goals. Future research should include developing predictive models and monitoring biodiversity closely to conservation targets. Biological diversity loss in a world where environmental change is rapid requires urgent and effective action.",
+      "doi": "10.29121/sarps.v2.i2.2026.32",
+      "authors": [
+        "Aman Tiwari",
+        "Shubham Kumar",
+        "Nainika Rosy",
+        "Astuti Tiwari"
+      ],
+      "year": 2026,
+      "journal": "SARPS Journal of Advanced Research in Plant Science",
+      "openalex_id": "W7203743531",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203743531",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Biodiversity is essential to the sustainability of ecosystems, their ability to recover from disturbance, and the services they provide for human life. The rapidly changing environment has made biodiversity even less relevant.",
+      "added": false
+    },
+    {
+      "title": "Environmental Determinants of Respiratory Diseases: Current Evidence and Preventive Strategies",
+      "abstract": "The deterioration of ambient air quality worldwide has intensified the need to examine the environmental factors associated with the growing burden of respiratory disease. This study aimed to identify broad patterns in the adverse effects of environmental exposures on the respiratory system, while accounting for regional variation and population-specific vulnerability. A systematic literature review was conducted between April and December 2024 using four international databases: PubMed, Web of Science, Scopus, and Google Scholar. Seventy-one relevant publications were included in the final analysis. The findings indicate that, in India, concentrations of particulate matter with aerodynamic diameters of up to 10 μm (PM₁₀) and 2.5 μm (PM₂.₅) exceed recommended limits by a factor of 2.56. In Northern Thailand, reductions of 5.3%–34.3% in particulate matter concentrations were associated with significant declines in hospitalization rates. In China and South Africa, pollutant levels substantially exceed the World Health Organization guideline of 5 μg/m³, while national standards in some settings permit concentrations of up to 40 μg/m³, thereby increasing the risk of chronic inflammatory respiratory conditions. In Bogotá, Colombia, heavy traffic contributes to increased morbidity and mortality from respiratory complications. In Kyrgyzstan, seasonal variation and changes in vegetation patterns have been linked to a rise in allergic reactions, whereas in Slovakia, prolonged pollen seasons are associated with a higher prevalence of bronchial asthma. Children, particularly those under 5 years of age, older adults, and industrial workers were identified as the most vulnerable groups. Climate change further aggravates these risks by intensifying exposure to fine particulate matter and gaseous pollutants. The findings underscore the need for integrated policies focused on emission reduction, environmental monitoring, public awareness, and the harmonization of air-quality standards. The study provides evidence that may support cross-sectoral planning and the development of preventive strategies aimed at reducing the burden of acute and chronic respiratory disease.",
+      "doi": "10.17151/luaz.2026.63.8",
+      "authors": [
+        "Жанибек Муратов",
+        "Aida Zotaj",
+        "Amina Kalandarova",
+        "Katarzyna Wiśniewska",
+        "Oleksandr Dobrovanov"
+      ],
+      "year": 2026,
+      "journal": "Luna Azul",
+      "openalex_id": "W7203739490",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203739490",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "The deterioration of ambient air quality worldwide has intensified the need to examine the environmental factors associated with the growing burden of respiratory disease.",
+      "added": false
+    },
+    {
+      "title": "Integration of Big Data, Electronic Information, and GIS in Atmospheric Monitoring",
+      "abstract": "Monitoring of the atmosphere is experiencing a paradigm shift due to a combination of big data, electronic information technologies, and geographic information systems (GIS). Conventional methods of monitoring, which are largely based on sparse fixed-site stations, usually experience spatial constraints, limited time responsiveness, and challenges in integrating multiple sources. This paper provides a systematic review of how the joint evolution of dense sensing networks, real-time communication systems, big-data analytics, and geospatial platforms is transforming existing atmospheric observation systems into smarter and decision-oriented structures. The paper first presents the technological background of integrated atmospheric monitoring, such as heterogeneous data sources, sensor and communication infrastructure, and GIS-based spatial intelligence. It then examines key processes of data preprocessing and quality control, multi-source fusion, spatiotemporal modeling, visualization, and uncertainty-conscious interpretation. Significant application areas are also examined, among which are urban air quality control, regional pollution monitoring, emergency response, and public health assessment. The current limitations are also critically assessed in the review (including data heterogeneity, unstable calibration, scale and location issues, interoperability, propagation of uncertainties, and poor model interpretability). Based on this assessment, future trends are determined to include explainable artificial intelligence, edge intelligence, digital twin platforms, and more standardized and resilient monitoring architectures. The originality of this review is its integrated approach, which does not consider big data, electronic information, and GIS as independent technical solutions, but rather views them as complementary components and pillars of next-generation atmospheric monitoring. The review serves as a systematic source for the development of more accurate, adaptive, and governance-oriented atmospheric monitoring systems.",
+      "doi": "10.30564/jees.v8i8.13501",
+      "authors": [
+        "Sun Zhi-chen",
+        "Tong-Tong Jiang",
+        "Xiang-Liang Yan"
+      ],
+      "year": 2026,
+      "journal": "Journal of Environmental & Earth Sciences",
+      "openalex_id": "W7203759009",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203759009",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Monitoring of the atmosphere is experiencing a paradigm shift due to a combination of big data, electronic information technologies, and geographic information systems (GIS).",
+      "added": false
+    },
+    {
+      "title": "Characterising the long-term effects of stratospheric aerosol injection geoengineering on the stratospheric ozone layer with mid-infrared limb emission sounding instruments",
+      "abstract": "Abstract. Stratospheric aerosol injection (SAI) has been proposed as a potential method to counteract anthropogenic greenhouse gas–driven global warming but it may perturb the stratospheric ozone layer. Here, we use existing SAI scenario simulations as pseudo-reality (PR) input to assess how a future mid-infrared limb-emission sounding observing system would characterise its modelled ozone response. Our PR scenarios were generated using CESM2(WACCM6) simulations following the SSP5-34-OS overshoot pathway, with and without SAI. Pseudo-observations (PO) of a future instrument, modelled around the satellite mission concept CAIRT (the Changing-Atmosphere Infra-Red Tomography explorer), were generated using mission performance simulators, providing full error propagation and spatial smoothing characteristics. Our results demonstrate that a CAIRT-like mission can monitor and quantitatively characterise global, regional and seasonal ozone impacts associated with this SAI scenario. The parent PR fields used here contain a modelled SAI-induced ozone response, including: a) a pronounced additional depletion of total column ozone in the southern hemispheric high latitudes, with austral springtime reductions exceeding 20 DU between 2033–2062, consistent with enhanced heterogeneous halogen activation on sulphate aerosols, b) a delay in Antarctic ozone recovery, and c) a moderate ozone increase in winter and spring at northern hemispheric mid and high latitudes, associated with altered transport and weakened subtropical jets. All these different decadal impacts of SAI interventions are observable with CAIRT PO and are fully distinguishable from a baseline non-SAI scenario. These findings highlight the importance of advanced satellite observations, which are not available nowadays, to monitor and evaluate these impacts.",
+      "doi": "10.5194/egusphere-2026-4654",
+      "authors": [
+        "Mona Kosary",
+        "Pasquale Sellitto",
+        "M. Höpfner",
+        "B. Funke",
+        "Alex Hoffmann",
+        "Jörn Ungermann",
+        "Quentin Errera",
+        "Simone Tilmes",
+        "Björn‐Martin Sinnhuber"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203745020",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203745020",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Stratospheric aerosol injection (SAI) has been proposed as a potential method to counteract anthropogenic greenhouse gas–driven global warming but it may perturb the stratospheric ozone layer.",
+      "added": false
+    },
+    {
+      "title": "MSW Portfolio: Tributaries of Growth",
+      "abstract": "Tributaries of Growth reflects mastery in the field of Social Work; reflections on the five elements and ten competencies as seen through the academic and practicum experiences at the University of Montana.",
+      "doi": null,
+      "authors": [
+        "Madison Hergenrader"
+      ],
+      "year": 2026,
+      "journal": "The Mathematics Enthusiast",
+      "openalex_id": "W7203801747",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203801747",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Tributaries of Growth reflects mastery in the field of Social Work; reflections on the five elements and ten competencies as seen through the academic and practicum experiences at the University of Montana.",
+      "added": false
+    },
+    {
+      "title": "Measurement report: Dust Transport and Local Anthropogenic Emissions Differently Shape Atmospheric Ice-Nucleating Particles in an Industrial Urban Atmosphere",
+      "abstract": "Abstract. Atmospheric ice-nucleating particles (INPs) are vital for cloud formation, yet the importance of INPs from anthropogenic sources remains poorly understood. We conducted a month-long winter field campaign in Taiyuan (China), a heavily industrialized city, to quantify INP concentrations (NINP) and ice nucleation active site density (ns) of immersion mode INPs, alongside particle size distributions and chemical compositions. Our results indicate that NINP ranged from 0.05 to 13.37 L−1 at and above −15 °C, corresponding to ns values of 105–107 m−2. During the identified desert dust event, both NINP (7.47 L−1; 95 % confidence interval (CI): 6.64–8.41 L−1) and ns (1.57×107 m−2) were substantially higher than during the remaining observation periods without clear desert-dust intrusion (0.61 L−1 and 9.52×105 m−2, respectively), highlighting the strong influence of long-range transported desert dust. In contrast, during pollution periods, NINP showed only weak correlations with urban aerosol components such as sulfate (SO42-), nitrate (NO3-), and organic carbon (OC) (|r|<0.3). Positive matrix factorization (PMF) identified five PM2.5 source factors: industrial emissions, dust-related particles, secondary aerosols, coal combustion and traffic emissions, and fireworks. Although these factors dominated the PM2.5 mass, they showed no significant covariation with NINP. During this winter campaign, NINP variability in Taiyuan was characterized by strong enhancement during the identified desert dust event and weak associations with the major PM2.5 source factors during the remaining observation periods.",
+      "doi": "10.5194/acp-26-11771-2026",
+      "authors": [
+        "Jiawei Yang",
+        "Jingchuan Chen",
+        "Jie Chen",
+        "Zeyu Feng",
+        "Wenxu Fang",
+        "Yanting Qiu",
+        "Junrui Wang",
+        "Ruiqi Man",
+        "Taomou Zong",
+        "Yuechen Liu",
+        "Zhijun Wu",
+        "Ning Tang",
+        "Min Hu"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7203743101",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203743101",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Atmospheric ice-nucleating particles (INPs) are vital for cloud formation, yet the importance of INPs from anthropogenic sources remains poorly understood.",
+      "added": false
+    }
+  ]
+}
