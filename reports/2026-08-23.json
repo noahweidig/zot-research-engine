@@ -1,0 +1,525 @@
+{
+  "date": "2026-08-23",
+  "statistics": {
+    "fetched": 106,
+    "duplicates_removed": 85,
+    "evaluated": 21,
+    "added": 1,
+    "ignored": 20,
+    "average_score": 1.86
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "The Mental Health Impacts of Wildfire Exposure: A Scoping Review of the Quantitative Evidence",
+      "abstract": "Wildfires are increasing in frequency and intensity worldwide, with growing evidence linking wildfire exposure to adverse mental health outcomes. This scoping review aimed to summarize and critically assess the existing quantitative literature on wildfire-related mental health impacts. We searched PubMed, Web of Science, and Google Scholar to identify studies published between 2000 and 2025, which we analyzed to understand how wildfires were investigated, evaluate how exposure was measured, assess mental health outcomes, and identify persistent gaps in the literature. Of 251 unique manuscripts identified, 85 met inclusion criteria. Studies were primarily conducted in Australia (34.1%), Canada (31.8%), and the United States (29.4%), with limited representation from Greece, Italy, Israel, South Korea, and Spain. Exposure assessment methods varied widely, where 21.2% of studies considered everyone uniformly exposed. Other exposure assessment methods used were evacuation status, questionnaires, researcher-ascribed loss severity, and spatio-temporal proximity. Depression was the most frequently studied outcome (evaluated in 58.5% of studies), followed by post-traumatic stress disorder (52.9%) and anxiety (48.2%). Other outcomes included insomnia, suicidality, substance use, and resilience. Most studies reported elevated adverse mental health following wildfires, though findings varied. Multiple aspects of wildfire exposure, including direct exposure, seeing flames or smoke, and being evacuated were consistently associated with adverse mental health outcomes. Limitations in the literature included non-standardized exposure assessments, limited geographic diversity, and a shortage of rigorous epidemiologic study designs. Addressing these gaps is essential to improving understanding of wildfire-related mental health impacts and informing public health responses.",
+      "doi": "10.1007/s40572-026-00547-5",
+      "authors": [
+        "Katharine Teigen",
+        "David Coomes",
+        "Amruta Nori‐Sarma",
+        "Joan A. Casey"
+      ],
+      "year": 2026,
+      "journal": "Current Environmental Health Reports",
+      "openalex_id": "W7203639507",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203639507",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 53%: matched 5/10 key interest terms (united states, united, wildfires, states, wildfire)",
+      "tags": [
+        "United States",
+        "United",
+        "Wildfires",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Wildfires are increasing in frequency and intensity worldwide, with growing evidence linking wildfire exposure to adverse mental health outcomes. This scoping review aimed to summarize and critically assess the existing quantitative literature on wildfire-related mental health impacts.",
+      "added": true
+    },
+    {
+      "title": "Mapping the global research landscape on climate change and children’s mental health: trends, themes, and inequalities",
+      "abstract": "Introduction This study provides the first comprehensive bibliometric analysis of research on climate change and children’s psychological wellbeing (2001–2025), examining whose children’s experiences are studied and which voices shape this rapidly expanding field through a climate justice lens. Methods We analyzed 1,217 documents from Web of Science and Scopus using co-occurrence, citation, and co-authorship analyses. Results The field exhibited explosive growth (22.52% annually), surging from fewer than 10 publications before 2010 to 262 in 2025. However, profound geographic inequalities revealed epistemic injustice: the United States (740 publications, 60.8%), United Kingdom (396, 32.5%), and Australia (351, 28.8%) dominated production while Small Island Developing States, Sub-Saharan Africa, and climate-vulnerable regions remained severely underrepresented despite experiencing disproportionate impacts. Nine thematic clusters emerged, with eco-anxiety, climate education, and pro-environmental behavior—reflecting Western individualistic frameworks—dominating discourse, while structural themes addressing colonialism, displacement, and systemic violence remained underdeveloped. Collaboration networks exhibited US–Australia–Europe centrality with limited Global South engagement. Discussion This concentration constitutes epistemic injustice wherein nations bearing greatest historical responsibility for emissions while experiencing buffered impacts dominate knowledge production, risking universalization of Western experiences while marginalizing the majority of the world’s climate-affected children. Addressing these inequalities requires systemic transformation: redirecting funding to Global South institutions, diversifying editorial boards, valuing diverse epistemologies, ensuring equitable partnerships, and decolonizing theoretical frameworks. Such transformation represents not merely academic fairness but a climate justice imperative essential for developing knowledge systems that center marginalized voices and inform interventions responsive to realities shaping climate vulnerability globally.",
+      "doi": "10.3389/fclim.2026.1806370",
+      "authors": [
+        "Mudassar Aziz",
+        "Gulnaz Anjum",
+        "Abdul Rehman Nawaz"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7203920969",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203920969",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 40%: matched 4/10 key interest terms (occurrence, united states, united, states)",
+      "tags": [
+        "Occurrence",
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Introduction This study provides the first comprehensive bibliometric analysis of research on climate change and children’s psychological wellbeing (2001–2025), examining whose children’s experiences are studied and which voices shape this rapidly expanding field through a climate justice lens.",
+      "added": false
+    },
+    {
+      "title": "Impacts of droughts on biomass burning emissions, air quality, and public health in the Amazon",
+      "abstract": "Abstract. Wildfires in the Amazon, increasingly influenced by climate variability and anthropogenic activities, pose severe environmental and health challenges. While drought events amplify fire activity and emissions, the cascading effects of droughts and deforestation on air quality and health remain underexplored. This study addresses this gap by combining satellite observations of fire activities with the Global Fire Emissions Database (GFEDv4s) and the chemical transport model, GEOS-Chem High Performance (GCHP) to quantify the impacts of droughts and deforestation on fire emissions, air quality, and health risks from 2010 to 2015. “Fire-on” and “fire-off” simulation reveal that biomass burning dominates dry-season (July–November) air quality, contributing 50 % to regional CO and PM2.5 and 33 % for ozone in non-drought years. These contributions increase to 60–80 % for CO and PM2.5 and 50 % for ozone during drought years. Significant correlations between pollutant levels and drought intensity reflect a climate-driven amplification of fire impacts. Using the Global Exposure Mortality Model (GEMM) and exposure-response relations, we estimate that fire-induced PM2.5 and ozone increase premature mortality by 6.0 % and 18.6 % in non-drought years, which rise to 8.9 % and 24.4 % during drought years. These findings underscore the critical roles of droughts in exacerbating fire emissions and health risks, even under stable deforestation rates. This study highlights the urgent need for integrated wildfire management and climate adaptation strategies to protect public health and achieve sustainability goals.",
+      "doi": "10.5194/acp-26-11835-2026",
+      "authors": [
+        "Leo T. H. Ng",
+        "Jia Mao",
+        "Xueying Liu",
+        "Shixian Zhai",
+        "Dominic Fawcett",
+        "Stephen Sitch",
+        "Luiz E. O. C. Aragão",
+        "Amos P. K. Tai"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7146997696",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7146997696",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 3/10 key interest terms (burning, wildfires, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Wildfires in the Amazon, increasingly influenced by climate variability and anthropogenic activities, pose severe environmental and health challenges. While drought events amplify fire activity and emissions, the cascading effects of droughts and deforestation on air quality and health remain underexplored.",
+      "added": false
+    },
+    {
+      "title": "From Empty Stages to Platforms for Change: Revitalizing Traditional Fairs as Drivers of Inclusive Growth in Migrating Uttarakhand",
+      "abstract": "Uttarakhand, the 'Land of Gods,' is endowed with vibrant tapestry of traditional fairs and festivals that includes livestock honoring rituals of Khatarua to the warrior dances of Syalde Bikhauti Mela and the historic trading networks of Uttarayani Mela. Events like this from ages are serving as a platform for community gathering, economic exchange and intergenerational transmission of knowledge. But beneath the rich cultural surface a silent crisis prevails of migration- from rural to urban, hills to plains, which is impacting the working-age population that traditionally organized and participated in these fairs. The paper examines the connection between out-migration and the transformation of traditional fairs through secondary analysis of government reports, academic literature, ethnographic accounts and media coverage. Fairs like Khatarua are shrinking as livestock are abandoned, Syalde Bikhauti's elaborate performances are simplified as youth migrate and Uttarayani Mela's historic trading functions are giving way to tourism. The paper argues that these fairs serve as critical barometers of community vitality their decline signaling deeper demographic and cultural unraveling. The study highlight how revitalizing traditional fairs can become a powerful catalyst for the inclusive growth and sustainable rural development that would address migration's root causes. Fairs contribute in multiple ways that includes serving as economic platforms, social spaces, environmental educators and as cultural institutions. The paper concludes with policy recommendations for establishing a Fair Development Authority, that would serve as a tool for integrated planning and monitoring both economic and cultural outcomes. The study emphasized that by investing in its fairs, Uttarakhand can invest in its villages transforming empty stages into platforms for community renewal and demonstrating that sustainable development grows from cultural soil.",
+      "doi": "10.48001/veethika.spl.mar26.14",
+      "authors": [
+        "Dr. Kamla Fuloria",
+        "Rinky Rawat"
+      ],
+      "year": 2026,
+      "journal": "VEETHIKA-An International Interdisciplinary Research Journal",
+      "openalex_id": "W7203782061",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203782061",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 2/10 key interest terms (causes, drivers)",
+      "tags": [
+        "Causes",
+        "Drivers"
+      ],
+      "summary": "Uttarakhand, the 'Land of Gods,' is endowed with vibrant tapestry of traditional fairs and festivals that includes livestock honoring rituals of Khatarua to the warrior dances of Syalde Bikhauti Mela and the historic trading networks of Uttarayani Mela.",
+      "added": false
+    },
+    {
+      "title": "Resolving confusion during earthquakes: the role of early warning messages in supporting and expediting comprehension",
+      "abstract": "Earthquake Early Warning Systems (EEWS) are now operational across multiple jurisdictions, including Canada, issuing messages designed to trigger protective behaviour such as Drop-Cover-Hold-On in the seconds before damaging waves arrive. Because most recipients will have no prior experience of an EEW alert, the experiential background they bring to a first alert is general earthquake comprehension, the phenomenon this study examines. Existing models frame recipients as rational decision-makers, yet the empirical record of lived earthquake experience suggests that the early seconds are dominated by confusion, and what recipients actually need from messaging in those moments has remained underexamined. Through a phenomenological-linguistic analysis of nearly 1,000 first-hand accounts from the United States Geological Survey’s Did You Feel It (DYFI?) survey across five North American earthquakes, this study traces how respondents describe and make sense of their experiences. Confusion was the dominant emergent feeling and was almost always paired with active resolution efforts; the patterns yielded a four-phase Earthquake Comprehension Cycle that converges with foundational phenomenological and perceptual cycle models. EEWS messages function primarily as early comprehension aids, interjecting into the cycle ahead of ground shaking and supplying a theory that the recipient would otherwise need to generate themselves. The reframing applies broadly to other early warning systems facing confusing emergent events and offers a phenomenological lens for risk communication design.",
+      "doi": "10.3389/feart.2026.1869176",
+      "authors": [
+        "Jason Curtis Droboth"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Earth Science",
+      "openalex_id": "W7203832198",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203832198",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/10 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Earthquake Early Warning Systems (EEWS) are now operational across multiple jurisdictions, including Canada, issuing messages designed to trigger protective behaviour such as Drop-Cover-Hold-On in the seconds before damaging waves arrive.",
+      "added": false
+    },
+    {
+      "title": "Mitigation of the coordination crisis in wildfire management using a multi-agent AI system",
+      "abstract": "Abstract The devastating California wildfires of January 2025 underscored the staggering human and economic tolls of escalating climate disasters. While retrospective analyses often attribute these losses to climate change, fuel accumulation, and wildland-urban interface expansion, a critical systemic blind spot remains: the inefficiencies in wildfire suppression driven by misaligned incentives, behavioral biases, and fragmented interagency coordination. In this perspective, we argue that Agentic Artificial Intelligence (Agentic AI) offers a transformative pathway to bridge these operational divides, moving beyond isolated, local resource optimization toward a synchronized, global response capability. To address these challenges, we propose a comprehensive governance framework designed to successfully employ multi-agent AI systems for disaster management. By aligning incentives, ensuring accountability, and fostering cross-agency collaboration, this framework provides a blueprint for leveraging Agentic AI to mitigate the coordination crisis in wildfire management and build systemic resilience against future climate shocks.",
+      "doi": "10.1038/s43247-026-03962-6",
+      "authors": [
+        "Ramit Debnath",
+        "Aric Shafran",
+        "Israel Waichman"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7203868134",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203868134",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 25%: matched 2/10 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract The devastating California wildfires of January 2025 underscored the staggering human and economic tolls of escalating climate disasters. While retrospective analyses often attribute these losses to climate change, fuel accumulation, and wildland-urban interface expansion, a critical systemic blind spot remain…",
+      "added": false
+    },
+    {
+      "title": "How IoT Enables the Protective Action Decision Model (PADM) During a Wildfire Event",
+      "abstract": "This article highlights the growing importance of air quality assessment, particularly given the increased frequency and severity of climate-driven wildfires. Recent research suggests that wildfire particulate matter may be more toxic than equivalent amounts of ambient PM2.5, with smoke composition and the different stages of biomass combustion having varying health impacts. This article examines how public managers and decision-makers can use Internet of Things (IoT) devices to make decisions using hyper-local, real-time data on air quality, particularly data on levels of fine particulate matter (PM2.5). We surveyed Oregon residents following the 2020 wildfires, the region's most severe fire season in modern history. We received a total of 1200 responses from June to August 2021 to help assess how individuals responded to several major wildfires that hit the state in 2020. Results indicate that residents were overwhelmed by the data and were provided with inadequate guidance on how to respond to the dangers posed by the smoke.",
+      "doi": "10.1111/risa.70319",
+      "authors": [
+        "Benjamin Y. Clark",
+        "Shahinur Bashar"
+      ],
+      "year": 2026,
+      "journal": "Risk Analysis",
+      "openalex_id": "W7167913446",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7167913446",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 25%: matched 2/10 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "This article highlights the growing importance of air quality assessment, particularly given the increased frequency and severity of climate-driven wildfires. Recent research suggests that wildfire particulate matter may be more toxic than equivalent amounts of ambient PM2.5, with smoke composition and the different st…",
+      "added": false
+    },
+    {
+      "title": "Impact of South American biomass burning emissions on elevated South Atlantic upper tropospheric ozone",
+      "abstract": "Abstract. During the SOUTHTRAC mission in autumn 2019 elevated mixing ratios of carbon monoxide (CO), carbon dioxide CO2, nitrogen oxide (NO) and total reactive nitrogen NOy were observed during a flight at the beginning of October. The potential plume extended over more than 1000 km (15° latitude) east of the Brasilian coast at altitudes of 13 km in the upper troposphere. In-situ measurements showed elevated ozone in this plume (≈ 100 ppbv), being 20–40 ppbv higher than during a previous flight in early September at exactly the same flight route. For the plume flight positive correlations of ozone and pollutants (CO, NO, NOy) indicate ozone production in these pollution layers. Lagrangian Analysis shows, that the observed air masses were strongly affected by biomass burning over Amazonia. A combined analysis of chemical Lagrangian box model and a global chemistry climate model (EMAC) revealed that ozone production from biomass burning predominantly caused the ozone enhancements. The effect is eventually intensified by NOx produced from lightning. Upward transport of the plumes happened ≈ one week before the flight, allowing ozone to be formed and enhanced by 25 % compared to the September flight. Estimates of the climate impact show, that the biomass burning produced ozone has a local effect on the radiative forcing of 50 mWm−2.",
+      "doi": "10.5194/acp-26-11857-2026",
+      "authors": [
+        "Linda Smoydzin",
+        "Vera Bense",
+        "Heiko Bozem",
+        "Philipp Joppe",
+        "Daniel Kunkel",
+        "Hans-Christoph Lachnitt",
+        "Holger Tost",
+        "Andreas Zahn",
+        "Helmut Ziereis",
+        "Martin Riese",
+        "Peter Hoor"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7114772716",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7114772716",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 1/10 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Abstract. During the SOUTHTRAC mission in autumn 2019 elevated mixing ratios of carbon monoxide (CO), carbon dioxide CO2, nitrogen oxide (NO) and total reactive nitrogen NOy were observed during a flight at the beginning of October.",
+      "added": false
+    },
+    {
+      "title": "Examples of State and Utility Actions on Proactive Planning and Investments",
+      "abstract": "As states across the U.S. confront rising electricity demand, clean energy deployment, grid modernization imperatives, and the integration of large new loads, some regulators and utilities are shifting away from reactive, “just-in-time” investment approaches toward more proactive planning and investment frameworks. This report compiles examples of jurisdictional and utility actions that reshape planning processes, cost recovery mechanisms, and performance oversight to anticipate—rather than simply respond to—future grid needs. Several themes emerge from state actions examined in this report. First, legislatures and commissions are increasingly directing utilities to proactively upgrade their distribution and transmission systems, reflecting a shift toward a forward-looking system that aligns planning with state policy goals. Second, states are establishing long-term, iterative planning frameworks that often feature multi-year horizons, biannual or annual compliance reporting, structured opportunities for stakeholder engagement, and emphasis on collaboration among utilities, regulators, and stakeholders. Third, states are actively investigating innovative cost recovery mechanisms designed to support accelerated electrification and grid modernization, while balancing consumer advocates’ concerns regarding the ratepayer financial risks of premature investments. Fourth, performance metrics and reporting requirements are being developed to ensure transparency and accountability for proactive investments. Fifth, methodological improvements in planning—such as aligning load forecasting assumptions, incorporating sensitivities, and considering load management potential across building, vehicles, storage, and demand response—are recurring areas of stakeholder focus across jurisdictions. Overall, these developments signify a growing recognition among state regulators, utilities, and stakeholders that proactive planning—supported by clear definitions, consistent and transparent methodologies, robust performance metrics, and innovative cost recovery mechanisms—is a tool that can be used to address the scale and urgency of contemporary grid needs.",
+      "doi": "10.2172/3428335",
+      "authors": [
+        "Jessica Shipley",
+        "USDOE",
+        "Thomas Benson",
+        "Juliet Homer"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203838946",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203838946",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 2/10 key interest terms (large, states)",
+      "tags": [
+        "Large",
+        "States"
+      ],
+      "summary": "As states across the U.S. confront rising electricity demand, clean energy deployment, grid modernization imperatives, and the integration of large new loads, some regulators and utilities are shifting away from reactive, “just-in-time” investment approaches toward more proactive planning and investment frameworks.",
+      "added": false
+    },
+    {
+      "title": "Wildfire severity reshapes remotely sensed surface temperature and vegetation phenology in a Western Cascades forest ecosystem",
+      "abstract": "Wildfire reorganizes forests by altering canopy structure, surface energy balance, vegetation activity, and microclimate. However, these effects remain difficult to quantify across seasons, times of day, burn severities, and complex terrain. We used the 2023 Lookout Fire at the H.J. Andrews Experimental Forest, Oregon, to test how fire severity altered coupling between surface temperature and vegetation phenology. We integrated ECOSTRESS land surface temperature (LST), HLS-2 near-infrared reflectance of vegetation (NIRv), RAVG burn severity, Daymet climate, airborne LiDAR, and phenology observations. ECOSTRESS observations were standardized by harmonic regression for seasonal and diurnal acquisition timing. Post-fire warming was strongest in summer and increased with burn severity (1.5 °C increase for severe). High-severity areas warmed more than unburned areas, especially under high shortwave radiation, low rainfall, and high vapor pressure. Open vegetation cover was associated with warmer LST, whereas higher elevations were cooler. At phenology plots, ECOSTRESS LST generally exceeded instantaneous air temperature (ΔT = 0.55), and burn severity steepened this relationship after fire (1 to 1.15 slope). HLS NIRv captured seasonal and disturbance-driven vegetation activity and was associated with Douglas-fir budbreak and summer temperature. Across the landscape, post-fire declines in NIRv were associated with warmer noon-standardized LST, and structural equation modeling indicated that reduced evapotranspiration largely mediated this relationship. Among the first to use ECOSTRESS observations, our study resolved seasonal and diurnal post-fire warming while linking thermal responses to satellite vegetation activity, LiDAR-derived structure, and field phenology. Together, these results show that wildfire severity reorganized thermal regimes across seasons and times of day, while vegetation phenology provided biological context for post-fire climate change.",
+      "doi": "10.31223/x58f71",
+      "authors": [
+        "Daniel M. Griffith",
+        "Christopher Still",
+        "Matt Betts",
+        "Amelia Fitch",
+        "Hannah Sachs",
+        "M. Schulze"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203784687",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203784687",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/10 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Wildfire reorganizes forests by altering canopy structure, surface energy balance, vegetation activity, and microclimate. However, these effects remain difficult to quantify across seasons, times of day, burn severities, and complex terrain. We used the 2023 Lookout Fire at the H.J.",
+      "added": false
+    },
+    {
+      "title": "Holocene vegetation change and fire–plant diversity shifts in Mediterranean France",
+      "abstract": "ABSTRACT Changes in fire activity are recognized as a major threat to biodiversity and vegetation communities across the Mediterranean Basin. However, long‐term fire–vegetation interactions remain poorly investigated. Here, we combine a high‐resolution charcoal record with pollen data from the “ Étang des Aulnes ” lake (southern France) to reconstruct the last ~8000 years of fire dynamics and assess its influence on vegetation communities and diversity. A significant result is that the highest level of fire frequency and burned biomass occurred around 4200 cal a BP , coinciding with the decline of deciduous oak forests and their replacement by evergreen oak forests/scrublands. Moreover, the relationship between taxonomic richness and burned biomass is assessed and shows that taxonomic richness reaches its maximum at intermediate burned biomass levels. We discuss here how fire may explain this relationship, as well as its limitations, which are influenced by variations in environmental and land‐use conditions. Together, these findings illustrate how long‐term fire dynamics influence vegetation diversity and community trajectories and highlight the structuring role of interacting drivers, such as fire, herbivory, and anthropogenic activities, in Mediterranean ecosystems.",
+      "doi": "10.1002/jqs.70109",
+      "authors": [
+        "Cécile Latapy",
+        "Marion Lestienne",
+        "Andy Hennebelle",
+        "Johanne Burmeister",
+        "Aymeric LeGall",
+        "Gwendal Mouden",
+        "Damien Rius",
+        "Lisa Bajolle",
+        "Jacques‐Louis de Beaulieu",
+        "Walter Finsinger",
+        "Emmanuel Gandouin",
+        "François Demory",
+        "Cécile H. Albert",
+        "Bérangère Leys"
+      ],
+      "year": 2026,
+      "journal": "Journal of Quaternary Science",
+      "openalex_id": "W7203835816",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203835816",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/10 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "ABSTRACT Changes in fire activity are recognized as a major threat to biodiversity and vegetation communities across the Mediterranean Basin. However, long‐term fire–vegetation interactions remain poorly investigated.",
+      "added": false
+    },
+    {
+      "title": "VCU Campus Tree Plan",
+      "abstract": "Throughout the past several years VCU has grown tremendously as a large public research university and an anchor institution within the city of Richmond However, VCU also has been working towards a more sustainable future and is committed to furthering sustainability in its community and campuses. While VCU has several long-range plans dedicated towards different aspects of the University’s planning and design initiatives, the University does not have any plan dedicated specifically towards its campus trees or tree canopy. An analysis of the existing conditions on VCU’s campuses found that there is low amount of urban tree canopy cover, high amount of impervious surface areas as well as a lack of policies in place relating to oversight and administration for campus trees. Additionally, VCU’s urban tree canopy (UTC) faces threats posed by climate change and potential shrinkage of its tree canopy due to future increased development. The VCU Campus Tree Plan aims to provide the University with the framework and policy guidelines for the preservation, maintenance and planting of the urban tree UTC on its campuses. The overall goal of the VCU Campus Tree Plan is to provide a safe, healthy, attractive and sustainable campus forest. This will help to enhance the VCU campuses in terms of aesthetic appearance, energy efficiency and the social/educational interactions that take place through the wide range of benefits that urban trees provide. The implementation of this plan will provide the University with many tangible benefits such as a reduction in the urban heat island effect that VCU’s campuses experience, mitigation of stormwater runoff during heavy precipitation events, increased physical and psychological well-being for residents, increased revenue for business owners and business districts and increased aesthetic appearances for neighborhoods and retail areas. All of these benefits will help enhance the overall environment for VCU’s students and faculty and increase VCU’s standing as a premier urban university. The success of this plan will primarily depend on the amount of implementation carried out by the VCU Offices of Sustainability, Planning & Design and Facilities Management. It is hoped that within the next couple decades VCU will have established itself as a well treed urban university.",
+      "doi": "10.25772/hkg0-3w59",
+      "authors": [
+        "Bilal Damaj"
+      ],
+      "year": 2026,
+      "journal": "VCU Scholars Compass (Virginia Commonwealth University)",
+      "openalex_id": "W2948185558",
+      "citation_count": 0,
+      "url": "https://openalex.org/W2948185558",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/10 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Throughout the past several years VCU has grown tremendously as a large public research university and an anchor institution within the city of Richmond However, VCU also has been working towards a more sustainable future and is committed to furthering sustainability in its community and campuses.",
+      "added": false
+    },
+    {
+      "title": "Uncertainty in an Adapted Analytic CO 2 Flux Inversion Model (AACO 2 FIM) under different spatiotemporal coverages",
+      "abstract": "Abstract. We developed an Adapted Analytic CO₂ Flux Inversion Model (AACO₂FIM) by adapting the Integrated Methane Inversion system for CO₂ applications. We applied AACO₂FIM to examine how closely the regulated solution aligns with predefined emission variability patterns described by target scaling factors (SFs) used to generate pseudo-observations, thereby isolating uncertainty arising solely from cost-function minimization under the quasi-linear assumption. To concurrently assess spatiotemporal coverage impacts, we revised the inversion package to incorporate two different coverage configurations: Orbiting Carbon Observatory-2 (OCO-2) tracks (oco2Trks) and an hourly global grid (FullC). Inversion performance was quantified by the convergence of inverted SFs toward target SFs under varying prior-target mismatches and observational coverages over an 8-day window following a one-month spinup. The ensemble-mean posterior SFs reproduced the target patterns, with convergence controlled by forward-model sensitivity and observational coverage. Baseline cases showed near-exact convergence, whereas larger prior-target differences led to poorer convergence. The oco2Trks inversions produced a shrunk but highly correlated valid inversion domain relative to FullC, and both configurations showed the largest posterior variability coinciding with the highest forward-model sensitivity. Under oco2Trks (<10 % coverage of FullC), the observation-related cost function term required a weight two orders of magnitude larger than that of FullC to achieve the best fit quality. When OCO-2 observations were used as a constraint, the inverted SF variability generally matched the bias patterns between forward-modeled concentrations and OCO-2 measurements.",
+      "doi": "10.5194/egusphere-2026-4830",
+      "authors": [
+        "Pingping Rong",
+        "Hui Su"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203824678",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203824678",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract. We developed an Adapted Analytic CO₂ Flux Inversion Model (AACO₂FIM) by adapting the Integrated Methane Inversion system for CO₂ applications. We applied AACO₂FIM to examine how closely the regulated solution aligns with predefined emission variability patterns described by target scaling factors (SFs) used t…",
+      "added": false
+    },
+    {
+      "title": "Beyond survival: microbial dispersion via aerosolization as an evolutionary trait",
+      "abstract": "Airborne dispersion of microorganisms is a constant ecologically significant global process. However, the initial stage of this process, the uplift of microbes to the atmosphere, remains poorly understood as an ecological filter. Differential aerosolization could serve as a potent selector allowing a subset of microorganisms to disperse via air more efficiently, providing potential advantages in establishment in new environments. While traits associated with atmospheric survival and deposition are well documented, microbial aerosolization is still generally presumed to be stochastic, primarily due to the small size of microorganisms and their lack of active biological ejection mechanisms like those found in seeds and larger fungal spores. However, emerging evidence suggests that uplift into the atmosphere is a dynamic interaction between physical forces in the environment and specific biological traits. This review synthesizes observations from genomic source tracking studies and laboratory experiments that describe how preferential enrichment of certain taxa into the atmosphere is based on intrinsic properties including extracellular polymeric substance (EPS) mediated aggregation, cell surface hydrophobicity, surfactant production, and other potentially relevant microbial traits. Additional candidate traits that may contribute to enhanced aerosolization are identified along with the potential mechanistic basis by which they might influence uplift. Future work with controlled chamber studies on single organisms and integration of atmospheric flux measurements with trait-based microbial uplift can provide a mechanistic basis for more accurate models of bioaerosol flux. Improving our comprehension of bioaerosol aerosolization behavior and flux is critical to understanding the dispersal of microorganisms across diverse habitats and their subsequent impacts on ecosystems, global climate, and the spread of diseases.",
+      "doi": "10.3389/fmicb.2026.1923366",
+      "authors": [
+        "Emily A. Kraus",
+        "Adam Gillison",
+        "Rocío Rodríguez",
+        "Margot M.-F. Thomas-Gatel",
+        "Sam Golon",
+        "Carolyn R. Cornell",
+        "Jane E. Stewart",
+        "Amaya Garcia Costas",
+        "Stephen D. J. Archer"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Microbiology",
+      "openalex_id": "W7203820339",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203820339",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Airborne dispersion of microorganisms is a constant ecologically significant global process. However, the initial stage of this process, the uplift of microbes to the atmosphere, remains poorly understood as an ecological filter.",
+      "added": false
+    },
+    {
+      "title": "Extreme events and habitats as comparative tools for assessing scaled ecosystem responses to stressors in aquatic systems",
+      "abstract": "Two types of extremes are often used as indicators of future change: Extreme climate events and extreme habitats. These extremes can be useful gauges of environmental change, but only if biological, spatial, and temporal scopes are aligned between the extreme and the future change it is hypothesized to mirror. In general, short-lived extreme events provide insights towards acute responses but are not as suitable for assessing long-term ecological or evolutionary change. Extreme habitats can reveal potential long-term adaptations, but community structure and trophic interactions can be challenging to assess due to species often following habitat-dependent evolutionary paths, and these environments tend to undergo gradual rather than rapid ecological change. Community structure and species interactions may further differ for both types of extremes between biological response levels. In cases of a mismatch between the size of an extreme habitat or event and its comparative system, it will be more appropriate to study biological responses at smaller geographic scales than the habitat or event occurs. Here, we explore the opportunities and limitations of a variety of extremes in marine and freshwater systems.",
+      "doi": "10.1371/journal.pclm.0001032",
+      "authors": [
+        "Katherine E. Dale",
+        "Evie S. Brahmstedt",
+        "Joshua Culpepper",
+        "Kyle A. Emery",
+        "Alexander W. Mott",
+        "Walter A. Rich",
+        "Xinyu Sun",
+        "Audrey Thellman",
+        "Tianfei Xue",
+        "Atefeh Hosseini",
+        "Hadis Miraly"
+      ],
+      "year": 2026,
+      "journal": "PLOS Climate",
+      "openalex_id": "W7203830724",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203830724",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Two types of extremes are often used as indicators of future change: Extreme climate events and extreme habitats. These extremes can be useful gauges of environmental change, but only if biological, spatial, and temporal scopes are aligned between the extreme and the future change it is hypothesized to mirror.",
+      "added": false
+    },
+    {
+      "title": "Plant Invasive Species Success Strategies and Their Impact on Ecosystems",
+      "abstract": "Another ecological theory relates to the concept of limiting similarity. This theory proposes that invasive species have characteristics that are different from those of native species within an ecosystem. Research has shown that invasive species have wider physiological niches, more efficient means of acquiring resources, and traits associated with the fast-return end of the leaf economics spectrum (LES). Invasive species have lower leaf mass per square meter, higher rates of carbon assimilation, and higher nitrogen content in their leaves. These characteristics enable invasive species to thrive in resource-poor environments. Also, invasive species exhibit high phenotypic plasticity, enabling them to survive in diverse environmental conditions. Such plasticity is associated with features such as the ability of invasive species to develop their leaves early in their life cycle, high water-use efficiency, and high photosynthesis rates at low light intensities. Such traits provide invasive species with a competitive advantage over native species. Overall, the complexity of invasive plant species is well documented in the scientific literature. While many factors contribute to the success of invasive species, including resource availability, disturbance regimes, and environmental changes, it is necessary to study their physiological traits to develop management strategies. So, continued research into the invasiveness of plant species, especially in resource-poor environments, is needed to understand the mechanisms behind their invasiveness and to develop effective management plans to control their impact on ecosystems.",
+      "doi": "10.71005/sjjv4406",
+      "authors": [
+        "Vimal Kishore"
+      ],
+      "year": 2026,
+      "journal": "Atlantic Journal of Life Sciences",
+      "openalex_id": "W7203825478",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203825478",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Another ecological theory relates to the concept of limiting similarity. This theory proposes that invasive species have characteristics that are different from those of native species within an ecosystem.",
+      "added": false
+    },
+    {
+      "title": "An Indigenous Sovereign Approach: Developmental Strategies and Guidelines for the Berger-Patawomeck Preserve Trail Network",
+      "abstract": "This planning document serves the Patawomeck Tribe's cultural, environmental, and sovereign needs by providing research and recommendations to sustainably steward ancestral lands through integrated Indigenous and Western practices. The plan adapts sustainable design strategies to guide trail maintenance and activities within the Berger-Patawomeck Preserve, examining Traditional Ecological Knowledge (TEK) alongside Western practices. A decolonized, sovereign lens guided the mixed research methods drawing on legal, regulatory, planning, and ethical frameworks to strengthen tribal health, education, and sovereignty. The research explores local ecology, Indigenous culture, and implementational strategies. The ecological findings document the Preserve's sensitive resources, including the Coastal Piedmont transition zone, rare natural communities, notable features such as beaver ponds and historical earthworks, as well as guidance on native plants, invasives, and ecological restoration. Cultural findings examine TEK, archaeological context, relational conservation, and Indigenous placemaking, supported by case studies from the Nez Perce and Karuk tribes. Implementational findings discuss actionable strategies, covering organizational development, sustainable trail design, environmental legal requirements, volunteer programs, funding, and practical tools for construction and maintenance. The plan recommends five strategic goals to achieve its vision of connecting the Patawomeck community back to their ancestral land, generating stronger kinship and intergenerational knowledge transfer: (1) formalize trail and surveillance management, (2) develop educational and restorative avenues for cultural and ecological stewardship, (3) establish relevant trail names and identify trail nodes, (4) maintain separate plans per parcel, and (5) establish private digital tools for the Patawomeck community.",
+      "doi": "10.25772/hacj-7f42",
+      "authors": [
+        "Lauren N Usher"
+      ],
+      "year": 2026,
+      "journal": "VCU Scholars Compass (Virginia Commonwealth University)",
+      "openalex_id": "W7160681061",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7160681061",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "This planning document serves the Patawomeck Tribe's cultural, environmental, and sovereign needs by providing research and recommendations to sustainably steward ancestral lands through integrated Indigenous and Western practices.",
+      "added": false
+    },
+    {
+      "title": "A systematic review and multidimensional framework for solar farm site suitability",
+      "abstract": "The rapid expansion of solar photovoltaic energy requires efficient, multidimensional site-selection strategies to ensure long-term sustainability and investment efficiency. Selecting optimal locations for utility-scale solar PV farms is a critical part of energy system planning. However, existing reviews often focus on isolated dimensions, failing to provide a comprehensive synthesis of technical, economic, environmental, and social factors together. This study addresses this gap by conducting a systematic review integrating the SALSA framework with the PSALSAR methodology, screening 523 peer-reviewed publications, and synthesizing 103 high-impact studies from 2015 to 2025. The analysis identifies 11 key sub-factors across four pillars (technical, economic, environmental, and social) and introduces a three-phase decision logic (exclusionary screening, technical-economic optimization, and socio-climatic validation). Quantitative synthesis highlights a significant shift toward GIS-MCDM approaches and provides a frequency analysis of regional criteria. This integrated model provides a structured roadmap for developers and policymakers to align localized site selection with grid stability and national renewable energy targets.",
+      "doi": "10.1016/j.egyr.2026.109613",
+      "authors": [
+        "Mariam Kasradze",
+        "Mahyar Kamali Saraji",
+        "Dalia Štreimikienė",
+        "Vishnu Suresh"
+      ],
+      "year": 2026,
+      "journal": "Energy Reports",
+      "openalex_id": "W7203824270",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203824270",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "The rapid expansion of solar photovoltaic energy requires efficient, multidimensional site-selection strategies to ensure long-term sustainability and investment efficiency. Selecting optimal locations for utility-scale solar PV farms is a critical part of energy system planning.",
+      "added": false
+    },
+    {
+      "title": "From fossil fuel infrastructure to sustainable land use: agrivoltaics on oil and gas pipelines in Alberta, Canada",
+      "abstract": "This study investigates re-purposing the 60 m wide oil and gas pipeline buffer zones for agrivoltaic applications. A case study of Alberta's oil pipelines is presented that maps them with solar irradiance to estimate available photovoltaic production. The results found that agrivoltaic electricity generation on the oil pipeline buffers would pay for themselves under 11 years, could theoretically generate between CAD $1.3 (single axis tracker for wheat) and CAD $6.6 trillion (fixed tilt for sheep grazing) in electricity over 30 years under full build-out conditions compared to oil pipelines' CAD $5.2 trillion. This could provide more than twice Canada's electricity needs, cut all electrical-related greenhouse gas emissions and provide more food (CAD $1.6 billion of wheat or CAD $1.0 billion in extra sheep meat/year), though actual utilization may be constrained by grid capacity, storage, and transmission infrastructure. The results show that oil and gas pipeline corridors can be transformed from long-term environmental liabilities into economically and environmentally productive assets that simultaneously advance climate mitigation, energy security, agricultural resilience, employment and land restoration.",
+      "doi": "10.1016/j.jclepro.2026.149266",
+      "authors": [
+        "Uzair Jamil",
+        "Hana Darvishi",
+        "Joshua M. Pearce"
+      ],
+      "year": 2026,
+      "journal": "Journal of Cleaner Production",
+      "openalex_id": "W7203883656",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203883656",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "This study investigates re-purposing the 60 m wide oil and gas pipeline buffer zones for agrivoltaic applications. A case study of Alberta's oil pipelines is presented that maps them with solar irradiance to estimate available photovoltaic production.",
+      "added": false
+    },
+    {
+      "title": "Predictive Financial Risk Analytics. A Conceptual Model for Long Term Value Preservation",
+      "abstract": "Predictive financial risk analytics has emerged as a critical paradigm for sustaining long-term enterprise value in volatile global markets. This review proposes a conceptual model integrating predictive analytics, risk intelligence, and value-preservation strategies to anticipate and mitigate financial threats before they materialize. It examines the evolution of financial risk management from traditional quantitative modeling to advanced machine learning–driven forecasting systems, emphasizing the fusion of structured and unstructured data for early warning insights. The model conceptualized in this paper connects predictive indicators—such as market sentiment, credit exposure, liquidity risk, and macroeconomic volatility—with decision-support systems that enhance strategic agility and resilience. Key analytical frameworks, including time-series forecasting, scenario simulation, and Bayesian risk modeling, are reviewed within the context of portfolio optimization and capital preservation. Furthermore, the study highlights the role of explainable AI in ensuring transparency and governance compliance across financial institutions. By aligning predictive analytics with long-term value creation principles, the proposed model supports proactive risk management, fosters investor confidence, and promotes sustainable financial performance. The paper concludes by identifying future research directions in integrating ESG (Environmental, Social, and Governance) metrics, dynamic stress testing, and adaptive learning algorithms into predictive financial risk ecosystems.",
+      "doi": "10.56201/jafm.vol.11.no12.2025.pg476.503",
+      "authors": [
+        "Oluwaremi Ayoka Lawal"
+      ],
+      "year": 2026,
+      "journal": "JOURNAL OF ACCOUNTING AND FINANCIAL MANAGEMENT",
+      "openalex_id": "W7203834583",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203834583",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Predictive financial risk analytics has emerged as a critical paradigm for sustaining long-term enterprise value in volatile global markets. This review proposes a conceptual model integrating predictive analytics, risk intelligence, and value-preservation strategies to anticipate and mitigate financial threats before…",
+      "added": false
+    },
+    {
+      "title": "Tracing vegetation stress from space: isoprene emissions capture the spatiotemporal footprint of El Niño",
+      "abstract": "Abstract El Niño events exert a profound influence on the global carbon cycle by imposing widespread heat and water stress on terrestrial ecosystems. Plant isoprene emissions respond rapidly to such stress, yet it remains unclear whether this response can track the spatiotemporal evolution of El Niño’s impacts over land. Here, we used satellite-derived global isoprene emissions for the first time to assess the west-east progression of the 2015–2016 El Niño. We observed that isoprene emissions increased by up to approximately 30% across tropical ecosystems relative to the climatological mean, with pronounced anomalies emerging during the event. The spatiotemporal evolution of these anomalies closely aligns with the El Niño progression inferred from sea surface temperature (SST) anomalies in the equatorial Pacific. In contrast, commonly used satellite vegetation products, including leaf area index (LAI) and solar-induced chlorophyll fluorescence (SIF), show weaker and spatially incoherent responses. These results demonstrate that satellite-derived isoprene provides a sensitive and mechanistically grounded tracer of ecosystem stress, offering a complementary perspective for monitoring the intensity and propagation of extreme climate events across terrestrial ecosystems.",
+      "doi": "10.1038/s41612-026-01518-1",
+      "authors": [
+        "Haoran Liu",
+        "I. Colin Prentice",
+        "Catherine Morfopoulos"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7203791478",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203791478",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract El Niño events exert a profound influence on the global carbon cycle by imposing widespread heat and water stress on terrestrial ecosystems. Plant isoprene emissions respond rapidly to such stress, yet it remains unclear whether this response can track the spatiotemporal evolution of El Niño’s impacts over lan…",
+      "added": false
+    }
+  ]
+}
