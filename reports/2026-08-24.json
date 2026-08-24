@@ -1,0 +1,276 @@
+{
+  "date": "2026-08-24",
+  "statistics": {
+    "fetched": 91,
+    "duplicates_removed": 79,
+    "evaluated": 12,
+    "added": 1,
+    "ignored": 11,
+    "average_score": 1.42
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Large-scale modelled impacts of the 2025 Canadian wildfires",
+      "abstract": "Canadian wildfire events have emerged as a major source of emissions in recent years, with atmospheric impacts extending far beyond the source region. In support of the State of Wildfires 2025-26 report, in this work we investigate the large-scale atmospheric effects of the 2025 Canadian wildfire season using a state-of-the-art Earth system model. We find that wildfire emissions generated substantial aerosol optical depth (AOD) increases over central Canada, with smoke transported across eastern Canada, eastern United States (US) and the North Atlantic (NA), leading to reduced net downward radiative flux, increased cloud cover and decreased precipitation over large areas downwind of the source region. Modelled surface cooling was observed across eastern Canada and eastern US, with an average surface atmospheric (2 meters) temperature difference of -0.66 °C ± 1.02 °C (one standard deviation) and local differences approaching -1.69 °C, while comparison with NCEP/NCAR reanalysis data revealed partial agreement. These findings are consistent with our previous analysis of the 2023 Canadian wildfire event impacts, meaning that such wildfire events may become an increasingly important periodic climate forcing with implications for regional weather, ecosystem functioning and broader climate feedback.",
+      "doi": "10.1016/j.pyro.2026.100021",
+      "authors": [
+        "Iulian-Alin Roșu",
+        "Rafaila-Nikola Mourgela",
+        "Apostolos Voulgarakis"
+      ],
+      "year": 2026,
+      "journal": "Journal of Pyrogeography",
+      "openalex_id": "W7171680423",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7171680423",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 8/10 key interest terms (wildfire, united states, united, eastern united, wildfires)",
+      "tags": [
+        "Wildfire",
+        "United States",
+        "United",
+        "Eastern United",
+        "Wildfires"
+      ],
+      "summary": "Canadian wildfire events have emerged as a major source of emissions in recent years, with atmospheric impacts extending far beyond the source region. In support of the State of Wildfires 2025-26 report, in this work we investigate the large-scale atmospheric effects of the 2025 Canadian wildfire season using a state-o…",
+      "added": true
+    },
+    {
+      "title": "Multi-class organic marker profiling of urban PM10 in Strasbourg, northeastern France: Seasonal distribution of exhaust, non-exhaust, and biomass burning tracers",
+      "abstract": "Atmospheric particulate matter (PM) is strongly influenced by both combustion and non-exhaust traffic emissions, yet their simultaneous molecular characterization over seasonal cycles remains rare in the French monitoring literature. This study addresses this question through the first year-round application of a suite of organic tire-related markers (TRMs) applied alongside polycyclic aromatic hydrocarbons (PAHs), monosaccharide anhydrides (MAs), and methoxyphenols (MPhs) in 36 weekly PM 10 samples collected at a semi-urban, traffic-adjacent site in Cronenbourg (northeastern France) over four seasons (winter 2023-autumn 2024), using a validated multi-residue method targeting 48 compounds. Combustion-derived PAHs (median Σ 13 PAHs 16.6 ng m -3 ) and organic TRM (median Σ 12 TRMs 4.5 ng m -3 ) showed a weak, non-significant positive association (r = 0.26 , p = 0.132), indicating that a monotonic co-variation between the two tracer groups was not detected under the present sampling conditions. PAH concentrations were dominated by high-molecular-weight, traffic and heating-associated compounds in winter (BghiP 5.8 ng m -3 , BaP 5.6 ng m -3 ), consistent with pyrogenic combustion amplified by residential heating demand. Complementary MA and MPh diagnostic ratios (L/M = 0.57-6.35) identified a biomass-burning signature consistent with predominantly softwood-related combustion. Biomass-burning markers showed a directional 1.5-3.2-fold enrichment in autumn-winter relative to spring-summer, though this difference did not reach statistical significance for any individual marker (Kruskal-Wallis, p > 0.12), consistent with a moderate rather than dominant local biomass-burning source. Compared with previous studies from French and Mediterranean sites, the molecular marker patterns suggest relatively less evidence of hardwood or agricultural-residue burning. This study also represents the first simultaneous four-season MA-MPh profiling investigation conducted in northeastern France. Together, these results suggest that exhaust combustion, non-exhaust emission, and biomass burning represent chemically distinguishable contributors to urban PM 10 , supporting consideration of source-specific rather than aggregated approaches to traffic-related air quality management.",
+      "doi": "10.1016/j.atmosenv.2026.122306",
+      "authors": [
+        "Aynur Naghizade",
+        "Olivier Delhomme",
+        "Dani Khoury",
+        "Maurice Millet"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric Environment",
+      "openalex_id": "W7203780889",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203780889",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 1/10 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Atmospheric particulate matter (PM) is strongly influenced by both combustion and non-exhaust traffic emissions, yet their simultaneous molecular characterization over seasonal cycles remains rare in the French monitoring literature.",
+      "added": false
+    },
+    {
+      "title": "Mapping Coastal Forest Retreat Using Convolutional Neural Networks and Different Satellite Imagery",
+      "abstract": "Coastal forests are increasingly threatened by saturated soil and elevated salinity levels resulting from sea level rise, saltwater intrusion, and storm surges. In response to rising salinization and flooding, healthy coastal forests that rely on freshwater (both wetland forests and low-elevation upland forests) are transitioning into landscapes dominated by dead or dying trees, known as ghost forests. Situated among salt-tolerant shrubs and grasses, ghost forests eventually become marshes or open water. Here, our main objective was to quantify the dynamics and pathways of these forest landscape conversions, as well as the factors contributing to the changes, which is vital for understanding the progression of coastal ecosystem degradation and forecasting future changes. We focused first on identifying the best method to track forest landscape change by exploring the role of multiple remote sensing indices (i.e., multispectral, bi-seasonal, topographical, and phenological metrics) in enhancing the performance of deep learning models (convolutional neural networks, CNNs) for land cover classification in the coastal plain of North Carolina using surface reflectance of Landsat 8 and Sentinel-2 images. Then, we used the best available data (Landsat 8) to understand long-term change and identify patterns of land cover change from 1985 to 2021. Our study reveals that incorporating phenology and topographical indices enhances the separability of the ghost forests class from all other vegetation classes. In our assessment, the higher-resolution Sentinel-2 data (F1 Score = 96.3) outperformed Landsat images (F1 score = 93.4) for the 2021 co-available year. However, Landsat remains an important tool used due to its long-term data record. Therefore, we used Landsat to determine that 21% of forests were lost between 1985 and 2021, and that the rate of loss is increasing. Between 2010 and 2021, 23,876 ha of forest were converted to marsh, ghost forest, and shrub, which is 1.5 times higher than the 16,968 ha lost between 1985 and 2010. These conversions from forest to ghost forest and marshes were driven primarily by proximity to the channel, salinity, and the increasing rate of relative sea level rise (RSLR), which are the key environmental drivers of observed changes. By quantifying these changes, we highlight regions most vulnerable to environmental stressors, providing a basis for targeted conservation strategies.",
+      "doi": "10.64898/2026.08.18.745552",
+      "authors": [
+        "Tawakalitu Titilayo Tajudeen",
+        "Marcelo Ardón",
+        "Mirela Tulbure",
+        "Katherine L. Martin"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7204037381",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204037381",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/10 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Coastal forests are increasingly threatened by saturated soil and elevated salinity levels resulting from sea level rise, saltwater intrusion, and storm surges. In response to rising salinization and flooding, healthy coastal forests that rely on freshwater (both wetland forests and low-elevation upland forests) are tr…",
+      "added": false
+    },
+    {
+      "title": "Bridging Economic Efficiency and Perceived Fairness: A New Framework for Collaborative Disaster Material Reserves",
+      "abstract": "Urban agglomerations increasingly confront disaster risks that overwhelm individual cities' reserve capacities. Collaborative emergency reserves offer a potential remedy but also introduce coordination burdens and distributional concerns. To address this, this study formulates a multi-objective optimization problem that integrates economic utility with perceived fairness. The model explicitly accounts for residents' shortage and delay experiences alongside managers' perceptions of coordination costs, reserve burdens, and cross-city disparities. It is solved using an enhanced multi-objective particle swarm optimization algorithm coupled with the ε-constraint method and driven by Monte Carlo disaster scenario generation. A numerical illustration based on 21 mainland prefecture-level cities in Guangdong Province evaluates the framework under heterogeneous risk, budget, and coordination conditions. Sobol's global sensitivity analysis identifies regional budget, inter-city collaboration experience, disaster intensity, and nonlinear perceived-loss parameters as dominant drivers of collaborative advantage, whereas transportation costs and standalone city resilience exert weaker effects. The results demonstrate that collaboration generally outperforms independent reserves, especially under severe disasters and fiscal constraints. This advantage diminishes when disasters are widespread or when transaction and coordination costs are prohibitive. Distributional stress tests further reveal that resource-abundant hub cities may perceive lower fairness when acting primarily as providers yet stand to gain substantially when severe shocks occur locally. This research provides a decision-making framework for jointly evaluating efficiency and perceived fairness. It highlights mutual-aid agreements, fiscal compensation, contribution-credit mechanisms, and joint exercises as institutional complements to optimized reserve strategies.",
+      "doi": "10.1111/risa.70321",
+      "authors": [
+        "Fei Wang",
+        "Xianli Feng"
+      ],
+      "year": 2026,
+      "journal": "Risk Analysis",
+      "openalex_id": "W7204007154",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204007154",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/10 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Urban agglomerations increasingly confront disaster risks that overwhelm individual cities' reserve capacities. Collaborative emergency reserves offer a potential remedy but also introduce coordination burdens and distributional concerns.",
+      "added": false
+    },
+    {
+      "title": "Moving the needle on sea level rise policy: a case study from the state of Hawaiʻi",
+      "abstract": "What makes long-term policy issues rise to the legislative agenda in the state-level policymaking process? More specifically, why have sea level rise adaptation policies gained traction in some states but not others? The following paper presents a case study of the State of Hawai’i, which is critically vulnerable to sea level rise impacts. The study operationalizes the concept of policy traction or “issue salience” as the number of issue-related bills submitted to the state legislature in a given annual legislative session and finds a dramatic increase in the number of issue-related bills proposed in the Hawai’i State Legislature starting in 2018. What caused this abrupt rise in issue salience around the topic of sea level rise? The paper employes Kingdon’s classic multiple streams framework to analyze a convergence of three “streams” of activities (the problem recognition stream, the policy proposal stream, and the political stream) that created a “policy window” for the issue to gain traction. The study finds that, while all three streams contributed to opening the policy window, the problem recognition stream in particular played a key role in driving the uptick in sea level rise-related policy after 2018. For the problem recognition stream, the creation of the state-wide Sea Level Rise Exposure Area tool and accompanying Vulnerability Assessment, released in 2017, provided crucial data that allowed policymakers to define the scope of sea level rise impacts and to devise more technically feasible solutions.",
+      "doi": "10.1007/s10584-026-04263-9",
+      "authors": [
+        "Ketty Loeb"
+      ],
+      "year": 2026,
+      "journal": "Climatic Change",
+      "openalex_id": "W7204007201",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204007201",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/10 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "What makes long-term policy issues rise to the legislative agenda in the state-level policymaking process? More specifically, why have sea level rise adaptation policies gained traction in some states but not others?",
+      "added": false
+    },
+    {
+      "title": "İklim ve Sanat",
+      "abstract": "Bu kitabın, basım, yayın ve satış hakları Akademisyen Yayınevi A.",
+      "doi": "10.37609/akya.4313",
+      "authors": [
+        "Ezgi Tokdil"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7203974199",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203974199",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Bu kitabın, basım, yayın ve satış hakları Akademisyen Yayınevi A.",
+      "added": false
+    },
+    {
+      "title": "Urban futures under geopolitical instability: Aligning sustainability and SDGs in the age of global megatrends",
+      "abstract": "Rapid urbanization is increasing pressure on infrastructure, natural resources, social well-being, and institutional capacity, while climate change, demographic shifts, migration, technological disruption, and geopolitical instability are further complicating paths to sustainable urban development. This study develops a conceptual, SDG-aligned framework to examine the interactions between six major global megatrends and their associated sub-trends, with a particular emphasis on their cascading effects, interdependencies, and impact on urban resilience. Drawing on existing scholarly and policy literature, this study synthesizes case-based evidence from diverse urban contexts to demonstrate how global trends translate into locally distinct sustainability challenges. Within this framework, the study proposes an Extended Composite Sustainability Index (ECSI) that conceptually integrates six interconnected dimensions namely urbanization, demographic shift, climate change, technological transformation, spatial change, and geopolitical instability to provide a multidimensional framework for assessing sustainable urban development. This framework conceptualizes resilience and SDG progress as outcomes of interactions between these dimensions, rather than as independent variables. The proposed ECSI and its associated formulations are presented as conceptual constructs. The analysis shows that technological innovations, such as artificial intelligence, big data, blockchain, and the Internet of Things, can contribute to resource efficiency, safety, and inclusive urban development, but without proper governance and institutional safeguards, they can also reinforce privileged and digital inequalities. Overall, this study highlights the need for an integrated assessment approach that simultaneously evaluates sustainability dimensions, while also providing a conceptual basis for future empirical calibration, sensitivity testing, and validation using real-world urban datasets.",
+      "doi": "10.1016/j.nxsust.2026.100454",
+      "authors": [
+        "Raj Kumar Goel",
+        "Shweta Vishnoi"
+      ],
+      "year": 2026,
+      "journal": "Next Sustainability",
+      "openalex_id": "W7203990650",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203990650",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Rapid urbanization is increasing pressure on infrastructure, natural resources, social well-being, and institutional capacity, while climate change, demographic shifts, migration, technological disruption, and geopolitical instability are further complicating paths to sustainable urban development.",
+      "added": false
+    },
+    {
+      "title": "Climate Change and International Arbitration: From Dispute Resolution to Climate Governance",
+      "abstract": "Climate change has emerged as one of the defining legal and economic challenges of the twenty-first century, generating an increasingly diverse range of disputes arising from renewable energy investments, sustainability-linked contracts, carbon markets, environmental regulation, and the global transition toward a low-carbon economy. These disputes are transnational and involve a complex interaction between private commercial interests and public environmental objectives, challenging traditional mechanisms of dispute resolution. In this context, international arbitration has assumed an increasingly significant role due to its neutrality, procedural flexibility, technical expertise, and the global enforceability of arbitral awards. This article argues that climate change is fundamentally reshaping the function of international arbitration. Rather than serving solely as a private mechanism for resolving commercial and investment disputes, arbitration is progressively evolving into an instrument of climate governance capable of facilitating the implementation of climate-related obligations and supporting regulatory certainty during the global energy transition. While arbitration offers distinct advantages for addressing transnational climate disputes, its expanding role also raises important questions concerning transparency, public participation, consistency of arbitral awards, and the reconciliation of party autonomy with broader public interests, including environmental protection and climate justice. Through a critical synthesis of recent scholarship and developments in commercial, investment, and state-related arbitration, this article examines both the opportunities and the limitations of climate arbitration. It concludes that the future legitimacy and effectiveness of international arbitration will depend upon its capacity to adapt its procedural and substantive frameworks to the evolving demands of climate governance while preserving its core principles of neutrality, efficiency, and enforceability.",
+      "doi": "10.59543/jidmis.v3.2081",
+      "authors": [
+        "Dr.Tala Zein"
+      ],
+      "year": 2026,
+      "journal": "Journal of Intelligent Decision Making and Information Science",
+      "openalex_id": "W7203984626",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203984626",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Climate change has emerged as one of the defining legal and economic challenges of the twenty-first century, generating an increasingly diverse range of disputes arising from renewable energy investments, sustainability-linked contracts, carbon markets, environmental regulation, and the global transition toward a low-c…",
+      "added": false
+    },
+    {
+      "title": "Climate Change and Ecosystem Resilience: A Comprehensive Review of Emerging Adaptation Strategies",
+      "abstract": "Climate change is increasingly disrupting ecological processes, biodiversity, ecosystem services, and the capacity of natural systems to recover from environmental disturbances. This comprehensive review examines the relationship between climate change and ecosystem resilience, with particular emphasis on emerging adaptation strategies for strengthening the capacity of ecosystems to absorb, recover from, and adapt to climate-related pressures. The review synthesizes recent literature on ecosystem-based adaptation, nature-based solutions, ecological restoration, climate-resilient conservation, landscape connectivity, assisted regeneration, agroecological approaches, and community-based ecosystem management. The findings indicate that effective ecosystem adaptation increasingly depends on integrated approaches that combine biodiversity conservation, restoration of degraded ecosystems, protection of ecological connectivity, sustainable resource management, and local knowledge. Nature-based solutions and ecosystem-based adaptation can simultaneously reduce climate risks and maintain essential ecosystem services, while adaptive management enables interventions to respond to changing climatic conditions and ecological feedback. The review further highlights the importance of genetic and species diversity, protected-area networks, ecological corridors, restoration of wetlands and forests, climate-smart agriculture, and participatory governance in enhancing resilience. However, financial limitations, fragmented governance, inadequate monitoring, uncertainty in climate projections, and conflicts among conservation and development priorities continue to constrain implementation. Overall, strengthening ecosystem resilience requires a shift from reactive conservation toward proactive, flexible, and context-specific adaptation strategies that integrate ecological, social, and institutional dimensions of climate resilience.",
+      "doi": "10.61424/ijans.v4i3.1008",
+      "authors": [
+        "Oliver Williams"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Applied and Natural Sciences",
+      "openalex_id": "W7203871943",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203871943",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Climate change is increasingly disrupting ecological processes, biodiversity, ecosystem services, and the capacity of natural systems to recover from environmental disturbances.",
+      "added": false
+    },
+    {
+      "title": "Los recientes incendios en la Comarca Andina del Paralelo 42: Pasado, presente y futuro en un territorio dinámico y complejo",
+      "abstract": "1. En la última década, la Comarca Andina del Paralelo 42 experimentó numerosos incendios forestales de gran extensión y alta severidad que generaron múltiples impactos socioambientales a diferentes escalas. Su ocurrencia refleja la convergencia de procesos como condiciones meteorológicas extremas, acumulación de combustibles forestales, escaso manejo forestal sostenible y un desordenado crecimiento demográfico en zonas urbanas y de interfase.2. Este nuevo escenario socioambiental resulta en un paisaje muy vulnerable al fuego que, de no mediar cambios, se intensificará en el futuro. La planificación de un territorio en constante transformación requiere un enfoque territorial que contemple integralmente, desde una perspectiva socioecológica, todos los procesos descritos.3. Para esto es indispensable un debate colectivo y participativo a fin de redefinir el modelo de desarrollo territorial, con especial énfasis en el desarrollo urbano y las actividades antrópicas en áreas boscosas y de interfase.4. Resulta imprescindible un enfoque integral en la gestión del fuego a corto y mediano plazo en acciones de prevención y mitigación basadas en el fortalecimiento comunitario respecto de la complejidad del fuego y la noción de riesgo. Esto implica considerar tanto las actividades socioeconómicas y culturales arraigadas en el territorio como el marco político e institucional.5. Implicancias. La planificación territorial debe concebirse como una herramienta estratégica para anticipar riesgos, minimizar impactos y promover una cultura del fuego sustentada en la educación ambiental, la organización social y el compromiso colectivo. El contexto actual plantea desafíos complejos para la gestión, la planificación territorial y el desarrollo de políticas públicas a corto y mediano plazo en la región.",
+      "doi": "10.25260/ea.26.36.3.0.2599",
+      "authors": [
+        "Mariano M. Amoroso",
+        "Daniela Arpigiani",
+        "Rocío García",
+        "Tomás González",
+        "Melina Paez"
+      ],
+      "year": 2026,
+      "journal": "Ecología Austral",
+      "openalex_id": "W7203855671",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203855671",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "1. En la última década, la Comarca Andina del Paralelo 42 experimentó numerosos incendios forestales de gran extensión y alta severidad que generaron múltiples impactos socioambientales a diferentes escalas.",
+      "added": false
+    },
+    {
+      "title": "Scene-aware attention network and medium-scale drone dataset for diverse fire classification",
+      "abstract": "Vision-based fire detection is a critical task for ensuring urban safety and protecting buildings against potential hazards. Although mainstream approaches practice conventional attention modules with deep models that are well-suited for static fire environments, they have limited outcomes in their diverse nature. These attention modules are mainly composed of conventional convolutional layers that generate redundant and overlapped spatial patterns in the case of complex fire scenarios, especially remote sensing views. To overcome these challenges, an intelligent vision model is desirable which has the capabilities to differentiate complex fire scenes with contextual information, particularly from remote sensing viewpoints. To address these challenges, an Adaptive Fire Network (AFN) is proposed that efficiently discriminates diverse fire scenes, geographical location and environmental conditions. To obtain more informative spatial features, a lightweight ConvNeXtBase is integrated with the Scene-Aware Attention Network (SAAN). Moreover, SAAN is mainly composed of the Adaptive Channel Module (ACM) and the Adaptive Spatial Module (ASM) to effectively capture global dependencies across channels, followed by local spatial patterns associated with fire. In the SAAN, depth-wise separable convolution is utilized which allows the model to gather more enhanced features from the input tensor. Additionally, the channel-wise processing leads to more understanding of the input features, potentially enhancing the model’s ability to make accurate predictions. Extensive experiments were conducted on three challenging fire datasets, Foggia, FireNet, and the newly developed Drone Fire Vision (DFV), achieving accuracies of 99.96%, 98.97%, and 90.78%, respectively. The results demonstrate that AFN significantly enhanced existing state-of-the-art methods, advancing fire detection and classification capabilities in dynamic and remote sensing environments.",
+      "doi": "10.1038/s41598-026-64460-5",
+      "authors": [
+        "Sufyan Danish",
+        "Samee Ullah Khan",
+        "L. Minh Dang",
+        "Hyoung‐Kyu Song",
+        "Hyeonjoon Moon"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7203996832",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203996832",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Vision-based fire detection is a critical task for ensuring urban safety and protecting buildings against potential hazards. Although mainstream approaches practice conventional attention modules with deep models that are well-suited for static fire environments, they have limited outcomes in their diverse nature.",
+      "added": false
+    },
+    {
+      "title": "From Ashes to Action: Economic Growth, Ecological Footprint, and Forest Fire Resilience in Advanced and Emerging Economies",
+      "abstract": "ABSTRACT Forest fires have escalated alarmingly, now consuming more than double the tree cover compared to two decades ago, signaling a growing and urgent environmental crisis. This study addresses the ever increasing global concern of forest fires, focusing on sustainable economic recovery while minimizing the ecological footprint amid mounting environmental challenges. The theoretical framework uniquely integrates the environmental Kuznets curve and tragedy of the commons, providing novel insights into the economic environment over the last two decades. This study adopts kernel density estimation approach and quantile regression method to evaluate the relationship between the variables of interest. The findings reveal a positive association between forest fires and economic growth, biocapacity, and natural resource depletion. In contrast, ecological footprint, urbanization, biodiversity loss, and tourism development are found to be negatively associated. These relationships diminish over time, indicating a potential rise in forest fire incidences without sustainable interventions. The study advocates for a transition to renewable energy, stringent environmental policies, and further research to mitigate ecological footprint and forest fire risks to promote sustainable development.",
+      "doi": "10.1002/ldr.70889",
+      "authors": [
+        "Laxita Soontha",
+        "Mohammad Younus Bhat",
+        "Arfat Ahmad Sofi"
+      ],
+      "year": 2026,
+      "journal": "Land Degradation and Development",
+      "openalex_id": "W7204013769",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204013769",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Forest fires have escalated alarmingly, now consuming more than double the tree cover compared to two decades ago, signaling a growing and urgent environmental crisis.",
+      "added": false
+    }
+  ]
+}
