@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-25",
+  "statistics": {
+    "fetched": 114,
+    "duplicates_removed": 109,
+    "evaluated": 5,
+    "added": 0,
+    "ignored": 5,
+    "average_score": 1.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "The urban interstitium: infrastructure design for resilient and regenerative urban futures",
+      "abstract": "As climate change, geopolitical instability, and environmental degradation accelerate, urban infrastructures play a pivotal role in either enabling or inhibiting regenerative transformation. Drawing on a multidisciplinary theoretical review, this paper presents a conceptual framework for integrated social, ecological, and technological infrastructures as the connective tissues of autopoietic urban socio-technical ecosystems. This framework reimagines infrastructures as dynamic, interstitial networks that enable cities to sense, interpret, and reorganize in response to rapidly changing conditions. The paper concludes by identifying design lessons for infrastructures capable of recovering from disruptions, adapting to changing conditions, and proactively transforming to sustain long-term vitality in the face of increasingly uncertain times.",
+      "doi": "10.1038/s42949-026-00465-3",
+      "authors": [
+        "Laura Supple"
+      ],
+      "year": 2026,
+      "journal": "npj Urban Sustainability",
+      "openalex_id": "W7203865743",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203865743",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "As climate change, geopolitical instability, and environmental degradation accelerate, urban infrastructures play a pivotal role in either enabling or inhibiting regenerative transformation.",
+      "added": false
+    },
+    {
+      "title": "Its just a phase: moonlight and rainfall influence the activity of a threatened cave-roosting bat in the Pilbara",
+      "abstract": "Wildlife monitoring in arid environments is complicated by substantial temporal and spatial variation in animal activity driven by unpredictable environmental conditions. For highly mobile species, movements across the landscape may further influence activity recorded at fixed monitoring locations, raising questions about whether short-term surveys adequately represent patterns of site use. We examined temporal variation in acoustic activity of the threatened Pilbara Leaf-nosed Bat (Rhinonicteris aurantia Pilbara form), a highly mobile, cave-roosting insectivorous bat inhabiting the arid Pilbara region of north-western Australia. Acoustic activity was monitored continuously at two permanent diurnal roosts for up to two years, comprising 1601 detector-nights across three detector locations. We tested relationships between nightly activity and environmental conditions, detector location and anthropogenic disturbance. Activity varied substantially through time and among detector locations. Moon illumination and cumulative rainfall were strongly associated with activity, but their interaction differed between roosts: activity was highest under low moon illumination and low cumulative rainfall at Chateau Cave, whereas activity at Daltons was highest under low moon illumination and higher cumulative rainfall. Activity also differed markedly between detector positions within Chateau Cave, and humidity, temperature and artificial light at night had additional location-specific effects. Other measures of anthropogenic disturbance, including cave entry, blasting and mining activity, had comparatively weak support. The contrasting environmental relationships among locations demonstrate that acoustic activity at permanent roosts is strongly context dependent. For a species capable of extensive movements among roosts, temporal variation in activity may reflect behavioural responses and redistribution of individuals across the landscape rather than rapid demographic change. We suggest that facultative nomadism may provide a useful hypothesis for understanding temporal variation in roost use by Pilbara Leaf-nosed Bat. More broadly, our results demonstrate that short-duration acoustic surveys of highly mobile species in arid environments may provide an incomplete representation of longer-term site use and should incorporate temporal replication and environmental context when used for conservation and impact assessment.",
+      "doi": "10.64898/2026.08.20.746117",
+      "authors": [
+        "Erin L. Westerhuis",
+        "Mirjam Kaestli",
+        "Craig Grabham",
+        "Heather North",
+        "George Madani",
+        "Kyle N. Armstrong",
+        "Jayden O'Brien"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7203901633",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203901633",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "Wildlife monitoring in arid environments is complicated by substantial temporal and spatial variation in animal activity driven by unpredictable environmental conditions.",
+      "added": false
+    },
+    {
+      "title": "Towards a transformative Pedagogy of the Heart : emotions and (dis)empowerment in relation to sustainability challenges",
+      "abstract": "In an era marked by socio-ecological crises, emotions shape how young adults experience and respond to these challenges, and how they transform themselves and their worlds. This phenomenological study examines the lived (dis)empowering emotional experiences of young adults confronting socio-ecological sustainability challenges. Drawing on a constructivist understanding of emotion and interpretative analysis of interviews with higher education students, we explored how they emotionally experience, interpret, and respond to sustainability challenges, and what fosters their sense of empowerment. Findings reveal that socio-ecological issues resonate profoundly in the hearts of students, eliciting both disempowering and empowering emotional responses. Empowering experiences are accessible to all students, highlighting the potential for constructive coping. Three core enablers of transformation—awareness, belonging, and engagement—support the processing of emotional responses toward empowerment. Facilitated through diverse and flexible methods, these enablers allow students to stay connected with and reframe their lived emotional experiences in more empowering, constructive ways. Building on these insights, we propose a Pedagogy of the Heart in Environmental and Sustainability Education, that values both positive and negative emotional experiences, supports transformation of the self in relation to human and more-than-human worlds, and fosters empowering emotional experiences.",
+      "doi": "10.1080/13504622.2026.2715121",
+      "authors": [
+        "V.C. Tassone",
+        "Pascal Frank"
+      ],
+      "year": 2026,
+      "journal": "Environmental Education Research",
+      "openalex_id": "W7203928595",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203928595",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "In an era marked by socio-ecological crises, emotions shape how young adults experience and respond to these challenges, and how they transform themselves and their worlds.",
+      "added": false
+    },
+    {
+      "title": "“If No One Is Doing Anything, What’s the Point of Hearing about It Again and Again?” Youth, Climate Journalism and Mediated Public (Dis)connection",
+      "abstract": "For news media, climate journalism has been identified as both a normative responsibility and a strategic beat for reaching young audiences. This paper examines whether and how news media shape engagement with and public connection to climate change among Norwegian youth. Drawing on an in-depth qualitative study of 33 participants in a high-choice, digitally advanced media environment, I analyse the place of climate journalism in everyday media repertoires of youth. Prior engagement is decisive: climate issues are salient for already-concerned youth, but largely absent among others. Across groups, news media are not primary sources for climate information or engagement, suggesting that news-centric audience research may overstate news media’s role in public engagement with climate change and overlook youth-specific media habits. Combining different mediated public connection frameworks, the study shows why news media often fail to connect young people to climate change as a public issue. It introduces two interrelated analytical concepts: a lack of spatiotemporally grounded solutions in news coverage, which can lead to informed disconnection, a form of public disconnection with climate change partly produced by, rather than resolved by, climate journalism. Further, it proposes practice-oriented recommendations.",
+      "doi": "10.1080/1461670x.2026.2719577",
+      "authors": [
+        "Ingerid Solheim Salvesen"
+      ],
+      "year": 2026,
+      "journal": "Journalism Studies",
+      "openalex_id": "W7203936841",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203936841",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "For news media, climate journalism has been identified as both a normative responsibility and a strategic beat for reaching young audiences. This paper examines whether and how news media shape engagement with and public connection to climate change among Norwegian youth.",
+      "added": false
+    },
+    {
+      "title": "Biodistricts as integrated territorial models for biodiversity conservation and climate change adaptation in the mediterranean area: evidence from lazio region (Italy)",
+      "abstract": "The Mediterranean basin is one of the world’s major biodiversity hotspots and is highly vulnerable to climate change, desertification, and the simplification of agricultural systems. In this context, biodistricts have emerged as innovative territorial models integrating organic agriculture, participatory governance, and sustainable land-use planning. This paper examines the role of biodistricts as instruments of integrated territorial governance for biodiversity conservation and climate change adaptation in the Mediterranean area, with a focus on the Lazio Region as a case study. The study adopts a mixed-methods approach, combining a qualitative analysis of governance and regulatory frameworks with a quantitative spatial analysis of land use based on Corine Land Cover (CLC) data. In a final analytical step, an indicator-based SWOT matrix is developed to support a strategic and comparative assessment of agricultural and territorial sustainability in biodistrict areas. The analysis covers 13 biodistricts recognised by the Lazio Region, encompassing 117 municipalities. The results indicate that Lazio’s biodistricts are characterised by high agroecological complexity and a significant presence of land uses with high ecological value, including complex cultivation patterns, agricultural areas interspersed with natural vegetation, traditional permanent crops, and forested areas. More than 50% of the total biodistrict area falls within high ecological value land-use categories. These findings suggest that biodistricts can represent effective territorial instruments for implementing environmental sustainability, biodiversity, and climate adaptation policies, with potential replicability across Mediterranean regions.",
+      "doi": "10.1007/s10531-026-03454-1",
+      "authors": [
+        "Luigi Servadei",
+        "Giulia Pastorelli",
+        "Manal Hamam",
+        "Antonio Manzoni",
+        "Concetta Cardillo",
+        "Raffaella Pergamo"
+      ],
+      "year": 2026,
+      "journal": "Biodiversity and Conservation",
+      "openalex_id": "W7203931720",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203931720",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "The Mediterranean basin is one of the world’s major biodiversity hotspots and is highly vulnerable to climate change, desertification, and the simplification of agricultural systems.",
+      "added": false
+    }
+  ]
+}
