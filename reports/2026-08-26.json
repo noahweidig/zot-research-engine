@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-26",
+  "statistics": {
+    "fetched": 96,
+    "duplicates_removed": 92,
+    "evaluated": 4,
+    "added": 1,
+    "ignored": 3,
+    "average_score": 2.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Prior low-severity fires reduce the risk of persistent forest loss from subsequent fires",
+      "abstract": "Intensifying fire regimes threaten forests globally, but the risk of persistent post-fire forest loss and its potential mitigation remains poorly quantified. We analyzed millions of wildfires worldwide from 2001 to 2024 and tracked recovery in satellite-observed forest structure and ecosystem function. Post-fire persistent forest loss, indicated by modeled non-recovery to pre-fire conditions over decadal timescales, affected 57.1% of burned forest area globally since 2001, with hotspots in Pacific temperate and southern boreal forests. We then identified 'crucial fires' as events exceeding a stringent modeled-risk probability threshold for persistent structural or functional non-recovery, with fire severity strongly predicting this loss. This severity dependence revealed a management pathway, as locations with prior low-severity fire experienced lower severity in subsequent wildfires and had lower modeled probability of becoming crucial. Under a model-based counterfactual scenario, applying the estimated severity attenuation was associated with a 7.6% reduction; the top 1% of road-accessible areas accounted for 35% of this reduction. These results provide a global framework for identifying where wildfire threatens forest resistance and where targeted low-severity fire management like prescribed fire might be used to combat global forest loss.",
+      "doi": "10.64898/2026.08.23.746551",
+      "authors": [
+        "Shengxi Gui",
+        "Shike Zhang",
+        "Yingtong Zhang",
+        "Jonathan Wang",
+        "Zhe Zhu",
+        "Thiago Goncalves-Souza",
+        "Mohammed Ombadi",
+        "Yanlan Liu",
+        "Jin Tang",
+        "Peter B. Reich",
+        "Benjamin Goldstein",
+        "Kai Zhu"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7204107632",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204107632",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 3/3 key interest terms (prescribed, wildfires, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Intensifying fire regimes threaten forests globally, but the risk of persistent post-fire forest loss and its potential mitigation remains poorly quantified. We analyzed millions of wildfires worldwide from 2001 to 2024 and tracked recovery in satellite-observed forest structure and ecosystem function.",
+      "added": true
+    },
+    {
+      "title": "Socioeconomic disparities in perceived air quality and associated respiratory health outcomes among residents of Nairobi, Kenya",
+      "abstract": "Socioeconomic inequality in exposure to air pollution possess a significant public health challenge, yet little is known about how the disparities vary across the various economic status areas in Nairobi. Globally, studies have shown that exposure to air pollution is unequal across communities hence disparities in harm to human health. This study examined the association between socioeconomic characteristics and perceived air quality among residents of low- and high-socioeconomic status areas in Nairobi, Kenya. Two regions within Nairobi County were selected for this study: Mukuru kwa Njenga (representing the Low Socioeconomic Status) and Lang’ata (representing the High Socioeconomic Status) with a sample size of 384 in HSES areas and 368 in LSES areas. A cross-sectional study was conducted among 752 respondents residing in selected LSES and HSES areas of Nairobi. Data was collected using a structured questionnaire assessing sociodemographic characteristics, income, education, employment, perceived air quality, and self-reported health outcomes associated with air pollution exposure. Descriptive statistics were used to summarize participant characteristics and perceived air quality. Chi-square tests were used to examine associations between residential area and categorical health outcomes, while ordinal logistic regression was used to assess the association between socioeconomic characteristics and perceived air-quality ratings. Perceived air quality differed significantly between residential socioeconomic groups. Respondents in LSES areas were more likely to rate air quality as poor or very poor, with 45.4% rating it as very poor, compared with only 1.6% of respondents in HSES areas. In contrast, 12.2% of HSES respondents rated air quality as good compared with 0.3% in LSES areas. The association between area of residence and perceived air-quality rating was statistically significant, χ2(3) = 282.672, p < 0.001. In the ordinal logistic regression model, HSES residence was associated with significantly lower odds of reporting poorer perceived air quality compared with LSES residence (OR = 0.135, 95% CI: 0.095–0.190, p < 0.001). Income was also significantly associated with perceived air quality, while respondents with no formal education had higher odds of reporting poorer perceived air quality compared with those with secondary education (OR = 3.254, 95% CI: 1.388–7.638, p = 0.007). Significant differences were also observed for several self-reported health outcomes. Respiratory problems were more prevalent among respondents in LSES areas than HSES areas (72.7% versus 50.4%; χ2(1) = 29.081, p < 0.001; Cramer's V = 0.224). However, allergies, eye irritation, and headaches were reported more frequently in HSES areas than in LSES areas, with significant associations observed for allergies (χ2(1) = 106.479, p < 0.001; Cramer's V = 0.429), eye irritation (χ2(1) = 136.577, p < 0.001; Cramer's V = 0.486), and headaches (χ2(1) = 149.180, p < 0.001; Cramer's V = 0.508). No statistically significant association was observed for cardiovascular problems, likely reflecting the very low number of reported cases. Substantial socioeconomic disparities in perceived air quality and self-reported respiratory health outcomes were observed. Residents of low-socioeconomic status areas consistently perceived poorer air quality and reported a higher burden of respiratory problems, highlighting the need for targeted interventions to reduce environmental health inequalities.",
+      "doi": "10.64898/2026.08.19.26360866",
+      "authors": [
+        "Eunice Apondi Otieno",
+        "James Mwitari",
+        "George Makalliwa"
+      ],
+      "year": 2026,
+      "journal": "medRxiv",
+      "openalex_id": "W7204139900",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204139900",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/3 key interest terms",
+      "tags": [],
+      "summary": "Socioeconomic inequality in exposure to air pollution possess a significant public health challenge, yet little is known about how the disparities vary across the various economic status areas in Nairobi.",
+      "added": false
+    },
+    {
+      "title": "War, climate change, and mental health: a geopsychiatric perspective on an emerging global polycrisis",
+      "abstract": "Abstract Background War, armed conflict, forced displacement, and climate change are increasingly interconnected determinants of mental health. A geopsychiatric perspective situates their effects within the interacting geographic, geopolitical, environmental, cultural, economic, and institutional conditions that shape exposure, vulnerability, protection, and care. In conflict-affected and climate-vulnerable settings, mental health consequences extend beyond direct trauma and arise through cumulative disruptions to safety, livelihoods, social and cultural continuity, health systems, and adaptive capacity. Main body of the abstract This critical narrative and conceptual review uses geopsychiatry as its organizing framework to examine the mental health consequences of war and armed conflict within the climate–conflict polycrisis. Drawing on evidence from conflict psychiatry, displacement studies, climate and mental health research, and humanitarian mental health, it shows that war generates a broad and heterogeneous burden encompassing common and severe mental disorders, non-diagnostic forms of suffering, disability, and intergenerational effects. Risk is unequally distributed according to displacement status, social and clinical vulnerability, and access to protection and care. Climate change can act as a threat multiplier by intensifying resource insecurity, livelihood disruption, forced migration, institutional fragility, and pressure on health systems. The framework connects macro-level climate and geopolitical forces with meso-level systems and micro-level vulnerabilities and protective resources. It also emphasizes reciprocal, context-dependent pathways and the potential for adaptation, recovery, and collective resilience. Short conclusion Geopsychiatry provides an integrative basis for understanding the mental health effects of the climate–conflict polycrisis and for aligning clinical, humanitarian, and policy responses. Mental health should therefore be embedded in integrated policies for climate adaptation, conflict prevention, humanitarian response, and recovery.",
+      "doi": "10.1186/s43045-026-00668-5",
+      "authors": [
+        "Julio Torales",
+        "Guillermo Sequera",
+        "Gladys Estigarribia",
+        "Iván Barrios",
+        "Tomás Caycho-Rodríguez",
+        "Antonio Ventriglio",
+        "João Maurício Castaldelli-Maia"
+      ],
+      "year": 2026,
+      "journal": "Middle East Current Psychiatry",
+      "openalex_id": "W7204079607",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204079607",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/3 key interest terms",
+      "tags": [],
+      "summary": "Abstract Background War, armed conflict, forced displacement, and climate change are increasingly interconnected determinants of mental health. A geopsychiatric perspective situates their effects within the interacting geographic, geopolitical, environmental, cultural, economic, and institutional conditions that shape…",
+      "added": false
+    },
+    {
+      "title": "“Qué es eso de la Amazonía?” Global value appropriation through carbon offsetting and environmental subject-making in Colombia",
+      "abstract": "While environmental scholars have long been denouncing the poor science behind technological solutionism, social sciences have yet to fully explore – especially on an empirical level – the issues of socio-environmental injustice related to ‘green’ growth and carbon offsetting. By taking a global historical perspective on the extraction and flow of raw materials and challenging the depoliticisation of the environmental debate, this dissertation aims to highlight the neocolonial geographies of carbon trading and offer a conceptual framework to question its social feasibility. More specifically, the dissertation makes a twofold contribution: first, by taking an understudied REDD+ project in the Colombian Amazon as a case study, it begins to uncover the subtle socio-economic and political impacts of carbon forestry on a small semi-nomad indigenous community while exposing the questionable motives of some of the actors involved. Second, it offers a novel quantitative contribution by estimating the South-North value drain through carbon offsetting (as well as the value drain from Colombia as a national-level case study), thereby exposing an unequal distribution of mitigation work on a global scale. While recognising the nuanced perceptions about mitigation schemes among Global South communities, the dissertation questions overly optimistic net-zero narratives, discusses what can be saved of the current offsetting paradigm, and ends by bringing into relief potential alternatives with the common vision of a post-growth society centred on environmental justice.",
+      "doi": "10.48676/unibo/amsdottorato/12957",
+      "authors": [
+        "Andrea <1987> Rizzi"
+      ],
+      "year": 2026,
+      "journal": "AMS Dottorato Institutional Doctoral Theses Repository (University of Bologna)",
+      "openalex_id": "W7204062109",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204062109",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/3 key interest terms",
+      "tags": [],
+      "summary": "While environmental scholars have long been denouncing the poor science behind technological solutionism, social sciences have yet to fully explore – especially on an empirical level – the issues of socio-environmental injustice related to ‘green’ growth and carbon offsetting.",
+      "added": false
+    }
+  ]
+}
