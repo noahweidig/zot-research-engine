@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-28",
+  "statistics": {
+    "fetched": 119,
+    "duplicates_removed": 103,
+    "evaluated": 16,
+    "added": 1,
+    "ignored": 15,
+    "average_score": 1.62
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Distinct seasonality and trends of natural and anthropogenic wildfires in boreal forests",
+      "abstract": "Distinguishing wildfire ignition causes and characterizing their respective fire regimes are critical for developing targeted prevention and management strategies. However, wildfire ignition information remains sparse across boreal forests due to their remoteness and lack of in-situ observations. Based on satellite observations from 2002 to 2022, this study employs a novel machine-learning attribution framework to distinguish natural and anthropogenic wildfires in boreal forests and characterize their distinct seasonal patterns and temporal variations. Results demonstrate that human activities drive a significant increase in anthropogenic fires in spring, whereas natural fires prevail in summer. In contrast to the relative stability of natural fires, anthropogenic fires decline significantly over 2002–2022, potentially reflecting the combined effects of reduced traditional burning practices and intensified fire suppression efforts. The proposed framework provides a scalable, data-driven approach for quantifying human impacts on boreal fire regimes, supporting evidence-based wildfire management at broader spatial scales.",
+      "doi": "10.1016/j.agrformet.2026.111436",
+      "authors": [
+        "Cong Gao",
+        "Jinbao Li",
+        "Keyan Fang",
+        "Xu Zhang",
+        "Qi Zhang",
+        "Chunming Shi"
+      ],
+      "year": 2026,
+      "journal": "Agricultural and Forest Meteorology",
+      "openalex_id": "W7204250310",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204250310",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 52%: matched 6/13 key interest terms (burning, ignition causes, ignition, causes, wildfires)",
+      "tags": [
+        "Burning",
+        "Ignition Causes",
+        "Ignition",
+        "Causes",
+        "Wildfires"
+      ],
+      "summary": "Distinguishing wildfire ignition causes and characterizing their respective fire regimes are critical for developing targeted prevention and management strategies. However, wildfire ignition information remains sparse across boreal forests due to their remoteness and lack of in-situ observations.",
+      "added": true
+    },
+    {
+      "title": "Atmospheric forcing of episodic wildfire activity in KwaZulu-Natal: Implications for fire risk modelling",
+      "abstract": "Abstract Wildfires are increasingly driven by extreme weather and climate variability, posing risks to ecosystems, infrastructure, and human health. This study examines the severe KwaZulu-Natal wildfire of August 4, 2024, using an integrated, process-based framework that combines satellite fire detections, tree cover change data, atmospheric reanalysis, and air quality observations. This study provides a new integrated event-scale assessment of Berg Wind-driven wildfire forcing, atmospheric air-quality impacts, and ecological disturbance associated with an extreme wildfire event in KwaZulu-Natal, South Africa. Analysis of NASA FIRMS and Global Forest Watch data shows that wildfire activity in KwaZulu-Natal is highly episodic, with short-lived but intense fire peaks dominating the seasonal regime. The August 2024 event occurred under anomalously warm winter conditions, extremely low relative humidity, and strong downslope Berg Winds associated with an advancing dry cold front. Reanalysis reveals a coherent atmospheric structure, including a strong surface pressure gradient, upper-level ridging, subsidence, and gusty winds exceeding 20 m s⁻¹, creating conditions conducive to rapid fire ignition and spread. The wildfire substantially degraded air quality, with elevated PM₂.₅ concentrations and enhanced column-integrated organic carbon transported downslope. Tree cover loss analysis indicates that wildfire is an episodic yet significant contributor to long-term forest disturbance, adding pressure to remaining natural ecosystems. These findings highlight the critical role of short-term atmospheric extremes in amplifying wildfire risk, underscore the influence of Berg Wind–dry cold front interactions on fire behaviour, and demonstrate the value of integrating atmospheric forcing into ecological wildfire models, early warning systems, and mitigation strategies in fire-prone regions. By linking drivers, dynamics, and impacts, this work advances process-based ecological modelling of extreme wildfire events.",
+      "doi": "10.1007/s11869-026-02082-6",
+      "authors": [
+        "Farahnaz Fazel‐Rastgar",
+        "S. H. Mthembu"
+      ],
+      "year": 2026,
+      "journal": "Air Quality Atmosphere & Health",
+      "openalex_id": "W7204252053",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204252053",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 35%: matched 4/13 key interest terms (ignition, drivers, wildfires, wildfire)",
+      "tags": [
+        "Ignition",
+        "Drivers",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfires are increasingly driven by extreme weather and climate variability, posing risks to ecosystems, infrastructure, and human health. This study examines the severe KwaZulu-Natal wildfire of August 4, 2024, using an integrated, process-based framework that combines satellite fire detections, tree cover c…",
+      "added": false
+    },
+    {
+      "title": "Silver Spoons in Toxic Soups: Predictors of Protective Action in Affluent Neighborhoods near a Contaminated Research Facility",
+      "abstract": "The Santa Susana Field Laboratory (SSFL) in Ventura County, California, was among the first sites in the United States to conduct aerospace and nuclear research during the Cold War. Over the nearly 60 years it was in operation, several accidents at SSFL resulted in significant contamination of the surrounding environment. As a result, SSFL was designated as a Superfund eligible site in 1989, although not placed on the National Priorities List, and has since been the subject of numerous lawsuits and health investigations. Prior research near the SSFL has identified hazardous contaminants and possible associations with certain health outcomes, yet uncertainty surrounding the health effects of those exposures has persisted for decades. Despite this uncertainty, one characteristic of the SSFL distinguishes it from many other contaminated sites. The communities surrounding the SSFL are substantially wealthier than those typically studied near Superfund sites. This context allowed us to test protection motivation theory (PMT) as well as other predictors such as health anxiety, morbidity, and distance from the site in a population-type that has been understudied in environmental risk research. Findings indicate that (1) autoimmune and endocrine/metabolic conditions were elevated among those living closest; (2) protective action was most strongly predicted by PMT variables, particularly threat appraisal, and (3) health anxiety partially mediated the relationship between morbidity and protective action.",
+      "doi": "10.1111/risa.70320",
+      "authors": [
+        "Jenna Blyler",
+        "Aitor Marcos",
+        "Richard S. John",
+        "Leah Tieger",
+        "Joseph Árvai"
+      ],
+      "year": 2026,
+      "journal": "Risk Analysis",
+      "openalex_id": "W7204273768",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204273768",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 3/13 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "The Santa Susana Field Laboratory (SSFL) in Ventura County, California, was among the first sites in the United States to conduct aerospace and nuclear research during the Cold War.",
+      "added": false
+    },
+    {
+      "title": "The short-term effects of wildfire on heathland bird communities: a case study at Killarney National Park, Ireland",
+      "abstract": "Fire is a key driver of ecosystem structure and function globally, yet climate and land-use change are driving increasingly variable wildfire patterns, with important consequences for biodiversity and ecological processes. Post-fire community dynamics are shaped by ecological, landscape and fire characteristics, but as these drivers change, understanding avian community-level responses is critical for predicting post-fire trajectories, ecosystem resilience and informing management. Temperate heathlands are of high conservation and cultural value but face increasing wildfire risk. Following a major wildfire in Killarney National Park, Ireland, in 2021, we set out to understand and quantify the impacts on upland bird abundance, behaviour, species richness and community composition using a paired burnt-unburnt experimental design over the subsequent three year period. Bird abundance and species richness were significantly reduced in burnt areas during the first two years, although community composition remained broadly unchanged. Burnt sites supported a reduced subset of the same species present in unburnt areas, indicating density reductions without species turnover. This pattern suggests a degree of short-term community resilience, with species persisting despite reduced local abundance. Species-specific responses also suggested potential shifts in territorial behaviour, with increased singing activity by meadow pipits (Anthus pratensis) across burnt sites despite reduced abundance. By the third year, differences between burnt and unburnt plots weakened, suggesting the start of a recovery of the bird communities. These findings suggest that wildfire strongly affects local bird abundances in the short-term without immediately restructuring communities, with recovery likely mediated by habitat regeneration, resource dynamics and behavioural plasticity. Assessing recovery to the pre-wildfire community state requires long-term monitoring, as effects on upland birds are likely to depend on burn extent and severity, together with other context-specific factors.",
+      "doi": "10.32942/x2k67m",
+      "authors": [
+        "Thomas Howells",
+        "Kilian Kelly",
+        "Tom Gittings",
+        "Patrick Gleeson",
+        "Siún Ní Cheallaigh",
+        "Rachel Dowling",
+        "Eoghan Phelan",
+        "Joanne Monaghan",
+        "Domonkos Boka",
+        "Christina Maloney",
+        "Tom Siekaniec",
+        "Jaimie Maidwell",
+        "Chloe Payne",
+        "D. Andrew S. Rees",
+        "Claire Deasy",
+        "Darren Evans"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204244864",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204244864",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 2/13 key interest terms (drivers, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "Fire is a key driver of ecosystem structure and function globally, yet climate and land-use change are driving increasingly variable wildfire patterns, with important consequences for biodiversity and ecological processes.",
+      "added": false
+    },
+    {
+      "title": "Carnivore occurrence in harvest blocks is influenced by forage availability, surrounding habitat, and silviculture practices",
+      "abstract": "Forest harvesting is the dominant human-caused habitat disturbance across Canada’s boreal forest, influencing wildlife distribution, movement, and predator-prey dynamics. Within harvest blocks, silviculture affects forage and cover. We used camera, vegetation, habitat, anthropogenic disturbance, and silviculture data to assess carnivore occurrence in harvest blocks in west-central Alberta, Canada during 2018-2020 in relation to season, forage, surrounding habitat and disturbance, and silviculture. Summer occurrence was lower in blocks surrounded by lower densities of anthropogenic disturbances (bear, fox, wolf), while winter occurrence was lower in blocks surrounded by lower densities of linear disturbances (coyote, lynx). Carnivore occurrence was also influenced by forage, block characteristics, and silviculture. For example, grizzly bear and fox occurrence increased with Rosa spp. biomass, while fox occurrence was higher in younger harvest blocks. Bear and fox occurrence differed with site preparation method, grizzly bear, coyote, and lynx occurrence were higher with higher lodgepole pine or white spruce planting densities, bear occurrence was higher in tended blocks, and lynx and coyote occurrence were lower where larger areas were tended or herbicide application rates were higher. These results highlight the importance of considering harvest block characteristics, silviculture, and surrounding habitat when assessing forestry effects on wildlife. Our study provides information to inform evidence-based sustainable forest management and mitigate forestry effects on multiple wildlife species.",
+      "doi": "10.1016/j.tfp.2026.101468",
+      "authors": [
+        "Laura Finnegan",
+        "Tracy McKay"
+      ],
+      "year": 2026,
+      "journal": "Trees Forests and People",
+      "openalex_id": "W7204004354",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204004354",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/13 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Forest harvesting is the dominant human-caused habitat disturbance across Canada’s boreal forest, influencing wildlife distribution, movement, and predator-prey dynamics. Within harvest blocks, silviculture affects forage and cover.",
+      "added": false
+    },
+    {
+      "title": "Urban planning to strengthen resilience to extreme climate events – a systematic review",
+      "abstract": "Abstract A growing body of literature shows that cities are key actors in mitigation and adaptation to climate change. However, there is less knowledge about the approaches and challenges urban planners face in building resilience. Existing studies often focus on specific planning tools in selected cities, while limited attention is given to the wider assessment of challenges and tools used in different world regions and across income classes. This paper explores how urban planning-related challenges and measures for strengthening resilience vary across city size, regions, and income groups based on a systematic review of scientific papers applying the ROSES standards. The first analysis includes 3,410 articles, and multiple screening iterations ultimately allow us to consider 398 papers for in-depth review. Data extraction was supported by LLM-based software, and the results were verified through in-person checking. We find that administrative issues (institutional fragmentation and lack of cooperation) are mentioned most frequently as a challenge across regions. In contrast, land-use conflicts differ significantly between world regions, though less so between cities of different size. Differences also emerge, e.g., in terms of the use of nature-based approaches (NbA) and digital tools. NbA are more frequently discussed in the literature that refers to small and very small cities compared to megacities and large cities. NbA are not solely common in Europe, but also in Africa and Small Island States. IT and digital tools are more frequently mentioned in papers that deal with cities in high-income countries. This digital divide points to the fact that the resources available to invest in such tools and technology also depend on income levels and financial resources. Overall, the findings underscore that multi-level governance and development conditions are important factors that influence the challenges faced by urban planning and its capacity to support resilience building.",
+      "doi": "10.1088/1748-9326/ae9eb2",
+      "authors": [
+        "Joern Birkmann",
+        "Maximilian Rembold",
+        "Friedrich Hampel",
+        "S. Mack",
+        "Ali Jamshed",
+        "Benjamin David Ehring",
+        "Daniel Schick",
+        "Andrea Cristina Ramirez Herrera",
+        "Lukas Thomae-Pohl",
+        "Alessa Truedinger",
+        "Erin Friedman",
+        "William Solecki",
+        "Amy Pieterse",
+        "Gian Carlo Delgado Ramos",
+        "Irfan Ahmad Rana",
+        "Mulugeta Maru",
+        "Matthias Garschagen",
+        "Nektarios Chrysoulakis"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7204242056",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204242056",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/13 key interest terms (large, states)",
+      "tags": [
+        "Large",
+        "States"
+      ],
+      "summary": "Abstract A growing body of literature shows that cities are key actors in mitigation and adaptation to climate change. However, there is less knowledge about the approaches and challenges urban planners face in building resilience.",
+      "added": false
+    },
+    {
+      "title": "Ecosystem services and livelihood pathways: the nexus between biodiversity governance and environmental justice in rural Eastern Cape, South Africa",
+      "abstract": "Mountain ecosystems in sub-Saharan Africa provide critical services such as water regulation, soil fertility, and biodiversity conservation, yet they face increasing vulnerability from climate variability and weak governance. This study examined how climate change, governance structures, and environmental justice intersect to shape community resilience in South Africa’s Amathole Mountains, focusing on the communities of Hopefield, Bold Point, and Hogsback. Using a qualitative approach, we conducted semi-structured interviews, focus group discussions, and key informant interviews with rural households and tourism stakeholders to capture diverse perspectives. Findings reveal that erratic rainfall, declining soil fertility and reduced water access are reshaping livelihood pathways and intensifying food and income insecurity. Governance shortcomings, including limited institutional capacity, weak extension support, and exclusion from adaptation planning, further constrain equitable access to ecosystem services, deepening environmental injustices. Despite these challenges, communities employ indigenous practices, informal knowledge-sharing, and small-scale conservation initiatives to sustain resilience. We argue that ecosystem-based, participatory governance rooted in local knowledge and attentive to differentiated livelihood pathways is essential for biodiversity conservation, rural well-being, and climate adaptation in mountain socio-ecological systems. Insights from this study contribute to broader debates on sustainable governance and environmental justice in climate-vulnerable highland regions across Africa.",
+      "doi": "10.3897/natureconservation.64.191936",
+      "authors": [
+        "Kablan Effossou",
+        "Philani Moyo"
+      ],
+      "year": 2026,
+      "journal": "Nature Conservation",
+      "openalex_id": "W7138873273",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7138873273",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/13 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Mountain ecosystems in sub-Saharan Africa provide critical services such as water regulation, soil fertility, and biodiversity conservation, yet they face increasing vulnerability from climate variability and weak governance.",
+      "added": false
+    },
+    {
+      "title": "Unintended winter–early spring warming over North America caused by tropical and subtropical deployment of marine cloud brightening",
+      "abstract": "Marine cloud brightening (MCB) aims to reduce global warming, but its regional impacts remain uncertain. Using the Community Earth System Model, we implement MCB over a portion of tropical and subtropical oceans under SSP2-4.5. Despite overall cooling, MCB induces significant warming over mid-eastern North America in winter-to-early spring. The response originates mainly in the tropical and subtropical eastern Pacific, where MCB cools the atmosphere by reflecting solar radiation. This change modifies extratropical circulations through Gill-type and Rossby wave responses. The circulation changes warm mid-eastern North America via two pathways: suppressed synoptic disturbance activity, which reduces cloud cover and increases downward shortwave radiation, and enhanced positive temperature advection. This MCB-induced warming resembles that associated with a strong La Niña event, with implications for snowpack and water resources. Our results highlight potential unintended risks of regional MCB and the need for a better understanding of process-level teleconnection response to climate intervention strategies.",
+      "doi": "10.1038/s41612-026-01525-2",
+      "authors": [
+        "Siyu Zhao",
+        "Long Cao",
+        "Yu Fang",
+        "Panxi Dai",
+        "Jiaying Zhang"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7204241345",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204241345",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Marine cloud brightening (MCB) aims to reduce global warming, but its regional impacts remain uncertain. Using the Community Earth System Model, we implement MCB over a portion of tropical and subtropical oceans under SSP2-4.5.",
+      "added": false
+    },
+    {
+      "title": "Structural divergence between satellite and surface CO observations across China, North America, and Europe (2015–2024)",
+      "abstract": "Abstract. Satellite and surface observations of atmospheric carbon monoxide (CO) yield divergent emission estimates, yet the underlying causes of this discrepancy remain poorly understood. Here we present a multi-region analysis spanning 2015–2024 over China, North America, and Europe, assimilating MOPITT satellite retrievals and ground-based CO measurements from over 3300 monitoring stations. Our results reveal that the systematic underestimation of modeled surface CO is a common feature across all three continents, with median observation-to-model ratios of 1.82 (China), 1.65 (North America), and 2.25 (Europe). This bias progressively diminishes from urban to rural sites, by 44 % in North America and 58 % in Europe, and almost disappears at remote sites, demonstrating that representation error is an important driver of the surface-model mismatch. In contrast, comparisons of column CO between MOPITT and model show no systematic underestimation. Assimilation experiments further illuminate the structural nature of this divergence: while surface-data assimilation greatly improves agreement with in situ observations, it introduces a positive column bias relative to MOPITT. This bias is most pronounced over China and Europe but remains modest over North America, and accordingly the decadal trends from surface CO show a sharp decline in China (-5.92 % yr-1) vs. plateaus after 2018 and 2016 in North America and Europe, while satellite-derived column trends are substantially weaker. Our multi-region analysis demonstrates that the satellite-surface discrepancy is a structurally embedded feature of the observing system, and advocates for joint utilization of both observation platforms in future inversion studies to achieve robust and self-consistent CO emission estimates.",
+      "doi": "10.5194/egusphere-2026-4938",
+      "authors": [
+        "Zhaojun Tang",
+        "Zhe Jiang",
+        "Panpan Yang",
+        "Jiaqi Chen",
+        "Pingqing Fu",
+        "Yanan Shen"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204453533",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204453533",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Abstract. Satellite and surface observations of atmospheric carbon monoxide (CO) yield divergent emission estimates, yet the underlying causes of this discrepancy remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Climate Change Hits Differently: A Conceptual Framework for Matching Climate Change Impacts to Adaptation Responses",
+      "abstract": "Climate change impacts are becoming more frequent and intense, yet adaptation responses frequently fail to match the nature of the impacts they target. A heatwave sweeping Western Europe, unpredictable rains in the Sahel, and coastal erosion in a low-lying community are fundamentally different climate change impacts and so require different adaptation responses. This paper introduces the H-I-T-S framework- a diagnostic aid that synthesises classifications from international policy frameworks, including those developed by the IPCC, UNFCCC, and UNDRR. The framework differentiates four climate change impact types - hazards (H), increased variability and unpredictability (I), trends in average conditions (T), and slow-onset changes (S) to better align climate adaptation responses with specific climate change impact types. Because these four impact types do not occur in isolation, the framework uses diagnostic questions across four dimensions (temporal dynamics, predictability, recoverability, and risk recognition) to guide users towards both dominant and interacting impacts. The H-I-T-S framework offers citizens, practitioners, and decision-makers a diagnostic aid that supports initial problem recognition and identifies the appropriate response logic, preceding context-specific assessment.",
+      "doi": "10.55845/s4e7wa87",
+      "authors": [
+        "Glory I. Edwards"
+      ],
+      "year": 2026,
+      "journal": "Journal of Sustainability",
+      "openalex_id": "W7204261115",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204261115",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Climate change impacts are becoming more frequent and intense, yet adaptation responses frequently fail to match the nature of the impacts they target. A heatwave sweeping Western Europe, unpredictable rains in the Sahel, and coastal erosion in a low-lying community are fundamentally different climate change impacts an…",
+      "added": false
+    },
+    {
+      "title": "Urban spatial structure and ecological resilience in China",
+      "abstract": "Abstract As urbanization accelerates and cities continuously expand and reshape their built environments, understanding the impact of urban spatial structure on ecological resilience has become increasingly crucial for promoting sustainable urban development. Based on grid population data and ecosystem-related data from 2007 to 2019 in Chinese prefecture-level cities, this study employs ESDA spatial exploratory analysis and entropy method to measure the degree of urban spatial structure and the level of ecological resilience. On this basis, the two-way fixed effects model, instrumental variables, and other methods are used to explore the impact of urban spatial structure on ecological resilience. We find that compact spatial structure is conducive to strengthening ecological resilience within cities. In other words, urban decentralization tends to weaken internal ecological resilience, and this effect is particularly pronounced in cities in central and western China, non-resource cities, and cities with high levels of digital development and infrastructure, and low levels of green innovation. Furthermore, mechanism tests reveal that improving climate suitability and promoting industrial sustainability are the influencing mechanisms. Finally, the study suggests that, in promoting urban construction, the government should thoroughly implement the concepts of ecological diversity protection and economic coordinated development, and reasonably plan urban spatial structure based on the current state of cities to improve the quality of living environments.",
+      "doi": "10.1057/s41599-026-08831-3",
+      "authors": [
+        "Shi Chen",
+        "Qingfei Yang",
+        "Jiaxin Gao"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7204231237",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204231237",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract As urbanization accelerates and cities continuously expand and reshape their built environments, understanding the impact of urban spatial structure on ecological resilience has become increasingly crucial for promoting sustainable urban development.",
+      "added": false
+    },
+    {
+      "title": "A database-integrated framework to support EU taxonomy aligned physical climate risk assessment in the energy sector",
+      "abstract": "Introduction Climate change increases physical risks to energy infrastructure, and sustainability regulations such as the EU Taxonomy consequently require that companies conduct physical climate risk and vulnerability assessments consistent with IPCC concepts and ISO standards. However, existing guidance is often constrained by high data requirements. Methods This study proposes an energy sector database-integrated framework that identifies climate hazards relevant to a specified activity at a given location and then assigns corresponding climate indicators to extract scenario-based climate projections, using a systematic literature review and open access climate data from the Copernicus Climate Data Store. Results The review of 23 Climate-ADAPT publications identified 4,461 hazard–activity associations across 31 EU Taxonomy energy activities. These associations were linked to 79 relevant Copernicus indicators, resulting in 143 documented hazard–indicator matchings with information on spatial resolution, scenario coverage, and temporal range. The framework requires three readily available inputs: economic activity, technological specification, and geographic location, and incorporates additional geospatial datasets to filter relevant hazards and assign suitable indicators. A case study on electricity generation from solar photovoltaic technology in Aachen, Germany, demonstrates that the framework streamlines hazard identification and enables retrieval of high-resolution, scenario-based climate projections. Discussion The framework thereby operationalizes the hazard identification and quantification stages of EU Taxonomy-aligned climate risk and vulnerability assessments, whereas the subsequent evaluation of vulnerability and materiality remains the responsibility of the assessing practitioner. Overall, the framework reduces data burden, improves transparency, and supports scalable application across energy technologies, while facilitating the integration of climate adaptation into corporate planning and decision making.",
+      "doi": "10.3389/fclim.2026.1892486",
+      "authors": [
+        "Sarina Achterfeldt",
+        "Suzana Ostojic",
+        "Leon Hansen",
+        "Marzia Traverso"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7204488384",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204488384",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Introduction Climate change increases physical risks to energy infrastructure, and sustainability regulations such as the EU Taxonomy consequently require that companies conduct physical climate risk and vulnerability assessments consistent with IPCC concepts and ISO standards.",
+      "added": false
+    },
+    {
+      "title": "In Sickness and in Heat – A Content Analysis of German Media Coverage of Chronic Diseases and Climate-Related Weather Events",
+      "abstract": "This study examines how German media frame the link between chronic diseases and climate events, an essential yet understudied aspect of climate-change communication. A quantitative content analysis of N = 429 media articles (2010 to mid-2025) investigates framing patterns, evidence use, and representations of scientific ambiguity across media types. Results indicate that coverage intensity peaks during years characterized by particularly severe weather events such as heatwaves, suggesting that acute climatic episodes amplify media attention to the climate-health nexus even within this event-focused domain. Reports predominantly employ Health Severity and Consequence frames, emphasizing medical risks and vulnerability while largely neglecting adaptation, political responsibility, or action-oriented perspectives. About 70% of articles cite scientific evidence, mainly individual studies and expert opinions, yet only one-third address uncertainty, usually in connection with preliminary findings or data limits. Overall, German media depict the climate-health nexus through a narrow, risk-focused lens that informs but rarely empowers. Stronger emphasis on solutions, transparent uncertainty communication, and socio-political framing is recommended.",
+      "doi": "10.1080/17524032.2026.2723748",
+      "authors": [
+        "Franca Singh",
+        "Julia Metag"
+      ],
+      "year": 2026,
+      "journal": "Environmental Communication",
+      "openalex_id": "W7204218797",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204218797",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "This study examines how German media frame the link between chronic diseases and climate events, an essential yet understudied aspect of climate-change communication.",
+      "added": false
+    },
+    {
+      "title": "Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss",
+      "abstract": "Abstract The adoption of new forecasting methods for volcanic eruptions typically emphasizes predictive accuracy, often overlooking their potential to reduce overall life and economic losses. We introduce a Potential Economic Value (PEV) framework that evaluates forecast utility by balancing precautionary actions against avoidable catastrophic losses (such as mass casualties). Using machine-learning forecasts from continuous seismic data at five volcanoes, we show that non-forecasted eruptions (missed) have disproportionate consequences, compared to false alarms, which generate recurring and manageable disruption. Retrospective analyses of the 2019 Whakaari (New Zealand) and 2014 Ontake (Japan) eruptions, along with three additional volcanoes, indicate that losses could have been reduced by 30–90%, despite generating numerous false alarms. Across all case studies, effective forecasting prioritizes reducing missed eruptions over maximizing accuracy. This supports the use of more precautionary warning thresholds, provided that the resulting increase in alert frequency is managed in ways that maintain public compliance and trust.",
+      "doi": "10.1038/s41467-026-77242-4",
+      "authors": [
+        "Alberto Ardid",
+        "David Dempsey",
+        "Garry McDonald",
+        "Shane J. Cronin"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W7204274046",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204274046",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract The adoption of new forecasting methods for volcanic eruptions typically emphasizes predictive accuracy, often overlooking their potential to reduce overall life and economic losses.",
+      "added": false
+    },
+    {
+      "title": "Balancing Fire Regimes and Population Dynamics for the Conservation of a Microendemic Lizard From a Biodiversity Hotspot",
+      "abstract": "ABSTRACT Understanding how fire regimes influence population processes is critical for conserving biodiversity in fire‐prone ecosystems, particularly for microendemic species with restricted distributions. Fire effects on wildlife are often inferred from abundance alone, potentially obscuring life‐stage–specific demographic mechanisms that determine population persistence. We investigated how variation in fire regimes shapes demographic performance in Ameivula jalapensis , a microendemic lizard from the Brazilian Cerrado. Using complementary sampling designs, we combined mark‐recapture and Bayesian hierarchical models to investigate whether more severe fire regimes and recently burned areas enhance survival, recruitment, abundance, and body condition (P1), increase the number of smaller individuals in the size structure (P2), and maintain a balanced 1:1 sex ratio (P3). We also incorporated vegetation structure, microclimate, and ecophysiological parameters to identify mechanistic links between fire regimes and population responses. Ecophysiological parameters, particularly locomotor performance and hours of activity mediated by microclimatic temperatures, were key predictors of demographic patterns. Although detection‐corrected abundance, survival, and recruitment did not vary across fire regimes, severe regimes were associated with higher adult body condition and activity (partially supporting P1), while size structure shifted toward larger individuals (contradicting P2), and sex ratio remained stable (supporting P3). Because juveniles were disproportionately associated with microhabitats offering temperatures close to their locomotor optimum (which are less available under severe fire regimes), these patterns suggest a potential demographic trade‐off between adult performance and juvenile success. These results indicate that fire regimes act as environmental filters, benefiting resilient adults while potentially constraining recruitment through microclimatic pathways. Our findings underscore the importance of landscape heterogeneity: frequent fires create open habitats favorable to adults, but less‐severely burned or unburned areas remain essential for recruitment. More broadly, we demonstrate how integrating demography and physiology can uncover life‐stage–specific responses to disturbance, providing a transferable framework for conserving cryptic, low‐detectability species in fire‐managed ecosystems.",
+      "doi": "10.1111/acv.70101",
+      "authors": [
+        "Geisa Kely Leandro Vitorino da Silva",
+        "Heitor Campos de Sousa",
+        "Bruna F. Gomes",
+        "Marcio Roberto Martins",
+        "Adriana Malvásio",
+        "Guarino Rinaldi Colli",
+        "Thiago Costa Gonçalves Portelinha"
+      ],
+      "year": 2026,
+      "journal": "Animal Conservation",
+      "openalex_id": "W7204273876",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204273876",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Understanding how fire regimes influence population processes is critical for conserving biodiversity in fire‐prone ecosystems, particularly for microendemic species with restricted distributions.",
+      "added": false
+    },
+    {
+      "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "abstract": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism. We introduce EarthVerse, a benchmark that evaluates scientific agents through package-scoped investigations. Its 405 reproducible tasks are grounded in 199 documented events and 19 hazard families. Agents inspect heterogeneous event packages, choose compatible evidence, execute transparent calculations, reconcile source differences, and preserve provenance in the final answer. We provide executable ground truth that decomposes each task into fine-grained answer units, together with task-specific rubrics that assess the supporting research process while allowing multiple valid paths. We evaluate 25 model and agent systems under a controlled tool-using protocol, then use controlled studies to locate failures in evidence access, tool selection, memory, reasoning, interaction, and scientific execution. Across systems, the best mean answer-unit accuracy is 84.65%, while the highest Strict@95 is only 34.81%. The gap shows that current agents often complete individual steps without maintaining a consistent chain across evidence, scales, units, calculations, and physical interpretation. EarthVerse provides a reproducible basis for measuring end-to-end scientific reliability in dynamic Earth systems.",
+      "doi": "10.48550/arxiv.2608.23525",
+      "authors": [
+        "Zhiqing Cui",
+        "Xinxiang Yin",
+        "Yihong Tang",
+        "Xinglang Zhang",
+        "Yuanzhe Hu",
+        "Siru Zhong",
+        "Weidong Tang",
+        "Yuxuan Liang",
+        "Weijia Li",
+        "Ming Jin",
+        "Shirui Pan",
+        "Yuhao Kang",
+        "Dingyi Zhuang",
+        "Jinhua Zhao"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7204188906",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204188906",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism.",
+      "added": false
+    }
+  ]
+}
