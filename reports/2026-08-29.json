@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-29",
+  "statistics": {
+    "fetched": 97,
+    "duplicates_removed": 96,
+    "evaluated": 1,
+    "added": 1,
+    "ignored": 0,
+    "average_score": 5.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Artificial intelligence for agricultural residue burning monitoring: A systematic review",
+      "abstract": "Agricultural residue burning (ARB) presents a persistent environmental challenge driven by non-linear human behaviors and dynamic spatiotemporal dependencies. Synthesizing 81 peer-reviewed studies under the PRISMA protocol and MMAT criteria, this systematic review evaluates artificial intelligence strategies integrated with Earth observation across three operational domains: (1) fire intelligence, (2) atmospheric pollution tracking, and (3) farming practice monitoring. Across these domains, remote sensing serves as the essential spatial backbone, delivering consistent observations through a multi-tier sensor network that leverages optical imagery, geostationary thermal platforms, synthetic aperture radar (SAR), and atmospheric column sensors tailored to specific objectives. Three cross-cutting findings emerge: First, model robustness depends primarily on feature composition and sensor resolution rather than model depth alone. Second, inherent remote sensing limitations—including cloud cover gaps, spectral confusion between burn scars and harvested soil, and spatial-versus-temporal resolution trade-offs—drive performance degradation when expanding from temporal to spatial predictions. Third, pre-event forecasting remains underdeveloped because orbital sensors cannot capture human and socioeconomic drivers (e.g., labor costs and planting window pressure). Unlocking the full potential of remote sensing requires coupling satellite infrastructure with dynamic spatiotemporal AI architectures. Future progress demands targeted investment in multi-sensor data fusion to resolve orbital trade-offs, ground-truth integration with agricultural census data, process-based spatiotemporal modeling, and SHAP-based explainable AI to ensure regulatory transparency.",
+      "doi": "10.1016/j.srs.2026.100492",
+      "authors": [
+        "Prahyat Puangjaktha",
+        "Suppawong Tuarob"
+      ],
+      "year": 2026,
+      "journal": "Science of Remote Sensing",
+      "openalex_id": "W7203989964",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203989964",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 2/2 key interest terms (drivers, burning)",
+      "tags": [
+        "Drivers",
+        "Burning"
+      ],
+      "summary": "Agricultural residue burning (ARB) presents a persistent environmental challenge driven by non-linear human behaviors and dynamic spatiotemporal dependencies. Synthesizing 81 peer-reviewed studies under the PRISMA protocol and MMAT criteria, this systematic review evaluates artificial intelligence strategies integrated…",
+      "added": true
+    }
+  ]
+}
