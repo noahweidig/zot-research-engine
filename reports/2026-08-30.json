@@ -1,0 +1,765 @@
+{
+  "date": "2026-08-30",
+  "statistics": {
+    "fetched": 132,
+    "duplicates_removed": 102,
+    "evaluated": 30,
+    "added": 3,
+    "ignored": 27,
+    "average_score": 1.63
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "A qualitative content analysis of wildfire smoke preparedness and response plans in the United States and Canada",
+      "abstract": "Wildfires in North America have become more frequent and intense in recent years. This increase can be attributed to climate change, which has led to higher temperatures and altered precipitation patterns, creating conditions that favor wildfires. In addition, human activities, such as land development, forest management practices, and the ignition of fires, further contribute to the rising incidence of wildfires, as they increase the likelihood of fire outbreaks in certain areas. Wildfire smoke can cause adverse health impacts, creating an urgent public health concern. Some strategies to reduce wildfire smoke exposure include indoor air filtration, clean air centers, and cancellations of outdoor events when necessary. Wildfire smoke preparedness and response plans (wildfire smoke plans) play a crucial role in coordinating and implementing these strategies across jurisdictions during wildfire smoke events. This study compares wildfire smoke plans developed by jurisdictions and institutions in the United States and Canada, including counties, cities, states, provinces, and universities. We used qualitative content analysis methods to assess the characteristics of 20 wildfire smoke plans. The majority of plans utilize risk reduction strategies such as air quality monitoring, risk communication, and guidance for household-level exposure reduction. Wildfire smoke plans are a relatively new emergency response strategy; as such, a “gold standard” set of plan components has yet to be established. As a result, there were significant variations in the plan components we reviewed. Future research should evaluate the efficacy of existing wildfire smoke plans to identify best practices and gaps. The findings from such evaluations can inform the development of a standardized framework for preparedness and targeted outreach programs for susceptible populations. By grounding future frameworks in evidence from existing plans, jurisdictions can strengthen their wildfire smoke preparedness and response efforts, ultimately protecting public health more effectively.",
+      "doi": "10.31223/x5t50k",
+      "authors": [
+        "Andrew Philips",
+        "Uthaylah Al-Arab",
+        "Tania Busch Isaksen",
+        "Anna Reed"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204567181",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204567181",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 56%: matched 6/15 key interest terms (united, united states, ignition, states, wildfires)",
+      "tags": [
+        "United",
+        "United States",
+        "Ignition",
+        "States",
+        "Wildfires"
+      ],
+      "summary": "Wildfires in North America have become more frequent and intense in recent years. This increase can be attributed to climate change, which has led to higher temperatures and altered precipitation patterns, creating conditions that favor wildfires.",
+      "added": true
+    },
+    {
+      "title": "Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach",
+      "abstract": "Abstract Wildfire ignition causes, namely human or lightning, largely determine fire behavior and impacts, but are sparsely reported worldwide. Event‐level fire causes have been inferred regionally using high‐accuracy lightning observations, but global generalization remains limited. Here we develop a machine‐learning classification framework to attribute individual wildfire ignitions using 16 predictors covering meteorological, terrestrial, and socioeconomic states. A soft‐voting ensemble built from seven base learners is trained and tested using 1.03 million fire records compiled from 17 regional data sets. The MLCF achieves an in‐sample accuracy of 94.2% while maintaining reasonable generalization skills across both spatial and temporal out‐of‐sample evaluations. Feature importance analysis identifies recent lightning strikes, air temperature, and human footprint as leading and interacting predictors of fire cause. Overall, this framework provides a basis for global event‐level wildfire ignition attribution that could inform process‐level understanding of the drivers of wildfire ignition.",
+      "doi": "10.1029/2026gl124075",
+      "authors": [
+        "Kairui Qiu",
+        "Yan Yu",
+        "Hongxuan Su",
+        "Yunxiao Tang",
+        "Shuoqing Wang",
+        "Xianglei Meng",
+        "Qiyu Song",
+        "Wei Guo"
+      ],
+      "year": 2026,
+      "journal": "Geophysical Research Letters",
+      "openalex_id": "W7204592177",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204592177",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 49%: matched 6/15 key interest terms (causes, ignition causes, drivers, ignition, states)",
+      "tags": [
+        "Causes",
+        "Ignition Causes",
+        "Drivers",
+        "Ignition",
+        "States"
+      ],
+      "summary": "Abstract Wildfire ignition causes, namely human or lightning, largely determine fire behavior and impacts, but are sparsely reported worldwide. Event‐level fire causes have been inferred regionally using high‐accuracy lightning observations, but global generalization remains limited.",
+      "added": true
+    },
+    {
+      "title": "A multi-scale analysis of vegetation and soil burn severity drivers during the 2025 wildfire season in NW Spain",
+      "abstract": "The 2025 wildfire season in Spain was characterized by numerous large wildfires, with 401,266 ha burned under extreme climatic conditions. Fifteen wildfires, covering 115,604 ha, predominantly in shrubland areas, were analyzed to assess the relative importance of climate, fire history, vegetation and topography in explaining vegetation burn severity (VBS) and soil burn severity (SBS). SBS was assessed only in areas with high VBS (dNBR > 0.66), where vegetation removal allowed the spectral response to be primarily driven by soil and ash. Vegetation and soil burn severity varied markedly among wildfires and vegetation classes. Shrublands exhibited significantly higher values of the differenced normalized burn ratio (dNBR) values, used to assess VBS, whereas no significant differences among vegetation classes were observed for the blue normalized difference index (BNDVI), used to assess SBS. A multiscale random forest approach was used to analyze burn severity at wildfire and pixel scales. At the wildfire level, VBS was mainly associated with antecedent drought conditions, fine fuel moisture, and previously burned area, whereas SBS was primarily associated with fire weather index on the day of ignition. At the pixel level, vegetation type, pre-fire vegetation greenness and topographic variables emerged as the main drivers of burn severity. The influence of these predictors varied among wildfire events, limiting the transferability of pixel-level models across independent wildfires and highlighting the importance of accounting for event-specific variability. Explicitly distinguishing between VBS and SBS improves post-fire assessment and supports the identification of areas at higher erosion risk, facilitating timely and targeted management interventions under increasingly extreme fire regimes.",
+      "doi": "10.1080/15481603.2026.2724597",
+      "authors": [
+        "A. Novo",
+        "Cristina Fernández"
+      ],
+      "year": 2026,
+      "journal": "GIScience & Remote Sensing",
+      "openalex_id": "W7204463420",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204463420",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 47%: matched 6/15 key interest terms (large wildfires, drivers, ignition, wildfires, large)",
+      "tags": [
+        "Large Wildfires",
+        "Drivers",
+        "Ignition",
+        "Wildfires",
+        "Large"
+      ],
+      "summary": "The 2025 wildfire season in Spain was characterized by numerous large wildfires, with 401,266 ha burned under extreme climatic conditions. Fifteen wildfires, covering 115,604 ha, predominantly in shrubland areas, were analyzed to assess the relative importance of climate, fire history, vegetation and topography in expl…",
+      "added": true
+    },
+    {
+      "title": "A probabilistic long-term health risk assessment framework for wildfires: the case of California",
+      "abstract": "The increased wildfire activity across the Western United States in recent decades has amplified the health risk from wildfire smoke. Existing risk assessment frameworks, however, remain at the conceptual level or target immediate and direct economic and health consequences. Here, we develop a probabilistic risk assessment (PRA) framework to estimate the health impacts of wildfires in California, integrating (1) wildfire probability, (2) fire spread, (3) emissions, (4) PM 2.5 transport, and (5) long-term mortality from degraded air quality. The findings reveal that the frequency-mortality curve due to PM 2.5 exposure from wildfires follows a power law distribution with exponent \\(\\beta =1.44\\) , emphasizing the dominant influence of extreme wildfire events. Wildfires originating in the northwestern parts of California are found to be the most significant contributor to mortality from PM 2.5 exposure, due to the high vegetation density as well as the dominant winds directing the emissions towards densely populated regions. Additionally, our results show that wildfire fatality risk is comparable to that of California earthquakes and significantly higher than the risk associated with nuclear energy generation in the state.",
+      "doi": "10.1038/s41598-026-67954-4",
+      "authors": [
+        "Ali Ayoub",
+        "Luca Illien",
+        "Haruko M. Wainwright",
+        "Giovanni Sansavini"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7204470395",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204470395",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 34%: matched 5/15 key interest terms (united, united states, states, wildfires, wildfire)",
+      "tags": [
+        "United",
+        "United States",
+        "States",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "The increased wildfire activity across the Western United States in recent decades has amplified the health risk from wildfire smoke. Existing risk assessment frameworks, however, remain at the conceptual level or target immediate and direct economic and health consequences.",
+      "added": false
+    },
+    {
+      "title": "What drives institutional action for wildfire resilience? Determinants of targeted grazing attitudes and adoption on national forests in the Western US",
+      "abstract": "Abstract Increasing wildfire severity is driving interest in new land management approaches that can reduce fuels while also remaining feasible within land governance systems. Targeted grazing, the practice of using livestock to manage vegetation, is one potential tool that can be integrated with other strategies to increase wildfire resilience. However, adoption of targeted grazing often requires action by public lands managers in complex institutional environments. We quantitatively tested a conceptual framework that integrates the theory of planned behavior and adaptive governance to evaluate factors influencing staff attitudes and actions related to targeted grazing. Through a survey of over 1000 United States Department of Agriculture Forest Service staff and a path analysis modeling approach, we identified the key determinants of attitudes and intended actions to implement targeted grazing as a wildfire risk management tool. Attitudes about rancher ability to implement targeted grazing and general beliefs about the impact of livestock grazing on native vegetation were the strongest predictors of staff attitudes about targeted grazing effectiveness. Staff members’ perception of their available time was among the most important predictors of their intention to adopt targeted grazing. Limited monitoring capacity emerged as the primary constraint on perceived time availability, in contrast to other factors like staff shortages, funding, or environmental regulation requirements. Our findings show how institutional constraints and individual psycho-social factors jointly shape willingness to pursue targeted grazing within public land wildfire management.",
+      "doi": "10.1088/1748-9326/aea00b",
+      "authors": [
+        "Briana Swette",
+        "Susan Charnley",
+        "April Hulet",
+        "Lynn Huntsinger",
+        "Kelly A. Hopping"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7204591078",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204591078",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 4/15 key interest terms (united, united states, states, wildfire)",
+      "tags": [
+        "United",
+        "United States",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Abstract Increasing wildfire severity is driving interest in new land management approaches that can reduce fuels while also remaining feasible within land governance systems.",
+      "added": false
+    },
+    {
+      "title": "A Rank‐Based CUSUM Monitoring Scheme for Time Between Events and Amplitude Data",
+      "abstract": "ABSTRACT Monitoring time between events and amplitude (TBEA) data is critical in many applications, particularly in manufacturing, reliability engineering, and service operations. Yet, most existing TBEA control charts focus on a single quality characteristic and are typically developed under restrictive distributional assumptions. In practice, each event is characterized by two independent variables: the waiting time since the previous event and the magnitude (amplitude) of the event itself, whose underlying distributions are often unknown. This paper proposes a novel rank‐based one‐sided cumulative sum (CUSUM) control chart for univariate TBEA monitoring, designed to jointly monitor shifts in both the interarrival time and the amplitude. The run‐length properties of the proposed nonparametric CUSUM‐TBEA chart are derived via a Markov chain approximation, enabling computation of in‐control (IC) and out‐of‐control (OOC) performance measures using closed‐form expressions. Monte Carlo simulations confirm the accuracy of the Markov chain results and provide guidance on the required simulation size for reliable performance estimation. Under identical IC conditions, the proposed CUSUM–TBEA chart generally exhibits faster detection and reduced run‐length variability compared to the classical exponentially weighted moving average (EWMA) chart, particularly for moderate to large shifts. The effects of Phase I sample size, unknown shift magnitudes, and correlation are also investigated. The results reveal robust performance across a wide range of monitoring scenarios. An illustrative example involving wildfire occurrence data further highlights the practical applicability of the proposed method. Overall, the results show that the proposed chart is a powerful distribution‐free and a practical tool for monitoring event‐driven processes with concurrent changes in event timing and magnitude.",
+      "doi": "10.1002/qre.70367",
+      "authors": [
+        "Muhammad Arslan",
+        "Ali Yeganeh",
+        "Fatemeh Sogandi",
+        "Jean‐Claude Malela‐Majika",
+        "Fernanda Figueiredo",
+        "Aisha Iqbal"
+      ],
+      "year": 2026,
+      "journal": "Quality and Reliability Engineering International",
+      "openalex_id": "W7204452490",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204452490",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 25%: matched 4/15 key interest terms (wildfire occurrence, occurrence, large, wildfire)",
+      "tags": [
+        "Wildfire Occurrence",
+        "Occurrence",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "ABSTRACT Monitoring time between events and amplitude (TBEA) data is critical in many applications, particularly in manufacturing, reliability engineering, and service operations.",
+      "added": false
+    },
+    {
+      "title": "Fine‐Scale Population, Emissions, and Atmospheric Dynamics Drive Health Disparity Outcomes From Energy Transition",
+      "abstract": "Abstract Transitioning to a low‐carbon energy system can provide air quality and health co‐benefits. While the aggregate effects are intuitively clear, the distributions across subnational regions and population groups and their drivers are complex and less intuitive. Here we use an integrated energy‐atmospheric‐health modeling framework for the United States to analyze what drives the distribution of health‐co‐benefits caused by energy transitions. We find that the nationwide health effects mainly depend on macro‐scale factors, while the disparity outcomes are further affected by micro‐scale factors related to emissions, atmospheric processes, and population vulnerability. For instance, in a Net‐Zero 2050 scenario, prioritizing emission reductions near minority populations reduces the national average White‐Black disparity in ambient PM 2.5 exposure to 0.2 μg/m 3 , compared with 0.6 μg/m 3 when emission reductions follow current spatial patterns. Using race‐specific rather than uniform exposure‐response relationships doubles the estimated White‐Black disparity in PM 2.5 attributable mortality rates under both Net‐Zero scenarios. Our results highlight the importance of resolving fine‐scale patterns to understand the distributional effects of energy transitions on pollution and health.",
+      "doi": "10.1029/2025ef007767",
+      "authors": [
+        "Xinyuan Huang",
+        "Jinyu Shiwang",
+        "Klaus Keller",
+        "Wei Peng"
+      ],
+      "year": 2026,
+      "journal": "Earth s Future",
+      "openalex_id": "W7204496921",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204496921",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 4/15 key interest terms (drivers, united, united states, states)",
+      "tags": [
+        "Drivers",
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract Transitioning to a low‐carbon energy system can provide air quality and health co‐benefits. While the aggregate effects are intuitively clear, the distributions across subnational regions and population groups and their drivers are complex and less intuitive.",
+      "added": false
+    },
+    {
+      "title": "When mulch burns: fire risks at the wildland–urban interface",
+      "abstract": "Background Mulch is widely used for landscaping in wildland–urban interface (WUI) communities but can act as a fuelbed that facilitates fire spread from vegetation to structures. Aims Although prior laboratory studies have investigated mulch ignition thresholds, few have examined large-scale burning dynamics under outdoor conditions representative of real wildfire exposure. Methods Full-scale fire tests were conducted on 10 weathered mulch products, including 5 composted and 5 non-composted types. Key results Non-composted mulches can sustain flaming combustion, exhibiting faster fire spread, greater flame heights, and higher heat fluxes compared to composted mulches. Composted mulches generally produced weak or unstable flames, transitioning rapidly to smoldering combustion, which slowed fire spread. In some tests, ignited particles driven by wind roll across the fuel surface and ignite adjacent fuel. Particle size influences burning behavior, with mulch made of larger fir bark particles sustaining more vigorous flame spread vs smaller particles that primarily smoldered. Conclusions Comparison with prior small-scale studies confirmed that while laboratory experiments capture ignition thresholds, only large-scale testing revealed ember spotting, sustained flaming spread, and heat flux exposures. Implications These findings provide empirical evidence to guide defensible space design, mulch selection, and fire risk reduction strategies in wildfire-prone WUI communities.",
+      "doi": "10.1071/wf26040",
+      "authors": [
+        "Shaorun Lin",
+        "Stephen L. Quarles",
+        "Daniel J. Gorham",
+        "Wuquan Cui",
+        "Michael J. Gollner"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7204441903",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204441903",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 4/15 key interest terms (burning, ignition, large, wildfire)",
+      "tags": [
+        "Burning",
+        "Ignition",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Background Mulch is widely used for landscaping in wildland–urban interface (WUI) communities but can act as a fuelbed that facilitates fire spread from vegetation to structures.",
+      "added": false
+    },
+    {
+      "title": "Rising vapor pressure deficit and fuel availability exacerbate the dispersion of intra-annual burned area",
+      "abstract": "Abstract Continuing climate warming is creating more favorable burning conditions both within and outside the core fire seasons, such as drier vegetation, increased fuel load, and more frequent lightning. These changes are expected to reshape wildfire regimes, with profound implications for wildfire management practices and the terrestrial carbon cycle. However, limited knowledge exists regarding how the seasonal regimes of wildfires respond to continued warming and what consequences this has for fire-related carbon emissions. Our analysis of satellite-derived burned area data reveals a widespread increase in the dispersion of burned area, particularly in most regions of Eurasia, South America, and Australia. Nonetheless, estimates based on the fire weather index tend to underestimate these increases. This increasing dispersion of burned area is primarily driven by increased vapor pressure deficit and fuel availability, which promote more burned areas outside the core fire season. Nevertheless, the increased dispersion of burned area does not lead to a synchronous rise in the dispersion of fire-related carbon emissions. This decoupling occurs because carbon emission per unit of burned area significantly rises within the core fire season but insignificantly changes outside it. Our results highlight the critical role of warming in reshaping seasonal wildfire regimes and have important implications for wildfire management and global carbon budget estimation.",
+      "doi": "10.1038/s41612-026-01524-3",
+      "authors": [
+        "Hongtao Xu",
+        "Ziqian Zhong",
+        "Rui Tang",
+        "Yuanfang Chai",
+        "Fei Zhang",
+        "Yichen Li",
+        "Xiaoqi Hu"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7204477120",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204477120",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 3/15 key interest terms (burning, wildfires, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Continuing climate warming is creating more favorable burning conditions both within and outside the core fire seasons, such as drier vegetation, increased fuel load, and more frequent lightning.",
+      "added": false
+    },
+    {
+      "title": "GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering",
+      "abstract": "Current work on improving reliability in large language model (LLM)- generated answers has primarily leveraged Retrieval-Augmented Generation (RAG), knowledge-graph augmentation, and reinforcement learning. While these methods are adept at enhancing and measuring reliability through semantic similarity and faithfulness, they often struggle to distinguish semantic similarity from geographic validity. This is especially critical in natural hazard management domains where geographic granularity (i.e., town vs. city vs. state) is significant for decision-making, as responses valid in one municipality may not transfer to another. In such domains, a confidently wrong answer carries greater risk than abstaining. We present GeoRisk-RAG, a novel hierarchy-aware framework that addresses this geographic-validity gap through selective answering. This framework explicitly estimates geographic applicability using a Directed Acyclic Graph (DAG)-based distance for context retrieval before response generation. Experiments on a novel held-out wildfire-related question-answering (QA) dataset show that GeoRisk-RAG significantly reduces false confidence rates for location-dependent questions, lowering the rate to 0.009 compared with ~0.090 for standard semantic similarity and reranking baselines, while consistently achieving higher human preference alignment. This work provides a more comprehensive assessment of end-to-end RAG pipelines by integrating geographic validity and selective-answering behavior for safer decision-making in geospatial domains.",
+      "doi": "10.48550/arxiv.2608.22634",
+      "authors": [
+        "Meenu Ravi",
+        "Shailik Sarkar",
+        "Lulwah Alkulaib",
+        "Yordanos Tessema",
+        "Chang‐Tien Lu"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7204163897",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204163897",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 2/15 key interest terms (large, wildfire)",
+      "tags": [
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Current work on improving reliability in large language model (LLM)- generated answers has primarily leveraged Retrieval-Augmented Generation (RAG), knowledge-graph augmentation, and reinforcement learning.",
+      "added": false
+    },
+    {
+      "title": "One hundred years of forest fires in Poland – historical and socio-economic context",
+      "abstract": "Background Scots pine (Pinus sylvestris L.) covers 60% of Poland’s forests and is considered fire-prone. Understanding historical fire regimes provides a baseline for evaluating changes; yet, Poland’s historical forest fire characteristics remain poorly documented. Aim To reconstruct the century-long history of forest fires in Poland, within its socio-economic context. Methods We used an interdisciplinary approach to analyse 20th- and 21st-century forest fire regimes in Poland, integrating archive data, historical research theses, press reports, scientific papers, existing fire databases, and oral testimonies. Key results Between 1920 and 1945, forest fires in Poland burned over 220,000 ha, with ~150,000 ha occurring during World War II (1939–1945). From 1946 to 2020, 342,204 fires burned 407,093 ha (annual average: 4562 fires and 5428 ha). Although the fires frequency increased significantly in the 1990s before slightly declining through 2020, total burned area trended downwards. Consequently, average fire size decreased from 7.95 ha to 0.44 ha over the analysed period. Implications These findings provide the first century-long historical baseline for Poland's forest fires, enhancing our broader understanding of fire regimes across Central and Eastern Europe.",
+      "doi": "10.1071/wf24146",
+      "authors": [
+        "Jan Kaczmarowski",
+        "Wojciech Kędziora",
+        "Conceição Colaço"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7204440065",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204440065",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/15 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Background Scots pine (Pinus sylvestris L.) covers 60% of Poland’s forests and is considered fire-prone. Understanding historical fire regimes provides a baseline for evaluating changes; yet, Poland’s historical forest fire characteristics remain poorly documented.",
+      "added": false
+    },
+    {
+      "title": "Individual animal condition connects forest structure with tick infestation and pathogen presence",
+      "abstract": "Abstract Forest structural complexity is widely assumed to enhance biodiversity, yet its effects on the physiological condition and health of individual organisms remain poorly understood. We examined how forest structural complexity relates to individual condition and, in turn, to ectoparasite and pathogen occurrence in free-living vertebrates. Across 19 temperate forest plots in Flanders (northern Belgium), spanning a gradient of structural complexity, we sampled birds and small mammals and quantified individual condition using scaled mass index, fluctuating asymmetry, and relative telomere length. Larval ticks were collected from hosts and screened for a broad panel of tick-borne pathogens. Relative telomere length tended to be lower in more structurally complex forests, whereas body condition and fluctuating asymmetry showed no consistent relationship with forest structure. Individuals in better body condition were less likely to carry larval ticks. In contrast, hosts with shorter telomeres were more likely to carry pathogen-infected larvae, consistent with links between cumulative physiological stress and infection susceptibility. No evidence was found for systematic co-occurrence among pathogens within larval ticks. Together, our results indicate that individuals interact with forest structure through multiple, potentially independent physiological pathways, shaping observed patterns of parasite load and tick-borne pathogen prevalence.",
+      "doi": "10.1007/s10531-026-03447-0",
+      "authors": [
+        "Diederik Strubbe",
+        "Cesare Pacioni",
+        "Lander Baeten",
+        "Bram Catfolis",
+        "Leni Lammens",
+        "An Martel",
+        "Frank Pasmans",
+        "Hein Sprong",
+        "Tosca Vanroy",
+        "Kris Verheyen",
+        "Luc Lens"
+      ],
+      "year": 2026,
+      "journal": "Biodiversity and Conservation",
+      "openalex_id": "W7204652973",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204652973",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/15 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Abstract Forest structural complexity is widely assumed to enhance biodiversity, yet its effects on the physiological condition and health of individual organisms remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Revisiting climate extremes in South America and their modulation by oceanic teleconnections",
+      "abstract": "Abstract This study characterizes spatiotemporal patterns of climate extremes in South America (SA) and assesses oceanic mode influences using daily MERGE and SAMeT data (2000–2024). Eight ETCCDI indices reveal a north–central precipitation gradient linked to the ITCZ, with dry spell maxima over central-eastern Brazil. Notable exceptions include southern Chile (orographic rainfall) and northeastern Argentina/western southern Brazil, where the SALLJ influences intense multi-day precipitation extremes. Temperature extremes show widespread warming with increasing tropical nights northward and higher frost frequency southward. Observed changes during 2000–2024 suggest drying tendencies in central-eastern SA and wetting in the northwest, though these may reflect interdecadal variability rather than long-term trends. ENSO emerges as the dominant statistical modulator, with composites and lag-correlations revealing a robust north–south dipole with regionally asymmetric signals: La Niña produces stronger drying over southeastern SA than El Niño produces wetting, consistent with Rossby wave propagation and SALLJ-related modulation, as documented in previous studies. Tropical Atlantic Variability (TAV) exerts its most robust influence over eastern Amazonia via ITCZ displacement, with weak signals elsewhere. The Combined Index produces weaker signals than ENSO alone, consistent with ENSO as the clearly dominant statistical driver of variability. These results underscore the need for mode-aware, region-specific climate services across SA.",
+      "doi": "10.1007/s00382-026-08351-5",
+      "authors": [
+        "Lormido Zita",
+        "Flavio Justino",
+        "Carlos Diego Gurjão"
+      ],
+      "year": 2026,
+      "journal": "Climate Dynamics",
+      "openalex_id": "W7204530940",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204530940",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/15 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Abstract This study characterizes spatiotemporal patterns of climate extremes in South America (SA) and assesses oceanic mode influences using daily MERGE and SAMeT data (2000–2024). Eight ETCCDI indices reveal a north–central precipitation gradient linked to the ITCZ, with dry spell maxima over central-eastern Brazil.",
+      "added": false
+    },
+    {
+      "title": "Exploring Fire Management Strategies at the Wildland-Urban Interface with an Agent-Based Model Framework",
+      "abstract": "Rapid urbanisation often leads to the growth of informal settlements in hazard-exposed areas. Wildfires are one such hazard that may threaten settlements but, at the same time, are essential for the survival of fire-adapted and fire-dependent wildland species. Fire management needs to navigate the needs of residents and biodiversity conservation within a coupled social-ecological system such as the wildland-urban interface (WUI). In our study, we develop an agent-based modelling framework to explore the potential outcomes of different fire management strategies in a WUI. Residents in the model respond to fires by relocating within the settlement or leaving. Our model simulates Imizamo Yethu, an informal settlement in the City of Cape Town, South Africa, where fynbos is a native and fire-dependent wildland species. Our framework includes feedback between urban growth, fuel load and wildland health, allowing us to investigate trade-offs for different management strategies. Model output indicated that some vegetation types may be surprisingly resilient, also under fire suppression, highlighting areas where future work may be beneficial. The framework can serve as a starting point to investigate other case studies, also with different sub-models for fire spread, vegetation or residents' behaviour included.",
+      "doi": "10.1007/s00267-026-02561-7",
+      "authors": [
+        "Sven Christ",
+        "Richard Sliuzas",
+        "Nina Schwarz"
+      ],
+      "year": 2026,
+      "journal": "Environmental Management",
+      "openalex_id": "W7204468368",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204468368",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/15 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Rapid urbanisation often leads to the growth of informal settlements in hazard-exposed areas. Wildfires are one such hazard that may threaten settlements but, at the same time, are essential for the survival of fire-adapted and fire-dependent wildland species.",
+      "added": false
+    },
+    {
+      "title": "Modeling Spatial Extremes Using Non‐Gaussian Spatial Autoregressive Models via Convolutional Neural Networks",
+      "abstract": "ABSTRACT Data derived from remote sensing or numerical simulations often have a regular gridded structure and are large in volume, making it challenging to find accurate spatial models that can fill in missing grid cells or simulate the process effectively, especially in the presence of spatial heterogeneity and heavy‐tailed marginal distributions. To overcome this issue, we present a spatial autoregressive modeling framework, which maps observations at a location and its neighbors to independent random variables. This is a highly flexible modeling approach and is well‐suited for non‐Gaussian fields, providing simpler interpretability than hierarchical spatial models. In particular, we consider the spatial autoregressive model with Generalized Extreme Value distribution innovations to combine the observation at a central grid location with its neighbors, capturing extreme spatial behavior based on the heavy‐tailed innovations. While these models are fast to simulate by exploiting the sparsity of the key matrices in the computations, the maximum likelihood estimation of the parameters is prohibitive due to the intractability of the likelihood, making optimization challenging. To overcome this, we train a convolutional neural network on a large training set of spatial fields that are generated using parameters covering a useful parameter space, and then use the trained network for fast parameter estimation. We further employ quantile regression for uncertainty quantification, incorporating a novel construction of the training dataset to obtain confidence bounds. Finally, we apply this model to analyze annual maximum precipitation data from ERA‐Interim‐driven Weather Research and Forecasting (WRF) simulations, allowing us to explore its spatial extreme behavior across North America.",
+      "doi": "10.1002/env.70139",
+      "authors": [
+        "Sweta Rai",
+        "Douglas Nychka",
+        "Soutir Bandyopadhyay"
+      ],
+      "year": 2026,
+      "journal": "Environmetrics",
+      "openalex_id": "W7204579194",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204579194",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "ABSTRACT Data derived from remote sensing or numerical simulations often have a regular gridded structure and are large in volume, making it challenging to find accurate spatial models that can fill in missing grid cells or simulate the process effectively, especially in the presence of spatial heterogeneity and heavy‐…",
+      "added": false
+    },
+    {
+      "title": "Probabilistic assessment of tropical cyclone recovery burden across US Atlantic and Gulf Coast counties",
+      "abstract": "Tropical cyclones cause widespread damage to housing and infrastructure, and recovery is often slow and uneven. Climate risk assessments quantify the likelihood and direct impacts of extreme events, but post-disaster recovery remains largely absent from these models, limiting our ability to assess long-term resilience. We therefore integrate simplified recovery modeling into probabilistic tropical cyclone risk assessment for all counties along the US Atlantic and Gulf coasts. We quantify county-level repair demand for residential buildings using a large synthetic set of tropical cyclone events and compare it with baseline local construction capacity, proxied by residential building permits. The resulting recovery burden expresses the modeled repair workload in months of baseline construction activity. The relative importance of repair demand and construction capacity depends on how recovery burden is summarized. Expected annual recovery burden is dominated by rare, high-impact events and closely tracks the expected annual repair demand. For the median damaging event in each county, construction capacity becomes more important, and counties with comparable repair demands can face substantially different recovery burdens. A joint screening identifies 60 high-risk, low-capacity counties that are particularly susceptible to post-disaster construction bottlenecks. Incorporating baseline construction capacity into risk assessment can therefore inform where reconstruction support would complement efforts to reduce tropical cyclone risk.",
+      "doi": "10.31223/x5zv3v",
+      "authors": [
+        "Simona Meiler",
+        "Nikola Blagojevic",
+        "Meredith Lochhead",
+        "Avantika Gori",
+        "Jack Baker"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204487523",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204487523",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Tropical cyclones cause widespread damage to housing and infrastructure, and recovery is often slow and uneven. Climate risk assessments quantify the likelihood and direct impacts of extreme events, but post-disaster recovery remains largely absent from these models, limiting our ability to assess long-term resilience.",
+      "added": false
+    },
+    {
+      "title": "A critique of California’s Forest Practice Rules’ capacity to accommodate resilience silviculture",
+      "abstract": "The wildfire crisis in California will likely require fundamental changes to forest practice regulations so that foresters can practice resilience silviculture that modifies forest conditions sufficiently to avoid further conversions of the landscape into non-forested vegetation types. We assessed the extent to which California’s forest practice regulations accommodate one key element of resilience silviculture: density reduction. We found that, generally, current (as of 2025) regulations do accommodate the reduction of density down to average levels that have been documented by recent reconstruction studies. However, we found them to be possibly constraining when considering the potential need to reduce density below historical levels. Our assessment found that foresters do not utilize an existing mechanism that allows them to reduce densities to lower levels, suggesting an area for further investigation. Recent changes that allow California Environmental Quality Act exemptions have made it more feasible for foresters to practice resilience silviculture. More adjustments could be made, especially those that incentivize surface and ladder fuels management. A starting point that will facilitate further change may be to define “resilience” for working forests as an objective that is at least as important as timber productivity.",
+      "doi": "10.3733/001c.167038",
+      "authors": [
+        "R.A. York",
+        "Evemyra Ryan",
+        "Brandon M. Collins",
+        "Ryan E. Tompkins"
+      ],
+      "year": 2026,
+      "journal": "California Agriculture",
+      "openalex_id": "W7204569581",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204569581",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 4%: matched 1/15 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "The wildfire crisis in California will likely require fundamental changes to forest practice regulations so that foresters can practice resilience silviculture that modifies forest conditions sufficiently to avoid further conversions of the landscape into non-forested vegetation types.",
+      "added": false
+    },
+    {
+      "title": "Climate and financial risks: Dual threats, interactions, and systemic consequences",
+      "abstract": "In today's warming world, societies face dual threats from climate and financial risks, which increasingly interact, producing systemic consequences. Climate risk encompasses both physical risk, ranging from acute to chronic climate damages, and transition risk arising from disorderly shifts toward a low-carbon economy. Financial risk, referring to vulnerabilities in financial markets and institutions, can propagate throughout the financial system and impair broader economic activity. Climate and financial risks can each generate systemic disruption on their own, but their interaction may substantially amplify these consequences. This thesis traverses the climate and financial systems to understand how climate and financial risks interact in producing systemic consequences, develops quantitative approaches for jointly measuring these risks, and explores risk-management tools via insurance. These objectives are pursued through three projects. The first project provides a comparative study of climate extremes and financial crises. Although they arise in distinct domains, both are highly disruptive events characterized by strong nonlinearities. We establish a structural analogy between climate extremes and financial crises through three progressively deeper layers: observed impacts, formation mechanisms, and system-level emergence. The second project is devoted to systemic climate risk measurement, with particular attention to the compounding effects of transition risk and market distress. We address this through the expected shortfall under joint climate and market stress, followed by an extreme value analysis under rare but plausible scenarios and comprehensive empirical studies. The third project examines climate--economy feedbacks. It conceptualizes climate insurance as a layered, insurance-centered framework for financing and allocating residual climate risk. Using a stochastic DICE model, it evaluates the macroeconomic value, contract design, and mitigation effects of climate insurance. Together, the three projects contribute to emerging strands of research on climate-related financial risk, systemic climate risk, and climate insurance. By combining complex-systems reasoning, tail-risk measurement, and integrated assessment modeling, this thesis argues that effective climate risk management requires moving beyond isolated domains toward an integrated framework that captures the interactions between climate and financial risks.",
+      "doi": "10.26190/unsworks/32638",
+      "authors": [
+        "Eugenia Fang"
+      ],
+      "year": 2026,
+      "journal": "UNSWorks (University of New South Wales, Sydney, Australia)",
+      "openalex_id": "W7204221686",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204221686",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "In today's warming world, societies face dual threats from climate and financial risks, which increasingly interact, producing systemic consequences. Climate risk encompasses both physical risk, ranging from acute to chronic climate damages, and transition risk arising from disorderly shifts toward a low-carbon economy…",
+      "added": false
+    },
+    {
+      "title": "Contrasting nighttime heterogeneous and daytime photochemical aging drive the optical evolution of black carbon",
+      "abstract": "Abstract. Black carbon (BC) particles play a critical role in the climate system, yet their atmospheric aging processes and consequent optical impacts in real-world atmospheres remain insufficiently understood. In this study, we present integrated single-particle measurements using a single particle soot photometer (SP2) and a single-particle aerosol mass spectrometer (SPAMS) during a field campaign in urban Shenzhen, China. The mean refractory BC (rBC) mass concentration during the sampling period was 1.2 µg m−3, with core mass median diameters (MMD) of 155–170 nm. The diurnal variation in the coating-to-core mass ratio (MR) indicated that BC underwent continuous aging. Nighttime aging was associated with enhanced nitrate signals and coating growth, potentially influenced by gas–particle partitioning, condensation, and coagulation. Daytime photochemical aging was characterized by rapid nitrate accumulation followed by increases in sulfate and oxidized organic species. Despite their distinct mechanisms, both aging pathways significantly elevated the MR and produced similar net enhancements in the mass absorption cross section (MAC) at 532 nm with an overnight increase of ∼ 0.8 m2 g−1 and a daytime increase of ∼ 1.0 m2 g−1. These comparable net increments were primarily due to the offsetting effect of intensive fresh emissions during the day. Specifically, the apparent rates of change in the MAC of core–shell-like BC driven by nighttime heterogeneous reactions and daytime photochemical aging were determined to be 0.36±0.05 and 0.51±0.11 m2 g−1 h−1, respectively. This study provides observationally constrained insights into the contrasting diurnal evolution of BC mixing state and optical properties and quantifies the campaign-specific apparent MAC enhancement rates under urban atmospheric conditions.",
+      "doi": "10.5194/acp-26-12197-2026",
+      "authors": [
+        "Yin Zhang",
+        "Jinghao Zhai",
+        "Yaling Zeng",
+        "Shao Shi",
+        "Baohua Cai",
+        "Ke Yang",
+        "Yan Yu",
+        "Xin Yuan",
+        "Tianlong Hu",
+        "Chen Wang",
+        "Tzung‐May Fu",
+        "Lei Zhu",
+        "Huizhong Shen",
+        "Jianhuai Ye",
+        "Xin Yang"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7155808110",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7155808110",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Black carbon (BC) particles play a critical role in the climate system, yet their atmospheric aging processes and consequent optical impacts in real-world atmospheres remain insufficiently understood.",
+      "added": false
+    },
+    {
+      "title": "Rising Thermal Extremes and Seasonal Particulate Exposure in Western Mato Grosso, Brazil (2000-2025): An Environmental Exposure Profile and the Case for Health Surveillance",
+      "abstract": "The western margin of the Pantanal meets the southern edge of the Amazonian deforestation arc, and each dry season its population breathes what the fires leave behind. Yet the small municipalities along this margin are among the least monitored in Brazil, and the exposure their residents carry has never been quantified. We characterised thermal and particulate exposure across 21 municipalities of western Mato Grosso between 2000 and 2025, counting days rather than months above health-relevant thresholds. Daily air temperature, dew point and precipitation came from ERA5-Land; the heat index was computed daily from maximum temperature and the relative humidity concurrent with it, derived from dew point. Fine particulate matter was characterised independently from two validated products, the ACAG satellite-derived estimate (2000-2022) and the NASA GEOS-CF composition reanalysis (2018-2025), and burned area from MODIS MCD64A1. Trends were tested with a Mann-Kendall test modified for serial correlation and the Theil-Sen estimator, with false discovery rate correction across municipalities. Days with a heat index above 39 °C, the NOAA danger level, rose from 8.4 per year in 2000-2009 to 21.4 in 2016-2025; days with maximum temperature above 36 °C rose from 6.5 to 23.1; days with afternoon relative humidity below 30 per cent, the Brazilian meteorological service attention level, rose from 14.1 to 28.7. Maximum temperature rose by 0.394 °C per decade and was significant in all 21 municipalities after correction. Particulate matter showed no trend in either product, but a pronounced seasonal cycle peaking in September at 47.7 and 47.1 µg m⁻³ respectively, closely tracking burned area. Thermal danger and particulate load therefore diverge in direction and are offset in timing, the smoke maximum falling in September and the thermal maximum in October. This is an exposure profile rather than evidence of harm. Even so, a population whose days of thermal danger have more than doubled in a quarter century, and whose dry-season air remains heavily loaded, warrants systematic surveillance of respiratory and cardiovascular outcomes.",
+      "doi": "10.12974/2311-8741.2026.14.05",
+      "authors": [
+        "Ernandes Sobreira Oliveira",
+        "Maísa Consuelo dos Santos",
+        "Cleverson Ricardo Soares Viana",
+        "Adryelle Lemes de Campos",
+        "Sofia Caumo",
+        "Adriana Gioda"
+      ],
+      "year": 2026,
+      "journal": "Journal of Environmental Science and Engineering Technology",
+      "openalex_id": "W7204448370",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204448370",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "The western margin of the Pantanal meets the southern edge of the Amazonian deforestation arc, and each dry season its population breathes what the fires leave behind.",
+      "added": false
+    },
+    {
+      "title": "The Multilingual FrameNet Corpus",
+      "abstract": "This paper introduces the Multilingual FrameNet Corpus (mFNC), a novel resource that extends the English Berkeley FrameNet corpus by collecting and harmonizing existing language-specific corpora across nine additional languages: Brazilian Portuguese, Chinese, Dutch, French, German, Italian, Korean, Latvian and Swedish. By training models that rely on different architectures on the mFNC, we consistently outperform existing state-of-the-art Frame Semantic Parsers in both multilingual and cross-lingual settings, underscoring the importance of multilingual training data. The mFNC and our trained FSP models are openly available at https://github.com/beatrice-f/mFNC.",
+      "doi": "10.48550/arxiv.2608.23037",
+      "authors": [
+        "Beatrice Fiumanò",
+        "Nicolas Lazzari",
+        "Simone Paolo Ponzetto",
+        "Valentina Presutti"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7204169183",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204169183",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "This paper introduces the Multilingual FrameNet Corpus (mFNC), a novel resource that extends the English Berkeley FrameNet corpus by collecting and harmonizing existing language-specific corpora across nine additional languages: Brazilian Portuguese, Chinese, Dutch, French, German, Italian, Korean, Latvian and Swedish.",
+      "added": false
+    },
+    {
+      "title": "The Reverse Risk Register Approach to Understanding Systemic Factors in Risk Analysis and Management Case Studies",
+      "abstract": "Although recent developments have improved clarity on the characteristics of high-quality risk science, there is recognition that many of those characteristics relate to specific tasks taken by the risk analyst. However, the effectiveness of risk analysis and management often relies on both internal risk team activities and other external systemic factors. This article leverages reports on past risk events to develop new knowledge on systemic factors that have frequently appeared in connection with major risk events, including whistleblower dynamics, lack of accountability, financial aspects, corruption or fraudulent behavior, scientific disagreement, and political influence and lobbying. Such factors are not typically addressed in existing risk study quality indicators or in training and professional expectations for risk analysts. We explore this issue by introducing the reverse risk register concept to study the role of those factors in past risk events. We utilize the analysis presented in this article to support several areas for risk analyst training and guidance. The findings of this article suggest that although these systemic factors are not typically within the risk analyst's professional responsibilities, awareness and standardized thinking about these areas will improve the risk analyst's perspective within their professional duties. The findings can also help risk analysts, decision-makers, and managers consider whether such factors are present in their organizations and how their presence might influence the risk management process or the risk itself. This article will be of interest to risk analysts, industry professionals, and policymakers.",
+      "doi": "10.1111/risa.70332",
+      "authors": [
+        "Shital Thekdi",
+        "Terje Aven"
+      ],
+      "year": 2026,
+      "journal": "Risk Analysis",
+      "openalex_id": "W7204262374",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204262374",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Although recent developments have improved clarity on the characteristics of high-quality risk science, there is recognition that many of those characteristics relate to specific tasks taken by the risk analyst.",
+      "added": false
+    },
+    {
+      "title": "Examining Dengue-related Information Diffusion on Indonesian Twitter Through Sentiment-based Network Analysis, Spatial Mapping, and Temporal Dynamics",
+      "abstract": "Dengue fever remains a major public health challenge in Indonesia, yet studies integrating sentiment analysis, Social Network Analysis, and spatial analysis to examine dengue-related information diffusion on social media remain limited.This study proposes an integrated framework applied to 5,715 dengue-related tweets collected from Indonesian Twitter between January 2021 and December 2025.Sentiment classification using IndoBERT revealed a predominantly neutral discourse (65.23%), with meaningful negative (20.31%) and positive (14.45%) proportions.Sentiment-weighted interaction networks were constructed and analysed, revealing highly fragmented structures with modularity scores exceeding 0.98.Healthcare professionals emerged as the most robustly influential actors by betweenness centrality, with PageRank-based influence conditional on self-loop treatment, while the Ministry of Health held the highest in-degree values.Spatial analysis, based primarily on self-reported user locations, indicated geographic concentration along the Java-Bali corridor, and temporal analysis revealed recurring peaks in January and June aligned with Indonesia's wet season and dengue outbreak cycles.These findings demonstrate the value of integrating sentiment, network, and spatial dimensions for comprehensive public health communication analysis.",
+      "doi": "10.22266/ijies2026.0930.35",
+      "authors": [
+        "Ribka Devina Margaretha",
+        "Wiwik Anggraeni"
+      ],
+      "year": 2026,
+      "journal": "International journal of intelligent engineering and systems",
+      "openalex_id": "W7204664108",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204664108",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Dengue fever remains a major public health challenge in Indonesia, yet studies integrating sentiment analysis, Social Network Analysis, and spatial analysis to examine dengue-related information diffusion on social media remain limited.This study proposes an integrated framework applied to 5,715 dengue-related tweets c…",
+      "added": false
+    },
+    {
+      "title": "From frameworks to futures: health adaptation pathways across the Shared Socioeconomic Pathways",
+      "abstract": "Abstract Effectively managing the rising health risks of climate change requires consideration of plausible adaptation pathways under a range of scenarios of changes in greenhouse gas emissions and socioeconomic development to systematically explore the solution space for climate-resilient health systems. Incorporating adaptation pathways approaches into health planning can facilitate understanding of adaptation opportunities, barriers, and limits by different degrees of warming (based on Representative Concentration Pathways (RCP) and levels of socioeconomic development (e.g., Shared Socioeconomic Pathways (SSP)). This understanding supports prioritization of policies and measures to reduce current and near-term risks, leading to more robust and timely health decisions. We explore how health adaptation pathways can be operationalized under the SSP framework to inform health system planning by: (i) identifying limits to adaptation (e.g., tipping dynamics where strategies are no longer feasible); (ii) illustrating timing and implementation delays, showing how deployment of health interventions may vary across development pathways; and (iii) exploring how multiple climate-sensitive health-related risks may stress health system capacity. Health decision makers can use the adaptation pathways approach in key activities such as vulnerability and adaptation assessments, developing health adaptation plans, and communication with interest holders, thereby strengthening preparedness and resilience for climate change.",
+      "doi": "10.1038/s44168-026-00414-x",
+      "authors": [
+        "K. L. Ebi",
+        "M. Andrijevic",
+        "P. Berry",
+        "R. Biesbroek",
+        "K. Bowen",
+        "M. Haasnoot",
+        "S. L. Harper",
+        "M. Garschagen",
+        "A. Lipsanen",
+        "S. Pedde",
+        "E. Totin"
+      ],
+      "year": 2026,
+      "journal": "npj Climate Action",
+      "openalex_id": "W7204638991",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204638991",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Abstract Effectively managing the rising health risks of climate change requires consideration of plausible adaptation pathways under a range of scenarios of changes in greenhouse gas emissions and socioeconomic development to systematically explore the solution space for climate-resilient health systems.",
+      "added": false
+    },
+    {
+      "title": "Machine learning assessment of climatic stress and productivity dynamics in the Himalayan vegetable agroecosystem",
+      "abstract": "Mountain vegetable systems are critical for income generation and nutritional security in the Indian Himalayas, but accelerating climatic warming is increasingly threatening their long-term sustainability. To evaluate climate–production dynamics in Himachal Pradesh during 1996–2025, this study employed a multi-method framework integrating Mann–Kendall (MK) trend analysis, Sens’ slope estimation (SSE), compound annual growth rate modelling (CAGR) modelling, decomposition analysis (DA) , spearman correlation (SC) and extreme gradient boosting (XGBoost)-based machine learning. Results revealed substantial warming, with maximum and minimum temperatures increasing by approximately 0.12 °C year-1, accompanied by a sharp decline in chilling hours (-31.88 hr year-1). Although vegetable production increased considerably during the study period, decomposition analysis showed that production growth was driven primarily by rapid expansion of cultivated area, with tomato and pea production increases attributable to area effects by 96.23 % and 81.43 %, respectively. In contrast, productivity growth remained weak or negative for several climate-sensitive vegetables. Machine-learning analysis identified critical thermal thresholds above 22–23 °C, while exploratory (XGBoost) models demonstrated satisfactory performance, with R² values ranging between 0.78–0.89, mean absolute error (MAE) values between 5–8 % and mean absolute percentage error (MAPE) values below 10 %. Overall, the findings suggest that current vegetable production growth in Himachal Pradesh reflects structural buffering through area expansion rather than genuine productivity-based climate resilience, highlighting the need for climate-adaptive and productivity-centred management strategies in Himalayan agroecosystems.",
+      "doi": "10.14719/pst.14203",
+      "authors": [
+        "Shivam Behal",
+        "Subhash Sharma",
+        "P Samriti",
+        "Nisha Devi",
+        "Ashu Chandel",
+        "K.S. Thakur"
+      ],
+      "year": 2026,
+      "journal": "Plant Science Today",
+      "openalex_id": "W7204443471",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204443471",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Mountain vegetable systems are critical for income generation and nutritional security in the Indian Himalayas, but accelerating climatic warming is increasingly threatening their long-term sustainability.",
+      "added": false
+    },
+    {
+      "title": "Crisis and centralisation: how the pandemic reshaped territorial preferences in Spain",
+      "abstract": "This article explores the impact of crises on territorial preferences of citizens, focusing on how crisis management drives shifts towards centralisation. While existing research has shown that territorial preferences can shift in response to elite mobilisation and political dynamics, we know comparatively little about whether external shocks can drive similar change. Using an online priming survey experiment conducted at different times of the COVID-19 pandemic in Spain, the research tests whether ineffective crisis coordination increases public support for centralisation. The findings reveal a robust centralisation shift, moderated by pre-existing preferences for decentralised governance and regional political alignments. These insights raise important questions about the resilience of decentralised governance structures in the face of external shocks.",
+      "doi": "10.1080/13608746.2026.2694986",
+      "authors": [
+        "Sandra Léon",
+        "Amuitz Garmendia Madariaga"
+      ],
+      "year": 2026,
+      "journal": "South European Society & Politics",
+      "openalex_id": "W7204463635",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204463635",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "This article explores the impact of crises on territorial preferences of citizens, focusing on how crisis management drives shifts towards centralisation. While existing research has shown that territorial preferences can shift in response to elite mobilisation and political dynamics, we know comparatively little about…",
+      "added": false
+    },
+    {
+      "title": "Stewardship, sustainable business and responsible trade",
+      "abstract": "Sustainability becomes a business discipline when claims about climate, resources, people and trade are translated into testable responsibilities, measurable impacts and defensible choices. This chapter treats sustainable business as a strategic, scientific, moral and cross-border problem rather than as an ESG scorecard. It develops competing theories of sustainability; trade-growth-environment relationships; financial, impact and moral materiality; climate and nature risk; responsible sourcing and human-rights due diligence; circular economy and life-cycle reasoning; greenhouse-gas accounting, targets, carbon pricing and border measures; reporting, assurance and greenwashing controls; and the links to sustainable finance and procurement. Sasol anchors the African analysis, illustrating the tensions among industrial production, emissions, energy security, jobs, technology and offsets, while Maersk provides a global comparison of efficiency gains and rising absolute emissions. African energy access, AfCFTA, green industrialization and policy sovereignty are treated as central development questions. Christian moral reasoning frames creation care as stewardship ordered to truth, neighbour-love, justice, responsible freedom and human flourishing. Keywords: sustainable business; stewardship; climate risk; circular economy; ESG; responsible trade; carbon accounting; responsible sourcing; AfCFTA; human flourishing",
+      "doi": "10.65655/ocp.m23.c80",
+      "authors": [
+        "Sixbert Sangwa"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204598179",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204598179",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Sustainability becomes a business discipline when claims about climate, resources, people and trade are translated into testable responsibilities, measurable impacts and defensible choices.",
+      "added": false
+    },
+    {
+      "title": "Co-designing a landscape fire smoke health plan for at-risk populations in Australia",
+      "abstract": "Abstract Landscape fire smoke (LFS) has substantial health impacts for exposed and at-risk populations, with these events increasing in frequency and severity in a changing climate.While a variety of interventions are available for the management of health impacts during LFS events, effective utilisation of these options requires prior consideration and planning. This can be achieved through a customisable, individual planning tool, to be used by those most at risk of poor health outcomes during prolonged LFS events. As no such tool currently exists in Australia, we co-designed a resource with at-risk individuals, health professionals and content experts using a design-thinking framework. Consumer focus groups and in-depth interviews with general practitioners (GPs) were conducted, seeking their input on how LFS events were currently managed and what factors would be useful in a planning tool. We found the proposed tool to be valued by both consumers and GPs, and identified several possible avenues for improved communication of smoke events (e.g. early warning for at-risk populations). We describe the process and the output, with considerations towards future evaluation research. A LFS health plan is a valuable addition to available health management resources in a changing climate.",
+      "doi": "10.1088/2752-5309/ae9f8b",
+      "authors": [
+        "Sharon L. Campbell",
+        "Anna Marie Gjedrem",
+        "Bill Dodd",
+        "Fay H. Johnston"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Health",
+      "openalex_id": "W7204459522",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204459522",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Abstract Landscape fire smoke (LFS) has substantial health impacts for exposed and at-risk populations, with these events increasing in frequency and severity in a changing climate.While a variety of interventions are available for the management of health impacts during LFS events, effective utilisation of these optio…",
+      "added": false
+    },
+    {
+      "title": "How does hazard exposure influence job choice? Evaluating time-dependent tradeoffs between salary and hazard risks",
+      "abstract": "Natural hazards are a nonmarket disamenity that affects an individual's search for employment resulting in a negative environmental impact that produces an economic inefficiency. We develop a seek-and-screen job search approach that uses a discrete choice simulation to examine how salary, crime, and natural hazard risk influence job choice. We model the job decision process as a series of elimination events using a Cox hazard model grounded in a Random Utility Model. We use data from the discrete choice simulation to estimate both a standard proportional hazards model and an extended specification that allows the effect of natural hazard risk to vary across decision rounds. Individuals are exposed to the dynamics of a simulated job search as they make decisions between pairs of job offers in an adaptive learning process based on income, geography, crime level, and natural hazard attributes. The results of the job choice decisions provide the input to a statistical survival analysis. The results indicate that salary and crime exert stable and economically intuitive effects on job elimination, with higher salary reducing and higher crime increasing the likelihood of removal. In contrast, natural hazard risk exhibits a time-varying effect that increases the probability of elimination in early rounds but becomes neutral or favorable in later stages of the decision process. These findings suggest that environmental risk is evaluated differently as individuals transition from initial screening to final job selection, highlighting the importance of modeling job choice as a multi-stage process.",
+      "doi": "10.48550/arxiv.2608.24811",
+      "authors": [
+        "Richard Bernknopf",
+        "Leila Gonzales",
+        "Christpher Keane"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7204228235",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204228235",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Natural hazards are a nonmarket disamenity that affects an individual's search for employment resulting in a negative environmental impact that produces an economic inefficiency.",
+      "added": false
+    },
+    {
+      "title": "Global fire activity exacerbates extreme PM2.5 pollution",
+      "abstract": "Extreme PM 2.5 pollution events pose substantial threats to public health and environmental sustainability. However, under climate change, the relationship between global fire activity and extreme PM 2.5 pollution remains insufficiently understood. Using 0.25° × 0.25° gridded data from 2004 to 2023, this study employs quantile regression models to assess the influence of global fire activity on extreme PM 2.5 pollution. Results show that fire activity has a significant positive relationship with PM 2.5 concentrations across all quantiles, with this relationship becoming particularly pronounced under extreme pollution conditions. At the 95th percentile, the fire-related regression coefficient reaches 0.899 ( p < 0.05), which is 2.9 and 4.5 times higher than the coefficients at the 50th (0.310) and 10th (0.197) percentiles, respectively. Spatial autocorrelation analysis further reveals that regions where extreme PM 2.5 pollution is strongly associated with fire activity exhibit significant spatial clustering (Moran’s I = 0.036, p < 0.01). Notably, Canada in North America, Siberia in Asia, Brazil in South America, and Indonesia in Southeast Asia are identified as the most strongly affected regions. These findings improve understanding of the role of fire activity in extreme PM 2.5 pollution and provide important evidence for strengthening global air quality management and emergency response strategies.",
+      "doi": "10.1038/s41612-026-01527-0",
+      "authors": [
+        "Qian Wu",
+        "Song Hong",
+        "Chao He",
+        "Lei Zhang",
+        "Shuai Shi",
+        "Bin Chen",
+        "Lanzhou Chen"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7204455108",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204455108",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Extreme PM 2.5 pollution events pose substantial threats to public health and environmental sustainability. However, under climate change, the relationship between global fire activity and extreme PM 2.5 pollution remains insufficiently understood.",
+      "added": false
+    }
+  ]
+}
