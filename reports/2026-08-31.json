@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-31",
+  "statistics": {
+    "fetched": 141,
+    "duplicates_removed": 137,
+    "evaluated": 4,
+    "added": 1,
+    "ignored": 3,
+    "average_score": 2.75
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises",
+      "abstract": "Climate change and fire suppression are intensifying wildfires, prompting fuel reduction treatments that will generate gigatonnes of waste biomass residues in the near term. We evaluate the potential for anoxic biomass burial to serve as a scalable approach to offtake these residues while simultaneously providing durable carbon storage. Using geospatial water balance modeling across the western United States, we find that minimum soil cover thickness varies over four orders of magnitude, reflecting strong site dependence. Life cycle emissions modeling indicates that burial is more carbon efficient than decomposition, pile burning, or biochar production. Although bioenergy with carbon capture and storage ultimately yields greater carbon benefits, infrastructure requirements and economic analysis indicate that burial is a more immediate, cost-effective option. Burial could thus provide a scalable, carbon-efficient bridge, pending further study of decay and storage controls. Combining biomass carbon removal and storage with wildfire mitigation forestry illustrates the opportunity to leverage shared underlying goals for net climate and economic benefit.",
+      "doi": "10.1126/sciadv.aee6185",
+      "authors": [
+        "Leah K. Clayton",
+        "Alexander S. Wyckoff",
+        "Sinéad M. Crotty"
+      ],
+      "year": 2026,
+      "journal": "Science Advances",
+      "openalex_id": "W7204231162",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204231162",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 89%: matched 6/8 key interest terms (burning, united states, wildfire, states, united)",
+      "tags": [
+        "Burning",
+        "United States",
+        "Wildfire",
+        "States",
+        "United"
+      ],
+      "summary": "Climate change and fire suppression are intensifying wildfires, prompting fuel reduction treatments that will generate gigatonnes of waste biomass residues in the near term.",
+      "added": true
+    },
+    {
+      "title": "The Impact of Climate Change on Ecosystems and Ecological Analysis in the Context of Sustainable Development",
+      "abstract": "Climate change is one of the most significant environmental challenges of the twenty-first century, threatening the stability, resilience, and sustainability of ecosystems worldwide. Rising global temperatures, altered precipitation patterns, prolonged droughts, floods, wildfires, storms, and sea-level rise significantly affect the structure, functioning, productivity, and biodiversity of terrestrial and aquatic ecosystems. These changes alter species distributions, disrupt ecological interactions, accelerate habitat degradation, and increase extinction risks. Climate change also affects soil fertility, nutrient cycling, water availability, and plant physiological processes, reducing agricultural productivity and weakening ecosystem services essential for human well-being. This review provides a comprehensive assessment of the impacts of climate change on ecosystem dynamics based on recent scientific literature. Particular attention is given to the relationships among climate variability, biodiversity conservation, soil–plant interactions, and ecosystem resilience. The study examines the major anthropogenic drivers of climate change, including greenhouse gas emissions, deforestation, land-use change, and unsustainable exploitation of natural resources, together with their ecological and socio-economic consequences. It further evaluates adaptation and mitigation strategies, emphasizing ecosystem-based adaptation, sustainable land and water management, ecological restoration, climate-smart agriculture, biotechnology, and advanced environmental monitoring systems. By integrating terrestrial and aquatic ecosystems within the framework of the United Nations Sustainable Development Goals (SDGs), this review highlights practical approaches for strengthening ecosystem resilience and promoting sustainable development. The findings emphasize that integrated ecosystem management, long-term ecological monitoring, international cooperation, and innovative technologies are essential for reducing climate change impacts, conserving biodiversity, and ensuring environmental sustainability for future generations.",
+      "doi": "10.36719/2707-1146/67/64-70",
+      "authors": [
+        "Safura Valiyeva",
+        "Elnara Isayeva"
+      ],
+      "year": 2026,
+      "journal": "NATURE AND SCIENCE",
+      "openalex_id": "W7204626342",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204626342",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 3/8 key interest terms (drivers, united, wildfires)",
+      "tags": [
+        "Drivers",
+        "United",
+        "Wildfires"
+      ],
+      "summary": "Climate change is one of the most significant environmental challenges of the twenty-first century, threatening the stability, resilience, and sustainability of ecosystems worldwide.",
+      "added": false
+    },
+    {
+      "title": "Human uses of the central Congo Basin peatlands: an interdisciplinary study from above and below",
+      "abstract": "\"Over 20,000 years ago carbon-dense peat began forming at the centre of the Congo Rainforest, now known as the Central Congo Basin peatlands. In 2017, scientists mapped this unique swamp forest ecosystem and estimated that more carbon is stored underground in the peat, then is stored in all the trees of the Congo Rainforest. Research since has explored its ecology, carbon cycling dynamics, paleo-history and the conservation threats facing the swamp forest. However, the Congo Rainforest remains one of the most understudied forested ecosystems on Earth. Critically, social scientific methods have seldom featured in the science which is shaping our current understanding of the Central Congo Basin peatlands, though this imbalance has improved over the course of the research for this PhD thesis. To date, it is believed that the vast peatland forest in the Central Congo Basin is largely intact and has not been degraded by industrial activities, like what has occurred in other tropical peatland geographies, like in Southeast Asia. In this thesis, I explore the contemporary human influence on the Central Congo Basin (Cuvette Centrale) peatlands from above and below. I do this first by studying the evidence of contemporary swamp forest change using remote sensing methods and exploring the livelihood activities likely responsible for anthropogenic peatland forest change. I then apply mixed social scientific methods using a case study design to investigate the factors which shape local livelihoods, wellbeing and ultimately, local forest and biodiversity changes in two peatland-dependent communities in the Democratic Republic of the Congo’s (DRC) Centrale Congo Basin. Though the peatlands stretch across both the Republic of the Congo (RoC) and the DRC, the human footprint around the periphery of the peatland forest in the region is particularly concentrated in the DRC. In my first results chapter (chapter 2 of this thesis), based on a regional analysis from above using remotely sensed data, I describe an overall low, yet growing pattern of deforestation over the last two decades. In this chapter, I ground-truth an anomalously large patch of detected deforestation before discussing the likely local drivers, mainly artisanal logging, rice cultivation and encroachment of shifting agriculture on the edges of the peatland forest. I place the magnitude and scale of forest change detected in this chapter into context by showing that the annual rates of detected peatland tree cover loss are 5x-7x less and orders of magnitude less than the national annual background rates in the DRC and RoC and in Southeast Asian peatlands, respectively. Whilst these findings provide an unprecedented long-term contemporary baseline describing peatland deforestation in the region, they reveal very little about the underlying factors shaping forest change patterns (and likely biodiversity changes happening below the canopy, but not detected using remote sensing methods). I rely on the field-based case studies and over four months of field work in the DRC’s Central Congo Basin peatlands to address this limitation. In my second results chapter (chapter 3 of this thesis), I draw from coupled social-ecological systems (SES) thinking and apply the concept of interconnections between nature and people. Using this framing, I connect local livelihood practices occurring in local customary forests in the case study communities to the broader idea of human wellbeing to expand the scope of this research away from the material benefits of the peatland landscape for local livelihoods. In so doing, I describe the underlying factors shaping local livelihoods, wellbeing and associated local forest cover and biodiversity changes. The factors or social-ecological (SE) interconnections are organised around environmental, socioeconomic and governance pillars and have salience when compared to other tropical peatland regions. My results contribute to a nuanced understanding of two negative forest and biodiversity changes, declining fish stocks and deforestation from artisanal logging, as well as an improved understanding of the diverse portfolio of livelihoods taking place in the peatland landscape, some of which are not linked to negative forest cover or biodiversity changes. Overall, this study offers a detailed empirical analysis of people, their livelihoods and peatlands in an understudied social-ecological system. SES thinking is often mobilised in the study of environmental change and to understand dynamics of resilience, or the ability to cope with and adapt to change. For the last results chapter in this thesis (chapter 4 of this thesis), I was inspired to explore social-ecological resilience after observing the importance of hydrological change on local livelihoods and wellbeing, a common feature in wetland settings prone to a dynamic flooding regime. Drawing on data from the first case study community visited for this research, I demonstrate that mobility (the movement of people) is connected to resilience. I conduct a qualitative analysis of local experiences and outcomes of mobility and the diverse social networks across space and time in the peatland landscape that facilitate the flow of people, livelihood resources, knowledge and opportunities. With this analysis, I encourage those less familiar with the context of the Central Congo Basin peatlands to avoid applying a sedentary agriculturalist lens and to view peatland-dependent communities, such as riverside fishing camps, as not simply situated in one place, but connected to many others places (often across the peatland landscape) across space and time. Looking across the three distinct chapters of this thesis, I conclude by a short discussion on how my thesis contributes to the development of a research agenda centred around fishing, a livelihood activity encountered in the case study communities that is associated with particularly diverse social-ecological interconnections. To conclude, I consider how the place-based framework describing social-ecological interconnections developed in this thesis may point the research community towards unique interdisciplinary endeavours grounded in the social-ecological context of the Central Congo Basin peatlands. \"",
+      "doi": "10.7488/era/7719",
+      "authors": [
+        "Shona Jean Jenkins"
+      ],
+      "year": 2026,
+      "journal": "Open MIND",
+      "openalex_id": "W7204493778",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204493778",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 2/8 key interest terms (large, drivers)",
+      "tags": [
+        "Large",
+        "Drivers"
+      ],
+      "summary": "\"Over 20,000 years ago carbon-dense peat began forming at the centre of the Congo Rainforest, now known as the Central Congo Basin peatlands. In 2017, scientists mapped this unique swamp forest ecosystem and estimated that more carbon is stored underground in the peat, then is stored in all the trees of the Congo Rainf…",
+      "added": false
+    },
+    {
+      "title": "SYNTHESIS OF RECOMMENDATIONS FOR WILDLIFE MANAGEMENT AND RENEWABLE ENERGY IN THE NORTHEAST",
+      "abstract": "187 pages",
+      "doi": "10.7298/aytx-0q38",
+      "authors": [
+        "Ash Canino"
+      ],
+      "year": 2026,
+      "journal": "eCommons (Cornell University)",
+      "openalex_id": "W7204270870",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204270870",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "187 pages",
+      "added": false
+    }
+  ]
+}
