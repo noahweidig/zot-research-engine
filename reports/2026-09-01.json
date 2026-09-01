@@ -1,0 +1,145 @@
+{
+  "date": "2026-09-01",
+  "statistics": {
+    "fetched": 122,
+    "duplicates_removed": 117,
+    "evaluated": 5,
+    "added": 1,
+    "ignored": 4,
+    "average_score": 1.8
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Analysis of forest fire causes in Algeria – a case study of Tissemsilt region",
+      "abstract": "Determining the causes is the first link in the chain of fighting forest fires and the key to an effective prevention strategy. This study aims to identify the causes of forest fires in Tissemsilt (Northwest Algeria) using the Delphi method. It is based on a survey conducted exclusively among 84 forestry professionals during the two fire seasons of 2023–2024 and 2024–2025, using a face-to-face questionnaire. Twenty-four local fire causes were consolidated into 5 categories and 16 classes according to the European Forest Fire Information System (EFFIS) which utilizes two primary classification frameworks to monitor, assess, and manage wildfires across Europe, the Middle East and North Africa. The results showed that negligence was the dominant perceived wildfire cause (56.2%), followed by deliberate causes (27.0%) and accidents (12.4%), whereas rekindles (4.1%) and natural causes (0.1%) remained marginal. From the point of view of the hierarchy of most probable causes, categorized into three levels of significance, the votes of forestry experts reveal that the deliberate fires motivated by profit or benefit received the highest number of votes (60), followed by other negligent uses of fire (honey harvest with smoker and fires lit to keep away harmful animals), (50) and agricultural burnings (42), whereas fire rekindling and mental illness-related causes received the lowest number of votes (1 each). Overall, the results highlighted human-related activities, particularly negligence and deliberate actions, as the predominant perceived drivers of wildfire occurrence, emphasizing the importance of monitoring and addressing these causes to improve wildfire prevention and management strategies.",
+      "doi": "10.15177/seefor.26-018",
+      "authors": [
+        "Belgacem Nouar",
+        "Hicham Berrabah",
+        "Elhadj Tir",
+        "Benchohra Maamar",
+        "A.H. Saad",
+        "Sid Ahmed Aouadj",
+        "Driss Haddouche"
+      ],
+      "year": 2026,
+      "journal": "South-east European forestry",
+      "openalex_id": "W7204852669",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204852669",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 6/6 key interest terms (wildfire occurrence, wildfires, wildfire, occurrence, drivers)",
+      "tags": [
+        "Wildfire Occurrence",
+        "Wildfires",
+        "Wildfire",
+        "Occurrence",
+        "Drivers"
+      ],
+      "summary": "Determining the causes is the first link in the chain of fighting forest fires and the key to an effective prevention strategy. This study aims to identify the causes of forest fires in Tissemsilt (Northwest Algeria) using the Delphi method.",
+      "added": true
+    },
+    {
+      "title": "Natural disturbances from bark beetle outbreaks and windthrow increasingly affect Europe's most mature and carbon-rich forests",
+      "abstract": "Abstract. Europe's forests store nearly 40 PgC and provide a critical carbon sink of ∼ 0.2 PgC yr−1, yet climate-sensitive disturbances increasingly threaten this capacity. Although disturbance rates from windthrow and bark beetle outbreaks have risen in recent decades, it remains unclear whether these events increasingly affect the oldest and largest trees, which store a disproportionate share of carbon. Focusing on bark beetle outbreaks and windthrow, the dominant natural disturbance agents in temperate and boreal European forests, we combine three decades of satellite-derived disturbance maps with spatially explicit data on forest age, biomass, and species composition to reveal patterns of structural selectivity across Europe. We show that natural disturbances have shifted toward older, carbon-rich forest patches, with disturbed forest area >60 years old nearly tripling since 2010 (from 0.38 to 1.06 Mha). This pattern reflects a qualitative shift in disturbance dynamics, from historically episodic, wind-dominated impacts to increasingly persistent, climate-amplified bark beetle outbreaks that preferentially affect mature spruce forests in Central Europe (effect size = 1.1). As a result, biomass losses from natural disturbances in spruce forests increased fivefold between the early (2011–2016) and recent (2017–2023) periods, outpacing the expansion of the disturbed area. Trend-based projections indicate that, if current patterns of structural selectivity persist, natural disturbances could expose biomass carbon stocks equivalent to approximately 20 % of Europe's contemporary forest carbon sink by 2040 (∼ 0.05 PgC yr−1 or ∼ 0.8 PgC cumulative). Our findings reveal a previously unquantified structural susceptibility: climate-sensitive disturbances increasingly affect forest structures with high per-hectare carbon stocks, amplifying disturbance-related carbon susceptibility and weakening the long-term effectiveness of Europe's forest carbon sink. Adaptive management strategies that promote structural and compositional diversification in high-risk regions will be critical to stabilise forest carbon storage under continued climate change.",
+      "doi": "10.5194/bg-23-5983-2026",
+      "authors": [
+        "Simon Besnard",
+        "Alba Viana‐Soto",
+        "Henrik Hartmann",
+        "Marco Patacca",
+        "Viola Heinrich",
+        "Katja Kowalski",
+        "Maurizio Santoro",
+        "Wanda De Keersmaecker",
+        "Ruben Van De Kerchove",
+        "Martin Herold",
+        "Cornelius Senf"
+      ],
+      "year": 2026,
+      "journal": "Biogeosciences",
+      "openalex_id": "W7204773169",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204773169",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Europe's forests store nearly 40 PgC and provide a critical carbon sink of ∼ 0.2 PgC yr−1, yet climate-sensitive disturbances increasingly threaten this capacity.",
+      "added": false
+    },
+    {
+      "title": "Consumption, Domination, Destruction: A Qualitative Analysis on the Environmental Impacts of Tourism Hotels",
+      "abstract": "Today, the concept of climate change has evolved into a more critical issue and is increasingly referred to as a “climate crisis” or even “global boiling.” Human activities play a decisive role in this crisis, with individuals and entire sectors contributing significantly. The effects of the climate crisis are particularly evident in the Mediterranean region, where tourism constitutes one of the main economic sectors. In this context, tourism both suffers from and contributes to the crisis. Antalya, one of Turkey’s leading coastal tourism hubs, has long benefited economically from its favourable climate. However, with the shifting realities of climate change, hotel enterprises are now compelled to adapt. Such adaptation requires developing strategic approaches to reduce environmental impacts and implementing sustainability-oriented policies. This study investigates the direct and indirect contributions of well-known hotels in Antalya to the climate crisis. It also examines the extent to which these establishments are aware of their environmental responsibilities and how they translate such awareness into concrete actions. A qualitative research design with an interpretive approach was adopted. Data were collected through in-depth interviews conducted between February 5 and March 4, 2024, with ten five-star hotels in Antalya, including city and resort hotels. The data were analysed using MAXQDA. The findings reveal that the hotel industry contributes to the climate crisis. Excessive energy and water use, along with waste generation, habitat destruction, and unregulated construction, intensify environmental stress and damage ecosystems. Although hotels frequently invoke sustainability discourse, their practices are often limited and superficial. Profit-oriented behaviour undermines local communities, biodiversity, and environmental balance, whereas weak inspections and symbolic environmental policies hinder genuine solutions. The study concludes that hotels must develop serious, collective, and genuine environmental strategies that prioritise responsibility over profit; otherwise, the tourism sector will continue to harm nature and society.",
+      "doi": "10.31822/jomat.2026-11-2-225",
+      "authors": [
+        "Nebahat Neva Ulu"
+      ],
+      "year": 2026,
+      "journal": "Journal of Multidisciplinary Academic Tourism",
+      "openalex_id": "W7204734113",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204734113",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Today, the concept of climate change has evolved into a more critical issue and is increasingly referred to as a “climate crisis” or even “global boiling.” Human activities play a decisive role in this crisis, with individuals and entire sectors contributing significantly.",
+      "added": false
+    },
+    {
+      "title": "Success of coastal sage scrub restoration is influenced by local adaptations of shrub species",
+      "abstract": "Abstract Premise Restoring plant communities is increasingly challenging with climate change. While practitioners have traditionally used local seed sources, many are recommending assisted migration, possibly from more extreme environments such as inland rather than coastal environments, for restoration. Methods We compared the performance of four dominant Southern California shrub species, grown from seed from either coastal (mean 17.11°C) or inland (mean 19.28°C) populations, in a coastal common garden site under three levels of water availability. The goal was to test whether inland populations had higher survival, growth, and reproduction than coastal populations when experiencing the extreme highs and lows of water availability currently observed inland that mimic possible future climate conditions in coastal regions. Results Plants of most species generally grew less and had fewer flowers with water reduction, but neither flowering nor growth were strongly or consistently affected by seed source. Within our coastal common garden site, survivorship of coastal‐sourced plants was higher than survivorship for inland‐sourced plants. An interaction between seed source and water treatment influenced survivorship of all species, such that the negative effect of decreased water was more pronounced for inland‐sourced plants. This effect might be explained by the physiological trait measurements which indicated stomatal conductance of Eriogonum and Salvia was higher for inland‐sourced populations, suggesting increased water use. Conclusions Collectively, these findings indicate that the dominant shrub species in this coastal Mediterranean ecosystem are sensitive to reduced water, and assisted migration from inland to coastal environments will not improve restoration outcomes.",
+      "doi": "10.1002/ajb2.70257",
+      "authors": [
+        "Moises R. Perea‐Vega",
+        "Megan E. Lulow",
+        "Julie E. Coffey",
+        "Amy Henry",
+        "Katharina T. Schmidt",
+        "Priscilla Ta",
+        "Kailen A. Mooney",
+        "Sarah Kimball"
+      ],
+      "year": 2026,
+      "journal": "American Journal of Botany",
+      "openalex_id": "W7204761710",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204761710",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract Premise Restoring plant communities is increasingly challenging with climate change. While practitioners have traditionally used local seed sources, many are recommending assisted migration, possibly from more extreme environments such as inland rather than coastal environments, for restoration.",
+      "added": false
+    },
+    {
+      "title": "Recov-Vision: Linking street view imagery and vision-language models for post-disaster recovery",
+      "abstract": "Building-level occupancy after disasters is critical for triage, inspections, utility re-energization, and equitable resource allocation. Overhead imagery provides rapid coverage but often misses the facade and access cues that signal whether a building is in apparent use. Street-view imagery captures those details, but is sparse and difficult to align with parcels. We present Recov-Vision, a street-level framework that links panoramic video to parcels, rectifies views to facades, and elicits interpretable attributes (e.g., entry blockage, temporary coverings, localized debris). These attributes drive two alternative decision policies over the same evidence: a transparent one-stage count rule and a two-stage design with a separate text-only LLM decision stage. Evaluated across two post-Hurricane Helene surveys, the two policies perform comparably; the two-stage policy attains slightly higher recall while reproducing the ground-truth net recovery (+14 parcels, defined as 20 parcels returning to occupancy minus 6 deteriorating). The non-obvious finding is that residual errors are spatially clustered (Moran’s 𝐼 for the accuracy surface = 0.06, 𝑝 = 0 . 0 3 ), so the framework supports targeted neighborhood audits rather than uniform review. More broadly, decoupling visual evidence extraction from policy-level reasoning yields auditable assessments that agencies can tune for jurisdiction-specific conservatism without retraining the vision component.",
+      "doi": "10.1016/j.ijdrr.2026.106388",
+      "authors": [
+        "Yiming Xiao",
+        "Archit Gupta",
+        "Miguel Esparza",
+        "Yu-Hsuan Ho",
+        "Antonia Sebastian",
+        "Hannah Weas",
+        "Rose Houck",
+        "Ali Mostafavi"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W4414788625",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4414788625",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Building-level occupancy after disasters is critical for triage, inspections, utility re-energization, and equitable resource allocation. Overhead imagery provides rapid coverage but often misses the facade and access cues that signal whether a building is in apparent use.",
+      "added": false
+    }
+  ]
+}
