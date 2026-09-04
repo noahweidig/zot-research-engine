@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-04",
+  "statistics": {
+    "fetched": 74,
+    "duplicates_removed": 72,
+    "evaluated": 2,
+    "added": 0,
+    "ignored": 2,
+    "average_score": 1.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Enhancing CO2 Flux Inversion Accuracy in a Coastal Megacity: Impacts of Land Cover and Topography in a Regional Carbon Assimilation System",
+      "abstract": "Human activities have significantly increased carbon dioxide (CO 2 ) emissions, exacerbating global warming. Therefore, accurately estimating anthropogenic emissions is crucial for developing effective emission reduction policies. This study focuses on evaluate the impact of land cover (LC) and topography (DEM) on inverted CO 2 fluxes using a new developed regional Carbon Assimilation System (RCAS). Our primary aim is to assess the extent to which LC and DEM influence CO 2 flux inversion in Shenzhen, a rapidly urbanizing coastal city. To achieve this, we analyzed the forward simulations of meteorological variables (wind speed/direction, relative humidity, temperature, and pressure) alongside CO 2 concentration simulations. Following this, we evaluated the posterior CO 2 concentration estimates with the CO 2 flux from the inversion system. The findings demonstrate that new LC and DEM data led to a mean bias reduction from -1.08 ppm to -0.88 ppm, representing a 0.2 ppm improvement, and a slight decrease in standard deviation values from 5.59 ppm to 5.57 ppm in the posterior CO 2 concentration simulation. These results underscore the critical importance of accurate LC and DEM data in enhancing CO 2 flux inversion accuracy, providing valuable insights for improving regional-scale carbon monitoring systems.",
+      "doi": "10.1016/j.indic.2026.101497",
+      "authors": [
+        "Junjun Fang",
+        "Tianle Sun",
+        "Pei Zeng",
+        "Huifang Zhang",
+        "Baozhang Chen"
+      ],
+      "year": 2026,
+      "journal": "Environmental and Sustainability Indicators",
+      "openalex_id": "W7204890463",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204890463",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "Human activities have significantly increased carbon dioxide (CO 2 ) emissions, exacerbating global warming. Therefore, accurately estimating anthropogenic emissions is crucial for developing effective emission reduction policies.",
+      "added": false
+    },
+    {
+      "title": "Beneath the surface: physiology, behaviour, and performance of fossorial amphibians and reptiles",
+      "abstract": "Fossoriality has evolved recurrently in amphibians and reptiles, exposing organisms to a distinctive physical environment that has favoured diverse morphological, physiological, behavioural, and biomechanical adaptations to enable life beneath the surface. Despite substantial progress over recent decades, research has largely examined these traits independently, limiting our understanding of how fossorial ectotherms function as integrated organisms. Here, we synthesise current knowledge on the mechanisms underlying fossoriality in amphibians and reptiles, focusing on the interactions among morphology, functional performance, thermoregulation, water balance, respiration, energetics, and seasonal dormancy. We show that physiological and behavioural responses reflect continuous trade-offs among temperature, water availability, respiratory gases, and substrate properties, highlighting the multidimensional nature of the subterranean environment. Likewise, many features commonly associated with fossoriality, including body elongation, limb reduction, cranial reinforcement, and sensory reorganisation, have evolved repeatedly but through lineage-specific combinations of traits rather than a single adaptive syndrome. We argue that understanding fossoriality requires moving beyond descriptive accounts of individual traits towards an integrative framework that connects organismal function with environmental conditions. We identify key knowledge gaps and propose future research priorities centred on comparative studies, experimental approaches that manipulate multiple environmental variables simultaneously, and the integration of empirical data with mechanistic biophysical models. Together, these approaches offer a predictive framework for understanding how fossorial amphibians and reptiles interact with heterogeneous subterranean environments and provide a foundation for a more mechanistic understanding of one of the most remarkable lifestyles among terrestrial vertebrates.",
+      "doi": "10.32942/x2g97q",
+      "authors": [
+        "Danilo Giacometti",
+        "Melissa Bars‐Closel",
+        "José Eduardo de Carvalho",
+        "Glenn Tattersall"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204918892",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204918892",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/0 key interest terms",
+      "tags": [],
+      "summary": "Fossoriality has evolved recurrently in amphibians and reptiles, exposing organisms to a distinctive physical environment that has favoured diverse morphological, physiological, behavioural, and biomechanical adaptations to enable life beneath the surface.",
+      "added": false
+    }
+  ]
+}
