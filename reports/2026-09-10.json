@@ -1,0 +1,565 @@
+{
+  "date": "2026-09-10",
+  "statistics": {
+    "fetched": 115,
+    "duplicates_removed": 93,
+    "evaluated": 22,
+    "added": 1,
+    "ignored": 21,
+    "average_score": 1.45
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Multi-scale drivers of wildfire burn severity in Central Zagros: insights from remote sensing and machine learning",
+      "abstract": "Over the past few decades, wildfire activity has increased globally. In the Central Zagros Mountains of Iran, widespread oak decline has significantly altered fuel structures and raised ecological concerns. However, the specific contribution of long-term vegetation degradation to wildfire burn severity remains under-quantified. This study addresses this gap by investigating whether decadal declines in the Normalized Difference Vegetation Index (NDVI) are associated with higher burn severity, while assessing their relative importance against short-term pre-fire environmental conditions, fuel types, topography, and human access gradients. Focusing on a major wildfire in June 2024 in the Kashkan Watershed, we mapped burn severity using the differenced Normalized Burn Ratio (dNBR) derived from Sentinel-2 imagery. A comprehensive suite of predictors was evaluated, including the long-term NDVI trend (May- September 2014-2023), pre-fire Normalized Difference Moisture Index (NDMI), Land Surface Temperature (LST), fuel categories based on ESA WorldCover, slope, aspect, spatial texture contrast, and distance to roads and settlements. A stratified sampling design supported statistical inference using ordinary least squares regression and predictive modeling via Random Forest and XGBoost algorithms with five-fold cross-validation. XGBoost demonstrated the highest predictive performance (cross-validated R2 = 0.70; RMSE = 0.11), outperforming Random Forest (R2 = 0.64) and linear regression (R2 = 0.34). Fuel moisture (NDMI) and thermal stress (LST) emerged as the primary drivers of severity, followed by land cover, topography, and spatial texture. While the long-term NDVI decline showed a small but consistent positive association with dNBR at the landscape scale, the results highlight a distinct multi-scale mechanism. In this dynamic, pre-fire moisture and temperature establish the broad watershed-scale environmental susceptibility, whereas specific fuel types and their spatial configurations drive the local-level amplification or damping of burn severity. These findings provide a framework for proactive vulnerability mapping in Zagros oak woodlands, suggesting that integrating dynamic fire-weather data and field-based fuel measurements could further refine future predictability.",
+      "doi": "10.3832/ifor5027-019",
+      "authors": [
+        "F Shahidinejad",
+        "M Jourgholami",
+        "MM Pourhanifeh",
+        "A Esfandyar"
+      ],
+      "year": 2026,
+      "journal": "iForest - Biogeosciences and Forestry",
+      "openalex_id": "W7211926672",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211926672",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 43%: matched 2/9 key interest terms (drivers, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "Over the past few decades, wildfire activity has increased globally. In the Central Zagros Mountains of Iran, widespread oak decline has significantly altered fuel structures and raised ecological concerns.",
+      "added": true
+    },
+    {
+      "title": "Long-term air pollution exposure and childhood ADHD prevalence",
+      "abstract": "Fine particulate air pollution ( \\(\\hbox {PM}_{2.5}\\) ) in the United States has fallen by roughly half since 2000, yet health outcomes may reflect pollution exposures accumulated over longer time scales. Using years of U.S. county-level data, we relate annual \\(\\hbox {PM}_{2.5}\\) estimates to birth outcomes, diabetes prevalence, and small-area estimates of childhood attention-deficit/hyperactivity disorder (ADHD) across short and long time scales. Whereas associations with low birth weight and the apparent lag pattern for diabetes were substantially attenuated after accounting for county-specific temporal trends, the association between long-term \\(\\hbox {PM}_{2.5}\\) exposure and childhood ADHD prevalence across 3,106 counties remained robust to socioeconomic and demographic adjustment, state-level heterogeneity, alternative exposure periods, and explicit spatial modeling. After accounting for residual spatial dependence, a 1 \\(\\mu\\) g/ \\(\\hbox {m}^3\\) increase in mean \\(\\hbox {PM}_{2.5}\\) exposure over 2005–2015 was associated with a 0.312 percentage-point higher ADHD prevalence (SE = 0.058, \\(p < 0.001\\) ). These results identify a robust ecological association between long-term county-level \\(\\hbox {PM}_{2.5}\\) exposure and childhood ADHD prevalence across the United States.",
+      "doi": "10.1038/s41598-026-69958-6",
+      "authors": [
+        "R. Alexander Bentley",
+        "Larisa Ozeryansky"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7211877343",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211877343",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 35%: matched 3/9 key interest terms (states, united states, united)",
+      "tags": [
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "Fine particulate air pollution ( \\(\\hbox {PM}_{2.5}\\) ) in the United States has fallen by roughly half since 2000, yet health outcomes may reflect pollution exposures accumulated over longer time scales. Using years of U.S.",
+      "added": false
+    },
+    {
+      "title": "Respiratory Emergencies in Disasters: A Narrative Review",
+      "abstract": "Disasters cause a wide spectrum of respiratory injuries and affect hundreds of millions of people each year. Because the respiratory system is in continuous contact with the external environment, it is among the most vulnerable systems in disaster settings. Silica-and asbestos-containing dust released from earthquake debris, fine particulate matter from wildfire smoke, mold spores in flood-damaged interiors, ash and acidic gases from volcanic eruptions, toxic industrial chemicals released during chemical incidents, barotrauma from explosions, and biological or pandemic threats each trigger acute and chronic respiratory diseases through distinct mechanisms. This narrative review addresses respiratory emergencies associated with natural and human-made disasters, the underlying pathophysiological mechanisms, diagnostic and management approaches, vulnerable populations, and the influence of climate change on the rising burden of disaster-related respiratory disease. Evidence was synthesized from PubMed/MEDLINE, Web of Science, and Scopus, supplemented by official reports from the Emergency Events Database, the World Health Organization, and the United Nations Office for Disaster Risk Reduction. Available data indicate that acute respiratory infections are major causes of morbidity and mortality in disaster settings across all age groups. Furthermore, patients with chronic respiratory diseases face an increased risk of exacerbations, while the management of acute respiratory distress syndrome remains a significant challenge, particularly in resource-limited environments. Disaster preparedness planning must prioritize respiratory emergencies and strengthen response protocols for vulnerable groups.",
+      "doi": "10.4274/thoracrespract.2026.2026-6-13",
+      "authors": [
+        "Ali Ekber Karabulut",
+        "Burcu Özen Karabulut"
+      ],
+      "year": 2026,
+      "journal": "Thoracic research and practice",
+      "openalex_id": "W7211872243",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211872243",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 3/9 key interest terms (causes, united, wildfire)",
+      "tags": [
+        "Causes",
+        "United",
+        "Wildfire"
+      ],
+      "summary": "Disasters cause a wide spectrum of respiratory injuries and affect hundreds of millions of people each year. Because the respiratory system is in continuous contact with the external environment, it is among the most vulnerable systems in disaster settings.",
+      "added": false
+    },
+    {
+      "title": "Precipitation and Grazing Utilization Influence Postfire Herbaceous Plant Cover: A Meta-Analysis on Grazing After Fire",
+      "abstract": "Following a wildfire or a prescribed fire, the recovery of rangeland vegetation is a critical consideration for restoring wildlife habitat, ecosystem services, and grazing value. Rangeland managers need to know when to resume grazing after fire to conserve rangeland resources and accomplish management objectives. To shed light on this issue, we conducted a meta-analysis of published research investigating the role of grazing after fire on vegetation recovery. Our search of two scientific databases found 18 articles with sufficient information to be comparable, mostly from the western US. To compare effect sizes, we conducted a meta-regression using moderators of precipitation, grazing utilization, fire season, years deferred from grazing, fire severity, and type of grazing animal, among others. We found that grazing within a few years after fire slightly reduced perennial grass cover compared with ungrazed areas, but type of grazing animal did not matter. Increasing precipitation and decreasing grazing utilization moderated this reduction in cover. Perennial grass cover in grazed plots decreased slightly as years after the fire increased. Resting an area from grazing after fire had no effect on perennial grass cover. Grazing after fire reduced annual grass cover compared with ungrazed areas and varied depending on precipitation and grazing utilization. Native forb cover was not affected by grazing after fire, though forb cover increased with spring fire and decreased with summer fire. In our analysis, grazing within a few years after fire did not affect herbaceous production. Our work provides a synthesis of effects on vegetation of grazing after fire and describes gaps in our current knowledge. We recommend including information on livestock management, including timing and intensity of grazing and season and duration of rest in future studies.",
+      "doi": "10.1016/j.rama.2026.08.003",
+      "authors": [
+        "Eric Winford",
+        "Hailey Wilmer",
+        "Jim Sprinkle",
+        "Jason W. Karl",
+        "K. Scott Jensen",
+        "Chris Schachtschneider",
+        "Karen L. Launchbaugh"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7211933430",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211933430",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 2/9 key interest terms (prescribed, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfire"
+      ],
+      "summary": "Following a wildfire or a prescribed fire, the recovery of rangeland vegetation is a critical consideration for restoring wildlife habitat, ecosystem services, and grazing value. Rangeland managers need to know when to resume grazing after fire to conserve rangeland resources and accomplish management objectives.",
+      "added": false
+    },
+    {
+      "title": "Climate, habitat, and socioeconomic gradients shape divergent occupancy and co-occurence patterns between two hummingbirds in western North America",
+      "abstract": "Climate and land-use change are reshaping species distributions and biotic interactions, yet assessments of these processes across broad spatial extents remain limited. Using 2023 eBird records from spring and early summer on the breeding grounds, combined with high-resolution environmental predictors, we modelled occupancy of Anna’s hummingbird ( Calypte anna ), an increasing and range-expanding species, and rufous hummingbird ( Selasphorus rufus ), a declining species, across 1.1 million km 2 of western North America. Single-species occupancy models revealed similar detectability patterns and affinities for coniferous and shrub habitats with low canopies (≤ 15 m), but marked divergence in climatic preferences and responses to human-modified landscapes. Rufous hummingbird was associated with colder climates, low urban cover (< 25%), and low-to-moderate cropland, whereas Anna’s was associated with warmer conditions and showed greater affinity for urban environments. Multispecies occupancy models showed that co-occurrence was highest in areas with low-to-moderate urbanisation and high Gross Domestic Product (GDP), consistent with the ‘Luxury Effect’ hypothesis. However, co-occurrence declined sharply in highly urbanised, high-GDP areas. Anna’s occupancy increased steadily with GDP across the urban–rural gradient, whereas rufous responded positively to GDP only where urbanisation was low. We hypothesize that this divergence could reflect differential environmental filtering rather than direct competition: the resident Anna’s hummingbird may be better able to exploit year-round anthropogenic resources, use simplified urban vegetation, and establish breeding territories earlier, whereas the migratory rufous hummingbird may remain more dependent on structurally complex semi-natural habitats and on the seasonal availability of suitable resources along its migration route and within its breeding range. Overall, climate, habitat, and socioeconomic gradients jointly shaped occupancy and co-occurrence patterns in these contrasting species.",
+      "doi": "10.1038/s41598-026-68184-4",
+      "authors": [
+        "Davide Scridel",
+        "Kathy Martin",
+        "Tabitha Kennedy",
+        "Scott Wilson"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7211914948",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211914948",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/9 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Climate and land-use change are reshaping species distributions and biotic interactions, yet assessments of these processes across broad spatial extents remain limited.",
+      "added": false
+    },
+    {
+      "title": "Recent changes in the O 3 and CO trends in the troposphere as observed by IAGOS",
+      "abstract": "Abstract. IAGOS has been measuring Ozone (O3) and Carbon Monoxide (CO) since 1994 and 2002 respectively. This dataset allows us to calculate O3 and CO trends in the upper troposphere across nine regions of the Northern Hemisphere. Trends are computed over multiple time periods to highlight recent changes. O3 growth in the upper troposphere (UT) of the Northern Hemisphere was more pronounced between 1994 and 2013 (e.g 0.34 ± 0.09 ppb/y in East US and 0.32 ± 0.07 ppb/y in Europe). These trends are significantly higher than those calculated from 1994 to 2023 (0.17 ± 0.07 ppb/y in East US and 0.16 ± 0.05 ppb/y in Europe). This difference in trend of O3 appears to be associated with high positive anomalies of O3 in the early 2010s, as well as significantly lower O3 levels after 2020, at least partially linked to the COVID-19 crisis. For CO, we observe a gradual reduction in its rate of decline over the years, until a point where trends are no longer detected or are associated with low positive values since the 2010s at mid-latitudes in the Northern Hemisphere. Further studies will be necessary to constrain the causes of recent O3 and CO variations. Continued IAGOS monitoring over the coming years will be essential, to further update this analysis and to determine whether the recent change in the observed trends are temporary or represent a sustained change in the upper tropospheric air composition.",
+      "doi": "10.5194/egusphere-2026-4770",
+      "authors": [
+        "Thibaut Lebourgeois",
+        "Valérie Thouret",
+        "Hannah Clark",
+        "Yasmine Bennouna",
+        "Romain Blot",
+        "Damien Boulanger",
+        "Florian Brunet",
+        "Simon Cleris",
+        "Jean-Marc Cousin",
+        "Philippe Nédélec",
+        "Julie Patuel",
+        "Pawel Wolff",
+        "Bastien Sauvage"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7211967566",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211967566",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Abstract. IAGOS has been measuring Ozone (O3) and Carbon Monoxide (CO) since 1994 and 2002 respectively. This dataset allows us to calculate O3 and CO trends in the upper troposphere across nine regions of the Northern Hemisphere. Trends are computed over multiple time periods to highlight recent changes.",
+      "added": false
+    },
+    {
+      "title": "Identifying Optimal Locations for Primary Wood Processing Mills and their Potential Support in New Job Creation in Arkansas",
+      "abstract": "Abstract Arkansas has experienced a decline in the number of primary wood processing mills (PWPMs) despite maintaining relatively stable roundwood production, raising concerns about efficient utilization of surplus forest resources and long-term forest management. This study identified suitable and optimal locations for establishing new PWPMs in Arkansas using a GIS-based fuzzy multi-criteria analysis integrated with location-allocation modeling. Site suitability was evaluated using constraint and preference layers representing land use restrictions, flood hazards, transportation infrastructure, electric transmission lines, labor availability, market access, and terrain characteristics. Candidate locations were subsequently evaluated using a p-median location-allocation model that incorporated existing mills, surplus forest resources, hauling distance, and mill capacity. Potential employment opportunities and hauling costs were also estimated for medium- and large-sized softwood- and hardwood-processing mills. Approximately 11% of Arkansas was identified as highly suitable for PWPM establishment, with highly suitable locations concentrated primarily in the Ozark Highlands and Mississippi Alluvial Plain regions. The location-allocation analysis selected 12 medium-sized and 9 large-sized softwood-processing mill locations and 32 medium-sized and 20 large-sized hardwood-processing mill locations. Medium-sized mills utilized a greater proportion of surplus forest resources than large-sized mills. Estimated employment potential was substantially greater for softwood-processing mills than hardwood-processing mills, while hauling costs varied among candidate locations and increased proportionally under higher transportation cost scenarios. The framework developed in this study provides a spatially explicit approach for evaluating future PWPM locations and may support investment planning, forest industry development, and resource utilization in Arkansas.",
+      "doi": "10.1007/s44392-026-00112-w",
+      "authors": [
+        "Bandana Subedi",
+        "Sagar Godar Chhetri",
+        "Matthew H. Pelkki",
+        "Kevin Boston"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forestry",
+      "openalex_id": "W7211872117",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211872117",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract Arkansas has experienced a decline in the number of primary wood processing mills (PWPMs) despite maintaining relatively stable roundwood production, raising concerns about efficient utilization of surplus forest resources and long-term forest management.",
+      "added": false
+    },
+    {
+      "title": "The Impact of Wild Ungulate Grazing on Rangeland Forage Production in the Hawaiian Islands",
+      "abstract": "ABSTRACT Invasive wild ungulates pose significant global concerns due to their impact on ecosystem functions and competition with native species. Many island systems lack large native predators to control wild ungulate populations, which intensifies these adverse effects, particularly on agricultural lands. Across the Hawaiian Islands, approximately 404 686 ha are dedicated to livestock production, yet the overabundance of axis deer ( Axis axis ), mouflon sheep ( Ovis musimon ), feral pigs ( Sus scrofa ), and feral goats ( Capra hircus ) has led to overgrazing, increased sediment runoff, the proliferation of invasive plants, and declining ecosystem health, threatening the sustainability of generational ranching. This study examined the effects of wild ungulate grazing and site conditions on forage production on rangelands across the islands of Hawaiʻi and Maui and assessed the relationship between plant community composition and wild ungulate relative abundance. We employed game cameras, grazing exclusion cages, and line-transect sampling to measure wild ungulate detections, forage production, and plant community composition. Elevation emerged as the primary environmental driver of forage production ( β = 594.44, SE = 238.21, P = 0.013), with wild ungulate abundance showing a negative but nonsignificant effect ( β = −18.90, SE = 17.81, P = 0.289) across model-averaged results. Plant community composition, characterized by functional groups including grass, forb, shrub, and bare ground, was not a significant predictor of wild ungulate relative abundance across study sites. Although elevation was the dominant predictor of forage production, vegetation loss was recorded at 66% of study sites, aligning with recent reports from ranchers regarding substantial impacts from wild ungulates on ranch operations. These findings underscore the ecological impact of wild ungulates on forage resources, highlight their widespread expansion across rangelands, and emphasize the need for site-specific management strategies to mitigate their effects.",
+      "doi": "10.1016/j.rama.2026.08.004",
+      "authors": [
+        "Lauren Katayama",
+        "Derek R. Risch",
+        "Mark S. Thorne",
+        "Clay Trauernicht",
+        "Karen Steensma",
+        "Greg Friel",
+        "Carolyn Auweloa",
+        "Stephanie Shwiff",
+        "Kirsten L.L. Oleson",
+        "Kyle C. Caires",
+        "Melissa R. Price"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7211898747",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211898747",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "ABSTRACT Invasive wild ungulates pose significant global concerns due to their impact on ecosystem functions and competition with native species. Many island systems lack large native predators to control wild ungulate populations, which intensifies these adverse effects, particularly on agricultural lands.",
+      "added": false
+    },
+    {
+      "title": "A LSTM reservoir outflow model enhanced by operation chart derives the representative reservoir operation schemes",
+      "abstract": "Study region The Xinfengjiang Reservoir in the Dongjiang River Basin, China, is a large multi-year regulating reservoir whose outflows are strongly influenced by human operation. Study focus To represent the impact of reservoir operation on streamflow dynamics, this study develops a knowledge-guided Long Short-Term Memory (KG-LSTM) model to simulation reservoir outflow. Empirical rules derived from reservoir operation chart are extracted using Classification and Regression Trees and embedded into the loss function of the standard LSTM. To further extract reservoir operation insights, KG-LSTM is further combined with an interpretability framework integrating Shapley Additive exPlanations, t-Distributed Stochastic Neighbor Embedding, and k-means clustering. New hydrological insights for the region The KG-LSTM achieves superior performance compared with the standard LSTM, indicating that incorporating empirical reservoir operation knowledge improves the reservoir outflow simulation. More importantly, the interpretability analysis identifies previous-month outflow as the most influential factor in current outflow determination. In particular, current inflow tends to contribute negatively to outflow during the flood season, supporting impoundment, but positively during the dry season, supporting water replenishment. Furthermore, the interpretability framework identifies six representative and situation-dependent operation schemes, which correspond to three major reservoir functions: impoundment, power generation, and water replenishment. Overall, this study provides a framework that enhances both accuracy and interpretability of data-driven reservoir modeling, offering a new avenue for operation knowledge extraction and validation.",
+      "doi": "10.1016/j.ejrh.2026.103923",
+      "authors": [
+        "Runting Chen",
+        "Dagang Wang",
+        "Yiwen Mei",
+        "Yongen Lin",
+        "Jinxin Zhu",
+        "Xiaoxing Qi"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hydrology Regional Studies",
+      "openalex_id": "W7211943524",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211943524",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Study region The Xinfengjiang Reservoir in the Dongjiang River Basin, China, is a large multi-year regulating reservoir whose outflows are strongly influenced by human operation.",
+      "added": false
+    },
+    {
+      "title": "Where is the evidence? Mapping the fire–biodiversity knowledge base of northern Australian savannas",
+      "abstract": "Fire shapes the biodiversity of tropical savannas, yet challenges exist in accessing and interpreting the breadth of fire-ecology evidence to support appropriate management. We compiled a comprehensive fire–biodiversity database for Australian tropical savannas to improve knowledge discovery and support the iterative development of fire-management principles. Using systematic thematic synthesis, we mapped evidence on fire–biodiversity relationships across contemporary science and Traditional Knowledge (TK). Publication metadata were extracted, standardised and classified using a large language model (LLM)-assisted workflow, then manually reviewed and cross-validated against an independently curated subset. LLM-assisted extraction performed comparably to human extraction, but only with careful parameterisation and quality control. The database spans 382 publications from the Australian savanna biome. The evidence base is dominated by terrestrial flora (≈51%) and studies of mixed-element fire regimes (≈28%), fire frequency (≈17%) and time since fire (≈17%). Partnerships with Indigenous organisations or entities were reported in ≈23% of publications, but only 22 explicitly incorporated TK or Indigenous partners as co-investigators. Evidence is geographically clustered and taxonomically uneven, revealing clear knowledge gaps. Our thematic synthesis map and accompanying database provide a platform to inform culturally grounded, evidence-based fire management and highlight future research priorities.",
+      "doi": "10.1071/wf26108",
+      "authors": [
+        "John Patykowski",
+        "Helen T. Murphy",
+        "Anna E. Richards",
+        "Eric P. Vanderduys",
+        "Barry Hunter",
+        "Harinandanan Paramjyothi",
+        "Ruchira Somaweera",
+        "Graeme R. Gillespie",
+        "Jeremy Russell-Smith",
+        "Michael M. Douglas",
+        "Samantha A. Setterfield",
+        "Justin J. Perry"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7211876694",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211876694",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Fire shapes the biodiversity of tropical savannas, yet challenges exist in accessing and interpreting the breadth of fire-ecology evidence to support appropriate management.",
+      "added": false
+    },
+    {
+      "title": "An integrated approach for interpreting PM2.5 composition and potential source characteristics in urban Tirana, Albania",
+      "abstract": "Fine particulate matter (PM 2.5 ) is a complex atmospheric pollutant originating from multiple natural and anthropogenic sources.This pilot study investigates the chemical composition and potential source characteristics of PM 2.5 in urban Tirana, Albania, during two monitoring campaigns conducted in March-April 2024 and April-May 2025.Elemental composition was determined by energy-dispersive X-ray fluorescence (ED-XRF), while water-soluble non-purgeable organic carbon (NPOC) and total nitrogen (TN) were analyzed using a TOC-L analyzer.Pearson correlation analysis was applied to investigate relationships among PM 2.5 constituents, whereas MERRA-2 dust reanalysis, HYSPLIT backward trajectories, MODIS aerosol optical depth (AOD) and meteorological observations were used as complementary atmospheric information.The 2024 campaign was characterized by higher concentrations of crustal-associated elements and atmospheric conditions consistent with a relatively stronger mineral dust influence, whereas the 2025 campaign exhibited lower elemental concentrations and lower variability in crustal-associated elements.Moderate positive but statistically non-significant correlations between TN and NPOC were observed during both campaigns, consisting of partially shared atmospheric behavior.The combined interpretation of elemental composition, Pearson correlation analysis and complementary atmospheric datasets suggest that PM 2.5 composition reflects multiple potential source influences and atmospheric processing rather than a single dominant source.This integrated approach provides a practical qualitative framework for interpreting PM 2.5 composition in preliminary source assessment when quantitative receptor models are not available.",
+      "doi": "10.12912/27197050/231702",
+      "authors": [
+        "Megi Caushaj",
+        "Dhurata Premti",
+        "Hasime Manaj",
+        "A. Shtëmbari",
+        "Glejdis Hajdini",
+        "Gloria Kosova"
+      ],
+      "year": 2026,
+      "journal": "Ecological Engineering & Environmental Technology",
+      "openalex_id": "W7211929233",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211929233",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Fine particulate matter (PM 2.5 ) is a complex atmospheric pollutant originating from multiple natural and anthropogenic sources.This pilot study investigates the chemical composition and potential source characteristics of PM 2.5 in urban Tirana, Albania, during two monitoring campaigns conducted in March-April 2024 a…",
+      "added": false
+    },
+    {
+      "title": "Sensitivity of the Lagrangian temperature anomaly decomposition to model choice: Lessons from the 2021 Pacific Northwest heatwave",
+      "abstract": "Abstract. The Lagrangian temperature anomaly decomposition has emerged as a powerful tool for quantifying the relative importance of adiabatic, advective and diabatic processes during heatwaves. However, its sensitivity to the choice of Lagrangian model, whether pure-trajectory or dispersion-based, remains poorly understood. Using seven different trajectory sets, we apply this decomposition to the June 2021 Pacific Northwest heatwave to examine discrepancies in process attribution across model classes. Pure-trajectory models consistently identify diabatic heating as the dominant contributor, whereas dispersion models attribute the largest fraction to adiabatic warming. A trajectory cluster analysis and parcel position diagnostics reveal that this divergence does not stem from different geographic origins or the near-surface vertical distribution over the target region during the heatwave, which are broadly similar across trajectory sets, but from contrasting vertical histories. While dispersion-model parcels reside at higher altitudes before arrival, exposing them to subsidence warming, pure-trajectory parcels remain near the surface where land–atmosphere feedbacks and antecedent dry soils amplify diabatic heating. These findings demonstrate that this Lagrangian framework is fundamentally sensitive to model choice, particularly to the representation of turbulent motion, which induce parcel vertical dispersion absent in the resolved wind fields. While this study does not establish which Lagrangian model class is most suitable, it represents a first step toward understanding these discrepancies and cautions that heatwave attribution studies relying on a single Lagrangian model should interpret inferred process dominance carefully, as it may reflect methodological choices rather than the underlying physics alone.",
+      "doi": "10.5194/egusphere-2026-5144",
+      "authors": [
+        "Albenis Pérez‐Alarcón",
+        "Raquel Nieto",
+        "Luis Gimeno"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7211974154",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211974154",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract. The Lagrangian temperature anomaly decomposition has emerged as a powerful tool for quantifying the relative importance of adiabatic, advective and diabatic processes during heatwaves.",
+      "added": false
+    },
+    {
+      "title": "Climate Refugees and Social Justice: A Case Study of South Africa – Is There Hope for Equality and Inclusion?",
+      "abstract": "The literature on migration indicates that people migrate for distinct reasons. However, contemporary discussions underscore the growing prominence of climate-induced migration. South Africa is a sought-after destination for people escaping harsh climatic conditions in the SADC region. Nevertheless, the issue of migration and the integration of climate refugees into South Africa remain subjects of intense debate in policy and practice. This is evident in the language used to verbalise them and the treatment they are afforded. Numerous myths surrounding migration persist. The prevailing discourse in South Africa often portrays immigrants as contributors to crime, alleging that they seize opportunities intended for South Africans. Another narrative contends that migrants exacerbate resource insecurities, intensifying social tensions due to heightened demand for already scarce resources in the country. In contrast, the South African Constitution, specifically in Section 27, stipulates the right of everyone to health care, food, water, and social security. Amidst this apparent contradiction, this paper explores the feasibility of climate refugees achieving social justice and inclusion in South Africa. This research utilises a desk-based approach together with an exhaustive examination of existing literature to investigate the impact of climate-induced migration on climate refugees’ social justice and inclusion in South Africa, a nation that is “most progressive” in protecting everyone within the country. The article draws on the intersectionality approach to explore the living conditions of climate refugees as a ‘disadvantaged group’. The article highlights the importance of implementing a “Refugee Dignity Framework”. The framework anchors the role of refugee-sensitive policies, adaptive governance, robust access to social justice systems, integration initiatives, and assurance of safe and secure living conditions in South Africa as a host society.",
+      "doi": "10.36615/r029ft90",
+      "authors": [
+        "Anslem Wongibeh Aduniamy",
+        "Betty Chiyangwa"
+      ],
+      "year": 2026,
+      "journal": "The Thinker",
+      "openalex_id": "W7212067877",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212067877",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The literature on migration indicates that people migrate for distinct reasons. However, contemporary discussions underscore the growing prominence of climate-induced migration. South Africa is a sought-after destination for people escaping harsh climatic conditions in the SADC region.",
+      "added": false
+    },
+    {
+      "title": "Community-based archaeology reinforces Indigenous cultural resilience to climate change in Alaska",
+      "abstract": "In this perspective I argue that in an era of climate crisis and persistent colonial injustice, archaeology can no longer remain neutral; it must align with the objectives of disempowered groups. As the Arctic warms at four times the global average, recent U.S. executive actions prioritising fossil fuel extraction disproportionally impact Native communities in Alaska, directly extending colonial legacies. Resilience and strength to cope with change is identified in traditional values and continuation of cultural practices. While the effects of climate change are seen in the physical destruction of ancestral sites by escalating coastal erosion and permafrost degradation, community-embedded archaeology has the potential to strengthen these ties. By validating Indigenous knowledge systems, archaeology can be repositioned as a political ally in the pursuit of environmental justice. In a collaborative environment, archaeological practice serves as a medium for strengthening deep-time ancestral connections, mobilising against systemic climate inaction, and advocating for just futures in a landscape increasingly in flux. Indigenous communities and ancestral heritage in Alaska face escalating climate threats. This Perspective argues that, by validating Indigenous knowledge systems, archaeology can help sustain intergenerational resilience.",
+      "doi": "10.1038/s43247-026-03970-6",
+      "authors": [
+        "Charlotta Hillerdal"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7211926950",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211926950",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "In this perspective I argue that in an era of climate crisis and persistent colonial injustice, archaeology can no longer remain neutral; it must align with the objectives of disempowered groups. As the Arctic warms at four times the global average, recent U.S.",
+      "added": false
+    },
+    {
+      "title": "A European forest disturbance database for robust area estimation and map validation",
+      "abstract": "Abstract. Europe's forests play a critical role as carbon sink, timber production and for the societal well-being, yet their capacity to maintain these functions is increasingly threatened by increasing disturbance rates and a growing demand for wood. Reliable data on disturbance-induced tree cover change are essential to address the challenges faces by Europe's forests. Existing Earth Observation-based products, however, have largely unquantified uncertainties, limiting their potential for robust estimation and reporting. Robust estimation of tree cover change rates and trends, as well as of map uncertainties, requires reference data on tree cover change, covering all of Europe using a probabilistic sample and a harmonized response design. Here, we address this gap by developing a new database of forest disturbances for Europe, based on consistent manual interpretation of satellite imagery from the Landsat archive. Our database covers 35,000 sites across 35 countries, with each site being a 900 m2 square corresponding to a Landsat pixel, yielding a total of 1,365,000 individual site-year observations. Interpretation was done over the period 1985 to 2023 by trained interpreters, who – for each site-year combination – determined whether a disturbance occurred or not. Disturbances were thereby defined as tree cover loss detectable at a spatial resolution of 900 m2, caused by either human activity (i.e. harvest), natural disturbances (e.g. bark beetle, fire, wind, avalanches, flooding, etc.) or both (e.g. bark beetle with following salvage logging). Using our database, we exemplify the value of manually interpreted reference data by deriving robust sample-based estimates of disturbance rates and trends. We further compare our sample-based estimates to state-of-the art map-based estimates, highlighting uncertainties in relying solely on Earth observation. Our results underscore the need for consistent, transparent, and independent reference data for understanding disturbance change in Europe and for validation and uncertainty quantification in Earth observation data.",
+      "doi": "10.5194/essd-2026-422",
+      "authors": [
+        "Cornelius Senf",
+        "Felix Wieland-Glasmann",
+        "Katja Kowalski",
+        "Benjamin Jakimow",
+        "Anne-Katrin Behrens",
+        "Veronika Egger",
+        "Pia Emmert",
+        "Jonas Hänle",
+        "Marleen Hanzig",
+        "Jana Heinrich",
+        "Antonia Hostlowsky",
+        "Noah B. Maurer",
+        "Anabel Onay",
+        "Moritz Rachfahl",
+        "Klara Voggeneder",
+        "Alba Viana‐Soto"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7211915558",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211915558",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Europe's forests play a critical role as carbon sink, timber production and for the societal well-being, yet their capacity to maintain these functions is increasingly threatened by increasing disturbance rates and a growing demand for wood.",
+      "added": false
+    },
+    {
+      "title": "When the bill comes due: Climate risk plans are not prepared to fund themselves",
+      "abstract": "Abstract Amidst urgent global calls for climate action, city governments face a problem: although they increasingly recognize the necessity of climate adaptation, the financial strategies essential for implementing these plans remain largely neglected. Such oversight undermines climate adaptation. To understand how cities are considering financial risks in the context of climate risk, we reviewed 151 city-level climate risk reports from 143 cities internationally concerning their adaptation costs, climate risk costs, insurance costs, and who would pay for adaptation. In terms of financial risks, 73% of reports acknowledged that climate change would impact their local economies. However, less than half of the reports identified how to pay for a plan, and even fewer identified who would pay for the plan. Given this context, we highlight a need for risk assessors to develop strategies to integrate climate and financial risks at the local level. We also identify trailblazing cities with effective climate financing strategies underway.",
+      "doi": "10.1088/2515-7620/aea478",
+      "authors": [
+        "Kendrick Hardaway",
+        "Ivan Villaverde-Canosa",
+        "Darcy Glenn",
+        "Tom Logan"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7211949209",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211949209",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Amidst urgent global calls for climate action, city governments face a problem: although they increasingly recognize the necessity of climate adaptation, the financial strategies essential for implementing these plans remain largely neglected. Such oversight undermines climate adaptation.",
+      "added": false
+    },
+    {
+      "title": "A review and synthesis of the Consultative Group on International Agricultural Research’s work on climate-induced extreme rainfall and floods, 2012–2023",
+      "abstract": "In recent decades, the increased frequency of extreme rainfall events has significantly affected agri-food systems, accounting for 19% of the total crop damage across the world and 18–43% of observed anomalies in global crop yields. Some studies indicate a global weighted mean rice yield loss of 9.0% by 2080 under a high-emissions scenario. In sub-Saharan Africa, crop yield losses from extreme rainfall can vary significantly, with one source citing a 33% reduction over the past 60 years due to climate-induced weather extremes, including floods. It is estimated that in Africa, about 12% of the people that experienced food insecurity from 2009 to 2020 had their food security status affected by flooding. The Sixth IPCC assessment report warns that climate change could push an additional 32–132 million people into extreme poverty by 2030 if the world does not immediately scale up adaptation solutions. This review articulates the CGIAR’s contribution to scientific knowledge on climate-induced extreme rainfall for the period 2012–2023. The review discusses research methods applied, main impacts of extreme rainfall on agri-food systems, and innovative adaptation solutions deployed. Out of 2846 identified papers, 73 studies met our search criteria and were included in the review. Our analysis reveals that the main impacts of extreme rainfall addressed by the CGIAR include physical loss of crops due to coastal area inundation, waterlogging, and salinity intrusion. Adaptation options that build the resilience of smallholder farming systems include scientific methods for forecasting changes in rainfall patterns; flood early warning systems; climate-smart agricultural technologies; flood-resilient seed varieties; and agroforestry. However, lack of finance and knowledge tends to limit smallholder farmers’ ability to adopt some of the technological innovations, suggesting the need for capacity building and policies for better access to microcredit, low-interest loans, and climate risk insurance schemes. Research gaps identified in the study call for the CGIAR to also focus on currently underexplored themes such as roots and tubers, livestock, fish, and peri-urban agriculture. The integration of attribution studies that address direct links between extreme rainfall and climate change could inform targeted interventions arising from CGIAR research. Studies that specifically quantify economic losses from floods could also generate important insights for effective agricultural investment and risk management. This review identifies key areas of focus and critical knowledge gaps to be addressed by future CGIAR research. It informs the agenda of decision makers and policy makers who grapple with the challenges of scaling adaptation solutions to strengthen farmers’ resilience to extreme rainfall.",
+      "doi": "10.1186/s40066-026-00640-w",
+      "authors": [
+        "Claudious Chikozho",
+        "A. Mukherji",
+        "C. Bosire",
+        "K. Kujinga",
+        "R. Managa"
+      ],
+      "year": 2026,
+      "journal": "Agriculture & Food Security",
+      "openalex_id": "W7211958750",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211958750",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "In recent decades, the increased frequency of extreme rainfall events has significantly affected agri-food systems, accounting for 19% of the total crop damage across the world and 18–43% of observed anomalies in global crop yields.",
+      "added": false
+    },
+    {
+      "title": "Studying Extreme Weather Event Impacts for Transit-Reliant Unhoused Populations",
+      "abstract": "As climate change leads to more frequent and extreme weather events, people experiencing homelessness face increasing risks, including those related to mobility access. This study examines the challenges faced by unhoused individuals in Santa Clara County while accessing weather-respite services (e.g., cooling and warming centers) during extreme weather events. The research combines geospatial analysis with insights from 120 semi-structured interviews conducted with encampment residents, along with focus group discussions involving homeless service providers. Using cluster and outlier analysis (Anselin Local Moran’s I), the geospatial study identifies statistically significant areas where accessibility challenges are concentrated, revealing areas where encampments have limited access to public transit or warming or cooling centers. The qualitative findings indicate that unhoused individuals rely heavily on public transit and active transportation modes, increasing their vulnerability during extreme weather events. Access to emergency services is further constrained by transportation challenges, limited service accessibility, operational barriers, communication gaps, and other behavioral factors. The study finds that current weather respite facilities do not consistently meet the needs of the unhoused population. To address these gaps, it recommends an approach that strengthens mobility systems, expands the use of local community resources such as faith-based organizations, and enhances communication through trusted community networks. Overall, improving climate resilience for unhoused populations requires a coordinated approach that integrates transportation planning, emergency management, homelessness services, and community-based outreach.",
+      "doi": "10.31979/mti.2026.2545",
+      "authors": [
+        "Costanza Rampini",
+        "Serena Alexander",
+        "Jeff Wootton",
+        "Amruta Ashish Gandhi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7211947163",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211947163",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "As climate change leads to more frequent and extreme weather events, people experiencing homelessness face increasing risks, including those related to mobility access.",
+      "added": false
+    },
+    {
+      "title": "Climate-mediated associations between landscape fragmentation and metropolitan forest resilience in subtropical China",
+      "abstract": "Forest ecosystems are increasingly exposed to climatic and anthropogenic disturbances under accelerating global change, making their resilience crucial for sustaining ecological functions. While resilience has become a key concept in forest management, its associations under combined pressures of climate stressors and fragmentation remain insufficiently understood, especially in metropolitan forested landscapes. We quantified and mapped forest resilience in the Core area of the Wuhan Metropolitan Region (CWMR), a rapidly urbanizing region in subtropical China, from 2004 to 2023, and investigated the associations between climatic factors, landscape fragmentation, and spatial patterns of forest resilience. Forest resilience was quantified using the lag-1 temporal autocorrelation (TAC) of normalized difference vegetation index (NDVI) time series, based on critical slowing down theory. Key climatic factors associated with forest resilience were first identified using eXtreme Gradient Boosting (XGBoost) and SHapley Additive exPlanations (SHAP). Structural equation modeling (SEM) was then used to examine the direct and indirect associations among landscape fragmentation, climatic factors, and forest resilience. We found that 60.54% of focal forests experienced a decline in resilience over the past two decades, with an average annual reduction of 0.0046. XGBoost and SHAP analyses identified potential evapotranspiration and land surface temperature as important climatic predictors associated with forest resilience, with variability in potential evapotranspiration showing a stronger association than its long-term mean. Structural equation modeling revealed that patch shape complexity, indicative of stronger edge effects, exhibited the strongest associations with forest resilience through both direct pathways and indirect pathways linked to climatic conditions, highlighting their potential role in amplifying atmospheric drought stress. Our findings reveal a critical role of forest landscape fragmentation and climate interactions in regulating vegetation resilience. These results highlight the urgent need for adaptive forest management, such as optimizing patch edges and regulating forest microclimates, to support the persistence of metropolitan forest under rising warm-drought climate conditions.",
+      "doi": "10.1007/s10980-026-02455-3",
+      "authors": [
+        "Chuandong Tan",
+        "Jia Jia",
+        "Yuan Zhou",
+        "Xiaoqi Li",
+        "Qichi Yang",
+        "Xuefei Wu"
+      ],
+      "year": 2026,
+      "journal": "Landscape Ecology",
+      "openalex_id": "W7211914903",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211914903",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Forest ecosystems are increasingly exposed to climatic and anthropogenic disturbances under accelerating global change, making their resilience crucial for sustaining ecological functions.",
+      "added": false
+    },
+    {
+      "title": "Effects of Climate-Related Disasters on Child Nutrition and Feeding Practices in Low- and Middle-Income Countries: A Narrative Review",
+      "abstract": "Climate-related disasters are becoming increasingly frequent and severe, posing major threats to child health and nutrition, particularly in low- and middle-income countries (LMICs). These events disrupt food systems, health services, water and sanitation infrastructure, and caregiving practices, increasing the risk of undernutrition among children under five years of age. This narrative review synthesised current evidence on the effects of climate-related disasters on child nutrition and infant and young child feeding (IYCF) practices in LMICs. A narrative review of peer-reviewed literature published up to June 2025 was conducted using PubMed, ScienceDirect, Web of Science, and Google Scholar. Studies were eligible if they examined the association between climate-related disasters including droughts, floods, cyclones, and climate variability and nutritional outcomes or feeding practices among children under five years in LMICs. Findings were synthesised narratively because of substantial heterogeneity in study designs, exposures, and outcome measures. Eleven studies met the inclusion criteria. Most were conducted in Sub-Saharan Africa and South Asia. Droughts and floods were the most frequently investigated climate-related disasters and were consistently associated with increased risks of stunting, wasting, and underweight. Several studies also reported disruptions to breastfeeding and complementary feeding practices, worsening household food insecurity, increased maternal psychological distress, and reduced access to essential health and nutrition services following disasters. Children living in rural and resource-constrained settings were consistently identified as the most vulnerable. Climate-related disasters adversely affect child nutrition through multiple interconnected pathways, including reduced food availability, increased infectious diseases, disruption of feeding practices, and weakened health systems. Strengthening climate-resilient nutrition programmes, protecting infant and young child feeding during emergencies, and integrating nutrition into disaster preparedness and climate adaptation policies are essential to improve child health outcomes in LMICs.",
+      "doi": "10.70851/jfines.2026.3(3).414.424",
+      "authors": [
+        "Nomagugu Ndlovu",
+        "Makhosi Mahlangu",
+        "Nomagugu Minenhle Sibanda",
+        "Patience Marume",
+        "Hugo Randinyu"
+      ],
+      "year": 2026,
+      "journal": "Journal of Food Innovation, Nutrition, and Environmental Sciences",
+      "openalex_id": "W7212010622",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212010622",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Climate-related disasters are becoming increasingly frequent and severe, posing major threats to child health and nutrition, particularly in low- and middle-income countries (LMICs).",
+      "added": false
+    },
+    {
+      "title": "Development of high-efficiency solar power systems for tower-mounted sensors",
+      "abstract": "A new, highly efficient solar power electrical generation system was developed and tested for use in powering sensors attached to a tower. The sensors can be used for a wide variety of surveillance activities, ranging from wildlife management and fire detection to safety and security. The autonomous system is particularly well-suited to remote and rugged environments and to locations where diesel generators are expensive and/or fuel logistics are challenging. The autonomous system uses a dual-axis tracking method to continually orient the photovoltaic panels toward the sun. In this study, a side-by-side comparison between the dual-axis system and an otherwise equivalent fixed-tilt PV system was conducted during spring 2024. The location was selected for its challenging weather conditions (cloudiness and snowfall). The dual-axis system received between 15% and 50% more incident solar energy than the conventional system on individual days, with an average increase of ~30%. The corresponding power output of the dual-axis system exceeded that of the fixed system by 22% to 59%, with an average increase of 39%. Next, the integrated system was deployed on a tower with a 1.5 kW continuous load representing multiple sensors. This load of 1.5 kW exceeds the expected load of all sensors combined. The testing period lasted approximately 70 days—deliberately during the most conservative season for high-latitude solar systems. Over the test period, the system delivered 3,000 kWh compared to the load demand of ~2,500 kWh. These testing results demonstrate performance even under adverse weather conditions. The results indicate that the system could be well-suited for year-round, uninterrupted sensor power in cold, low-light deployment environments.",
+      "doi": "10.18686/cest862",
+      "authors": [
+        "Brian Plourde",
+        "Randy Sullwold",
+        "Lawrence DeLuney",
+        "Jess Lyons",
+        "David Pogue",
+        "John Abraham"
+      ],
+      "year": 2026,
+      "journal": "Clean Energy Science and Technology",
+      "openalex_id": "W7212073954",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212073954",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "A new, highly efficient solar power electrical generation system was developed and tested for use in powering sensors attached to a tower. The sensors can be used for a wide variety of surveillance activities, ranging from wildlife management and fire detection to safety and security.",
+      "added": false
+    },
+    {
+      "title": "A dual-graph spatiotemporal convolutional network with reasoning alignment for PM2.5 concentration multi-horizon forecasting",
+      "abstract": "PM 2.5 , a primary component of haze, is an inhalable form of particulate matter that is hazardous to both the environment and human health. Accurate PM 2.5 concentration forecasting is of great significance for governments in formulating haze prevention and control measures. Previous studies have insufficiently explored the non-Euclidean relationships of monitoring stations and the cross-sample features within PM 2.5 concentration sequences. To fully exploit the spatiotemporal characteristics of PM 2.5 concentrations from both spatial and temporal perspectives, this study proposes a dual-graph spatiotemporal convolutional network with reasoning alignment (DGST-RA). Specifically, through considering non-Euclidean relationships representations for each station, a dual-graph convolutional network is constructed to model spatial dependencies between stations from both static and dynamic dimensions. Subsequently, we reframe temporal feature extraction as a sequence reasoning process. To improve the consistency of the learned temporal representations, the intra-reasoning alignment and inter-reasoning alignment modules are introduced for temporal modeling. Finally, the features extracted by the spatial and temporal modeling modules are fused to obtain the predicted PM 2.5 concentration values. Extensive experiments on both short-term and long-term forecasting demonstrate that, compared to other baseline methods, DGST-RA achieves the best forecasting performance for both short-term and long-term PM 2.5 concentration forecasting. On average, compared to the best baseline model, our DGST-RA model improves RMSE, MAE, and SMAPE by 8.04%, 8.10%, and 11.12%, respectively, for 1‑hour prediction, and CRMSE by 41.44% for 24‑hour prediction. These results confirm that the DGST-RA is an effective model for multi-horizon PM 2.5 concentration forecasting.",
+      "doi": "10.1038/s41598-026-70246-6",
+      "authors": [
+        "Xinyu Ye",
+        "Qianfeng Xu",
+        "Zhiran Zhang",
+        "Jiayu Wang",
+        "Weixiao Gan",
+        "Tingting Zhou"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7211940439",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211940439",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "PM 2.5 , a primary component of haze, is an inhalable form of particulate matter that is hazardous to both the environment and human health. Accurate PM 2.5 concentration forecasting is of great significance for governments in formulating haze prevention and control measures.",
+      "added": false
+    }
+  ]
+}
