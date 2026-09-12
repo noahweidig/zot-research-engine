@@ -1,0 +1,422 @@
+{
+  "date": "2026-09-12",
+  "statistics": {
+    "fetched": 93,
+    "duplicates_removed": 78,
+    "evaluated": 15,
+    "added": 1,
+    "ignored": 14,
+    "average_score": 1.87
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Flood-wildfire co-occurrence risks disrupt global staple food trade and erode SDG progress",
+      "abstract": "Co-occurrence of floods and wildfires further complicates the assessment of their full impacts on crop production and trade. This study develops a framework linking co-occurrence risks, staple-crop production, trade, and Sustainable Development Goals (SDGs) based on multi-source data. More than 242000 global co-occurrence risk events across nine levels were identified during 2002-2018, with the highest concentrations occurring in Central Africa and Mainland Southeast Asia. Over the 17-year period, approximately 53% of co-occurrence risk events occurred in staple-crop production areas. A 1% increase in co-occurrence risk was associated with production reductions of 3% in maize, 3% in rice, 2% in soybean, and 2% in wheat. These production losses further associated with projected global exports, with average reductions of 24314 kt for maize, 167969 kt for rice, 35653 kt for soybean, and 13936 kt for wheat, particularly exports from the United States and Thailand. At the global level, the overall SDG score decreased by an average of 3%, with 76% of countries located in the Global South. These SDG changes were reflected in deteriorating international relationships (SDGs 16 and 17, with a combined change of -0.62) and adverse impacts on marine ecosystems and gender equality (SDGs 14 and 5, with a combined change of -0.54). Our findings offer insights into the potential of natural disasters for global sustainability through a comprehensive framework.",
+      "doi": "10.1038/s41538-026-01111-z",
+      "authors": [
+        "Songhua Huan",
+        "Chiwei Xiao",
+        "Zhiming Feng",
+        "Wei Chen",
+        "Hongwei Dong",
+        "Josep Peñuelas"
+      ],
+      "year": 2026,
+      "journal": "npj Science of Food",
+      "openalex_id": "W7211988946",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211988946",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 7/9 key interest terms (wildfire occurrence, states, united, wildfires, united states)",
+      "tags": [
+        "Wildfire Occurrence",
+        "States",
+        "United",
+        "Wildfires",
+        "United States"
+      ],
+      "summary": "Co-occurrence of floods and wildfires further complicates the assessment of their full impacts on crop production and trade. This study develops a framework linking co-occurrence risks, staple-crop production, trade, and Sustainable Development Goals (SDGs) based on multi-source data.",
+      "added": true
+    },
+    {
+      "title": "Human-induced land use change and population pressure as drivers of landslide occurrence during Cyclone Ditwah in Sri Lanka",
+      "abstract": "Landslides are primarily triggered by earthquakes and extreme rainfall events, although anthropogenic factors such as vegetation change, deforestation, and unplanned land development can amplify their occurrence and severity. Landslides are catastrophic disasters that lead to fatalities, infrastructure damage, and economic disruption. Sri Lanka recently experienced the impact of Cyclone Ditwah in November 2025; the disaster resulted in 643 confirmed deaths, with 183 individuals missing. More than 6000 houses were completely destroyed, and nearly 114,000 sustained damage. However, it was observed that population density and land use and land cover (LULC) changes have some relationship to this damage. With the advancement of remote sensing technology, multispectral images were analyzed to assess how LULC affected natural disasters, alongside 2024 census data. The results of this study demonstrate that built-up and crop land areas have increased, while vegetation cover has decreased from 2017 to 2024. Furthermore, the findings indicate that landslide occurrence is associated with anthropogenic activities, such as urbanization and crop land development near the slope, which may contributed to reduced slope stability. The landslide-prone areas are located near hilly slopes with gradients greater than 30°. The Ududumbara–Minipe and Rideegama–Lunugala case studies demonstrate that landslides occurred more frequently on destabilized gentle slopes than on undisturbed steep slopes in these specific case-study areas, a pattern likely reflecting local anthropogenic disturbance rather than a general slope-stability principle. These findings highlight the importance of measuring and tailoring land-use policies related to urbanization, crop land, and settlement development in mountain regions to mitigate landslide risk.",
+      "doi": "10.1016/j.rineng.2026.112851",
+      "authors": [
+        "Janith De Silva",
+        "Shanika Arachchi",
+        "Upaka Rathnayake"
+      ],
+      "year": 2026,
+      "journal": "Results in Engineering",
+      "openalex_id": "W7211923709",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211923709",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 2/9 key interest terms (occurrence, drivers)",
+      "tags": [
+        "Occurrence",
+        "Drivers"
+      ],
+      "summary": "Landslides are primarily triggered by earthquakes and extreme rainfall events, although anthropogenic factors such as vegetation change, deforestation, and unplanned land development can amplify their occurrence and severity.",
+      "added": false
+    },
+    {
+      "title": "Identifying Research Priorities for the Development of High-Integrity Forest Carbon Credits",
+      "abstract": "Abstract In the United States, voluntary carbon markets have gained significant traction in recent years. However, many offset standards, protocols, and credit ratings have come under scrutiny from the public and investors for failing to produce real or sustainable carbon offsets. Additionally, communities often find themselves unprepared to advocate for forest-based carbon projects that align with their needs and interests, mainly due to a lack of information and a general distrust surrounding carbon projects. There is a pressing need to address the social, ecological, and technological barriers that hinder the development of higher-integrity carbon credits and limit crucial financing for climate change mitigation activities. This paper is the culmination of findings from a series of discussions held in 2025 by leading academics, non-profit organizations, and forestry professionals to identify key challenges, research priorities, and actionable steps to scaling voluntary forest carbon markets. The discussions focused on six priority areas including permanence; additionality; leakage; measurement, monitoring, reporting, and verification (MMRV); market investments; and the social and ecological implications of carbon markets. By reporting on these discussions, we aim to strengthen conversations across forest carbon topics to enhance market access while simultaneously identifying needs for developing high-integrity forest carbon projects for climate change mitigation and rural communities.",
+      "doi": "10.1007/s44392-026-00111-x",
+      "authors": [
+        "Chad Papa",
+        "Melissa M. Kreye",
+        "Evan Beresford",
+        "Sarah Widderich",
+        "William R. L. Anderegg",
+        "Ethan P. Belair",
+        "Stephanie Chizmar",
+        "Tamara Cushing",
+        "Adam Daigneault",
+        "Milagros Fernández",
+        "Christopher S. Galik",
+        "Jason Gibson",
+        "John Gunn",
+        "Barbara Haya",
+        "Daniel J. Hayes",
+        "Matthew D. Hurteau",
+        "Lilli Kaarakka",
+        "Tammy Kowalczyk",
+        "Gregory Latta",
+        "David M. McEvoy",
+        "Kimberly A. Novick",
+        "Raju Pokharel",
+        "Tatyana B. Ruseva",
+        "Brent Sohngen",
+        "Jake Stanton"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forestry",
+      "openalex_id": "W7211988728",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211988728",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 3/9 key interest terms (states, united, united states)",
+      "tags": [
+        "States",
+        "United",
+        "United States"
+      ],
+      "summary": "Abstract In the United States, voluntary carbon markets have gained significant traction in recent years. However, many offset standards, protocols, and credit ratings have come under scrutiny from the public and investors for failing to produce real or sustainable carbon offsets.",
+      "added": false
+    },
+    {
+      "title": "Advancing community wildfire adaptation: emerging directions for meaningful progress",
+      "abstract": "This editorial discusses opportunities for overcoming four emerging challenges for community wildfire adaptation grounded in observations from recent community-based research across the U.S. West. Proactive, place-based community engagement must drive sustainable wildfire adaptation progress, rather than intersect in stochastic and temporary ways in late stages of decision-making, in order for activities to be supported, adopted, and implemented effectively. Discussion seeks to promote conversation about how communities can retain ownership of adaptation progress while navigating emerging technology, policy, and implementation environments in international contexts.",
+      "doi": "10.1071/wf26231",
+      "authors": [
+        "Catrin M. Edgeley"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7212003156",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212003156",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "This editorial discusses opportunities for overcoming four emerging challenges for community wildfire adaptation grounded in observations from recent community-based research across the U.S. West.",
+      "added": false
+    },
+    {
+      "title": "Assessing the utility of umbrella species using co-occurrence, habitat, and management perspectives: An example with the Florida Scrub-Jay",
+      "abstract": "Umbrella species have been championed as an efficient means to monitor habitat conditions needed to support a community of co-occurring species in shrub and forest ecosystems. Yet management goals for target species are often multifaceted and non-target species may respond to each facet differently. We evaluated the Florida Scrub-Jay ( Aphelocoma coerulescens ) as an umbrella species for bird species in early successional sand pine ( Pinus clausa ) scrub in Ocala National Forest, Florida, where management maintains a patchy mosaic for forest products, wildlife habitat, and recreation. We used species richness, co-occurrence, and overlap of habitat associations, estimated from multi-species occupancy models, to assess the Florida Scrub-Jay and non-target bird community. We found richness of species of conservation concern was higher where Florida-Scrub Jays were present, but Florida Scrub-Jays were more common than, and often occurred without, these species. We found non-target species had similar habitat associations as Florida Scrub-Jays, excluding two ground-nesting species that tended to occur briefly post-disturbance and three cavity-nesting species limited by snag density. Therefore, although management for Florida Scrub-Jays can provide broad umbrella-like benefits regarding scrub habitat, it does not necessarily maintain the comparatively narrow conditions needed by other species of conservation concern. Our results highlight that Florida Scrub-Jays do not act as an umbrella for all species of concern and illustrate how umbrella species assessments can vary with the information used. Including co-occurrence and habitat overlap provide critical context for how targeted management affects non-target species, context that is absent in assessments limited to species richness.",
+      "doi": "10.1016/j.foreco.2026.124215",
+      "authors": [
+        "Meghan A. Beatty",
+        "Karl E. Miller",
+        "Robert J. Fletcher"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7212027011",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212027011",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 1/9 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Umbrella species have been championed as an efficient means to monitor habitat conditions needed to support a community of co-occurring species in shrub and forest ecosystems. Yet management goals for target species are often multifaceted and non-target species may respond to each facet differently.",
+      "added": false
+    },
+    {
+      "title": "Meteorological and emission drivers of compound heat and ozone pollution episodes in Oklahoma City during periods influenced by Atlantic tropical cyclones",
+      "abstract": "Compound heat and ozone (O 3 ) pollution events are widespread and pose significant health risks in urban areas. In the Southern Great Plains (SGP), where heat waves are becoming more frequent and intense, these compound events represent a growing environmental and public health concern, underscoring the need for improved process-based understanding to support effective risk assessment and mitigation. This study investigates the three severe O 3 pollution episodes recorded in Oklahoma City (OKC) since 2014—19 July 2018 (106 ppb), 15 June 2021 (93 ppb), and 6-7 August 2024 (86 ppb)—with a particular focus on the June 2021 event that coincided with a pronounced heat wave. Using high-resolution WRF-Chem simulations, we examine the formation mechanisms and identify key meteorological and emission-related contributors to the episode. The episode developed under atypical summer conditions over the SGP, characterized by a frontal passage coincided with the evolution of a tropical storm over the Atlantic Ocean. TROPOMI-based satellite observations reveal substantial power plant emissions in addition to urban emissions in the Tulsa region. Under persistent northeasterly winds, southwestward transport of pollutants from Tulsa on 14–15 June supplied additional pollutants to OKC. Meanwhile, the weak-wind zone over OKC on 15 June, ahead of the advancing front, further favored pollutant accumulation and O 3 production. WRF-Chem sensitivity experiments illustrate that total NO x emissions from the Tulsa area contributed ~4–15 ppbv of surface O 3 in OKC on 15 June 2021, while power plants alone accounted for ~2–6 ppbv, with contributions varying by location.",
+      "doi": "10.22541/essoar.15007742/v2",
+      "authors": [
+        "Xiao‐Ming Hu",
+        "Chenghao Wang",
+        "Siqi Ma",
+        "Daniel Tong",
+        "Ming Xue",
+        "Adriana E. Larrea Valdivia"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7212018565",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212018565",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Compound heat and ozone (O 3 ) pollution events are widespread and pose significant health risks in urban areas. In the Southern Great Plains (SGP), where heat waves are becoming more frequent and intense, these compound events represent a growing environmental and public health concern, underscoring the need for impro…",
+      "added": false
+    },
+    {
+      "title": "Advancing forest management modelling for next-generation Earth system models",
+      "abstract": "Managed forests occupy a large area of land, with almost 30% of the world’s forests designated primarily for production. Management can alter a forest’s carbon storage to a considerable extent, via tree species selection, planting and thinning density, selective logging, and wood harvesting. Forest management can also impact biophysical variables like canopy roughness, evapotranspiration, and surface albedo, which can produce strong effects on local warming or cooling. In addition, forest management is increasingly seen as a key component of many countries’ climate mitigation planning and a component of Net Zero targets. However, Earth System Models (ESMs) used to produce climate projections have historically contained limited functionality to represent processes relevant to forest management, meaning that the coupled-system consequences of these interventions remain underexplored. In recent years significant advances have been made to simulate forest management in dynamic global vegetation models (DGVMs) and land surface models (LSMs), the offline land surface components of ESMs. These include adding features to represent wood harvest; options to allow users additional control over forest plantation; plant functional types (PFTs) tuned specifically to represent common tree species used in forestry; and more detailed representation of forest demography (allowing for age- or size-specific growth, harvesting and mortality). In this paper, we summarize these developments and make the case for their usage in operational ESM configurations, so that the impacts of forest management on the climate, and the importance of forest management for climate mitigation, are properly represented in next generation climate projections.",
+      "doi": "10.22541/essoar.15008573/v1",
+      "authors": [
+        "Emma Littleton",
+        "Karina Bett-Williams",
+        "Arthur Argles",
+        "Sorin Cheval",
+        "Peter M. Cox",
+        "Roberta D'Angiolella",
+        "Daniela Dalmonech",
+        "Maria Carolina Duran Rojas",
+        "Rosie Fisher",
+        "Konstantin Gregor",
+        "Anna Harper",
+        "Deborah Hemming",
+        "Wei Li",
+        "Stefanie Linser",
+        "Mauro Morichetti",
+        "Mathias Neumann",
+        "Julia Pongratz",
+        "Meri Räty",
+        "Eddy Robertson",
+        "Alessio Collalti"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7211993976",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211993976",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Managed forests occupy a large area of land, with almost 30% of the world’s forests designated primarily for production. Management can alter a forest’s carbon storage to a considerable extent, via tree species selection, planting and thinning density, selective logging, and wood harvesting.",
+      "added": false
+    },
+    {
+      "title": "Lemur Bond and biodiversity finance in Madagascar: pricing, impact dynamics and stochastic resilience",
+      "abstract": "Purpose This study develops an evaluation framework for the Lemur Bond, an outcome-based biodiversity finance instrument under preparation in Madagascar. It examines how sovereign pricing, ecological performance, ecosystem-service valuation and evidence governance interact under uncertainty. Design/methodology/approach The paper combines three analytical blocks: a bond-pricing module incorporating greenium, compliance costs and default risk, an ecological production function linking mobilized resources to a composite biodiversity index and a discounted valuation of ecosystem services. Monte Carlo simulations propagate uncertainty in key parameters, while stochastic impulse response analysis evaluates resilience to shocks such as cyclones, wildfires and institutional disruptions. Findings The results show that the expected environmental value of the instrument is highly sensitive to ecological depreciation, allocation efficiency and the credibility-driven greenium. They also indicate that financial viability depends not only on coupon design but also on monitoring quality, independent verification and the capacity to maintain conservation outcomes after shocks. Research limitations/implications The analysis relies on illustrative calibration rather than fully estimated empirical parameters. It therefore provides a simulation-based framework that can be updated as official monitoring and financial data become available. Originality/value The paper contributes to sustainable finance, biodiversity economics and sovereign debt literature by linking pricing, ecological production, KPI governance and resilience within a single framework adapted to Madagascar.",
+      "doi": "10.1108/jed-04-2026-0453",
+      "authors": [
+        "Hoby Nirina Rasoloarimanana",
+        "Ambinintsoa Ramanambonona"
+      ],
+      "year": 2026,
+      "journal": "Journal of Economics and Development",
+      "openalex_id": "W7212014664",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212014664",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Purpose This study develops an evaluation framework for the Lemur Bond, an outcome-based biodiversity finance instrument under preparation in Madagascar. It examines how sovereign pricing, ecological performance, ecosystem-service valuation and evidence governance interact under uncertainty.",
+      "added": false
+    },
+    {
+      "title": "Two phases of rapid loess deposition during the last deglaciation and mid-Holocene in central Sweden",
+      "abstract": "Abstract High-latitude regions are emerging as sensitive and potentially expanding sources of atmospheric mineral dust under contemporary climate warming. Aeolian activity in sub-Arctic landscapes such as Sweden during the last deglaciation may therefore act as a valuable analogue for understanding these future high-latitude dust–climate feedbacks. However, the timing and drivers of postglacial aeolian activity in Sweden remains uncertain. Furthermore, Swedish wind-blown loess deposits are thin and prone to reworking, complicating reliable age determination. Here, we combine high sampling resolution luminescence (quartz OSL, feldspar IRSL) and radiocarbon dating with complementary sedimentological, mineral magnetic and multi-proxy luminescence signal analyses to resolve postglacial–Holocene aeolian activity at Brattforsheden, Värmland. Our analyses demonstrate the value of luminescence sensitivity and portable OSL for assessing age reliability and differentiating between reworked and in situ deposits in thin loess sediments. We show that an intense but short period of postglacial-Holocene aeolian activity occurred in central Sweden immediately following deglaciation, with dust activity persisting for ~ 1500 years after regional ice retreat. We also reveal a later aeolian reworking phase linked to local fire activity at ~ 7 ka, setting new constraints on high-latitude dust dynamics under changing conditions, and implying that even during peak Holocene warmth the landscape was sensitive to aeolian reworking and dust emission could occur.",
+      "doi": "10.1038/s41598-026-69086-1",
+      "authors": [
+        "Calum Edward",
+        "Yunus Baykal",
+        "Helena Alexanderson",
+        "Jenny Sjöström",
+        "Malin E. Kylander",
+        "C. Ortiz",
+        "Daniel Ellerton",
+        "Jan‐Pieter Buylaert",
+        "Anu Kaakinen",
+        "Thomas Stevens"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7212054832",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212054832",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract High-latitude regions are emerging as sensitive and potentially expanding sources of atmospheric mineral dust under contemporary climate warming. Aeolian activity in sub-Arctic landscapes such as Sweden during the last deglaciation may therefore act as a valuable analogue for understanding these future high-la…",
+      "added": false
+    },
+    {
+      "title": "Desertification: Trapped In Time and Space. Reflections On the \"Atlas Of Desertification in Spain\"",
+      "abstract": "his paper presents and discusses the most significant features of the Atlas de la desertificación de España (Atlas of Desertification in Spain), a work of outstanding scientific and practical value that comprehensively examines the main drivers of desertification processes. The authors of the Atlas demonstrate that desertification is far more complex than a simple consequence of aridity, soil erosion, or the associated degradation of vegetation cover. Nor can it be explained solely by human activities, although these play a decisive role in the deterioration of soil and water resources. Drawing upon the findings presented in the Atlas, this paper explores the remarkable complexity of desertification, a phenomenon that may lead to irreversible environmental degradation, biodiversity loss, and a decline in the productive capacity of ecosystems. While the impacts of historical desertification can, to some extent, be mitigated, addressing contemporary desertification driven by the intensification of human activities is considerably more difficult and costly. Nevertheless, both proactive and restrictive management measures are urgently needed to prevent society from becoming trapped between the environmental legacies of the past and the increasing pressures exerted by national and international markets on water resources and land-use systems.",
+      "doi": "10.18172/cig.7467",
+      "authors": [
+        "Estela Nadal‐Romero",
+        "José M. García‐Ruiz"
+      ],
+      "year": 2026,
+      "journal": "Cuadernos de Investigación Geográfica",
+      "openalex_id": "W7212010719",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212010719",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "his paper presents and discusses the most significant features of the Atlas de la desertificación de España (Atlas of Desertification in Spain), a work of outstanding scientific and practical value that comprehensively examines the main drivers of desertification processes.",
+      "added": false
+    },
+    {
+      "title": "Case Studies in Disaster Response and Emergency Management",
+      "abstract": "Designed to enable practitioners and students to evaluate a variety of real-life emergencies from every angle, this full-featured third edition of Case Studies in Disaster Response and Emergency Management provides clear, thorough, step-by-step descriptions of more than 100 major disasters or emergencies. Arranged chronologically, the case studies explore incidents from around the globe, including natural disasters, industrial accidents, epidemics, and terrorist attacks. A series of questions offered alongside each case study encourages the reader to think critically about the problem at hand, to evaluate courses of action, and to understand both anticipated and unforeseen outcomes of decisions that are made. This hands-on approach invites practitioners and students to apply theoretical emergency management techniques in a safe test environment. Case Studies in Disaster Response and Emergency Management, Third Edition provides readers with the most modern and current case studies in disaster response and emergency management. This book can be used in group project settings, as individual homework assignments in training courses for first responders, law enforcement, and government employees, or to complement existing emergency management textbooks in Public Administration, Public Management, and Public Affairs programs.",
+      "doi": "10.4324/9781003745860",
+      "authors": [
+        "Nicolas A. Valcik",
+        "Steven Haynes",
+        "Paul E. Tracy"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7212059589",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212059589",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Designed to enable practitioners and students to evaluate a variety of real-life emergencies from every angle, this full-featured third edition of Case Studies in Disaster Response and Emergency Management provides clear, thorough, step-by-step descriptions of more than 100 major disasters or emergencies.",
+      "added": false
+    },
+    {
+      "title": "Enabling climate change action in cities: A systematic assessment of conditions",
+      "abstract": "Abstract Progress toward low-carbon, resilient cities remains a complex and evolving challenge. Enabling conditions, which are the institutional, economic, and social factors that shape the pace and depth of climate action, are central to understanding why some cities can advance more rapidly than others towards sustainable development pathways. While abundant technical and social response options exist, increasing the pace and scale at which these solutions are deployed in cities requires a nuanced and place-based understanding of these enabling conditions. Multiple enabling conditions influence the pace and depth of that progress, including dynamics of multi-level governance, both technical and non-technical capacities, policy and legal instruments, behaviour and values, and funding and finance. Drawing from a pool of over 120,000 scientific peer-reviewed articles, we quantitatively and qualitatively analyzed a subset of 261 articles to uncover patterns in enabling conditions and their relative influence on urban climate change action. We found that effective urban climate action relies on coordination and mutual support among institutional, economic, and social factors, although the specific setup varies by urban environment, geography, and sector. Urban climate action may accelerate when multi-stakeholder governance structures, aligned economic incentives, and inclusive community engagement converge and mutually reinforce one another. Governance structures at various scales emerge as a foundational enabler across the reviewed literature, though the specific arrangements vary considerably by context. Economic factors shape both the feasibility and scale of urban climate action, with financing mechanisms and cost-effectiveness considerations playing a prominent role, but appear to be insufficient without the presence of other enablers. The enablers we examined, including institutional, economic, and social factors, do not operate in isolation but interact through nexuses, sequential dependencies, and feedback loops. Policymakers and practitioners should strategically identify and invest in enablers that serve as leverage points for inclusive, innovative, and ambitious climate action in cities.",
+      "doi": "10.1088/1748-9326/aea4c8",
+      "authors": [
+        "Sarah Burch",
+        "Anjal Prakash",
+        "Mark Goudsblom",
+        "Ritwick George",
+        "Chandni Singh"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7211991110",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211991110",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Progress toward low-carbon, resilient cities remains a complex and evolving challenge. Enabling conditions, which are the institutional, economic, and social factors that shape the pace and depth of climate action, are central to understanding why some cities can advance more rapidly than others towards sustai…",
+      "added": false
+    },
+    {
+      "title": "Institutional structures, ownership models, and the economic impacts of microreactors in remote Indigenous communities",
+      "abstract": "According to North (1990), institutions are the formal and informal rulessuch as laws, norms, and customsthat shape human interaction and structure how organizations interact.2 Economies of size refer to the ability of a utility to lower the energy costs of production by increasing energy production.For more context, visit (Duffy, 2009).3 Organizations are groups of people or entities that operate within rules and pursue a specific purpose or goal (North, 1990;Williamson, 1985).",
+      "doi": "10.1016/j.pnucene.2026.106594",
+      "authors": [
+        "Daniel Yupanqui",
+        "Oscar Zapata",
+        "Ken Belcher",
+        "Greg Poelzer"
+      ],
+      "year": 2026,
+      "journal": "Progress in Nuclear Energy",
+      "openalex_id": "W7212055498",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212055498",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "According to North (1990), institutions are the formal and informal rulessuch as laws, norms, and customsthat shape human interaction and structure how organizations interact.2 Economies of size refer to the ability of a utility to lower the energy costs of production by increasing energy production.For more context, v…",
+      "added": false
+    },
+    {
+      "title": "A framework for augmenting medium- and heavy-duty vehicle emissions within the National Emissions Inventory for hyperlocal air quality assessments",
+      "abstract": "Neighborhood-scale air quality assessments have outpaced the development of gridded regulatory emissions inventories that support them. This gap is particularly important for medium- and heavy-duty vehicles (MHDVs), which disproportionately emit climate- and healthharming air pollutants. MHDV activities often intersect marginalized communities but are not fully represented within the EPA's modeling framework. To improve high-resolution MHDV emission estimates, we integrate telematics-derived MHDV idling and combination truckspecific annual average daily traffic (AADT) data into WRF–SMOKE–MOVES–CMAQ over the Chicago region. Telematic data indicates MHDV idling is 134% greater and more widely distributed than EPA estimates. Incorporating truck-specific AADT shifts emissions from passenger vehicle-dominated roadways to freight routes. Incorporation of augmented MHDV activity into our air quality model produces hyper-localized increases in nitrogen dioxide (NO2) and elemental carbon concentrations that exceed 6 ppb (68%) and ~0.3 µg/m3 (65%). While population-weighted exposures change only modestly, 90P+ exposure deciles shift from Non-Hispanic White residents (up to −9%) toward Hispanic (+6%) and Black (+4%) communities. Modified MHDV activities reduce near-road NO2 bias by up to 42%, while improving spatial agreement with satellite observations over freight corridors. Highly resolved truck activity is critical for informing hyper-local air quality assessments and mitigation and environmental equity policies.",
+      "doi": "10.22541/essoar.15008578/v1",
+      "authors": [
+        "Victoria A. Lang",
+        "Debatosh Partha",
+        "Daniel L. Goldberg",
+        "Omar Nawaz",
+        "Gaige Kerr",
+        "Lulu Chen",
+        "Mark Janssen",
+        "Zachariah Adelman",
+        "Brian Urbaszewski",
+        "Neda Deylami",
+        "Melanie Minuche",
+        "Griselda Chavez",
+        "Daniel  E. Horton"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7204533670",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204533670",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Neighborhood-scale air quality assessments have outpaced the development of gridded regulatory emissions inventories that support them. This gap is particularly important for medium- and heavy-duty vehicles (MHDVs), which disproportionately emit climate- and healthharming air pollutants.",
+      "added": false
+    },
+    {
+      "title": "Mapping Oil Spills and Offshore Industrial Activities in the Northwest Atlantic for Marine Conservation and Management",
+      "abstract": "ABSTRACT Anthropogenic activities such as oil pollution, vessel traffic and artificial light pose growing threats to marine ecosystems across Canada's Exclusive Economic Zone (EEZ) and adjacent Atlantic waters. Despite their importance, data describing the spatial and temporal distribution of these threats have remained fragmented or difficult to access. To address this gap, we developed a harmonized, high‐resolution geospatial dataset covering Canada's Exclusive Economic Zone (EEZ) and adjacent Atlantic waters. The dataset integrates multiple data sources—including the Integrated Satellite Tracking of Pollution (ISTOP), National Aerial Surveillance Program (NASP), National Environmental Emergency Centre (NEEC), Automatic Identification System (AIS) vessel tracking and VIIRS satellite observations—into a suite of threat layers representing petroleum pollution, offshore infrastructure, vessel activity and artificial light exposure. All layers were processed using reproducible workflows and standardized to a geographic grid in EPSG:4326 with an approximate 1‐km spatial resolution, and provided as monthly or annual products depending on the source data and threat type. The resulting products, delivered as Cloud Optimized GeoTIFFs (COGs), are openly available via Zenodo and accompanied by comprehensive metadata and processing documentation. The dataset is designed to support cumulative effects assessments, marine spatial planning, conservation prioritization and environmental response strategies. By providing consistent and reusable data on key marine stressors, this dataset supports cumulative risk assessment for at‐risk species, such as the globally threatened Leach's Storm‐Petrel (Hydrobates leucorhous), and broader marine management efforts under national and international policy frameworks.",
+      "doi": "10.1002/gdj3.70100",
+      "authors": [
+        "David Beauchesne",
+        "Kevin Cazelles",
+        "Stephanie Avery‐Gomm",
+        "April Hedd",
+        "Philippe Muise",
+        "Robert A. Ronconi",
+        "Katharine R. Studholme",
+        "Sarah N. P. Wong"
+      ],
+      "year": 2026,
+      "journal": "Geoscience Data Journal",
+      "openalex_id": "W7116059875",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7116059875",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Anthropogenic activities such as oil pollution, vessel traffic and artificial light pose growing threats to marine ecosystems across Canada's Exclusive Economic Zone (EEZ) and adjacent Atlantic waters.",
+      "added": false
+    }
+  ]
+}
