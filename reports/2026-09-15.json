@@ -1,0 +1,298 @@
+{
+  "date": "2026-09-15",
+  "statistics": {
+    "fetched": 147,
+    "duplicates_removed": 135,
+    "evaluated": 12,
+    "added": 2,
+    "ignored": 10,
+    "average_score": 1.92
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Contemporary Silvicultural Practices in the Western Portion of the Pacific Northwest, USA",
+      "abstract": "Abstract The western portion of the Pacific Northwest (PNW) has some of the most productive and iconic forests of the United States. Management of these forests has changed dramatically over the past three decades, driven by the primary objectives and constraints associated with major forest landowner groups. Key changes include 1) increased focus on the establishment phase and a reduction in intermediate treatments for ownerships practicing intensive management (e.g., forest industry), 2) an increase in the use of variable retention harvesting on state, Bureau of Land Management, and tribal managed lands, and 3) and a shift to almost exclusive use of thinning on National Forest System lands. Most silvicultural activity is focused on Douglas-fir on privately owned timberlands despite federal ownerships comprising more than half of all timberland in the region. Regeneration is primarily accomplished via planting using both genetically improved and wild-collected seed depending on species and ownership. Increased fire occurrence and severity have given rise to a broad class of treatments related to fuels reduction and thinning to increase resiliency, which is likely to continue to expand. Future changes in practice will be driven by evolving objectives of major forest landowner groups, but we anticipate increased focus on the establishment phase across all groups. Reduced investment in silviculture research and a trend towards standardized silvicultural prescriptions are key challenges to future innovation in the region at a time when the need for innovation to maintain forests and the benefits they provide has never been greater.",
+      "doi": "10.1007/s44392-026-00110-y",
+      "authors": [
+        "Robert A. Slesak",
+        "Florian U. Deisenhofer",
+        "Matthew D. Powers"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forestry",
+      "openalex_id": "W7212317498",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212317498",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 48%: matched 4/8 key interest terms (occurrence, states, united states, united)",
+      "tags": [
+        "Occurrence",
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "Abstract The western portion of the Pacific Northwest (PNW) has some of the most productive and iconic forests of the United States. Management of these forests has changed dramatically over the past three decades, driven by the primary objectives and constraints associated with major forest landowner groups.",
+      "added": true
+    },
+    {
+      "title": "At the edge of change: Native Phragmites persistence and nonnative arrival along the dam‐regulated Colorado River",
+      "abstract": "PREMISE: The southwestern United States is at the forefront of nonnative Phragmites australis subsp. australis expansion. Native Phragmites australis subsp. americanus, likely in decline in North America, is ecologically and culturally important and of conservation interest. In the greater Grand Canyon region, the Glen Canyon Dam led to loss of habitat upstream and increases in Phragmites downstream. Recent increases correspond with changes to dam operations and the arrival of nonnative Phragmites. Determining the native status of Phragmites stands along the Colorado River and around Lake Powell can inform complex management choices and restoration planning. METHODS: Phragmites subspecies at 83 locations from southern Utah through northern Arizona, United States were genetically tested using real-time PCR. Genetic diversity and structure were assessed using microsatellite loci for 13 native Phragmites stands. Morphological traits of southwestern native Phragmites were compared to those of nonnative Phragmites. RESULTS: Nonnative Phragmites was identified at four of the 83 locations. Native Phragmites in the study area is genetically diverse with little regional genetic structure, but substantial genetic differentiation among sites. Southwestern native Phragmites is morphologically variable, but characteristics can be used together to distinguish it from nonnative Phragmites. CONCLUSIONS: The greater Grand Canyon and Glen Canyon regions support a large, genetically diverse native Phragmites population, which is potentially threatened by nonnative Phragmites and changes to river management. Determining conditions that would lead to nonnative Phragmites invasion of desert wetlands will facilitate discussions about the risks and benefits of Phragmites management in these unique ecosystems.",
+      "doi": "10.1002/ajb2.70258",
+      "authors": [
+        "Emily C. Palmquist",
+        "Joel B. Sankey",
+        "Claudia DiMartini",
+        "Tayan Benson",
+        "Brooke Damon",
+        "Helen C. Fairley",
+        "Bradley J. Butterfield"
+      ],
+      "year": 2026,
+      "journal": "American Journal of Botany",
+      "openalex_id": "W7212572897",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212572897",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 45%: matched 4/8 key interest terms (states, united states, united, large)",
+      "tags": [
+        "States",
+        "United States",
+        "United",
+        "Large"
+      ],
+      "summary": "PREMISE: The southwestern United States is at the forefront of nonnative Phragmites australis subsp. australis expansion. Native Phragmites australis subsp. americanus, likely in decline in North America, is ecologically and culturally important and of conservation interest.",
+      "added": true
+    },
+    {
+      "title": "Global fire emissions impact on tropospheric chemistry and radiation in the Energy Exascale Earth System Model (E3SM)",
+      "abstract": "Abstract. Wildfires release large amounts of trace gases and aerosols into the atmosphere, thereby playing a significant role in structuring tropospheric composition. Understanding and quantifying the interactions between fire, atmospheric chemistry, and climate has become increasingly important as wildfire activity has intensified in many regions over the past several decades. Here, we applied the Energy Exascale Earth System Model (E3SM) version 3, coupled with an interactive chemistry module as its default configuration and GFED5 fire emissions, to assess how contemporary wildfires influence atmospheric composition and radiation. We find that wildfires increase global annual average CO and O3 column concentrations by 16 ± 2 % and 6 ± 1 % (reported as mean ± standard deviation hereafter), respectively, during 1997–2022, with the largest increases occurring in wildfire-prone regions of the southern Amazon, central Africa, and tropical Asia. We also find that wildfires strongly promote interannual variations in CO and O3 at tropical sites, thereby improving consistency with in situ observations. Fire emissions increase global aerosol optical depth (AOD) by 7 ± 2 %, resulting in a reduction in net radiation at the surface by about 1.1 W m−2, primarily due to the direct attenuation of incoming solar radiation and indirect cloud effects associated with fire-emitted aerosols. These cooling effects are only partially offset by a small fire-induced ozone radiative warming at surface (+0.07 W m−2). Our analysis provides insight into the spatiotemporal influence of wildfires on global tropospheric trace gas and aerosol abundances and establishes several new diagnostics for evaluating coupled climate-wildfire models.",
+      "doi": "10.5194/egusphere-2026-4288",
+      "authors": [
+        "Li Xu",
+        "Qi Tang",
+        "Qing Zhu",
+        "W. J. Riley",
+        "Guido R. van der Werf",
+        "Yang Chen",
+        "Michael J. Prather",
+        "James T. Randerson"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213134548",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213134548",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 3/8 key interest terms (wildfire, wildfires, large)",
+      "tags": [
+        "Wildfire",
+        "Wildfires",
+        "Large"
+      ],
+      "summary": "Abstract. Wildfires release large amounts of trace gases and aerosols into the atmosphere, thereby playing a significant role in structuring tropospheric composition.",
+      "added": false
+    },
+    {
+      "title": "Aerosol pollution and economic growth in Thailand with a machine learning analysis of the environmental Kuznets Curve",
+      "abstract": "Abstract Aerosol pollution is a chronic air pollution problem that occurs every year in Thailand. It is mostly caused by human activities and climate conditions, and has severe negative impacts on both human health and the economy. This study investigates the relationship between aerosol pollution and various economic and environmental factors using the Environmental Kuznets Curve (EKC) framework. Additionally, it forecasts aerosol pollution through 2050 by applying four machine learning approaches and comparing their accuracy and predictive performance. The results indicate that the Random Forest (RF) model provided the most accurate estimation across the train, validation, and test periods. The study found an inverted U-shape relationship between aerosol pollution and economic growth, consistent with an EKC pattern. This suggests that as Thailand’s economy expands, aerosol pollution is projected to decline at an average annual rate of − 0.0569% to − 0.0636% from 2000 to 2050, except for the Southern region (R4), which shows an increasing rate. Furthermore, environmental features, specifically regional characteristics (R), Normalized Difference Vegetation Index (NDVI), rainfall, and wind speed, strongly influence aerosol pollution levels. Among economic features, population density was found to positively influence aerosol pollution. The study’s findings indicate that population density and GPP per capita remain primary drivers of aerosol pollution in high-activity regions. Consequently, although not directly analyzed in our models, we propose introducing green finance instruments as a strategic mechanism to decouple economic activity from environmental degradation.",
+      "doi": "10.1007/s44292-026-00092-8",
+      "authors": [
+        "Thanakhom Srisaringkarn",
+        "Kentaka Aruga"
+      ],
+      "year": 2026,
+      "journal": "Discover Atmosphere",
+      "openalex_id": "W7212433043",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212433043",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/8 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Aerosol pollution is a chronic air pollution problem that occurs every year in Thailand. It is mostly caused by human activities and climate conditions, and has severe negative impacts on both human health and the economy.",
+      "added": false
+    },
+    {
+      "title": "Inefficient consumption of natural gas drives methane emissions from a megacity",
+      "abstract": "Reducing methane emissions offers a significant near-term opportunity for climate mitigation if the dominant sources are effectively targeted. Natural gas is a large and manageable methane source. Despite extensive pipeline upgrades in cities, methane reductions remain far smaller than expected, suggesting missing emission pathways. Using long-term tower observations in a U.S. megacity, we found a strong seasonal cycle in methane emissions peaking during the winter heating and summer cooling seasons. Natural gas methane emissions dominated both seasons and were strongly correlated with consumption, yielding a loss rate of 1.7±0.6 %, equivalent to about 300×10 6 USD yr −1 of unused natural gas. Incomplete combustion was the primary natural gas signal observed, indicating future mitigation planning should prioritize inefficient natural gas consumption.",
+      "doi": "10.5194/acp-26-12911-2026",
+      "authors": [
+        "Yuwei Zhao",
+        "Andrew Hallward-Driemeier",
+        "Luke D. Schiferl",
+        "Trey Maddaleno",
+        "Michael P. Vermeuel",
+        "Dylan B. Millet",
+        "Delphine K. Farmer",
+        "R. Commane"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7212780975",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212780975",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/8 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Reducing methane emissions offers a significant near-term opportunity for climate mitigation if the dominant sources are effectively targeted. Natural gas is a large and manageable methane source.",
+      "added": false
+    },
+    {
+      "title": "Exploring the relationship between climate change and population dynamics in the Global North: a focus on human fertility",
+      "abstract": "The implications of climate change are increasingly visible through its multifaceted effects, including the intensification of extreme temperatures and weather events. Adopting a demographic perspective, this dissertation examines how climate change relates to population dynamics, with a specific focus on fertility behaviours in high-income settings. The first chapter reviews how climate change intersects with core demographic processes—fertility, mortality, and migration—in countries of the Global North. Individuals’ exposure and capacity to cope with environmental shocks vary according to demographic and socioeconomic characteristics. The chapter discusses mechanisms through which climate change affects health and demographic outcomes. Chapters two and three present empirical analyses. The second chapter uses survey data collected in 2022 in five European countries (France, Spain, Italy, Germany, and United Kingdom) to analyse the prevalence of climate change-related motivations for not intending to have children in the near future, distinguishing between two concerns: the environmental impact of having a child and the potential consequences of climate change on future children’s well-being. Over half of respondents reported the latter concern, which was also linked to life-course and economic insecurity, such as unstable employment and being female. Both concerns were associated to experience of severe climate-related hazards. Building on this, the third chapter integrates longitudinal data from Understanding Society (2009–2023) with climate records in the UK. Monthly-level discrete-time event history models examine the relationship between exposure to heatwaves and floods and the likelihood of conception. Exposure to heatwaves appears strongly associated with reduced conception probabilities during months of exposure. Floods show a weaker yet still negative association in the six months following the event. Furthermore, environmental behaviours play a moderating role in the case of floods exposure. Overall, this dissertation provides evidence that climate change is also a demographic issue, influencing both fertility intentions and behaviours through multiple pathways.",
+      "doi": "10.48676/unibo/amsdottorato/13081",
+      "authors": [
+        "Irene <1996> Frageri"
+      ],
+      "year": 2026,
+      "journal": "AMS Dottorato Institutional Doctoral Theses Repository (University of Bologna)",
+      "openalex_id": "W7204676887",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204676887",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/8 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "The implications of climate change are increasingly visible through its multifaceted effects, including the intensification of extreme temperatures and weather events.",
+      "added": false
+    },
+    {
+      "title": "Impact of climate change on human mortality patterns",
+      "abstract": "The increasing frequency and intensity of extreme weather events pose a growing public health threat. Evidence consistently demonstrates that the mortality risks associated with weather and climate extremes are not uniformly distributed, reflecting substantial geographical and social disparities. This thesis investigates global and European patterns of mortality risks related to extreme weather events, emphasizing population heterogeneity, regional and social vulnerabilities. Specifically, the thesis advances current understanding by (1) systematically synthesizing global evidence on climate-related mortality, (2) empirically examining the determinants of temperature related mortality across Europe, and (3) projecting future mortality under varying climate and socioeconomic scenarios. In the first part, a systematic review of quantitative observational studies is conducted using Web of Science and Scopus, following PRISMA guidelines. The second study involves an empirical analysis of Eurostat sub-national mortality data for adults aged 65 and above across 30 European countries (2014–2023) based on Poisson fixed-effects regression. In the third study, future projections of temperature-related mortality outcomes for 28 European countries are performed using socioeconomic and greenhouse gas emissions (SSP–RCP) scenarios. Key findings from the systematic literature review highlights higher vulnerability among females, older adults, and socioeconomically disadvantaged populations. The empirical analysis focusing on Europe shows that, cold exposure remains a stronger determinant of mortality than heat in the continent, though extreme heat exerts greater effects in southern regions, underscoring the urgent need for region-specific adaptation strategies. Air pollution amplifies both heat- and cold-related mortality, while higher GDP per capita mitigates cold-related deaths. Future projections indicate that temperature-related mortality will decline in Northern Europe but increase markedly in Southern Europe, widening regional disparities toward the end of the century.",
+      "doi": "10.48676/unibo/amsdottorato/13040",
+      "authors": [
+        "Rosanna <1994> Gualdi"
+      ],
+      "year": 2026,
+      "journal": "AMS Dottorato Institutional Doctoral Theses Repository (University of Bologna)",
+      "openalex_id": "W7209175082",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7209175082",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "The increasing frequency and intensity of extreme weather events pose a growing public health threat. Evidence consistently demonstrates that the mortality risks associated with weather and climate extremes are not uniformly distributed, reflecting substantial geographical and social disparities.",
+      "added": false
+    },
+    {
+      "title": "Perceived consequences of megadrought on wellbeing and the role of health care: narratives from rural communities in Elqui Province, Chile",
+      "abstract": "Introduction: Drought is one of the most widespread natural disasters and a major contributor to climate-related health impacts.This study explores the perceived consequences of megadrought and examines the role of health care in addressing its effects, based on the narratives of residents from two rural communities in Elqui Province, Chile.Methods: A qualitative, descriptive, and narrative design was applied.Thirteen semi-structured interviews and one focus group (N=22) were conducted using snowball sampling.Participants were community members, adults (≥18 years) with at least 8 years of residence in the area, engaged in water-dependent economic activities such as small-scale agriculture, goat herding, or rural tourism.Investigator triangulation ensured methodological rigor.Data were analyzed using thematic narrative analysis.Results: Two thematic lines were identified: perceived consequences of the megadrought and the role of healthcare in this context.Within the first thematic line, narratives revealed that the megadrought was perceived as a process transforming multiple dimensions of everyday life.Participants described its effects as interconnected experiences in which environmental degradation, economic uncertainty, social tensions, difficulties accessing water, and emotional distress mutually reinforced one another.Regarding participants' perceptions of the role of health care, the commitment of rural health teams was acknowledged; however, participants also expressed the need for health care to respond not only to diseases but also to the changes that the water crisis produces in daily life, social relationships, and community wellbeing.Conclusion: The megadrought's effects are cumulative and interconnected, spanning environmental, social, and economic r",
+      "doi": "10.22605/rrh10701",
+      "authors": [
+        "Veliz-Rojas",
+        "GonzÃ¡lez",
+        "Bianchetti-Saavedra"
+      ],
+      "year": 2026,
+      "journal": "Rural and Remote Health",
+      "openalex_id": "W7212450770",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212450770",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Introduction: Drought is one of the most widespread natural disasters and a major contributor to climate-related health impacts.This study explores the perceived consequences of megadrought and examines the role of health care in addressing its effects, based on the narratives of residents from two rural communities in…",
+      "added": false
+    },
+    {
+      "title": "Local perceptions of Asiatic black bear conservation in a subsistence agriculture community of Mustang, Nepal",
+      "abstract": "Abstract Human–wildlife interactions involving the Asiatic black bear ( Ursus thibetanus ) present significant challenges for coexistence in Nepal. Despite the vulnerable status, this species remains understudied in Nepal, particularly concerning the threats it encounters and the perspectives of local people toward its conservation. Accordingly, this study aimed to assess perceived threats to Asiatic black bears, analyze crop use patterns, and understand local people's perceptions influencing conservation efforts for this species in Mustang district. Data collection methods included preliminary surveys, key informant interviews, focus group discussions, and household surveys. The nonparametric chi‐square test was used for perception analysis, regression and ANOVA tests for crop loss estimation, and the Friedman test for threat analysis. Forest fires were identified as the most perceived threat to bears. Maize and buckwheat were reported as the most frequently foraged crops, likely reflecting both their availability and seasonal attractiveness to bears. Crop foraging showed significant correlations with locals' conservation attitudes and croplands' proximity to forests. The majority of respondents held negative perceptions toward bear conservation, which might be due to their personal experience in interactions with bears and the lack of adequate response of authority in addressing their loss. Because this study primarily relies on self‐reported perspectives from local communities, it captures important experiential and perceptual dimensions of human–wildlife interactions. Complementing this approach with additional socioecological data would further strengthen the basis for developing effective conflict‐resolution strategies.",
+      "doi": "10.1111/csp2.70407",
+      "authors": [
+        "Sudeep Poudel",
+        "Binita Timilsina",
+        "Saugat Poudel",
+        "Suman Bhattarai"
+      ],
+      "year": 2026,
+      "journal": "Conservation Science and Practice",
+      "openalex_id": "W7212280488",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212280488",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract Human–wildlife interactions involving the Asiatic black bear ( Ursus thibetanus ) present significant challenges for coexistence in Nepal. Despite the vulnerable status, this species remains understudied in Nepal, particularly concerning the threats it encounters and the perspectives of local people toward its…",
+      "added": false
+    },
+    {
+      "title": "Barrier Analysis for Supply Chain Coordination in Auto-Parts Manufacturing During Pandemic Disruption",
+      "abstract": "Abstract The COVID-19 outbreak negatively affected global markets and disrupted supply chains, particularly in manufacturing industries. Pandemic diseases can be classified as disruption risks because they can significantly affect supply chain structures and operations. In such situations, the side effects of COVID-19 create numerous barriers, hindering the correct functioning of supply chain sectors. Therefore, the first and most crucial step is to identify these barriers and then prioritise their resolution based on their importance. This paper aims to propose a decision-making approach that can address this problem. First, we use the Material, Management, Operation, Guidelines, Logistics, and Evaluation (MMOG/LE) model to identify the barriers that emerged from the COVID-19 outbreak in a supply chain. Next, the fuzzy Best–Worst Method (BWM) is applied to rank and prioritise barriers for managerial intervention based on their weights. We apply the proposed approach to an auto-parts manufacturing case study to validate and illustrate its applicability. The study's results indicate that MMOG/LE has identified 10 barriers, with demand forecasting being the top priority and non-agreed safety regulations being the lowest priority when it comes to fuzzy BWM results.",
+      "doi": "10.1007/s13132-026-03457-x",
+      "authors": [
+        "Navid Zarbakhshnia",
+        "Amin Karimi",
+        "Kannan Govindan"
+      ],
+      "year": 2026,
+      "journal": "Journal of the Knowledge Economy",
+      "openalex_id": "W7212392325",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212392325",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract The COVID-19 outbreak negatively affected global markets and disrupted supply chains, particularly in manufacturing industries. Pandemic diseases can be classified as disruption risks because they can significantly affect supply chain structures and operations.",
+      "added": false
+    },
+    {
+      "title": "Modelling regional economic resilience to climate disasters: A recovery forecasting framework illustrated by the 2024 Valencia floods",
+      "abstract": "Abstract The floods that struck the Valencian region (Spain) in October 2024 illustrate how climate change is intensifying extreme weather events in Mediterranean flood-prone areas, challenging regional economic resilience. This disaster, which resulted in numerous fatalities and extensive infrastructure damage, disrupted supply chains across a region already vulnerable due to decades of urban and industrial development in the area. Drawing on regional economic resilience theory and recovery curve methodologies, we present a near-real-time (early post-disaster) framework for promptly assessing climate disaster impacts on regional economic growth, based on post-event damage and administrative data and designed to be operational within weeks of the event using readily available information. Our approach combines sectoral recovery dynamics with worker-level impact data to update GDP growth forecasts, addressing a critical gap in disaster response capabilities for increasingly climate-vulnerable regions. Applied to the Valencia floods, our methodology projects differential sectoral resilience patterns: under the assumed sector-specific recovery functions, construction shows rapid recovery due to reconstruction demand, whereas agriculture shows prolonged vulnerability reflecting the sector’s exposure to climate risks. Compared to pre-flood forecasts, results indicate economic contractions of up to 0.2 percentage points in 2024 and 2025, followed by a policy-supported rebound adding 0.3 percentage points to growth in 2026. The analysis illustrates how the assumed level of government intervention may shape post-disaster economic trajectories in flood-prone regions. Beyond providing timely impact assessment, this framework could support climate resilience planning in Mediterranean and other climate-vulnerable territories, enabling policymakers to revise economic forecasts within weeks of the disaster, when policy decisions are most critical, as extreme weather events become more frequent and severe under climate change.",
+      "doi": "10.1007/s00168-026-01548-w",
+      "authors": [
+        "Priscila Espinosa",
+        "Maria Teresa Balaguer-Coll",
+        "Jose M. Pavía",
+        "Emili Tortosa‐Ausina"
+      ],
+      "year": 2026,
+      "journal": "The Annals of Regional Science",
+      "openalex_id": "W7212310314",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212310314",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract The floods that struck the Valencian region (Spain) in October 2024 illustrate how climate change is intensifying extreme weather events in Mediterranean flood-prone areas, challenging regional economic resilience.",
+      "added": false
+    },
+    {
+      "title": "Seaweed carbon removal cannot keep up with climate-driven loss",
+      "abstract": "The prevailing narrative of seaweed carbon as a possible climate change mitigation solution overlooks the central challenge that climate change itself is adversely impacting seaweed forests worldwide, potentially shifting these ecosystems from carbon sinks to carbon sources. In this Essay, we show that climate-induced seaweed forest loss is eroding their carbon sink capacity three to four orders of magnitude (1,000-10,000×) faster than it can currently be restored or recovered through active interventions. We consider that this stark disparity calls for a fundamental shift in seaweed carbon research away from a focus on future sequestration gains and toward explicitly assessing the risk of carbon emissions from climate-driven ecosystem loss.",
+      "doi": "10.1371/journal.pbio.3003949",
+      "authors": [
+        "Karen Filbee‐Dexter",
+        "Albert Pessarrodona",
+        "Kira A. Krumhansl",
+        "Thomas Wernberg"
+      ],
+      "year": 2026,
+      "journal": "PLoS Biology",
+      "openalex_id": "W7211973535",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7211973535",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "The prevailing narrative of seaweed carbon as a possible climate change mitigation solution overlooks the central challenge that climate change itself is adversely impacting seaweed forests worldwide, potentially shifting these ecosystems from carbon sinks to carbon sources.",
+      "added": false
+    }
+  ]
+}
