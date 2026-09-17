@@ -1,0 +1,1067 @@
+{
+  "date": "2026-09-17",
+  "statistics": {
+    "fetched": 160,
+    "duplicates_removed": 118,
+    "evaluated": 42,
+    "added": 2,
+    "ignored": 40,
+    "average_score": 1.52
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Evaluating differential air quality impacts of prescribed fire and wildfire in the United States",
+      "abstract": "Increasing wildfire activities in the United States have generated far-reaching effects on air pollution and human health. While prescribed fires are used as a preventive strategy to reduce wildfire risks, the health impacts of their smoke remain uncertain. Small-scale case studies indicate that prescribed fires generally produce lower pollutant emissions than uncontrolled wildfires, potentially benefiting air quality. However, the extent to which this translates into reduced population-level smoke exposure remains uncertain due to a lack of robust, large-scale quantitative evidence. Moreover, the factors driving differences in air quality impacts between prescribed fires and wildfires were underexplored. Using fire data in California, Florida, and Georgia (2006-2020) and a causal forest approach, we quantified and compared the impacts of prescribed fires and wildfires on air quality, assessed their differences in population-level smoke exposure, and identified key factors influencing their smoke exposure levels. On a per square-kilometer basis, prescribed fires resulted in over six times less population-level smoke exposure compared to wildfires. Additionally, prescribed fires were associated with lower smoke exposure in regions with higher relative humidity and precipitation. This work could enable the broad risk-benefit assessment to guide the judicious use of prescribed fires and optimize public health outcomes while mitigating wildfire threats.",
+      "doi": null,
+      "authors": [
+        "Ting-Hsuan Chang",
+        "Minghao Qiu",
+        "Yaguang Wei",
+        "吴晓"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7213372814",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213372814",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 95%: matched 7/12 key interest terms (prescribed, united states, wildfires, states, united)",
+      "tags": [
+        "Prescribed",
+        "United States",
+        "Wildfires",
+        "States",
+        "United"
+      ],
+      "summary": "Increasing wildfire activities in the United States have generated far-reaching effects on air pollution and human health. While prescribed fires are used as a preventive strategy to reduce wildfire risks, the health impacts of their smoke remain uncertain.",
+      "added": true
+    },
+    {
+      "title": "Atmospheric drying is a primary driver of past and future fire weather trends across the Western United States",
+      "abstract": "Abstract There has been evidence of increasing fire activity in the United States since approximately the 1980s, now estimated to cause tens to hundreds of billions of dollars of damage per year. Weather is one of the key drivers of fire activity, with hot, dry, and windy weather commonly associated with high-risk conditions. We are still, however, developing an understanding of how these weather variables have contributed to historical trends in fire weather and whether these trends will continue. In this work, we investigate the impact of declining humidity in arid regions of the United States. We find that these drying trends have been the predominant contributor to historical increases in fire weather in the Western United States based on a common fire weather index, and that this signal is largely missing from downscaled weather projections based on Earth system models. Accordingly, a near-future (2020–2039) fire weather scenario derived from downscaled Earth System Model data produces little to no change in the frequency of extreme fire weather days across the Western United States. However, under a continued drying scenario, many regions in the West experience 20–70% increases in the annual occurrence of extreme fire weather days.",
+      "doi": "10.1038/s44304-026-00267-8",
+      "authors": [
+        "Grant Buster",
+        "Tianqi Zhang",
+        "Jiafu Mao",
+        "Weichen Liu",
+        "Stefan Rahimi"
+      ],
+      "year": 2026,
+      "journal": "npj natural hazards.",
+      "openalex_id": "W7213268679",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213268679",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 63%: matched 5/12 key interest terms (drivers, united states, occurrence, states, united)",
+      "tags": [
+        "Drivers",
+        "United States",
+        "Occurrence",
+        "States",
+        "United"
+      ],
+      "summary": "Abstract There has been evidence of increasing fire activity in the United States since approximately the 1980s, now estimated to cause tens to hundreds of billions of dollars of damage per year.",
+      "added": true
+    },
+    {
+      "title": "Low Sagebrush Postfire Restoration is Successful With Slight Improvements From More Intensive Treatments",
+      "abstract": "ABSTRACT Wildfires are increasing in both size and frequency across the western United States. Restoration of the shrub element postfire, which provides critical wildlife habitat and increases biodiversity, is often a management objective. In the sagebrush ecosystem, sagebrush restoration research and efforts have largely overlooked low sagebrush ( Artemisia arbuscula Nutt.), an important shrub species that occupies vast areas. Research focusing on other sagebrush species suggests that planting low sagebrush seedlings (transplants) is likely to be more successful than broadcast seeding. In addition, treatments to reduce competition from grasses may improve low sagebrush restoration success. To improve restoration of low sagebrush, comparisons of different restoration treatments are needed. We compared early establishment of low sagebrush broadcast seeded at two rates (500 and 1 000 PLS) to planted low sagebrush seedlings in areas where low sagebrush had not recovered after fire. We also investigated if reducing competition would improve transplant survival and growth by treating 50% of the perennial bunchgrasses with a contact herbicide (glyphosate). We found that all treatments increased early establishment of low sagebrush compared to the untreated control. The most intensive treatment (planting low sagebrush transplants with bunchgrass control) had the greatest low sagebrush density. Low sagebrush size was greatest in the transplant treatments, but transplants were several months older than seedlings established from broadcast seeding. One caveat of our study was that restoration treatments were followed by either average or above-average precipitation. Hence, success may be less in drier years. Our results suggest that both seeding and planting low sagebrush transplants can be useful tools for restoring low sagebrush, at least when a year of average to above-average precipitation follows seeding or planting, and that more intensive restoration treatments may slightly improve success.",
+      "doi": "10.1016/j.rama.2026.08.006",
+      "authors": [
+        "Danielle R. Clenet",
+        "Kirk W. Davies"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7213362054",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213362054",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 4/12 key interest terms (united states, wildfires, states, united)",
+      "tags": [
+        "United States",
+        "Wildfires",
+        "States",
+        "United"
+      ],
+      "summary": "ABSTRACT Wildfires are increasing in both size and frequency across the western United States. Restoration of the shrub element postfire, which provides critical wildlife habitat and increases biodiversity, is often a management objective.",
+      "added": false
+    },
+    {
+      "title": "A survey of bees (Hymenoptera, Apoidea) in the Bear River Mountains in northern Utah",
+      "abstract": "Bees provide critical pollination services to a diversity of flowering plants, facilitating the function of terrestrial ecosystems and global food production. Here, we present a checklist of bee species collected in conjunction with a larger systematic study in the Bear River Mountains of northern Utah, United States, over the course of three consecutive summers (2020-2022). The survey was conducted on public lands managed by the United States Forest Service. We collected 8,500 bee specimens using pan traps, hand nets and trap nests, representing at least 199 bee species belonging to 33 genera across five families. The checklist produced in this survey is critical for land managers and other stakeholders in developing pollinator management and conservation strategies, especially on public lands. We present the first published checklist of bees in the Bear River Mountains of northern Utah and document five new species that have not been recorded in Utah before: Ceratina sequoiae , Coelioxys alternata , Hoplitis pilosifrons , Megachile campanulae and Stelis holocyanea . Notably, this survey did not detect the presence of Osmia cornifrons , a non-native solitary bee species that is known from lower elevations in the adjacent Cache Valley. However, two non-native species, Megachile rotundata and Anthidium manicatum were each represented by an occurrence during our three year survey. Early detection of non-native species provides a baseline for potential range expansion.",
+      "doi": "10.3897/bdj.14.e198070",
+      "authors": [
+        "Lindsie McCabe",
+        "Byron Love",
+        "Jonathan Koch",
+        "Skyler Burrows",
+        "Kelsey Graham",
+        "Diana Cox-Foster"
+      ],
+      "year": 2026,
+      "journal": "Biodiversity Data Journal",
+      "openalex_id": "W7213316980",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213316980",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 4/12 key interest terms (united states, occurrence, states, united)",
+      "tags": [
+        "United States",
+        "Occurrence",
+        "States",
+        "United"
+      ],
+      "summary": "Bees provide critical pollination services to a diversity of flowering plants, facilitating the function of terrestrial ecosystems and global food production. Here, we present a checklist of bee species collected in conjunction with a larger systematic study in the Bear River Mountains of northern Utah, United States,…",
+      "added": false
+    },
+    {
+      "title": "Efficient Ozone Production within Indochina Biomass Burning Plumes: From Near-Source to Downwind Regions",
+      "abstract": "This study investigates O 3 production and chemistry within Indochina biomass burning plumes, using ozonesondes, satellite, and reanalysis data (2000–2024). Elevated terrain over the burning region produces a “terrain chimney” effect, lifting plumes into the free troposphere and confining downwind transport largely above the boundary layer. On average, Indochina biomass burning contributes ~30 ppbv of O 3 enhancement in the lower free troposphere (LFT, 2–5 km) over Hanoi and Hong Kong—nearly twice the increase reported for North American wildfires—indicating more efficient O 3 production. Satellite/reanalysis data reveal a NOₓ-limited O 3 formation regime over the Indochina Peninsula and along smoke transport pathways. On peak-fire days, NO 2 surges while CH 2 O increases modestly, distinct from North America. Despite the NOₓ surge, the O 3 formation regime remains NO x -limited across most transport pathways, favoring sustained O 3 production via NOₓ → O 3 . Combined with strong solar radiation and high VOC background, this yields an average O 3 production rate of 17.6 ppbv h⁻¹ over northern Laos, and a dilution-corrected excess LFT O 3 concentration of up to 150 ppbv over the Greater Bay Area on smoke-laden days. Our findings underscore the urgency of biomass burning prevention in Indochina.",
+      "doi": "10.1038/s44407-026-00101-5",
+      "authors": [
+        "Zhiheng Liao",
+        "Fangzhou Li",
+        "Jielan Xie",
+        "Zhiqiang Ma"
+      ],
+      "year": 2026,
+      "journal": "npj Clean Air",
+      "openalex_id": "W7213351563",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213351563",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 2/12 key interest terms (wildfires, burning)",
+      "tags": [
+        "Wildfires",
+        "Burning"
+      ],
+      "summary": "This study investigates O 3 production and chemistry within Indochina biomass burning plumes, using ozonesondes, satellite, and reanalysis data (2000–2024). Elevated terrain over the burning region produces a “terrain chimney” effect, lifting plumes into the free troposphere and confining downwind transport largely abo…",
+      "added": false
+    },
+    {
+      "title": "Wildfires drive trade-offs in ammonia-oxidizing groups and promote denitrification to increase soil emissions of nitric oxide (NO) and nitrous oxide (N 2 O) in California chaparral",
+      "abstract": "Wildfires can promote trade-offs in soil nitrifier and denitrifier communities that affect post-fire nitrogen (N) cycling and emissions of nitric oxide (NO), nitrous oxide (N 2 O), and dinitrogen (N 2 ). For example, by increasing soil pH and ammonium (NH 4 + ), wildfires could increase the abundance of ammonia-oxidizing bacteria (AOB) over archaea (AOA). Because AOB and AOA process N differently, nitrifier trade-offs may affect N emissions and nitrate (NO 3 - ) supply with downstream effects on denitrifier activity, leading us to ask: Do trade-offs between AOA and AOB abundance and shifts in denitrifying processes influence N emissions over time after wildfire? We selectively inhibited AOA and AOB communities from soil collected over four seasonal time points one year before and after a chaparral wildfire and used stable isotopes to parse denitrifier contributions to N 2 O emissions. Over one year after the wildfire, soil pH increased from 6.1 to 7.0, soil extractable NH 4 + increased 30-fold, NO 3 - increased 5-fold, and NO 2 - increased 9-fold. AOB amoA gene copy numbers increased 20-fold one year after fire, while AOA abundance remained unchanged. Post-fire soil NO emissions increased 63-fold over one year, with varied contributions from all nitrifier groups. Soil N 2 O emissions peaked eight months after fire (2271 ± 634 ng N 2 O-N g -1 soil), with increased contributions from AOA. Wildfire increased δ 15 N SP N 2 O and δ 15 N bulk N 2 O values, suggesting increased N 2 O reduction to N 2 . Overall, wildfire increased AOB abundance relative to AOA, promoting nitrification activity and providing intermediates to denitrifiers to increase emissions of NO and N 2 O for up to one year after fire.",
+      "doi": "10.64898/2026.09.10.749748",
+      "authors": [
+        "Elizah Z. Stephens",
+        "Alexander H. Krichels",
+        "Aral C. Greene",
+        "Sharon Zhao",
+        "Chloe Reid",
+        "Jamie Irby",
+        "Maria E. Ordoñez",
+        "Dominika Lewicka‐Szczebak",
+        "Erin J. Hanan",
+        "Sydney I. Glassman",
+        "Peter M. Homyak"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7213311635",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213311635",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 2/12 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires can promote trade-offs in soil nitrifier and denitrifier communities that affect post-fire nitrogen (N) cycling and emissions of nitric oxide (NO), nitrous oxide (N 2 O), and dinitrogen (N 2 ).",
+      "added": false
+    },
+    {
+      "title": "Characterization of aerosol properties during a huge transatlantic smoke transport event using Aeolus observations in synergy with multi-platform data",
+      "abstract": "During the wildfire season on the West Coast of the US in September 2020, biomass burning smoke aerosols were continually generated, resulting in several transatlantic transport events. As a high spectral resolution lidar (HSRL), ALADIN could directly retrieve the aerosol extinction and backscatter coefficient. Targeting a large-scale tropospheric smoke transport event originating from the western US on 14 September and arriving over Europe on 21 September, a method for constructing an Aeolus smoke dataset was developed based on ALADIN observations, in synergy with multi-source data. Utilizing selected cross-sections from this dataset, the vertical structure of the smoke layers at different transport stages are presented. HYSPLIT simulations illustrate the general transport pathway connecting these layers. Statistical analyses of the complete Aeolus smoke dataset from 14 to 21 September reveal the evolution of the smoke plume throughout its transatlantic pathway. The dense smoke plume throughout the transport was characterized by mean extinction coefficients of approximately 200 Mm −1 across all selected cross-sections and a decline in AOD from 0.54 to 0.33 along the transport pathway. The smoke layers ascended from approximately 4.4 km above the US to over 6 km above the Europe and were observed above clouds upon reaching Europe. The initially decreasing and then increasing lidar ratios are likely associated with the aging process and the hygroscopic growth of smoke particles, individually. Plume separation was observed over the mid-Atlantic, and the two resulting branches were investigated individually. To our knowledge, this paper presents the first use of ALADIN for observations and analyses of a large-scale transatlantic tropospheric smoke transport. The comprehensive characterization presented herein provides valuable information for advancing global aerosol research.",
+      "doi": "10.5194/acp-26-12953-2026",
+      "authors": [
+        "Kangwen Sun",
+        "Guangyao Dai",
+        "Dimitri Trapon",
+        "Holger Baars",
+        "Albert Ansmann",
+        "Ulla Wandinger",
+        "Songhua Wu"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7212912140",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212912140",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 3/12 key interest terms (burning, wildfire, large)",
+      "tags": [
+        "Burning",
+        "Wildfire",
+        "Large"
+      ],
+      "summary": "During the wildfire season on the West Coast of the US in September 2020, biomass burning smoke aerosols were continually generated, resulting in several transatlantic transport events. As a high spectral resolution lidar (HSRL), ALADIN could directly retrieve the aerosol extinction and backscatter coefficient.",
+      "added": false
+    },
+    {
+      "title": "Individuals’ Resonance with Nature as a Deep Leverage Point for Sustainability Transformations: Weaving Sustainability Science, Psychology, Psychotherapy, and Transdisciplinary Epistemologies",
+      "abstract": "Humanity’s response to the social–ecological crises has so far remained fragmented and hesitant. Many current approaches focus narrowly on adapting to the existing order or mitigating its most immediate consequences. In contrast, a profound sustainability transformation requires addressing the underlying causes of these crises. According to numerous scholars and Indigenous traditions, these causes lie in modern humanity’s alienated relationship with nature. Consequently, sustainability science has increasingly called for a relational turn aimed at reconnecting humans with nature. In this context, Hartmut Rosa’s theory of resonance, together with the deduced concept of human–nature resonance, has gained attention for its integrative potential across systems, transformation, and target knowledge. Yet despite their theoretical richness, these approaches still lack an empirical operationalization of how resonance with nature can, in practice, be cultivated and sustained. Against this background, this dissertation aims to illuminate the active fostering of resonance with nature. Drawing on the extensive knowledge within psychology and psychotherapy regarding the shaping and transformation of individual mindsets, it focuses on individual actors as the primary site of investigation, with the intention of ultimately upscaling these insights toward broader societal transformation. In doing so, the work integrates psychological and psychotherapeutic perspectives into the process of individuals fostering resonance with nature. Moreover, acknowledging the ontological and epistemological limitations within both psychology and sustainability science, the work is enriched through transdisciplinary epistemologies that incorporate Indigenous ontologies, embodied self experience, and artistic practice. Across Publications 1, 2, and 3, I address three research gaps and corresponding sub aims of the overarching research goal, employing distinct theoretical and methodological approaches. First, a conceptual and interdisciplinary paper lays the groundwork for understanding how individuals can foster resonance with nature. This contribution engages deeply with a triad of concepts: Indigenous ontologies, spirituality and transpersonal psychology, and mindfulness. These relational perspectives have received increasing attention for their potential to advance sustainability transformations and were therefore used to further develop resonance theory and the concept of human–nature resonance. In addition, following Hartmut Rosa’s emphasis on rituals as means of fostering resonance, the role of rituals in sustainability contexts was examined. The resulting conceptualization of individuals resonating with nature includes the following dimensions: openness, granting nature the value of Unverfügbarkeit (English: inaccessibility), being affected by nature, responding, and mutual transformation. Aiming to move beyond a purely theoretical contribution, and drawing on my own transdisciplinary self experience, a practical framework in the form of a ritual intervention was outlined. To enliven the reading experience and add an affective dimension, the text was complemented with a graphical abstract and small icons, each representing one resonance dimension and made available as open access materials. Second, building on these conceptual foundations, a five week feasibility panel study was conducted to empirically examine the concept of individual human–nature resonance. The study employed a psychological experimental design with a control group, using the proposed urban ritual as the intervention framework. Each resonance dimension was operationalized through specific tools and nurturing exercises, while a set of psychological scales was applied to assess potential changes. As a feasibility study with a limited sample size, the results did not yield statistical significance. Nevertheless, participants in the ritual condition exhibited increased pro environmental behavior both immediately after the study and again five months later. Additional findings concerning health, social connectedness, and emotional self regulation also suggest beneficial effects of the intervention, which warrant further examination in future trials. When doing so, it is recommended paying greater attention to the societal contexts in which individuals are embedded, as these conditions may substantially constrain their resonance dispositions. Third, in response to the societal obstacles encountered in the feasibility study, it was sought to address and alleviate these barriers. Echoing scholarly calls to reassess prevailing social norms and goals in light of relational ontologies, I argue that the dominant concept of resilience may constitute an inner sustainability impediment that limits deeper resonance with nature. As an alternative, I propose vulnerability as a critical mode of relation. Rather than prescribing a fixed method, it was aimed to open a reflective and trustful space for rethinking current societal values and norms. To this end, I first contextualized resilience to engage the reader cognitively within a theoretical framework, then contrasted its limited compatibility with nature connectedness while elaborating how vulnerability fosters this bond. Finally, I drew on transdisciplinary insights from art to exemplify these arguments in a more affective and epistemologically diverse way, thereby broadening dominant ontological perspectives. Recognizing that an author’s positionality inevitably shapes how research gaps are addressed, after the publications I reflect on the suitability of my approaches. In this respect, I also consider the original inherent perspective of the dissertation on the potential formulation of transformation knowledge. I then provide a synthesis of the dissertation that simultaneously acknowledges its limitations. Using the letters of the verb ‘decide’, six directions are proposed for advancing the topic of individuals resonating with nature so that it may unfold its potential as a deep leverage point for sustainability transformations. In this regard, beyond researching the capability to decide (‘D’), I emphasize the importance of experience and haptics in human life (‘E’), the value of congruence both within ourselves as transformative researchers and within society at large (‘C’), as well as the partial invisibility of our research objects (‘I’). Finally, the necessity of disciplinary diversity (‘D’) and epistemic plurality (‘E’) are highlighted to further cultivate resonant relationships in modern societies. I conclude with a reflective invitation to the reader. In a well known performance, the artist Julia Engelmann asked her audience what stories they would wish to tell when looking back on their lives. Inspired by this idea and speaking as a transformative researcher, readers are invited to consider how they might wish to remember the present moment we are all shaping now.:Table of Contents Abstract 7 List of Figures 11 List of Tables 12 Abbreviations 13 1. Introduction 14 1.1 Background and Research Relevance 14 1.2 Research Gaps and Questions 17 1.2.1 Gap 1: A Missing Theoretical Framework for Individuals’ Integrative Reconnection with Nature 17 1.2.2 Gap 2: No Empirical Concept for Overcoming the Mind-Action Gap 18 1.2.3 Gap 3: How to Scale Up Individuals’ Responsive Relationships to Society? 18 1.3 Aims, Institutional Embeddedness of the Dissertation, and Structure 19 2. Theoretical Background 22 2.1 Towards Relational Ontologies for Sustainability Transformations 22 2.2 Resonance Theory and Human-Nature Resonance 22 2.3 Methods to Strengthen the Human-Nature Bond 23 2.4 The Role of Transdisciplinary Epistemologies for Sustainability Transformations 24 2.5 How to Upscale Individual Transformations 24 3. Publications 26 3.1 Publication 1: Opening the Human Spirit to Sustainability Transformation: The Potential for Individual Human–Nature Resonance and Integrative Rituals 27 3.2 Publication 2: Exploring the Fosterage of Individuals’ Resonances with Nature through a 5-Week-Long Ritual: Findings, Limits, and Outlook of a Feasibility Study for Sustainability Transformations 59 3.3 Publication 3: Let’s Talk about Vulnerability: A Critical Plea for Relationality with Nature, Rethinking Resilience and Transdisciplinary Knowledge in Sustainability Transformations [preprint] 98 4. Reflecting Upon the Publications 123 4.1 Publication 1 123 4.1.1 Theoretical Approach 123 4.1.2 Methodology 124 4.1.3 Overall Evaluation of Addressing Research Gap 1 124 4.2 Publication 2 125 4.2.1 Theoretical Approach 125 4.2.2 Methodology 125 4.2.3 Overall Evaluation of Addressing Research Gap 2 126 4.3 Publication 3 127 4.3.1 Theoretical Approach 127 4.3.2 Methodology 129 4.3.3 Overall Evaluation of Addressing Research Gap 3 129 5. Synthesis and Recommended Directions Forward 131 D—Deciding 132 E—Experiences and Haptics 133 C—Congruency 135 I—Invisibility 135 D—Disciplinary Diversity 137 E—Epistemic Plurality 138 6. Conclusion 140 Literature 142 Appendix 150",
+      "doi": "10.13140/rg.2.2.35725.70881",
+      "authors": [
+        "Susanne Müller"
+      ],
+      "year": 2026,
+      "journal": "Qucosa (Saxon State and University Library Dresden)",
+      "openalex_id": "W7213226592",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213226592",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 2/12 key interest terms (causes, large)",
+      "tags": [
+        "Causes",
+        "Large"
+      ],
+      "summary": "Humanity’s response to the social–ecological crises has so far remained fragmented and hesitant. Many current approaches focus narrowly on adapting to the existing order or mitigating its most immediate consequences.",
+      "added": false
+    },
+    {
+      "title": "Catastrophe Insurance Pricing: An Adaptive Robust Optimization Approach",
+      "abstract": "The escalating frequency and severity of natural disasters, exacerbated by climate change, underscores the critical role of insurance in facilitating recovery and promoting investments in risk reduction. The paper introduces a novel adaptive robust optimization (ARO) framework tailored for the calculation of catastrophe insurance premiums, with a case study applied to the US National Flood Insurance Program. To the best of our knowledge, it is the first time an ARO approach has been applied to disaster insurance pricing. Our methodology is designed to protect against both historical and emerging risks, the latter predicted by machine learning models, thus directly incorporating amplified risks induced by climate change. Using US flood insurance data as a case study, optimization models demonstrate effectiveness in covering losses and produce surpluses, with a smooth balance transition through parameter fine-tuning. Among tested optimization models, results show that ARO models with conservative parameter values achieve a low number of insolvent states with the least insurance premium charged. Overall, optimization frameworks offer versatility and generalizability, making them adaptable to a variety of natural disaster scenarios, such as wildfires and droughts, among others. This work not only advances the field of insurance premium modeling but also serves as a vital tool for policymakers and stakeholders in building resilience to the growing risks of natural catastrophes.",
+      "doi": "10.66573/001c.167995",
+      "authors": [
+        "Cynthia Zeng",
+        "Dimitris Bertsimas"
+      ],
+      "year": 2026,
+      "journal": "Variance",
+      "openalex_id": "W7213038139",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213038139",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 2/12 key interest terms (wildfires, states)",
+      "tags": [
+        "Wildfires",
+        "States"
+      ],
+      "summary": "The escalating frequency and severity of natural disasters, exacerbated by climate change, underscores the critical role of insurance in facilitating recovery and promoting investments in risk reduction.",
+      "added": false
+    },
+    {
+      "title": "Facilitating Collective Wildfire Action: Exploring Needs, Challenges and Roles of County Wildfire Coordinators",
+      "abstract": "Abstract Wildfire science and policy have long recognized the critical role of place-based facilitators or organizers when advancing collective action for wildfire management. Yet it is only more recently that support for “wildfire coordinators” have been codified in state, federal or university programs through hiring of specialized positions. The research presented here explores the experiences, challenges and needs of county wildfire coordinators funded across California. We interviewed 62 individuals, including all 52 active county wildfire coordinators, to better understand how their work engaged new or ongoing wildfire initiatives across diverse social contexts. Results indicate that coordinators are pursuing very different wildfire management objectives or foci in their duty areas based on the variable histories, collaborative momentum, and administrative home established in each county. Coordinators spent much of their time trying to understand the variable needs and local cultures of diverse ‘communities’ where fire management progress was most feasible. They wanted help experimenting with or learning from “tailored” collaboration approaches through additional opportunities for shared learning. Participants also expressed concern about the longevity of the pilot coordinator program, including a perceived lack of metrics or procedures for documenting the relationship building, collaborative facilitation or trust formation developed through their work. We conclude the article by demonstrating how our results extend existing literature about the roles of coordinator positions in a multiscale system. We also provide a series of empirically oriented suggestions outlining the types of tools, outside partnerships, or metrics that could enable additional flexibility in administration of coordinator programs.",
+      "doi": "10.1007/s44392-026-00116-6",
+      "authors": [
+        "Travis B. Paveglio",
+        "Jimy Cargill"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forestry",
+      "openalex_id": "W7213359559",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213359559",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/12 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfire science and policy have long recognized the critical role of place-based facilitators or organizers when advancing collective action for wildfire management.",
+      "added": false
+    },
+    {
+      "title": "Hierarchical habitat selection in Pacific martens (Martes caurina): Evaluating responses to forest thinning at multiple spatial scales",
+      "abstract": "To make forests more resilient to our modern fire regime, landowners and managers are increasingly using stand-thinning and burning treatments to reduce available fuels. These treatments alter the landscape and affect species who depend on structurally complex forests, yet actionable guidelines for forest managers looking to both restore forests and mitigate potential negative impacts of restoration on wildlife remain scant. We evaluated how Pacific martens (Martes caurina) responded to forest structure, including thinned stands, at multiple spatial scales using GPS collar data from 33 individuals in Lassen National Forest, California from 2010 to 2020. We classified forest patches as Open, Simple (naturally sparse or thinned), or Complex (dense, multistory conifer), then analyzed home range composition, within-home range space use, and fine-scale movement using autocorrelated kernel density estimation, zero-inflated negative binomial models, and integrated step-selection function, respectively. Martens selected home ranges dominated by large Complex patches, but included Simple patches at frequencies proportional to, and sizes lesser than, landscape availability. Within home ranges, martens used Simple and Complex patches at similar rates once we accounted for patch area, with preference for Complex patches emerging only above ~40 ha. At the step scale, martens strongly selected Complex patches, lightly selected patch edges in Simple patches, and avoided Open structure. These results suggest marten habitat selection is expressed most strongly during home range establishment and at the scale of the step. For management, we recommend thinning treatments remain below ~14 ha and preserve large, connected Complex forest, while recognizing that long-term fire resilience may ultimately protect the complex structure on which martens depend.",
+      "doi": "10.22541/authorea.15008853/v1",
+      "authors": [
+        "Smith Freeman",
+        "Katie Moriarty",
+        "John Fieberg"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213278123",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213278123",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/12 key interest terms (burning, large)",
+      "tags": [
+        "Burning",
+        "Large"
+      ],
+      "summary": "To make forests more resilient to our modern fire regime, landowners and managers are increasingly using stand-thinning and burning treatments to reduce available fuels.",
+      "added": false
+    },
+    {
+      "title": "Organic vapors from Savannah and European Boreal fire emissions: insights from photochemical and dark aging experiments in a smog chamber",
+      "abstract": "Biomass burning (BB) emits large amounts of pollutants in the particle and gas phases, with significant implications for air quality, human health and climate. Here, we investigate the emission of organic vapors from controlled burns of relatively understudied biomass fuels: woody plants and grasses from African savannah and European boreal forest surface, using a high-resolution proton transfer reaction-mass spectrometer. To understand the effect of different oxidation regimes, organic vapors were aged in a 29 m 3 Teflon chamber, where photochemical and dark aging were simulated. The average total primary emission factors (EFs) for organic vapors varied considerably with fuel type, ranging from 69 to 161 g kg −1 . Photochemical aging led to substantial depletion of furanics, phenolics and oxygenated aromatics, accompanied by enhancements of carbonyl B compounds and O-containing compounds with C < 6 across experiments. In contrast, dark aging under low-NO x conditions produced minimal compositional changes. Hierarchical clustering of relative composition showed clear regime dependence, with regime-associated differences accounting for 73 % of the variance in group-level composition. Toluene and furan showed a strong negative correlation with secondary oxygenated volatile organic compounds (OVOCs), including anhydrides and small acids, consistent with their role as precursors. After 0.5 equivalent day of photochemical aging, organic vapors shifted to higher O / C (> 0.70) and an increased fraction of C x H y O z ( z ≥ 3). These results highlight the integral role of OH⋅-driven photo-oxidation in governing the atmospheric evolution and composition of BB organic vapors and underscore the need for secondary organic aerosol (SOA) models to include non-traditional precursors.",
+      "doi": "10.5194/acp-26-12977-2026",
+      "authors": [
+        "Deeksha Shukla",
+        "Lejish Vettikkat",
+        "Mika Ihalainen",
+        "Markus Somero",
+        "Hendryk Czech",
+        "Siegfried Schobesberger",
+        "Angela Buchholz",
+        "Iida Pullinen",
+        "Kerneels Jaars",
+        "Kajar Köster",
+        "Viet Le",
+        "Pasi Yli‐Pirilä",
+        "Stefan Siebert",
+        "Pieter G. van Zyl",
+        "Annele Virtanen",
+        "Ville Vakkari",
+        "Olli Sippula",
+        "Ralf Zimmermann"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7212834662",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212834662",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/12 key interest terms (burning, large)",
+      "tags": [
+        "Burning",
+        "Large"
+      ],
+      "summary": "Biomass burning (BB) emits large amounts of pollutants in the particle and gas phases, with significant implications for air quality, human health and climate. Here, we investigate the emission of organic vapors from controlled burns of relatively understudied biomass fuels: woody plants and grasses from African savann…",
+      "added": false
+    },
+    {
+      "title": "Near-source emission profiling of post-monsoon crop residue fires in N-W India",
+      "abstract": "Post-monsoon crop residue fires of North-West (N-W) India continue to have a significant contribution to global cropland burned area estimates and poor air quality in downwind urban cities, yet detailed understanding of the fire smoke evolution and in situ emission characteristics is lacking and remains poorly constrained. To address this research gap, targeted STUB-BURN (Stubble Burning Emissions Study) field measurements of speciated fine particulate matter (PM 2.5 ) and gaseous species were obtained during the Oct–Nov period in 2023. We investigated sources of organic aerosols (OA) and other major species in PM 2.5 by applying positive matrix factorization and found that while ongoing crop residue burning activity drives major species in PM 2.5 , oxygenated organic aerosols (OOA) dominate the overall organic composition (~68%) even in near-source measurements. Though freshly emitted biomass burning organic compounds are observed to undergo rapid oxidation, such a high contribution of OOAs in this case might be partly caused by capture vaporizer (CV) induced oxygenation in CV-ACSM mass spectrometers. No net mass enhancement or reduction in dilution-corrected ΔOA/ΔCO was observed w.r.t. aging indicator (O:C ratio) for nine plume events. Inferred in situ mean emission factor values via the carbon mass balance method for seventeen species based on two plume events under open field scale combustion conditions are lower than average estimates from widely used fire emission inventories. Given the large variability in fire-to-fire emissions driven by combustion conditions among other factors, the study reinforces the need to account for localized fire characteristics to represent regional contributions more accurately within global emission estimates.",
+      "doi": "10.1038/s44407-026-00099-w",
+      "authors": [
+        "Anjanay Pandey",
+        "Vikram Singh",
+        "Umer Ali",
+        "Mohd Faisal",
+        "Ajit Kumar",
+        "Vikas Goel",
+        "Yufang Hao",
+        "Suman Mor",
+        "Khaiwal Ravindra",
+        "Kaspar R. Daellenbach",
+        "André S. H. Prévôt",
+        "Mayank Kumar"
+      ],
+      "year": 2026,
+      "journal": "npj Clean Air",
+      "openalex_id": "W7213334909",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213334909",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/12 key interest terms (burning, large)",
+      "tags": [
+        "Burning",
+        "Large"
+      ],
+      "summary": "Post-monsoon crop residue fires of North-West (N-W) India continue to have a significant contribution to global cropland burned area estimates and poor air quality in downwind urban cities, yet detailed understanding of the fire smoke evolution and in situ emission characteristics is lacking and remains poorly constrai…",
+      "added": false
+    },
+    {
+      "title": "DNA metabarcoding illuminates nestling diet of the at-risk Western Purple Martin ( Progne subis arboricola )",
+      "abstract": "The Western Purple Martin (Progne subis arboricola) is an aerial insectivore of conservation concern throughout the Pacific Northwest in the continental USA. In contrast to the widely studied eastern subspecies (Progne subis subis), there is a paucity of information on Western Purple Martin life history and ecology. Aside from anecdotal observations, there is no information on prey use or diet of the Western Purple Martin. The Purple Martin belongs to a dietary guild—aerial insectivores—in which most member species are experiencing population declines. Knowledge of diet and environmental factors influencing prey is likely critical for informing conservation actions. Our objectives were to identify prey taxa and compare dietary composition between three ecosystems (coastal, freshwater, upland forest) used by breeding Western Purple Martins in western Oregon and southwest Washington. We collected and analyzed 164 fecal samples (ncoastal = 41, nfreshwater = 83, nuplandforest = 40) from Purple Martin nestlings in 2017. Fecal samples were collected upon removal from the nest. DNA metabarcoding, a minimally invasive method of identifying prey taxa, revealed that Diptera was the most frequently detected order in nestling diets in all ecosystem types. Larger flying insects like dragonflies (Odonata), bees, and wasps (Hymenoptera) were detected at higher frequency as nestlings grew in age and size. Western Purple Martins used a more taxonomically diverse array of arthropod prey items in freshwater ecosystems than in coastal and upland forest ecosystems. This may confer greater resistance to changes in prey availability for colonies in freshwater ecosystems compared with those in coastal and upland forest ecosystems. However, future studies on prey availability, prey use, and corresponding nestling survival rates are needed to identify the advantages and limitations of each of the three ecosystems as breeding habitat. Western Purple Martin population resiliency to environmental change will likely depend on conservation efforts to maintain food resources in all ecosystems.",
+      "doi": "10.1080/15594491.2026.2721756",
+      "authors": [
+        "Lorelle Sherman",
+        "Joan Hagar",
+        "Marie Tosa",
+        "Jennifer Allen",
+        "Taal Levi"
+      ],
+      "year": 2026,
+      "journal": "The Wilson Journal of Ornithology",
+      "openalex_id": "W7213279843",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213279843",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/12 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "The Western Purple Martin (Progne subis arboricola) is an aerial insectivore of conservation concern throughout the Pacific Northwest in the continental USA. In contrast to the widely studied eastern subspecies (Progne subis subis), there is a paucity of information on Western Purple Martin life history and ecology.",
+      "added": false
+    },
+    {
+      "title": "Mapping coastal forest retreat using convolutional neural networks and different satellite imagery",
+      "abstract": "Coastal forests are increasingly threatened by saturated soil and elevated salinity levels resulting from sea level rise, saltwater intrusion, and storm surges. In response to rising salinization and flooding, healthy coastal forests that rely on freshwater (both wetland forests and low-elevation upland forests) are transitioning into landscapes dominated by dead or dying trees, known as ghost forests. Situated among salt-tolerant shrubs and grasses, ghost forests eventually become marshes or open water. Here, our main objective was to quantify the dynamics and pathways of these forest landscape conversions, as well as the factors contributing to the changes, which is vital for understanding the progression of coastal ecosystem degradation and forecasting future changes. We focused first on identifying the best method to track forest landscape change by exploring the role of multiple remote sensing indices (i.e., multispectral, bi-seasonal, topographical, and phenological metrics) in enhancing the performance of deep learning models (convolutional neural networks, CNNs) for land cover classification in the coastal plain of North Carolina using surface reflectance of Landsat 8 and Sentinel-2 images. Then, we used the best available data (Landsat 8) to understand long-term change and identify patterns of land cover change from 1985 to 2021. Our study reveals that incorporating phenology and topographical indices enhances the separability of the ghost forests class from all other vegetation classes. In our assessment, the higher-resolution Sentinel-2 data (F1 Score = 96.3) outperformed Landsat images (F1 score = 93.4) for the 2021 co-available year. However, Landsat remains an important tool used due to its long-term data record. Therefore, we used Landsat to determine that 21% of forests were lost between 1985 and 2021, and that the rate of loss is increasing. Between 2010 and 2021, 23,876 ha of forest were converted to marsh, ghost forest, and shrub, which is 1.5 times higher than the 16,968 ha lost between 1985 and 2010. These conversions from forest to ghost forest and marshes were driven primarily by proximity to the channel, salinity, and the increasing rate of relative sea level rise (RSLR), which are the key environmental drivers of observed changes. By quantifying these changes, we highlight regions most vulnerable to environmental stressors, providing a basis for targeted conservation strategies.",
+      "doi": "10.1371/journal.pone.0357346",
+      "authors": [
+        "Tawakalitu Titilayo Tajudeen",
+        "Marcelo Ardón",
+        "Mirela Tulbure",
+        "Katherine L. Martin"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7213246924",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213246924",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/12 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Coastal forests are increasingly threatened by saturated soil and elevated salinity levels resulting from sea level rise, saltwater intrusion, and storm surges. In response to rising salinization and flooding, healthy coastal forests that rely on freshwater (both wetland forests and low-elevation upland forests) are tr…",
+      "added": false
+    },
+    {
+      "title": "Preparing to Fight the ‘Wrong War’? Why the UK Defence Budget Must Focus More on ‘National Resilience’",
+      "abstract": "Abstract This article argues that the current debate over defence spending in the United Kingdom is fundamentally flawed. Too much emphasis is being placed on preparing for a form of warfare with Russia that is unlikely to occur. As this article points out, the Russians actually want to avoid a traditional battlefield confrontation with NATO. But what the Russian military does want is to bring ‘war’ to the UK homeland. The UK is poorly prepared for such an eventuality. Defence spending needs to reflect this by significantly strengthening UK national resilience capacity.",
+      "doi": "10.1111/1467-923x.70123",
+      "authors": [
+        "Rod Thornton"
+      ],
+      "year": 2026,
+      "journal": "The Political Quarterly",
+      "openalex_id": "W7213257087",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213257087",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "Abstract This article argues that the current debate over defence spending in the United Kingdom is fundamentally flawed. Too much emphasis is being placed on preparing for a form of warfare with Russia that is unlikely to occur.",
+      "added": false
+    },
+    {
+      "title": "Long-Term Drought Variability in Southwestern Uganda: A Comparative Analysis of Ground and Satellite Rainfall Data for Mbarara",
+      "abstract": "This study analysed drought occurrence in Mbarara District using ground-based observations and satellite-derived rainfall estimates from the Climate Hazards Infrared Precipitation with Stations (CHIRPS) data (for the period 1981–2024) and the Climate Prediction Center Morphing Technique (CMORPH) datasets (1998–2023). A comparison between satellite-derived and in-situ rainfall data was performed using simple linear regression and error metrics, while seasonal trends were assessed using the non-parametric Mann-Kendall and Theil-Sen methods. Results show that CHIRPS strongly agrees with ground-based observations (R2 ∼ 0.93, RMSE ≈ 32.6 mm, PBIAS = 6.5%), while CMORPH exhibited weaker agreement (R2 ∼ 0.47, RMSE ≈ 42.9 mm, PBIAS = −17.0%). Drought characterisation using the Standardised Precipitation Index (SPI) reveals distinct drought episodes experienced during 1984–1993, 1999–2004, 2009–2013, 2017, and 2022–2024. Analysis of seasonal rainfall variability shows a non-significant decrease in rainfall during the September-October-November (SON) season. This study provides one of the longest station-satellite-validated drought analyses for southwestern Uganda using CHIRPS data. The observed patterns and episodic drought events highlight a need to strengthen adaptive strategies in agriculture and water resource management to mitigate the socioeconomic impacts of drought in the region.",
+      "doi": "10.37284/eajenr.9.3.5790",
+      "authors": [
+        "Tom Mutabazi",
+        "Upton Nuwagira",
+        "Valence Habyarimana",
+        "David Mubiru",
+        "Priscilla Muheki",
+        "Jackline Kampire",
+        "Yonah Ntegyerize",
+        "Emmanuel Munyarugero"
+      ],
+      "year": 2026,
+      "journal": "East African Journal of Environment and Natural Resources",
+      "openalex_id": "W7213236859",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213236859",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "This study analysed drought occurrence in Mbarara District using ground-based observations and satellite-derived rainfall estimates from the Climate Hazards Infrared Precipitation with Stations (CHIRPS) data (for the period 1981–2024) and the Climate Prediction Center Morphing Technique (CMORPH) datasets (1998–2023).",
+      "added": false
+    },
+    {
+      "title": "Conflict between farmers and Barbary macaques (Macaca sylvanus) in Northern Algeria: threats and conservation implications",
+      "abstract": "Abstract Human-wildlife conflict is a major challenge in conservation biology with ecological and socioeconomic consequences. The problem is particularly delicate when the animals involved are threatened with extinction and experiencing rapid habitat loss due to climate change and anthropogenic actions. Here, we examined crop-foraging on farms in Central North Algeria by the Endangered Barbary macaques ( Macaca sylvanus ) to understand the conflict severity. We surveyed 94 farmers to assess the seasonal pattern, occurrence, altitudinal pattern, and consequences of crop-foraging by the Barbary macaques. We found that the Barbary macaque was widely perceived by farmers as a “nuisance”, and one third of farms were abandoned due to severe crop loss. More than 50% of farms had their crops damaged between June and September. The probability of frequent crop-foraging was driven primarily by farm-scale characteristics and landscape context: Larger cultivated area were associated with greater crop-foraging frequency, while altitude and proximity to settlements showed weaker positive associations. Our results highlight the need for sustainable solutions to enhance the coexistence between humans and Barbary macaques in the region.",
+      "doi": "10.1038/s41598-026-71407-3",
+      "authors": [
+        "Mohammed Khalil Mellal",
+        "Abdelmadjid Chelli",
+        "Rabah Boutekrabt",
+        "Sarah E. Turner",
+        "Robert B. Weladji",
+        "Rassim Khelifa"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7213263442",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213263442",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Abstract Human-wildlife conflict is a major challenge in conservation biology with ecological and socioeconomic consequences. The problem is particularly delicate when the animals involved are threatened with extinction and experiencing rapid habitat loss due to climate change and anthropogenic actions.",
+      "added": false
+    },
+    {
+      "title": "Digital Return to Nature: Mapping the evolution of AI in landscape ecology",
+      "abstract": "Artificial intelligence (AI) is increasingly applied in landscape ecology (LE) to map land cover, quantify landscape patterns and configuration, model ecological connectivity, and assess disturbance regimes. However, the structural evolution of this emerging integration and its dominant research themes remain insufficiently mapped through quantitative, data-driven analyses. To address this gap, we synthesize the evolving interface between AI and LE through bibliometric analysis and transformer-based semantic topic modeling on a curated corpus of 1387 publications indexed in Scopus and the Web of Science Core Collection. Results reveal rapid growth in AI-enabled LE research in recent years, a modest but statistically significant positive association between team size and citation impact, and a steady increase in average authorship over time. Integrating evidence from keyword co-occurrence networks and transformer-based topic modeling, we observed a Digital Return to Nature pattern, indicating that despite the methodological transition toward deep learning, AI research continues to focus on core ecological themes, including forest ecosystems, biodiversity, habitat connectivity, and land-system dynamics. These findings highlight the growing role of AI in biodiversity conservation, ecosystem monitoring, urban planning, and land-system analysis, creating new opportunities for AI-driven decision support in adaptive landscape management and evidence-based environmental policy.",
+      "doi": "10.1016/j.ecoinf.2026.104046",
+      "authors": [
+        "Shraddha Tiwari",
+        "Thakur Dhakal",
+        "Tulsi Paudel",
+        "Cheng-Tang Pan",
+        "Mgimba Elizabeth Boniface",
+        "Wen-Ya Li",
+        "Gab‐Sue Jang",
+        "Sanghun Lee"
+      ],
+      "year": 2026,
+      "journal": "Ecological Informatics",
+      "openalex_id": "W7212399089",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212399089",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Artificial intelligence (AI) is increasingly applied in landscape ecology (LE) to map land cover, quantify landscape patterns and configuration, model ecological connectivity, and assess disturbance regimes.",
+      "added": false
+    },
+    {
+      "title": "Burn severity, vegetation degradation, and carbon storage loss in the Belemedik forest fire: implications for protected area management and post-fire restoration",
+      "abstract": "Purpose: This study evaluates the ecological impacts of the 9 September 2020 forest fire in the Kaleboynu area of Eskikonacık Neighborhood, Pozantı District, Adana Province, on the Çakıt Stream micro-watershed, which partially overlaps with Belemedik Nature Park. Using an integrated remote sensing approach, it assesses fire-induced changes in burn severity, vegetation structure, and carbon storage capacity to support post-fire restoration planning in a protected Mediterranean ecosystem.Methods: The study was conducted within the 9,783.06-ha Çakıt Stream micro-watershed. Cloud-free Sentinel-2A MSI Level-2A imagery acquired before (05.09.2020) and after the fire (15.09.2020) was used to calculate the Normalized Burn Ratio (NBR), Differenced NBR (dNBR), and Normalized Difference Vegetation Index (NDVI). Carbon storage was estimated using a nonlinear regression model relating NDVI to pixel-level carbon content. Spatial analyses were performed in ArcGIS 10.8.Findings: dNBR analysis showed that 92.49% (9,049.16 ha) of the watershed remained unburned or unchanged, while 725.92 ha was affected to varying degrees. NDVI results revealed losses of 330.65 ha of tree cover and 96.09 ha of shrub/grassland vegetation, accompanied by a 426.74 ha increase in bare surfaces. Total carbon storage declined from 105,465.71 tC to 105,450.25 tC, representing a loss of 15.46 tC (56.69 t CO₂e), primarily concentrated on forested slopes surrounding the Çakıt Stream valley.Conclusions: Although the wildfire affected only a limited portion of the watershed, it caused substantial biomass losses, disrupted vegetation continuity, and reduced carbon sequestration capacity. The concentration of damage on steep slopes indicates increased risks of erosion and surface runoff. Erosion control, restoration with pioneer and fire-adapted native species, and long-term remote sensing monitoring are recommended to support ecosystem recovery, restore habitat connectivity, and sustain ecosystem services.",
+      "doi": "10.46309/biodicon.2026.2000016",
+      "authors": [
+        "Nuriye Ebru Yıldız",
+        "Barış Kahveci",
+        "Tülay Ezer"
+      ],
+      "year": 2026,
+      "journal": "Biological Diversity and Conservation",
+      "openalex_id": "W7213299850",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213299850",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Purpose: This study evaluates the ecological impacts of the 9 September 2020 forest fire in the Kaleboynu area of Eskikonacık Neighborhood, Pozantı District, Adana Province, on the Çakıt Stream micro-watershed, which partially overlaps with Belemedik Nature Park.",
+      "added": false
+    },
+    {
+      "title": "Post-disturbance soil monitoring in forests using remote sensing: an evidence map",
+      "abstract": "Forest soils underpin ecosystem resilience and productivity but are increasingly threatened by natural and anthropogenic disturbances. Monitoring post-disturbance soil degradation at operational scales remains challenging in forests, where ground-signal obstruction and reliance on proxy indicators constrain remote sensing (RS) applications. To identify where RS can benefit soil monitoring and inform emerging reporting needs, we developed a structured evidence map of studies assessing post-disturbance forest soil degradation using RS methods. From 4338 records, 72 primary studies were synthesized across disturbance types, biomes, platforms, scales, and indicators. The evidence base is dominated by wildfire and harvesting, reflecting disturbance pathways that produce observable surface impacts. Multispectral satellite data remain the primary tool for mapping post-fire severity and erosion-related indicators, while LiDAR and stereo-photogrammetry are most often used to quantify surface deformation after harvest operations. Indicators tied to subsurface physical, chemical, or biological change remain sparsely represented due to observability limits. Overall, RS is most effective for mapping disturbance footprints, detecting surface-expressed indicators, and stratifying landscapes for targeted field assessment, rather than directly measuring soil properties. This evidence map clarifies the benefits and limits of RS, identifies persistent gaps, and highlights priorities for developing disturbance-aware soil-monitoring frameworks. It also clarifies which soil indicators are most consistently observable with RS and which require complementary approaches. By linking disturbance processes to observable indicators, this synthesis helps identify realistic RS-supported objectives that may inform future reporting frameworks within national forest monitoring and assessment programs.",
+      "doi": "10.5194/soil-12-885-2026",
+      "authors": [
+        "Maisy Roach-Krajewski",
+        "Xavier Giroux-Bougard",
+        "David Paré",
+        "Catlan Dallaire",
+        "Luc Guindon",
+        "Florian Jordan",
+        "Charlotte Norris",
+        "Kara Webster",
+        "Jérôme Laganière"
+      ],
+      "year": 2026,
+      "journal": "SOIL",
+      "openalex_id": "W7140718837",
+      "citation_count": 1,
+      "url": "https://openalex.org/W7140718837",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Forest soils underpin ecosystem resilience and productivity but are increasingly threatened by natural and anthropogenic disturbances. Monitoring post-disturbance soil degradation at operational scales remains challenging in forests, where ground-signal obstruction and reliance on proxy indicators constrain remote sens…",
+      "added": false
+    },
+    {
+      "title": "Climate Change and Disturbance Are Driving Systematic Shifts in Forest Composition and Cover Across Canada and Alaska",
+      "abstract": "Abstract. Forests in Canada and Alaska are being altered by climate change and disturbance. However, the nature, magnitude, and geography of these changes are poorly understood. Here, we use time series of remotely sensed imagery to show that 9.4 x 105 km2 (equivalent to nearly 11 per cent) of Canada and Alaska experienced changes in land cover between 1986 and 2020. The area occupied by needleleaf forests decreased, while broadleaf forests and shrublands expanded. Needleleaf forest loss was most prevalent in taiga forests where shrub cover has expanded, while gains in broadleaf forests were concentrated in warmer and moister regions. Land cover transitions after disturbance reveal climate- and ecoregion-specific recovery patterns that explain the expansion of broadleaf forests and shrubs that we observe. Our results provide evidence that climate change and disturbance are driving systematic shifts in forest and shrub cover across large expanses of Canada and Alaska.",
+      "doi": "10.5194/egusphere-2026-4090",
+      "authors": [
+        "Kai‐Ting Hu",
+        "Jonathan A. Wang",
+        "Xiaoran Zhu",
+        "Wanwan Liang",
+        "Douglas C. Morton",
+        "Jinhyuk Kim",
+        "James Randerson",
+        "Mark A. Friedl"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213264812",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213264812",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract. Forests in Canada and Alaska are being altered by climate change and disturbance. However, the nature, magnitude, and geography of these changes are poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Clean-air regulation reduces childhood wasting and overweight in China",
+      "abstract": "Whether large-scale air-quality policies improve child nutrition remains uncertain. Here we show that China’s Air Pollution Prevention and Control Action Plan reduces wasting and overweight among children under five. We use annual data from 2759 counties between 2005 and 2017 and a matched difference-in-differences design to evaluate the policy as a natural experiment. The policy is associated with a 0.760% reduction in wasting and a 3.950% reduction in overweight relative to control areas. Reductions in fine particulate matter explain an estimated 57.7% and 68.9% of these respective effects. The benefits are generally larger in northern regions, resource-based cities, and counties with greater initial pollution or stronger regulation. The policy also generates at least US$120.87 million in direct health-care savings across pilot areas. These findings provide population-level evidence that clean-air regulation improves early-childhood nutrition and suggest that coordinating air-quality management with child-health policy can deliver substantial health and economic benefits in highly polluted settings. In China, the rollout of clean-air regulation has reduced both wasting and overweight in early childhood, according to analyses of county-level health and pollution data.",
+      "doi": "10.1038/s43247-026-04061-2",
+      "authors": [
+        "Lili Xu",
+        "Kuishuang Feng",
+        "Meiting Fan",
+        "Shuai Shao",
+        "Laixiang Sun"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7213300875",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213300875",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Whether large-scale air-quality policies improve child nutrition remains uncertain. Here we show that China’s Air Pollution Prevention and Control Action Plan reduces wasting and overweight among children under five.",
+      "added": false
+    },
+    {
+      "title": "Towards foundation models for insurance risk modelling",
+      "abstract": "Claim narratives, images and sensor data contain information about insured risks that is difficult to use through existing actuarial models. Foundation models learn patterns from large datasets before being adapted to particular tasks. By turning these high-dimensional sources into variables or numerical representations, they could help insurers use more of the information they already collect, potentially reducing the experience needed to develop each application. For example, a language model could identify a worsening injury in a new claim note, allowing a reserving model to recognise the change in expected cost before the payments reveal the deterioration. In this paper, we review language, vision, geospatial, time series, tabular and scientific models, explaining existing insurance applications and potential future uses. Scientific models extend this approach to future weather and climate conditions: their simulations can inform loss estimates once local hazards are linked to asset damage, repair costs and insurance coverage. We propose a process to connect these model outputs to actuarial calculations and to assess their predictive contribution, stability and compliance with rules on information use. Evaluating these applications is difficult when final claim costs become known only after long delays, large losses are rare or patterns learned elsewhere fail to transfer to the target portfolio. Richer data can reveal private information and support finer risk classification, which can change access to insurance. Reusing the same models across insurers also creates dependence on shared predictions and providers.",
+      "doi": null,
+      "authors": [
+        "Christopher Blier-Wong"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7213371490",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213371490",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Claim narratives, images and sensor data contain information about insured risks that is difficult to use through existing actuarial models. Foundation models learn patterns from large datasets before being adapted to particular tasks.",
+      "added": false
+    },
+    {
+      "title": "Radiative impacts of a compound dust-and-rain-on-snow event in Michigan's upper peninsula",
+      "abstract": "Abstract Dust deposition and rain on snow events can significantly alter surface albedo and drive melt processes. When combined, they can become a powerful catalyst of rapid meltwater generation. A unique coupled dust and rain-on-snow event in March 2025 with dust sourced from the Central and Southern US Plains substantially altered the surface energy balance of snow in the Upper Peninsula of Michigan. Using a combination of field-based observations (spectral snow albedo, liquid water content, and snow depth) and radiative transfer modeling, we analyze the impact of this unique event on snowpack evolution. At the onset of rainfall, the broadband albedo dropped rapidly, starting at 0.65 prior to the event and reaching as low as 0.52 prior to fresh snowfall. When the dust-laden surface was exposed, we determined that the added radiative forcing due to dust presence could result in an additional melt of 4.5 - 7.8 mm water equivalent/day above expectation under observed ambient conditions. The peak radiative forcing of 105 W m -2 is comparable to other major dust events in the European Alps, which have similarly distant dust sources. To our knowledge, these are the first reported measurements of the radiative impacts of these dusty rain-on-snow events. As dust sources become more prevalent, this type of event may become more common around the globe. Even if short lived, the potential for rapid snowmelt enhanced by these events can cause flooding and hazards for infrastructure and are therefore important to understand for risk mitigation.",
+      "doi": "10.1088/1748-9326/aea7b5",
+      "authors": [
+        "A. C. Adolph",
+        "Ben Kopec",
+        "Shawn Brueshaber",
+        "Ana Dyreson",
+        "David Wallis",
+        "Nathaniel Miller",
+        "Katie Wing",
+        "Sam Hotchkiss",
+        "Cora Mullins"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7213263605",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213263605",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Dust deposition and rain on snow events can significantly alter surface albedo and drive melt processes. When combined, they can become a powerful catalyst of rapid meltwater generation.",
+      "added": false
+    },
+    {
+      "title": "Public Comment on the Proposed Amendment to the Fifth National Climate Assessment",
+      "abstract": "I write to oppose the proposed amendment as drafted. It should be rejected because its restrictions will exclude scientifically useful information from federal risk assessment. The amendment rests on two false premises: 1) that NCA5 presents RCP8.5 and SSP5-8.5 results as expected, baseline, or business-as-usual futures, and 2) that RCP8.5/SSP5-8.5 scenario runs are not useful for policy deliberations. As described here, neither of these premises is true. First, NCA5 accurately describes RCP8.5/SSP5-8.5 as very high emissions scenarios throughout the report. Second, because of uncertainty in many climate parameters (e.g., climate sensitivity), the temperatures produced under RCP8.5/SSP5-8.5 are a reasonable upper bound on what the future climate might be. These scenarios are therefore worth examining not as expected outcomes but as plausible worst cases. Eliminating RCP8.5/SSP5-8.5 therefore commits one of the cardinal sins of risk assessment: assuming the worst case will not occur. In addition, NCA5 frequently uses these scenarios in global-warming-level analysis, which evaluates impacts at different levels of warming but makes no claim about how likely any level of warming is. Overall, removing RCP8.5/SSP5-8.5 analyses would strip sound science from the assessment and make it harder for U.S. policymakers to evaluate the risks of climate change.",
+      "doi": "10.22541/essoar.15008746/v1",
+      "authors": [
+        "A. E. Dessler"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7212572100",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212572100",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "I write to oppose the proposed amendment as drafted. It should be rejected because its restrictions will exclude scientifically useful information from federal risk assessment.",
+      "added": false
+    },
+    {
+      "title": "Inside the Extinction Envelope: A Systemic Review and Meta-Analysis of Paleoclimate Extinction Markers with Comments on the Necessary Array of Last-Threshold Interventions",
+      "abstract": "Every element of the causal chain that produced the five largest mass extinctions of the last half-billion years is presently active in the Earth system. The rate of the modern perturbation exceeds every peer-reviewed paleoclimate reference case. A six-intervention portfolio, deployed together at wartime industrial scale beginning now, is the physically necessary and sufficient response. The window in which that portfolio remains fully effective closes between 2028 and 2040. The anthropogenic-versus-feedback tipping point is expected between 2035 and 2040; corrected for the at-least-order-of-magnitude higher rate of contemporary carbon release, loss of agency — the point at which coordinated intervention can no longer arrest the cascade — arrives 200 to 400 years after feedback engagement under sustained portfolio deployment, and collapses onto the tipping point itself under any scenario in which the portfolio is not deployed within the 2028–2040 window.",
+      "doi": "10.31223/x5h214",
+      "authors": [
+        "Christian Komor"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213106356",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213106356",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Every element of the causal chain that produced the five largest mass extinctions of the last half-billion years is presently active in the Earth system. The rate of the modern perturbation exceeds every peer-reviewed paleoclimate reference case.",
+      "added": false
+    },
+    {
+      "title": "A Global Dataset of Surface NO2 Estimation Based on Machine Learning Using Process-based Information",
+      "abstract": "Nitrogen dioxide (NO 2 ) is a key air pollutant associated with numerous adverse human and environmental health outcomes, yet globally consistent, fine-resolution long-term surface NO 2 datasets remain scarce due to the shortcomings of available data sources and the complex relationships between emissions and surface NO 2 concentrations. Here, we improve estimates of global monthly surface NO 2 concentrations at fine spatial resolution (0.01° × 0.01°) over 2005–2023 by developing, optimizing, and applying a highly efficient gradient boosting decision tree (LightGBM) framework underpinned with multi-source datasets, including geophysical process-based a priori information that leverages simulations with the GEOS-Chem chemical transport model, road‐network metrics, land‐cover features, and other relevant environmental predictors over 2005–2023. Evaluated against 9,913 ground monitors across 66 countries, the machine learning model achieves significant agreement for the benchmark year 2023 with 10-fold spatial cross-validation for monthly surface NO 2 estimates ( \\({R}^{2}\\) = 0.82, RMSE = 2.34 ppb, slope = 0.97), and similar long-term performance over 2005–2023 ( \\({R}^{2}\\) = 0.76, RMSE = 3.42 ppb, slope = 0.97). We apply Buffered Leave Isolated Sites and Clusters Out (BLISCO) spatial cross-validation to rigorously account for spatial autocorrelation, finding that traditional spatial cross-validation overestimates performance over unmonitored areas and that process-based physical and chemical information from chemical transport model (GEOS-Chem) simulations significantly improves R 2 by 20% globally. Global per-pixel uncertainty quantification indicates that this dataset provides NO 2 estimates with median relative uncertainty of 35% and absolute uncertainty of 1.81 ppb. This 19-year fine-resolution global NO 2 dataset with a consistent methodology, process-based information, rigorous validation and uncertainty quantification offers a valuable resource for quantifying the magnitude, spatial patterns, long-term trends and impacts of global NO 2 exposure.",
+      "doi": "10.1038/s41597-026-08329-2",
+      "authors": [
+        "Yu Yan",
+        "Siyuan Shen",
+        "Yuanjian Zhang",
+        "Chi Li",
+        "Haihui Zhu",
+        "Deepangsu Chatterjee",
+        "Inderjeet Singh",
+        "Randall V. Martin"
+      ],
+      "year": 2026,
+      "journal": "Scientific Data",
+      "openalex_id": "W7213347177",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213347177",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Nitrogen dioxide (NO 2 ) is a key air pollutant associated with numerous adverse human and environmental health outcomes, yet globally consistent, fine-resolution long-term surface NO 2 datasets remain scarce due to the shortcomings of available data sources and the complex relationships between emissions and surface N…",
+      "added": false
+    },
+    {
+      "title": "Needing a quick fix? Exploring the potential of pre-fire fertilization to mitigate fire severity in ponderosa pine saplings",
+      "abstract": "Abstract Background Under shifting fire regimes, forested ecosystems within the western US are predicted to experience a shorter time interval between wildland fire events, leading to increased fire exposure to younger tree cohorts. Consequently, the assessment of silvicultural approaches to help increase the resistance of these younger trees to wildland fires may help inform land management actions to promote growth and sustain healthy forests. Methods We assessed the structural overshoot hypothesis in the context of vegetation fire severity by applying supplemental fertilizer to Pinus ponderosa saplings in advance of experimental fires. We explored three different treatments: no fertilizer, 7 weeks prior to fires, and 1 week prior to fire. We then used pyro-ecophysiology experiments to assess whether saplings subjected to fertilization treatments differed from untreated control groups across a range of fire intensities and assessed post-fire growth, physiology, tissue nutrient content, and mortality. Results We demonstrated that the addition of nitrogen, either 1 week or 7 weeks prior to the fires, did not change the relationship between fire intensity and percentage mortality observed in the unfertilized fire treatments. Fertilization across all groups caused a decline in pre-fire leaf area and caused a more rapid decline of the change of chlorophyll fluorescence post-fire in the highest intensity treatment. Separability in the spectral indices were pronounced in the 7-week fertilization treatment, suggesting cellular changes occurred over this period. The 0.8 MJ m −2 FRE level that was associated with 100% mortality across all treatments was associated with increases in root aluminum concentrations. Conclusions Pre-fire fertilization does not increase resistance to fire-induced mortality in ponderosa pine saplings, but this should be evaluated in other species with improved ability to effectively use supplemental nutrients. Further research is also warranted to assess how fertilization is altering the physiology properties of saplings and how this in turn impacts fire effects under fires of varying intensity. The increase in root aluminum concentration in the 0.8 MJ m −2 treatment may indicate an additional mechanism contributing to fire-induced tree mortality, but this should be reassessed in a variety of soil mediums. Further research is warranted to assess this mechanism and other soil chemistry processes and characteristics (e.g., pH) that may affect nutrient uptake and post-fire survival and recovery.",
+      "doi": "10.1186/s42408-026-00579-0",
+      "authors": [
+        "Scott W. Rainsford",
+        "Roshan  P. Bhatta",
+        "L. May Brown",
+        "Mark Kimsey",
+        "David R. Wilson",
+        "Li Huang",
+        "Henry D. Adams",
+        "Aaron M. Sparks",
+        "Benjamin Whipple",
+        "Daniel M. Johnson",
+        "Alistair M S Smith"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7213139200",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213139200",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Background Under shifting fire regimes, forested ecosystems within the western US are predicted to experience a shorter time interval between wildland fire events, leading to increased fire exposure to younger tree cohorts.",
+      "added": false
+    },
+    {
+      "title": "Tangled problems, tacit frames: understanding drought management in Montana forests, USA",
+      "abstract": "Globally, drought poses a critical threat to forest ecosystems, with increasingly severe, compounding impacts that transform these ecosystems and their management. U.S. state and federal forest management professionals face challenges in planning for and proactively adapting to drought risk; this paper explores the social and institutional barriers and opportunities they encounter. We use framing analysis to examine the rules and norms that influence the perceptions and actions of institutional actors. This study integrates interview and survey results using a mixed-methods approach to explore ecological drought management in Montana forests. We examine how forest management professionals frame the challenges of drought management and the systems and structures needed to manage it effectively. The study offers new insights into how public U.S. forest management organizations frame drought-related problems, and how conflicting frames and logics might be managed to better adapt to future drought risk.",
+      "doi": "10.1007/s42532-026-00268-x",
+      "authors": [
+        "Tonya Haigh",
+        "Hannah Stewart",
+        "Evelynn Sale Rhodes",
+        "Brennan Radulski",
+        "Jamie McEvoy",
+        "Kristin Floress",
+        "Sarah Church",
+        "Deborah Bathke"
+      ],
+      "year": 2026,
+      "journal": "Socio-Ecological Practice Research",
+      "openalex_id": "W7213241717",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213241717",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Globally, drought poses a critical threat to forest ecosystems, with increasingly severe, compounding impacts that transform these ecosystems and their management. U.S.",
+      "added": false
+    },
+    {
+      "title": "Climate disasters and the resilient design of public-private partnerships: Evidence from developing and emerging economies",
+      "abstract": "Type of the article: Research ArticleAbstractClimate disasters increasingly damage infrastructure financed through public-private partnerships (PPPs), yet little is known about how such shocks reshape PPP markets. This paper aims to determine how climate disasters and national adaptation readiness affect PPP activity and design in developing and emerging economies. The analysis uses a balanced panel of 129 economies (2000–2024) with 8,213 PPP financial closures from the World Bank PPI Database merged with the Notre Dame Global Adaptation Initiative index, the EM-DAT international disaster database, and World Bank governance and development indicators, and estimates two-way fixed-effects linear and Poisson pseudo-maximum-likelihood models, with damage and GDP in current US dollars. Neither average damage nor major disasters (damage of at least 1% of GDP) show a robust association with the number of closures; post-event coefficients are negative but mostly insignificant, no pre-event decline is detected, and placebo event dates yield estimates of similar size. A positive coefficient at catastrophic levels (at least 5% of GDP) rests on a single episode and is not read as a reconstruction surge. Project composition does respond. After major disasters, the number of non-renewable closures falls by about 38% (p < 0.001), and by more where readiness is low, while renewable closures are unchanged. A one-standard-deviation improvement in regulatory quality is associated with a 12.6-percentage-point higher probability of a PPP closure (p < 0.01) and roughly 131% larger investment (p < 0.001). Case profiles of Armenia, Kazakhstan, and Ukraine reflect the same dominance of institutions. Regulatory strengthening and standby pipelines that keep conventional deals alive through disaster windows are the main levers for disaster-proofing PPP programs.AcknowledgmentsThis study was conducted within the framework of the research project “Digitalization of the Public-Private Partnership System as a Driver of the State’s Economic Security in the War and Post-War Periods” (state registration No. 0126U000543), funded by the Ministry of Education and Science of Ukraine.",
+      "doi": "10.21511/ee.17(3).2026.13",
+      "authors": [
+        "Aigul Bakirbekova",
+        "NAREK KESOYAN",
+        "Олексій Олександрович Захаркін",
+        "Volodymyr Khomanets",
+        "Наталія Ковшун",
+        "Mykhaіlo Pyrtko",
+        "Юлія Перегуда"
+      ],
+      "year": 2026,
+      "journal": "Environmental Economics",
+      "openalex_id": "W7213291466",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213291466",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Type of the article: Research ArticleAbstractClimate disasters increasingly damage infrastructure financed through public-private partnerships (PPPs), yet little is known about how such shocks reshape PPP markets.",
+      "added": false
+    },
+    {
+      "title": "Adaptation to Climate Change",
+      "abstract": "Adaptation to Climate Change argues that policy and practice on adaptation must address social justice. Without this, we risk drifting into a better adapted but more unequal world. The first edition of this book made a case for adaptation to be seen as part of development, a logic which is now widely accepted in academia and with many practical applications. The frontline in the relationship between adaptation and development has shifted and is now less about vision and more about policy context and practical action. Fully updated and revised in its second edition, this book argues that, without care, adaptive actions can deny the deeper political and cultural roots that call for significant change in social and political relations. The authors present a framework for making sense of the range of choices facing humanity, structured around resilience (stability), transition (incremental social change and the exercising of existing rights) and transformation (new rights claims and changes in political regimes). The resilience–transition–transformation framework is supported by three detailed case study chapters. These also illustrate the diversity of contexts where adaption is unfolding, from organizations to urban governance and the national polity. Content new to this edition includes: Fully updated chapters to reflect advances and recent scholarly debate in climate change adaptation research, policy and practice. Each chapter is now accompanied by discussion questions to facilitate critical engagement. Integration of recent IPCC Assessment Report insights, examining economic dimensions of climate impacts, climate finance and targeted adaptation through vulnerability, exposure and adaptive capacity. Updated international case studies throughout to elucidate theory. This book provides a comprehensive analysis of the social dimensions of climate change adaptation. Written in an engaging style, it provides detailed theoretical and empirical chapters and serves as an invaluable reference for undergraduate and postgraduate students interested in climate change, geography and development studies.",
+      "doi": "10.4324/9781003164067",
+      "authors": [
+        "Mark Pelling",
+        "Tanvi Deshpande"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213266401",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213266401",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Adaptation to Climate Change argues that policy and practice on adaptation must address social justice. Without this, we risk drifting into a better adapted but more unequal world.",
+      "added": false
+    },
+    {
+      "title": "Predictors of economic performance of sheep meat farms",
+      "abstract": "The sheep sector is suffering an important decline in recent years and it is necessary to ensure its economic viability in order to guarantee its continuity. The main objective of this work was to determine the structural, technical and economic variables that best predicted the economic performance of a sample of sheep farms. Assuming that there were different types of farms, a typification was also carried out to find out whether the predictor variables differed between the groups. Eleven structural, technical and economic variables were studied in a sample of 126 Aragonese farms (Spain) over the period 1993-2016, and several statistical analyses were carried out: Factor Analysis, Cluster Analysis and Multiple Linear Regression. From the result of the typification, three groups of farms were obtained that can define three production systems differentiated mainly by the productive structure, and the degree of intensification of production. It was observed that different farm management could lead to the same economic results. Labour intensification followed by the number of lambs sold per ewe per year were the indicators with the highest positive predictive power on economic results, while feed cost per ewe was the variable with the highest negative predictive power, in all cases with no differences between groups.",
+      "doi": "10.5424/sjar/2026242-21226",
+      "authors": [
+        "Louiza Chekmam",
+        "María T. Maza",
+        "L. Pardos"
+      ],
+      "year": 2026,
+      "journal": "Spanish Journal of Agricultural Research",
+      "openalex_id": "W7213292528",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213292528",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "The sheep sector is suffering an important decline in recent years and it is necessary to ensure its economic viability in order to guarantee its continuity. The main objective of this work was to determine the structural, technical and economic variables that best predicted the economic performance of a sample of shee…",
+      "added": false
+    },
+    {
+      "title": "Fire modulates millennial plant community assembly",
+      "abstract": "How ecological communities maintain resilience under recurrent disturbance remains unclear because the processes governing persistence often unfold over centuries to millennia. Using fossil pollen and charcoal records spanning up to 14,000 years from mountain ecosystems in Europe and Africa, we reconstructed temporal networks of community predictability to investigate the role of fire in long-term plant community assembly. Across both records, high-fire periods produced denser and more centralised communities dominated by a small number of highly connected taxa, whereas low-fire periods promoted more differentiated structures consistent with niche partitioning. Fire thus repeatedly reorganised communities along a continuum from differentiated to synchronised assembly modes. Despite these pronounced shifts, communities retained a robust giant connected component throughout the records, indicating persistent whole-community coherence. Our results suggest that long-term resilience arises not from compositional stability but from the capacity of communities to reorganise their internal relationships while maintaining an integrated architecture. This framework identifies mechanisms linking disturbance, community assembly and resilience across millennial timescales and provides a baseline for assessing ecosystem responses to ongoing global change.",
+      "doi": "10.32942/x2b97g",
+      "authors": [
+        "Pablo Valgañón-Ruiz",
+        "Alessio Cardillo",
+        "Ana Cano",
+        "Hugo Sáiz",
+        "Adam Thomas Clark",
+        "David García‐Callejas",
+        "Lena Neuenkamp",
+        "Cristina Ramos‐Capón",
+        "Penélope González-Sampériz",
+        "Graciela Gil-Romera"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213084274",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213084274",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "How ecological communities maintain resilience under recurrent disturbance remains unclear because the processes governing persistence often unfold over centuries to millennia.",
+      "added": false
+    },
+    {
+      "title": "Mapping the intellectual structure of governance, bureaucracy, and disaster risk reduction: a science mapping and integrative systematic evidence synthesis",
+      "abstract": "Introduction This study examines the intellectual structure and substantive evidence of research on governance, bureaucracy, and disaster risk reduction (DRR), addressing the conceptual fragmentation of scholarship across disaster studies, sustainability, public health, environmental governance, and public administration. Methods A hybrid review design combining systematic review procedures, science mapping, and integrative systematic evidence synthesis was employed. Using Scopus as the sole database, 629 records were identified, of which 123 studies were retained for full-text analysis following PRISMA-guided screening and eligibility assessment. Results The field has expanded rapidly since 2015 but remains intellectually plural and conceptually fragmented. Science mapping identifies disaster management, DRR, resilience, governance, implementation, and collaboration as major intellectual and conceptual anchors. The integrative synthesis indicates that DRR outcomes are shaped by interactions among institutional and bureaucratic conditions, governance mechanisms, and implementation processes. Recurrent mechanisms include administrative capacity, interagency coordination, collaborative governance, multilevel alignment, policy mainstreaming, and adaptive learning. Discussion The study develops an integrative framework and evidence-based propositions that reposition bureaucracy as a central explanatory domain in DRR scholarship and support a more cumulative, mechanism-oriented research agenda.",
+      "doi": "10.3389/fpos.2026.1864808",
+      "authors": [
+        "Roni Ekha Putera",
+        "Tengku Rika Valentina",
+        "Nika Saputra",
+        "Rizki Afri Mulia",
+        "Dion Eriend"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Political Science",
+      "openalex_id": "W7213245192",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213245192",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Introduction This study examines the intellectual structure and substantive evidence of research on governance, bureaucracy, and disaster risk reduction (DRR), addressing the conceptual fragmentation of scholarship across disaster studies, sustainability, public health, environmental governance, and public administrati…",
+      "added": false
+    },
+    {
+      "title": "The Limits of Incumbent Blame Games in Times of Crisis: Experimental Evidence from Electoral Autocracy",
+      "abstract": "Abstract This study investigates how blame-attributing crisis frames influence support for incumbents in an electoral authoritarian context, focusing on Türkiye. It asks how, to what extent, and under what conditions incumbents’ blame frames shape public attitudes toward the government. The study examines four crisis types (i.e., global warming , earthquake , economic collapse , and pandemic ) and compares the effects of religious , conspiratorial , and scientific framing across these contexts. Drawing on original data from seven pre-survey focus groups and a nationwide face-to-face survey experiment with 3,562 respondents, the findings indicate that the independent effects of blame frames are generally limited. However, the effectiveness of religion-based blame framing is highly context dependent. Compared with climate and economic crises, its estimated effects are more favorable in crises characterized by high uncertainty and relatively low perceived governmental responsibility, such as earthquake and pandemic. These findings suggest that the effectiveness of blame attribution is conditioned by the nature of the crisis itself. The study contributes to research on crisis framing, political accountability, and authoritarian durability.",
+      "doi": "10.1007/s11109-026-10203-1",
+      "authors": [
+        "Zeki Sarıgil",
+        "Aysenur Dal"
+      ],
+      "year": 2026,
+      "journal": "Political Behavior",
+      "openalex_id": "W7213249910",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213249910",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract This study investigates how blame-attributing crisis frames influence support for incumbents in an electoral authoritarian context, focusing on Türkiye. It asks how, to what extent, and under what conditions incumbents’ blame frames shape public attitudes toward the government.",
+      "added": false
+    },
+    {
+      "title": "Knowledge co-production and co-dissemination for climate change adaptation: insights based on Chokwe district, Mozambique",
+      "abstract": "Climate change demands proactive discussions among stakeholders to jointly produce and disseminate knowledge that addresses local needs and informs policies. Research on how these stakeholders’ knowledge co-creation platforms operate considering the ecological and socioeconomic dynamics remains limited. This research attempts to fill this gap by studying knowledge co-production and co-dissemination for climate change adaptation in the Chokwe district, Mozambique. It uses qualitative data drawn from 9 focus group discussions and 70 semi-structured interviews. Research findings show that everyday conversations, community meetings with externals, field visits and training programs are platforms of knowledge co-creation. Throughout these platforms, horizontal co-dissemination occurs with one-to-one conversations and neighbourhood meetings. Vertical co-dissemination is observed in disaster management bureaucratic settings, followed, for example, by extension workers in their interactions with other formal entities and farmers. Transversal co-dissemination involves cross-sectorial stakeholders collaborating trough community meetings and training programs. Then, television and radio were indicated as key additional tools informing people about climate change and disasters, albeit primarily through unilateral arrangements. Furthermore, knowledge co-creation differs across spatial and temporal contexts. In disaster prone areas, it focuses on climate adaptation. Meanwhile, in non vulnerable areas, development based knowledge co-creation dominates. The decision making process depend on how local population see and trust certain collaborative outcome. Overall, co-creation platforms for climate change adaptation involve both top-down and bottom-up perspectives since the knowledge from outside stakeholders reaches local communities and vice versa. Nevertheless, this is not empty of power struggles, exclusions, institutional learning, and other dynamics. Therefore, co-creation initiatives should forge structural transformations, generating solid partnerships, strategic, sustainable, longer, inclusive, and accountable adaptation programs.",
+      "doi": "10.3389/fclim.2026.1935074",
+      "authors": [
+        "M. Jonas",
+        "Luís Artur",
+        "Siri Hallstrøm Eriksen"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7213303041",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213303041",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Climate change demands proactive discussions among stakeholders to jointly produce and disseminate knowledge that addresses local needs and informs policies. Research on how these stakeholders’ knowledge co-creation platforms operate considering the ecological and socioeconomic dynamics remains limited.",
+      "added": false
+    },
+    {
+      "title": "Toward a Self Organizing Literature Review: An Application to the Financial Impacts of Physical Climate Risks",
+      "abstract": "Traditional literature reviews rely on selective reading and thematic categorization, a process that is both time-consuming and prone to subjective bias. As scientific fields expand and methodological fragmentation increases, researchers face a growing challenge: how to organize and compare a heterogeneous body of work without losing precision or reproducibility. This paper introduces the Self Organizing Literature Review (SOLR), a data-driven framework that encodes, clusters, and visualizes a corpus of empirical articles according to the models they contain, rather than the topics they discuss. The SOLR maps the structure of the field itself. The framework combines a systematic encoding protocol, in which each article is described by a set of standardized variables capturing its physical proxies, financial indicators, method, and end-user, with two complementary unsupervised learning techniques: self organizing map (SOM) (Kohonen, 1982) and variational autoencoders (VAE) (Kingma and Welling, 2013). Applied to a Burt matrix derived from a complete disjunctive table, the SOM produces a topologically consistent two-dimensional grid of methodological families. The VAE provides a continuous latent-space projection to reveal transitions between research communities that discrete clustering would obscure. We demonstrate the framework on a corpus of 150 peer-reviewed articles addressing the financial impacts of physical climate risks, a field characterized by precisely the kind of disciplinary fragmentation the SOLR is designed to address. The resulting maps reveal coherent clusters corresponding to actuarial catastrophe modeling, banking credit-risk frameworks, market-based valuation approaches, and hybrid models, while exposing geographic biases, methodological blind spots, and underexplored intersections between disciplines. The SOLR offers three properties that conventional reviews lack: reproducibility, since the encoding and clustering steps are algorithmic and can be audited; updatability, since new publications can be integrated into the map without repeating the full review; and comparability, since the position of each article in the latent space can reflect its methodological content. The approach requires low computational resources and is applicable to any interdisciplinary corpus where model diversity is a challenge.",
+      "doi": "10.65701/edrswwwgnw",
+      "authors": [
+        "Paul Vigneron",
+        "Vincent Vigneron"
+      ],
+      "year": 2026,
+      "journal": "The Paris Journal on AI & Digital Ethics",
+      "openalex_id": "W7213080760",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213080760",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Traditional literature reviews rely on selective reading and thematic categorization, a process that is both time-consuming and prone to subjective bias. As scientific fields expand and methodological fragmentation increases, researchers face a growing challenge: how to organize and compare a heterogeneous body of work…",
+      "added": false
+    },
+    {
+      "title": "Nurturing people and planet: the role of breastfeeding in climate mitigation and adaptation",
+      "abstract": "Infant feeding practices have environmental consequences that are largely absent from climate policy discussions. Breastfeeding relies on maternal metabolism and local support systems, whereas commercial milk formula depends on dairy production, industrial processing, packaging, and extensive supply chains. Comparative analyses report higher greenhouse-gas and water burdens for commercial milk formula than for breastfeeding. Globally, commercial milk formula use among infants under 6 months of age adds roughly 5.9-7.5 billion kg of carbon dioxide equivalent annually. Pumping and bottle-feeding add material, electricity, and cleaning-related burdens relative to feeding at the breast, but available evidence generally indicates lower impacts than commercial milk formula, although estimates depend strongly on assumptions about maternal diet and pumping practices. Climate change and water insecurity can also threaten breastfeeding through heat stress, food insecurity, and disruptions during disasters and emergencies. Moreover, uncontrolled formula donations during upheavals, while well-intended, impede continuation of breastfeeding. Collectively, these pressures can generate a reinforcing feedback loop: climate shocks undermine breastfeeding, increasing reliance on resource-intensive substitutes that further strain water and energy systems. Recognizing breastfeeding as both a mitigation and resilience issue highlights co-benefits for maternal and child health and climate action and points to practical policy levers, including paid maternity leave, workplace lactation protections, responsible marketing of commercial milk formula, and continuity of lactation support during emergencies that are needed to align optimal infant feeding with climate adaptation planning.",
+      "doi": "10.3389/fsufs.2026.1919608",
+      "authors": [
+        "Justin E. Silpe",
+        "Karla Damian-Medina",
+        "Sarah M. Reyes",
+        "Bonnie L. Bassler"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Sustainable Food Systems",
+      "openalex_id": "W7213291957",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213291957",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Infant feeding practices have environmental consequences that are largely absent from climate policy discussions. Breastfeeding relies on maternal metabolism and local support systems, whereas commercial milk formula depends on dairy production, industrial processing, packaging, and extensive supply chains.",
+      "added": false
+    },
+    {
+      "title": "Space Science and Technology for Sustainable Development and Climate Resilience in Africa: A Review of Emerging Applications and Challenges",
+      "abstract": "This study undertakes a systematic review to examine the role of space science and technology in addressing Africa’s pressing challenges in agriculture, water management, disaster resilience, urbanization, and digital inclusion. Evaluating how Earth Observation, satellite navigation, and communication technologies contribute to achieving the Sustainable Development Goals (SDGs) being its main objective. The review draws on secondary sources, including peer‑reviewed journals, space agency reports, and global datasets, with content analysis employed to identify thematic applications and emerging trends. The analysis highlights major themes: precision agriculture, groundwater mapping, urban growth monitoring, disaster early warning systems, climate adaptation, natural resource conservation, and digital inclusion. Case studies from Kenya, Nigeria, Ethiopia, Rwanda, and Mozambique demonstrate measurable benefits, including strengthened food security, improved water resource management, guided infrastructure planning, and enhanced resilience to climate‑induced hazards. Institutional initiatives by the National Space Research and Development Agency (NASRDA) in Nigeria and the African Space Agency further illustrate Africa’s growing commitment to harnessing space technologies for socio‑economic transformation. Despite these advances, more still needs to be done to meet the international standard. Persistent barriers affecting Africa include limited funding, dependence on external datasets, and shortages of technical expertise, which constrain the scalability and sustainability of interventions. Future directions should prioritize investment in indigenous satellite missions, expansion of STEM education, and regional cooperation to build capacity and ensure data sovereignty. Overall, the review underscores that space science offers Africa a strategic pathway to resilience, innovation, and inclusive growth, positioning the continent to accelerate progress toward the SDGs and secure a sustainable future.",
+      "doi": "10.62292/njp.v35(s).2026.731",
+      "authors": [
+        "Rufus Oladosu Olakunle",
+        "Abdulrahman Adegbite",
+        "Harry Obimba",
+        "Tosin Awotoye",
+        "Linda Abegunde",
+        "Jamiu Taiwo Aileru"
+      ],
+      "year": 2026,
+      "journal": "Nigerian Journal of Physics",
+      "openalex_id": "W7213235414",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213235414",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "This study undertakes a systematic review to examine the role of space science and technology in addressing Africa’s pressing challenges in agriculture, water management, disaster resilience, urbanization, and digital inclusion.",
+      "added": false
+    },
+    {
+      "title": "Using Probability Theory to Assess and Mitigate Risks in Global Supply Chains for Internationally Traded Goods and Services",
+      "abstract": "Global supply chains that support internationally traded goods and industrial services have become increasingly vulnerable to disruptions arising from geopolitical conflicts, economic uncertainty, climate-related disasters, cybersecurity threats, and transportation bottlenecks. These disruptions have exposed the limitations of conventional risk management approaches and created a growing need for quantitative methods capable of predicting uncertainty and supporting evidence-based decision making. Probability theory offers a rigorous analytical framework for assessing disruption likelihoods and improving supply chain resilience. This study investigates the application of probability theory in assessing and mitigating risks across global supply chains for internationally traded goods and services. A mixed-methods research design was employed, integrating Monte Carlo simulation, Bayesian networks, chi-square testing, Pearson correlation analysis, and multiple regression analysis to evaluate major supply chain risk factors and their operational impacts. The findings indicate that supply chain disruptions are not evenly distributed across regions, with North America and Europe experiencing the highest disruption frequencies, confirmed by the Chi-square test (χ² = 43.27, p < 0.01). Monte Carlo simulation showed that high-risk disruption events occur with probabilities ranging from 20% to 60%. Multiple regression analysis identified geopolitical risks (β = 1.50), economic downturns (β = 1.20), and supply chain congestion (β = 1.80) as the strongest predictors of supply chain disruptions (R² = 0.78, p < 0.001). Pearson correlation analysis further demonstrated a strong positive relationship between disruption frequency and economic losses (r = 0.85, p < 0.001). The study concludes that integrating probability-based analytical models significantly improves risk prediction, decision quality, and supply chain resilience. It recommends the adoption of real-time data analytics, artificial intelligence-driven forecasting, digital technologies, and collaborative risk-sharing mechanisms to strengthen the resilience of global supply chains for internationally traded goods and services.",
+      "doi": "10.3126/juem.v4i1.100071",
+      "authors": [
+        "M. Vasuki",
+        "A. Dinesh Kumar",
+        "Mbonigaba Celestin",
+        "Michael Marttinson Boakye",
+        "Llyod Zulu",
+        "Osman Mohamed Hassan"
+      ],
+      "year": 2026,
+      "journal": "Journal of UTEC Engineering Management",
+      "openalex_id": "W7213343197",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213343197",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Global supply chains that support internationally traded goods and industrial services have become increasingly vulnerable to disruptions arising from geopolitical conflicts, economic uncertainty, climate-related disasters, cybersecurity threats, and transportation bottlenecks.",
+      "added": false
+    },
+    {
+      "title": "Using Genomics to Inform Management of Tree Populations in a Warming World",
+      "abstract": "Abstract Tree populations are threatened by a multitude of human activities ranging from deforestation to air pollution. Rapid climate change, including warmer temperatures and increased drought frequency, poses a particular threat by reducing photosynthesis and growth, increasing susceptibility to pests and disease, and intensifying risk of mortality. To maintain healthy forests in the future, resource managers could benefit from practical tools to identify vulnerable populations and select appropriate seed sources for restoration and reforestation. In this paper, we outline four recently developed genomic approaches that can help guide these assessments. First, combining long-term growth data from provenance studies with genetic information makes it possible to identify traits associated with better performance under warmer climates, allowing managers to select climate-adapted planting material. Second, analyzing how genetic variation changes across climate gradients can highlight which tree stands may be most at risk under future conditions. Third, experimental studies on seedlings can identify genes involved in stress responses, improving our ability to predict how different populations will respond to climate change. Fourth, epigenetic markers, which are chemical changes to DNA that can influence gene activity, may provide early indicators of stress that may help identify vulnerable populations and resilient seed sources. As climate change accelerates, these genomic and computational tools offer new opportunities for informed, forward-looking management strategies for forest conservation and restoration.",
+      "doi": "10.1007/s44392-026-00115-7",
+      "authors": [
+        "Victoria L. Sork",
+        "Ryan Buck",
+        "Lily D. Peck"
+      ],
+      "year": 2026,
+      "journal": "Journal of Forestry",
+      "openalex_id": "W7213306038",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213306038",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Tree populations are threatened by a multitude of human activities ranging from deforestation to air pollution. Rapid climate change, including warmer temperatures and increased drought frequency, poses a particular threat by reducing photosynthesis and growth, increasing susceptibility to pests and disease, a…",
+      "added": false
+    }
+  ]
+}
