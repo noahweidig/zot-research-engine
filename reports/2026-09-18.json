@@ -1,0 +1,504 @@
+{
+  "date": "2026-09-18",
+  "statistics": {
+    "fetched": 164,
+    "duplicates_removed": 144,
+    "evaluated": 20,
+    "added": 0,
+    "ignored": 20,
+    "average_score": 1.65
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Western amazon 2020 extreme heatwave",
+      "abstract": "Abstract Between September and November 2020, an extreme climate event characterized by the co-occurrence of severe drought, extreme heat stress, widespread burning, and respiratory health impacts affected southwestern Amazonia. This study investigated the event using an integrated framework combining meteorological observations, reanalysis products, burned area data, climate attribution methods, and health records. Heat extremes were characterized using the CTX90pct index and Wet Bulb Globe Temperature (WBGT), while drought conditions were assessed using the 3-month Standardized Precipitation–Evapotranspiration Index (SPEI-3). Anthropogenic influence was quantified using HadGEM3-A attribution experiments and CMIP6 simulations through probability ratio (PR) and Fraction of Attributable Risk (FAR) metrics. Results showed persistent drought conditions and WBGT anomalies exceeding the 95th percentile during September to November 2020. Attribution analyses consistently indicated a strong anthropogenic contribution to the event, with PR estimates ranging from approximately 129 to values exceeding 1000 across climate-model ensembles and FAR values approaching unity. Wildfire activity was strongly concentrated in non-forest land cover classes, which accounted for approximately 80% of the total burned area, while forest formations represented about 20%. Health records indicated 39,453 respiratory disease notifications during the peak fire season, corresponding to 5.4% of Acre’s population, with substantial spatial heterogeneity among municipalities and 159 reported deaths in Rio Branco. Spatial analyses revealed that respiratory outcomes were associated with multiple environmental drivers, including atmospheric pollution from fires and meteorological conditions, although these relationships varied considerably across municipalities. The results demonstrate that anthropogenic climate change substantially increased the likelihood of the 2020 extreme heat event and contributed to environmental conditions favorable to wildfire activity and smoke exposure. These findings highlight the importance of integrated adaptation strategies combining climate-risk management, wildfire prevention, air-quality monitoring, and public health preparedness in this region.",
+      "doi": "10.1007/s10113-026-02681-0",
+      "authors": [
+        "Débora Joana Dutra",
+        "Rafaela Quintella Veiga",
+        "Rafael Cesário de Abreu",
+        "Wan Ting Katty Huang",
+        "Janaína Cassiano dos Santos",
+        "Gisleine Cunha‐Zeri",
+        "Queren-Hapuque Rodrigues de Luna Francisco",
+        "Ylza Marluce Silva",
+        "Alex Ovando",
+        "Larissa Antunes da Silva",
+        "Renata Pacheco Quevedo",
+        "Luiz Felipe Goulart Fiscina",
+        "Marcos Sousa",
+        "Bianca Nunes Calado",
+        "Christopher Cunningham",
+        "Iara Stéfani Carneiro da Silva",
+        "Pedro Noronha",
+        "Edvan Ferreira de Meneses",
+        "Paulo Henrique Alves Leão",
+        "Fraser C. Lott",
+        "Sihan Li",
+        "Rafael Alexandre Ferreira Luiz",
+        "Sarah Sparrow",
+        "Liana O. Anderson"
+      ],
+      "year": 2026,
+      "journal": "Regional Environmental Change",
+      "openalex_id": "W7213266777",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213266777",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 4/11 key interest terms (drivers, occurrence, burning, wildfire)",
+      "tags": [
+        "Drivers",
+        "Occurrence",
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Abstract Between September and November 2020, an extreme climate event characterized by the co-occurrence of severe drought, extreme heat stress, widespread burning, and respiratory health impacts affected southwestern Amazonia.",
+      "added": false
+    },
+    {
+      "title": "Quantifying CO and NO₂ transport fluxes over southeastern Australia: implications from the 2019-2020 Black Summer and multi-year variability",
+      "abstract": "Abstract The 2019–2020 Black Summer (BS) wildfires provide a representative case for quantifying how extreme biomass burning affects regional pollutant transport. In this study, we combine satellite-derived column concentrations, ground-based observations, flux diagnostics, and forward trajectory analysis to evaluate the cross-boundary transport responses of NO₂ and CO over southeastern Australia. During the peak fire period, both CO and NO₂ fluxes increased markedly, indicating enhanced cross-boundary export of fire-related pollutants. However, the enhancement of CO net flux was more sustained over time than that of NO₂, and remained elevated during the later fire stage, indicating a more persistent cross-boundary transport. Combined analysis of forward trajectories and spatial concentration fields indicates that large-scale atmospheric circulation provides transport pathways extending from near-source regions toward the South Pacific and beyond, where CO can maintain a detectable signal during transport, whereas NO₂ decays rapidly along the transport pathway. Overall, this study highlights the value of cross-boundary fluxes as a physically constrained metric for extreme wildfire transport, providing a quantitative framework for assessing the atmospheric impacts of large-scale biomass burning across regional to broader scales.",
+      "doi": "10.1088/1748-9326/aea86e",
+      "authors": [
+        "Zhenda Sun",
+        "Zhongfeng Pan",
+        "Chongyang Li",
+        "Hao Yin",
+        "Youwen Sun"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7213438550",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213438550",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 35%: matched 4/11 key interest terms (burning, wildfire, large, wildfires)",
+      "tags": [
+        "Burning",
+        "Wildfire",
+        "Large",
+        "Wildfires"
+      ],
+      "summary": "Abstract The 2019–2020 Black Summer (BS) wildfires provide a representative case for quantifying how extreme biomass burning affects regional pollutant transport.",
+      "added": false
+    },
+    {
+      "title": "Routledge Handbook on Crisis, Polycrisis, and Public Administration. By KimMoloney, Gloria J.Billingsley, Bok GyoJeong, PabloSanabria‐Pulido, Tonya E.Thornton, and EricZeemering, New York, New York: Routledge, 2025. 390 pp. $280.00 (hardback) ( eBook $58.39). ISBN: 978‐1‐00‐333363‐0",
+      "abstract": "The only constant in life is change, and for public administrators, responding to crisis and polycrisis has become the norm.Effective crisis management is now an essential skill for public managers, as even a slight delay in response, miscommunication, or insufficient skill can result in the loss of life or property.Recent scholarly discussions at the ASPA Conference highlighted that the last period of relative normalcy was in 2019, prior to the COVID-19 pandemic, and there is skepticism about whether life will ever feel normal again.While there may be different perspectives on this, it is evident that we will never go back, and while types of crises will change, they are here to stay.Therefore, we must plan, prepare, and respond to them better.The Routledge Handbook on Crisis, Polycrisis and Public Administration (Moloney et al. 2025) brings together research, reviews, reflections, and global perspectives on crises from around the world.This review begins with a summary of the book, outlines its main arguments, discusses its limitations, and assesses its contribution to public administration scholarship and practice.Although the conceptual birth of the book may be rooted in the global pandemic, make no mistake: this book is not all about COVID-19.The book starts with a broader-than-expected definition of crisis.Beyond the expected natural disasters, such as hurricanes, storms, earthquakes, and wildfires, the list of crises also includes an aging workforce, cybersecurity, debt, unemployment, rising crime rates, hunger, domestic violence, and so on.This expanded perspective is both refreshing and thoughtprovoking, as many of these persistent and complex issues have traditionally not been classified as crises.In public administration, these problems are called wicked problems (Rittel and Webber 1973), and there is a tendency to accept that they are here to stay and that we have to focus on managing rather than solving them, as they do not have a true or false solution but rather better or worse ones.The book places some of these issues under the umbrella of crisis and polycrisis and suggests analyzing them through the lens of crises.Furthermore, the book provides global perspectives by covering crises from around the world and has a wide and rich representation of the United States, Germany, Ireland, the United Kingdom, the Netherlands, Ghana, South Korea, South Africa, Colombia, El Salvador, Ecuador, Argentina, and Mexico, as well as islands such as Mauritius, Reunion Island, and Madagascar.Methodologically, the book employs qualitative, quantitative, and mixed-methods research, including single-case studies, comparative analyses across several countries, and multistate surveys.",
+      "doi": "10.1111/puar.70203",
+      "authors": [
+        "Tamara Dimitrijevska‐Markoski"
+      ],
+      "year": 2026,
+      "journal": "Public Administration Review",
+      "openalex_id": "W7213410184",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213410184",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 4/11 key interest terms (united, united states, wildfires, states)",
+      "tags": [
+        "United",
+        "United States",
+        "Wildfires",
+        "States"
+      ],
+      "summary": "The only constant in life is change, and for public administrators, responding to crisis and polycrisis has become the norm.Effective crisis management is now an essential skill for public managers, as even a slight delay in response, miscommunication, or insufficient skill can result in the loss of life or property.Re…",
+      "added": false
+    },
+    {
+      "title": "Islands of green in the black: the value of patches of unburnt vegetation within a large fireground for woodland birds",
+      "abstract": "Understanding how fires affect bird communities is becoming increasingly important as the risk of extreme fire events increases with anthropogenic climate change. Regular monitoring at two unburnt patches and five burnt matrix sites deep within a large high-intensity fireground in northern inland New South Wales, Australia, identified a total of 86 woodland bird species over the first 3 years post-fire. Species richness in unburnt patches was consistently higher than at burnt matrix sites over the duration of the study, but most markedly in the initial post-fire period. Fourteen species including the White-throated Treecreeper Cormobates leucophaea, Speckled Warbler Pyrrholaemus sagittatus and Eastern Yellow Robin Eopsaltria australis favoured unburnt patches and one, the Red-capped Robin Petroica goodenovii, favoured the burnt matrix. At the level of functional groups, small and medium-sized insectivores and declining woodland birds favoured unburnt patches. The results of this study suggest that unburnt patches in firegrounds can play an important role in assisting reestablishment of fire-sensitive woodland bird populations in burnt areas through in situ recolonisation, complementing ex situ recolonisation from outside the fireground.",
+      "doi": "10.1071/az26015",
+      "authors": [
+        "Michael J. Murphy"
+      ],
+      "year": 2026,
+      "journal": "Australian Zoologist",
+      "openalex_id": "W7213464568",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213464568",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 2/11 key interest terms (eastern, large)",
+      "tags": [
+        "Eastern",
+        "Large"
+      ],
+      "summary": "Understanding how fires affect bird communities is becoming increasingly important as the risk of extreme fire events increases with anthropogenic climate change.",
+      "added": false
+    },
+    {
+      "title": "Editorial: Climate change, air pollution, and health inequality: vulnerability of marginalized populations",
+      "abstract": "Climate change and air pollution are no longer separate environmental challenges.Driven by common anthropogenic processes, climate change and air pollution interact across atmospheric, ecological, and social systems to influence human health in ways that are increasingly difficult to disentangle (1). Rising temperatures alter the formation and distribution of air pollutants, while changing weather patterns, wildfires, and dust storms further modify population exposures and amplify health risks (2)(3)(4). These environmental pressures occur alongside demographic transitions, rapid urban growth, and widening social inequities, creating a complex web of interacting stressors that disproportionately affect marginalized populations. These include low-income communities, migrant workers, older adults, and geographically isolated populations, whose adaptive capacity is often constrained by social, economic, and structural disadvantages (5,6). Collectively, these interconnected environmental and social pressures represent one of the defining public health challenges of the twenty-first century.The studies included in this Research Topic reflect the evolving direction of environmental health research. Spanning diverse geographical settings and employing approaches ranging from time-series analyses and retrospective cohort studies to burden-ofdisease assessments, policy evaluations, vulnerability assessments, and behavioral research, the 31 articles move beyond documenting individual exposure-response relationships.Together, they illustrate how environmental risks are shaped by the interaction between climatic change, air pollution, socioeconomic conditions, and population vulnerability, while highlighting opportunities for adaptation, mitigation, and more equitable public health action.Across this collection, a common message emerges: understanding the health impacts of climate change and air pollution requires moving beyond single exposures and individual diseases toward integrated perspectives that recognize the interplay between environmental change, social inequity, and population resilience. This Research Topic brings together these different strands of evidence to provide a broader perspective on the future direction of environmental health research. The discussion that follows draws together these shared themes and considers their implications for environmental epidemiology, public health policy, and equitable climate action among marginalized populations.One of the clearest messages emerging from this Research Topic is that climate change and air pollution cannot be adequately addressed as independent environmental health challenges. Although traditionally investigated as distinct risk factors, the studies collectively illustrate that these exposures are interconnected through shared drivers, overlapping exposure pathways, and common biological mechanisms. Rapid urbanization, industrialization, fossil fuel combustion, and land-use change simultaneously accelerate climate change while increasing ambient and household air pollution, creating environmental conditions in which populations are exposed to multiple hazards rather than isolated risks. Across diverse geographical settings-from rapidly urbanizing cities to rural and resource-limited communities-the evidence consistently suggests that environmental exposures are becoming increasingly complex, dynamic, and interdependent, emphasizing the need for integrated approaches to environmental health research and policy. Together, these studies suggest that environmental health risks are shaped not only by the level of exposure, but also by its timing, co-occurrence with other stressors, and prevailing meteorological conditions. Such complexity supports epidemiological approaches that can account for non-linearity, delayed effects and interactions rather than treating environmental hazards as independent and static exposures.Perhaps the most compelling narrative emerging from this Research Topic is that environmental exposures do not translate into health outcomes uniformly across populations.Although climate change and air pollution are global phenomena, their health consequences are profoundly shaped by the social, economic, demographic, and environmental contexts in which people live. Across diverse geographical settings, the studies consistently demonstrate that vulnerability is not determined solely by the magnitude of environmental exposure but by the interaction between environmental exposure, biological susceptibility, and the adaptive capacity to anticipate, cope with, and recover from environmental hazards. This perspective moves environmental epidemiology beyond identifying environmental risks towards understanding the mechanisms by which those risks lead to health inequalities. Collectively, the studies reinforce the role of environmental justice as a central consideration in contemporary environmental epidemiology. Vulnerability should not be understood as an intrinsic characteristic of particular populations, but as the product of unequal exposure, susceptibility and capacity to adapt. Reducing the health impacts of climate change and air pollution therefore requires attention not only to environmental hazards themselves, but also to the social and structural conditions that determine who is most exposed, who experiences the greatest health consequences, and who has the resources to respond.Beyond the individual findings, this Research Topic reflects the continuing evolution of environmental epidemiology as a discipline. Traditionally, much of environmental epidemiology has focused on quantifying associations between individual environmental exposures and specific health outcomes. The studies in this collection retain this epidemiological foundation but extend it through more complex exposure-response analyses, broader health outcomes, assessments of population burden and inequality, and approaches that consider vulnerability, behaviour and policy. Collectively, they illustrate a field moving beyond identifying whether an environmental hazard affects health towards understanding when, where and among whom its effects are greatest. This transition is evident in the breadth of health outcomes examined across the collection. Cardiovascular and respiratory health remain prominent, with Wang Y et al. Taken together, the collection reflects an environmental epidemiology that is becoming broader in both its questions and its applications. Estimating exposure-response relationships remains fundamental, but it increasingly sits alongside the assessment of disease burden, inequalities, vulnerability, behaviour and policy. This wider perspective is particularly relevant as climate change and air pollution interact with demographic and socioeconomic transitions to create environmental health challenges that cannot be adequately understood through a single exposure, outcome or disciplinary lens, underscoring the need for greater multidisciplinary collaboration. The next challenge is to translate this expanding evidence base into public health decisions that reduce exposure, strengthen resilience and protect populations facing the greatest environmental risks.The value of environmental epidemiology lies not only in identifying health risks but also in informing actions that reduce exposure and protect populations at greatest risk. Across this Research Topic, several contributions move in this direction by linking evidence on environmental hazards with mitigation, adaptation, behavioural responses, and policy. The broader implication is that environmental health interventions should be judged not only by whether they reduce exposure or disease burden, but also by who benefits. Cleaner energy, emission controls, urban planning, and climate adaptation can improve population health, yet their benefits may remain uneven if existing social and geographic inequalities are overlooked (7,8). Recent evidence further shows that climate mitigation can generate substantial public-health co-benefits, particularly through improvements in air quality, while the magnitude and distribution of these benefits may vary across populations and socioeconomic settings (9,10). This broader perspective calls for environmental governance that considers not only environmental and health gains, but also how these benefits are distributed across populations and contribute to wider societal well-being. The evidence assembled in this Research Topic supports a public health response that combines environmental mitigation with targeted adaptation and attention to equity. For environmental epidemiology, this means extending the pathway from identifying associations to identifying susceptible populations, anticipating future burdens, evaluating interventions, and generating evidence to inform decisions at the local, national, and global levels.The studies in this Research Topic demonstrate that climate change, air pollution, and health inequality are closely interconnected public health challenges. Across diverse settings, the collection shows that environmental risks are shaped by multiple and changing exposures, with their health consequences influenced by biological susceptibility, social conditions, and adaptive capacity. The breadth of methods and outcomes represented also reflects an environmental epidemiology that is expanding beyond individual exposure-outcome relationships towards understanding population burden, vulnerability, and opportunities for intervention. Moving forward, translating this evidence into effective mitigation and adaptation will require multidisciplinary public health actions that reduce environmental risks while prioritizing populations facing the greatest disadvantage. Equity should therefore be considered not only as a determinant of vulnerability, but also as an outcome against which the effectiveness of mitigation and adaptation strategies is evaluated.",
+      "doi": "10.3389/fpubh.2026.1957713",
+      "authors": [
+        "Mohd Faiz Ibrahim",
+        "Nurzawani Md Sofwan",
+        "Arthit Phosri",
+        "Chris Fook Sheng Ng",
+        "Siti Aisah Mokhtar"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7213444733",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213444733",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 3/11 key interest terms (drivers, occurrence, wildfires)",
+      "tags": [
+        "Drivers",
+        "Occurrence",
+        "Wildfires"
+      ],
+      "summary": "Climate change and air pollution are no longer separate environmental challenges.Driven by common anthropogenic processes, climate change and air pollution interact across atmospheric, ecological, and social systems to influence human health in ways that are increasingly difficult to disentangle (1).",
+      "added": false
+    },
+    {
+      "title": "Support for infant and young child feeding and care in emergencies: experiences from Australia and eleven other high-income countries",
+      "abstract": "Introduction In 2010, the World Health Assembly urged all member states, including those of high income, to implement disaster plans in line with the Operational Guidance for Infant and Young Child Feeding in Emergencies (OG-IFE). However, analyses of infant and young child feeding in emergencies (IYCF-E) planning across Europe, the United States of America (USA) and Australia have indicated a lack of such planning. This study aimed to identify challenges, lessons and solutions in infant and young child feeding and care in disasters in high-income countries to inform improved emergency planning in Australia and other high-resource settings. Method Semi-structured interviews were conducted with 39 emergency responders from Australia and 20 emergency responders from Canada, Croatia, Iceland, Ireland, Italy, Japan, New Zealand, Poland, the United Kingdom, Ukraine, and the USA. Data was collected on the challenges of providing emergency response to infants and young children and their caregivers, as well as successful interventions and facilitators of intervention uptake. Interviews were recorded, transcribed and then analysed using reflexive thematic analysis. Through the analysis process, the OG-IFE and the World Health Organization’s nurturing care in emergencies brief assisted understanding regarding challenges, gaps and response appropriateness. Results Challenges to support infants and young children in emergencies were consistent between countries and involved lack of prioritisation, planning, and data collection regarding infants and young children; lack of planning, knowledge and appropriate support for IYCF-E; and the donation of infant formula. Interventions to support mothers and caregivers of infants and young children were more variable between countries and included making support needs and gaps visible, providing tailored evacuation centre support, implementation of IYCF-E interventions, and supporting responsive caregiving. Intervention uptake was facilitated via training staff and volunteers, support of community members, involvement of government agencies and UNICEF, and collaboration between health agencies and emergency organisations. Family resilience was promoted at individual and community levels. Conclusion Infants and young children are vulnerable in emergencies globally. This research has identified challenges and a range of strategies to strengthen disaster planning in high-income countries, including the appropriate development and implementation of IYCF-E plans aligned with the OG-IFE.",
+      "doi": "10.3389/fnut.2026.1940793",
+      "authors": [
+        "Karleen Gribble",
+        "Alexandra Shanks",
+        "Michelle Hamrosi"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Nutrition",
+      "openalex_id": "W7213455661",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213455661",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 25%: matched 3/11 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Introduction In 2010, the World Health Assembly urged all member states, including those of high income, to implement disaster plans in line with the Operational Guidance for Infant and Young Child Feeding in Emergencies (OG-IFE).",
+      "added": false
+    },
+    {
+      "title": "Comparative Evaluation of the TANROADS Road Maintenance Management System (RMMS) against MCDA Practice: Systematic Review - A Case of Tanzania",
+      "abstract": "The RMMS employed by TANROADS provides a structured, multi-criteria analysis (MCA) framework for prioritising maintenance interventions on trunk and regional roads. This study reviewed the literature to assess RMMS effectiveness against international MCDA practice, identify implementation barriers, and propose optimisations amid constrained resources and climate vulnerabilities. A PRISMA-guided systematic literature review searched academic databases and journals, using targeted keywords related to RMMS, MCA in road maintenance, and challenges in Tanzania and comparable contexts. About 60 peer reviewed articles and reports were retained after screening for relevance, yielding an inductive content analysis of RMMS decision-making, priority logic, success factors, barriers, and international comparisons. The reviewed literature indicates RMMS is best suited to high-traffic corridors, with documented limitations on regional roads, including persistent traffic-centric bias, inadequate integration of climate vulnerabilities, insufficient GIS modelling, institutional capacity constraints, partial funding disbursements, and poor adaptability of MCA weights and HDM 4 models. Comparative analysis with MCDA systems in Indonesia (AHP-GIS for spatial), Australia (optimised hybrids for climate resilience), the United States (LCA-integrated equity), and Nigeria/South Africa (rural-focused GIS-MCDA) highlights RMMS as less equitable and climate-responsive. Recommendations include recalibrating MCA weights to enhance rural equity and climate resilience, adopting digital tools and GIS for improved data quality, implementing targeted training and capacity building, securing full funding alignment, and piloting hybrid models such as fuzzy-AHP. These enhancements could foster more proactive and sustainable maintenance priorities across Tanzania's regional network.",
+      "doi": "10.62277/mjrd2026v7i30008",
+      "authors": [
+        "Eliesikia Mrutu",
+        "Ramadhani Tekka",
+        "Yazid Mwishwa"
+      ],
+      "year": 2026,
+      "journal": "MUST Journal of Research and Development.",
+      "openalex_id": "W7213449568",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213449568",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 25%: matched 3/11 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "The RMMS employed by TANROADS provides a structured, multi-criteria analysis (MCA) framework for prioritising maintenance interventions on trunk and regional roads.",
+      "added": false
+    },
+    {
+      "title": "Development and validation of the Climate Change Literacy Questionnaire (CCLQ) for children aged 10 to 11 in Denmark",
+      "abstract": "This study developed and validated a novel 30-item Climate Change Literacy Questionnaire (CCLQ) for children aged 10 to 11 in a Danish context. The CCLQ operationalizes climate change literacy (CCL) as a multidimensional construct encompassing four domains: self-perceived knowledge of climate change causes, consequences, mitigation and adaptation; climate-relevant behavior in everyday contexts; motivation related to climate change learning and action; and systemic and collective orientation toward the social, collective and cross-contextual dimensions of climate change. Two independent samples of 4th-grade pupils (N = 1691) were recruited across two phases: a development phase involving item generation, focus group interviews, pretesting, expert assessments, and exploratory factor analysis; and a validation phase including large-scale testing, confirmatory factor analysis (CFA), internal reliability (Cronbach’s α, McDonald’s Ω), test-retest reliability (intraclass correlation coefficient, ICC), convergent validity (regression analysis), and measurement invariance. Results supported a bifactor model with a global CCL factor, strong internal reliability (α = 0.905, Ω=0.903), high test-retest reliability (ICC = 0.901), consistent model fit across gender and SES groups, and convergent validity with sustainable food literacy. The CCLQ should be interpreted as an age-appropriate measure of these four domains of CCL in children aged 10 to 11, rather than an exhaustive measure of all climate change education outcomes. The CCLQ may support research and evaluation of climate change education initiatives in Danish primary school settings and provide a basis for future translation, cultural adaptation and validation in other languages and educational contexts.",
+      "doi": "10.1080/13504622.2026.2730576",
+      "authors": [
+        "Marie Caroline Vermund",
+        "Glen Nielsen",
+        "Anna Stage",
+        "Alberte Laura Oest Müllertz",
+        "Peter Elsborg"
+      ],
+      "year": 2026,
+      "journal": "Environmental Education Research",
+      "openalex_id": "W7213306901",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213306901",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 2/11 key interest terms (causes, large)",
+      "tags": [
+        "Causes",
+        "Large"
+      ],
+      "summary": "This study developed and validated a novel 30-item Climate Change Literacy Questionnaire (CCLQ) for children aged 10 to 11 in a Danish context. The CCLQ operationalizes climate change literacy (CCL) as a multidimensional construct encompassing four domains: self-perceived knowledge of climate change causes, consequence…",
+      "added": false
+    },
+    {
+      "title": "GLOBAL WARMING AND THE HUMAN FUTURE IN EUROPE: AN ANTHROPOLOGICAL APPROACH TO CLIMATE ADAPTATION, CULTURAL RESILIENCE AND SUSTAINABLE TRANSFORMATION",
+      "abstract": "Global warming is no longer merely an environmental or atmospheric phenomenon; it is an increasingly profound anthropological challenge affecting human health, livelihoods, migration, settlement, food systems, cultural practices, social institutions and relations between humans and the environment. Europe provides a particularly significant case because it is the fastest-warming continent, with climate risks increasingly affecting ecosystems, infrastructure, water resources, food and energy security, economies and human health. The European State of the Climate 2025 reports that Europe continued to experience exceptional warming, with heatwaves extending from the Arctic to the Mediterranean, record-high sea-surface temperatures and the largest area burned by wildfires on record. This chapter examines global warming in Europe through an anthropological lens, moving beyond purely technological and economic explanations. It explores how climate change interacts with culture, social inequality, political economy, indigenous and local ecological knowledge, migration, urbanisation, consumption and human adaptation. Drawing upon environmental anthropology, political ecology, cultural ecology, climate anthropology and resilience theory, the chapter argues that Europe cannot “escape” global warming through technological solutions alone. Rather, climate resilience requires a transformation of human-environment relationships, consumption patterns, institutions and cultural values. The chapter proposes an anthropological framework based on mitigation, adaptation, ecological restoration, climate justice, local knowledge, community participation and intergenerational responsibility. It concludes that Europe’s pathway out of the climate crisis must be simultaneously ecological, technological, cultural and ethical.",
+      "doi": "10.56815/ijmrr.v5i9.2026.43-55",
+      "authors": [
+        "Dr. Lalit Shrestha"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Multidisciplinary Research & Reviews",
+      "openalex_id": "W7213446661",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213446661",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Global warming is no longer merely an environmental or atmospheric phenomenon; it is an increasingly profound anthropological challenge affecting human health, livelihoods, migration, settlement, food systems, cultural practices, social institutions and relations between humans and the environment.",
+      "added": false
+    },
+    {
+      "title": "Workforce needs of the European Green Deal: the case of solar and wind power installations",
+      "abstract": "Abstract The energy transition is reshaping the entire economy, producing significant changes in specific sectors. This transformation affects the demand for overall labour, skills, occupations, wages and working conditions. Estimating how many workers are needed to meet clean energy targets is a prerequisite for any successful action. We combine scenario analysis with multi-regional input–output tables to assess the effects on employment of deploying wind and solar power technologies in Europe. The results indicate that the additional installations of wind turbines and solar panels to deliver on the EU Green Deal targets would require 130 000 to 145 000 additional skilled workers in the EU, with the investment in skills amounting to EUR 1.4 billion by 2030. Job creation varies across Member States, and those with relatively higher shares of renewable capacity currently installed may face lower re-training costs per worker in 2030. We also find that training and education in key sectors is currently lagging. The paper provides novel estimates on the additional amount of workforce required and the associated training costs for renewable power deployment at Member State level in 2030.",
+      "doi": "10.1088/2753-3751/aea854",
+      "authors": [
+        "Rafael Garaffa",
+        "Camille Van der Vorst",
+        "Matthias Weitzel",
+        "Alessia Fulvimari",
+        "Linda Kunertova"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Energy",
+      "openalex_id": "W7213426064",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213426064",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Abstract The energy transition is reshaping the entire economy, producing significant changes in specific sectors. This transformation affects the demand for overall labour, skills, occupations, wages and working conditions.",
+      "added": false
+    },
+    {
+      "title": "Dynamics of the spatiotemporal correlation between Aerosol Optical Depth satellite data and PM2.5 surface monitoring: An exploratory approach",
+      "abstract": "PM2.5 is a major air pollutant with diverse natural and anthropogenic sources, which significantly impacts human health and the environment. Remote sensing serves as a complementary resource for air-monitoring networks, providing valuable information on the spatiotemporal patterns of air pollutants at a global scale This study analyzes the feasibility of the use of MODIS MAIAC Aerosol Optical Depth (AOD) remote sensing for the estimation of surface PM2.5 and explores the dynamic relationship between AOD and PM2.5 in conjunction with regional factors such as heterogeneity of emissions sources, topography and meteorological variables in the Toluca Valley Metropolitan Area (TVMA), identified as the most polluted metropolitan area in Mexico. The five-year (2018-2023) temporal analysis during the dry seasons (Nov – May) revealed similar patterns between monthly average PM2.5 and AOD, with higher values observed during the Hot-Dry season. Spatially, 90% of the monitoring sites exhibited a moderate linear correlation (0.4 < R < 0.69) between AOD and PM2.5, while one site showed a weaker correlation (0.33); associated with a heterogeneity of local emission sources and the presence of coarse-mode aerosols. Regarding meteorological factors, higher Boundary Layer Height (BLH) and lower Relative Humidity (RH), during the Hot-Dry season corresponded to stronger correlations, as increased convection facilitates the vertical mixing of particles, in contrast, higher RH during the Cold-Dry impacts aerosol optical properties. This study highlights the complex influence of emission sources and meteorological conditions on the relationship between AOD and PM2.5, underscoring the importance of considering these factors when resorting to satellite data for air quality assessment.",
+      "doi": "10.35208/ert.1740066",
+      "authors": [
+        "Angélica Neria-Hernández",
+        "Xanat Antonio Némiga",
+        "Francisco Zepeda Mondragón",
+        "Violeta Múgica-Álvarez"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research and Technology",
+      "openalex_id": "W7213470726",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213470726",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "PM2.5 is a major air pollutant with diverse natural and anthropogenic sources, which significantly impacts human health and the environment. Remote sensing serves as a complementary resource for air-monitoring networks, providing valuable information on the spatiotemporal patterns of air pollutants at a global scale Th…",
+      "added": false
+    },
+    {
+      "title": "Attachment Strategies of Adolescents in Foster Care: Indicators and Implications",
+      "abstract": "The purpose of this study was to explore the use of an art-based assessment to recognize the attachment strategy of adolescents in foster care. The extenuating circumstances of foster care make it imperative to develop a sensitive, accurate, and time-efficient tool. Knowledge of specific attachment strategy can better guide therapeutic interventions. This study examined adolescents’ attachment strategy as measured by the Adolescent Relationship Questionnaire (A-RSQ) in comparison to ratings on the Bird’s Nest Drawing (BND). Fourteen adolescents in foster care participated. Due to the low number of participants, data was predominantly analyzed descriptively. On the A-RSQ, the sample had lower proportions of secure attachment as compared to similar studies. Categories of insecure attachment included fearful, preoccupied, and dismissing. The presence of an off-center BND for those reporting a secure attachment strategy was found to be statistically significant. Notable observations include the absence of care giving or mother birds, an absence of overall impression of happiness, lack of color usage, and the absence of green as the predominant color. Participants’ A-RSQ Section 2 scores raised questions as to the accuracy of their initial self-response. Implications for further development of the BND and treatment plan possibilities are discussed.",
+      "doi": "10.25777/7j3q-pd18",
+      "authors": [
+        "Shannon Leigh Trewartha"
+      ],
+      "year": 2026,
+      "journal": "ODU Digital Commons (Old Dominion University)",
+      "openalex_id": "W7165079073",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7165079073",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "The purpose of this study was to explore the use of an art-based assessment to recognize the attachment strategy of adolescents in foster care. The extenuating circumstances of foster care make it imperative to develop a sensitive, accurate, and time-efficient tool.",
+      "added": false
+    },
+    {
+      "title": "Recent Advances in Resilient Multi-Energy Systems Against Climate Change",
+      "abstract": "Climate change is a global threat to the long-term sustainable development of energy systems. Recent works have explored the emerging opportunity of coordinating different energy carriers and sectors (e.g. electricity, natural gas, heating, hydrogen, transportation, and water sectors) to unlock the cross-sector flexibility against climate change. This review has established a holistic framework for resilient multi-energy systems through the lens of nested coupling. It covers the most recent progress in resilience resources, resilience evaluation, resilience-oriented operation & planning, resilience pricing & investment, and real-world implementation. This work differs from prior studies through a full investigation on climate change impacts (distribution shifts), resilience pricing, and global projects. Within this area, we advocate for a unique and interdisciplinary perspective spanning across energy systems, climate science, sociology, economics, and data science. At the end, seven major challenges and opportunities are identified, including data deficiency, distributed coordination & privacy, high-fidelity simulation, and machine learning techniques. Researchers, industrial experts, and policy makers can follow this review to capture the emerging trend and future opportunities in this growing area.",
+      "doi": null,
+      "authors": [
+        "Grant Ruan",
+        "Zhengmao Li",
+        "Yi Wang",
+        "Ning Zhang"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7213373033",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213373033",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Climate change is a global threat to the long-term sustainable development of energy systems. Recent works have explored the emerging opportunity of coordinating different energy carriers and sectors (e.g.",
+      "added": false
+    },
+    {
+      "title": "Retheorizing environmental in/justice from the margins: toxicity, dispossession, and resistance in the Palestinian Bedouin village of Wadi An-Naam",
+      "abstract": "This article examines the entanglement of settler colonialism and environmental violence in the Palestinian Bedouin village of Wadi An-Naam, where state planning, urbanization, and industrial expansion threaten homes, livelihoods, and semi-nomadic practices. Using a decolonial methodology centred on community knowledge and participation, we trace Bedouin sumud (steadfastness) as a form of resistance that navigates the colonial environmental double-bind: residents must simultaneously document environmental harm and assert the liveability of their land to contest displacement. We show how Israel weaponizes environmental hazards and temporal strategies – slowness, delay, and precarity – to extend settler colonial dispossession. By linking environmental justice to the temporal and affective dimensions of settler colonial governance, the study advances debates on slow violence, indigenous resilience, and the intertwined politics of land, health, and environmental regulation.",
+      "doi": "10.4324/9781042023912-7",
+      "authors": [
+        "Sleman Altehe",
+        "Michal Huss"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213270833",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213270833",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This article examines the entanglement of settler colonialism and environmental violence in the Palestinian Bedouin village of Wadi An-Naam, where state planning, urbanization, and industrial expansion threaten homes, livelihoods, and semi-nomadic practices.",
+      "added": false
+    },
+    {
+      "title": "A review of the relationship between environmental change and internal-human mobility",
+      "abstract": "Climate change is significantly influencing worldwide habitability and liveability, with profound implications for human mobility. Most people move within national borders, yet the effects of climate hazards remain insufficiently investigated and integrated into existing theoretical frameworks. This review examines quantitative peer-reviewed literature on climate hazard-internal mobility linkages, revealing key conceptual and empirical gaps in how mobility is defined, theorized, and modeled. The literature remains geographically uneven and predominantly micro-level, with stronger evidence for short-term weather shocks than for long-term climatic processes, while often failing to distinguish between voluntary and involuntary mobility or to account for agency and timing dimensions. Climate-mobility relationships are often conceptualized as contingent, meaning hazards are seen as altering opportunity structures, rather than being framed as hazard-driven, or reflecting mediated and constructed assumptions. This is also reflected in dominant theoretical approaches often conceptualizing mobility as a rational economic response, overlooking aspirations, capabilities, governance, and institutional dynamics. The literature further suggests that climate hazards operate across multiple scales and interact with a broad range of factors to shape mobility and immobility outcomes, posing particular attention to the agricultural, asset exposure and social network channels. Overall, compounding and cumulative risks, socio-ecological tipping points, and institutional and governance dynamics remain insufficiently explored. Systematic review registration https://www.scopus.com/pages/home#basic , https://www.webofscience.com/wos/woscc/smart-search .",
+      "doi": "10.3389/fclim.2026.1858046",
+      "authors": [
+        "Domenico Bovienzo",
+        "Jeremy Stephan Pal",
+        "Jaroslav Myšiak"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7213471717",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213471717",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Climate change is significantly influencing worldwide habitability and liveability, with profound implications for human mobility. Most people move within national borders, yet the effects of climate hazards remain insufficiently investigated and integrated into existing theoretical frameworks.",
+      "added": false
+    },
+    {
+      "title": "Proceedings of the 14th International Scientific and Practical Conference «Global and Regional Aspects of Sustainable Development»",
+      "abstract": "Food security is an increasingly important global challenge shaped by climate change, economic uncertainty, geopolitical instability and disruptions in international food systems.This article examines the relationship between climate change, economic risks and global food security, focusing on the effects of climate-related shocks on agricultural production, food prices, household purchasing power, trade and nutrition.The study applies a qualitative analytical approach based on a review and synthesis of scientific literature and institutional evidence.It considers the main dimensions of food securityavailability, access, utilization and stability-and analyses their vulnerability to extreme weather events, water scarcity, inflation, poverty and supply-chain disruptions.The findings indicate that climate change represents not only an environmental challenge but also a systemic economic risk transmitted through production, prices, incomes and markets.The article emphasizes the need for integrated adaptation policies, resilient food systems, sustainable agricultural practices, social protection and international cooperation to reduce vulnerability and strengthen long-term food security.",
+      "doi": "10.51582/interconf.2026.309",
+      "authors": [],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213426564",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213426564",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Food security is an increasingly important global challenge shaped by climate change, economic uncertainty, geopolitical instability and disruptions in international food systems.This article examines the relationship between climate change, economic risks and global food security, focusing on the effects of climate-re…",
+      "added": false
+    },
+    {
+      "title": "An assessment of park satisfaction and its associated factors in Zhengzhou",
+      "abstract": "Traditional urban park satisfaction assessments commonly adopt static, single-source datasets, which are insufficient to capture dynamic shifts under emergency contexts. This study proposes a multi-source evaluation framework and applies it to 19 parks in Zhengzhou, China, leveraging social media data (2020–2025) and advanced artificial intelligence models (BLIP-2, BERTopic, GPT-4o) for analysis. The results reveal divergent satisfaction trajectories across park types: comprehensive parks maintain relatively high and stable satisfaction, community parks show an overall post-pandemic upward trend in satisfaction, whereas specialty parks generally record lower satisfaction levels. Further analysis identifies distinct associated indicators for each park category, with the number of activity items associated with comprehensive parks, infrastructure completeness associated with community parks, and plant species associated with specialty parks. This study explores temporal shifts in park satisfaction via emotional expression analysis and characterizes associations between associated variables. Building on these findings, targeted strategy recommendations are proposed to improve satisfaction tailored to each park type.",
+      "doi": "10.1038/s41598-026-71939-8",
+      "authors": [
+        "xirui wen",
+        "Yu Wang",
+        "Guoqing Fan",
+        "Xuning Qiao",
+        "Liangxin Fan",
+        "Linghui Guo",
+        "Yuhang Ge"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7213398263",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213398263",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Traditional urban park satisfaction assessments commonly adopt static, single-source datasets, which are insufficient to capture dynamic shifts under emergency contexts.",
+      "added": false
+    },
+    {
+      "title": "Global fuel and burned area reconstructions and projections for 1950–2100",
+      "abstract": "Abstract. Fire is a key component of the Earth system, influencing ecosystems, atmospheric composition, and carbon–climate feedbacks. Although observations, process-based models, and data-driven approaches have advanced understanding of historical global fire activity, projecting fire regimes under concurrent changes in climate, fuels, land cover, and socioeconomic conditions remains challenging. Here, we present Sparky-Climate, a data-driven framework providing a global reconstruction and scenario-based projections of burned area and eight fuel characteristics from 1950 to 2100 at monthly approximately 25 km resolution. The framework emulates fuel load, vegetation state, and fuel moisture before predicting burned area fraction from meteorological, land-cover, fuel, and socioeconomic predictors. Historical reconstructions are driven by reanalysis and historical socioeconomic data, whereas future projections use CMIP6 climate simulations with Shared Socioeconomic Pathway-consistent land-use and socioeconomic inputs. Comparison with the FireCCILT11 satellite-based burned area product shows agreement in spatial patterns, temporal variability, and multi-decadal trends (r = 0.87). By the late 21st century, global burned area is projected to decline by 6.7–21.9 % across the scenario ensemble, masking substantial regional divergence. Savanna burned area is projected to decline by 15.2–31.3 %, whereas temperate and boreal forests are projected to increase by 6.3–18.2 %, particularly under high-emission pathways. Tropical moist forests are projected to show weak declines under low-emission pathways (7.6–8.1 %) but increases under high-emission pathways (7.6–24.4 %). Extreme fire activity is projected to decline in tropical regions, but to increase in temperate and boreal biomes, with the strongest amplification generally occurring for the most extreme events and under higher-emission scenarios. Sparky-Climate provides a consistent framework for analysing long-term changes in fuel conditions and fire regimes under alternative climate and socioeconomic pathways.",
+      "doi": "10.5194/egusphere-2026-5374",
+      "authors": [
+        "Joe McNorton",
+        "Edward Comyn‐Platt",
+        "Francesca Di Giuseppe",
+        "Chiara Cagnazzo",
+        "Christopher Barnard"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213357501",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213357501",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Fire is a key component of the Earth system, influencing ecosystems, atmospheric composition, and carbon–climate feedbacks. Although observations, process-based models, and data-driven approaches have advanced understanding of historical global fire activity, projecting fire regimes under concurrent changes i…",
+      "added": false
+    },
+    {
+      "title": "Expert-Guided Cross-Model Transfer Learning for Accelerating Operational PM2.5 Forecasting",
+      "abstract": "Operational chemical transport models provide physically consistent air-quality forecasts but remain computationally expensive, constraining forecast throughput and broader ensemble and scenario-based applications. We developed an expert-guided cross-model learning framework that jointly uses historical WRF-CMAQ simulations and target-domain simulations from NOAA’s operational Unified Forecast System Air Quality Model (UFS-AQM) to accelerate surface PM 2.5 forecasting. Scenario-diverse CMAQ simulations provide transferable training information, while separate total, nonfire, and fire simulations support expert specialization. Source- and target-domain samples are optimized jointly, and the resulting surrogates are evaluated over an independent operational period using fixed forecast initializations and target-defined masks. Training-data diversity produces the largest and most spatially consistent improvements. Relative to a surrogate trained only on the UFS-AQM baseline simulation, incorporating source-domain CMAQ simulations reduces pooled RMSE by approximately 6%, while combining source-domain information with limited target-domain perturbation data reduces RMSE by approximately 7%. Expert fusion provides a smaller but generally consistent refinement, reducing overall, high-pollution, extreme-regime, and spatial-gradient errors while modestly improving P95 exceedance detection and plume-footprint skill. The largest fusion benefit occurs for the baseline-only parent, where the specialized experts retain the greatest complementarity; the fire expert becomes increasingly useful in the upper tail of the PM 2.5 distribution. These results demonstrate that historical CTM simulations can serve as reusable cross-model training resources for adapting AI surrogates to new operational systems, providing a pathway toward computationally efficient atmospheric foundation models that complement process-based models.",
+      "doi": "10.22541/essoar.15008926/v1",
+      "authors": [
+        "Jia Xing",
+        "Youhua Tang",
+        "Wei‐Ting Hung",
+        "Patrick Campbell",
+        "Wei Li",
+        "Barry Baker",
+        "Siqi Ma",
+        "Chi‐Tsan Wang",
+        "Bok H. Baek",
+        "Daniel Tong",
+        "Jianping Huang",
+        "Fanglin Yang",
+        "Jung-Hun Woo",
+        "Joshua S. Fu"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213407141",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213407141",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Operational chemical transport models provide physically consistent air-quality forecasts but remain computationally expensive, constraining forecast throughput and broader ensemble and scenario-based applications.",
+      "added": false
+    },
+    {
+      "title": "The New US Wildland Fire Service: Improvement or Impediment?",
+      "abstract": "Our guest columnist considers the potential drawbacks and benefits of the newly created US Wildland Fire Service.",
+      "doi": "10.5070/p5.69156",
+      "authors": [
+        "Tom Nichols"
+      ],
+      "year": 2026,
+      "journal": "Parks Stewardship Forum",
+      "openalex_id": "W7212521167",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212521167",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Our guest columnist considers the potential drawbacks and benefits of the newly created US Wildland Fire Service.",
+      "added": false
+    }
+  ]
+}
