@@ -1,0 +1,386 @@
+{
+  "date": "2026-09-19",
+  "statistics": {
+    "fetched": 140,
+    "duplicates_removed": 125,
+    "evaluated": 15,
+    "added": 5,
+    "ignored": 10,
+    "average_score": 2.33
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the High-Resolution Rapid Refresh model",
+      "abstract": "The High-Resolution Rapid Refresh (HRRR) model is run operationally by the National Oceanic and Atmospheric Administration to provide high-resolution short-range forecasts for the continental United States. The evaluation of the HRRR model off of the United States coasts has been challenged by the lack of suitable continuous profile observations in the marine boundary layer in the past. State-of-the art remote sensing instruments were recently deployed along the coast of New England in the northeastern United States for the multi-year Third Wind Forecast Improvement Project and provide a unique opportunity for the evaluation of temperature and wind in the marine boundary layer in the HRRR model. We used 1 year of data at three sites, two of which were on islands, to document the seasonal characteristics of the marine boundary layer and its representation in the HRRR model for different forecast hours. Overall, the HRRR model captured the seasonal and diurnal evolution of temperature and wind very well. However, low-level horizontal wind shear and static stability were too weak in the model, especially during the warmer months. At certain sites, these biases were accompanied by errors in sea surface temperature, suggesting a potential, though localized, link. Low-level jets (LLJs) occurred in approximately 20 % of the hourly profiles with a maximum frequency during spring and summer. Up to 60 % of the LLJ profiles during peak seasons were correctly predicted, using the critical success index as a measure. Systematic model errors in wind and temperature were found during LLJs, when the HRRR model frequently underestimated wind speed at nose height and shear below nose height, often accompanied by static stability that was too weak. These errors resulted in low-level Bulk Richardson numbers that were consistently too large at all three sites, indicating an overestimation of dynamic stability in the boundary layer in the model. Such systematic errors in low-level wind shear and stability were largely absent during correct rejections, that is, when an LLJ was neither observed nor simulated, indicating that LLJs were responsible for a large part of the model errors.",
+      "doi": "10.5194/gmd-19-8627-2026",
+      "authors": [
+        "Bianca Adler",
+        "Laura Bianco",
+        "David D. Turner",
+        "Joseph Olson",
+        "Xia Sun",
+        "Joshua Gebauer",
+        "Nicola Bodini",
+        "Stefano Letizia",
+        "James M. Wilczak"
+      ],
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "openalex_id": "W7213452031",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213452031",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 95%: matched 4/8 key interest terms (united states, united, states, large)",
+      "tags": [
+        "United States",
+        "United",
+        "States",
+        "Large"
+      ],
+      "summary": "The High-Resolution Rapid Refresh (HRRR) model is run operationally by the National Oceanic and Atmospheric Administration to provide high-resolution short-range forecasts for the continental United States.",
+      "added": true
+    },
+    {
+      "title": "Wildfire synchronicity across European regions is favored by specific weather regimes",
+      "abstract": "Abstract Synchronous wildfires (wildfires occurring in multiple locations within a week) pose challenges to coordinated firefighting efforts between European countries. Despite their potentially severe impacts, their occurrence and relationship with predictable atmospheric circulation patterns are poorly understood. We analyze synchronous wildfires across ten European regions over the past two decades and attribute their seasonal occurrences to seven year-round weather regimes. We find that weather regimes modulate the occurrence and spatial extent (the number of regions involved) of synchronous wildfires primarily by driving warm and dry meteorological anomalies, suggesting that these events may become more frequent in a warming world. Specifically, Atlantic Ridge promotes wildfire synchronicity between multiple pairs of European regions in summer, and European Blocking is the most likely regime co-occurring with synchronous wildfires spanning large spatial domains (or involving more than five regions) in spring and fall. Our findings could support early warning systems for synchronous wildfire emergencies in Europe because these weather regimes are predictable on subseasonal timescales.",
+      "doi": "10.1038/s43247-026-03956-4",
+      "authors": [
+        "Xinhang Li",
+        "Raul R. Wood",
+        "Julia Miller",
+        "Dominik Büeler",
+        "Manuela I. Brunner"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7213461287",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213461287",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 56%: matched 4/8 key interest terms (occurrence, wildfires, large, wildfire)",
+      "tags": [
+        "Occurrence",
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract Synchronous wildfires (wildfires occurring in multiple locations within a week) pose challenges to coordinated firefighting efforts between European countries. Despite their potentially severe impacts, their occurrence and relationship with predictable atmospheric circulation patterns are poorly understood.",
+      "added": true
+    },
+    {
+      "title": "From drying to frying: drought and fire as interacting drivers of vegetation change in piñon-juniper-oak forests of the Chisos Mountains, Big Bend National Park, USA",
+      "abstract": "Abstract Background Piñon-juniper forests provide important habitat, cultural resources, and ecosystem services across western North America, but increasingly severe droughts and wildfires threaten their persistence. Understanding responses to successive disturbances is critical because wildfire may affect forests already transformed by drought. We used 20 years of permanent-plot data from the Chisos Mountains, Texas, to quantify forest changes in response to a severe drought and subsequent wildfire. Results Drought caused widespread declines in tree density and basal area. In unburned plots, both declined by approximately 50% between the pre-disturbance and post-drought censuses, with little subsequent change. Fire caused additional but spatially variable mortality that ranged from limited tree death to near-stand replacement. High-severity fire plots had already lost 70.7% of tree density after drought and retained only approximately 75 trees ha⁻ 1 after the subsequent fire and cumulative basal-area loss reached 92%. Piñon declined by approximately 99% in these plots, compared with 92% for junipers and 89% for oaks. Mortality was not concentrated in particular tree sizes. Fire also significantly reduced juvenile tree abundances. Conclusions Successive drought and fire created a heterogeneous mosaic of drought-thinned forests and burned patches. As these disturbances become more common, forest persistence may depend on recovery between disturbances rather than resilience to either disturbance alone.",
+      "doi": "10.1186/s42408-026-00582-5",
+      "authors": [
+        "Helen M. Poulos",
+        "Andrew M. Barton"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7213459719",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213459719",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 47%: matched 3/8 key interest terms (drivers, wildfires, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Background Piñon-juniper forests provide important habitat, cultural resources, and ecosystem services across western North America, but increasingly severe droughts and wildfires threaten their persistence.",
+      "added": true
+    },
+    {
+      "title": "Cardiopulmonary hospitalization risks from wildfire-specific and non-wildfire PM2.5 in 20 US states",
+      "abstract": "Abstract Increasing wildfire activity in the US has made wildfire-specific fine particulate matter (PM 2.5 ) an important and growing source of air pollution, yet its long-term health impacts and relative toxicity compared with non-wildfire PM 2.5 remain unclear. Using a self-controlled design, we examine associations between 2-year average wildfire-specific and non-wildfire PM 2.5 and cardiopulmonary hospitalization risks across 20 US states during 2006–2019. Per 1 µg/m 3 increase, wildfire-specific PM 2.5 is associated with significantly higher hospitalization risks for all cardiopulmonary diseases, with relative risks ranging from 10% for heart failure to 16% for asthma. In contrast, a 1-µg/m 3 increase in non-wildfire PM 2.5 is associated with smaller risk elevations, ranging from 4.7% for chronic obstructive pulmonary disease to 8.5% for hypertension. Stronger associations for both wildfire-specific and non-wildfire PM 2.5 are observed among minorities, metropolitan residents, those with fewer years of education, and more deprived communities. Overall, at an equivalent concentration increase, long-term exposure to wildfire-specific PM 2.5 poses greater cardiopulmonary hospitalization risks than non-wildfire PM 2.5 , underscoring wildfire smoke as a growing public health threat that requires targeted mitigation alongside conventional air quality control strategies.",
+      "doi": "10.1038/s41467-026-76974-7",
+      "authors": [
+        "Min Zhang",
+        "Edgar Castro",
+        "Minghao Qiu",
+        "Mahdieh Danesh Yazdi",
+        "Boyuan Li",
+        "Rosalind J. Wright",
+        "Joel Schwartz",
+        "Robert O. Wright",
+        "Yaguang Wei"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W7213468400",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213468400",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 46%: matched 2/8 key interest terms (states, wildfire)",
+      "tags": [
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Abstract Increasing wildfire activity in the US has made wildfire-specific fine particulate matter (PM 2.5 ) an important and growing source of air pollution, yet its long-term health impacts and relative toxicity compared with non-wildfire PM 2.5 remain unclear.",
+      "added": true
+    },
+    {
+      "title": "Developing a FARSITE wildfire simulation framework for Romania: fuel model mapping and evaluation using historical wildfires",
+      "abstract": "Wildfire simulation can support fire-risk assessment and management, but its application depends on the availability of consistent spatial information on fuels, topography, weather, and fuel moisture. This study developed and evaluated a FARSITE-based wildfire simulation framework for Romania, with particular emphasis on generating the spatial input datasets required for its application. A national fuel-model map was produced by integrating land-cover and canopy information and assigning standard fire-behaviour fuel models according to vegetation characteristics. The framework was evaluated through retrospective simulations of four historical wildfires in western and southwestern Romania. Simulated and observed fire perimeters were compared using complementary spatial agreement metrics, while rate of spread, fireline intensity, and flame length were analysed to characterize simulated fire behaviour. Spatial agreement varied among the four case studies, with Sørensen–Dice coefficients ranging from 0.660 to 0.879 and Cohen’s Kappa values from 0.436 to 0.687. The highest agreement was obtained for the Șvinița wildfire, whereas Ilia showed the lowest agreement and the greatest overprediction. Simulated fire behaviour also varied substantially among events and fuel types, with the highest spread rates, fireline intensities, and flame lengths generally associated with grass- and shrub-dominated fuels. Overall, the results indicate that the proposed framework provides a suitable basis for further FARSITE application and development in Romania under the fuel and environmental conditions represented by the evaluated fires. Further improvements should focus on local fuel characterization, more representative meteorological and topographic inputs, incorporation of information on firefighting operations, and evaluation using a broader range of historical wildfires.",
+      "doi": "10.15287/afr.2026.4628",
+      "authors": [
+        "Catalin-Vasile Samsodan",
+        "Adrian Lorenț",
+        "Bogdan Apostol",
+        "Marius Petrila",
+        "Florin Capalb",
+        "Cristiana Marcu",
+        "Nicoleta Ionac"
+      ],
+      "year": 2026,
+      "journal": "Annals of Forest Research",
+      "openalex_id": "W7213455885",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213455885",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 43%: matched 2/8 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfire simulation can support fire-risk assessment and management, but its application depends on the availability of consistent spatial information on fuels, topography, weather, and fuel moisture.",
+      "added": true
+    },
+    {
+      "title": "Bee community composition depends on the interaction between seasonality and habitat type",
+      "abstract": "Understanding how landscape heterogeneity promotes biodiversity remains a significant challenge because the drivers of community assembly co-vary across space and time. Contrasting ecological conditions between habitat types strengthen filters that can select for complementary communities at local scales, but it remains unclear how the seasonal variation of species assemblage within a habitat type influences overall diversity. To elucidate how the interaction between space and time structures biodiversity, we sampled bee and flower communities across the growing season in habitat types with contrasting ecological conditions in northeastern Oregon, USA. We found complementary bee communities in riparian and forest habitat types, likely because contrasting ecological conditions alter habitat suitability for different subsets of species. Within each habitat type, bee and flower communities varied seasonally. While alpha and gamma diversity were consistent across months and habitat types, bee spatial beta diversity in the riparian habitat type increased from May to June, suggesting that site-to-site variation of riparian-associated bee communities increases across the growing season. This increased spatial diversity among riparian bee communities in June was associated with a greater proportion of species that were restricted to local communities. We also found no association between bee and flower communities across alpha, beta, or gamma scales. Collectively, these results suggest that ecological filters between different habitat types select for an assemblage of species that have different temporal dynamics across the growing season. Patterns of biodiversity across a heterogenous landscape are a result of the interaction between seasonality and habitat type on community diversity across scales.",
+      "doi": "10.22541/authorea.15008996/v1",
+      "authors": [
+        "Will Glenny",
+        "Sandra J. DeBano",
+        "Scott R. Mitchell",
+        "Mary M. Rowland",
+        "Zachary Hajian‐Forooshani",
+        "Skyler Burrows",
+        "Bryan S. Stevens"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7212168901",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212168901",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/8 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Understanding how landscape heterogeneity promotes biodiversity remains a significant challenge because the drivers of community assembly co-vary across space and time.",
+      "added": false
+    },
+    {
+      "title": "From glow to risk: degree of exposure of Arctiinae moths (Lepidoptera: Erebidae) to light pollution in the Neotropics",
+      "abstract": "Abstract The accelerated decline of insects is driven by anthropogenic pressures such as habitat loss, pesticide use, and climate change. Species vulnerability varies according to their exposure, sensitivity, and adaptive capacity to these threats. Artificial light at night (ALAN) further increases this vulnerability by disrupting nocturnal and crepuscular species, particularly moths. The subfamily Arctiinae is ecologically diverse, exhibits chemical defenses and ultrasonic signaling, and is considered a valuable bioindicator group. Here, we investigate the relationship between ALAN exposure and habitat suitability for Arctiinae moths across the Neotropical region. We analyzed 17,989 occurrence records representing 3447 Arctiinae species, integrating bioclimatic variables and nighttime light data. We quantified the spatial overlap between potential species distributions and ALAN, including light intensity within occupied pixels. All species showed some level of exposure to artificial light, with 24% having more than 50% of their potential range affected. Species with broader geographic ranges exhibited disproportionately higher exposure. Predicted species richness was generally higher in illuminated areas, except in the Pantanal, indicating that regions of high ecological suitability often coincide with urbanized and artificially lit environments. The risks posed by ALAN to nocturnal biodiversity highlight the need for conservation strategies focused on areas with low levels of light pollution. Future studies integrating spatial, functional, and behavioral data will be essential to better understand both direct and indirect impacts of ALAN and to prioritize the conservation of nocturnal species in the Neotropical region.",
+      "doi": "10.1007/s10841-026-00817-5",
+      "authors": [
+        "KAROLINE M.O. SILVA",
+        "Flávia P. Tirelli",
+        "José A. Teston",
+        "Paulo De Marco",
+        "Viviane G. Ferro"
+      ],
+      "year": 2026,
+      "journal": "Journal of Insect Conservation",
+      "openalex_id": "W7213455186",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213455186",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/8 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Abstract The accelerated decline of insects is driven by anthropogenic pressures such as habitat loss, pesticide use, and climate change. Species vulnerability varies according to their exposure, sensitivity, and adaptive capacity to these threats.",
+      "added": false
+    },
+    {
+      "title": "Effectiveness of operational control of invasive conifers: Mortality, residual populations, and reinvasion",
+      "abstract": "Invasive conifers are widespread and impactful weeds, resulting in significant ecological change and management costs. Treatments to control invasive species are expensive and require long-term commitment, yet their effectiveness under operational conditions is rarely quantified. The effectiveness of two operational control approaches – aerial application of foliar herbicides and ground-based manual methods – applied to manage invasive pines in New Zealand (NZ) in typically high-density and low-density infestations, respectively, was assessed. The objective was to quantify the effectiveness of each method in reducing Pinus contorta populations and to characterize the post-treatment population structure over time to assess reinvasion risk. Pine mortality and regeneration were surveyed in operationally treated infestations 1–4 years after control across a range of invaded environments in NZ. Mortality following aerial boom spray exceeded 90% on average across all height classes 3 years after treatment. Ground-based methods achieved high mortality among larger individuals but were significantly less effective for pines shorter than 60 cm. Both operational approaches allowed populations to persist via surviving individuals in the initial years post-treatment; however, the resulting population structures differed between treatments. Reinvasion risk also differed between treatments. Following aerial boom spray, reinvasion was driven primarily by surviving larger trees, whereas following ground-based control, it was driven by missed seedlings that persisted after treatment. Despite high mortality, aerial boom spray left an estimated 1,094 surviving pines ha -1 4 years after treatment, approximately half of which exceeded 2 m in height. In contrast, the large number of seedlings missed by ground treatments could lead to rapid invasion recovery. Follow-up treatment within 2–4 years is likely to be necessary for both control methods, although management should target contrasting residual population structures and reinvasion pathways.",
+      "doi": "10.3897/neobiota.109.194587",
+      "authors": [
+        "Rebecca M. Turner",
+        "Matthew B. Scott",
+        "Thomas SH. Paul",
+        "Thomas F. Carlin",
+        "Brian Richardson",
+        "Carol A. Rolando"
+      ],
+      "year": 2026,
+      "journal": "NeoBiota",
+      "openalex_id": "W7213449221",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213449221",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/8 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Invasive conifers are widespread and impactful weeds, resulting in significant ecological change and management costs. Treatments to control invasive species are expensive and require long-term commitment, yet their effectiveness under operational conditions is rarely quantified.",
+      "added": false
+    },
+    {
+      "title": "Evolutions of Non‐oxygenated Compounds in Sunlit Subarctic Thermokarst Pond Surface Waters",
+      "abstract": "Abstract With global climate change, ground subsidence caused by permafrost thawing leads to the formation of thermokarst ponds, where organics from eroding permafrost accumulate in part as dissolved organic matter (DOM). Surface waters were collected from two subarctic thermokarst ponds with distinct characteristics: one palsa‐affected pond, which is organic‐rich, and another lithalsa‐affected pond, which is organic‐poor. Here, the photo‐evolutions of non‐oxygenated compounds (referred to as CH*) in the waters are investigated to elucidate the environmental fate of permafrost‐derived DOM. Photochemistry alters the CH* community, and the differences among various CH* subgroups, as well as between non‐oxygenated and oxygenated groups, highlight the need for a detailed classification of DOM constituents in future studies. A comparison of the thermokarst ponds revealed that the photochemical evolution of CH* is more closely linked to the specificity of DOM than to its quantity. Furthermore, the formation pathways of liquid and gaseous products were examined, emphasizing the distinct roles of liquid‐phase photochemistry and air‐water interface photochemistry. In summary, this study contributes to elucidating the extended environmental fate of permafrost‐derived DOM and underscores its critical role in shaping both liquid and gaseous environmental media in thermokarst landscapes.",
+      "doi": "10.1029/2026jd046961",
+      "authors": [
+        "Tao Wang",
+        "Runbo Wang",
+        "Jianmin Chen",
+        "Florent Dominé",
+        "Liwu Zhang",
+        "C. George"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W7213451738",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213451738",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract With global climate change, ground subsidence caused by permafrost thawing leads to the formation of thermokarst ponds, where organics from eroding permafrost accumulate in part as dissolved organic matter (DOM).",
+      "added": false
+    },
+    {
+      "title": "Theoretical Foundations for a Sustainability and Climate Change Strategic Leadership Typology: Towards Regenerative Leadership",
+      "abstract": "Abstract The interlinked climate and ecological crises have profound implications for future human success. Temperatures are set to rise by 3–4 0 C by the end of the century and there is already a sixty-nine per cent global average biodiversity abundance loss since 1970. Most of our business and management literature continues to rely on traditional, anthropocentric, leadership and strategy theories as a route to change without considering the embedded, systemic, heterogeneous, and future-orientated nature of the problem. Given this multifaceted grand challenge, and the compounding lack of adequate business and management theoretical foundations for such research investigations, we propose six strategic leadership types (and their underpinning values and capabilities) that help to differentiate leadership for the complex climate and ecological crises we face. The leadership types, greenwash, resilience, eco-innovation, ecocentric visionary (sustainability), degrowth and regenerative leadership, are calibrated against known ontological and strategic perspectives, which provide plurality and fluidity of thought, allowing connection between the natural and social sciences, to aid understanding of research towards sustainability and climate change. We reframe the leadership literature by locating our theoretical contribution within environmental ethics, linking our understanding of the natural world, human ethics, and related business ethics, identifying regenerative leadership as the most ethical and most promising type.",
+      "doi": "10.1007/s10551-026-06382-w",
+      "authors": [
+        "Helen Borland",
+        "Véronique Ambrosini",
+        "Michael Butler"
+      ],
+      "year": 2026,
+      "journal": "Journal of Business Ethics",
+      "openalex_id": "W7213462654",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213462654",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract The interlinked climate and ecological crises have profound implications for future human success. Temperatures are set to rise by 3–4 0 C by the end of the century and there is already a sixty-nine per cent global average biodiversity abundance loss since 1970.",
+      "added": false
+    },
+    {
+      "title": "Effects of message framing and video remix on health misinformation correction using short video applications",
+      "abstract": "Short video applications (SVAs) have become prominent health information sources for adolescents, where they actively seek, share, and learn about health information. These platforms host diverse health information and provide an environment where misinformation is particularly “sticky,” especially around stigmatized issues such as eating disorders (ED), which are highly visible among adolescents. Misconceptions regarding ED, such as framing restrictive eating as lifestyle choices or failing to recognize ED in men, pose significant health risks for a vulnerable age group. Addressing health misinformation in these digital environments is critical, yet communication research has yet to establish effective correction strategies tailored to SVAs. This study examined the efficacy of remix videos that pair corrections with ED misinformation to counter related misconceptions on SVAs. Using a 2 × 2 + 1 experimental design, we tested 294 Chinese adolescents aged 15-17 who viewed either an ED misinformation-only video or remix correction videos that visually combined misinformation with rebuttals using platform remix tools. Remix corrections varied by message framing (fact-based vs. narrative-based) and remix format (sequential “stitch” vs. side-by-side “duet”). We measured cognitive, affective, and behavioral outcomes. Videos featuring the lived experience of a male patient were particularly effective in improving attitudes and reducing stigma, especially in side-by-side duet formats, which produced downstream effects on adolescents’ willingness to support peers with ED. Results showed that videos as brief as one minute were sufficient to produce measurable correction outcomes, underscoring the potential of platform-specific remix techniques in combating health misinformation within adolescents’ native digital environments.",
+      "doi": "10.30935/ojcmt/19269",
+      "authors": [
+        "Rachel Hoi Yan Au",
+        "Qiuyi Kong",
+        "Yunya Song",
+        "Ruqing Chen",
+        "Kelly Y. L. Ku"
+      ],
+      "year": 2026,
+      "journal": "Online Journal of Communication and Media Technologies",
+      "openalex_id": "W7213457390",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213457390",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Short video applications (SVAs) have become prominent health information sources for adolescents, where they actively seek, share, and learn about health information.",
+      "added": false
+    },
+    {
+      "title": "Revised diets and urban infrastructure can improve human health and the global environment",
+      "abstract": "Current patterns of food production and consumption are widely recognised as unsustainable. This review explores opportunities to shift food systems towards healthy diets and secure food yields while remaining within planetary resource boundaries. Drawing on improved global data on the environmental impacts of different foods, we adopt a systems perspective to examine the interconnected nexus of health, diets and the global environment, with particular attention to the role of future urban food systems. As the global population becomes increasingly urbanised, cities have the potential to reshape food systems and urban infrastructure. Our analysis suggests that the Earth could feed some 10 billion people by the end of the century on less than half of today’s agricultural land if diets shift towards more plant-based and soilless foods, food waste is substantially reduced, and nutrients from urban waste streams are recycled as complementary fertilisers. Such changes could halve food-related air emissions, help restore biodiversity and contain the risk of crossing several planetary boundaries. They could also halt further expansion of cropland and pasture. From a health perspective, a shift towards predominantly plant-based diets, combined with lower intakes of calories, sugar, salt, fat, red meat and ultra-processed foods, could reduce obesity and non-communicable diseases, potentially extending life expectancy by up to a decade and preventing an estimated 15 million premature deaths annually. Importantly, many of these interventions could generate benefits within months or years, making dietary change and nutrient recycling potentially much faster levers for transformation than changes to long-lived infrastructure such as cars and roads.",
+      "doi": "10.3389/fsufs.2026.1881497",
+      "authors": [
+        "Jan-Olof Drangert"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Sustainable Food Systems",
+      "openalex_id": "W7213465358",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213465358",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Current patterns of food production and consumption are widely recognised as unsustainable. This review explores opportunities to shift food systems towards healthy diets and secure food yields while remaining within planetary resource boundaries.",
+      "added": false
+    },
+    {
+      "title": "Climate Risk and Firms' Shadow Relocation: Evidence From China",
+      "abstract": "ABSTRACT Using recruitment big data matched to Chinese listed firms and their subsidiaries, covering 26,439 firm‐year observations from 2014 to 2023, we find that parent firms exposed to higher climate risk rarely relocate their registered locations. Instead, they reallocate employment toward subsidiaries located in lower‐risk regions. We term this adaptive strategy shadow relocation. Decomposition results show that shadow relocation operates mainly through the diversion of hiring growth toward safer regions rather than retrenchment at the parent firm. This response is consistent with both profit‐seeking and risk‐avoidance motives, as climate risk erodes local profitability and reduces managerial risk tolerance. The effect is stronger where government climate attention is lower, climate policy uncertainty is higher, and subsidiary agency costs are lower. We further distinguish between types of climate risk. Transition risk is associated with creative destruction, reducing traditional employment while increasing green job creation, whereas physical risk generates no comparable structural adjustment. We discuss the implications of this less visible adaptation strategy for regional inequality and sustainable development.",
+      "doi": "10.1002/sd.71675",
+      "authors": [
+        "Xinzi Xia",
+        "Jianxiang Zhang",
+        "Peng Xiao"
+      ],
+      "year": 2026,
+      "journal": "Sustainable Development",
+      "openalex_id": "W7213441134",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213441134",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Using recruitment big data matched to Chinese listed firms and their subsidiaries, covering 26,439 firm‐year observations from 2014 to 2023, we find that parent firms exposed to higher climate risk rarely relocate their registered locations.",
+      "added": false
+    },
+    {
+      "title": "Blue Cities, Green Laws: Legal Models for Urban Climate Resilience in the Global South",
+      "abstract": "Blue cities are cities that plan themselves around water rather than against it: rainwater is stored, recycled and reused, streets and parks are given permeable surfaces, wetlands and lakes are protected and restored, and coastal settlements are defended by mangrove belts and flood-resistant construction. Rivers, lakes, drainage, drinking water supply, sewage and storm water are treated as one interconnected system, and nature-based solutions such as rain gardens, bioswales and urban forests are preferred to concrete drains that push water downstream. The concept matters most in the Global South, where Jakarta is sinking through groundwater over-extraction, Mumbai floods every monsoon because of poor drainage and construction on wetlands, and Cape Town came close to running dry during its “Day Zero” crisis. This paper examines why blue cities and consistent green laws are needed, drawing on drought, excess rainfall and flooding, environmental degradation, climate-driven displacement and public health in India and elsewhere in the Global South, and considers how the blue-green infrastructure approach can be implemented, before analysing the experience of Rotterdam, Singapore and Cape Town. It argues that water should be treated as a resource to be planned with, not a threat to be engineered away.",
+      "doi": "10.63108/ijlmh.12808",
+      "authors": [
+        "Raahul T R"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Law Management & Humanities",
+      "openalex_id": "W7213468784",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213468784",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Blue cities are cities that plan themselves around water rather than against it: rainwater is stored, recycled and reused, streets and parks are given permeable surfaces, wetlands and lakes are protected and restored, and coastal settlements are defended by mangrove belts and flood-resistant construction.",
+      "added": false
+    },
+    {
+      "title": "Evaluating Biochar Crediting Protocols for Durable Carbon Removal",
+      "abstract": "As biochar expands as a source of carbon credits it has become increasingly clear that there are major differences among biochar protocols. This variation can make it challenging for producers to choose protocols and can make it difficult for buyers to understand the comparative value of different certified biochar credits, and in both these cases investor confidence is jeopardized. Here we comparatively review eight voluntary biochar crediting protocols, evaluating their approaches to six parameters: feedstock eligibility, production conditions, application criteria, permanence, reversal risk, and monitoring, reporting, and verification (MRV). We find that all protocols have three common types of requirements: restrictions on eligible biomass feedstocks, controls in thermochemical conversion, and documentation of end uses associated with carbon storage. However, we also find protocols have major differences in how they operationalize permanence and carbon crediting integrity. Some methodologies treat permanence as a material quality and use compositional indicators such as H:Corg ratios to define permanence. Others adopt a temporal or end use approach, quantifying the fraction of carbon expected to remain stored over a specific time period given the final use. Also, requirements for lifecycle assessment, chain of custody documentation, and non-soil application vary considerably. Finally, we identify three key scientific and methodological uncertainties that may present future challenges for all biochar protocols: biochar loss during fire, landscape mobility and erosion, and biochar induced priming of native soil-carbon. We conclude that more harmonized, evidence-based approaches to durability, full life-cycle emissions and uncertainty management are needed to improve credibility and support high integrity biochar CDR markets.",
+      "doi": "10.31223/x5x51w",
+      "authors": [
+        "Shreya Mukhopadhyay",
+        "Xiaodong Gao",
+        "Julia Seay",
+        "Thembelihle Chaza",
+        "Saran Sohi",
+        "Caroline Masiello",
+        "Kenneth Medlock III"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213455153",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213455153",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "As biochar expands as a source of carbon credits it has become increasingly clear that there are major differences among biochar protocols. This variation can make it challenging for producers to choose protocols and can make it difficult for buyers to understand the comparative value of different certified biochar cre…",
+      "added": false
+    }
+  ]
+}
