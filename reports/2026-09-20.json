@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-20",
+  "statistics": {
+    "fetched": 138,
+    "duplicates_removed": 135,
+    "evaluated": 3,
+    "added": 2,
+    "ignored": 1,
+    "average_score": 3.67
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "A Quantitative Content Analysis of Major United States-Based Religious Organizations' Framing of Mask-Wearing on X (Formerly Twitter) During COVID-19",
+      "abstract": "The purpose of this quantitative content analysis was to examine how major U.S.-based religious organizations framed mask-wearing on X (formerly Twitter) during the COVID-19 pandemic and whether identifiable framing cues were associated with observable audience engagement. Grounded in framing theory and prospect theory, the study analyzed publicly available tweets posted by 14 nationally prominent U.S. megachurches and affiliated public-facing organizational representatives between March 2020 and December 2022. The final sample consisted of 1,288 tweets. Tweets were coded for gain- and loss-framed valence-framing cues, compliance- and resistance-oriented frame-orientation cues, and engagement outcomes measured through publicly visible likes, comments, and retweets. Because engagement variables were highly skewed, Mann–Whitney U tests were used to compare engagement between tweets with and without identifiable framing cues. Results indicated that explicit mask-wearing framing cues were rare. Valence-framing cues were present in 30 tweets, and frame-orientation cues were present in 31 tweets. Despite this limited distribution, tweets containing identifiable valence-framing cues differed significantly from tweets without such cues in likes, comments, and retweets. Tweets containing identifiable frame-orientation cues also differed significantly from tweets without such cues across all three engagement outcomes. These results suggest that identifiable mask-wearing framing cues were associated with higher engagement. In addition, likes and retweets were sensitive to unusually high-engagement observations. The study contributes to scholarship on religious communication, health communication, and digital framing by clarifying how faith-based framing corresponded with observable engagement during a contested public health crisis.",
+      "doi": null,
+      "authors": [
+        "Michael John Farzinpour"
+      ],
+      "year": 2026,
+      "journal": "Scholars Crossing (Liberty University)",
+      "openalex_id": "W7213567085",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213567085",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 3/5 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "The purpose of this quantitative content analysis was to examine how major U.S.-based religious organizations framed mask-wearing on X (formerly Twitter) during the COVID-19 pandemic and whether identifiable framing cues were associated with observable audience engagement.",
+      "added": true
+    },
+    {
+      "title": "Forecasting Lives Lost to Climate Change: A Precautionary Empirical Framework for Climate-Related Mortality",
+      "abstract": "Climate-related mortality remains underdeveloped in climate-risk assessment, despite extensive evidence that climate change affects food security, extreme events, conflict risk, and several health outcomes. This study develops a simplified, precautionary empirical framework to estimate climate-related mortality across selected pathways using historical relationships among population, greenhouse-gas emissions, atmospheric CO2 concentration, and global mean surface temperature, and introduces a cumulative mortality metric expressed as climate-related deaths per cumulative Mt CO2-e over 1900--2300. Publicly available datasets were assembled for undernourishment, conflict, disasters, selected health categories, population, emissions, atmospheric CO2 concentration, and temperature, and mortality was estimated under four stylised emissions pathways: business-as-usual, net zero by 2070, 2060, and 2050 (Paris aligned). Undernourishment and associated conflict emerged as the dominant components of the estimated burden, which also included storm, flood, landslide, and wildfire disaster categories. Air pollution was included although this is arguably an associated rather than climate-implicated cause of mortality. Other pathways were reviewed but excluded from the quantitative totals where globally consistent relationships with climate indicators were presently too weak or conflicting. Across scenarios, business-as-usual emissions are associated with substantially larger climate-related mortality burdens, with harms concentrated disproportionately in lower-income populations. Regional economic capacity, the framework's primary proxy for resilience and adaptive capacity, is the main driver of this unevenness; institutional capacity and population awareness were not modelled separately and instead contribute to the width of the reported uncertainty ranges. In the central estimates, cumulative climate-related deaths over 1900–2300 are roughly 5.8 billion under business-as-usual, compared with around 1.6–2.1 billion under net-zero pathways. Earlier progress toward net zero materially reduces projected mortality within the modelled ranges. Climate risk assessment can be improved by use of the 710 deaths per Mt CO2-e metric (assuming zero emissions by 2050) in projects that are causing emissions as well as those that save lives by reducing or drawing down emissions. Uncertainty remains substantial, particularly for undernourishment and conflict and for excluded health pathways, so the deaths-per-megatonne estimates are intended as indicative, approximate, and explicitly precautionary rather than as precise forecasts of climate-related mortality. Excluded potential causes and the prospect of accelerating climate change due to compounding feedback loops suggest that these estimates may still be underestimates of true climate mortality.",
+      "doi": "10.31223/x5nn5r",
+      "authors": [
+        "Nigel Howard",
+        "Peter Newman"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213530259",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213530259",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 42%: matched 2/5 key interest terms (wildfire, causes)",
+      "tags": [
+        "Wildfire",
+        "Causes"
+      ],
+      "summary": "Climate-related mortality remains underdeveloped in climate-risk assessment, despite extensive evidence that climate change affects food security, extreme events, conflict risk, and several health outcomes.",
+      "added": true
+    },
+    {
+      "title": "The Impact of Direct Democracy on Policy Formation",
+      "abstract": "As political polarization and distrust in elected representatives increases in American politics, voters are turning to direct democracy as a mechanism to drive policy making. Proponents of both legislative mechanisms and the use of direct democracy argue that their means of policy making is the most democratic. The Founding Fathers chose a representative system to limit the influence of faction and try and prevent Tocqueville’s tyranny of the majority. This study examines both direct democracy and legislative outcomes at the state level through the lens of adult use cannabis sales policy. Adult use cannabis sales were first legalized in the US in Colorado and Washington in 2012 through ballot initiatives. It was not until 2019 that Illinois became the first state to do so through legislative means. Currently 24 states have legalization policy; 23 of these states have an active retail cannabis sales program. This study measures democratic outcomes through the use of logistic regression. Democratic outcomes have three components; the ability to freely engage in the process, acceptance of the majority opinion as the policy outcome, and adequate protection for the minority. It is this minority protection that differentiates a democratic outcome from tyranny of the majority. The research questions evaluate the ability of counties to opt into or out of adult use cannabis sales. The variables included are geographic counties, votes cast, median age, state policy on tax revenue distribution, urban-rural continuum codes, relationship between medicinal and adult use dispensaries, and religiosity. County level voter data was used in direct democracy states and state senate district data was used in legislative states. The findings of this study suggest that both direct democracy and legislative legalization meet the first two criteria for a democratic outcome by permitting voters to express their preference and accepting the majority opinion, however, direct democracy provided greater protection for the minority and produced a more democratic outcome.",
+      "doi": null,
+      "authors": [
+        "Tricia Smith"
+      ],
+      "year": 2026,
+      "journal": "Digital Commons (Liberty University)",
+      "openalex_id": "W7213573655",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213573655",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/5 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "As political polarization and distrust in elected representatives increases in American politics, voters are turning to direct democracy as a mechanism to drive policy making. Proponents of both legislative mechanisms and the use of direct democracy argue that their means of policy making is the most democratic.",
+      "added": false
+    }
+  ]
+}
