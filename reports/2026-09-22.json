@@ -1,0 +1,605 @@
+{
+  "date": "2026-09-22",
+  "statistics": {
+    "fetched": 152,
+    "duplicates_removed": 128,
+    "evaluated": 24,
+    "added": 2,
+    "ignored": 22,
+    "average_score": 1.62
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Prescribed burns drive lasting changes in soil nitrogen cycling and microbial function",
+      "abstract": "ABSTRACT Fire is a major pulse disturbance to soil microbial communities, with broad implications for nutrient cycling; however, regular burning is also a natural and often-essential process maintaining biodiversity in unique and imperiled fire-dependent ecosystems. Prescribed fire is widely used to promote this biodiversity and simultaneously reduce wildfire risk. Although such repeated burning is known to alter surface biodiversity, belowground soil geochemistry, and soil microbial community structure, the functional consequences (i.e . , the metabolic capabilities that underlie the ecosystem services soil microorganisms provide) remain underexplored. Here, we examined the effects of 30 years of repeated prescribed fire at the Albany Pine Bush—a fire-dependent, inland pitch pine barren ecosystem of the northeastern United States. Compared with the control stands, we observed that this long-term fire management has led to substantial depletion of inorganic soil nitrogen, specifically nitrate. We found no meaningful differences in the higher-level taxonomic composition of soil prokaryotic or fungal communities; however, analysis of metagenome-assembled genomes assembled from these soils revealed several differentially abundant populations. Furthermore, our metagenomic analysis revealed significant changes in the nitrogen-cycling functional potential, specifically decreased dissimilatory nitrate reduction and denitrification potential in repeatedly burned soils. These functional shifts have important implications for both nutrient cycling and emissions of trace nitrogen gases from these soils. Our results suggest that functionally meaningful changes in the soil microbiome can persist between burn events, even when higher-order community membership appears stable. This may imply that repeated fire can deplete reactive nitrogen emissions from soils by lowering the functional capacity of nitrogen-reducing microbes. IMPORTANCE Prescribed fire is widely used by land managers to reduce wildfire risk and promote biodiversity. While the effects of fire on aboveground processes are well understood, much less is known about how repeated burning influences soil biological properties—including the functional role that soil microorganisms play in nutrient cycling and greenhouse gas production. We addressed this gap by studying soils from the Albany Pine Bush, a rare and endangered ecosystem that has experienced regular prescribed fires for 30 years. Long-term fire management significantly altered soil chemistry, specifically lowering the amount of nitrogen in the soil. In addition, we found that fire management decreased the genetic potential of the soil microbial community to produce nitrogen oxides—potent contributors to climate change. Thus, prescribed fire’s contribution to greenhouse gas emissions may involve a complex relationship between direct fire-driven emissions, increased fire resilience of promoted vegetation, and—as suggested by our results—the reduced ability of soil microbes to produce greenhouse gases.",
+      "doi": "10.1128/msystems.00852-26",
+      "authors": [
+        "Alaina O. Benot",
+        "Gray Waldschmidt",
+        "Samuel C. Gilvarg",
+        "Eva O. L. Legge",
+        "Isaac J. Okyere",
+        "Chanistha Tiyapun",
+        "Sarah K. Lucas",
+        "Andrew L. Vander Yacht",
+        "Jennifer Louise Goff"
+      ],
+      "year": 2026,
+      "journal": "mSystems",
+      "openalex_id": "W7125372033",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7125372033",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 66%: matched 6/11 key interest terms (burning, prescribed, united states, united, states)",
+      "tags": [
+        "Burning",
+        "Prescribed",
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "ABSTRACT Fire is a major pulse disturbance to soil microbial communities, with broad implications for nutrient cycling; however, regular burning is also a natural and often-essential process maintaining biodiversity in unique and imperiled fire-dependent ecosystems.",
+      "added": true
+    },
+    {
+      "title": "Towards Acoustic Bioindicator Integration in AI-Based Wildfire Monitoring: A Systematic Review",
+      "abstract": "Wildfires are becoming more frequent, severe, and long-lasting, driving rapid growth in sensor-based and artificial intelligence (AI)-enabled systems for early detection and risk assessment. This article presents a systematic literature review, based on 169 studies screened from 7511 records, of wildfire monitoring approaches using satellite and aerial remote sensing, fixed cameras, wireless sensor networks, and Internet of Things (IoT) platforms combined with machine learning (ML) and deep learning (DL) models for ignition detection, fire-weather indices, spread prediction, and burned-area mapping. The review organizes existing work by sensing modality, spatial and temporal scale, learning task, model type, and deployment architecture, and identifies the environmental drivers most commonly used across systems, including temperature, humidity, vegetation state, drought indices, and smoke or air quality. Based on this analysis, the review summarizes key technical challenges, including data sparsity in remote regions, high false-alarm rates, limited edge resources, and difficulty fusing heterogeneous data streams in real time. As an exploratory future direction, the review discusses bioindicator signals from wildlife and managed species, using honeybee colonies as a case example. Current bee bioacoustic studies support the detection of colony states and environmental stress proxies, but they do not yet validate wildfire or smoke detection. Therefore, this review proposes bee bioacoustics only as a potential complementary contextual signal for future hybrid wildfire monitoring systems.",
+      "doi": "10.3390/s26185851",
+      "authors": [
+        "Saba Mustafa",
+        "Mahsa Mohaghegh",
+        "Iman Ardekani",
+        "Abdolhossein Sarrafzadeh"
+      ],
+      "year": 2026,
+      "journal": "Sensors",
+      "openalex_id": "W7169618140",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7169618140",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 49%: matched 5/11 key interest terms (ignition, states, wildfires, drivers, wildfire)",
+      "tags": [
+        "Ignition",
+        "States",
+        "Wildfires",
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "Wildfires are becoming more frequent, severe, and long-lasting, driving rapid growth in sensor-based and artificial intelligence (AI)-enabled systems for early detection and risk assessment.",
+      "added": true
+    },
+    {
+      "title": "Nationalism, Balance of Power, and World Order: Untangling Neorealism's Troubled Relationship With Nationalism",
+      "abstract": "ABSTRACT While many explain the crisis of the liberal international order through nationalism, its treatment by neorealist scholars remains frustrating. Untangling the nationalism–neorealism relationship would help explain the current crisis and enhance neorealism's explanatory power. First, this article reviews and critically assesses neorealist scholarship (defensive, offensive and neoclassical realism) about nationalism. Then, using these insights, I propose a distinctively neorealist theory of nationalism. International power shifts reshape nationalism, which, in turn, conditions the behaviour and discourse of the great powers. Rising material capabilities foster offensive nationalism; diminishing capabilities foster defensive nationalism. Hence, global power shifts—foremost the United States' decline relative to China and Russia—transformed the great powers' nationalism, breaking the post‐Cold War order. This approach enables predictions about nationalism's future. If the global power distribution stabilises, the ‘distribution’ of nationalism should stabilise, too; the evolution of nationalism shows a degree of predictability. Pursuing a ‘neorealist nationalism’ research agenda helps tackle fundamental questions about the international order.",
+      "doi": "10.1111/nana.70116",
+      "authors": [
+        "Dylan Motin"
+      ],
+      "year": 2026,
+      "journal": "Nations and Nationalism",
+      "openalex_id": "W7213541969",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213541969",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 3/11 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "ABSTRACT While many explain the crisis of the liberal international order through nationalism, its treatment by neorealist scholars remains frustrating. Untangling the nationalism–neorealism relationship would help explain the current crisis and enhance neorealism's explanatory power.",
+      "added": false
+    },
+    {
+      "title": "The flip side of destructive wildfires: a water supply buffer to climate change",
+      "abstract": "Abstract Wet to dry climate extremes in California have directly or indirectly impacted droughts, wildfires, and floods resulting in costly damage. Reservoirs in California were built to store snowpack into the summer and provide multiple benefits in the state: they offer municipal and agricultural water resources during the dry season and prevent flooding downstream. The upper Feather River watershed, which drains 9,300 square kilometers (km2) into Lake Oroville, provides water to over 27 million people and 3,000 km2 of farmland. The North Complex fire in 2020 and Dixie and Sugar fires in 2021 burned over 50% of the watershed and their long-term impact on the upper Feather River water supply was previously unknown. This study quantified post-wildfire (postfire) changes in plant water use, soil moisture, and streamflow due to changes in vegetation using a physically-based water balance model. Long term trends revealed decreases in annual precipitation and mid to high elevation snowpack in this watershed from 1981-2020. Due to changes in vegetation, annual postfire streamflow at Feather River at Oroville increased by 22%, 32% and 16% while summer baseflows increased by 5%, 12% and 2% in water years 2022 through 2024, respectively. Larger increases in streamflow occurred during water year 2023, an extreme wet year relative to the other years, highlighting the challenges in quantifying and managing hydrologic systems with naturally high interannual variability. Seasonal soil moisture increased by up to 34% depending on the location, predominantly in fall and summer postfire. Despite observed historical decreases in precipitation and snowpack, changes in vegetation due to wildfires or other disturbances may increase water availability, and continued management of mixed-conifer forests (i.e. thinning and controlled burns) may help offset future reduced precipitation and snowpack and therefore increase water supply resilience.",
+      "doi": "10.1088/2752-5295/aea9bf",
+      "authors": [
+        "Diana Zamora‐Reyes",
+        "Michelle A. Stern",
+        "Lorraine E. Flint",
+        "Whitney A. Seymour"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Climate",
+      "openalex_id": "W7213585928",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213585928",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 2/11 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wet to dry climate extremes in California have directly or indirectly impacted droughts, wildfires, and floods resulting in costly damage. Reservoirs in California were built to store snowpack into the summer and provide multiple benefits in the state: they offer municipal and agricultural water resources duri…",
+      "added": false
+    },
+    {
+      "title": "Rapid Loss of the Sierra Nevada's Largest Trees Driven by Fire",
+      "abstract": "Large trees disproportionately contribute to biomass storage, habitat structure, and ecosystem functioning. However, their distribution and health dynamics remain poorly quantified at a regional scale. Here, a deep learning model (U-Net-ID) and canopy height models derived from sub-meter aerial imagery from 2020 were used to delineate all individual trees with crown area $\\geq$ 100 m$^2$ across the Sierra Nevada Floristic Province. The model was trained using more than 3.3 million synthetic tree crowns and achieved a median Intersection over Union (IoU) of 0.602 when validated against an independent dataset of 20,273 crowns. A total of 6,515,705 large trees were mapped, occurring across approximately 78.7% of the Sierra Nevada Floristic Province. The spatial distribution of large trees showed associations with elevation, temperature, and precipitation. Using Sentinel-2 time series from 2020 to 2025, tree health dynamics were characterized by extracting spectral trajectories for each crown and applying BFAST breakpoint detection algorithm combined with a disturbance classification framework to identify mortality, disturbance, and recovery trajectories of individual trees. Wildfires, estimated from CAL FIRE fire perimeters, were identified as the dominant driver of large-tree mortality, killing 10% of all large trees in the Sierra Nevada, with mortality strongly concentrated during the extreme 2020-2021 fire seasons.",
+      "doi": "10.48550/arxiv.2609.17925",
+      "authors": [
+        "Fabien H. Wagner",
+        "Dan J. Dixon",
+        "Christopher W. Woodall",
+        "Mayumi C. M. Hirye",
+        "Felipe Saad",
+        "Griffin Carter",
+        "Ricardo Dalagnol",
+        "Lorena Alves",
+        "Cynthia Creze",
+        "Stephen C. Hagen",
+        "Zhihua Liu",
+        "Christopher Mihiar",
+        "Adugna Mullissa",
+        "Le Bienfaiteur Sagang Takougoum",
+        "Bryan Shaddy",
+        "Yan Yang",
+        "Dafeng Zhang",
+        "Sassan Saatchi"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7213524017",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213524017",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/11 key interest terms (large, wildfires)",
+      "tags": [
+        "Large",
+        "Wildfires"
+      ],
+      "summary": "Large trees disproportionately contribute to biomass storage, habitat structure, and ecosystem functioning. However, their distribution and health dynamics remain poorly quantified at a regional scale.",
+      "added": false
+    },
+    {
+      "title": "Mapping conservation status and land use change drivers in Chilean espinal agroforestry systems using CORONA KH‑4B and Sentinel‑2 data (1972–2023)",
+      "abstract": "Abstract Over the past five decades, land-use change driven by government subsidies for tree planting—particularly of exotic species such as Pinus radiata and Eucalyptus spp.—together with irrigated agricultural expansion, has caused substantial declines in Chile’s ‘espinal’, an agroforestry system dominated by Vachellia caven . This study maps the conservation status of ‘espinal’ systems and assesses the main drivers of land-use change affecting ‘espinal’ in Mediterranean central Chile. We analyzed recent and historical satellite imagery covering approximately 38,000 km 2 to map ‘espinal’ extent and conservation status in 2023 and to reconstruct land-use changes between 1972 and 2023, with a detailed assessment of a 500,000 ha focus area in the Cauquenes region. ‘Espinal’ and other land uses were mapped using Sentinel-2 imagery and declassified CORONA KH-4B data. For 2023, ground-truth data from field surveys and drone imagery were used to train a random forest classifier on Sentinel-2 data and vegetation indices were used to stratify ‘espinal’ systems into conservation classes based on tree cover density. For 1972, ‘espinal’ and other land-use samples were visually interpreted from CORONA KH-4B imagery and used to train a comparable classifier, followed by post-classification change detection. In 2023, ‘espinal’ covered over 12,000 km 2 , comprising 5609.8 ± 1,056.9 km 2 of low-density, 5151.2 ± 727.8 km 2 of medium-density, and 1,786.0 ± 571.6 km 2 of high-density ‘espinal’. In the Cauquenes region, ‘espinal’ declined by more than 40% over five decades, mainly due to conversion to agricultural and forested land (83%), although localized re-establishment was observed. Greater distance from irrigation infrastructure and steeper terrain increased the likelihood of ‘espinal’ persistence and recovery. Despite its dramatic decline, ‘espinal’ remains the dominant land-use system in central Chile.",
+      "doi": "10.1007/s10457-026-01672-8",
+      "authors": [
+        "Joel Segarra",
+        "Giordano Catenacci‐Aguilera",
+        "Alejandro del Pozo"
+      ],
+      "year": 2026,
+      "journal": "Agroforestry Systems",
+      "openalex_id": "W7213766387",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213766387",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Over the past five decades, land-use change driven by government subsidies for tree planting—particularly of exotic species such as Pinus radiata and Eucalyptus spp.—together with irrigated agricultural expansion, has caused substantial declines in Chile’s ‘espinal’, an agroforestry system dominated by Vachell…",
+      "added": false
+    },
+    {
+      "title": "Integrating Wildfire Risk into Robust Forest Management Optimization",
+      "abstract": "Increasingly severe and unpredictable extreme weather events-such as high-intensity forest firesthreaten long-term ecosystem service provision, driving a critical reassessment of current forest management planning. While planning frameworks exist, few incorporate optimization methods that account for the uncertainty and variability introduced by such extremes. Meanwhile, process-based models have advanced our understanding of fire impacts on forest dynamics and ecosystem services, yet their potential to inform strategic management decisions remains largely untapped. Focusing on intensive plantation forests, we propose a combined approach that uses fire simulation within a growth model to optimize forested landscape management under increasing fire risk. We demonstrate that incorporating fire behavior and its uncertainties significantly alters management outcomes, favoring diversified portfolios that balance high-yield but fire-prone regimes with lowerrisk alternatives. While diversification improves robustness for objectives like timber provision, it does not guarantee complementary benefits for carbon storage. Our method exposes the limitations of current management regimes and identifies key areas for improved planning to better mitigate fire risk and strengthen long-term resilience.",
+      "doi": "10.48550/arxiv.2609.16865",
+      "authors": [
+        "Clémence Labarre",
+        "Denis Loustau",
+        "Jean‐Christophe Domec",
+        "Mengistie Kindu",
+        "Thomas Knoke"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7213401904",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213401904",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Increasingly severe and unpredictable extreme weather events-such as high-intensity forest firesthreaten long-term ecosystem service provision, driving a critical reassessment of current forest management planning.",
+      "added": false
+    },
+    {
+      "title": "Wildfire-Driven Exposure to Ambient Polycyclic Aromatic Hydrocarbon (PAH) across North America",
+      "abstract": " A new vegetation-specific ensemble wildfire emission inventory for EPA 16 priority PAHs is developed for 2009-2021 across North America. High-resolution simulations with the new PAH emission inventory substantially reduce regional PAH model biases across North America. Wildfire-driven PAH concentrations and associated health risks increased from 2009 to 2021, while non-wildfire sources declined.",
+      "doi": "10.22541/essoar.15009062/v1",
+      "authors": [
+        "MD Jahidul Islam",
+        "Abu Ubyda Ibnal Zarrah",
+        "Christine Wiedinmyer",
+        "Jun Meng"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7162988111",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7162988111",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": " A new vegetation-specific ensemble wildfire emission inventory for EPA 16 priority PAHs is developed for 2009-2021 across North America. High-resolution simulations with the new PAH emission inventory substantially reduce regional PAH model biases across North America. Wildfire-driven PAH concentrations and associa…",
+      "added": false
+    },
+    {
+      "title": "Local knowledge and climate change in Ethiopian secondary school geography and biology textbooks",
+      "abstract": "Education is crucial in addressing the climate crisis, with textbooks shaping students’ knowledge and skills. However, little research examines how Ethiopian textbooks integrate climate change concepts with local perspectives, despite the importance of local knowledge. This study conducts a content analysis of Ethiopian secondary school biology and geography textbooks to investigate the portrayal of climate change, with particular attention to the incorporation of local knowledge. Six textbooks, four geography and two biology, were selected for analysis. The study employed theoretical frameworks including green governmentality, ecological modernization, civic environmentalism, and the political ecology of education. Findings indicate that climate change is predominantly framed through global scientific perspectives, with minimal incorporation of local knowledge systems. The textbooks primarily reflect climate change problems related to agriculture, hydrology, and biodiversity. Causes of climate change are presented as both anthropogenic and natural, while proposed solutions are categorized into mitigation and adaptation measures, with adaptation strategies receiving greater emphasis. However, the portrayal of climate change dynamics lacks meaningful connections to local practices, thereby failing to cultivate contextually relevant climate literacy. We recommend revising Ethiopian textbooks to integrate local knowledge, promote culturally grounded learning, and empower students as active agents in addressing climate change.",
+      "doi": "10.1080/2331186x.2026.2735147",
+      "authors": [
+        "Animut Mekuriaw Andualem",
+        "Jørgen Klein",
+        "Dawit Asrat Getahun"
+      ],
+      "year": 2026,
+      "journal": "Cogent Education",
+      "openalex_id": "W7213786548",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213786548",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/11 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Education is crucial in addressing the climate crisis, with textbooks shaping students’ knowledge and skills. However, little research examines how Ethiopian textbooks integrate climate change concepts with local perspectives, despite the importance of local knowledge.",
+      "added": false
+    },
+    {
+      "title": "Extreme North American heatwaves in 1941 and 2021 drove widespread but contrasting impacts",
+      "abstract": "The 2021 Western North American heatwave was among the most extreme heatwaves ever recorded. Recent work has identified one event of comparable magnitude and location in 1941. However, little is known about the impacts of the 1941 heatwave. Here we review 357 issues of 25 news publications from before, during, and after the 1941 heatwave, and we uncover widespread impacts including mortality, water shortages, crop damages, wildfires, flooding, and changes to social customs and behaviours. We then provide a quantitative analysis of climate reanalysis, streamflow, sea level, crop yield, and mortality data to compare with 2021. Both qualitative and quantitative analyses offer insights into how and why select impacts of the two heatwaves differed, including different continental-scale heatwave evolution and post-heatwave weather, policy responses that were related to co-occurring crises of World War II and the COVID-19 pandemic, and differing social norms, daily tidal cycles, technology, engineering, and infrastructure. The 1941 Western North American heatwave caused widespread impacts, including water shortages, crop losses, wildfires, and flooding, which contrasted with the 2021 event. The two events differed in weather evolution, policy responses, infrastructure, and societal conditions, according to an analysis of newspapers and quantitative datasets.",
+      "doi": "10.1038/s43247-026-04055-0",
+      "authors": [
+        "Sam Anderson",
+        "Shawn Chartrand"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7213621480",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213621480",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "The 2021 Western North American heatwave was among the most extreme heatwaves ever recorded. Recent work has identified one event of comparable magnitude and location in 1941. However, little is known about the impacts of the 1941 heatwave.",
+      "added": false
+    },
+    {
+      "title": "Tree Species Vulnerability to Fire Increases at Dry Range Edge",
+      "abstract": "ABSTRACT Plant responses to fire are generally characterized for individual species and thus do not capture the variation in responses that can occur geographically. Here, we examine post‐fire responses across the climatic range of multiple resprouting eucalypt species following the 2019/20 Australian fire season. We found that two species exhibited higher rates of tree mortality, topkill (death of above‐ground biomass), and lower rates of seedling recruitment at the dry edge of their ranges (mortality up to 16% more likely, topkill up to 19% more likely, seedling recruitment an order of magnitude lower). However, one species maintained resilience (low rates of mortality and topkill and high rates of recruitment) across its range. We further find that most, but not all, species show elevated topkill—but not necessarily elevated mortality—in the largest trees, partially explained by pre‐fire stem damage. This divergence suggests many large trees survive fire through basal resprouting alone, effectively resetting canopy structure to a smaller size class rather than escaping disturbance impacts altogether. These results highlight the need for a more nuanced approach to classifying plant responses to fire that accounts for localized variation in plant responses. We suggest that classification of plant response to fire will be improved by including attributes such as plant size, disturbance regime, and climate. Such an approach is critically important for fire management and conservation planning.",
+      "doi": "10.1002/gcb4.70053",
+      "authors": [
+        "Eli Ryan Bendall",
+        "Luke C. Collins",
+        "Michael Bedward",
+        "Matthias M. Boer",
+        "Brendan Choat",
+        "Rachael V. Gallagher",
+        "Belinda E. Medlyn",
+        "Ross A. Bradstock",
+        "Rachael H. Nolan"
+      ],
+      "year": 2026,
+      "journal": "Global Change Biology Communications",
+      "openalex_id": "W7213751804",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213751804",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "ABSTRACT Plant responses to fire are generally characterized for individual species and thus do not capture the variation in responses that can occur geographically. Here, we examine post‐fire responses across the climatic range of multiple resprouting eucalypt species following the 2019/20 Australian fire season.",
+      "added": false
+    },
+    {
+      "title": "A systematic review of geospatial techniques for ecological vulnerability modelling across ecological domains",
+      "abstract": "Vulnerability modelling in ecology is increasingly studied within the framework of vulnerability assessment, measurement, and modelling, as well as adaptation and security. Geospatial technology plays a very significant role in ecological studies and in assessing the sensitivity and exposure, as well as the adaptive capacity of ecosystems. In this study, within the framework of the PRISMA protocol, 68 empirical case studies were retrieved from the databases of Scopus, SciSpace, Google Scholar, and the Shodhganga repository. These studies include different types of ecosystems, such as forests, aquatic systems, and urban and agricultural ecosystems. The reviewed studies were screened against the inclusion criteria of the present study. The findings of the study reveal positive trends in terms of using methodologies, indicators, models, and software in vulnerability modelling. However, the studies have been found to contain several gaps, especially large-scale vulnerability assessment of forests. Therefore, on the basis of the reviewed studies, the authors recommend the development of models such as machine learning models, incorporation of data from UAVs as well as from LiDAR, and long-term large-scale research for effective management of ecosystems and for policy support in ecology.",
+      "doi": "10.1007/s44274-026-01072-w",
+      "authors": [
+        "Sasi M.",
+        "Sawant Sushant Anil"
+      ],
+      "year": 2026,
+      "journal": "Discover Environment",
+      "openalex_id": "W7213532962",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213532962",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Vulnerability modelling in ecology is increasingly studied within the framework of vulnerability assessment, measurement, and modelling, as well as adaptation and security.",
+      "added": false
+    },
+    {
+      "title": "Bee community composition depends on the interaction between seasonality and habitat type",
+      "abstract": "Understanding how landscape heterogeneity promotes biodiversity remains a significant challenge because the drivers of community assembly co-vary across space and time. Contrasting ecological conditions between habitat types strengthen filters that can select for complementary communities at local scales, but it remains unclear how the seasonal variation of species assemblage within a habitat type influences overall diversity. To elucidate how the interaction between space and time structures biodiversity, we sampled bee and flower communities across the growing season in habitat types with contrasting ecological conditions in northeastern Oregon, USA. We found complementary bee communities in riparian and forest habitat types, likely because contrasting ecological conditions alter habitat suitability for different subsets of species. Within each habitat type, bee and flower communities varied seasonally. While alpha and gamma diversity were consistent across months and habitat types, bee spatial beta diversity in the riparian habitat type increased from May to June, suggesting that site-to-site variation of riparian-associated bee communities increases across the growing season. This increased spatial diversity among riparian bee communities in June was associated with a greater proportion of species that were restricted to local communities. We also found no association between bee and flower communities across alpha, beta, or gamma scales. Collectively, these results suggest that ecological filters between different habitat types select for an assemblage of species that have different temporal dynamics across the growing season. Patterns of biodiversity across a heterogenous landscape are a result of the interaction between seasonality and habitat type on community diversity across scales.",
+      "doi": "10.22541/authorea.15009089/v1",
+      "authors": [
+        "Will Glenny",
+        "Sandra DeBano",
+        "Scott Mitchell",
+        "Mary Rowland",
+        "Zachary Hajian‐Forooshani",
+        "Skyler Burrows",
+        "Bryan S. Stevens"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213618730",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213618730",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Understanding how landscape heterogeneity promotes biodiversity remains a significant challenge because the drivers of community assembly co-vary across space and time.",
+      "added": false
+    },
+    {
+      "title": "CLIMATE-INDUCED MIGRATION TO THE EU: LEGAL PROTECTION GAPS AND THE ROLE OF MEDIA NARRATIVES",
+      "abstract": "Climate change, along with political persecution, military conflicts, and poor socio-economic conditions, is one of the key drivers of forced migration. This issue has become increasingly relevant, especially in light of rising global temperatures, storms, droughts, sea-level rise, and resource depletion. However, international law currently offers limited protection for climate-displaced persons. This paper has three main objectives: first, to examine the current state of immigration in the European Union (EU) by analyzing official Eurostat secondary data; second, to identify gaps in migration and environmental law; and third, to examine the dominant media narratives surrounding climate-induced migration and the ways in which they shape public understanding and decision-making related to this phenomenon. By doing so, it aims to formulate specific, comprehensive, rights-based recommendations to address the humanitarian and legal challenges of climate-induced migration, while also promoting more accurate, responsible and contextualized media coverage of the phenomenon.",
+      "doi": "10.68302/std2026.vol1.21",
+      "authors": [
+        "Vasil Pavlov",
+        "Raquel Cardoso",
+        "Naya Kalfeli"
+      ],
+      "year": 2026,
+      "journal": "Proceedings of the International Conference on Secure Systems Design and Technology Development",
+      "openalex_id": "W7213515641",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213515641",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Climate change, along with political persecution, military conflicts, and poor socio-economic conditions, is one of the key drivers of forced migration. This issue has become increasingly relevant, especially in light of rising global temperatures, storms, droughts, sea-level rise, and resource depletion.",
+      "added": false
+    },
+    {
+      "title": "Can a Data Repository Survive a Crisis? Development of the Repository Crisis Scorecards",
+      "abstract": "Disaster scenarios are not usually considered by scientists when publishing or archiving data. The goal is often to satisfy more immediate needs and requirements of funders, journal publishers, or collaborators. Yet, recent events around the globe, combined with the increased need for high-quality data to solve large-scale problems, have highlighted the vulnerability of data stored in repositories to crises. To address these concerns, we held a one-month sprint in March 2025 to develop the Repository Crisis Scorecards (RCS) with the goal of helping data repository personnel better assess and understand how their systems and infrastructure might be suited to withstand four crisis scenarios. We adapted the scorecard style proven successful by the EarthCube Research Coordination Network (RCN) on ‘What About Model Data?” because it was approachable, could be adapted to each repository, and could be shared widely without technical tools. We anticipate that the RCS could be used by established repositories, informal data collectors, and anyone holding data to plan for more sustainable and robust long-term data publication and preservation. Here, we outline the process for developing the RCS, share lessons learned, and next steps for its ongoing development.",
+      "doi": "10.31223/x57f7q",
+      "authors": [
+        "Joseph Gum",
+        "Rachael E. Blake",
+        "Lesley Wyborn",
+        "Amy Nurnberger",
+        "Jessica Choi",
+        "Alycia Crall",
+        "Ruth Duerr",
+        "Gerbrand Koren",
+        "Alexis Garretson",
+        "Reyna Broadhurst",
+        "Talya ten Brink",
+        "Carolina Berys-Gonzalez"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213548219",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213548219",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Disaster scenarios are not usually considered by scientists when publishing or archiving data. The goal is often to satisfy more immediate needs and requirements of funders, journal publishers, or collaborators.",
+      "added": false
+    },
+    {
+      "title": "Uzaktan Algılama Tabanlı Spektral İndeksler ile Orman Yangını Şiddetinin Değerlendirilmesi ve Haritalanması: 2025 Bilecik Orman Yangınları Örneği",
+      "abstract": "Orman yangınlarının izlenmesi, değerlendirilmesi ve afet yönetimi açısından büyük bir öneme sahiptir. Bu çalışmada, 2025 yılında Bilecik ilinin Merkez, Osmaneli ve Gölpazarı ilçelerinde meydana gelen orman yangınlarının CBS ve UA teknikleri ile incelenmesi, yanmış alanların ve yangın şiddetinin haritalanması amaçlanmıştır. Bu kapsamda yangın öncesi ve sonrası dönemlere ait Sentinel-2 uydu görüntüleri, GEE ortamında işlenmiştir. Yangın kaynaklı spektral değişimleri belirlemek amacıyla dNBR ve dNDVI hesaplanmıştır. dNBR analiz sonuçlarına göre toplam 11.283 hektar alanın yangından etkilendiği tespit edilmiştir. En büyük tahribatın %57,4 oranıyla Gölpazarı ilçesinde gerçekleştiği belirlenmiştir. Etkilenen alanların %65,2’si hafif şiddetli yangın sınıfında yer aldığı ve yangının ağırlıklı olarak düşük–orta yoğunluklu yüzey yangını karakterinde geliştiği ortaya konulmuştur. dNDVI verilerine göre (11.278 hektar) vejetasyon kaybı ise dNBR sonuçlarıyla uyum göstermiştir. Yöntemlerin mekânsal uyumu Sorensen–Dice (0,94) ve Jaccard (0,89) benzerlik katsayıları ile test edilmiş ve oldukça yüksek mekânsal tutarlılık elde edilmiştir.",
+      "doi": "10.33688/aucbd.1919216",
+      "authors": [
+        "Ebubekir Karakoca"
+      ],
+      "year": 2026,
+      "journal": "Coğrafi Bilimler Dergisi",
+      "openalex_id": "W7213782688",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213782688",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Orman yangınlarının izlenmesi, değerlendirilmesi ve afet yönetimi açısından büyük bir öneme sahiptir. Bu çalışmada, 2025 yılında Bilecik ilinin Merkez, Osmaneli ve Gölpazarı ilçelerinde meydana gelen orman yangınlarının CBS ve UA teknikleri ile incelenmesi, yanmış alanların ve yangın şiddetinin haritalanması amaçlanmış…",
+      "added": false
+    },
+    {
+      "title": "Mapping Forest Disturbances in the Qinling Mountains Using Multi-Source Satellite Data Fusion",
+      "abstract": "To overcome limitations in long-term forest disturbance monitoring in mountainous areas arising from persistent cloud contamination and observation sparsity, this study proposed a forest disturbance identification method based on multi-source satellite data fusion, combining Landsat and Sentinel spectral time-series data (2014-2023) in the Qinling Mountains and employing an optimized LandTrendr parameter scheme to derive disturbance year, magnitude, and duration, achieving detailed disturbance detection and mapping and validating spatiotemporal consistency using GFC, FAGE products, and visually interpreted reference samples. The results demonstrate that the proposed multisource data fusion and optimized LandTrendr approach attained an overall accuracy of 96.51% with a Kappa coefficient of 0.908, exhibiting strong agreement with validation data and superior detection performance compared with the single-sensor LandTrendr model. During the period 2014-2023, the total forest disturbance area in the Qinling Mountains reached about 4.01×103 km2, and disturbances were predominantly distributed in foothill zones characterized by elevations near 800 m and slope gradients of 15°-35°. The proposed forest disturbance detection framework and high-precision disturbance products offer valuable support for long-term forest monitoring and sustainable management in regions with complex topography.",
+      "doi": "10.15244/pjoes/221721",
+      "authors": [
+        "Z. L. Li"
+      ],
+      "year": 2026,
+      "journal": "Polish Journal of Environmental Studies",
+      "openalex_id": "W7213560806",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213560806",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "To overcome limitations in long-term forest disturbance monitoring in mountainous areas arising from persistent cloud contamination and observation sparsity, this study proposed a forest disturbance identification method based on multi-source satellite data fusion, combining Landsat and Sentinel spectral time-series da…",
+      "added": false
+    },
+    {
+      "title": "Evolution of soil erosion and sediment delivery modelling over six decades: paradigms, limitations and new solutions",
+      "abstract": "Modelling sediment delivery, namely the linkage between hillslope erosion and yield in river systems, is still a challenge. In this study, 1,075 publications from Elsevier's Scopus were analysed to trace the evolution from lumped to spatially distributed approaches. Results confirm that no single model type dominates, while several studies rely on simplified approaches, and data- and model-related errors remain unresolved. Artificial intelligence (AI) and remote sensing (RS) can address such limitations. However, although AI has emerged as either a complementary tool for generating new climate or land-use scenarios or a standalone framework, its adoption has not been transformative so far. Similarly, RS is increasingly used to characterise topography and land cover, but is poorly leveraged to determine other factors influencing sediment dynamics. This overview of existing and evolving methods provides useful insights to support river basin management and model selection. Overall, this study underscores the need for further integration of diverse data sources and processing methods, while future research should prioritise the trade-offs among model complexity, accuracy, and scalability.",
+      "doi": "10.1080/15715124.2026.2717245",
+      "authors": [
+        "Melissa Latella",
+        "Monia Santini",
+        "Pierfranco Costabile",
+        "Roberta Padulano"
+      ],
+      "year": 2026,
+      "journal": "International Journal of River Basin Management",
+      "openalex_id": "W7213758675",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213758675",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Modelling sediment delivery, namely the linkage between hillslope erosion and yield in river systems, is still a challenge. In this study, 1,075 publications from Elsevier's Scopus were analysed to trace the evolution from lumped to spatially distributed approaches.",
+      "added": false
+    },
+    {
+      "title": "Policy Integration, Institutional Readiness, and the Implementation Gap in Mainstreaming Climate Change Adaptation: Policy and Organizational Perspectives From a Systematic Literature Review",
+      "abstract": "ABSTRACT Climate change adaptation is now part of many public policies and business strategies, yet formal commitments often do not lead to practical action. This implementation gap has been documented in parallel by two literatures that rarely engage each other: research on the mainstreaming of adaptation into public policy, and organizational research on how firms respond to physical climate risk. This study connects the two. We systematically reviewed 373 English‐language, Scopus‐indexed journal articles (2017–2025) on adaptation mainstreaming, policy integration, and institutional readiness, and compared the results with a structured corpus of 44 organizational climate‐adaptation studies published in 21 business and management journals (2006–2025). The review asks how mainstreaming is conceptualized, which dimensions support integration and implementation, why implementation gaps persist, and how policy domain patterns compare with organizational scholarship. Across both domains, climate risk is acknowledged faster than it is embedded in budgets, responsibilities, decision routines, and accountability: an embedding deficit that survives the transition from government to firm. The comparison also reveals domain‐specific mechanisms: authority, vertical coordination, and administrative capacity in the policy domain; managerial attention, competitive alignment, capital allocation rules, and value chain interdependence in firms. It further shows that equity concerns, which are prominent in policy research, remain largely absent from organizational research. The review distills these findings into the Climate‐Contingent Readiness–Integration–Implementation–Learning (CC‐RIIL) model, a simple diagnostic framework. The model locates four recurrent gaps in the mainstreaming process, explains why each arises and with what consequences, and separates process completion from evaluated adaptation outcomes. Actionable implications for managers, governance bodies, and policymakers are derived from the model.",
+      "doi": "10.1002/bse.71594",
+      "authors": [
+        "Sofik Handoyo",
+        "Gia Kardina Prima Amrania",
+        "Annisa Nabila Hasan",
+        "Erlane K. Ghani"
+      ],
+      "year": 2026,
+      "journal": "Business Strategy and the Environment",
+      "openalex_id": "W7213655436",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213655436",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Climate change adaptation is now part of many public policies and business strategies, yet formal commitments often do not lead to practical action. This implementation gap has been documented in parallel by two literatures that rarely engage each other: research on the mainstreaming of adaptation into public…",
+      "added": false
+    },
+    {
+      "title": "Factors associated with risk perception among school and nursery school teachers concerning potential health effects of exposure to electromagnetic fields",
+      "abstract": "Background There is considerable concern in the public about potential health risks from exposure to electromagnetic fields (EMF) below legal limits. School and nursery school teachers are important multipliers of health-related information, also regarding environmental exposures like EMF. Factors associated with the risk perception towards EMF in these professional groups have not yet been investigated. Methods This 2024 cross-sectional study surveyed school teachers ( N = 1,053) and nursery school teachers ( N = 329) across Germany to examine factors associated with participants’ EMF risk perception. We applied logistic regression modelling to examine the relationship between EMF risk perception (high vs. low) and the variables technology acceptance, media health literacy, conspiracy belief, trust in various organizations and institutions as well as general environmental worry. Results About one-third of the participants believed that some individuals develop adverse health effects from EMF exposure below legal limits. Conspiracy belief was positively associated with high EMF risk perception (school teachers: OR: 2.87, 95% CI: 2.36–3.43; nursery school teachers: OR: 2.88, 95% CI: 2.00–4.00). Technology acceptance (school teachers: OR: 0.47, 95% CI: 0.39–0.55; nursery school teachers: OR: 0.69, 95% CI: 0.51–0.89), media health literacy (only in school teachers (OR: 0.71, 95% CI: 0.61–0.82)), and trust in authorities like WHO were inversely associated with EMF risk perception. Conclusion Our findings underline that individuals’ appraisal of scientific evidence, in this case concerning EMF exposure, is related not only to individual skills like media health literacy, but also to personal attitudes like the tendency towards conspiracy beliefs or trust in organizations.",
+      "doi": "10.3389/fpubh.2026.1944031",
+      "authors": [
+        "Katharina Lüthy",
+        "Claudia Riesmeyer",
+        "Jessica Kühn",
+        "Estelle Blättermann",
+        "Felix Forster",
+        "Katja Radon",
+        "Tobias Weinmann"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7213561908",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213561908",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Background There is considerable concern in the public about potential health risks from exposure to electromagnetic fields (EMF) below legal limits. School and nursery school teachers are important multipliers of health-related information, also regarding environmental exposures like EMF.",
+      "added": false
+    },
+    {
+      "title": "Mining Twitter Data to Inform Balcony Design in Residential Architecture: A Data-Driven Approach to Human Experience in Semi-open Spaces",
+      "abstract": "This study explores public perceptions and lived experiences of balconies in Iranian residential architecture through the lens of social media. Drawing on a curated dataset of over 10,000 Persian-language tweets posted by Iranian users between 2024 and 2025, this research adopts a data-mining approach to uncover how people emotionally and functionally relate to semi-open domestic spaces—particularly balconies and terraces. Tweets were collected through keyword-based filtering and then systematically preprocessed and classified into one or more of 16 architectural and environmental design categories (e.g., spatial dimensions, materiality, greenery, privacy, safety, and spatial perception) through a multi-stage thematic coding procedure. Sentiment analysis was then applied to determine the emotional tone—positive, negative, neutral, or mixed—of each thematic instance. Findings reveal a substantial gap between architectural intent and users' lived experience of their balconies. Categories related to functional use, privacy, and spatial adequacy showed high negative polarity (77.4% negative), largely reflecting complaints about small size, lack of privacy, and impracticality. In contrast, discourse on greenery and esthetics was markedly more favorable (29.7% positive). These results demonstrate the value of user-generated content as a source of data for human-centered design: architects, landscape designers, and urban planners can draw on lived spatial experiences captured in vernacular digital archives to gain empirical insight into occupants'spatial needs. Accordingly, the study proposes revised evaluation criteria for balcony design grounded in climatic factors and social behaviors. Received: 1 November 2025 | Revised: 22 July 2026 | Accepted: 28 August 2026 Conflicts of Interest The authors declare that they have no conflicts of interest to this work. Data Availability Statement The supplementary datasets supporting the findings of this study are provided with the submission as Supplementary Dataset S1 (Tweets with Sentiment, bilingual) and Supplementary Dataset S2 (Validation Results, English). Additional tweet-level metadata can be made available by the corresponding author upon reasonable request, subject to ethical and platform constraints. Author Contribution Statement Amir Shakibamanesh: Conceptualization, Methodology, Formal analysis, Investigation, Data curation, Writing – original draft, Writing – review & editing, Visualization, Supervision, Project administration. Seyedziya Hosseinzadeh: Methodology, Validation, Formal analysis, Data curation, Writing – review & editing.",
+      "doi": "10.47852/bonviewjdsis62028057",
+      "authors": [
+        "Amir Shakibamanesh",
+        "Seyedziya Hosseinzadeh"
+      ],
+      "year": 2026,
+      "journal": "Journal of Data Science and Intelligent Systems",
+      "openalex_id": "W7213558008",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213558008",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This study explores public perceptions and lived experiences of balconies in Iranian residential architecture through the lens of social media. Drawing on a curated dataset of over 10,000 Persian-language tweets posted by Iranian users between 2024 and 2025, this research adopts a data-mining approach to uncover how pe…",
+      "added": false
+    },
+    {
+      "title": "STRATIFIED ADAPTATION : Infrastructure, Elevation, and Cascading Floods in the Urban Mekong Delta",
+      "abstract": "Abstract Flood‐prone cities in the global South are increasingly the target of infrastructure projects aimed at building climate ‘resilience’. At the same time, residents of these cities take adaptation to flooding into their own hands. In this article we examine the interrelationship between household‐scale and urban‐scale flood mitigation projects in Cần Thơ, Vietnam. We use spatial‐ethnographic methods that examine multiscalar flood processes to show how this flood risk plays out through micro‐topographic variations across the city to create a condition of stratified adaptation. This case extends existing scholarship on the political ecology of climate adaptation by demonstrating how flood mitigation projects can exacerbate inequality not only due to the horizontal (space‐claiming) impacts of infrastructure projects but also due to the vertical displacement of water through a shifting ground plane. Flood risk cascades, re‐emerging in new places. As flood levels rise due to compounding factors of subsidence, development, and climate change, interventions at various scales displace water to sites with the lowest elevation, stratifying risks and benefits. This cyclical process displaces adaptation labor from the state to the household, in turn undermining the state's techno‐fixes as flows of water shift once again. The resulting ‘vicious cycle of water’ places the urban poor at increasing rather than decreasing flood risk.",
+      "doi": "10.1111/1468-2427.70142",
+      "authors": [
+        "Lizzie Yarina",
+        "Vuong Kha Tu",
+        "Kim Ngan Thi Tran",
+        "Ly Quoc Dang"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Urban and Regional Research",
+      "openalex_id": "W7213752707",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213752707",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Flood‐prone cities in the global South are increasingly the target of infrastructure projects aimed at building climate ‘resilience’. At the same time, residents of these cities take adaptation to flooding into their own hands.",
+      "added": false
+    },
+    {
+      "title": "Integrating PlanetScope time-series and deep learning for monitoring of shrub encroachment in semi-arid steppes",
+      "abstract": "Shrub encroachment threatens the functioning and livestock productivity of arid and semi-arid grasslands, yet accurate shrub-cover estimation remains difficult because shrub crowns are small, fragmented, and mixed with herbaceous vegetation and soil. We developed a fine-scale mapping framework combining 3-m PlanetScope time-series imagery with U-Net in Xilinhot, Inner Mongolia. Fifteen-day composites from May to October captured seasonal differences, while a composite loss function addressed sparse and imbalanced labels. On the within-plot test set, the model achieved R2 = 0.649, RMSE = 0.055, MAE = 0.036, and Bias = 0.003. Leave-one-plot-out validation yielded a mean R2 of 0.411 ± 0.188 across shrub-covered plots. Compared with a late-June single-period input, the full time series increased R2 by 16.73% and reduced high-cover underestimation and overprediction in shrub-free hay meadows. U-Net preserved more fine-scale spatial variation than conventional pixel-based models. At a common 10-m scale, PlanetScope/U-Net achieved R2 = 0.825 and RMSE = 0.031, versus 0.702 and 0.041 for Sentinel-2/XGBoost, reflecting both spatial resolution and modelling strategy. The framework shows promise for regional monitoring, although native-scale smoothing and limited independent validation remain important constraints.",
+      "doi": "10.1080/17538947.2026.2724759",
+      "authors": [
+        "Chaochao Chen",
+        "Hengcong Yang",
+        "Gaoke Yueliang",
+        "Bingbing Wang",
+        "Xiaosong Li"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Digital Earth",
+      "openalex_id": "W7213553635",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213553635",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Shrub encroachment threatens the functioning and livestock productivity of arid and semi-arid grasslands, yet accurate shrub-cover estimation remains difficult because shrub crowns are small, fragmented, and mixed with herbaceous vegetation and soil.",
+      "added": false
+    },
+    {
+      "title": "Agricultural insurance and agri-food value chain resilience in China: the role of rural industrial integration",
+      "abstract": "Climate change and market volatility have heightened the vulnerability of agri-food value chains to recurrent shocks. Using a balanced panel of 31 Chinese provinces from 2011 to 2023, this study examines the association between agricultural insurance coverage and agri-food value chain resilience, as well as the potential transmission role of rural industrial integration. Multidimensional indices are constructed for insurance coverage and resilience, with resilience comprising resistance, recovery and reconfiguration, adaptation, and sustainability. Two-way fixed-effects estimates reveal a positive and statistically significant association: a one-standard-deviation increase in insurance coverage is associated with an approximately one-quarter-standard-deviation increase in resilience. The results remain robust to alternative inference procedures and lagged specifications, and are positive across all four resilience dimensions. Moran’s I indicates significant spatial clustering, while Spatial Durbin Model estimates suggest a positive cross-provincial spatial association. The estimated indirect effect through rural industrial integration is positive, but its bootstrap confidence interval includes zero. Heterogeneity analysis reveals positive associations in production and consumption zones and a stronger association in developed provinces, but no clear association in balanced zones. These findings highlight agricultural insurance as a potential instrument for value chain risk governance, while underscoring the need for stronger causal identification and direct value-chain evidence.",
+      "doi": "10.1080/23311932.2026.2732329",
+      "authors": [
+        "Lin Du",
+        "Mu Yang",
+        "Fen Liao"
+      ],
+      "year": 2026,
+      "journal": "Cogent Food & Agriculture",
+      "openalex_id": "W7213542439",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213542439",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Climate change and market volatility have heightened the vulnerability of agri-food value chains to recurrent shocks. Using a balanced panel of 31 Chinese provinces from 2011 to 2023, this study examines the association between agricultural insurance coverage and agri-food value chain resilience, as well as the potenti…",
+      "added": false
+    }
+  ]
+}
