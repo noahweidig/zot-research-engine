@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-23",
+  "statistics": {
+    "fetched": 94,
+    "duplicates_removed": 92,
+    "evaluated": 2,
+    "added": 1,
+    "ignored": 1,
+    "average_score": 3.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "WILDFIRE-DRIVEN INCREASES IN AVALANCHE HAZARD: MECHANISMS, CANADIAN CASE STUDIES, AND A POST-WILDFIRE AVALANCHE RISK ASSESSMENT TOOL",
+      "abstract": "Wildfire-induced forest disturbance in snow-dominated mountain regions can significantly alter snowpack processes and increase avalanche hazard.The removal of forest canopy, wind shelter, and mechanical anchoring changes snow accumulation, distribution, and energy balance, promoting the development of persistent weak layers and increasing both the likelihood and size of snow avalanches.These effects can persist for years to decades, yet post-wildfire avalanche hazard is rarely considered in geohazard assessments, creating a critical gap in risk evaluation.This paper describes the physical mechanisms linking wildfire impacts to avalanche formation and dynamics drawing on recent research, field observations, and numerical modeling.Several post-wildfire avalanche hazard case studies from western Canada are presented, illustrating how burn severity, forest structure loss, and altered snow distribution patterns can increase both avalanche likelihood and magnitude.Building on these examples, we introduce a practical post-wildfire avalanche risk identification tool designed to integrate with existing geohazard assessment frameworks.This tool provides a structured method for identifying burn-related avalanche hazard, supporting more accurate risk increases, and decision-making.Addressing this gap will improve land-use planning, infrastructure protection, and operational safety in an era of increasing wildfire frequency, intensity and severity.",
+      "doi": "10.15788/1790098731",
+      "authors": [
+        "Scott Thumlert",
+        "Jillian Harvey",
+        "Cam Campbell",
+        "Marie-Pierre Rogeau",
+        "Brian Gould"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214018109",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214018109",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 1/1 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Wildfire-induced forest disturbance in snow-dominated mountain regions can significantly alter snowpack processes and increase avalanche hazard.The removal of forest canopy, wind shelter, and mechanical anchoring changes snow accumulation, distribution, and energy balance, promoting the development of persistent weak l…",
+      "added": true
+    },
+    {
+      "title": "Making the Mediterranean region since the late nineteenth century: From aridity indices to synoptic oscillations and the ‘return of the sea’",
+      "abstract": "This article reconstructs how climatic sciences contributed to making the Mediterranean region through successive systems of classification, climatic indices, and synoptic circulation metrics. It does not seek to establish a new definitive Mediterranean boundary. Instead, it examines how particular variables, operations, thresholds, temporal scales, observational infrastructures, and institutional uses produced different climatic Mediterraneans. We combine quantitative mapping of three historically consequential index traditions on a common contemporary archive (ERA5-Land, 1994–2023) with a historical-epistemological analysis of their formulation and circulation. We compare De Martonne's aridity index, which represents a surface thermopluviometric balance; Rivas-Martínez's mediterraneity indices, which diagnose summer evaporative stress as a bioclimatic constraint; and a synoptic attribution diagnostic based on the Western Mediterranean Oscillation index, which relates wet-season precipitation variability to Atlantic and western Mediterranean pressure configurations. These operators do not offer interchangeable representations of a complete Mediterranean climate. They target different material processes and therefore generate different regional geometries. Aridity and bioclimatic thresholds produce relatively expansive terrestrial regions, whereas the synoptic diagnostic produces a narrower and more coastal western Mediterranean gradient. We argue that this divergence reveals the historicity of climatic regionalisation and a conceptual shift in which the Mediterranean Sea moves from an implicit boundary condition to an explicit causal actor.",
+      "doi": "10.1016/j.jhg.2026.08.008",
+      "authors": [
+        "Alberto Celis",
+        "María C. Villarín"
+      ],
+      "year": 2026,
+      "journal": "Journal of Historical Geography",
+      "openalex_id": "W7213532538",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213532538",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "This article reconstructs how climatic sciences contributed to making the Mediterranean region through successive systems of classification, climatic indices, and synoptic circulation metrics. It does not seek to establish a new definitive Mediterranean boundary.",
+      "added": false
+    }
+  ]
+}
