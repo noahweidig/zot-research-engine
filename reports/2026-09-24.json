@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-24",
+  "statistics": {
+    "fetched": 82,
+    "duplicates_removed": 79,
+    "evaluated": 3,
+    "added": 1,
+    "ignored": 2,
+    "average_score": 3.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Predictive heat transfer model for fire-induced injuries in tree stems",
+      "abstract": "This study introduces a physics-based mathematical model to predict the injury and mortality of tree stems during prescribed burns and in wildland fires. The two-dimensional transient model is developed in polar coordinates employing the finite volume method with an implicit time integration scheme. The model includes a source term in the heat transfer equation to account for the volumetric heat absorbed due to desiccation and pyrolysis processes. The thermophysical properties such as thermal conductivity, density, and specific heat are set to vary as a function of temperature. The model is verified against existing experimental and numerical studies (1D and 2D). The temperature history just underneath the inner bark shows that the temperatures predicted by the present model align closely with experimental data. The necrotic depth and viability factor of the tree stem are determined from the predicted temperature distribution in the tree stem. A parametric study is conducted by varying the area exposed to the heat flux, moisture content, and tree species. The depth of stem injury and mortality rate are analyzed for these cases. Results show that the coupled effect of thermo-property variation and moisture content in different layers can significantly affect the heat diffusion and the predicted temperature distribution within the inner layers of the stem. The model serves as a valuable tool for predicting tree mortality rates during wildfires and prescribed burns and helps land managers and fire managers foster better forestry management and ecosystem conservation strategies.",
+      "doi": "10.1016/j.icheatmasstransfer.2026.112653",
+      "authors": [
+        "M. Usman Khan",
+        "M. Saquib Hasnain",
+        "Hayri Sezer",
+        "Shijin Kozhumal",
+        "Muthu Kumaran Selvaraj",
+        "Albert Simeoni"
+      ],
+      "year": 2026,
+      "journal": "International Communications in Heat and Mass Transfer",
+      "openalex_id": "W7213550802",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213550802",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 67%: matched 2/3 key interest terms (wildfires, prescribed)",
+      "tags": [
+        "Wildfires",
+        "Prescribed"
+      ],
+      "summary": "This study introduces a physics-based mathematical model to predict the injury and mortality of tree stems during prescribed burns and in wildland fires. The two-dimensional transient model is developed in polar coordinates employing the finite volume method with an implicit time integration scheme.",
+      "added": true
+    },
+    {
+      "title": "Projecting future climatic refugia for Fagus orientalis in the Hyrcanian ecoregion",
+      "abstract": "Ongoing changes in temperature and precipitation regimes are altering the climatic suitability of temperate tree species, particularly at their southern distribution margins. In the Hyrcanian forests of northern Iran, Oriental beech ( Fagus orientalis ) plays a central structural and ecological role, yet its future persistence under climate change remains uncertain. We assessed current habitat suitability and projected range dynamics using an ensemble species distribution modeling framework integrating Random Forest, Support Vector Machine, MaxEnt, and Boosted Regression Trees. Nineteen bioclimatic variables were screened for collinearity and calibrated against 1,092 spatially filtered occurrence records. Future projections were generated for mid-century (2041–2060) and late-century (2061–2080) under SSP1-2.6 and SSP5-8.5 scenarios using a five-GCM CMIP6 ensemble. Model performance was high (AUC > 0.88; TSS > 0.67). Precipitation Seasonality (Bio15) was identified as the dominant predictor (mean contribution 52%), suggesting that intra-annual rainfall variability is a key constraint at the species’ southern range margin. Projections indicate a progressive contraction of climatically suitable habitat. Under SSP1-2.6, suitable area declines by approximately 73% by mid-century, whereas under SSP5-8.5, reductions reach up to 96% by late century. Suitable habitat becomes increasingly fragmented and concentrated in western Hyrcanian forests, particularly in Gilan and western Mazandaran. These results suggest a substantial contraction of climatically suitable habitat for F. orientalis , although realized distributions may persist longer due to demographic inertia and long tree lifespans. Protecting climatically buffered western refugia and incorporating adaptive forest management strategies will be important to support long-term ecosystem stability in these relict temperate forests.",
+      "doi": "10.1016/j.jnc.2026.127444",
+      "authors": [
+        "Saman Ghasemian Sorboni",
+        "Farrokh Ghahremaninejad",
+        "Mehrdad Hadipour Sunway",
+        "Marco Carrer"
+      ],
+      "year": 2026,
+      "journal": "Journal for Nature Conservation",
+      "openalex_id": "W7213532055",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213532055",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 1/3 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Ongoing changes in temperature and precipitation regimes are altering the climatic suitability of temperate tree species, particularly at their southern distribution margins.",
+      "added": false
+    },
+    {
+      "title": "Perceptions of Drought Risk Management in Zambia: Reflections from the Historic 2023/2024 Drought",
+      "abstract": "Drought risk management depends not only on understanding the physical characteristics of drought but also on how drought is experienced, interpreted, and anticipated by affected institutions and communities. This study examines perceptions of drought and their implications for risk management in Zambia using the severe 2023/2024 drought as a case study. Guided by Taylor’s perception framework encompassing experience, memory, definition, and expectation, semi-structured interviews were conducted with 153 participants, including 67 district government officials and 86 sector representatives across 31 districts in all 10 provinces of Zambia. Findings reveal broad agreement regarding the severity of drought impacts, but important differences in how drought was recognized and understood across governance levels. While 87.2% of sector representatives and 80.6% of district officials reported drought impacts, participants in some districts classified nationally as unaffected described substantial agricultural, water, energy, and livelihood impacts. National institutions primarily characterized drought using meteorological and hydrological indicators, whereas district officials incorporated observed community impacts and sector representatives largely defined drought through disruptions to livelihoods and sectoral activities. Differences were also evident in expectations for future drought. While 100% of national government officials expected drought frequency and severity to increase, this expectation was shared by 77.6% of district officials but only 17.4% of sector representatives, revealing a substantial gap in perceptions of future drought risk across governance levels. These findings demonstrate the importance of integrating scientific indicators with local and sector-specific knowledge. Strengthening participatory monitoring, climate communication, vulnerability assessment, and locally grounded preparedness could help Zambia transition from reactive drought response toward more proactive and integrated management of drought risks. ​",
+      "doi": "10.31223/x5980z",
+      "authors": [
+        "Andrew Mwape",
+        "Michael Hayes",
+        "Deborah J. Bathke",
+        "Kelly Smith",
+        "Rezaul Mahmood",
+        "Elizabeth Jones"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213891939",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213891939",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/3 key interest terms",
+      "tags": [],
+      "summary": "Drought risk management depends not only on understanding the physical characteristics of drought but also on how drought is experienced, interpreted, and anticipated by affected institutions and communities.",
+      "added": false
+    }
+  ]
+}
