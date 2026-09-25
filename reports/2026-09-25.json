@@ -1,0 +1,1056 @@
+{
+  "date": "2026-09-25",
+  "statistics": {
+    "fetched": 131,
+    "duplicates_removed": 89,
+    "evaluated": 42,
+    "added": 1,
+    "ignored": 41,
+    "average_score": 1.5
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Triple jeopardy: trends in the co-occurrence of extreme heat, drought, and PM2.5 across the conterminous United States",
+      "abstract": "Abstract Compound climate hazards can produce risks exceeding those captured by single-hazard analyses, yet their joint behavior remains poorly characterized across the United States. Research has focused largely on drought-heat interactions, while growing evidence suggests other hazard combinations may increasingly shape population exposure. This study examines the co-occurrence of extreme heat, drought, and fine particulate matter (PM₂.₅) across the conterminous United States (CONUS) from 1991 to 2023, evaluating pairwise and triple interactions across multiple severity tiers. Rather than uniform intensification, results reveal a shift in the relative prominence of compound exposures. Heat-PM₂.₅ co-occurrence emerges as the most widespread and fastest-growing combination, averaging 22.7 days per summer at the mild tier, nearly three times the frequency of heat-drought, and increasing from 18.8 to 25.7 days per season (+36.8%) between the early (1991–2006) and late (2009–2023) periods. Significant monotonic increases occur across 64% of CONUS, compared with 0.3% showing decreases. Regional variation ranges from 6.8 days per season in the Western North Central region to 54.1 days in the Southeast. Heat-drought co-occurrence, by contrast, shows modest changes across most severity levels. Regional differences are pronounced in the South, exceeding 40 days per season, and the Northwest, where rapid increases coincide with expanding wildfire activity, although source-specific PM₂.₅ was not evaluated. Simultaneous co-occurrence of all three hazards remains rare, increasing from 0.02 to 0.10 days per season at the moderate tier against a 1991–2023 mean of 0.06 days. Despite this low absolute frequency, triple-hazard co-occurrence increases substantially in relative terms (+485% between periods), with significant increases across 18.1% of CONUS pixels. These findings indicate a reconfiguration of compound hazard exposure driven by the growing prominence of specific hazard combinations rather than uniform change, suggesting that frameworks centered on a limited set of hazard pairings may no longer capture dominant regional exposures.",
+      "doi": "10.1088/2752-5295/aeab03",
+      "authors": [
+        "Anuska Narayanan",
+        "Mostafa Rezaali",
+        "David Keellings",
+        "Catalina Lopez‐Quintero"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Climate",
+      "openalex_id": "W7214034685",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214034685",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 62%: matched 5/14 key interest terms (united states, united, occurrence, states, wildfire)",
+      "tags": [
+        "United States",
+        "United",
+        "Occurrence",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Abstract Compound climate hazards can produce risks exceeding those captured by single-hazard analyses, yet their joint behavior remains poorly characterized across the United States.",
+      "added": true
+    },
+    {
+      "title": "Predicting and Explaining Lightning and Lightning‐Ignited Wildfires in Northern California With a Two‐Step Convolutional Neural Network Framework",
+      "abstract": "Abstract Lightning‐ignited wildfires (LIWs) are a major contributor to burned area in Northern California and have increased substantially in size over recent decades. Predicting LIWs remains challenging because ignition depends on both lightning occurrence and fuel‐meteorology interactions. We develop a two‐step convolutional neural network (CNN) framework to conjunctively predict (a) lightning occurrence from meteorological conditions and (b) wildfire ignition conditional on lightning using both meteorological and fuel‐related predictors. The framework achieves skillful prediction, with testing accuracy of 0.82 for predicting LIWs. Explainability analyses using layer‐wise relevance propagation (LRP) reveal that the two‐step framework separates the dominant controls on lightning‐producing versus fire‐producing environments, highlighting the transition from synoptic‐scale instability and moisture patterns to locally receptive fuel conditions. Composite analyses across prediction outcomes further show that missed LIWs arise more often in “non‐typical” conditions, with high lapse rate but limited mid‐level moisture. Application to the 2020 Sonoma‐Lake‐Napa Unit (LNU) Lightning Complex fires demonstrates that the framework captures the large‐scale circulation favorable for lightning development and local fuel conditions conducive to ignition. These results demonstrate the value of separating lightning production from ignition processes and show how explainable machine learning can diagnose multiscale pathways and model failure modes associated with LIW.",
+      "doi": "10.1029/2026jd046634",
+      "authors": [
+        "Sing‐Chun Wang",
+        "Lai-Yung Ruby Leung",
+        "Yun Qian",
+        "Richard Grotjahn"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W7214093078",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214093078",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 5/14 key interest terms (ignition, occurrence, wildfires, large, wildfire)",
+      "tags": [
+        "Ignition",
+        "Occurrence",
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract Lightning‐ignited wildfires (LIWs) are a major contributor to burned area in Northern California and have increased substantially in size over recent decades. Predicting LIWs remains challenging because ignition depends on both lightning occurrence and fuel‐meteorology interactions.",
+      "added": false
+    },
+    {
+      "title": "Ensemble fire probability prediction by integrating meteorological AI models with lightweight prediction networks",
+      "abstract": "Wildfires pose persistent threats to ecosystems and human safety, making timely fire-risk assessment essential for disaster prevention and resource management. However, conventional wildfire early-warning approaches are often constrained by static fire-weather indices or machine-learning models driven by reanalysis data, which cannot exploit future atmospheric fields. We therefore propose and evaluate a decoupled cascade framework that decomposes the problem into (i) an upstream AI weather model (Pangu-Weather) to generate future atmospheric states and (ii) downstream probabilistic fire classifiers. To the best of our knowledge, this is the first study to systematically compare the performance of three operational forecasting strategies (reanalysis, one-step forecast, and rolling forecast) for fire probability estimation. Using Africa as the study area, with multi-source data from 2014 to 2025, we find that one-step AI forecasts preserve the spatial fire-risk structure nearly as well as reanalysis data. Based on this dataset, we evaluated 11 downstream classifiers within a two-stage fire-occurrence and fire-intensity prediction design, while rolling forecasts suffer from degraded detection due to accumulated meteorological errors, with persistent reliability failure occurring after approximately six weeks. Cross-model consensus based on SHapley Additive exPlanations (SHAP) identifies vegetation, land-surface conditions, and meteorological variables as robust contributors. Our results demonstrate that meteorological foundation models can serve as modular and interchangeable upstream modules for operational wildfire hazard estimation, offering a scalable alternative to end-to-end black-box fire foundation models.",
+      "doi": "10.1016/j.ecolind.2026.115478",
+      "authors": [
+        "Hao Wu",
+        "Jie Luo",
+        "Xingdong Yan",
+        "Congcong Li",
+        "Jianwu Xing",
+        "Hengze Zhao",
+        "Dongmei Huang",
+        "Wei Huang",
+        "Lingxiang Wang",
+        "Bin Xu"
+      ],
+      "year": 2026,
+      "journal": "Ecological Indicators",
+      "openalex_id": "W7213536677",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213536677",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 4/14 key interest terms (occurrence, states, wildfires, wildfire)",
+      "tags": [
+        "Occurrence",
+        "States",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires pose persistent threats to ecosystems and human safety, making timely fire-risk assessment essential for disaster prevention and resource management. However, conventional wildfire early-warning approaches are often constrained by static fire-weather indices or machine-learning models driven by reanalysis dat…",
+      "added": false
+    },
+    {
+      "title": "Land management to mitigate the risks of future fire in the Mediterranean region: strategies and barriers to their adoption",
+      "abstract": "Extreme wildfires are becoming more frequent in the Mediterranean region and already frequently exceed controllable thresholds, leading to large impacts on natural and social systems. Wildfire risk is predicted to increase in the region over the 21st century because of ongoing global climate changes. The risk of wildfires is being exacerbated by rural land abandonment, which is promoting increased landscape flammability; and by expansion of the wildland-urban interface. To address the challenges arising from fire regime changes, there is an urgent need to improve existing management strategies to reduce fire risk and to minimise the occurrence of extreme wildfires. Doing so successfully requires integrating insights across varied wildfire management paradigms, that stem from diverse disciplinary traditions and often serve competing policy priorities. Here we review the state of knowledge and practice on wildfire management in the Mediterranean region. We begin by highlighting the diversity of land management practices that deliberately or indirectly have been used for fire risk mitigation, shaping contemporary Mediterranean landscapes and fire regimes. We then summarise the evolution of policy priorities and fire management practices, and how these changes in infrastructural, economic and legal frameworks could influence landscape vulnerability to wildfire. We also examine some of the barriers that work against the adoption of management strategies to minimise wildfire risk at local and national levels. The paper brings together ecological, land-management, governance, planning and economic perspectives that are often treated separately, in order to clarify where current wildfire risk reduction strategies are supported by evidence and where important barriers remain. Finally, we integrate these different insights to identify key knowledge gaps and make recommendations for future action.",
+      "doi": "10.3389/fenvs.2026.1867890",
+      "authors": [
+        "Sandy P Harrison",
+        "I Colin Prentice",
+        "Davide Ascoli",
+        "Enrico Biffis",
+        "Sophy Greenhalgh",
+        "Manolis G. Grillakis",
+        "Olivia Haas",
+        "Yiannis Kountouris",
+        "Regina M O&apos;Kelley",
+        "Paulo M. Fernandes",
+        "Imma Oliveras Menor",
+        "Gavriil Xanthopoulos",
+        "Apostolos Voulgarakis"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Environmental Science",
+      "openalex_id": "W7212115701",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212115701",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 4/14 key interest terms (occurrence, wildfires, large, wildfire)",
+      "tags": [
+        "Occurrence",
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Extreme wildfires are becoming more frequent in the Mediterranean region and already frequently exceed controllable thresholds, leading to large impacts on natural and social systems. Wildfire risk is predicted to increase in the region over the 21st century because of ongoing global climate changes.",
+      "added": false
+    },
+    {
+      "title": "Deadwood restoration in boreal forests benefits saproxylic beetles",
+      "abstract": "Forest management in Fennoscandia has nearly eliminated natural disturbances, such as fire, from forest ecosystems. This affects the composition of tree species, the availability of deadwood, and saproxylic beetle communities. Restoration methods such as prescribed burning and tree girdling aim to replenish the deadwood supply in boreal forests. Prescribed burning creates habitats that benefit fire-dependent beetles and influences successional patterns that benefit Scots pine (Pinus sylvestris). Tree girdling adds to already existing deadwood pools and provides a high variety in decay classes that benefit many generalist beetles. Both methods were applied at three treatment areas per method across three years (2022, 2023 and 2024) in Ekopark Ejheden, an area with a long history of fire. Deadwood volumes of six individual treatment areas, three for each treatment method and year, were calculated separately for snags and logs. Deadwood volumes, abundance, richness, diversity and composition values were used to compare between treatment methods. No significant differences in deadwood volumes were found. Deadwood abundance, richness and diversity were significantly higher in burnt plots at three years post-treatment than in girdled plots. Deadwood composition differed significantly between treatment methods and years. The indicator deadwood category composition showed that stands treated with prescribed burning produced logs and snags in intermediate decay classes. Stands treated with tree girdling produced logs in a wider range of decay classes, including very early to late decay stages. Ecletor traps were used to sample saproxylic beetles and abundance, species richness and diversity values were used to compare treatment methods. Beetle abundance and species richness were shown to be significantly higher in areas treated with prescribed burning than in tree girdled areas at one and two years post-treatment. Beetle diversity was significantly higher for prescribed burning at two years post-treatment. At three years post-treatment, no significant differences were detected. Beetle composition differed significantly between treatment method and time since treatment. Indicator species analysis showed 19 beetle species that were almost exclusively associated with prescribed burning and three species that were exclusively associated with tree girdling. My results show that both prescribed burning and tree girdling are effective tools for increasing the deadwood supply in boreal forests. Prescribed burning and tree girdling produce different deadwood categories, which can be interpreted in terms of how the methods act across the plot. Prescribed burning is shown to be clearly favoured by fire-associated beetle species, supporting the argument that fire as a disturbance is irreplaceable by any other method. Regardless of this, tree girdling is a valuable method for promoting the accumulation of deadwood in boreal forest ecosystems. This method should be regarded as an additional benefit rather than a replacement of prescribed burning.",
+      "doi": null,
+      "authors": [
+        "Elena Hofbauer"
+      ],
+      "year": 2026,
+      "journal": "Epsilon Archive for Student Projects (University of Southampton)",
+      "openalex_id": "W7214272826",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214272826",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 3/14 key interest terms (prescribed burning, prescribed, burning)",
+      "tags": [
+        "Prescribed Burning",
+        "Prescribed",
+        "Burning"
+      ],
+      "summary": "Forest management in Fennoscandia has nearly eliminated natural disturbances, such as fire, from forest ecosystems. This affects the composition of tree species, the availability of deadwood, and saproxylic beetle communities.",
+      "added": false
+    },
+    {
+      "title": "Localizable Climate Change Education in Schools: Examining Impacts on Students' Environmental Science Agency",
+      "abstract": "ABSTRACT As our daily lives become increasingly affected by climate change, school‐based science education plays a critical role in preparing students to understand and respond to this global crisis. This cohort controlled quasi‐experimental study conducted in the United States examined whether a localized climate change storyline unit compared to traditional instruction could enhance students' environmental science agency (ESA)—the sense of agency students feel when they can mobilize their scientific knowledge and expertise to act in their lives. We investigated localizable storylines, a curriculum design and implementation approach where secondary teachers author part of a climate change storyline unit with teacher‐designed locally relevant phenomena and local action projects. We assessed three dimensions of our ESA framework: sensemaking about climate change phenomena, students taking on roles in collective work, and foundation for change. Analysis of student outcomes ( n = 2062) revealed significant improvements in sensemaking about phenomena (dimension 1) with meaningful effect size ( g = 0.251) and enhanced foundation for change (dimension 3, g = 0.148) among intervention students. We found no significant differences for taking on roles in collective work (dimension 2). Exploratory mediation analyses indicated perceived relevance and perceived coherence mediated the intervention's impact on students' foundation for change. Importantly, positive effects appeared consistent regardless of students' initial climate change views, suggesting the approach transcends pre‐existing differences in climate change concern. This localizable storylines approach shows promise for serving as a scalable model to make localized climate change education more accessible to teachers and schools with consequential effects on students' sense of agency.",
+      "doi": "10.1002/sce.70103",
+      "authors": [
+        "Lindsey Mohan",
+        "Emily Harris",
+        "Jeffrey Snowden",
+        "Candice Guy‐Gaytán",
+        "Audrey Mohan",
+        "Dennis Lee"
+      ],
+      "year": 2026,
+      "journal": "Science Education",
+      "openalex_id": "W7157937982",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7157937982",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 3/14 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "ABSTRACT As our daily lives become increasingly affected by climate change, school‐based science education plays a critical role in preparing students to understand and respond to this global crisis.",
+      "added": false
+    },
+    {
+      "title": "Accountability to God, We the People and local government activism in rural Shasta County, California",
+      "abstract": "Political polarization is increasing globally through the rise of national actors further to the political right who often invoke faith-based values. In the United States, they argue for defending God-given unalienable rights and stewarding God's Kingdom on Earth. Local government increasingly is the locus of so-framed debates on policies from school curriculum to immigration and vaccination requirements. Efforts to reflect religious/faith-based beliefs in policies challenge the role of governance and are antithetical to decision making where separation between church/faith-based institutions and the state is long-standing. However, scant scholarly attention alongside rising conservatism at the local level has stymied our understanding in planning scholarship. In response, a novel conceptual framework is developed to guide research and analysis of faith fueled local activism and may align with broader political right efforts. It integrates religious studies, populism, social movement and planning scholarship. I present the case of conservative actors in rural Northern California's Shasta County, which is emblematic of broader trends in political right politics, polarization and faith-based motivations and influence, drawing upon in-depth interviews with respondents who largely identify as Christian and further to the political right and field observations. I find that local activism is interconnected with broader political right and faith-related U.S. efforts. Residents prefigure desired futures through policymaking engagement by creating civic opportunities and ecosystems of alternative news sources, education and governing. Interviewees recounted having direct callings from God and argued rights come from God, not government. This is in stark contrast to secularized society's norms. • Political right polarization infused with faith-based values is rising globally. • Local government increasingly is the locus of so-framed staunch contention. • Scant scholarship of religion and conservativism in planning stymies theorization. • A rural local California case emblematic of such polarization is analyzed. • Faith-based actors had significant impact anathema to secularized local governing.",
+      "doi": "10.1016/j.cities.2026.107564",
+      "authors": [
+        "Karen Trapenberg Frick"
+      ],
+      "year": 2026,
+      "journal": "Cities",
+      "openalex_id": "W7213559686",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213559686",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 3/14 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Political polarization is increasing globally through the rise of national actors further to the political right who often invoke faith-based values. In the United States, they argue for defending God-given unalienable rights and stewarding God's Kingdom on Earth.",
+      "added": false
+    },
+    {
+      "title": "Study of Damage to Shutters Exposed to a Vegetation Fire: Definition of Vulnerability Thresholds",
+      "abstract": "ABSTRACT This study examines the fire behavior of wooden, PVC, and aluminum shutters through laboratory and large‐scale experiments. Laboratory tests were conducted using a cone calorimeter to assess the ignitability of the PVC and wooden shutters, focusing on the critical heat flux of ignition, ignition time and critical Flux Time Product (). Additionally, field experiments on the EXPLORII platform were carried out to assess the damage caused to the three types of shutters when exposed to hedge fires. Key metrics such as heat fluxes, energies received, thermal dose, and FTP were analyzed to determine damage thresholds. The results revealed that aluminum shutters were the most fire‐resistant, withstanding peak of total heat flux of 177 kW m −2 without sustaining any damage. PVC shutters, on the other hand, showed deformation at low fire exposure, when there was no flame contact, that is, when the peak total heat flux was less than 50 kW m −2 . At these exposure levels, the wood shutters showed a greater fire resistance than the PVC shutters, with no damage below this total heat flux. When the flames came into contact with the shutters, resulting in the highest fire exposure, with a total heat flux above 50 kW m −2 , the trend observed previously was reversed, with wooden shutters suffering more damage than PVC shutters for a given total heat flux. Blackening and burning were observed on both shutter types. The study also evaluated the reliability of the FTP as an ignition criterion for wooden and PVC shutters.",
+      "doi": "10.1002/fam.70103",
+      "authors": [
+        "Camille Luciani",
+        "Virginie Tihay‐Felicelli",
+        "Frédéric Morandini",
+        "A. Pieri",
+        "P. Santoni",
+        "Toussaint Barboni"
+      ],
+      "year": 2026,
+      "journal": "Fire and Materials",
+      "openalex_id": "W7213985104",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213985104",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 3/14 key interest terms (ignition, burning, large)",
+      "tags": [
+        "Ignition",
+        "Burning",
+        "Large"
+      ],
+      "summary": "ABSTRACT This study examines the fire behavior of wooden, PVC, and aluminum shutters through laboratory and large‐scale experiments. Laboratory tests were conducted using a cone calorimeter to assess the ignitability of the PVC and wooden shutters, focusing on the critical heat flux of ignition, ignition time and criti…",
+      "added": false
+    },
+    {
+      "title": "Conclusion",
+      "abstract": "This closing chapter reiterates some of the main messages from the volume by dispelling some common myths about climate mitigation. Myth 1. Factors other than greenhouse gas emissions have caused observed warming to date of 1.2°C . No. There is consensus among scientists that the warming to date above preindustrial levels (observed at weather stations and confirmed by satellite data) is from atmospheric accumulations of human-induced, heat-trapping gases, rather than other factors like changes in solar radiation and volcanic activity or urban heat absorption (see Chapter 2 ). Myth 2. Global warming is not a major concern because people can adapt, for example, by adopting air conditioning, drought-resistant crops, and moving to cooler climates . No. Global warming is causing a diverse range of climate risks such as greater frequency and intensity of heat waves, shifting precipitation patterns (which puts at risk water systems, agriculture, and ecosystems), droughts, wildfires, floods, and hurricanes—these risks are escalating because warming causes more energy and water vapor in the atmosphere. Higher atmospheric CO 2 concentrations also eat away at the minerals used by marine life to build their shells and skeletons. And there is an escalating risk of crossing (poorly understood) tipping points in the Earth’s climate system such as permafrost melting (which could turn on an unstoppable gas tap of CO 2 and methane), long-term collapse of major ice sheets (which could raise global sea levels several meters), changes in ocean circulation (which could radically change temperature and precipitation patterns around the world), and forest dieback (which could transform the Amazon into dry savanna) (see Chapter 2 ). Myth 3. Near-term mitigation action in advanced economies can largely get global emissions on track with temperature goals . No. Global emissions need to be cut 25–50 percent below 2019 levels by 2030 to get on track with limiting warming to 2°C and 1.5°C, respectively. This will not be possible without substantial emissions reductions in developing countries given they account for nearly 70 percent of global baseline CO 2 emissions in 2030 (see Chapter 2 ). Proportionate emissions cuts should however be larger in advanced economies, and international climate finance should support low-carbon energy transitions in low-income countries. Myth 4. The Paris process is on track for achieving global temperature goals . No. Even if fully achieved, current mitigation targets in Nationally Determined Contributions would only reduce global greenhouse gas emissions by 12 percent below 2019 level by 2030. Put another way, new measures equivalent to a global carbon price upward of $80 per ton are needed by 2030 to be on track with keeping warming below 2°C (the current global average carbon price is $5 per ton). If the required emissions reductions are not achieved by 2030, emissions will need to be cut even more drastically after 2030, rapidly raising the costs of low-carbon energy transitions and potentially putting temperature goals permanently beyond reach (see Chapters 2 and 9 ). Myth 5. Low-carbon technology subsidies and mandates can mimic many of the mitigation responses from carbon pricing . No. Carbon pricing can promote the full range of behavioral responses to cut emissions across fuels, sectors, firms, and households—and cost-effectively, because it equates the cost of the last ton reduced across responses. Low-carbon technology subsidies and mandates promote a much narrower range of responses. For example, in the power sector carbon pricing will reduce electricity demand, encourage operational efficiencies, promote switching from coal to gas and from fossil fuels to nuclear and hydro, adoption of carbon capture technologies, and switching from fossil fuels to wind and solar. In contrast, subsidies or generation share requirements for renewables promote only the last response. In addition, under technology subsidies and mandates there is no automatic mechanism for equalizing the cost of the last ton reduced across firms and sectors (see Chapter 3 ). Myth 6. Carbon pricing is not practical for developing countries . Not necessarily. Carbon taxes, that is, charges on the carbon content of fossil fuel supply, are a straightforward extension of fuel taxes, which are among the easiest of all taxes to collect and are well established in more than 160 countries. Alternatively, in energy-producing countries, carbon taxes can be integrated into existing fiscal regimes for extractive industries (combined with rebates/charges for exported/imported fuels). Emissions trading systems (ETSs) can be more administratively challenging, however, and may not be practical for capacity-constrained countries. ETSs require new capacity for monitoring emissions, given they usually apply downstream to emissions from power generators and industrial facilities. They also require supervision of allowance trading markets and enough participants to create fluid trading markets (see Chapter 3 ). Myth 7. ETSs are preferable to carbon taxes given the focus of mitigation targets on emissions rather than prices . Not necessarily. Carbon tax trajectories can be set such that projected future emissions are aligned with an emissions target for a given future year (perhaps with occasional interim adjustment). Trading systems can achieve annual emissions targets with greater certainty, but the flip side is uncertainty over future emissions prices which can deter low-carbon investments (whose lifecycle returns can be highly sensitive to future emissions prices). Indeed, trading systems are usually combined with mechanisms, like price floors and ceilings, to limit price volatility, sacrificing some of the certainty over emissions (see Chapter 3 ). Myth 8. Carbon pricing obviates the need for sector-based mitigation instruments . No. Leaving aside the possibility of sectoral mitigation targets and technology policies, sectoral-based mitigation instruments are still needed. This is because of likely constraints on the political acceptability of carbon pricing from its significant effect on energy prices, which in turn burdens households and firms. Complementary sectoral instruments should, insofar as possible, mimic the behavioral responses of pricing, while they avoid energy price increases and significant fiscal costs. Furthermore, extra high explicit, or implicit, carbon prices may be needed, even in the near term, to kick-start investment in certain hard-to-abate sectors if they are to be decarbonized by mid-century. For example, it is less costly to make new buildings net zero emissions (through insulation, electric heating, and rooftop solar), rather than building an emissions-intensive structure and subsequently retrofitting it to become net zero—and this may require strong upfront explicit or implicit carbon price signals (see Chapter 3 ). Myth 9. Low-carbon technology subsidies or mandates can substitute for carbon pricing when the latter is politically constrained . Not necessarily. There are more efficient alternatives to carbon pricing than low-carbon technology subsidies and mandates. In particular, feebates (sliding scales of fees/rebates on activities or products with above/below average emissions intensity) or tradable performance (or emissions rate) standards can cost-effectively promote the full range of behavioral responses for reducing emissions rates in different sectors, while they avoid both fiscal costs on the government (unlike low-carbon technology subsidies) and significant increases in energy prices (unlike carbon pricing). See Chapter 3 . Myth 10. Feebates and tradable performance standards (TPSs) require large numbers of firms . Not necessarily. Feebates can be applied when the number of firms (for example, in a particular industry like steel or cement) is small (or even one). The feebate specifies a pivot point emissions rate above/below which fees/rebates apply, and the pivot point is set exogenously by the government. TPSs do, however, require significant numbers to lubricate credit trading markets—if the number of participants is very limited, a feebate would be better in this regard. See Chapter 3 . Myth 11. Market-based mitigation instruments cannot be used for the power and industrial sector where governments are reluctant to significantly raise electricity prices or industrial production costs . Not necessarily. Feebates or TPSs can cost-effectively exploit all mitigation options for reducing the emissions intensity of the sectors. They do not raise government revenues, but they limit increases in electricity prices and production costs by avoiding charges on unabated emissions for the average firm. Capacity requirements for these instruments are, however, similar to those for ETSs and they do little to reduce electricity demand or industrial production levels (see Chapter 4 ). Myth 12. Subsidies for low-carbon technology adoption in industrial firms confer a large competitiveness advantage . Not necessarily. In quantitative terms, the effects of technology adoption subsidies on relative competitiveness are likely modest. The base of the subsidy is the emissions reduction, or a proxy for it, which is generally smaller than remaining emissions (the relevant base for carbon pricing), and the subsidy payment is at least partly offset by extra abatement costs. Auction mechanisms for allocating subsidies to lowest-cost bidders can also limit subsidy payments in excess of mitigation costs (see Chapter 4 ). Myth 13. Fuel taxes can promote decarbonization in transportation . Probably not. For many countries, fuel taxes may be at, or close to, maximum politically acceptable levels because of the unpopularity of higher taxes at the pump. And lifecycle costs (including fuel costs at current fuel taxes) are generally smaller for internal combustion engine vehicles than their electric vehicle counterparts—promoting transitions to the latter likely requires additional incentives. Rather than dramatically raising fuel taxes, this can be achieved with a feebate, which alters relative vehicle prices without a new tax burden on the average motorist. Alternatively TPSs might be applied to vehicle sellers (see Chapter 4 ). Myth 14. Decarbonizing buildings will be fiscally costly for the government . Not necessarily. Incentives are needed for insulation upgrades, heat pumps, and rooftop solar and these could be financed taxes on building fuels or possibility is to feebates to energy or CO 2 performance for buildings into existing these limit fiscal burdens on the mitigation and promote efficient of the building and other sectors (see Chapter 4 ). Myth are needed to promote forest carbon . Not necessarily. to or promote a range of responses because they only carbon on in the there is no automatic mechanism for constraints may limit the number of and there could be risks of higher prices to forest in not under these would be under a system of for carbon on their over capacity for this are substantial (including carbon at the and interim possibility might forest taxes for (see Chapter 4 ). Myth for are not practical because governments cannot the emissions . Not necessarily. can require that and gas and their emissions to and taxes Alternatively, these firms can be to on their production levels and emissions factors to and with firms to for if they their emissions rates are significantly below the can be integrated into fiscal regimes that are applied to extractive industries (see Chapter 4 ). Myth Emissions for products are not practical on or . Not at least for countries where large account for a can be required to their emissions on like and of and and emissions for may be in where are to tax And might be the sector or feebate of emissions at level is not might be at level by emissions factors for different products (or the emissions factors and a pivot point to limit new tax burdens on with side payments for their products from with emissions rates below the See Chapter 4 . Myth mitigation requires with substantial on sectors and . Not necessarily. with on existing and for different sectors can of emissions and mitigation from a however, be they like a much more in of like fuel and can be highly to different countries, a range of different instruments and different for policies, as well as for And can be in of to the of fuel in different sectors to prices and (see Chapter ). Myth of future baseline emissions is very . No. emissions in the baseline no new or of existing mitigation can be projected from observed fuel and emissions by sector (which is for all and a factors for which there are is future (which are for by and can be to is the demand for different energy products to higher large of these by energy and are about annual rates of in energy (for example, as turn For the power more emissions can be on investments in different of generation capacity (see Chapter ). Myth The of emissions to carbon pricing or other mitigation is to . Not necessarily. The effects of carbon pricing on emissions largely to emissions changes in fuel prices because of carbon pricing, and the price of fuel Emissions factors for fossil fuels are while fuel price changes on carbon prices, emissions and baseline fuel And there is a large and on the of different fuels in different sectors and countries to carbon pricing and changes in fuel is for carbon pricing for higher levels of carbon pricing). there is and to behavioral responses to other mitigation like feebates and electric vehicle or subsidies (see Chapter ). Myth energy transitions large costs . Not because the costs extra from of achieving required emissions reductions in the should be at least if efficient mitigation are costs are about to percent of across countries for a percent in CO 2 emissions below baseline levels in 2030 and percent for a percent See Chapter . Myth from carbon pricing can offset but not of the costs on the from mitigation . This generally for advanced economies but not for developing countries. If the of carbon pricing are used for investment with of about to a point carbon taxes can net rather than net for developing economies (see Chapter ). Myth Carbon pricing . effects from carbon pricing are more to than mitigation costs. In to (which mitigation effects also on changes in investment and net as well as the and additional effects from changes in the of the there are in to of additional factors will on carbon pricing are (for example, investment may if some is used to taxes on measures allowance as well as mitigation in trading will net do not account for all these do, but it is to the effects of carbon pricing on from other however, effects are generally and could be or the latter will be more likely at levels of See Chapter . Myth emissions are to pricing . Not necessarily. In the there can be a of mitigation and a CO 2 in 2030 would on average cut emissions percent below In agriculture, however, emissions are to a CO 2 equivalent in 2030 cuts emissions by about percent on See Chapter . Myth Carbon pricing burdens on low-income households . Not necessarily. to of revenues, carbon pricing to at only a larger burden relative to for than low-income households may a larger of their on much of the burden higher prices for and and these burdens are to across carbon pricing can be in that can make carbon pricing and on net (for example, some to low-income households and the for reductions in taxes or See Chapter . Myth electricity prices is an efficient to limit the burden of carbon pricing on low-income households . No. electricity prices is an to low-income households because of the away to households and it not for burdens from higher prices for other energy products and also fiscal and to reduce electricity measures tax or other to the tax can more for with fiscal and without emissions their is with (see Chapters and ). Myth for low-income households a large of carbon pricing . Not necessarily. For example, the requires about percent of carbon pricing revenues, at least in countries with See Chapter . Myth significant in industrial competitiveness . Not necessarily. cost and reductions in from carbon pricing can be significant for some industries and but in other they are more can also measures to limit competitiveness for example, keeping from carbon pricing the instruments like feebates or TPSs of carbon pricing, or carbon pricing with carbon And competitiveness is less of a concern if other countries are also moving with mitigation for the industrial sector (see Chapters and 9 ). Myth Carbon mitigation significant emissions . Not necessarily. Emissions could be substantial in some industries (for example, about percent or more for and is, however, much smaller if other instruments like feebates or TPSs are or as countries carbon pricing with measures like allowance or And will be largely if trading are also pricing industrial emissions more emissions targets (see Chapter ). Myth the competitiveness of trading . Not necessarily. a level for carbon pricing by the price on emissions in products as on In the and the are while allowance for industries are on net there may be little change in can however burdens on trading with emissions-intensive production (for example, on coal rather than electric for steel and they the emissions price on advanced and developing countries, which might be as with under the Paris of the of however, is to than by trading in and some from might be for climate finance or to governments of low-income trading (see Chapter ). Myth more countries this will global mitigation . Not necessarily. can carbon pricing in the They only price emissions in to the however, which are a small of emissions in trading may little for trading to or carbon pricing they may encourage pricing of emissions from the industrial to carbon pricing would be more at reducing global greenhouse gas emissions (see Chapters and 9 ). Myth for low-carbon energy transitions are . Not necessarily. investment are at about $5 in 2030 on to net zero emissions by mid-century. of this investment however, is away from investments that would have for energy investments there is a in future energy investment are much than much of the investment could be from markets with the price signals on carbon emissions (see Chapter ). Myth energy transitions significant burdens on government . Not necessarily. energy transitions require government for low-income households and low-carbon technology power but these are relative to from carbon on is more financed by at the sectoral level than the costs are significant if the mitigation largely on low-carbon technology subsidies rather than carbon pricing, but this is much less efficient at and cost-effectively all behavioral responses for reducing from the of fuel taxes as transportation is decarbonized can be but these are by in charges on for all vehicles (which can be to See Chapters and . Myth carbon pricing with subsidies is to mitigation . Not necessarily. of explicit or implicit carbon needed to at different in the and of low-carbon For advanced and large economies, this in low-carbon energy and large a technology and subsidies is needed to promote applied into the full range of than subsidies And at the measures can a of and energy and mechanisms to constraints See Chapter . Myth For mitigation will have little and costs . Not necessarily. are to government over production and investment and is carbon pricing may have effects on emissions in the sector and automatic mechanisms are to promote across mitigation responses. aside the possibility of and like performance standards can emissions reductions for the and carbon pricing (perhaps by can mitigation responses the (see Chapter ). Myth for mitigation investment can be largely sector . No. sector example, firms to their carbon instruments like to the of carbon pricing and other mitigation in the of emissions mitigation policies, will have effects because there is no for firms and to extra for investments (see Chapter ). Myth countries should a carbon tax on to from countries . Not necessarily. If these taxes will be largely in prices for and over carbon taxes among large energy exploit power in international may be because countries have to and from higher international prices without carbon And even if they carbon taxes, their effects might be to to fiscal regimes for the governments and See Chapter ). Myth Emissions for of air are not for developing countries . No. Emissions are the efficient for reducing air from power generators and industrial firms because they cost-effectively exploit all mitigation such as switching away from emissions-intensive fuels like coal and adopting in at both new and existing facilities. For countries, it is to require firms to emissions emissions monitoring and this is not taxes might be on fuel and emissions and downstream firms may for to if they can that their emissions rates are below the (see Chapter ). Myth can be and and fuel . No. For given and do not account for their effect on to and for other is And fuel taxes all of it is in urban or or at and can be by on that and the (see Chapter ). Myth fuel taxes reduce the need for carbon mitigation . Not necessarily. Fuel taxes for to raise while also reducing air and And current CO 2 emissions the effect of fuel fuel taxes are aligned with costs and a carbon price on to the projected and target CO 2 emissions (see Chapter ). Myth Fuel taxes should not and because there are better for these . Not necessarily. systems can risk and in the for example, and in the latter on by however, the efficient for and because these have only become administratively with satellite of For the it is to fully these costs in fuel taxes (see Chapter ). Myth The to energy price are . No. countries, full energy price would reduce annual CO 2 emissions by percent below baseline levels in 2030, reduce annual global fossil fuel air by raise of percent of and net of to percent of (see Chapter ). Myth are from climate mitigation aside of limiting global climate No. substantial in of fossil fuels like coal can be in in some developing countries with high air because of the reductions in air and other fuel reductions can and other measures requirements for emissions at new and existing to (see Chapter ). Myth global emissions with temperature goals will burden and developing countries . Not necessarily. Global CO 2 emissions can be aligned with 2°C with mitigation costs at the global level of about percent of And costs can be largely relative to in countries and in low-income and for developing countries, costs may be offset by however, be larger if mitigation are (see Chapter 9 ). Myth international mechanisms to reduce CO 2 emissions and the Paris are politically . Not necessarily. participants from mitigation action and limiting risks of the global climate For low-income countries, in a mechanism an for and support for low-carbon energy may or (for example, as countries in on carbon and these could be a to a international for international climate mitigation mechanisms global to and global of taxes, and floors for energy taxes and in the (see Chapter 9 ). Myth mechanisms should be among all countries not . Not necessarily. numbers of participants are needed to large to global larger number of countries could be by (for example, or subsequently by the may the of the larger The Paris for among of countries (see Chapter 9 ). Myth countries should the or price on carbon . No. The to future global climate change from a ton of CO 2 emissions is the of where the emissions are because emissions and in the global there is some for putting the explicit price on emissions, of which countries This however, the mitigation targets countries have for the Paris it would the burden of international and support from advanced to developing countries. current mitigation targets could be by mitigation requirements carbon price with a of mitigation requirements for countries and international (see Chapter 9 ). Myth The international and sectors can be decarbonized without a price on carbon . this carbon price can close the in lifecycle costs or fuels and Global pricing are needed for because of the international of the tax base and could be by the for the industries in the of from the existing emissions with tax by or tax (see Chapter 9 ). Myth economies are for achieving climate finance goals of the Paris . No. economies have achieved a to a year in climate finance for developing countries, and the new is to this finance to by potentially large of these (for could from and the to these is for developing countries to carbon pricing on international transportation fuels could be a of climate finance (see Chapter 9 ). Myth can cost-effectively reduce global emissions . No. do not reduce global emissions on net and could if they are not for example, if they credit a mitigation an investment in a renewables that would have the for In addition, offset may not be (for example, new offset may subsequently or be or might also emissions (for example, if in to there are no automatic mechanisms to that the are those offset payments (see Chapter 9 ).",
+      "doi": "10.4324/9781003755012-10",
+      "authors": [
+        "Ian Parry",
+        "Simon N. Black",
+        "Nate Vernon-Lin",
+        "Karlygash Zhunussova"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214192686",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214192686",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 3/14 key interest terms (causes, wildfires, large)",
+      "tags": [
+        "Causes",
+        "Wildfires",
+        "Large"
+      ],
+      "summary": "This closing chapter reiterates some of the main messages from the volume by dispelling some common myths about climate mitigation. Myth 1. Factors other than greenhouse gas emissions have caused observed warming to date of 1.2°C . No.",
+      "added": false
+    },
+    {
+      "title": "Integrating multi-criteria decision-making and remote sensing for wildfire susceptibility assessment of the Lower Ziz Valley oases in Morocco",
+      "abstract": "Oasis ecosystems in North Africa are ecologically and economically vital landscapes. Yet they are increasingly threatened by wildfires driven by intensifying climate change and anthropogenic pressures. Despite this urgency, spatially explicit wildfire susceptibility assessments for arid oasis environments remain scarce. This study develops and validates a Fire Susceptibility Index (FSI) for the Lower Ziz Valley oases in southeastern Morocco using an integrated Multi-Criteria Decision-Making (MCDM) and remote sensing framework. Six conditioning factors were selected: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), Normalized Difference Moisture Index (NDMI), proximity to roads and settlements, and land cover classified via a U-Net deep learning model (overall accuracy: 95%). Factor weights were determined through the Analytic Hierarchy Process (AHP; CR = 0.09) and aggregated using Weighted Linear Combination (WLC). Land cover (w = 0.30) and NDVI (w = 0.25) emerged as dominant controls, with anthropogenic proximity factors jointly accounting for 31% of the index weight. FSI values ranged from 0.30 to 0.91 (mean = 0.67), with 42.7% of the oasis area (~ 1,707 ha) classified as high susceptibility (FSI ≥ 0.7). Validation against the August 2021 fire event (318 ha) demonstrated strong predictive performance: 96.5% of burned pixels fell within high-risk zones, and mean FSI was significantly higher for burned (0.72) than unburned (0.67) pixels ( p < 0.001), with an AUC of 0.703. Corroborating validation against 60 historical fire records (2009–2024) showed that 98% of events occurred in high or extreme susceptibility zones. The resulting FSI map provides a robust spatial basis for prioritizing fuel management interventions and fire prevention strategies. Its integration into a dynamic geodatabase could further support the development of an early warning system (EWS) for operational wildfire prediction in these irreplaceable oasis landscapes.",
+      "doi": "10.1007/s44288-026-00735-8",
+      "authors": [
+        "Rachid Ouachoua",
+        "Hamid Benssi",
+        "Najib Kadiri"
+      ],
+      "year": 2026,
+      "journal": "Discover Geoscience",
+      "openalex_id": "W7213984877",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213984877",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/14 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Oasis ecosystems in North Africa are ecologically and economically vital landscapes. Yet they are increasingly threatened by wildfires driven by intensifying climate change and anthropogenic pressures.",
+      "added": false
+    },
+    {
+      "title": "Drivers of post‐fire resprouting‐based resilience of co‐occurring species in Mediterranean SE Spain",
+      "abstract": "Resprouting is a major mechanism of post-fire persistence in Mediterranean woody plants, but quantifying its contribution to resilience is difficult when pre-disturbance data are unavailable. We assessed post-fire resprouting-based resilience in nine co-occurring woody species from southeastern Iberia and tested whether its drivers were consistent across species. We developed species-specific allometric equations from unburned individuals to estimate pre-fire biovolume. Resilience was quantified as the normalized biovolume recovery rate (NBRR), based on the ratio between post-fire biovolume measured 10-12 years after fire and estimated pre-fire biovolume. We then modelled NBRR as a function of microenvironmental conditions, fire severity, climatic niche position and plant size. Allometric models successfully estimated pre-fire biovolume and enabled resilience quantification. All species resprouted, and six exceeded their estimated pre-fire biovolume. However, resilience drivers varied among species. Environmental harshness reduced resilience in three species, fire severity increased resilience in four species under predominantly low-to-moderate severity, and larger pre-fire individuals generally showed lower recovery, whereas climatic niche position did not explain resilience. Plant-level biovolume modelling provides a practical framework to quantify post-fire resilience in resprouting species when pre-fire data are lacking. Strong interspecific variation in resilience drivers suggests that complementary responses among co-occurring species may enhance resilience at the community level.",
+      "doi": "10.1111/plb.70296",
+      "authors": [
+        "Juan Miguel Moya Pérez",
+        "Francisco Lloret",
+        "Jordi Margalef‐Marrasé",
+        "María Ángeles Pérez‐Navarro",
+        "M. Á. Esteve‐Selma"
+      ],
+      "year": 2026,
+      "journal": "Plant Biology",
+      "openalex_id": "W7213947740",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213947740",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/14 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Resprouting is a major mechanism of post-fire persistence in Mediterranean woody plants, but quantifying its contribution to resilience is difficult when pre-disturbance data are unavailable.",
+      "added": false
+    },
+    {
+      "title": "Chemical characterization and source apportionment of carbonaceous aerosols during post-monsoon biomass burning and Diwali at an upwind site of Delhi",
+      "abstract": "Severe post-monsoon haze in Delhi-NCR poses air-quality and health risks and reflects regional and urban emissions. Sonipat lies along the principal transport corridor linking the agricultural burning regions of Punjab and Haryana with Delhi and serves as an intermediate receptor for regional pollution. However, source apportionment at upwind locations remains limited. To address this gap, we measured composition-based PM 2.5 , defined as non-refractory PM 2.5 plus equivalent black carbon, at Sonipat from 25 October to 15 November 2023 using a Time-of-Flight Aerosol Chemical Speciation Monitor and a multi-wavelength Aethalometer. Positive matrix factorization, black-carbon apportionment, and trajectory and wind analyses were used to identify carbonaceous aerosol sources and examine their evolution during haze, non-haze, and Diwali periods. Two severe haze episodes occurred, with composition-based PM 2.5 exceeding 300 µg m −3 . Organic aerosol contributed 65 % of non-refractory PM 2.5 , and its daily mean reached nearly 140 µg m −3 . Oxygenated organic aerosol accounted for approximately 57 %–60 % of total organic aerosol, with more-oxidized oxygenated organic aerosol reaching 42.8 µg m −3 during peak haze, indicating substantial secondary processing and accumulation. Under the reference absorption Ångström exponent pair, biomass- or solid-fuel-related eBC accounted for approximately 78 % of the campaign-integrated eBC burden, although the quantitative source split was sensitive to the assumed exponents. Northwestern transport signatures and co-variation of eBC bb with biomass-burning and solid-fuel organic aerosol indicate an important regional combustion influence. These findings show that carbonaceous aerosol was already present at this receptor before further interaction with Delhi emissions and support coordinated regional controls alongside sustained urban emission reductions.",
+      "doi": "10.5194/acp-26-13227-2026",
+      "authors": [
+        "Vasu Singh",
+        "Dilip Kumar Ganguly",
+        "Jaswant Rathore",
+        "Lokesh Kumar Sahu",
+        "Ravi Kumar Kunchala",
+        "Sagnik Dey"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7213892014",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213892014",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/14 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Severe post-monsoon haze in Delhi-NCR poses air-quality and health risks and reflects regional and urban emissions. Sonipat lies along the principal transport corridor linking the agricultural burning regions of Punjab and Haryana with Delhi and serves as an intermediate receptor for regional pollution.",
+      "added": false
+    },
+    {
+      "title": "Canadian prairies wetland stressors and indicators: a systematic review to inform monitoring and management",
+      "abstract": "Prairie pothole wetlands in the Canadian Prairies Ecozone support ecosystem services such as biodiversity conservation, migratory bird habitat, water purification, and flooy -30d and drought mitigation. They are shaped by natural drivers such as climate and landscape factors, while human activities, including agriculture and urban development, impose pressures such as drainage, contamination, and vegetation alteration. To inform wetland monitoring activities, we systematically reviewed peer-reviewed research on Canadian Prairies Ecozone wetlands and organized empirical relationships using the Driver-Pressure-State framework. We synthesized research scope, identified dominant stressor-response pathways, and evaluated candidate indicators. We compiled 376 studies and extracted 4,379 pairwise relationships among drivers, pressures, abiotic states, and biotic states. Weather and climate, landscape factors such as topography, and agriculture were the most frequently studied drivers, with agriculture representing the dominant anthropogenic driver. Several drivers and pressures were poorly represented, including urbanization, recreation, water flow alterations, vegetation removal, and biological invasion. Abiotic research was concentrated on surface water chemistry and hydrology, while biotic research prioritized organismal metrics such as abundance, biomass, and vital rates over biodiversity metrics such as richness or community composition. The pathway with the highest number of statistical tests linked agriculture to contaminants, surface water chemistry, and biotic responses. Birds were the most frequently studied taxon and had consistent empirical support demonstrating their responses to agriculture, hydrology, wetland extent, and weather and climate, supporting bird abundance and vital rates as candidate indicators in agricultural landscapes. Plants were assessed less often, but existing statistical tests showed a high frequency of significant effects from agriculture, hydrology, substrate physicochemical conditions, and water chemistry, supporting plant abundance as a candidate indicator. Research effort was uneven across taxa, and research coverage did not consistently match the proportional distribution of human footprints to wetlands. This review identifies useful candidate indicators for wetland monitoring while highlighting where additional research is needed to reduce bias and inform conservation and monitoring. We also present an interactive web dashboard that allows readers to query the extracted Driver-Pressure-State relationships and explore the complete evidence base.",
+      "doi": "10.3389/fevo.2026.1924686",
+      "authors": [
+        "Debora Andrade-Pereira",
+        "Rebecca Rooney",
+        "Danielle Cobbaert",
+        "Marsha Trites-Russell",
+        "Nadine Taube",
+        "Vanessa Swarbrick"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Ecology and Evolution",
+      "openalex_id": "W7213955612",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213955612",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/14 key interest terms (drivers, states)",
+      "tags": [
+        "Drivers",
+        "States"
+      ],
+      "summary": "Prairie pothole wetlands in the Canadian Prairies Ecozone support ecosystem services such as biodiversity conservation, migratory bird habitat, water purification, and flooy -30d and drought mitigation.",
+      "added": false
+    },
+    {
+      "title": "ERF-LSFIRE v1.0: Coupling a Level-Set Fire Model with the Energy Research and Forecasting Model for Fire-Atmosphere Simulations",
+      "abstract": "Abstract. Wildland fire behavior is shaped by interactions among fuels, terrain, weather, and the lower atmosphere. Winds and fuel conditions control fire spread, while heat and moisture released by the fire can modify atmospheric stability and local winds, feeding back onto subsequent fire behavior. Here we present ERF-LSFIRE v1.0, a coupled fire–atmosphere modeling framework that integrates a C++/AMReX level-set surface-fire spread model based on the Rothermel formulation with the Energy Research and Forecasting model (ERF), providing a modular and scalable computational foundation for high-resolution coupled fire–atmosphere simulations. LSFIRE can be run standalone with prescribed winds or coupled to ERF in one-way and two-way configurations, with fire-generated sensible heat and moisture returned to the atmosphere in the two-way configuration. We verify the level-set implementation using analytical spread tests over flat and uniformly sloping terrain and demonstrate the coupled framework using simulations of the 2025 Palisades Fire in California and 2025 Cram Fire in Oregon. Standalone LSFIRE closely reproduces the analytical elliptical spread solutions. In the strongly wind-driven Palisades case, two-way coupling with ERF produces localized atmospheric perturbations but only modest changes in perimeter-scale spread. In the Cram case, where background winds are weaker and more variable, fire feedback produces larger near-fire perturbations and substantially alters fire progression relative to the one-way coupled simulation. These results demonstrate that ERF-LSFIRE provides a flexible framework for examining fire–atmosphere feedbacks and suggest that the influence of two-way coupling depends on the strength of fire-induced perturbations relative to the ambient flow. The framework also provides a basis for future applications involving wildfire impacts on energy-system operations and resilience.",
+      "doi": "10.5194/egusphere-2026-5430",
+      "authors": [
+        "Ye Liu",
+        "Huilin Huang",
+        "Troy M. Saltiel",
+        "Sha Feng",
+        "Andre Coleman",
+        "Ann Almgren"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213979454",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213979454",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 2/14 key interest terms (prescribed, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Wildland fire behavior is shaped by interactions among fuels, terrain, weather, and the lower atmosphere. Winds and fuel conditions control fire spread, while heat and moisture released by the fire can modify atmospheric stability and local winds, feeding back onto subsequent fire behavior.",
+      "added": false
+    },
+    {
+      "title": "Reply on CEC1",
+      "abstract": "Abstract. Wildland fire behavior is shaped by interactions among fuels, terrain, weather, and the lower atmosphere. Winds and fuel conditions control fire spread, while heat and moisture released by the fire can modify atmospheric stability and local winds, feeding back onto subsequent fire behavior. Here we present ERF-LSFIRE v1.0, a coupled fire–atmosphere modeling framework that integrates a C++/AMReX level-set surface-fire spread model based on the Rothermel formulation with the Energy Research and Forecasting model (ERF), providing a modular and scalable computational foundation for high-resolution coupled fire–atmosphere simulations. LSFIRE can be run standalone with prescribed winds or coupled to ERF in one-way and two-way configurations, with fire-generated sensible heat and moisture returned to the atmosphere in the two-way configuration. We verify the level-set implementation using analytical spread tests over flat and uniformly sloping terrain and demonstrate the coupled framework using simulations of the 2025 Palisades Fire in California and 2025 Cram Fire in Oregon. Standalone LSFIRE closely reproduces the analytical elliptical spread solutions. In the strongly wind-driven Palisades case, two-way coupling with ERF produces localized atmospheric perturbations but only modest changes in perimeter-scale spread. In the Cram case, where background winds are weaker and more variable, fire feedback produces larger near-fire perturbations and substantially alters fire progression relative to the one-way coupled simulation. These results demonstrate that ERF-LSFIRE provides a flexible framework for examining fire–atmosphere feedbacks and suggest that the influence of two-way coupling depends on the strength of fire-induced perturbations relative to the ambient flow. The framework also provides a basis for future applications involving wildfire impacts on energy-system operations and resilience.",
+      "doi": "10.5194/egusphere-2026-5430-ac1",
+      "authors": [
+        "Ye Liu"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214086193",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214086193",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 2/14 key interest terms (prescribed, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Wildland fire behavior is shaped by interactions among fuels, terrain, weather, and the lower atmosphere. Winds and fuel conditions control fire spread, while heat and moisture released by the fire can modify atmospheric stability and local winds, feeding back onto subsequent fire behavior.",
+      "added": false
+    },
+    {
+      "title": "Comment on egusphere-2026-5430 - Non compliance with the policy of the journal",
+      "abstract": "Abstract. Wildland fire behavior is shaped by interactions among fuels, terrain, weather, and the lower atmosphere. Winds and fuel conditions control fire spread, while heat and moisture released by the fire can modify atmospheric stability and local winds, feeding back onto subsequent fire behavior. Here we present ERF-LSFIRE v1.0, a coupled fire–atmosphere modeling framework that integrates a C++/AMReX level-set surface-fire spread model based on the Rothermel formulation with the Energy Research and Forecasting model (ERF), providing a modular and scalable computational foundation for high-resolution coupled fire–atmosphere simulations. LSFIRE can be run standalone with prescribed winds or coupled to ERF in one-way and two-way configurations, with fire-generated sensible heat and moisture returned to the atmosphere in the two-way configuration. We verify the level-set implementation using analytical spread tests over flat and uniformly sloping terrain and demonstrate the coupled framework using simulations of the 2025 Palisades Fire in California and 2025 Cram Fire in Oregon. Standalone LSFIRE closely reproduces the analytical elliptical spread solutions. In the strongly wind-driven Palisades case, two-way coupling with ERF produces localized atmospheric perturbations but only modest changes in perimeter-scale spread. In the Cram case, where background winds are weaker and more variable, fire feedback produces larger near-fire perturbations and substantially alters fire progression relative to the one-way coupled simulation. These results demonstrate that ERF-LSFIRE provides a flexible framework for examining fire–atmosphere feedbacks and suggest that the influence of two-way coupling depends on the strength of fire-induced perturbations relative to the ambient flow. The framework also provides a basis for future applications involving wildfire impacts on energy-system operations and resilience.",
+      "doi": "10.5194/egusphere-2026-5430-cec1",
+      "authors": [
+        "Ye Liu",
+        "Huilin Huang",
+        "Troy M. Saltiel",
+        "Sha Feng",
+        "Andre Coleman",
+        "Ann Almgren"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214103819",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214103819",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 2/14 key interest terms (prescribed, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Wildland fire behavior is shaped by interactions among fuels, terrain, weather, and the lower atmosphere. Winds and fuel conditions control fire spread, while heat and moisture released by the fire can modify atmospheric stability and local winds, feeding back onto subsequent fire behavior.",
+      "added": false
+    },
+    {
+      "title": "UAV-assisted Xception-enhanced quantized CNN framework for forest-wild fire detection and impact assessment",
+      "abstract": "Abstract The proposed work presents a convolutional neural network, hereafter referred to as CNN4WFD, based on transfer learning and built on an improved version of an Xception architecture, which is used to detect wildfires. A full preprocessing pipeline (comprising denoising, normalization, and class-balanced augmentation) is also built into the architecture. This pipeline will help to alleviate data imbalance and complement the modeling power. An Xception model trained on ImageNet moves the generalized hierarchical feature representations and then fine-tunes them on wildfire-specific images. This strategy alleviates the absence of labeled data, accelerates convergence, and creates strong optimisation. The training is performed based on a categorical cross-entropy loss using the Adam optimiser and supplemented by a dynamically scheduled learning rate that improves the adaptation of the gradients and stabilizes the optimisation process. Accuracy, precision, recall, and F1-score, and inference latency support the reliability and computational efficiency of the model. CNN4WFD achieved the highest performance: a precision of 99%, recall of 100% and an F1-score of 99% in the Fire class; 100%, 99% and 99% in the No-Fire class. Both macro- and micro-averaged measures converged to 99 predictive power. CNN4WFD achieved strong classification performance on both wildfire datasets. For Dataset I, the proposed model achieved a validation accuracy of 99.74%. For Dataset II, the model achieved an independent held-out test accuracy of 98.37%, with 483 of 491 samples correctly classified. The component-wise ablation study demonstrated a cumulative improvement from 92.14% for the baseline CNN to 98.37% for the complete CNN4WFD configuration. Post-training quantization reduced model size by 74.7% and reduced inference latency from 36.5 ms to 14.8 ms while maintaining a comparable classification accuracy of 98.37%. The CNN4WFD framework achieved an overall classification accuracy of 98.37%, with a precision of 98.51%, recall of 98.37%, and F1-score of 98.35%. Furthermore, a Cohen’s kappa coefficient of 97.58% demonstrates near-perfect agreement between predicted and actual class labels of dataset II. Ablation analysis demonstrates a cumulative 6.23% accuracy improvement (from 92.14% to 98.37%) through the proposed CNN4WFD components. Quantization further achieves a 74.7% model size reduction and 2.47 $$\\times$$ faster inference while maintaining 98.37% classification accuracy. Whereas such close-to-perfect metrics emphasise the discriminative effectiveness of the Xception backbone, it can be argued to some extent that they can be explained by data-specific limitations. Due to its scalable and lightweight architecture, CNN4WFD can be deployed in real-time on unmanned aerial vehicles and IoT-enabled sensor networks, as well as edge devices, outperforming traditional CNN baselines both in accuracy and computational efficiency.",
+      "doi": "10.1007/s10791-026-10603-1",
+      "authors": [
+        "Kanak Kumar",
+        "Anshul Verma",
+        "Pradeepika Verma"
+      ],
+      "year": 2026,
+      "journal": "Discover Computing",
+      "openalex_id": "W7213982208",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213982208",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 2/14 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract The proposed work presents a convolutional neural network, hereafter referred to as CNN4WFD, based on transfer learning and built on an improved version of an Xception architecture, which is used to detect wildfires.",
+      "added": false
+    },
+    {
+      "title": "A graph neural network surrogate for traffic simulation in probabilistic wildfire evacuation planning",
+      "abstract": "Agent-based traffic simulation is one of the main computational bottlenecks in probabilistic wildfire evacuation frameworks that rely on Monte Carlo analysis to populate Bayesian network models. This paper presents a graph neural network (GNN) surrogate that replaces it within the WiSE (Wildfire Safe Egress) framework. The surrogate operates on a graph of the evacuation danger zone, built automatically from openly available road network and population data. A two-branch architecture processes static distance features through graph convolutional layers and dynamic vehicle occupancy through a graph convolutional LSTM, predicting next-step node occupancy. It is trained on one agent-based scenario from the 2018 Camp Fire in the Paradise-Magalia area of California and validated on a second scenario with a different destination configuration. The surrogate reproduces occupancy dynamics, generates plausible routes, and produces departure-travel time distributions for Bayesian network calibration. It conserves 97.4% of the network traffic volume over 24 h, with a mean absolute error of 0.40 vehicles per node, and cuts the cost of one evacuation run by a factor of 30 to 45. Integrated with WiSE, it yields a safe evacuation estimate of 15.9%, consistent with the 16% of the agent-based reference, confirming that the decision-relevant outputs are preserved. • A GNN surrogate replaces agent-based traffic simulation in wildfire evacuation. • Graph construction is automated from open road network and population data. • Two branches combine graph convolutions with a graph convolutional LSTM. • The surrogate preserves 97.4% of network traffic volume against the reference. • Inference runs 30 to 45 times faster, making Monte Carlo risk analysis tractable.",
+      "doi": "10.1016/j.ssci.2026.107460",
+      "authors": [
+        "Mohammad Hossein Pishahang",
+        "Eduardo Rodríguez",
+        "Enrique López Droguett"
+      ],
+      "year": 2026,
+      "journal": "Safety Science",
+      "openalex_id": "W7213969092",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213969092",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/14 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Agent-based traffic simulation is one of the main computational bottlenecks in probabilistic wildfire evacuation frameworks that rely on Monte Carlo analysis to populate Bayesian network models. This paper presents a graph neural network (GNN) surrogate that replaces it within the WiSE (Wildfire Safe Egress) framework.",
+      "added": false
+    },
+    {
+      "title": "Increasing lifetime exposure to extreme fire weather under climate change in Europe",
+      "abstract": "Abstract Climate change increases fire weather globally. Hot, dry and windy conditions raise the likelihood of fires igniting and spreading and make suppression more challenging. With further warming, fire weather is projected to intensify across Europe, yet implications for today’s young generations remain unclear. Here, we analyse lifetime exposure to extreme fire weather across Europe using an ensemble of bias-adjusted and downscaled global climate models. To this end, we developed dem4cli , an open-source Python package that integrates demographic data into climate hazard assessments. We find younger generations are projected to be disproportionately exposed compared to older generations across all warming pathways, while also benefitting most from ambitious mitigation. Across Europe, individuals born in 2025 are projected to experience, on average, 3.2 additional years of exposure to extreme fire weather compared to those born in 1950, corresponding to an 84% increase, with larger increases observed in Southern and Eastern Europe. Focusing on Portugal, under current policies, people born in 2025 are projected to experience nearly twice the exposure compared with those born in 1950, and up to 2.5 times more in the most exposed regions of northeastern Portugal. Under a 1.5 ∘ C pathway, lifetime exposure is substantially reduced. Each additional degree of global warming by 2100 adds approximately 270 days of extreme fire weather to the lifetime exposure of a person born in Portugal in 2025. These results reveal pronounced intergenerational inequalities in exposure to fire weather and underscore the urgency of ambitious mitigation to limit cumulative exposure for younger generations.",
+      "doi": "10.1088/1748-9326/ae93de",
+      "authors": [
+        "Rosa Pietroiusti",
+        "Jessica Hetzer",
+        "Marco Rosselli Del Turco",
+        "Amaury Laridon",
+        "Quentin Lejeune",
+        "S Prudencio Montaño",
+        "Dominik Paprotny",
+        "Wim Thiery"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7213971843",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213971843",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/14 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Abstract Climate change increases fire weather globally. Hot, dry and windy conditions raise the likelihood of fires igniting and spreading and make suppression more challenging. With further warming, fire weather is projected to intensify across Europe, yet implications for today’s young generations remain unclear.",
+      "added": false
+    },
+    {
+      "title": "Urban flood risk and the structural importance of cities in a spatial interaction network: evidence from the Yangtze River Delta Urban Agglomeration",
+      "abstract": "Urban agglomeration-scale flood risk assessments commonly treat cities as independent spatial units, overlooking structural dependencies created by administrative adjacency and upstream–downstream hydrological connectivity. Using the Yangtze River Delta Urban Agglomeration (YRDUA) as the study area, we assessed flood risk from 1990 to 2020, constructed a flood risk spatial interaction network, and developed a staged XGBoost framework comprising baseline, network, and interaction models. The framework was used to identify structurally critical nodes and evaluate the incremental value of network information for risk inference. Results showed that (1) flood risk was spatially heterogeneous, with high-risk cities concentrated in highly urbanised, riverine, and coastal areas of the eastern YRDUA; (2) Hangzhou, Xuancheng, and Wuhu exhibited high structural centrality, whereas Shanghai and Suzhou were high-risk nodes requiring priority attention; and (3) in out-of-time testing for 2020, the network model outperformed the local-attribute baseline for continuous risk inference, while the interaction model achieved the best overall performance. These findings indicate that the predefined network provides useful information beyond cities’ local attributes without establishing event-scale causal flood propagation. Joint consideration of local risk and network structural importance can support differentiated flood risk management and coordinated intercity governance.",
+      "doi": "10.1080/19475705.2026.2736941",
+      "authors": [
+        "Yiyin Liang",
+        "Haipeng Lu",
+        "Hangling Ma",
+        "Yanmin Wang",
+        "Yanwen Song",
+        "Bo Wu",
+        "Shuliang Zhang"
+      ],
+      "year": 2026,
+      "journal": "Geomatics Natural Hazards and Risk",
+      "openalex_id": "W7214104699",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214104699",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/14 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Urban agglomeration-scale flood risk assessments commonly treat cities as independent spatial units, overlooking structural dependencies created by administrative adjacency and upstream–downstream hydrological connectivity.",
+      "added": false
+    },
+    {
+      "title": "Geographic hazard and residential catastrophe insurance quotations: Evidence From Italy",
+      "abstract": "Abstract This study examines residential catastrophe‐insurance quotations in Italy using 1512 property profiles collected from one insurer in 2025 across 108 provincial quotation units. Each profile contains earthquake and flood amounts; dwelling types and floor‐area values repeat across units. Peril‐specific Gamma‐log models relate these amounts to independently sourced provincial hazard, adjusting for recorded property characteristics and region fixed effects. A one‐standard‐deviation difference across the 108 units in the relevant hazard measure is associated with a conditional quotation ratio of 1.970 for earthquake (95% confidence interval 1.658–2.341) and 1.360 for flood (1.216–1.520). Alternative estimators, measures, and dependence adjustments retain positive associations, while splines indicate non‐constant local relationships. The contribution is a paired, repeated‐profile comparison of geographic differentiation in offered cover, distinct from purchased policies or modeled insurance costs. These estimates describe one insurer's offers; they do not establish actuarial rate adequacy or the causes of household non‐participation.",
+      "doi": "10.1111/rmir.70046",
+      "authors": [
+        "Anna Grazia Quaranta",
+        "Grace Rigamonti Osorno"
+      ],
+      "year": 2026,
+      "journal": "Risk Management and Insurance Review",
+      "openalex_id": "W7213876659",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213876659",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/14 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Abstract This study examines residential catastrophe‐insurance quotations in Italy using 1512 property profiles collected from one insurer in 2025 across 108 provincial quotation units. Each profile contains earthquake and flood amounts; dwelling types and floor‐area values repeat across units.",
+      "added": false
+    },
+    {
+      "title": "Poverty alleviation at an environmental cost? Evidence from China’s National Poverty County policy and air pollution",
+      "abstract": "Balancing poverty alleviation and environmental sustainability poses a central challenge for developing economies. This study examines the environmental consequences of place-based poverty alleviation using China’s National Poverty County policy as a quasi-natural experiment. Combining satellite-based PM2.5 data with a county-level panel of 1,453 counties from 2001 to 2020, we employ a difference-in-differences design to identify the causal impact of poverty designation on air pollution. We find that inclusion in the National Poverty County program significantly increases local air pollution, raising annual PM2.5 concentrations by approximately 1.6% relative to non-treated counties. Mechanism analyses indicate that this effect operates through relaxed environmental regulation, the expansion of pollution-intensive activities—including agricultural straw burning, industrial production, and thermal power generation—and a decline in green technological innovation. The pollution impacts are heterogeneous, being larger in counties with weaker economic fundamentals, greater industrial reliance, richer natural resource endowments, and fewer cultural resources, while attenuated in regions facing stricter environmental constraints. Although the policy targets rural poverty, pollution increases are concentrated in urban areas within participating counties and persist after policy exit. These results underscore the environmental externalities of growth-oriented poverty alleviation and suggest that ignoring pollution damage may overstate welfare gains.",
+      "doi": "10.3389/fenvs.2026.1847627",
+      "authors": [
+        "Fan Zou",
+        "Li Zhou"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Environmental Science",
+      "openalex_id": "W7213925803",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213925803",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/14 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Balancing poverty alleviation and environmental sustainability poses a central challenge for developing economies. This study examines the environmental consequences of place-based poverty alleviation using China’s National Poverty County policy as a quasi-natural experiment.",
+      "added": false
+    },
+    {
+      "title": "Fine‐Scale Factors Affecting the Abundance and Thermal Sensitivity of Nonnative Brook Trout in Coldwater Rocky Mountain Streams",
+      "abstract": "ABSTRACT The Brook Trout ( Salvelinus fontinalis ) is a globally distributed nonnative species that threatens native salmonids in coldwater streams. Understanding the factors regulating Brook Trout densities in coldwater refugia is critical to effective management, so we investigated (a) fine‐scale drivers of Brook Trout abundance and (b) factors affecting their thermal sensitivity in 49 coldwater streams in Idaho. Among the 14 candidate variables evaluated, Brook Trout density was most closely associated with mean August water temperature (dome‐shaped response peaking at 11.0°C–11.1°C), wetted width (negative association), gradient (negative association), run habitat (positive association), and substrate size (negative association). Simulations indicated that densities were most sensitive to climate warming in low‐velocity habitats, with the largest increases occurring in areas with baseline temperatures of 8.9°C and largest decreases in areas with temperatures of 12.2°C. We discuss our results in the context of Brook Trout behavior, effects on native salmonids, climate warming, and habitat restoration.",
+      "doi": "10.1111/fme.70106",
+      "authors": [
+        "Nicholas S. Voss",
+        "Brett J. Bowersox",
+        "Daniel C. Nolfi",
+        "Michael C. Quist"
+      ],
+      "year": 2026,
+      "journal": "Fisheries Management and Ecology",
+      "openalex_id": "W7213923642",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213923642",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/14 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "ABSTRACT The Brook Trout ( Salvelinus fontinalis ) is a globally distributed nonnative species that threatens native salmonids in coldwater streams. Understanding the factors regulating Brook Trout densities in coldwater refugia is critical to effective management, so we investigated (a) fine‐scale drivers of Brook Tro…",
+      "added": false
+    },
+    {
+      "title": "Agriculture-Driven Emergence and Spread of Bacterial Zoonotic Diseases",
+      "abstract": "Zoonotic diseases constitute more than 75% of emerging infectious diseases, with bacterial pathogens representing a substantial and growing proportion of this burden. Agricultural practices—encompassing intensive livestock production, antimicrobial use, land-use change, and expansion into wildlife habitats—have emerged as primary drivers of bacterial zoonosis emergence, amplification, and dissemination. This narrative review synthesizes current evidence on how modern agriculture facilitates the spillover, evolution, and transmission of bacterial zoonotic pathogens, including Salmonella spp., Campylobacter spp., Shiga toxigenic Escherichia coli (STEC), livestock-associated methicillin-resistant Staphylococcus aureus (LA-MRSA), Brucella spp., Coxiella burnetii, Leptospira spp., Mycobacterium bovis, and emerging multidrug-resistant organisms such as carbapenem-resistant Klebsiella pneumoniae and Acinetobacter baumannii. We examine the mechanisms by which agricultural intensification, antimicrobial misuse, land-use change, and climate interactions create favorable conditions for pathogen emergence and cross-species transmission. The review further discusses transmission pathways—direct contact, foodborne routes, environmental contamination, and vector-mediated spread—and the critical role of antimicrobial resistance (AMR) in exacerbating the public health impact of agricultural zoonoses. Finally, we evaluate One Health-based mitigation strategies, including antimicrobial stewardship, biosecurity enhancement, surveillance integration, and policy interventions, and identify research gaps and priorities for future action.",
+      "doi": "10.64904/20260907",
+      "authors": [
+        "Jarunee Siengsanun Lamont",
+        "Zubaidah Ya’Cob",
+        "Sinh Dang Xuan",
+        "Budi Utomo"
+      ],
+      "year": 2026,
+      "journal": "Journal of Public Health and Preventive Medicine",
+      "openalex_id": "W7214063607",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214063607",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/14 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Zoonotic diseases constitute more than 75% of emerging infectious diseases, with bacterial pathogens representing a substantial and growing proportion of this burden.",
+      "added": false
+    },
+    {
+      "title": "A Methodology for Developing a Municipal-Scale Integrated Risk Index to Support Civil Protection Planning: A Case Study from Lombardy (N-Italy)",
+      "abstract": "This study proposes a methodology for developing an integrated risk index at municipal level, applied to the entire territory of the Lombardy region. The conceptual framework adopts a pragmatic approach based on the formula R = H × D (Risk = Hazard × Damage), integrating diverse institutional datasets—from national or regional geoportals—with empirical evidence drawn from the regional damage register (Ra.S.Da.). The methodology harmonises data relating to six types of risk: wildfires, seismic, hydraulic, hydrogeological, avalanches and adverse weather events. The main methodological steps included normalising the data to a common scale. The normalised risk values associated with each analysed phenomenon were aggregated using an additive approach, yielding a single integrated risk index for each municipality in Lombardy. The results highlight marked spatial variability in risk, enabling the identification of areas where multiple hazard factors coexist. The final output consists of a composite risk map implemented within an interactive WebGIS platform, designed as a reproducible and transparent decision-support tool to assist stakeholders in designing tailored civil protection plans. This article aims to highlight the wide range of risks considered and guide both local and regional stakeholders in the design of ad hoc civil protection plans. This work synthesises the joint efforts of researchers and decision makers, aiming to develop a reproducible, adjustable, and transparent decision support tool.",
+      "doi": "10.3390/urbansci10090538",
+      "authors": [
+        "Laura Franceschi",
+        "Laura Ferigato",
+        "Alberto Bosino",
+        "Andrea Zaccone",
+        "Sara Elefanti",
+        "Marco Broggi",
+        "Antonella Cuccurullo",
+        "Gaia Yuden Limonta",
+        "Valentina Bonato",
+        "Marco Chiera",
+        "M De Amicis"
+      ],
+      "year": 2026,
+      "journal": "Urban Science",
+      "openalex_id": "W7213968455",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213968455",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "This study proposes a methodology for developing an integrated risk index at municipal level, applied to the entire territory of the Lombardy region. The conceptual framework adopts a pragmatic approach based on the formula R = H × D (Risk = Hazard × Damage), integrating diverse institutional datasets—from national or…",
+      "added": false
+    },
+    {
+      "title": "A Spatial Database of Historical Fire in Westside Forests of the Pacific Northwest",
+      "abstract": "Recent fire activity across forests west of the Cascade Crest in Oregon and Washington (the “westside”) has increased interest in the region's historical fire regimes. Substantial spatial information exists describing the location, extent, and timing of historical fires in the region, but these records represent independent efforts at local-to-regional scales, with considerable variation in data resolution, methodologies, discoverability, and metadata. To address the need for a systematic dataset of historical westside fire, we compiled a spatial database of over 7,300 fire perimeters and burned areas covering 125,000 km2, sourced from 25 datasets including historical forest inventories, cohort age studies, fire atlases, and aerial photo interpretations. We provide metadata, documentation, and guidelines for applying and interpreting the database, as well as three case studies illustrating possible applications and potential limitations. While the database documents extremely large and well-known fires such as the Tillamook Burn and Yacolt Burn, it also points to the historical importance of smaller fires and patches of stand-replacing fire on the westside. The case studies demonstrate 1) historical variability in stand-replacing patch sizes during wind-driven fire events, 2) resilience to early 20th century fire along the North Santiam River of Oregon, and 3) the role of repeated fire in creating early seral landscape diversity in the Coast Range. By considering the strengths and weaknesses of individual sources and using multi-proxy corroboration to reduce uncertainty, this publicly available database provides opportunities for new insights into the geographic variability of historical fire regimes on the westside. Key Points We developed a spatial database of over 7,300 historical fire perimeters across western Oregon and Washington, available online at https://doi.org/10.5281/zenodo.19120166. Historical sources vary in spatial and temporal confidence, but can be used effectively by considering those limitations and finding corroboration in complementary data like aerial photography and field measurements. Case studies demonstrate the resilience of westside forests to stand-replacing fires that created early seral conditions across a wide range of spatial scales.",
+      "doi": "10.3955/046.099.0204",
+      "authors": [
+        "Aaron Zuspan",
+        "Matthew J. Reilly",
+        "Andrew G. Merschel",
+        "Constance A. Harrington",
+        "Peter D. Teensma",
+        "Glenn P. Juday",
+        "Peter Impara",
+        "Raymond J. Davis",
+        "Alan Dickman"
+      ],
+      "year": 2026,
+      "journal": "Northwest Science",
+      "openalex_id": "W7214093398",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214093398",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Recent fire activity across forests west of the Cascade Crest in Oregon and Washington (the “westside”) has increased interest in the region's historical fire regimes.",
+      "added": false
+    },
+    {
+      "title": "Environmental and Human Nuclear Winter Risks in the Nordic Context",
+      "abstract": "Aerosols reaching the stratosphere from both nuclear war and volcanic eruptions can block incoming solar radiation, cool the planet, reduce light for photosynthesis, and in turn reduce food production, leading to regional and widespread famine. Physical and historical records of climate and human impacts after volcanic cooling can be used to contextualize expected impacts of nuclear winter. Similarly, Earth system models used to study climate effects of volcanic eruptions have been adapted for nuclear winter studies. The Nordic region, with its rich history of climate recordkeeping, can illuminate the linkages between historical and potential future global cooling events. For the Nordic mainland, the geographic location leads to disproportionally larger impacts than the global average for cooling and agricultural reduction under a range of nuclear winter scenarios, as is seen in the historical record after large volcanic eruptions.",
+      "doi": "10.22541/essoar.15008260/v2",
+      "authors": [
+        "Cheryl Shannon Harrison",
+        "William Faulkner"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213870411",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213870411",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Aerosols reaching the stratosphere from both nuclear war and volcanic eruptions can block incoming solar radiation, cool the planet, reduce light for photosynthesis, and in turn reduce food production, leading to regional and widespread famine.",
+      "added": false
+    },
+    {
+      "title": "Magnitude and frequency of hurricane experiences shape community preparedness in distinct ways",
+      "abstract": "Prior hazard experiences can shape how communities prepare for future climate-related risks. Here, we examine this relationship by linking census block group-level wind and rainfall exposures from eleven storms affecting Louisiana during 2017–2021 with mobility-derived preparedness measures during Hurricane Ida (2021). We find that communities with prior exposure to higher-magnitude hurricane hazards, characterized by stronger winds and greater precipitation, exhibited higher preparedness levels. In particular, communities that had previously experienced hurricane-force winds (maximum wind speed ≥ 33 m s⁻¹) or extreme rainfall (≥150 mm in 24 h) showed substantially higher preparedness. By contrast, more frequent exposure to non-catastrophic winds (21–33 m s⁻¹) or rainfall (70–150 mm in 24 h) was associated with lower preparedness. These associations were stronger in communities facing higher forecast wind speeds and in coastal areas. Our findings reveal contrasting relationships of hazard magnitude and frequency with subsequent preparedness and highlight the importance of jointly considering both dimensions when designing targeted preparedness strategies. Communities impacted by prior catastrophic hurricanes exhibit better future-hazard preparedness whereas those exposed to frequent but non-catastrophic events show reduced preparedness, as suggested by a case study of Hurricane Ida (2021) integrating large-scale human mobility analysis with hazard modeling.",
+      "doi": "10.1038/s44458-026-00156-1",
+      "authors": [
+        "Tianle Duan",
+        "Qingchun Li",
+        "Fengxiu Zhang",
+        "Ning Lin",
+        "Daniel R. Chavas",
+        "Dazhi Xi"
+      ],
+      "year": 2026,
+      "journal": "Communications Sustainability",
+      "openalex_id": "W7213974244",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213974244",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Prior hazard experiences can shape how communities prepare for future climate-related risks. Here, we examine this relationship by linking census block group-level wind and rainfall exposures from eleven storms affecting Louisiana during 2017–2021 with mobility-derived preparedness measures during Hurricane Ida (2021).",
+      "added": false
+    },
+    {
+      "title": "Stakeholder perspectives on ecosystem services in truffle-producing systems: Insights from Spain",
+      "abstract": "Truffle-cultivating systems represent a distinctive type of Mediterranean agroforestry that combines high-value fungal production with open woodland management. While truffle cultivation has been widely studied from biological and technical perspectives, less is known about how stakeholders perceive the ecosystem services (ES) that it provides. This study investigates stakeholders’ priorities for provisioning, regulating and cultural ES in truffle-producing landscapes in Spain and explores how these priorities vary across stakeholders along a continuum of preferences, together with environmental worldviews. For this, we conducted an online survey using the Analytic Hierarchy Process (AHP) to elicit ES priorities, while environmental attitudes of the respondents were obtained by employing the New Ecological Paradigm (NEP). In addition, we elicited stakeholders’ perspectives on the main constraints affecting truffle cultivation and the incentives for integrating intercropping systems into truffle production. Truffle production was ranked as the most important ES, reflecting the high economic value of this fungus, while wildfire regulation was the most valued regulating service. Stakeholder heterogeneity was characterised by a continuum rather than a neat separation between production-oriented and cultural-and-landscape-oriented preference gradients, though their separation was shallow and boundaries between them should be interpreted with caution. These differences were also associated with environmental worldviews: respondents more strongly oriented toward truffle production and fire regulation exhibited more ecocentric attitudes. Limited access to affordable irrigation was identified as the main constraint on truffle cultivation, whereas intercropping was primarily supported as a strategy for income diversification, with additional perceived benefits for soil quality. Overall, our results highlight truffle agroforestry as a financially viable pathway for delivering public ecosystem services in marginal Mediterranean regions. While exploratory, this study provides an initial, reproducible, stakeholder-based mapping of how ecosystem services, constraints and diversification options are perceived in this under-studied agroforestry system, offering basis for future more targeted assessments.",
+      "doi": "10.1016/j.ecoser.2026.101918",
+      "authors": [
+        "Vasiliki Barou",
+        "Elsa Varela",
+        "Ana Rincon",
+        "Javier Parladé"
+      ],
+      "year": 2026,
+      "journal": "Ecosystem Services",
+      "openalex_id": "W7213986046",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213986046",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/14 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Truffle-cultivating systems represent a distinctive type of Mediterranean agroforestry that combines high-value fungal production with open woodland management. While truffle cultivation has been widely studied from biological and technical perspectives, less is known about how stakeholders perceive the ecosystem servi…",
+      "added": false
+    },
+    {
+      "title": "From climate vulnerability to climate governance: a multi-hazard framework for adaptation planning evidence from Greece and implications for climate-sensitive regions",
+      "abstract": "Climate vulnerability assessments have traditionally focused on socioeconomic and demographic conditions as the primary determinants of regional resilience. However, the increasing frequency and intensity of multiple climate hazards challenge this perspective by revealing vulnerability patterns that cannot be adequately captured through conventional socioeconomic indicators alone. Although numerous composite vulnerability indices have been proposed, relatively few explicitly integrate climate hazards into a framework capable of supporting adaptation-oriented decision making. This study presents a multi-hazard climate adaptation framework that combines a Climate Vulnerability Index (CVI) with extreme- heat and wildfire- danger indicators to construct a Multi-Hazard Vulnerability Index (MHVI). The framework was applied to the 52 NUTS3 regions of Greece using official socioeconomic datasets together with ERA5 climate data for the period 2010–2023. Regions were subsequently classified using a two-dimensional quadrant typology based on the interaction between conventional socioeconomic vulnerability (CVI) and multi-hazard climate vulnerability (MHVI), defining four distinct vulnerability profiles. The results demonstrate that climate hazards substantially modify conventional vulnerability patterns, revealing significant regional differences that are not captured by socioeconomic conditions alone. Five regions were identified as exhibiting the Urban Thermal Paradox, whereby comparatively favorable socioeconomic conditions coexist with high multi-hazard climate vulnerability due to elevated exposure to heatwaves and wildfire danger. More broadly, the proposed typology shows that regions with similar socioeconomic characteristics may require fundamentally different adaptation strategies depending on the interaction between structural vulnerability and multiple climate hazards. Beyond improving vulnerability assessment, the proposed framework links spatial climate-risk analysis with differentiated adaptation priorities, providing a structured basis for evidence-based climate governance and adaptation planning. The integration of Earth Observation and geospatial information is further proposed as a mechanism for supporting the operational implementation of these adaptation priorities through continuously updated environmental monitoring. Although demonstrated using Greece as an empirical case study, the methodological framework may have broader applicability to Mediterranean and other climate-sensitive regions experiencing increasing exposure to multiple climate hazards, subject to further empirical testing.",
+      "doi": "10.3389/fpos.2026.1959079",
+      "authors": [
+        "Ioannis Trigkas",
+        "Eleftheria Stamati",
+        "Vassiliki Kostourou"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Political Science",
+      "openalex_id": "W7213890111",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213890111",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/14 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Climate vulnerability assessments have traditionally focused on socioeconomic and demographic conditions as the primary determinants of regional resilience. However, the increasing frequency and intensity of multiple climate hazards challenge this perspective by revealing vulnerability patterns that cannot be adequatel…",
+      "added": false
+    },
+    {
+      "title": "Sustained Livestock Grazing Enhances Soil Organic Carbon Storage in Sub‐Arctic Grassland",
+      "abstract": "ABSTRACT Grazing systems remain under‐represented in global carbon cycle models, and grazed grasslands are rarely recognised as an active carbon sink. Emerging evidence indicates that grazing can enhance plant carbon allocation below‐ground, contributing to soil organic carbon (SOC) sequestration. Yet, long‐standing grazing practices are increasingly being abandoned in sub‐arctic regions with poorly understood consequences for SOC sequestration. Here, we examined the long‐term consequences of abandonment of livestock grazing for SOC in sub‐arctic grassland and heathland across 34 sites in Iceland, by comparing paired ungrazed exclosures (20–83 years) with adjacent continuously grazed land. Our results show that the cessation of grazing was associated with 8% lower SOC stocks in the topsoil (0–10 cm), but without effect on SOC in deeper soil. Overall, SOC stocks (on average 130 Mg C ha −1 in 0–60 cm) were an order of magnitude larger than carbon in total plant biomass, including roots, shoots and litter. With the cessation of grazing, root carbon and nitrogen stocks in the topsoil, as important factors of SOC dynamics, were 29% and 9% lower, respectively. Our findings indicate that soil nitrogen limitation associated with cessation of grazing promoted vegetation shifts from grassland into heathland or birch woodland at multiple sites. Both heathland and birch woodland were associated with markedly lower SOC stocks in the upper 30 cm of soil compared to grazed grassland. Therefore, we emphasise that sustained extensive grazing is important for maintaining SOC stocks of sub‐arctic grassland.",
+      "doi": "10.1002/gcb4.70049",
+      "authors": [
+        "Christian Klopsch",
+        "Anna Guðrun Þorhallsdóttir",
+        "René van der Wal",
+        "Richard D. Bardgett",
+        "Björn Thorsteinsson",
+        "Áslaug Geirsdóttir"
+      ],
+      "year": 2026,
+      "journal": "Global Change Biology Communications",
+      "openalex_id": "W7214094071",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214094071",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Grazing systems remain under‐represented in global carbon cycle models, and grazed grasslands are rarely recognised as an active carbon sink. Emerging evidence indicates that grazing can enhance plant carbon allocation below‐ground, contributing to soil organic carbon (SOC) sequestration.",
+      "added": false
+    },
+    {
+      "title": "Demining and revitalising war-affected landscapes in Ukraine: multi-actor governance responses",
+      "abstract": "Abstract Ukraine faces one of the world’s largest and most complex explosive-ordnance contamination problems, affecting agricultural land, settlements, forests, and other natural ecosystems. This paper examines how global demining strategies are adapted within Ukraine’s multi-actor governance system and what this means for linking clearance with land recovery, soil restoration, and long-term environmental resilience. It addresses a gap in understanding how mine-action governance supports integrated landscape recovery in war-affected settings. We developed a seven-strategy analytical typology of mine-action and land-recovery approaches, comprising manual clearance, mechanical demining, remote sensing and mapping, community-based approaches, ecological remediation, legal and institutional frameworks, and post-conflict land-use zoning. Applying this typology to Ukraine and drawing on stakeholder analysis, policy review, and expert interviews, we found that manual clearance and mechanical land-release methods remain central, yet supported by new legal, institutional, and governance arrangements. Digital innovation in Ukraine’s mine-action sector is advancing rapidly, with UAV mapping, AI-supported detection, and integrated prioritization platforms increasingly incorporated into survey and planning processes. Uptake remains uneven, however, and interoperability and data-sharing gaps continue to limit implementation. Ukraine’s mine-action governance system is multi-actor and polycentric, but coordination remains challenging because of overlapping mandates, fragmented information flows, and differing donor priorities. These conditions reveal both opportunities and coordination challenges in linking mine action to environmental recovery and long-term land-use planning. Environmental concerns, including soil contamination in and around explosion craters, damage to forest areas, and degradation of shelterbelts, are receiving increasing attention, yet implementation remains limited and often confined to small or time-bound pilot projects. Community participation in prioritization of mine-action activities remains uneven, and interviewees reported that smallholders risk being sidelined by larger agricultural actors with greater influence over clearance demands. Scale remains a major challenge, requiring coordination across national, regional, and local levels while reconciling different humanitarian, economic, environmental, and recovery priorities. Our findings highlight that sustainable recovery depends on integrating mine action governance, environmental assessment and remediation, land-use planning, and long-term soil and ecosystem monitoring into a coherent recovery process. Ukraine’s evolving multi-actor approach offers lessons for other conflict-affected regions seeking to address explosive-ordnance contamination, environmental degradation, and landscape and livelihood recovery during and after armed conflict.",
+      "doi": "10.1007/s11625-026-01892-y",
+      "authors": [
+        "Mariana Melnykovych",
+        "Olena Melnyk",
+        "Oleksandr Soshenskyi",
+        "Anna McKean",
+        "Владислав Дудар",
+        "Patrick O. Waeber"
+      ],
+      "year": 2026,
+      "journal": "Sustainability Science",
+      "openalex_id": "W7213868215",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213868215",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract Ukraine faces one of the world’s largest and most complex explosive-ordnance contamination problems, affecting agricultural land, settlements, forests, and other natural ecosystems.",
+      "added": false
+    },
+    {
+      "title": "Beyond Monuments: Revisiting Ajanta’s World Heritage Designation",
+      "abstract": "The UNESCO World Heritage List, until 1992, categorized heritage sites as natural or cultural properties. These classifications recognized the site significance within their respective domains. The addition of the cultural landscape category thus brought urgently needed attention to this interconnectedness, contributing to a considerable transformation in the perception and implementation of conservation guidelines. Analyzing the case of the Ajanta Caves of India, this study aims to critically assess this shift by demonstrating whether and how a cultural landscape typology might provide a more holistic understanding of the site’s significance. By first evaluating the site’s OUV, inscription criteria, and core attributes, the research explores key aspects of the site’s nature-human dynamics and studies the elements addressed and unaddressed during its inscription. The study examines the management strategies advocated before the typology’s inclusion and the existing complications, to explore essential factors to enhance their conservation approach in line with contemporary heritage principles.",
+      "doi": "10.1080/13505033.2026.2663178",
+      "authors": [
+        "Murchana Madhury",
+        "Ommker Dutta Jay"
+      ],
+      "year": 2026,
+      "journal": "Conservation and Management of Archaeological Sites",
+      "openalex_id": "W7213984934",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213984934",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "The UNESCO World Heritage List, until 1992, categorized heritage sites as natural or cultural properties. These classifications recognized the site significance within their respective domains.",
+      "added": false
+    },
+    {
+      "title": "Dual-band information helps constrain canopy water content and temperature retrievals from vegetation optical depth",
+      "abstract": "Abstract. Vegetation canopy water content and temperature fundamentally control plant physiology. They usually have strong diurnal cycles with substantial variations on the hourly basis. However, due to the scarcity of high-frequency observations, a major obstacle has long been existing in deciphering the plant hydrodynamics. Vegetation Optical Depth (VOD) provides a promising satellite and ground-based proxy by quantifying microwave attenuation by canopy liquid water, but it co-varies with biomass and temperature. Temperature-dependent dielectric effects also complicate the isolation of water dynamics. To assess the information extent that can be inferred from VOD and to assess the contribution of a second wavelength (as available with Global Navigation Satellite System, GNSS) in disentangling influences from multiple processes, we developed a Bayesian inversion framework coupled to a semi-empirical electromagnetic model to retrieve canopy water content (Mg), vegetation volume, and canopy temperature from single- and dual-frequency data using both theoretical sensitivity analyses and GNSS observations. After testing with simulated VOD at two GNSS bands (1.575 and 1.176 GHz), we applied the method to in situ GNSS-based VOD and evaluated against field measurements. Simulations indicate that single-band VOD with 0.5–4% measurement error already constrains Mg and vegetation volume. Adding a second band substantially improves temperature retrievals, reducing posterior uncertainty to 2.3K, although the benefit declines rapidly as VOD errors grow. When applied to observations, incorporating scaled leaf area index as an additional constraint improves the Mg-leaf water potential relationship, underscoring the value of auxiliary information. Through a first direct comparison of the information provided by mono-band and dual-band, our results show that converting VOD into biophysical variables is strengthened by dual-frequency information and complementary constraints, emphasizing the need for additional validation to robustly retrieve canopy water content and temperature at high frequency.",
+      "doi": "10.5194/egusphere-2026-4858",
+      "authors": [
+        "Yitong Yao",
+        "Vincent Humphrey",
+        "Alexandra G. Konings",
+        "J. B. Wood",
+        "Yujie Wang",
+        "Ke Liu",
+        "Dien Wu",
+        "Christian Frankenberg"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7213981200",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213981200",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Vegetation canopy water content and temperature fundamentally control plant physiology. They usually have strong diurnal cycles with substantial variations on the hourly basis.",
+      "added": false
+    },
+    {
+      "title": "The Creation Mandate and the Decalogue as Pillars of a Triperspectival Christian Ethic of Earth Stewardship",
+      "abstract": "This paper advances a triperspectival Christian ethic of Earth stewardship-existential, deontological, and teleological-grounded in the Cultural Mandate of Genesis 1:28 and the Decalogue interpreted in both their narrow and expansive senses. It contends that God’s disposition toward creation and humanity’s vocation as its steward have been established since the beginning, providing a stable theological foundation for evaluating contemporary environmental claims. Against the backdrop of modern climate‑change alarmism, the study offers a biblically informed critique that rejects the idolatrous personification of “Mother Nature” and reaffirms that “the Earth is not God, but it belongs to him, and so do we.” The paper argues that faithful stewardship requires integrating the Sabbath’s ecological, economic, and humanitarian dimensions into Christian practice. It further demonstrates how the Fifth, Sixth, and Eighth Commandments collectively summon believers to servant leadership, the protection of human life, and particular concern for the poor-especially in light of the disproportionate burdens that aggressive environmental policies impose on developing nations. Synthesizing these themes, the study maintains that Christian Earth stewardship must unite prudent skepticism, moral responsibility, and practical compassion. Such an ethic enables the church to care for creation in ways that uphold human flourishing, safeguard the vulnerable, and ultimately magnify the glory of God.",
+      "doi": "10.11648/j.ijecs.20261105.16",
+      "authors": [
+        "Gregory J. Rummo"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Education Culture and Society",
+      "openalex_id": "W7214112740",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214112740",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "This paper advances a triperspectival Christian ethic of Earth stewardship-existential, deontological, and teleological-grounded in the Cultural Mandate of Genesis 1:28 and the Decalogue interpreted in both their narrow and expansive senses.",
+      "added": false
+    },
+    {
+      "title": "Automatic evergreen forest mapping based on Harmonised Landsat Sentinel-2 and existing broad-category land cover product within Google Earth Engine",
+      "abstract": "Evergreen forests retain green foliage throughout the year and exhibit distinct phenological and biophysical characteristics. However, although many regional and global land cover products are available at 30 m resolution, most adopt coarse classification schemes and do not explicitly distinguish evergreen forests from other forest types. This study proposes a novel Automatic Evergreen Forest Mapping (AEFM) framework to generate annual evergreen forest maps at the city scale using dense Harmonised Landsat Sentinel-2 time-series data on the Google Earth Engine platform. The framework employs an improved K-means clustering approach to automatically extract high-quality evergreen forest training samples from existing broad-category land cover products. A generalised spectral–temporal feature space is then constructed using comprehensive temporal metrics derived from NDVI, EVI, and LSWI. These features are used to train a pixel-level Random Forest classifier for efficient cloud-based evergreen forest mapping. Applied to Beijing, China, the framework achieved an overall accuracy of 92.29%, with both producer’s and user’s accuracies for evergreen forests exceeding 85%. Comparative analyses show that AEFM outperforms existing approaches. Applications in Qingdao and Zhengzhou yielded overall accuracies of about 90%, demonstrating robustness and scalability. Overall, AEFM provides an automated and reliable solution for fine-resolution evergreen forest mapping and long-term monitoring.",
+      "doi": "10.1080/22797254.2026.2735509",
+      "authors": [
+        "Mengxin Zhao",
+        "Shuai Xie",
+        "Zhiyi Li",
+        "Liangyun Liu"
+      ],
+      "year": 2026,
+      "journal": "European Journal of Remote Sensing",
+      "openalex_id": "W7213940023",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213940023",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Evergreen forests retain green foliage throughout the year and exhibit distinct phenological and biophysical characteristics. However, although many regional and global land cover products are available at 30 m resolution, most adopt coarse classification schemes and do not explicitly distinguish evergreen forests from…",
+      "added": false
+    },
+    {
+      "title": "Advances in biomarkers of benzene exposure and toxicity: From mechanistic insights to occupational health applications (Review)",
+      "abstract": "Benzene is a toxic aromatic hydrocarbon widely used in industrial production, posing a notable occupational health threat.classified as a Group 1 carcinogen, chronic benzene exposure primarily targets the hematopoietic system, causing leukopenia, thrombocytopenia, aplastic anemia and acute myeloid leukemia.Furthermore, emerging evidence highlights its multi-systemic toxicity, inducing oxidative stress, dna damage and cellular dysfunction, across the nervous, respiratory, dermatological, reproductive, immune and cardiovascular systems.The present review systematically summarizes recent advances in these occupational hazards and the evolving landscape of benzene biomonitoring.Traditional exposure biomarkers, such as urinary phenol and hydroquinone, are increasingly being supplemented by highly specific metabolites, notably S-phenylmercapturic acid, for low-dose exposure assessments.effect biomarkers capture early biological damage through hematological indices and molecular alterations, while susceptibility biomarkers, such as cytochrome P450 2e1, glutathione S-transferase mu 1 and dna repair gene polymorphisms, identify genetically vulnerable populations.additionally, emerging non-invasive tools, particularly exhaled breath metabolomics, show promise in correlating specific metabolites with hematopoietic function.By integrating mechanistic insights into multi-organ toxicity with advanced multi-omics profiling, the present review highlights a critical paradigm shift from reactive traditional monitoring to artificial intelligence-driven, multibiomarker integration frameworks.ultimately, it provides a forward-looking roadmap for individualized risk stratification and precision occupational health surveillance in the low-dose exposure era.Contents 1. introduction 2. occupational hazards and systemic toxicity of benzene 3. Biomarkers of benzene 4. integration of biomarkers into precision occupational health surveillance 5. conclusion and future perspectives",
+      "doi": "10.3892/mmr.2026.14028",
+      "authors": [
+        "Yuanshe Huang",
+        "奚振军",
+        "Jingxin Mao",
+        "Xiaobing Li"
+      ],
+      "year": 2026,
+      "journal": "Molecular Medicine Reports",
+      "openalex_id": "W7213920059",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213920059",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Benzene is a toxic aromatic hydrocarbon widely used in industrial production, posing a notable occupational health threat.classified as a Group 1 carcinogen, chronic benzene exposure primarily targets the hematopoietic system, causing leukopenia, thrombocytopenia, aplastic anemia and acute myeloid leukemia.Furthermore,…",
+      "added": false
+    },
+    {
+      "title": "Effects of agroforestry practices on insect abundance, richness, and diversity, in transformed ecosystems of the semi-arid area, Dodoma, Tanzania",
+      "abstract": "This study investigated surface-active insect abundance, diversity, and community composition to evaluate the conservation potential of agroforestry in transformed semi-arid ecosystems. Insects were sampled using pitfall traps across four land-use types: afforested sites, agroforestry plots, shrubland, and bushland. A total of 2,889 insects representing 53 species from 14 orders were collected. Afforested habitats supported the highest insect abundance (30%, n=863), while shrubland exhibited the greatest species richness (36 species) and diversity (Shannon = 1.86; Simpson = 0.75). Agroforestry ranked second in abundance (28%, n=810) but had the lowest diversity and richness, with high species dominance driven by Pachycondyla tarsata . Bushland showed relatively low abundance but moderate diversity and evenness. Community composition analyses revealed a clear visual separation, but statistically insignificant differences in insect assemblages across habitats (NMDS stress = 0.068, F = 0.96, p = 0.546). By contrast, PERMDISP detected highly significant differences in dispersion (p < 0.001), demonstrating that within-habitat variability rather than habitat type per se was the primary driver of community structure. Regression models confirmed that afforested habitats significantly influenced higher insect abundance and diversity, whereas other habitats showed no meaningful differences. The findings suggest that agroforestry enhances insect abundance but supports fewer species and lower diversity than shrubland and afforested habitats. Conservation strategies in semi-arid landscapes should therefore emphasize maintaining habitat heterogeneity and structural complexity to stabilize insect communities and sustain ecosystem services.",
+      "doi": "10.3389/fcosc.2026.1918561",
+      "authors": [
+        "James Michael Machallo",
+        "Kelvin Ngongolo",
+        "Naza E. Mmbaga"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Conservation Science",
+      "openalex_id": "W7214071617",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214071617",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "This study investigated surface-active insect abundance, diversity, and community composition to evaluate the conservation potential of agroforestry in transformed semi-arid ecosystems. Insects were sampled using pitfall traps across four land-use types: afforested sites, agroforestry plots, shrubland, and bushland.",
+      "added": false
+    },
+    {
+      "title": "Exploring Homophily: How it Influences the Clustering and Segregation of Organizational Communities in Emergency Collaborative Networks",
+      "abstract": "Abstract While previous studies have primarily examined how homophily shapes dyadic collaboration in emergency response, its influence on macronetwork structures remains underexplored. Drawing on organizational homophily theory, this study investigates the emergency collaborative network (ECN) formed during the “7.20” extreme rainstorm event in Zhengzhou City. By employing exponential random graph models, community detection, and bias-corrected bootstrap analysis, we examine how attribute, location, and institutional homophily shape organizational clustering and network segregation within China’s centralized and hierarchical emergency management system. The findings reveal that (1) the ECN comprises 22 tightly connected organizational communities; (2) all three forms of homophily significantly promote interorganizational collaboration; and (3) institutional homophily exerts the strongest effect, with affiliation homophily reinforcing clustering and jurisdiction level homophily intensifying segregation. These results highlight the structural variations in homophily effects under institutional constraints and offer a refined lens for studying ECNs. This study suggests enhancing network resilience by leveraging affiliation cohesion and establishing flattened, cross-level collaboration mechanisms.",
+      "doi": "10.1007/s13753-026-00769-z",
+      "authors": [
+        "Huiyi Xie",
+        "Shiming Zheng",
+        "Alex Jingwei He",
+        "Jialiang Xu"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Science",
+      "openalex_id": "W7213904002",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213904002",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract While previous studies have primarily examined how homophily shapes dyadic collaboration in emergency response, its influence on macronetwork structures remains underexplored.",
+      "added": false
+    },
+    {
+      "title": "Spatio-temporal analysis of Land Use and Land Cover (LULC) change using high resolution satellite data: A case study of Nagaon, Assam",
+      "abstract": "Geographic information systems (GIS) coupled with satellite remote sensing (RS) have had a significant impact on the assessment and mapping of land surface dynamics, specifically the analysis of land-use land-cover (LULC) change. This study uses high-resolution multispectral LISS-IV (Linear Imaging Self-Scanning Sensor-IV) imagery with a 5.8-meter resolution to evaluate LULC trends in the Nagaon district of Assam between 2015 and 2024. Land use classes in a variety of categories, including vegetation, water bodies, agricultural land, built-up areas, scrubland, sandbars, tea plantations, and trees outside forests (TOF), were identified applying the maximum likelihood classification algorithm. Overall, The accuracy was 85.7% in 2015 and 90.3% in 2024, with respective Kappa Coefficients of 0.836 and 0.889, respectively. The results showed that between 2015 and 2024, the areas of tea plantations, natural vegetation, scrubland, and agricultural land fell by 0.26%, 6.14%, 0.26%, and 9.83%, respectively. Conversely, the waterbody, sandbar, built-up, and TOF have all increased by 0.29%, 0.91%, 0.82%, and 14.46%, respectively. This noticeable shift from conventional agricultural and natural vegetation landscapes toward tree-based systems and urban expansion on the study area, emphasize on matters concerning climate stress, declining soil fertility, economic benefits, policy support, and the need for resilient livelihoods.",
+      "doi": "10.31018/jans.v18i3.7774",
+      "authors": [
+        "J. C. Das",
+        "Prodyut Bhattacharya"
+      ],
+      "year": 2026,
+      "journal": "Journal of Applied and Natural Science",
+      "openalex_id": "W7213942371",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213942371",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Geographic information systems (GIS) coupled with satellite remote sensing (RS) have had a significant impact on the assessment and mapping of land surface dynamics, specifically the analysis of land-use land-cover (LULC) change.",
+      "added": false
+    },
+    {
+      "title": "Climate Change Commitment: As Agency Theory Pertains to Engaging Supply Chains in Science‐Based Targets",
+      "abstract": "ABSTRACT We explore how corporates working towards valid Science‐based Targets engage with their suppliers to collect Scope 3 emissions data. This is important to enable such corporates to reduce greenhouse gas emissions and achieve net‐zero by 2050. Utilising agency theory, we analyse 1402 responses from the 2021 CDP climate change survey. Our findings show that corporates most commonly adopt strategies that increase information symmetry, such as screening and monitoring, as these directly address adverse selection and moral hazard. Incentive alignment and collaborative engagement require greater resources and commitment and are used less often. Overall, this study enhances understanding of principal‐agent dynamics in sustainable supply chains and extends agency theory in this context by emphasising information symmetry and goal alignment to reduce environmental harm.",
+      "doi": "10.1111/acfi.70291",
+      "authors": [
+        "Hang Pham",
+        "Binh Bui",
+        "Carolyn Cordery"
+      ],
+      "year": 2026,
+      "journal": "Accounting and Finance",
+      "openalex_id": "W7214065299",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214065299",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT We explore how corporates working towards valid Science‐based Targets engage with their suppliers to collect Scope 3 emissions data. This is important to enable such corporates to reduce greenhouse gas emissions and achieve net‐zero by 2050.",
+      "added": false
+    },
+    {
+      "title": "Probabilistic Characterisation of Service Lifetime of Ageing Infrastructures",
+      "abstract": "Abstract Ageing infrastructures are increasingly exposed to deterioration mechanisms related to time, environmental conditions, and increasing operational demands. Ensuring their safety and serviceability therefore requires continuous monitoring and reliable methods to assess their structural condition over time. In this context, several research chairs have recently been established in France and particularly in Grenoble. A common feature is the development of probabilistic approaches for the characterisation of infrastructure lifetime, and enhancing their resilience. This contribution aims to provide insight into multidisciplinary approaches leading to t h e so-called “fragility curves”. These curves, used and developed particularly in earthquake engineering, are being extended to various applications such as road infrastructures, steel structures or reinforced concrete structures, particularly under fatigue. This work is preliminary to the next ESReDA seminar where these chairs will be invited to present their contributions in greater detail.",
+      "doi": "10.2478/lpts-2026-0035",
+      "authors": [
+        "J. Baroth",
+        "L. Zemite",
+        "R. Djakons"
+      ],
+      "year": 2026,
+      "journal": "Latvian Journal of Physics and Technical Sciences",
+      "openalex_id": "W7213868070",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213868070",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract Ageing infrastructures are increasingly exposed to deterioration mechanisms related to time, environmental conditions, and increasing operational demands. Ensuring their safety and serviceability therefore requires continuous monitoring and reliable methods to assess their structural condition over time.",
+      "added": false
+    }
+  ]
+}
