@@ -1,0 +1,528 @@
+{
+  "date": "2026-09-26",
+  "statistics": {
+    "fetched": 139,
+    "duplicates_removed": 117,
+    "evaluated": 22,
+    "added": 5,
+    "ignored": 17,
+    "average_score": 2.09
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Institutionalizing Preparedness: From Federal Civil Defense in the United States to Local Emergency Management in California (1800–1980s)",
+      "abstract": "Abstract This article examines the institutionalization of emergency preparedness in the United States, situating the Californian experience, particularly in Los Angeles, within this broader transformation from a fragmented federal concern into a decentralized form of governance. Although scholarship has addressed specific risk domains and institutional mechanisms, few studies have explored how civilian roles in preparedness were historically constructed. This research addresses that gap by analyzing how Cold War civil defense mandates were reinterpreted through civic, professional, and institutional networks in California. Adopting a sociohistorical approach, it draws on archival records, media discourse, institutional documents, and US legal sources. Findings reveal that the figure of the “prepared civilian” emerged through contingent adaptations rather than top-down design and that preparedness circulated unevenly across governance levels. The study contributes to public policy history by reframing emergency preparedness as a historically contingent mechanism of power, shaping institutional knowledge and practice within evolving emergency management systems.",
+      "doi": "10.1017/s0898030626100633",
+      "authors": [
+        "Piero Tellerías Melgarejo"
+      ],
+      "year": 2026,
+      "journal": "Journal of Policy History",
+      "openalex_id": "W7214168643",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214168643",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 81%: matched 3/7 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Abstract This article examines the institutionalization of emergency preparedness in the United States, situating the Californian experience, particularly in Los Angeles, within this broader transformation from a fragmented federal concern into a decentralized form of governance.",
+      "added": true
+    },
+    {
+      "title": "The nuclear-climate nexus for net-zero pathways: Opportunities, challenges, and policy directions: A review",
+      "abstract": "Rapid decarbonization is now a central sustainability challenge because electricity demand is rising while climate risks are increasingly affecting energy infrastructure. Although solar, wind, storage, efficiency and electrification remain essential for net-zero pathways, many power systems also require firm low-carbon resources, resilient infrastructure and governance arrangements that can sustain reliable energy services under extreme weather, geopolitical disruption and growing industrial demand. This review therefore develops the Nuclear-Climate Nexus as a system-level framework for evaluating nuclear energy not simply as a low-operational-emission technology, but as a conditional contributor to climate mitigation, adaptation, energy security and sustainable development. The review shows that nuclear energy can support net-zero pathways through lifetime extension of safe existing reactors, selective new construction, firm low-carbon electricity, nuclear-renewable integration, industrial heat, reactor hydrogen, desalination, district heating and high-reliability electricity. However, its climate value depends on life-cycle emissions, fossil-fuel displacement, deployment time, cost, financing, licensing, fuel availability, supply-chain maturity, waste governance, safeguards, public legitimacy and climate-resilient siting. To address the need for validation beyond conceptual framing, this review also tests the framework against country-level and regional evidence from the United States, Korea, Canada/Ontario, the European Union and China. Existing reactors may provide near-term mitigation where premature closure would increase fossil generation, whereas new large reactors, small modular reactors and advanced reactors require case-specific evidence before being counted as climate-relevant options. The Nuclear-Climate Nexus is therefore proposed as a technology-neutral decision framework for identifying when nuclear energy complements renewables, storage, efficiency, electrification, demand-side measures and carbon management, and when alternative low-carbon options may be faster, cheaper and/or lower risk.",
+      "doi": "10.1016/j.nxsust.2026.100498",
+      "authors": [
+        "Mayeen Uddin Khandaker"
+      ],
+      "year": 2026,
+      "journal": "Next Sustainability",
+      "openalex_id": "W7214015050",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214015050",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 54%: matched 4/7 key interest terms (united states, large, united, states)",
+      "tags": [
+        "United States",
+        "Large",
+        "United",
+        "States"
+      ],
+      "summary": "Rapid decarbonization is now a central sustainability challenge because electricity demand is rising while climate risks are increasingly affecting energy infrastructure.",
+      "added": true
+    },
+    {
+      "title": "Non optimal temperatures and chronic cardiovascular diseases",
+      "abstract": "Abstract Extreme temperatures are emerging as major climate-sensitive drivers of chronic cardiovascular disease (CVD). Global warming has increased the frequency, duration, and intensity of heatwaves, while substantial cold-related risk persists, particularly in poorly insulated and socioeconomically vulnerable settings. Together, non-optimal temperatures account for millions of deaths annually, with a large and growing share attributable to CVD. In this narrative review, we synthesize epidemiological, mechanistic, and systems-level evidence linking heat and cold exposure to chronic cardiovascular outcomes, with a focus on ischemic heart disease, stroke, heart failure, and arrhythmias. We first outline key temperature metrics, shifting climate patterns, and challenges in exposure assessment, including the roles of humidity, diurnal variability, and indoor versus outdoor environments. We then summarize the epidemiology of temperature, CVD associations across diverse regions, highlighting U- and J-shaped exposure-response curves and disproportionate impacts in low- and middle-income countries, older adults, and socioeconomically disadvantaged communities. Mechanistic sections examine how heat and cold drive autonomic imbalance, endothelial dysfunction, oxidative stress, inflammation, haemoconcentration, changes in coagulation, renal injury, and myocardial oxygen supply–demand mismatch. We further discuss modifying effects of air pollution, wildfires, dust storms, and medication use, including clinically relevant drug-heat interactions in patients with chronic CVD. Finally, we review heat-health and cold-health action plans, health-system resilience frameworks, and emerging research gaps spanning exposure science, mechanistic studies, vulnerable populations, and policy evaluation. Recognising non-optimal temperature exposure as a modifiable environmental risk factor for chronic CVD is essential. Integrating climate-informed prevention, clinical care, and adaptation strategies offers substantial and timely opportunities to reduce cardiovascular burden in a warming and increasingly unstable climate. Graphical Abstract Graphical abstract illustrating how non-optimal temperatures, including heatwaves, cold spells, temperature variability, and humidity, contribute to chronic cardiovascular disease through vulnerable populations, interacting environmental exposures, and biological mechanisms such as autonomic dysfunction, endothelial dysfunction, oxidative stress, inflammation, thrombosis, renal stress, and circadian disruption. The figure also highlights key chronic cardiovascular outcomes and potential mitigation/adaptation strategies to reduce health risks. Note : This graphical abstract was generated with the assistance of ChatGPT.",
+      "doi": "10.1007/s00281-026-01085-w",
+      "authors": [
+        "Thomas Münzel",
+        "Marin Kuntić",
+        "Jos Lelieveld",
+        "Michael R. Molitor",
+        "Omar Hahad",
+        "Paul Stamm",
+        "Andreas Daiber",
+        "Alexandra Schneider"
+      ],
+      "year": 2026,
+      "journal": "Seminars in Immunopathology",
+      "openalex_id": "W7214166749",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214166749",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 45%: matched 3/7 key interest terms (drivers, wildfires, large)",
+      "tags": [
+        "Drivers",
+        "Wildfires",
+        "Large"
+      ],
+      "summary": "Abstract Extreme temperatures are emerging as major climate-sensitive drivers of chronic cardiovascular disease (CVD). Global warming has increased the frequency, duration, and intensity of heatwaves, while substantial cold-related risk persists, particularly in poorly insulated and socioeconomically vulnerable setting…",
+      "added": true
+    },
+    {
+      "title": "Impact of Transported Wildfire Emissions on Urban PM 2.5 and O 3 in Queensland, Australia",
+      "abstract": "Abstract Wildfires degrade urban air quality by transporting fine particulate matter () and ozone () precursors. Such impacts are seldom quantified in the Southern Hemisphere. This study quantified contributions of wildfire emissions to ambient and ( and ) across 22 urban monitoring sites in Queensland, Australia, in 2008–2023, using a counterfactual machine learning model. Wildfire‐impacted hours during fire‐active seasons (July–December) were approximately three times more frequent in 2018–2023 than 2008–2017. During wildfire‐impacted periods of the fire‐active seasons, the relative enhancement of and due to wildfire emissions reached 160.5% and 33.2% at maximum, respectively. The was controlled by the wildfire intensities and their atmospheric transport time. ‐ ratio was used to indicate the interaction between wildfire emissions and local emissions. Daytime increased monotonically with higher ‐ ratios, indicating a stronger influence of wildfire emissions.",
+      "doi": "10.1029/2026gl124015",
+      "authors": [
+        "Yang Xiao",
+        "S. Han",
+        "H. Zhang",
+        "H. Morton",
+        "Puneet Chandra Verma",
+        "Zoran Ristovski",
+        "Zijun Li",
+        "Boguang Wang"
+      ],
+      "year": 2026,
+      "journal": "Geophysical Research Letters",
+      "openalex_id": "W7214190129",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214190129",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 43%: matched 2/7 key interest terms (wildfire, wildfires)",
+      "tags": [
+        "Wildfire",
+        "Wildfires"
+      ],
+      "summary": "Abstract Wildfires degrade urban air quality by transporting fine particulate matter () and ozone () precursors. Such impacts are seldom quantified in the Southern Hemisphere.",
+      "added": true
+    },
+    {
+      "title": "CAL FIRE and Intersectional Inequality: Gender, LGBTQIA2S+ and the Governance of Incarcerated Labor",
+      "abstract": "This article examines California’s CAL FIRE conservation camps as a contemporary system of coerced labor enabled by the 13th Amendment’s punishment clause. While the state publicly frames incarcerated firefighting as voluntary rehabilitation, document analysis reveals that participation is structured through coercive conditions, disciplinary threats, and economic incentives that mirror historical systems of racialized forced labor such as Black Codes and convict leasing. Drawing on state documents, CDCR policies, CAL FIRE training materials, legislative hearings, audits, and media reports, this study demonstrates how gender and sexuality shape access to labor assignments within the camps. Women and LGBTQIA2S+ incarcerated people are systematically excluded from masculinized, higher‑status firefighting roles that offer greater pay and double sentence‑reduction credits, and are instead funneled into feminized, low‑wage, surveillance‑heavy work. Using frameworks from racial capitalism, feminist criminology, queer criminology, gendered organizations theory, and intersectionality, the analysis shows how CAL FIRE reproduces patriarchal and heteronormative labor hierarchies inside a carceral setting. Findings reveal that the state’s economic dependence on incarcerated firefighters—saving an estimated $100 million annually—reinforces a labor regime in which coercion, discipline, and inequality are embedded in institutional design. This article argues that CAL FIRE conservation camps represent a modern iteration of coerced labor that extends the historical lineage of racialized and gendered exploitation in the post‑Emancipation United States, and highlights the need to confront the constitutional and economic structures that sustain this system.",
+      "doi": "10.14293/pr2199.004527.v1",
+      "authors": [
+        "Thomas Anthony Pacheco"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214191960",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214191960",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 40%: matched 3/7 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "This article examines California’s CAL FIRE conservation camps as a contemporary system of coerced labor enabled by the 13th Amendment’s punishment clause. While the state publicly frames incarcerated firefighting as voluntary rehabilitation, document analysis reveals that participation is structured through coercive c…",
+      "added": true
+    },
+    {
+      "title": "Fired up for work: Examining the relationship between environmentally-vulnerable work and population health outcomes in the context of wildfire smoke exposures",
+      "abstract": "Abstract Despite significant attention towards spatial health disparities and the mechanisms underlying them, less is known about how wildfire smoke may be associated with these disparities and how it may interact with other place-based characteristics, such as occupational compositions. Counties with higher rates of precarious and outdoor jobs may be uniquely vulnerable to wildfire smoke. In this study, we investigate the association between wildfire smoke exposure, the level of employment in environmentally-vulnerable jobs, and cause-specific mortality by combining multiple sources of publicly available demographic, environmental, and contextual data. We find high shares of employment and moderate levels of wildfire smoke to be associated with increased rates of chronic respiratory disease related mortality. However, contrary to our hypothesis, we do not find the effects of wildfire smoke exposure to be higher in counties with larger shares of environmentally-vulnerable jobs.",
+      "doi": "10.1007/s11111-026-00539-5",
+      "authors": [
+        "Grace Venechuk",
+        "Sara Ronnkvist"
+      ],
+      "year": 2026,
+      "journal": "Population and Environment",
+      "openalex_id": "W7213978701",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213978701",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 1/7 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Despite significant attention towards spatial health disparities and the mechanisms underlying them, less is known about how wildfire smoke may be associated with these disparities and how it may interact with other place-based characteristics, such as occupational compositions.",
+      "added": false
+    },
+    {
+      "title": "Greenhouse gas and economic assessments of biochar-based composite panels from forest residues",
+      "abstract": "Among other threats to forests across the western U.S., large-scale outbreaks of mountain pine beetle have generated extensive volumes of low-value forest residues that increase wildfire risk while remaining underutilized as a carbon resource. Converting these residues into high-value biochar products offers a pathway for carbon stabilization and value creation, yet most existing markets for biochar remain relatively low value. This study represents the first system-level assessment of biochar-based composite panels that jointly evaluates life-cycle greenhouse gas (GHG) emissions and techno-economic performance for biochar-based panel products at industrial scale. The modeled system integrates distributed biochar production using portable pyrolysis units with centralized panel manufacturing that uses kraft lignin as a renewable binder. In addition to a base-case (BC) configuration representing conventional biochar-lignin composite panel production, five alternative scenarios are modeled in which panels undergo secondary pyrolysis treatments at different temperatures and processing conditions associated with potential adsorption, structural, or fire-resistant applications. Cradle-to-gate GHG emissions range from 311 to 565 kg CO 2 -eq/m 3 . In addition, an illustrative 100-year carbon retention scenario based on assumed long-term biochar stability results in net GHG balances ranging from −343 to −750 kg CO 2 -eq/m 3 . Minimum selling price values range from 548 to 1101 US$/m 3 depending on panel type and processing conditions. The BC panel configuration falls toward the higher end of conventional particleboard and MDF price benchmarks, while the estimated MSPs of pyrolyzed panel configurations fall within or below the price ranges of selected benchmark materials used in water remediation and fire-resistant composite applications. These comparisons provide market-price context for the modeled MSPs but do not establish functional equivalence or commercial competitiveness, which require experimental validation.",
+      "doi": "10.1016/j.jclepro.2026.149483",
+      "authors": [
+        "Horacio A. Aguirre‐Villegas",
+        "Richard D. Bergman",
+        "Qiangu Yan",
+        "Cai Zhiyong",
+        "Prakash Nepal",
+        "Troy Michael Runge"
+      ],
+      "year": 2026,
+      "journal": "Journal of Cleaner Production",
+      "openalex_id": "W7214055104",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214055104",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 2/7 key interest terms (wildfire, large)",
+      "tags": [
+        "Wildfire",
+        "Large"
+      ],
+      "summary": "Among other threats to forests across the western U.S., large-scale outbreaks of mountain pine beetle have generated extensive volumes of low-value forest residues that increase wildfire risk while remaining underutilized as a carbon resource.",
+      "added": false
+    },
+    {
+      "title": "Beneath the Surface: How the Declining Health of a Keystone Shrub Species Impacts Soil Carbon in a Temperate Mountain Ecosystem",
+      "abstract": "Abstract Mountain pine ( Pinus mugo Turra) is a key high-elevation species in the European Alps. It primarily establishes on exposed, erosion-prone sites and supports large soil organic carbon (SOC) stocks by sequestering carbon, stabilising soils, and preventing erosion. These functions are increasingly threatened as global change-related pressures like invasive pathogens impact mountain pine health. We investigated how declining mountain pine health affects SOC in Berchtesgaden National Park (BGNP), Germany. We studied two alternative vegetation states as potential outcomes of mountain pine decline, conifer-dominated forest and sparsely vegetated unstocked areas, and compared them to healthy and ailing mountain pine stands. We found that a transition from mountain pine to forest would have little effect on SOC ( p = 0.055). However, a trajectory to unstocked areas (with no woody plants establishing after mountain pine die-off) could result in 47.3% lower SOC compared to healthy mountain pine ( p < 0.001). To better understand the temporal development and landscape-scale consequences of such a potential loss of woody vegetation on areas currently stocked by mountain pine, we combined field data with carbon cycle simulations. Simulations showed that short-term SOC gains during mountain pine die-off shifted to long-term losses persisting over decades. A trajectory to unstocked areas on sites currently occupied by mountain pine could result in a loss of 28.3 kilotons of SOC for BGNP, whereof nearly 90% are in sensitive high elevation areas. We demonstrate that the global change-induced loss of a single keystone species could have long-lasting consequences on ecosystem functioning.",
+      "doi": "10.1007/s10021-026-01104-9",
+      "authors": [
+        "Barbara Mateos Perez Bianco de Araújo",
+        "Michael Maroschek",
+        "Werner Rammer",
+        "Christina Dollinger",
+        "Rupert Seidl"
+      ],
+      "year": 2026,
+      "journal": "Ecosystems",
+      "openalex_id": "W7214013606",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214013606",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 26%: matched 2/7 key interest terms (large, states)",
+      "tags": [
+        "Large",
+        "States"
+      ],
+      "summary": "Abstract Mountain pine ( Pinus mugo Turra) is a key high-elevation species in the European Alps. It primarily establishes on exposed, erosion-prone sites and supports large soil organic carbon (SOC) stocks by sequestering carbon, stabilising soils, and preventing erosion.",
+      "added": false
+    },
+    {
+      "title": "Tree traits drive phylogenetic and functional responses of soil fungal communities in Mediterranean forests subjected to recurrent fires",
+      "abstract": "Abstract Wildfires are a natural disturbance in Mediterranean ecosystems, where plant species have usually developed fire-adaptive traits. In these fire-dependent ecosystems, fire-resistant fungal communities might co-evolve with fire-adapted plant communities, and long-term ecosystem stability may be a matter, not only of plants but also of associated soil fungi, particularly mycorrhizal species. In this study, we investigated the soil fungal phylogenetic diversity and structure (ITS1-MiSeq, Net Relatedness, and phylogenetic structure indices) and functioning (soil enzymatic activities) in Mediterranean Pinus halepensis Mill. forests from two zones with contrasting fire regimes. We further aimed to differentiate the effects of tree genotypes (single nucleotide polymorphism assay for Pinus spp. fire-adaptive candidate genes) and phenotypes from those of environmental factors such as climate and soil conditions on fungal phylogenetic assembly and community. Under high fire recurrence regime, the phylogenetic diversity of soil fungal communities decreased. Their phylogenetic structure also changed with fire regime, and pointed to a clustered community within the Basidiomycota clade. Fungal phylogenetic indices and higher abundances of ectomycorrhizal fungi under high fire recurrence were significantly related to higher activities of soil enzymes involved in nitrogen and phosphorus mobilization. The phylogenetic diversity and structure of soil fungal communities was primarily regulated by the phenotype of trees, and to a lesser extent by their genotype, while neither local climatic and soil conditions appeared to play a role. Our results suggest that long-term fire-induced changes in plant community occur with changes in phylogenetic and compositional shifts in soil fungal community with potential consequences for nutrient cycling. We propose that the adaptation of P. halepensis to recurrent fires may partly depend on the association with soil symbiotic fungi.",
+      "doi": "10.1186/s42408-026-00577-2",
+      "authors": [
+        "Leticia Pérez‐Izquierdo",
+        "M. Zabal-Aguirre",
+        "S. C. González-Martínez",
+        "M. Buée",
+        "M. Verdú",
+        "A. Rincón"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7213981531",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213981531",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/7 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Abstract Wildfires are a natural disturbance in Mediterranean ecosystems, where plant species have usually developed fire-adaptive traits. In these fire-dependent ecosystems, fire-resistant fungal communities might co-evolve with fire-adapted plant communities, and long-term ecosystem stability may be a matter, not onl…",
+      "added": false
+    },
+    {
+      "title": "COP30: climate action in an era of global uncertainty",
+      "abstract": "Abstract As the world goes through a period of growing geopolitical uncertainty and accelerating climate change, the Conference of Parties (COP) provides an important platform for nations to come together and strengthen global climate governance. At the recently held COP30, three major outcomes emerged: the launch of Tropical Forest Forever Facility (TFFF) to finance tropical forest conservation, adoption of Belém Adaptation Indicators under the Global Goal on Adaptation, and the Belém Action Mechanism (BAM) as the first United Nations Framework Convention on Climate Change (UNFCCC) framework to embed just transition within climate policy. This paper examines the scientific and socio-economic basis of each initiative and discusses their strengths and limitations. The TFFF represents an ambitious financing mechanism to incentivise tropical forest conservation, including a landmark decision to allocate a fraction of funds to indigenous communities, however concerns remain regarding long-term funding stability, governance, and Indigenous participation. The adoption of the Belém Adaptation Indicators marked an important step towards monitoring and reporting adaptation, but concerns remain regarding the gap in adaptation finance for developing nations. Similarly, while the BAM integrates labour rights and equity into climate policy, its lack of binding commitments and dedicated funding limits its effectiveness. Overall, COP30 achieved some progress towards advancing forest conservation, adaptation, and climate justice. However, future COPs would require greater political ambition, international cooperation, and more decisive action to secure a sustainable and equitable future for all.",
+      "doi": "10.1007/s42398-026-00476-x",
+      "authors": [
+        "Pranay Arora"
+      ],
+      "year": 2026,
+      "journal": "Environmental Sustainability",
+      "openalex_id": "W7214224797",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214224797",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/7 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "Abstract As the world goes through a period of growing geopolitical uncertainty and accelerating climate change, the Conference of Parties (COP) provides an important platform for nations to come together and strengthen global climate governance.",
+      "added": false
+    },
+    {
+      "title": "Land use sequestration potential and uncertainties in India’s net-zero pathway",
+      "abstract": "Land use can contribute substantially to climate change mitigation through carbon storage in vegetation and soils. We assess how India’s long-term land-use carbon sequestration may vary under different policy pathways and biophysical uncertainties by integrating economic dynamics with soil and vegetation carbon responses across major land-use classes. Here we show that scientific and policy uncertainties strongly influence India’s projected land-use sequestration. Across the full uncertainty range, forests and tree cover could sequester an additional 8.8-31.8 gigatonnes of carbon dioxide equivalent between 2015 and 2070, depending on soil carbon accumulation rates and densities, the timing of achieving the 33% forest and tree cover target (2050 or 2070), and the extent of agroforestry adoption. Annual sequestration across forests, tree cover, croplands, grasslands, shrublands, and fallow lands is projected to range from 68 to 719 million tonnes of carbon dioxide equivalent in 2070. We also find that India is on track to meet its 2030 climate commitment. Land use in India could remove 68–719 million tonnes of carbon dioxide annually by 2070, with forests and tree cover sequestering 8.8–12.4 gigatonnes of carbon dioxide equivalent during 2015–2070, according to an integrated economic, soil and vegetation carbon assessment.",
+      "doi": "10.1038/s43247-026-04035-4",
+      "authors": [
+        "Joy Rajbanshi",
+        "Vaibhav Chaturvedi",
+        "Rajiv Kumar Chaturvedi",
+        "Swati Sharma",
+        "Raman Sukumar"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7201961993",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7201961993",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Land use can contribute substantially to climate change mitigation through carbon storage in vegetation and soils. We assess how India’s long-term land-use carbon sequestration may vary under different policy pathways and biophysical uncertainties by integrating economic dynamics with soil and vegetation carbon respons…",
+      "added": false
+    },
+    {
+      "title": "Evaluation of CMIP6 model performance against GHCND station observations across Asian cities",
+      "abstract": "Models from the Coupled Model Intercomparison Project (CMIP) are commonly used to infer future atmospheric temperatures across the world, including in Asia. This region is warming at an alarming rate, and home to some of the world's most populated countries and many of its most populated, fastest-growing and most heat-vulnerable cities. CMIP models are not always checked against local city-scale conditions without correction or downscaling applied beforehand. Being almost ten years after CMIP phase 6 was released, there is an opportunity to assess the accuracy of CMIP6 data with ground observations. Here we compare 2-metre air temperatures from 11 high-resolution CMIP6 models using a Shared Socioeconomic Pathway (SSP) for scenario 5-8.5 against GHCND station observations and ERA5 reanalysis for 411 Asian cities over the period 2015 to 2024. Neither bias correction nor downscaling was applied. ERA5 agreed closely with station observations (r = 0.91, RMSE = 2.2 °C), and all CMIP6 variants correlated significantly with observations but performed noticeably worse than reanalysis data (r = 0.78–0.81, RMSE = 4.17–5.35 °C, mean bias −1.26 to +3.28 °C). HadGEM3-GC31-HH performed best most often, and CNRM-CM6-1-HR performed worst. Biases were systematic rather than seasonal, with ten of the eleven variants being warm-biased in every season, and only CMCC-CM2-VHR4 being consistently cold. Performance depended strongly on geography, with latitude being the dominant predictor (r = 0.84). Agreement was strongest in arid, cold and temperate climates (r ≈ 0.88–0.91) and weakest in tropical rainforest (r = 0.23) and monsoon (r = 0.49) climates. By region, Southeast Asian cities had the weakest agreement (mean r = 0.43) and East Asian cities the strongest (r = 0.89). The models were least reliable in tropical Southeast Asia, where heat-related mortality and urban growth are highest. Improving tropical convection and urban representation in models, and expanding observation networks, should be priorities for future model development.",
+      "doi": "10.31223/x5jj7j",
+      "authors": [
+        "Benjamin Goodsell"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214158118",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214158118",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Models from the Coupled Model Intercomparison Project (CMIP) are commonly used to infer future atmospheric temperatures across the world, including in Asia. This region is warming at an alarming rate, and home to some of the world's most populated countries and many of its most populated, fastest-growing and most heat-…",
+      "added": false
+    },
+    {
+      "title": "‘None of us are islands’: A thematic analysis of navigating emotional engagement with climate change through social relationships",
+      "abstract": "There are comparatively few studies employing a relational perspective in existing climate change literature. This qualitative study aimed to explore relational experiences of emotional engagement with climate change. The following research questions were explored: how does engaging emotionally with climate change impact on social relationships, and how do social relationships affect the ways in which individuals engage with climate change? Data were collected during the Covid-19 pandemic via 12 remote interviews with adults who felt emotionally affected by the climate crisis. Sociograms were used as an elicitation tool to enhance reflection during the interviews. Data were analysed using reflexive thematic analysis, and four themes were created: (i) sustainable activism: the ‘good enough’ climate activist; (ii) walking the tightrope: interpersonal emotional management; (iii) ‘it’s a relief not having to hide’; and (iv) planting seeds for change through relationships. Participants felt isolated in their emotional engagement with climate change when loved ones struggled to witness their climate-related distress. However, social relationships can help mediate pressure from within activist circles to fulfil an idealised activist identity. Participants also found opportunities for increased depth and authenticity within relationships through engagement with the climate crisis. Through highlighting these relational experiences, the findings are relevant to individuals engaging with the climate crisis and their loved ones, and recommendations are made for counselling psychologists and other psychologists and psychological therapists supporting clients who are emotionally engaged with the climate crisis. These include the importance of offering vital opportunities for attunement with climate-related grief and encouraging ‘good enough’ activism.",
+      "doi": "10.53841/bpscpr.2026.40.2.24",
+      "authors": [
+        "Sara Souissi",
+        "Christine Ramsey-Wade",
+        "Miles Thompson"
+      ],
+      "year": 2026,
+      "journal": "Counselling Psychology Review",
+      "openalex_id": "W7204294921",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7204294921",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "There are comparatively few studies employing a relational perspective in existing climate change literature. This qualitative study aimed to explore relational experiences of emotional engagement with climate change.",
+      "added": false
+    },
+    {
+      "title": "Ways of seeing European law anew: Structures, risk, individuation and resilience",
+      "abstract": "Abstract This article relies on Ben Judah’s This is Europe for a conceptual intervention into how European law is seen, narrated and normatively assessed. It analyses European law as a mode of social risk allocation embedded in the normativity of everyday life through four connected lenses: social structures, risk, individuation and resilience. First, Judah’s testimonies reveal that everyday life in Europe is shaped by social structures that enable or constrain agency, generate vulnerability to injustice and influence how injustice itself is perceived. Second, European law – both through regulation and through its omission – is deeply implicated in these structures. It is a key mode of societal organisation as it allocates social risk across a plurality of actors, institutions and networks. Third, the article argues that, since the late twentieth century, European law has increasingly shifted social risks and responsibility for social inclusion onto individuals, a process I call individuation. Individuation leaves each person alone to navigate social structures while obscuring the responsibility of public and collective institutions for mediating them and their injustices. Fourth, the article proposes a different way of seeing Europe’s law of the everyday : as a framework for resilience , centred on risk allocation. Resilience here does not mean conservation or mere adaptation to injustice without structural change. Instead, it refers to a transformative idea: to reflect on the organisation of society via risk-sharing, with the aim being that social structures interact with law in order to prevent, contain and mitigate injustice and support a more habitable society and planet. On this account, the central question of legal ordering is not whether risk is allocated, but how.",
+      "doi": "10.1017/elo.2026.10099",
+      "authors": [
+        "Marc Steiert"
+      ],
+      "year": 2026,
+      "journal": "European Law Open",
+      "openalex_id": "W7214154924",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214154924",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Abstract This article relies on Ben Judah’s This is Europe for a conceptual intervention into how European law is seen, narrated and normatively assessed. It analyses European law as a mode of social risk allocation embedded in the normativity of everyday life through four connected lenses: social structures, risk, ind…",
+      "added": false
+    },
+    {
+      "title": "Forest landscape restoration and the pursuit of just livelihoods: Reflections from Ghana's modified Taungya system (MTS) restoration approach",
+      "abstract": "Forest Landscape Restoration (FLR) emerged as both an ecological imperative and a development strategy, yet FLR discourses remain largely focused on biophysical metrics, overlooking its socio-economic and cultural impacts. Applying the Sustainable Livelihoods Framework (SLF), this study assesses the livelihood impacts of the Modified Taungya System (MTS) restoration approach on the human, social, natural, physical, and financial capitals across two forest-fringe communities. Using a mixed-methods design, we found that the MTS reconstitutes development conditions, enhancing human, social, natural, physical, and financial capital through training, cohesion, improved forests and technologies, and income gains. Mean household incomes of participating farmers rose by 123% (GHS4,110 to GHS9,147; USD254–587), with female farmers gaining 158% relative to 84% for male farmers, signalling gendered economic transformation. However, long-term sustainability remains fragile, threatened by delayed benefits, insecure land tenure, lack of resources, and erosion of local stewardship. The study argues that FLR approaches should be conceived as a collaborative process, integrating effective benefit sharing, inclusion, culturally grounded governance practices, and Traditional Ecological Knowledge. This research repositions FLR as a link where restoration and livelihood outcomes are reinforcing conditions for development. Theoretically, the study extends the SLF, incorporating gender-disaggregated outcomes alongside the five capitals, offering an application of the framework to community-based forest restoration. Future research should adopt matched comparison-group designs to more rigorously establish the causal contribution of MTS participation to household livelihoods.",
+      "doi": "10.1016/j.forpol.2026.103896",
+      "authors": [
+        "Justice Sebuga Kotani",
+        "Juan Pastor-Ivars",
+        "Michael Osei Asibey",
+        "Yetimoni Kpeebi"
+      ],
+      "year": 2026,
+      "journal": "Forest Policy and Economics",
+      "openalex_id": "W7213944154",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213944154",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Forest Landscape Restoration (FLR) emerged as both an ecological imperative and a development strategy, yet FLR discourses remain largely focused on biophysical metrics, overlooking its socio-economic and cultural impacts.",
+      "added": false
+    },
+    {
+      "title": "The Beaver Futures Framework: Stakeholder value perspectives on future human–beaver coexistence",
+      "abstract": "Human-wildlife coexistence increasingly requires approaches that make diverse value perspectives explicit. We introduce the Beaver Futures Framework (BFF), which integrates intrinsic, instrumental, and relational values, as well as instrumental damages of beavers, to support more inclusive discussions on beaver management in the Netherlands. We applied the BFF in a workshop with beaver professionals to examine how participants valued beavers and how these values related to their self-placement within the framework. The BFF proved effective for systematically exploring and collecting beaver values, stimulating mutual understanding among participants, and revealing both shared and divergent perspectives within the group. These findings demonstrate the framework's potential to support inclusive stakeholder engagement and to map value plurality in ways that inform coexistence strategies. Because of its generic structure, the BFF can be adapted to other species or ecosystems, offering a promising tool for navigating complex human-wildlife interactions in increasingly anthropogenic landscapes.",
+      "doi": "10.1007/s13280-026-02476-x",
+      "authors": [
+        "Britt van Zelst",
+        "Koen Arts",
+        "Inge Dekker",
+        "Dianneke van Wijk",
+        "Wolf M. Mooij",
+        "Sven Teurlincx"
+      ],
+      "year": 2026,
+      "journal": "AMBIO",
+      "openalex_id": "W7213885924",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213885924",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Human-wildlife coexistence increasingly requires approaches that make diverse value perspectives explicit. We introduce the Beaver Futures Framework (BFF), which integrates intrinsic, instrumental, and relational values, as well as instrumental damages of beavers, to support more inclusive discussions on beaver managem…",
+      "added": false
+    },
+    {
+      "title": "Midterm drought forecasting based on dam storage prediction using deep learning algorithms",
+      "abstract": "Abstract Effective drought preparedness depends on sufficient lead time to secure water resources and implement adaptive response strategies. In South Korea, three-month drought forecasts are issued at the beginning of each month under the supervision of the Ministry of the Interior and Safety; however, these forecasts remain insufficient to mitigate the risk of persistent drought conditions. Accordingly, this study aims to improve midterm drought forecasting by extending the prediction horizon to six months and modeling dam storage dynamics using deep learning algorithms, thereby enhancing proactive drought preparedness. To achieve this objective, three training datasets were developed through feature engineering applied to observational hydrological data and then combined with four deep learning architectures (Long Short-Term Memory (LSTM), Bidirectional LSTM (Bi-LSTM), Temporal Convolutional Network (TCN), and Convolutional Neural Network–LSTM (CNN-LSTM)), resulting in 12 predictive models. Among the evaluated models, the configuration combining the TCN architecture with training dataset B exhibited the highest performance, and its hyperparameters were subsequently optimized via a stepwise grid search procedure. Evaluation of the final midterm prediction model with optimized hyperparameters yielded an average Root Mean Squared Error (RMSE) of 35.440 and an average error rate of approximately 6.23% relative to total storage, thereby demonstrating robust quantitative predictive performance. Furthermore, qualitative evaluation indicates that the model effectively reproduces temporal storage variability patterns, including those observed during severe drought conditions.",
+      "doi": "10.1007/s12665-026-13138-2",
+      "authors": [
+        "Hyeong-Yun So",
+        "Hyeon-Cheol Yoon",
+        "Tae-Gyun Kim",
+        "Se-Jeong Lee"
+      ],
+      "year": 2026,
+      "journal": "Environmental Earth Sciences",
+      "openalex_id": "W7213927040",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213927040",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Abstract Effective drought preparedness depends on sufficient lead time to secure water resources and implement adaptive response strategies. In South Korea, three-month drought forecasts are issued at the beginning of each month under the supervision of the Ministry of the Interior and Safety; however, these forecasts…",
+      "added": false
+    },
+    {
+      "title": "Future directions and consumer engagement scenarios for data resilience in e-waste management in Jakarta",
+      "abstract": "This study investigates consumer engagement with electronic waste (e-waste) management in Jakarta, Indonesia, emphasizing the development of future scenarios pertaining to data resilience and responsible device disposal. A choice experiment methodology was employed, and the data were analyzed using Random Parameter Logit (RPL) and Latent Class Models (LCM) to capture the heterogeneity in consumer preferences regarding brand-supported e-waste management services. The findings indicate significant variations in consumer engagement, influenced by socio-economic characteristics and participation in brand-led initiatives for data protection, education, and recycling services. Based on the estimated preferences, three distinct engagement pathways are identified. The basic decoupling scenario illustrates minimal engagement, wherein consumers adhere to fundamental brand guidance for e-waste disposal and data protection but exhibit limited proactive participation. The intermediate engagement scenario denotes a transitional phase in which consumers begin to adopt more sustainable behaviors during the device purchasing process and respond to brand-led educational initiatives and manufacturer-supported data-handling services. Finally, the advanced resilience scenario exemplifies comprehensive engagement, encompassing scheduled e-waste disposal practices, participation in data privacy programs, active involvement in educational initiatives, and full utilization of manufacturer-supported services. Consumers within this scenario demonstrate the most robust commitment to sustainable consumption and responsible e-waste management.",
+      "doi": "10.1016/j.clet.2026.101288",
+      "authors": [
+        "I Wayan Koko Suryawan",
+        "Mega Mutiara Sari",
+        "Ari Rahman",
+        "Sapta Suhardono",
+        "Chun‐Hung Lee"
+      ],
+      "year": 2026,
+      "journal": "Cleaner Engineering and Technology",
+      "openalex_id": "W7214100525",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214100525",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "This study investigates consumer engagement with electronic waste (e-waste) management in Jakarta, Indonesia, emphasizing the development of future scenarios pertaining to data resilience and responsible device disposal.",
+      "added": false
+    },
+    {
+      "title": "Évaluation des effets potentiels du changement climatique sur la composition future des forêts en France",
+      "abstract": "Climate change is already affecting French forests: rising temperatures, altered precipitation, and more frequent extreme events are driving shifts in species distributions, reduced productivity, and increased tree mortality.Anticipating future forest composition requires understanding species' exposure to future climatic conditions, their sensitivity to these conditions, and their capacity to adapt or migrate.Regional contrasts are marked, with stronger warming and drying in northeastern and Mediterranean regions, while parts of western France are comparatively less affected.Observations show high vulnerability of temperate species such as Fagus sylvatica and Picea abies, whereas Mediterranean species (e.g.Pinus pinaster, P. halepensis) appear more resistant at present.Future changes will depend on climate change evolution intensity, site and stand characteristics, species composition, and adaptive capacity.Initially, adaptive management-adjusting stand structure, promoting diversity, and managing density, water, and species selection-can mitigate impacts and buy time.Under higher vulnerability, species replacement may become necessary-ideally by favoring drought-tolerant species already present through natural regeneration, or otherwise through assisted migration using drought-adapted provenances of native species or non-native species with suitable traits.Uncertainties about ecosystem resilience and the effectiveness of management measures underline the need for integrative, site-specific strategies to sustain ecosystem services and effectively guide future forest composition under ongoing climate change.",
+      "doi": "10.5802/crbiol.192-fr",
+      "authors": [
+        "Christian Piédallu"
+      ],
+      "year": 2026,
+      "journal": "Comptes Rendus Biologies",
+      "openalex_id": "W7214155314",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214155314",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Climate change is already affecting French forests: rising temperatures, altered precipitation, and more frequent extreme events are driving shifts in species distributions, reduced productivity, and increased tree mortality.Anticipating future forest composition requires understanding species' exposure to future clima…",
+      "added": false
+    },
+    {
+      "title": "Climate change interventions for racialized communities: A global scoping review of equity‑focused policies and programs",
+      "abstract": "Climate change disproportionately affects racialized communities, yet evidence on interventions designed to address these inequities remains fragmented. This scoping review maps the global landscape of climate-related interventions targeting racialized populations, focusing on intervention types, outcomes, and equity considerations. Following PRISMA-ScR guidelines, we searched ten academic and policy databases for peer-reviewed and grey literature published between 2000 and 2025. Eighty-five studies met the inclusion criteria. Research increased substantially after 2019, although most studies (65%) were conducted in North America, revealing a persistent Global North bias. Interventions primarily focused on community-based adaptation and preparedness and frequently employed participatory approaches. Evaluation efforts were largely descriptive, with limited evidence on long-term health, resilience, or equity outcomes. While equity was commonly acknowledged, interventions rarely addressed structural determinants such as housing insecurity, labour conditions, or exclusionary governance. Future research should expand evidence from the Global South and evaluate interventions that combine community-led action with structural and policy change.",
+      "doi": "10.1016/j.wds.2026.100370",
+      "authors": [
+        "Kolsoum Heidari",
+        "Maame De-Heer",
+        "Andreas Neef",
+        "Ranjan Kumar Datta",
+        "Siu Ming Kwok",
+        "Julie L. Drolet",
+        "Bukola Oladunni Salami"
+      ],
+      "year": 2026,
+      "journal": "World Development Sustainability",
+      "openalex_id": "W7213748795",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213748795",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Climate change disproportionately affects racialized communities, yet evidence on interventions designed to address these inequities remains fragmented. This scoping review maps the global landscape of climate-related interventions targeting racialized populations, focusing on intervention types, outcomes, and equity c…",
+      "added": false
+    },
+    {
+      "title": "Suppression of arsenic trioxide dissolution by antimony substitution",
+      "abstract": "ABSTRACT Roasting arsenopyrite during gold production generates hazardous arsenic trioxide roaster waste (ATRW). At the Giant Mine, Canada, >20,000 tonnes ATRW were aerially dispersed while another 237,000 tonnes are buried. Arsenolite [As 2 O 3 ] largely comprises ATRW, but minor elements may have substantial geochemical influence (e.g. Fe, Sb, Ca). To investigate controls on ATRW dissolution, we performed batch experiments on variable-composition Giant Mine samples. Following two weeks of anoxic reaction (21 and 4 ˚C), As 2 O 3 dissolution (17.9 and 12.3 g L -1 ) only reached 72% and 73% of As 2 O 3 solubility Up to a 27% decrease in dissolution was attributed to increased Sb:As weight ratios. Ionic strength (0.02 M NaCl, 0.20 M NaCl) and starting pH (4, 6, 8) differences resulted in <5% variation in dissolution. X-ray absorption spectroscopy (XAS) identified no substantial As/Sb bonding differences between consistently trivalent pre- and post-dissolution solids. Pair distribution function (PDF) and automated mineralogy results support XAS modelling, indicating an increased abundance of As-Sb bonding compared to initial solids. Therefore, Sb may be predominantly locked in a persistent As 2 O 3 -Sb 2 O 3 solid-solution, where residue may remain stable following management-related dissolution of ATRW. Selective As dissolution increases relative concentrations of residual Au and Sb, and redistribute the risks associated with wastes.",
+      "doi": "10.1016/j.jhazmat.2026.143718",
+      "authors": [
+        "Valerie A. Schoepfer",
+        "Heather Edith Jamieson",
+        "Joyce McBeth",
+        "Ardalan Hayatifar",
+        "Matthew B.J. Lindsay"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hazardous Materials",
+      "openalex_id": "W7214044073",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214044073",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Roasting arsenopyrite during gold production generates hazardous arsenic trioxide roaster waste (ATRW). At the Giant Mine, Canada, >20,000 tonnes ATRW were aerially dispersed while another 237,000 tonnes are buried.",
+      "added": false
+    },
+    {
+      "title": "Surface-cover controls on reference-to-actual evaporation in silty pyroclastic soils of Campania region, Italy: evidence from an 12-year lysimeter experiment",
+      "abstract": "Study region pyroclastic soils investigated in this study are widespread on natural slopes, not only in Italy (particularly in the Campania region), but also in numerous volcanic regions worldwide. Their intrinsic and state-dependent properties make them highly sensitive to soil–atmosphere interactions, which strongly influence both rainfall infiltration and water losses through evaporation. Study focus estimating potential and actual evaporation under different land-cover conditions is essential for several hydrological applications. This study derives empirical functions for the FAO single-crop approach, namely the crop coefficient (k c ) and the water-content reduction function (k r (θ)), for a non-plastic silty volcanic soil. The analysis is based on a 12-year lysimeter experiment performed under three surface conditions: bare soil, grass-covered soil, and bare soil covered by a wooden ember cover (WEC). A procedure based on cumulative evaporation fluxes was adopted to reduce short-term measurement scatter and identify the water-content thresholds separating energy-limited and water-limited regimes. New hydrological insights for the region results highlight substantial differences in potential evaporation among the investigated surface conditions and distinct forms of k r (θ), including a bilinear decay for the WEC associated with its capillary-barrier effect. Vegetation maintains higher evaporative efficiency under dry conditions, whereas the WEC markedly reduces actual evaporation despite its high radiative absorption. The calibrated parameters were used to develop predictive abaci for estimating monthly evaporation from atmospheric variables alone, providing practical tools for hydrological modelling, agricultural applications, and weather-induced landslide hazard assessment.",
+      "doi": "10.1016/j.ejrh.2026.103978",
+      "authors": [
+        "L. Coppola",
+        "A. Reder[27]",
+        "G. Rianna",
+        "A. Tarantino",
+        "L. Pagano"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hydrology Regional Studies",
+      "openalex_id": "W7213382545",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213382545",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Study region pyroclastic soils investigated in this study are widespread on natural slopes, not only in Italy (particularly in the Campania region), but also in numerous volcanic regions worldwide.",
+      "added": false
+    }
+  ]
+}
