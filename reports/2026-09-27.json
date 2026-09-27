@@ -1,0 +1,438 @@
+{
+  "date": "2026-09-27",
+  "statistics": {
+    "fetched": 168,
+    "duplicates_removed": 151,
+    "evaluated": 17,
+    "added": 0,
+    "ignored": 17,
+    "average_score": 1.47
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Evidence Relating Aerosolized Coal Fly Ash and Global Wildfire Increases to Stratospheric Ozone Loss",
+      "abstract": "Nearly four decades of effort have failed to halt the problem of stratospheric ozone depletion, suggesting the possibility that the underlying cause of this depletion was misdiagnosed. Beginning in 2022, we proposed that aerosolized coal fly ash is an ice-nucleating and ozone-reactive particulate and serves as an alternative source and activation platform for chlorine, bromine and iodine. Coal fly ash is known to be able to destroy ozone by various other means. Recently, we showed that elemental analyses of coal fly ash are wholly consistent with arrayed and published stratospheric particle data which we have now extended to include global wildfire data. Global wildfire ash differs from ash produced in the laboratory from burning wood in that wildfire ash incorporates an iron-rich component. We demonstrate that both elemental-composition and water-leach data from coal fly ash and wildfire data-sets are consistent. For nearly 30 years, particulate matter consistent with coal fly ash has been jet-emplaced into the global upper troposphere and lower stratosphere and then settles to ground. In 2018, we explained how aerosolized coal fly ash widely deposited over land “sets the stage” for increasingly even more deadly forest fires. Wildfires are able to remobilize the fly ash particles deposited on trees and the underlying soil and vegetation. The wildfire ash components cool, attract, and adhere to one another from within this common ash-reservoir. Coal fly ash remobilized and incorporated into wildfire smoke can be uplifted into the stratosphere to destroy ozone. We show the striking parallel between the global loss of acreage due to fire and a proxy for jet-emplaced coal fly ash. This fundamentally new understanding of coal fly ash and its recombination into forest fire smoke with both particulate aerosols contributing to ongoing stratospheric ozone depletion is one profound reason that aerosolization of coal fly ash must cease and desist.",
+      "doi": "10.14738/ejas.1405.12251",
+      "authors": [
+        "J. Marvin Herndon",
+        "Mark Whiteside"
+      ],
+      "year": 2026,
+      "journal": "European journal of applied sciences",
+      "openalex_id": "W7214346793",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214346793",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 35%: matched 3/11 key interest terms (wildfires, burning, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Nearly four decades of effort have failed to halt the problem of stratospheric ozone depletion, suggesting the possibility that the underlying cause of this depletion was misdiagnosed.",
+      "added": false
+    },
+    {
+      "title": "CAL FIRE and Intersectional Inequality: Gender, LGBTQIA2S+ and the Governance of Incarcerated Labor",
+      "abstract": "This article examines California’s CAL FIRE conservation camps as a contemporary system of coerced labor enabled by the 13th Amendment’s punishment clause. While the state publicly frames incarcerated firefighting as voluntary rehabilitation, document analysis reveals that participation is structured through coercive conditions, disciplinary threats, and economic incentives that mirror historical systems of racialized forced labor such as Black Codes and convict leasing. Drawing on state documents, CDCR policies, CAL FIRE training materials, legislative hearings, audits, and media reports, this study demonstrates how gender and sexuality shape access to labor assignments within the camps. Women and LGBTQIA2S+ incarcerated people are systematically excluded from masculinized, higher status firefighting roles that offer greater pay and double sentence reduction credits, and are instead funneled into feminized, low wage, surveillance heavy work. Using frameworks from racial capitalism, feminist criminology, queer criminology, gendered organizations theory, and intersectionality, the analysis shows how CAL FIRE reproduces patriarchal and heteronormative labor hierarchies inside a carceral setting. Findings reveal that the state’s economic dependence on incarcerated firefighters—saving an estimated $100 million annually—reinforces a labor regime in which coercion, discipline, and inequality are embedded in institutional design. This article argues that CAL FIRE conservation camps represent a modern iteration of coerced labor that extends the historical lineage of racialized and gendered exploitation in the post Emancipation United States, and highlights the need to confront the constitutional and economic structures that sustain this system.",
+      "doi": "10.33774/coe-2026-5gnp1",
+      "authors": [
+        "Thomas Anthony Pacheco"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214186321",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214186321",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/11 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "This article examines California’s CAL FIRE conservation camps as a contemporary system of coerced labor enabled by the 13th Amendment’s punishment clause. While the state publicly frames incarcerated firefighting as voluntary rehabilitation, document analysis reveals that participation is structured through coercive c…",
+      "added": false
+    },
+    {
+      "title": "Valuing the ecosystem service gap in private forestland management: evidence from Texas and Louisiana",
+      "abstract": "Private forestlands generate substantial ecosystem services that function as positive externalities, often requiring private operations to bear costs. This market failure creates a gap between private incentives and socially optimal forest stewardship, which leads to chronic underinvestment in sustainable forestry management practices. Using the contingent valuation method, we measure the divergence in forest stewardship by evaluating five practices across NIPF operations in Texas and Louisiana. Results show that thinning requires the highest average cost-share at around 53%, while prescribed burning presents the lowest barrier at around 30%. When translated to monetary terms, establishment commands the highest private valuation at around $308 per acre, whereas prescribed burning shows the lowest Implied WTP at around $42 per acre. We find that the willingness to pool management with neighboring operations is associated with lower required cost-share percentages across all practices. Land size is associated with lower required cost-share percentages for establishment, but shows limited evidence of association for the other practices. These findings illuminate the economic mechanisms underlying the market failure in ecosystem service provision and demonstrate how practice-specific incentive design and landscape-scale collaboration can more efficiently align private operation behavior with social objectives for forest-based natural capital stewardship.",
+      "doi": "10.1016/j.ecolecon.2026.109249",
+      "authors": [
+        "Wei Li",
+        "Richard T. Woodward",
+        "Eric L. Taylor",
+        "Michelle Moore",
+        "Eric Wannlund"
+      ],
+      "year": 2026,
+      "journal": "Ecological Economics",
+      "openalex_id": "W7214046496",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214046496",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/11 key interest terms (prescribed burning, prescribed, burning)",
+      "tags": [
+        "Prescribed Burning",
+        "Prescribed",
+        "Burning"
+      ],
+      "summary": "Private forestlands generate substantial ecosystem services that function as positive externalities, often requiring private operations to bear costs. This market failure creates a gap between private incentives and socially optimal forest stewardship, which leads to chronic underinvestment in sustainable forestry mana…",
+      "added": false
+    },
+    {
+      "title": "Snow Metrics and Decision-Making in the Colorado River headwaters",
+      "abstract": "The Colorado River supplies water to over 40 million people in seven U.S. states and Mexico, running through the arid southwest of North America (U.S. Bureau of Reclamation, 2025). 70- 90% of the river’s water originates as snowpack high in the Rocky Mountains (Sprenger et al., 2024). This snowpack-dominated hydrology subjects the Colorado River Basin to large seasonal and year-to-year fluctuations in streamflow as determined by seasonal snowfall (Christensen et al., 2004; Li et al., 2017). As a result, several metrics and strategies for measuring snowpack and streamflow are used to quantify the expected runoff on an annual basis, yet the use of this information varies widely based on location and decision maker need. The goal of this project was to explore which snow and streamflow-related datasets, metrics, and information data users employ in the decision-making processes within the state of Colorado’s Colorado River headwaters and its associated trans-basin diversion regions (the Upper South Platte, Arkansas, and Rio Grande Basins). This work aimed to explore gaps in relevant flow-related measurements and how data, information, use cases, and data needs could be better translated between data users and providers. This report summarizes information from 39 semi-structured expert-elicitation interviews with data users (municipalities, recreation, watershed planning, ecosystem services, engineering services, and dam operations) focused on how, when, and why different snow and streamflow-related datasets are useful for decision-making processes in the Upper Colorado River Basin.",
+      "doi": "10.69925/ruzu7996",
+      "authors": [
+        "Andrew Fant",
+        "Colin Kinsman",
+        "Rachael Stein",
+        "Tanya Petach",
+        "Julie Vano"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214203395",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214203395",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/11 key interest terms (states, large)",
+      "tags": [
+        "States",
+        "Large"
+      ],
+      "summary": "The Colorado River supplies water to over 40 million people in seven U.S. states and Mexico, running through the arid southwest of North America (U.S. Bureau of Reclamation, 2025). 70- 90% of the river’s water originates as snowpack high in the Rocky Mountains (Sprenger et al., 2024).",
+      "added": false
+    },
+    {
+      "title": "Variation in anthropogenic tolerance alters dispersal capacity of a large carnivore",
+      "abstract": "Abstract Population connectivity is essential for long-term species persistence, and a major challenge to the conservation of isolated wildlife populations globally. Understanding how individual variation in movement behavior scales up to affect population connectivity across human-dominated landscapes is essential for the development and implementation of effective conservation and management plans, particularly for wide-ranging species with potential for human-wildlife conflict. Based on the observed movement behavior of 84 pumas ( Puma concolor ) in the Santa Cruz Mountains, we characterized individual variation in tolerance towards anthropogenic presence and used EcoScape, a novel functional habitat connectivity algorithm, to predict how individual differences in behavior affect the connectivity and dispersal capacity of an at-risk carnivore population. We found that individual differences in human tolerance have a greater effect than sex-based differences on modeled ability to disperse through anthropogenic landscapes, and strongly influence connectivity. This work highlights how individual variation in animal responses to human disturbance affects dispersal capacity, and offers a novel approach to predicting the persistence of metapopulations in the context of rapid global change.",
+      "doi": "10.1038/s41598-026-57851-1",
+      "authors": [
+        "K. Whitney Hansen",
+        "John J. Morgan",
+        "Luca de Alfaro",
+        "Christopher C. Wilmers",
+        "Fernando Nájera",
+        "Natalia Ocampo-Peñuela"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7214378132",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214378132",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract Population connectivity is essential for long-term species persistence, and a major challenge to the conservation of isolated wildlife populations globally.",
+      "added": false
+    },
+    {
+      "title": "Areas of high risk for mammalian biodiversity and nature's contributions to people under global warming",
+      "abstract": "Abstract Climate change drives more frequent and intense droughts, fires and heatwaves. Combined with land‐use change, it dramatically increases species extinction risk and the loss of Nature's Contributions to People (NCP). Here we analyzed the combined risk to species and NCP under future scenarios of global change. We developed a comparative extinction‐risk model for mammals sensitive to fire, drought, and extreme temperatures, integrating intrinsic life‐history traits with extrinsic climate and land‐use related predictors to estimate current and future extinction probabilities. Future risk was projected under alternative global warming scenarios representing low and high emissions pathways (SSP1–2.6 and SSP5–8.5). We then identified high‐risk areas for both mammals and NCP, to highlight synergies for biodiversity conservation and NCP preservation. Our predictions show that 248 out of 474 species (52.3%) face an increased extinction risk (mean increase 0.36), while 226 (47.7%) face risk reduction (mean decrease 0.35) under the most pessimistic scenario. The highest extinction risk increases occurred in Malaysia, Western Indonesia, Madagascar, and Eastern Australia. These regions are also high‐risk areas for potential NCP: freshwater regulation, air quality regulation, and mitigation of extreme events. Preserving these regions is crucial to reduce habitat loss and human‐induced extinctions. Safeguarding these ecosystems, which provide carbon storage, clean water, and extreme fire mitigation, demands priority via targeted policies, sustainable land‐use, and climate adaptation to protect both biodiversity and human well‐being.",
+      "doi": "10.1111/csp2.70366",
+      "authors": [
+        "Marta Cimatti",
+        "Andrea Sacchi",
+        "Moreno Di Marco"
+      ],
+      "year": 2026,
+      "journal": "Conservation Science and Practice",
+      "openalex_id": "W7214176860",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214176860",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/11 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Abstract Climate change drives more frequent and intense droughts, fires and heatwaves. Combined with land‐use change, it dramatically increases species extinction risk and the loss of Nature's Contributions to People (NCP). Here we analyzed the combined risk to species and NCP under future scenarios of global change.",
+      "added": false
+    },
+    {
+      "title": "Opportunities for creating a circular economy in the Australian poultry industry",
+      "abstract": "SUMMARYApproximately one third of the world’s food production is ultimately wasted. Current estimates suggest that the amount of land used to grow food that is wasted is greater than twice the landmass of Australia, and Australia itself wastes a landmass larger than the state of Victoria. With over 2 billion people suffering from food insecurity, an estimated world population of 9.7 billion by 2050, and ongoing detrimental environmental damage caused by industrialisation, there is ever increasing motivation to develop new and effective strategies to maximise efficiency in utilising the world’s available natural resources. In order to begin planning, an understanding of the present is required. Over the last 25 years, the idea of recycling food waste as animal feed on an industrial scale has become a focus for many researchers and agricultural industries. In particular, the poultry industry is well situated to take advantage, as it is an industry that already uses by-products and is intensive in nature and often integrated. A literature review was conducted to compare existing studies on the amount and value of wasted food and resources, the nutritional composition of various streams of food waste, and its potential application as poultry feed. This review explored global studies, ultimately focusing on an Australian context; a country in which poultry is the highest consumed protein source per capita. Many causes of food waste were identified, as well as several emerging strategies to combat this. While nutritional variability is a commonly noted issue, the consensus among researchers is that, depending on the source, food waste could feasibly be used to substitute conventional ingredients such as corn and soybean meal in poultry diets without production loss, with likely economic advantages.",
+      "doi": "10.1080/00439339.2026.2731346",
+      "authors": [
+        "Rebel A. Northey",
+        "Hiep Thi Dao",
+        "James Turnell",
+        "Amy Fay Moss"
+      ],
+      "year": 2026,
+      "journal": "World s Poultry Science Journal",
+      "openalex_id": "W7214306276",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214306276",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/11 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "SUMMARYApproximately one third of the world’s food production is ultimately wasted. Current estimates suggest that the amount of land used to grow food that is wasted is greater than twice the landmass of Australia, and Australia itself wastes a landmass larger than the state of Victoria.",
+      "added": false
+    },
+    {
+      "title": "Shaded fuel breaks support diverse bee communities in fire-prone managed conifer forests",
+      "abstract": "Fuels management is critical for wildfire mitigation, yet our understanding of how this practice influences forest insect pollinators is limited. In this study, we evaluated bee communities in shaded fuel breaks (n = 27) and untreated reference sites (n = 9) on private conifer forests of northern California during 2023-2024. Across both years we captured 17,124 bees comprising 5 families, 33 genera, and 188 species. We found bee abundance was 3.2× greater in shaded fuel breaks relative to reference sites, whereas fuel breaks only averaged 2.4% more species than reference sites. Using Hill numbers to assess diversity, we found species richness (q = 0) and Simpson diversity (q = 2) were similar between treated and reference sites, whereas Shannon diversity (q = 1) was greater for reference sites due to the presence of locally rare species. Thus, shaded fuel breaks supported a less diverse bee community with a greater abundance of common taxa, whereas reference sites contained more locally rare species. These findings indicate that both shaded fuel breaks and untreated mature forest contribute distinct components to the broader bee community, and that fuel break creation boosts bee abundance in fire-prone conifer forests.",
+      "doi": "10.1016/j.gecco.2026.e04431",
+      "authors": [
+        "Megan A. Sampognaro",
+        "Skyler J. Burrows",
+        "Katie Moriarty",
+        "Jake P. Verschuyl",
+        "Dustin G. Gannon",
+        "James W. Rivers"
+      ],
+      "year": 2026,
+      "journal": "Global Ecology and Conservation",
+      "openalex_id": "W7214024716",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214024716",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Fuels management is critical for wildfire mitigation, yet our understanding of how this practice influences forest insect pollinators is limited. In this study, we evaluated bee communities in shaded fuel breaks (n = 27) and untreated reference sites (n = 9) on private conifer forests of northern California during 2023…",
+      "added": false
+    },
+    {
+      "title": "Identifying knowledge gaps in the assessment of biochar's carbon dioxide removal potential: A Canadian case study",
+      "abstract": "Achieving carbon neutrality by 2050, as targeted under the Paris Agreement, requires the deployment of carbon dioxide removal (CDR) strategies such as biochar production (BC), especially in biomass-rich regions. However, its effectiveness as a negative-emission technology depends strongly on process conditions and the sustainability of biomass feedstocks, requiring robust scientific evidence to confirm its CDR potential. Canada, which is well positioned to develop an industrial BC sector and is projected to rely on it for its net-zero strategy on it, was used as a case study to assess the alignment between BC-related scientific literature and its technical CDR potential derived from exploitable organic resources. Results show that Canada has a sustainably exploitable resource of 165,771 kt C under a conservative baseline scenario, dominated by fire-killed trees (73%), followed by crop residues (14%) and harvest residues (5%). According to Puro.earth's protocol, this resource represents a CDR potential of up to 348,146 kt CO 2 -equivalent by BC production, excluding upstream and downstream life cycle emissions. The systematic literature review, based on 150 Scopus-indexed publications, shows that Canadian BC research focuses mainly on secondary forestry residues feedstock and agricultural soil amendment applications. However, only 13 studies address BC production's environmental impacts in Canada. Significant knowledge gaps remain in Canadian literature, including insufficient data on alternative feedstocks (e.g., disturbed forest biomass, crop residues, manure), underexplored applications with market potential (e.g., fossil fuel substitution, materials), and limited environmental assessments across provinces and territories. Despite BC being among the most studied CDR options in Canada, current scientific literature does not adequately support large-scale deployment, highlighting the need for targeted research to inform policy and investment.",
+      "doi": "10.1016/j.biombioe.2026.109986",
+      "authors": [
+        "Marc-Antoine Poulin",
+        "Andréa Oliveira Nunes",
+        "Thierry Ghislain"
+      ],
+      "year": 2026,
+      "journal": "Biomass and Bioenergy",
+      "openalex_id": "W7214368980",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214368980",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Achieving carbon neutrality by 2050, as targeted under the Paris Agreement, requires the deployment of carbon dioxide removal (CDR) strategies such as biochar production (BC), especially in biomass-rich regions.",
+      "added": false
+    },
+    {
+      "title": "AI for Mitigating Climate Change: An Account of Uses, Difficulties, Morality, and Prospects",
+      "abstract": "Artificial intelligence (AI) is now being used as a core technology in global climate change mitigation efforts, with evidence showing that AI data-center cooling optimization reduced energy use by 40 percent in data centers, the share of renewables in the grid increased from around 27 to 29 percent between 2019 and 2020, and renewable generation grew by more than 8 percent in 2021.The same literature that celebrates these gains also reveals the costs of AI: training large-scale models like GPT-3 comes with a high energy cost, and climate-relevant data are not evenly distributed between regions, potentially leading to a disproportionate benefit for those already well-resourced.Existing reviews usually distinguish between the technical capability and the governance risk of AI, and try to discuss these two strands separately without much synthesis.This narrative review fills this void by summarizing the contribution of AI in four interrelated areas: optimization of renewable energy, tracking of carbon emissions, environmental monitoring, and sustainable development in urban and agriculture sectors and highlighting that this is not an automatic benefit to the climate.The data that trains AI, the energy efficiency of the systems that run AI, and transparency and equity of institutions that govern AI are the three main factors that determine its net effect, according to evidence.Therefore, this review argues that AI functions best not as a climate solution in itself but as a force multiplier for climate policy, capable of accelerating well-governed strategies and equally capable of amplifying inequity and emissions where governance is absent.",
+      "doi": "10.33411/ijist/1929",
+      "authors": [
+        "Hamid Raza Malik",
+        "Abdul Basit",
+        "Naeem Ahmad Nawaz",
+        "Kashif Ishaq"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Innovations in Science and Technology",
+      "openalex_id": "W7214371671",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214371671",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Artificial intelligence (AI) is now being used as a core technology in global climate change mitigation efforts, with evidence showing that AI data-center cooling optimization reduced energy use by 40 percent in data centers, the share of renewables in the grid increased from around 27 to 29 percent between 2019 and 20…",
+      "added": false
+    },
+    {
+      "title": "Pathways for biochar carbon removal: A national foresight study",
+      "abstract": "Biochar carbon removal (BCR), achieved by stabilizing biogenic carbon through biomass pyrolysis, is gaining attention as a potential climate mitigation strategy. Yet, its future remains uncertain due to evolving market and regulatory conditions, and existing research provides limited insight into how these uncertainties interact to shape alternative deployment pathways. Using Denmark as a national case, this study combines expert interviews, stakeholder ranking, and scenario modeling to map critical uncertainties and explore plausible future pathways. Seven uncertainty categories are identified, with four emerging as critical: subsidies, carbon prices, regulations concerning biochar's agricultural use, and biomass availability. Stakeholders highlighted carbon prices and agricultural regulations as particularly decisive, which were then used for scenario development. Our results suggest that pyrolysis is relevant across all futures, but its role and scale differ markedly. Depending on the interaction between carbon prices and regulatory action, BCR may i) evolve as a large-scale carbon removal pathway, ii) shift towards non-agricultural biochar uses, iii) be confined to niche environmental applications such as sewage sludge treatment, or iv) become viable only within narrow subsidy-defined limits. These findings challenge implicit assumptions that technological readiness and rising carbon prices alone will lead to widespread BCR deployment. We demonstrate how deployment hinges on stable economic incentives and clear, predictable regulations. We conclude with recommendations for enabling the climate and environmental benefits of BCR across different plausible futures.",
+      "doi": "10.1016/j.erss.2026.104988",
+      "authors": [
+        "L. Campion",
+        "M.J. Spaniol",
+        "T.P. Thomsen"
+      ],
+      "year": 2026,
+      "journal": "Energy Research & Social Science",
+      "openalex_id": "W7214296217",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214296217",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Biochar carbon removal (BCR), achieved by stabilizing biogenic carbon through biomass pyrolysis, is gaining attention as a potential climate mitigation strategy.",
+      "added": false
+    },
+    {
+      "title": "Strengthening earthquake crisis management in France through international post-earthquake lessons",
+      "abstract": "Following the initial emergency phase, post-earthquake recovery involves long-term, multi-sectoral challenges - such as damage assessment, infrastructure restoration, debris management or reconstruction - that require enhanced coordination among diverse stakeholders. While high-seismicity countries continuously refine their crisis management systems through empirical lessons learned, nations with moderate seismic activity, like France, have not had to test their civil protection systems against major domestic earthquakes in recent history. Consequently, their preparedness mainly relies on simulation exercises. However, recent moderate earthquakes in mainland France (2019 and 2023) revealed unexpected operational limitations not captured by exercises, highlighting an imperfect understanding of seismic impacts in regions where the phenomenon is rare. To address this pitfall, this paper mobilizes the theoretical frameworks of policy transfer and organizational learning to analyze French and international post-exercise and post-seismic after-action reviews. Adopting a narrative review approach, this study constructs an interpretive synthesis that bridges local \"grey literature\" - aligned with national institutional specificities - with global academic literature on large-scale earthquakes. The analysis identifies and contextualizes transferable insights tailored to the French seismic crisis management system. By overcoming the limitations of purely simulation-based learning and avoiding uncritical policy borrowing, this study establishes a framework to enhance national capacity. Ultimately, it provides a valuable opportunity to identify critical tipping points beyond which standard coping capacities are overwhelmed, enabling a strategic shift from routine disaster management to resilient crisis management.",
+      "doi": "10.1016/j.ijdrr.2026.106440",
+      "authors": [
+        "Samuel Cuerrier Auclair",
+        "Yoann Legendre",
+        "Pierre Gehl",
+        "Konstantinos Trevlopoulos",
+        "Agathe Roullé"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7213975646",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213975646",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Following the initial emergency phase, post-earthquake recovery involves long-term, multi-sectoral challenges - such as damage assessment, infrastructure restoration, debris management or reconstruction - that require enhanced coordination among diverse stakeholders.",
+      "added": false
+    },
+    {
+      "title": "Fifteen years of regional climate downscaling in CORDEX-Australasia",
+      "abstract": "Regional climate modelling plays a central role in understanding and projecting climate change across Australasia, a region characterised by complex topography, diverse climate regimes, and high exposure to climate extremes. Over the past fifteen years, CORDEX-Australasia has coordinated regional climate downscaling under an international framework while operating alongside complementary national and state-based initiatives. Here we synthesise the evolution, achievements, scientific advances, applications, and future priorities of regional climate modelling in the region. Successive CORDEX-CMIP5 and CORDEX-CMIP6 ensembles have produced the largest coordinated high-resolution projection datasets for Australasia. Regional climate models demonstrate clear added value over their driving global climate models, particularly in representing temperature extremes, heavy precipitation, coastal processes, and complex terrain. CMIP6-based projections show robust agreement on substantial 21st-century warming, with uncertainty dominated by emissions scenarios, while precipitation responses remain more regionally heterogeneous. Advances in convection-permitting modelling, benchmarking frameworks, and bias-correction methods have further improved process representation and evaluation. Regional projections now underpin applications in water resources, agriculture, disaster risk reduction, energy, health, and national climate services. Progress has been supported by shared infrastructure through the National Computational Infrastructure and strengthened coordination via the National Partnership for Climate Projections, highlighting strong synergies between State and Federal programs contributing to CORDEX. Key challenges remain including computational demands, persistent model biases, precipitation uncertainty, ensemble design, and translating complex multi-model information into decision-ready guidance. Strategic priorities include kilometre-scale (convection-permitting) modelling, enhanced Earth system coupling, coordinated super-ensembles, responsible integration of artificial intelligence approaches, strengthened observational constraints, and expanded support for vulnerable remote Australian islands and Pacific Island nations. Sustained investment, collaboration, and innovation will be essential to deliver robust, high-resolution climate information for adaptation and resilience across Australasia.",
+      "doi": "10.1371/journal.pclm.0001066",
+      "authors": [
+        "Jason P. Evans",
+        "Marcus Thatcher",
+        "Daniel Argüeso",
+        "Alejandro Di Luca",
+        "Ralph Trancoso",
+        "Julia Andrys",
+        "Sarah Chapman",
+        "Giovanni Di Virgilio",
+        "Andrew Dowdy",
+        "Lluís Fita",
+        "Peter B. Gibson",
+        "Michael Grose",
+        "Emma Howard",
+        "Fei Ji",
+        "Jatin Kala",
+        "Jack Katzfey",
+        "Leena Khadke",
+        "Omer Mughal",
+        "Benjamin Ng",
+        "Neelesh Rampal",
+        "Christian Stassen",
+        "Stephen J. Stuart",
+        "Chun Hsu Su",
+        "Jozef Syktus",
+        "Son C. H. Truong",
+        "Harvey Ye"
+      ],
+      "year": 2026,
+      "journal": "PLOS Climate",
+      "openalex_id": "W7214158649",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214158649",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Regional climate modelling plays a central role in understanding and projecting climate change across Australasia, a region characterised by complex topography, diverse climate regimes, and high exposure to climate extremes.",
+      "added": false
+    },
+    {
+      "title": "Integrating coupled surface–subsurface modelling and field measurements in a degraded fen: water-balance dynamics and a framework for evaluating rewetting measures",
+      "abstract": "Peatlands play a crucial role in regional water balance and carbon dynamics but are often degraded due to drainage and agricultural use. In Germany, many drained peatlands have shifted from carbon sinks to CO 2 sources. Rewetting these ecosystems is therefore essential to restore their ecological functions and mitigate greenhouse gas emissions. However, effective rewetting requires a detailed understanding of peatland hydrology and its response to climatic and management conditions. To address this need, this study employs a fully coupled surface–subsurface hydrological model (HydroGeoSphere) to analyze the complex hydrological functioning of a typical degraded fen peatland site (11.6 ha) in Brandenburg, Germany. The model-based quantification of hydrological fluxes is basis for assessing peatland vulnerability to climate variability and land use while providing a hydrological baseline for future evaluation of rewetting strategies. The studied peatland is connected to a regional aquifer and intensively drained by a system of ditches. Simulations used daily meteorological inputs and detailed field measurements from 2015 to 2023. Evapotranspiration (ET) was parameterized using field-measured vegetation dynamics (seasonal leaf area index and management schedules), while measured ditch water levels served as hydraulic boundary conditions. The site was spatially divided into different management units with distinct vegetation parameters. The peat profile was represented by two layers (a 0.3 m highly degraded surface peat overlying a 0.7 m less degraded layer) overlying sand (aquifer) and till (aquifer base). The model was evaluated from different angles against eddy covariance ET and groundwater table dynamics during a calibration period (2016–2020) and a validation period (2021–2023) using a multi-metric approach. The model successfully reproduced seasonal water-table fluctuations and ditch–peatland interactions, including ET-driven hydraulic gradient dynamics between summer and winter. Simulated ET closely matched eddy covariance measurements, with RMSE values of 64 mm yr −1 , 10.2 mm month −1 , and 1.01 mm d −1 , and showed only minor biases during dry conditions, while over the year seasonal dynamics of ET were also well captured by the model. The model reproduced groundwater variations with sufficient accuracy, achieving KGE values of 0.80–0.85, NSE of 0.83–0.86, and RMSE of 0.15 m during calibration and validation. The analysis of seasonal and interannual water-storage changes showed pronounced shifts between hydrological surplus and deficit, demonstrating that drained fens are highly sensitive to evapotranspiration demand and prolonged drought. The modeling approach captured key hydrological processes with high robustness. The modelling framework provides a hydrological baseline and a basis for future assessment of peatland rewetting measures. These findings support ongoing restoration initiatives on drained peatlands in Europe.",
+      "doi": "10.5194/hess-30-6019-2026",
+      "authors": [
+        "Nariman Mahmoodi",
+        "Christoph Merz",
+        "Jürgen Pickert",
+        "Ottfried Dietrich"
+      ],
+      "year": 2026,
+      "journal": "Hydrology and earth system sciences",
+      "openalex_id": "W7214367533",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214367533",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Peatlands play a crucial role in regional water balance and carbon dynamics but are often degraded due to drainage and agricultural use. In Germany, many drained peatlands have shifted from carbon sinks to CO 2 sources.",
+      "added": false
+    },
+    {
+      "title": "The legal battle against lone wolf terrorism: Addressing challenges and implementing solutions",
+      "abstract": "Terrorism remains one of the most significant and persistent threats to global security. The challenges it poses are constantly evolving due to changes in the patterns of individual and collective violence. Despite the increasing number of studies and research on collective terrorism, particularly organized terrorist groups, recruitment, and financing, individual acts of terrorism, defined as “lone wolf terrorism” have received relatively little attention. This reveals a gap in the legal understanding and security approach to this issue. This article critically examines lone wolf terrorism, which refers to individuals who carry out terrorist attacks independently or in allegiance to organized terrorist groups. It assesses the classification of their actions and the adequacy of existing legal frameworks that criminalize terrorism in general, or whether they should be treated as ordinary crimes such as violence and unlicensed possession of weapons. The study explores the psychological backgrounds and motivations behind these acts, their drift toward violent extremism, and the ideologies and paths they adopt. It also focuses on the role of technology in facilitating these attacks, carried out independently without affiliation to or support from any formal terrorist organization. The findings reveal shortcomings in current legal frameworks, particularly in addressing this type of extremism, as well as the complexities involved in detecting these crimes due to their clandestine nature and the occasional inability to identify the perpetrators. Significant challenges also exist regarding the effectiveness of counter-terrorism measures, including prosecution and prevention. Finally, this article attempts to offer practical recommendations to policymakers and decision-makers, aiming to foster a more effective legal response through early intervention, appropriate prevention programs, and a balance between public rights and freedoms and national security.",
+      "doi": "10.1016/j.ssaho.2026.103637",
+      "authors": [
+        "Mayada Moustafa El-Mahrouqi"
+      ],
+      "year": 2026,
+      "journal": "Social Sciences & Humanities Open",
+      "openalex_id": "W7214242389",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214242389",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Terrorism remains one of the most significant and persistent threats to global security. The challenges it poses are constantly evolving due to changes in the patterns of individual and collective violence.",
+      "added": false
+    },
+    {
+      "title": "System design options of decentralized autonomous renewable energy systems",
+      "abstract": "Growing climate related disruptions, geopolitical shocks, and increasing public interest in local energy security have intensified the motivation for municipalities to pursue energy autonomy as part of resilient and sustainable energy transitions. However, relying on single cost optimal solutions raises critical questions regarding their social acceptability, economic feasibility, and robustness under uncertainty. To address this gap, this study applies Modeling to Generate Alternatives (MGA) to systematically explore the diversity of near optimal configurations of decentralized renewable energy systems across selected German municipalities. Unlike conventional approaches, this work explicitly quantifies the range and diversity of feasible system designs within defined cost margins, revealing hidden flexibility in municipal energy planning. The results show that municipalities with abundant land and strong renewable potential exhibit substantial diversity within a 10% cost margin, enabling multiple technology pathways that remain robust under varying assumptions. In contrast, land constrained municipalities display limited diversity, with solutions dominated by costly batteries, heat pumps, and heat storage systems. These differences have direct practical implications. Low- and medium-cost municipalities can leverage flexible, socially acceptable pathways, supported by empirical evidence that households are willing to pay 5%–20% more for local energy supply. Conversely, high-cost municipalities exhibit implicit CO 2 abatement costs significantly exceeding typical mitigation ranges, suggesting that full autonomy may be economically inefficient even under near-optimal configurations. Overall, this study demonstrates that MGA provides a novel and powerful framework for linking techno-economic optimization with societal and policy relevant insights, enabling more robust, context specific energy transition strategies. Future work should incorporate transmission infrastructure and transition pathways to better reflect spatial interactions and real-world system evolution.",
+      "doi": "10.1016/j.ecmx.2026.102335",
+      "authors": [
+        "Lanka Wijesinghe",
+        "Jann Michael Weinand",
+        "Noor Titan Putri Hartono",
+        "Russell McKenna",
+        "Detlef Stolten",
+        "Jochen Linßen"
+      ],
+      "year": 2026,
+      "journal": "Energy Conversion and Management X",
+      "openalex_id": "W7214111964",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214111964",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Growing climate related disruptions, geopolitical shocks, and increasing public interest in local energy security have intensified the motivation for municipalities to pursue energy autonomy as part of resilient and sustainable energy transitions.",
+      "added": false
+    },
+    {
+      "title": "Climate Change, Health Impacts and Adaptation: Perspectives of Guyanese Healthcare and Agriculture Professionals (2025)",
+      "abstract": "Climate change impacts vary significantly across sectors and geographical contexts. This study examined the multifaceted impacts of climate change on human health and the current adaptation strategies established in Guyana. This study critically analyzed climate change and its designation as one of the greatest public health challenges of the 21st century. An Explanatory Sequential Mixed-Methods design was implemented. The data was obtained from both primary and secondary sources and were triangulated. A total of 120 participants formedthe sample of the study.Respondents (99%) indicated that there is a link betweenclimate change and health. Directimpacts of climatechange on health results in dehydration (80%),heat exhaustion (70%),heat stroke (65%),respiratory diseases (40%), and cardiovascular diseases (25%).Indirect impacts of climate changeon health, resultsin dengue (60%), psychological distress (55%), malaria (35%), and malnutrition (25%). The categories of people most at risk of having health related issues as a result of the impact of climate change are people with pre-existing medical conditions (40%), older adults (35%), and children (25%). The Final Themes which emanated from analysis of the qualitative data were; Increased HealthRisk, Ecosystem Imbalance, Reduced Immunity, Comorbidity, Chronic Illness and Resource Degradation. The existing adaptation measures in Guyana are: - National Climate Change Policies and Frameworks - Guyana’s Low Carbon Development Strategy (LCDs) 2030, strengthening coastal and flood management systems, climate-resilient agriculture initiatives, health system preparedness and surveillance Guyana, renewable energy and low-carbon development, community-based adaptation and disaster risk reduction and international partnerships and funding.",
+      "doi": "10.55677/ijlsar/v05i09y2026-06",
+      "authors": [
+        "Lydia Narain",
+        "Amarnauth Narain",
+        "Umadevi Narain"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Life Science and Agriculture Research",
+      "openalex_id": "W7214375162",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214375162",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Climate change impacts vary significantly across sectors and geographical contexts. This study examined the multifaceted impacts of climate change on human health and the current adaptation strategies established in Guyana.",
+      "added": false
+    }
+  ]
+}
