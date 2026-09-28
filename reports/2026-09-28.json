@@ -1,0 +1,359 @@
+{
+  "date": "2026-09-28",
+  "statistics": {
+    "fetched": 173,
+    "duplicates_removed": 159,
+    "evaluated": 14,
+    "added": 2,
+    "ignored": 12,
+    "average_score": 1.93
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across Canada, Australia, and the United States",
+      "abstract": "Wildfires often require rapid evacuation to save lives, leading residents to make quick and context-specific transportation decisions that may differ across countries and cultures. This study examines intended evacuation behaviours during wildfires, focusing on promptness, departure time, and cross-country differences. Surveys were conducted across Canada, the United States, and Australia (with sample sizes of 1,366, 1,490, and 1,173, respectively), and the data were used to run advanced choice modelling techniques to estimate factors influencing time-related decisions. The findings emphasized the importance of preparedness, reasons for evacuating, and risk perception in shaping responses to emergencies. Moreover, results identified country differences and similarities in evacuation preparedness time. For instance, employment, age, and income were factors relevant only in the U.S. context, while gender was significant exclusively in the Australian context. For all three countries, households with older adults were less likely to evacuate promptly, while households with children were more likely to evacuate promptly. The study also revealed that complex models showed minimal or no improvement in fit relative to simpler models. These insights on evacuation decisions and departure times, especially across jurisdictional boundaries, can assist in improving generalized wildfire evacuation plans and implementing more inclusive emergency communication strategies.",
+      "doi": "10.1016/j.ssci.2026.107459",
+      "authors": [
+        "Thayanne Gabryelle Medeiros Ciríaco",
+        "Mohammad Hossein Babaei",
+        "A.M.N. Sakr",
+        "Marina Aziz",
+        "Erfan H. Zaryabi",
+        "Erica D. Kuligowski",
+        "Stephen D. Wong"
+      ],
+      "year": 2026,
+      "journal": "Safety Science",
+      "openalex_id": "W7214037256",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214037256",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 93%: matched 5/9 key interest terms (wildfires, states, united states, united, wildfire)",
+      "tags": [
+        "Wildfires",
+        "States",
+        "United States",
+        "United",
+        "Wildfire"
+      ],
+      "summary": "Wildfires often require rapid evacuation to save lives, leading residents to make quick and context-specific transportation decisions that may differ across countries and cultures. This study examines intended evacuation behaviours during wildfires, focusing on promptness, departure time, and cross-country differences.",
+      "added": true
+    },
+    {
+      "title": "Global disparities and structural imbalances in AI integration for urban climate resilience research",
+      "abstract": "Artificial intelligence (AI) holds transformative potential to decode urban climate resilience (UCR) complexities, yet its unguided expansion risks amplifying systemic biases. Here, we leverage large language models to conduct a systematic analysis of around 12,500 UCR publications from 2005 to 2024. Our findings reveal a fifteenfold increase in AI-related publications since 2018, yet this growth remains geographically concentrated: the United States, China, and the United Kingdom account for ~40% of AI-integrated studies, highlighting a deepening digital divide in both research capacity and geographic focus that limits the transferability of AI models to low-income regions. Crucially, we identify a statistically significant structural imbalance: while AI is heavily deployed for physical hazard prediction (40%), it remains under-represented in governance resilience domains (<4%). This asymmetry suggests a greater emphasis on quantifiable, engineering-oriented problems than on social-institutional adaptation needs relevant to vulnerable populations. We argue that bridging this gap requires a pivot from purely data-driven optimisation of physical systems toward human-centric AI paradigms that integrate unstructured socio-economic knowledge, ensuring technologies address the holistic needs of complex urban environments.",
+      "doi": "10.1038/s44168-026-00431-w",
+      "authors": [
+        "Meiyao Meng",
+        "Nicholas A. S. Hamm",
+        "Liang Emlyn Yang",
+        "Jianghao Wang",
+        "Faith Ka Shun Chan"
+      ],
+      "year": 2026,
+      "journal": "npj Climate Action",
+      "openalex_id": "W7214455021",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214455021",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 44%: matched 4/9 key interest terms (large, states, united states, united)",
+      "tags": [
+        "Large",
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "Artificial intelligence (AI) holds transformative potential to decode urban climate resilience (UCR) complexities, yet its unguided expansion risks amplifying systemic biases. Here, we leverage large language models to conduct a systematic analysis of around 12,500 UCR publications from 2005 to 2024.",
+      "added": true
+    },
+    {
+      "title": "Leveraging explainable artificial intelligence and satellite time-series for unravelling nonlinear environmental drivers of post-wildfire vegetation recovery",
+      "abstract": "Understanding post-wildfire vegetation recovery is critical for ecological restoration under climate change. Using the severe March 2024 Yajiang forest fire in China's alpine ecosystem as a case study, we integrated time-series forecasting with interpretable machine learning, augmenting multi-source predictors with a Landsat-derived differenced normalized burn ratio (dNBR). Benchmarking eleven models under an identical chronological split, random forest most accurately forecast vegetation-index residuals (test-set R² = 0.842, RMSE = 0.0230). SHAP analysis yielded three principal insights. First, recovery was governed by short-term accumulated rather than instantaneous meteorological conditions: the three-period rolling mean of atmospheric pressure was the strongest predictor (41.6% of total SHAP importance), while dNBR ranked first among standalone factors and second overall as a fire-legacy control. Second, recovery followed strongly nonlinear dynamics centred on the first post-fire year, as burn severity's suppressive effect peaked in early-to-middle recovery and decayed by the second growing season, after which lagged hydrothermal drivers rebounded. Third, synergistic enhancement was pronounced: soil–moisture interactions with evapotranspiration and recovery duration reached 4.5- and 3.9-fold the standalone moisture effect, confirming water regulates resilience through cumulative coupling. This integrated, mechanism-driven approach informs post-disaster ecosystem management in fire-prone alpine regions.",
+      "doi": "10.1080/19475705.2026.2738256",
+      "authors": [
+        "Xiaoyu Liu",
+        "Wei Liu",
+        "Zhihao He",
+        "Chuan Xiao"
+      ],
+      "year": 2026,
+      "journal": "Geomatics Natural Hazards and Risk",
+      "openalex_id": "W7214429590",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214429590",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 2/9 key interest terms (drivers, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "Understanding post-wildfire vegetation recovery is critical for ecological restoration under climate change. Using the severe March 2024 Yajiang forest fire in China's alpine ecosystem as a case study, we integrated time-series forecasting with interpretable machine learning, augmenting multi-source predictors with a L…",
+      "added": false
+    },
+    {
+      "title": "Thermodynamic Drivers of Rapid Transition From Drought to Flood in Siberia, Russia",
+      "abstract": "Abstract Siberia is a warming hotspot under the impact of climate change, and faces growing threats from hydroclimatic extremes. The rapid transition from drought to extreme wet conditions (hereafter RTDFs) could exacerbate compound hazards, as intense rainfall on drought‐weakened surfaces may increase runoff and permafrost instability in vulnerable cold regions. While some studies have examined RTDFs, understanding of them as a continuous physical process, particularly the dynamics of the transition, requires further investigation. Using data from 408 meteorological stations across Russia (1961–2022), we identified RTDFs and examined their characteristics and underlying mechanisms. Results show that a substantial majority of RTDFs occurred in western Siberia, with a marked peak during April–May. Blocking highs play a pivotal yet contrasting role across the region. In western Siberia, intense surface heating during the drought phase reinforces local moisture recycling through a heat‐driven blocking feedback. In eastern Siberia, a pre‐existing blocking high establishes the drought, and its subsequent breakdown triggers the reorganization of atmospheric circulation and the influx of remote moisture that leads to rainfall. Beyond mean temperature, thermal stability during the drought phase, quantified by low temperature variability, is a key modulator of the transition. It allows efficient accumulation of convective available potential energy and total precipitable water, providing the essential convective instability that facilitates the abrupt termination of the drought via a rapid extreme rainfall. This study demonstrates that both the magnitude and stability of antecedent warming are critical for priming RTDFs, providing actionable insights for improving subseasonal forecasting across boreal Asia.",
+      "doi": "10.1029/2026jd046896",
+      "authors": [
+        "Shuyu Zhang",
+        "Gengxi Zhang",
+        "Junhao Zhao",
+        "Thian Yew Gan",
+        "Yuhuo Luo",
+        "Yufan Chen",
+        "Zolina Olga",
+        "Xiaoling Su",
+        "Xuerui Gao"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W7214435647",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214435647",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 2/9 key interest terms (eastern, drivers)",
+      "tags": [
+        "Eastern",
+        "Drivers"
+      ],
+      "summary": "Abstract Siberia is a warming hotspot under the impact of climate change, and faces growing threats from hydroclimatic extremes. The rapid transition from drought to extreme wet conditions (hereafter RTDFs) could exacerbate compound hazards, as intense rainfall on drought‐weakened surfaces may increase runoff and perma…",
+      "added": false
+    },
+    {
+      "title": "The impact of wildfire smoke on acute cardiovascular and respiratory illness in the US",
+      "abstract": "Escalating wildfire frequency increases population exposure to wildfire smoke. To evaluate the association between wildfire-specific particulate matter (PM 2.5 ) and acute health impacts a retrospective cohort study was conducted utilizing National COVID Cohort Collaborative health records from 109,012 patients across 58 US health systems from 2020 to 2021. County-level wildfire-specific PM 2.5 concentrations were estimated using a fire emissions database and chemical transport modeling. Generalized linear mixed-effects models were used to analyze the association between weekly county-level wildfire-specific PM 2.5 exposure (up to 50 µg/m³) and hospital encounters for a series of cardiac, pulmonary, obstetric and neonatal outcomes. Statistically significant increases in weekly encounters per county of residence were observed for every 10 µg/m³ rise in weekly maximum wildfire-specific PM 2.5 for acute myocardial infarction (0.084, 95% CI, 0.023–0.146), cardiac arrest (0.011, 95% CI, 0.001–0.021), heart failure (0.083, 95% CI, 0.024–0.142), atrial fibrillation (0.115, 95% CI, 0.014–0.216), COPD exacerbation (0.034, 95% CI, 0.001–0.066) and pulmonary embolism (0.048, 95% CI, 0.003–0.094). COVID infection status was not found to have a modifying effect on these relationships. There was no significant increase in COVID pneumonia admissions in response to increasing wildfire smoke. These findings demonstrate quantifiable increases in acute cardiorespiratory morbidity associated with wildfire smoke exposure.",
+      "doi": "10.1038/s41598-026-72845-9",
+      "authors": [
+        "Fintan Hughes",
+        "Luke Parsons",
+        "Brooke Alhanti",
+        "Jamarc Simon",
+        "Prasad Kasibhatla",
+        "Drew T. Shindell",
+        "Tetsu Ohnuma",
+        "Karthik Ragunathan",
+        "Hugh Montgonery",
+        "Vijay Krishnamoorthy"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7214342020",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214342020",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Escalating wildfire frequency increases population exposure to wildfire smoke. To evaluate the association between wildfire-specific particulate matter (PM 2.5 ) and acute health impacts a retrospective cohort study was conducted utilizing National COVID Cohort Collaborative health records from 109,012 patients across…",
+      "added": false
+    },
+    {
+      "title": "Before the Peat Burns: Reframing Indonesia’s Peatland-Fire Governance from Reactive Suppression to Hydrological Prevention and Anticipatory Risk Management",
+      "abstract": "Indonesia’s recurrent peatland fires are often approached through emergency-oriented interventions implemented after fire danger has already escalated, including firefighting, water bombing, weather modification, temporary task forces, and post-fire law enforcement. This qualitative literature review reassesses that response architecture through recent evidence on tropical peat hydrology, fire behaviour, restoration, early warning, governance, health, economics, and community participation. The synthesis indicates that peat-fire risk is produced well before ignition through interacting processes involving drainage, groundwater-table recession, peat desiccation, vegetation change, drought, anthropogenic ignition, and institutional fragmentation. Consequently, effective risk reduction requires shifting the principal intervention point upstream. Hydrological restoration, canal-network management, groundwater monitoring, climate and soil-moisture information, locally calibrated decision thresholds, permanent preparedness capacity, and community-compatible livelihood systems should operate continuously rather than only during severe dry seasons. Nevertheless, the evidence does not support replacing conventional suppression altogether: firefighting, water bombing, enforcement, and emergency operations remain indispensable for residual risk. The article proposes a Hydrological Safety Envelope–Anticipatory Governance Framework integrating prevention, monitoring, trigger-based action, preparedness financing, suppression, recovery, and adaptive learning at the peat-hydrological-unit scale. The framework reframes peatland-fire policy from managing flames after ignition toward managing the ecological and institutional conditions that determine whether major fires occur.",
+      "doi": "10.47363/jeesr/2026(8)317",
+      "authors": [
+        "Loso Judijanto"
+      ],
+      "year": 2026,
+      "journal": "Journal of Earth and Environmental Sciences Research",
+      "openalex_id": "W7214485705",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214485705",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/9 key interest terms (ignition)",
+      "tags": [
+        "Ignition"
+      ],
+      "summary": "Indonesia’s recurrent peatland fires are often approached through emergency-oriented interventions implemented after fire danger has already escalated, including firefighting, water bombing, weather modification, temporary task forces, and post-fire law enforcement.",
+      "added": false
+    },
+    {
+      "title": "Governance, Bureaucracy, and Organization",
+      "abstract": "Governance, Bureaucracy, and Organization reframes bureaucracy as the living administrative architecture that determines whether organizations convert effort into outcomes, and argues that it must be actively governed rather than eliminated or simply endured. Drawing on organizational theory, complexity science, and detailed cases—including Kodak, the Stuttgart 21 rail project, and California’s wildfire systems—the book introduces a practical diagnostic vocabulary: the Accelerator-Modulator-Restrictor spectrum, the Dual-Cone model of opportunity and maneuverability, the Stewardship Triad, and the five practices of Active Bureaucratic Management. It shows how capable organizations drift into failure while remaining busy, how to trace that drift forensically, and how artificial intelligence amplifies whatever governing conditions already exist. Rather than offering another reform program, it advances stewardship as a standing governance doctrine. The book is written for senior leaders, executives, and managers responsible for organizational performance; for scholars and students of management, organization studies, and public administration; and for consultants and analysts working on institutional change. Readers gain a rigorous, jargon-free framework for seeing, diagnosing, and governing bureaucracy—turning an unmanaged liability into a source of durable capability and credibility.",
+      "doi": "10.4324/9781042022342",
+      "authors": [
+        "Jason Adamson"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214550426",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214550426",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Governance, Bureaucracy, and Organization reframes bureaucracy as the living administrative architecture that determines whether organizations convert effort into outcomes, and argues that it must be actively governed rather than eliminated or simply endured.",
+      "added": false
+    },
+    {
+      "title": "Exploring the Climate Impacts of Residential Electricity Consumption: Evidence from Bangladesh",
+      "abstract": "This article investigates the impact of climate change on electricity consumption in both rural and urban areas of Bangladesh, a country facing significant challenges from climate change. The study uses cross-sectional household-level data and meteorological data from 2016. Seasonal variation in temperature attributed to climate change is frequently regarded as a key driver of electricity consumption. The ordinary least squares (OLS) method is applied, followed by robustness checks and an analysis of transmission mechanisms. Our findings provide important insights into the dynamics of electricity consumption in response to severe temperatures. First, the study finds substantial evidence that residential electricity consumption is sensitive to higher temperatures, with families using more electricity on hotter days. Compared with a day in the reference category (29-33°C), adding a day to the 33-39°C bin increases annual electricity consumption by 2.8 percent. Furthermore, each additional day with a mean temperature above 39°C results in a 5 percent increase in yearly power demand. This study also takes other socioeconomic factors and variables into account to examine thoroughly the impact of climate change on household electricity consumption. The research shows that electricity consumption and temperature exhibit an asymmetric relationship. Households exhibit a significant rise in electricity consumption during extremely hot days but do not show any notable response to cold days. The study highlights potential contributions to CO2 emissions and socioeconomic consequences, especially for low-income households. Heterogeneity analysis underscores urban-rural disparities and unequal impacts across income groups. Urban households consume two or three times more electricity when temperatures rise than rural households. Robustness checks support the reliability of the results, and the exploration of adaptive mechanisms such as air conditioning and fans provides insights into coping strategies. This research contributes to the existing body of literature by providing insights relevant to policymakers seeking to address the implications of climate-induced changes in electricity consumption and strengthen societal resilience.",
+      "doi": "10.9734/ajess/2026/v52i103376",
+      "authors": [
+        "Md. Shahinur Rahman",
+        "Mohammad Rafiqul Islam",
+        "M. Masud Sarker",
+        "M. A. B. Siddique"
+      ],
+      "year": 2026,
+      "journal": "Asian Journal of Education and Social Studies",
+      "openalex_id": "W7214438147",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214438147",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "This article investigates the impact of climate change on electricity consumption in both rural and urban areas of Bangladesh, a country facing significant challenges from climate change. The study uses cross-sectional household-level data and meteorological data from 2016.",
+      "added": false
+    },
+    {
+      "title": "The relationship between SMEs' perception of global risks and sustainable innovation: The case of Türkiye",
+      "abstract": "This study examines associations among global risk perceptions, institutional pressures, and sustainable innovation in Turkish SMEs engaged in international trade. Data were collected through an online survey conducted between 7 December 2024 and 20 March 2025, and 342 complete responses were analyzed. The measurement model was assessed using confirmatory factor analysis, and parallel multiple mediation was estimated in jamovi using 5,000 bias-corrected bootstrap resamples. Bootstrap confidence intervals excluded zero for the indirect associations of social and environmental risk perceptions with sustainable innovation through normative pressure. Indirect effects through regulatory and cognitive pressure were not statistically significant. Social and environmental risk perceptions had positive total associations with sustainable innovation, whereas the total association of geopolitical risk perception was not significant. Geopolitical risk received the highest mean score and environmental risk the lowest. The findings provide limited evidence consistent with an indirect role of normative pressure, but the cross-sectional design does not establish causal mechanisms. The results indicate a need for carefully evaluated institutional support for sustainability-oriented innovation in SMEs.",
+      "doi": "10.15295/bmij.v14i3.2828",
+      "authors": [
+        "Şenay Şener"
+      ],
+      "year": 2026,
+      "journal": "Business And Management Studies An International Journal",
+      "openalex_id": "W7214469964",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214469964",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "This study examines associations among global risk perceptions, institutional pressures, and sustainable innovation in Turkish SMEs engaged in international trade. Data were collected through an online survey conducted between 7 December 2024 and 20 March 2025, and 342 complete responses were analyzed.",
+      "added": false
+    },
+    {
+      "title": "Decarbonizing under water stress: Water-energy-land nexus insights from Chile's 2050 carbon neutrality pathway",
+      "abstract": "Abstract Anthropogenic climate change is exacerbating water scarcity in Mediterranean climate regions, such as Central Chile, which already has a low annual precipitation rate, increasing the likelihood of a potentially permanent “mega-drought”. While carbon-neutrality policies often combine energy- and land-sector measures, their specific implications for water-energy-land interactions in Chile remain insufficiently explored. This study presents the first national-level application of GCAM-Chile to assess how combined energy- and land-sector carbon-neutrality pathways may reshape sectoral water-demand patterns in an already water-stressed context. We examine one reference scenario and eight alternative carbon-neutrality pathways combining energy-sector decarbonization with different levels of land-sector mitigation while holding basin water supply static, so re-sults reflect changes in water demand rather than future water availability. Findings indicate that renewable energy-enabled decarbonization substantially reduces electricity-sector water withdrawals by decoupling power generation from thermal cooling demand, offering direct water-demand co-benefits in a water-scarce context. Scenarios that assume the emergence of low-cost carbon capture and storage technologies, achieve smaller reductions in electricity water withdrawals due to the higher water demands associated with fossil generation equipped with these technologies. However, total water withdrawals remain dominated by agricultural irrigation, which continues to grow under all scenarios. Land-sector mitigation reduces irrigation demand by constraining agricultural production, but introduces trade-offs with food production. The implications of these interactions could instigate a new policy landscape of water-energy-land interactions in Chile's near future, necessitating further attention to nexus implications of climate policies in water-scarce contexts.",
+      "doi": "10.1088/1748-9326/aeac70",
+      "authors": [
+        "Josephine Henze",
+        "Silvia R. Santos da Silva",
+        "Felipe Feijoo",
+        "Francisco Flores",
+        "Fernando Miralles-Wilhelm",
+        "Paelina Destephano",
+        "Page G. Kyle",
+        "Homero A. Paltán"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7214402361",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214402361",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Anthropogenic climate change is exacerbating water scarcity in Mediterranean climate regions, such as Central Chile, which already has a low annual precipitation rate, increasing the likelihood of a potentially permanent “mega-drought”.",
+      "added": false
+    },
+    {
+      "title": "Do Incentive‐Based Policies Reduce Firm‐Level CO2 Emissions? Evidence From EU Cohesion Policy",
+      "abstract": "ABSTRACT We examine whether incentive‐based policies reduce emissions among beneficiary Italian firms, using project‐level data from European cohesion policy. Exploiting quasi‐random variation in the timing of EU‐funded projects, we apply a staggered difference‐in‐differences design. We find robust evidence that EU climate‐related incentives lower firm emissions. Recipient firms reduce emissions per unit of assets by 4.6% relative to non‐recipient firms, while a 1% increase in EU funds per unit of assets leads to a 1.1% reduction in emissions. The effects are larger in less developed and transition regions, where policy resources are more concentrated, and among energy‐sector firms. We further show that emission reductions are mainly driven by increased R&D activity: firms receiving green EU funds raise patenting by 3.0%–3.6%, with no significant effects on employment or tangible assets. These findings highlight the potential of incentive‐based climate policy.",
+      "doi": "10.1002/bse.71556",
+      "authors": [
+        "Elena Renzullo",
+        "Francesco Scotti"
+      ],
+      "year": 2026,
+      "journal": "Business Strategy and the Environment",
+      "openalex_id": "W7214213587",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214213587",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT We examine whether incentive‐based policies reduce emissions among beneficiary Italian firms, using project‐level data from European cohesion policy. Exploiting quasi‐random variation in the timing of EU‐funded projects, we apply a staggered difference‐in‐differences design.",
+      "added": false
+    },
+    {
+      "title": "Artificial Intelligence and Climate Risk Shocks",
+      "abstract": "Artificial intelligence (AI) has been widely applied across various fields and has demonstrated effectiveness to some extent. However, some scholars have raised concerns about its ethical implications and potential rebound effects, particularly in the context of climate issues. To address these debates, we obtained cross-national panel data for 51 countries from 1996 to 2023 through the ISETS Energy Finance Network, WIPO, and World Bank databases. A two-way fixed effects model was used to examine the relationship between AI and physical climate risks. The findings are as follows: (1) AI can effectively govern physical climate risks. (2) The governance effect of AI on physical climate risks comes from risk sensing, risk seizing, and action integration. (3) Compared to AI technologies and application fields, AI functional applications have a greater governance impact. (4) Political and economic integration alliances show a stronger AI governance effect compared to purely economic alliances. (5) The governance effect of AI intensifies as physical climate risks increase. These results provide theoretical support and empirical evidence for government efforts to promote AI applications and achieve climate governance. These findings provide theoretical support and empirical evidence for government initiatives to promote AI applications in climate governance.",
+      "doi": "10.1111/risa.70371",
+      "authors": [
+        "Pengyu Chen",
+        "Zhongzhu Chu",
+        "Sarula Bai",
+        "QianYing Chen"
+      ],
+      "year": 2026,
+      "journal": "Risk Analysis",
+      "openalex_id": "W7214457834",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214457834",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Artificial intelligence (AI) has been widely applied across various fields and has demonstrated effectiveness to some extent. However, some scholars have raised concerns about its ethical implications and potential rebound effects, particularly in the context of climate issues.",
+      "added": false
+    },
+    {
+      "title": "Do cork oak trees grow in the dry, hot summer of the mediterranean climate?",
+      "abstract": "Abstract Monitoring stem radial intra-annual growth dynamics is a useful approach for characterising tree growth responses to climate change. In the Mediterranean there have been only a few studies reporting growth responses of cork oak ( Quercus suber L.) to seasonal water shortages. In this study, we focused on direct monitoring of intra-annual radial growth of mature cork oaks over nine complete years, under a 10-year cork harvesting cycle. Band dendrometers were used to assess growth seasonality in two contrasting sites regarding dryness. We hypothesised that summer dormancy and growth bimodality could vary between sites as they are strongly dependent on environmental conditions. Also, we hypothesised that within sites, growth bimodality intensity might vary over the years following cork harvesting disturbance. Our results revealed that growth bimodality was dominant at the drier site, with trees experiencing growth constraints under high temperatures and lower precipitation at short timescales. In contrast, trees at the wetter site exhibited a consistent summer growth, with high plasticity and responsiveness in their growth phenology, revealing the ability to acclimate in longer timescales. The coupling effects of cork harvesting and growth patterns enhanced the trees’ site-dependent growth strategies. At drier site, trees´ complacent radial growth responses maintain constant growth phenological phases, e.g., timings, and achieve higher peaks with higher growth rates, mainly in the spring (yearly growth range between 9.2 mm.yr − 1 and 4.4 mm.yr − 1 ). At the wetter site, tree’s growth drastic responses are due to varying growth timings and highly sensitive growth peaks and rates (yearly growths ranged between 17.5 mm.yr − 1 and 5.2 mm.yr − 1 ).",
+      "doi": "10.1007/s00468-026-02828-w",
+      "authors": [
+        "Augusta Costa",
+        "Javier Vázquez‐Piqué",
+        "Paolo Cherubini"
+      ],
+      "year": 2026,
+      "journal": "Trees",
+      "openalex_id": "W7214465125",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214465125",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Monitoring stem radial intra-annual growth dynamics is a useful approach for characterising tree growth responses to climate change. In the Mediterranean there have been only a few studies reporting growth responses of cork oak ( Quercus suber L.) to seasonal water shortages.",
+      "added": false
+    },
+    {
+      "title": "Developing an action and research agenda to address extreme heat in the Pacific Northwest",
+      "abstract": "Abstract On April 12, 2024, the Collaborative on Extreme Heat Events, a group of public health practitioners in Seattle, WA, Portland, OR, and Vancouver, BC coordinated by University of Washington, hosted a three-hour virtual workshop with experts in climate change, public health, health equity, urban planning, emergency management, and sustainability. The goals of the workshop were to build a network focused on climate and health equity, identify gaps in practice and research, and develop actionable recommendations and research opportunities. Workshop participants engaged in two rounds of small group discussions to identify innovations, resources, and actions needed to address extreme heat in the region. Detailed notes taken during the small group discussions were thematically analyzed using a combined inductive and deductive qualitative coding approach to identify domains of action and research identified by participants. Findings revealed action and research needs focused within the domains of Infrastructure, Funding, Collaboration, Communications, Workforce Capacity, Preparedness and Response Planning, and Heat Risks and Health Impacts. The role of political will as a necessary component for accomplishing goals, and the importance of solutions with co-benefits in prioritizing actions, were heavily discussed across these categories. The findings from the workshop discussions highlight key gaps in practice in research, as well as a need for translation of research to practitioners, which can help inform robust preparedness and response to extreme heat in the region.",
+      "doi": "10.1088/2515-7620/aeac9f",
+      "authors": [
+        "Ashley Moore",
+        "Mary Hannah Smith",
+        "Craig Brown",
+        "B. P. Haggerty",
+        "Daaniya Iyaz",
+        "Bradley Kramer",
+        "Michael Schwandt",
+        "Jairaj Singh",
+        "Meghan Straight",
+        "Nicole Ann Errett",
+        "Resham Patel"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7214394780",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214394780",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract On April 12, 2024, the Collaborative on Extreme Heat Events, a group of public health practitioners in Seattle, WA, Portland, OR, and Vancouver, BC coordinated by University of Washington, hosted a three-hour virtual workshop with experts in climate change, public health, health equity, urban planning, emergen…",
+      "added": false
+    }
+  ]
+}
