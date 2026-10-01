@@ -1,0 +1,792 @@
+{
+  "date": "2026-10-01",
+  "statistics": {
+    "fetched": 117,
+    "duplicates_removed": 87,
+    "evaluated": 30,
+    "added": 3,
+    "ignored": 27,
+    "average_score": 1.6
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Out of the frying pan, into the fire? Tradeoffs between drought adaptation and wildfire risk under cropland loss and urbanization in the western United States",
+      "abstract": "Abstract The western United States faces two escalating, co-occurring hazards in the form of persistent water scarcity (drought) and increasingly frequent wildfires in places humans live and recreate. Drought adaptation has emphasized water savings from cropland retirement, while wildfire adaptation has emphasized the fire risks of urbanization. By overlooking what retired cropland becomes and what development replaces, neither has fully examined cropland's role as a landscape-scale buffer to wildfire in the western US. We demonstrate this buffering capacity across 11 states and 39 years of data, showing that cropland is less likely to burn than other vegetation classes. Within 477 watersheds where cropland has interacted with wildfire in the western US, approximately 4.29 million hectares of cropland was lost between 1985 and 2024. Cropland loss in most watersheds (77%) was consistent with fallowing transitions to more burnable herbaceous and scrubland vegetation across the Pacific Northwest, Inland Northwest, Intermountain West, and Great Basin. In a smaller portion of watersheds (19%), losses occurred through cropland-to-developed transitions clustered around major metropolitan areas in California, Idaho, Oregon, Washington, Utah, and Colorado, where development simultaneously removes buffering capacity and adds ignition sources. The remaining watersheds saw cropland transitions to wetlands and forests. Results highlight emerging tradeoffs between drought adaptation and wildfire risk in the western US, with retirement-driven fallowing and development-driven conversion reshaping where wildfires stop at landscape-scales. Integrated planning tools that evaluate water use savings and wildfire risks jointly, and expanded agricultural conservation programs that incorporate fire-buffering value, can help manage tradeoffs.",
+      "doi": "10.1088/1748-9326/aeacff",
+      "authors": [
+        "Austen A. Lorenz",
+        "Beatrice L. Gordon",
+        "Gabrielle F. S. Boisramé",
+        "Julia Berkey",
+        "Chelsea Cough",
+        "Rosemary  W. H. Carroll",
+        "Christine M. Albano"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7214575323",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214575323",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 78%: matched 6/12 key interest terms (ignition, wildfires, states, united states, united)",
+      "tags": [
+        "Ignition",
+        "Wildfires",
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "Abstract The western United States faces two escalating, co-occurring hazards in the form of persistent water scarcity (drought) and increasingly frequent wildfires in places humans live and recreate.",
+      "added": true
+    },
+    {
+      "title": "Geostatistical and Spatial Clustering Analysis for Wildfire Monitoring in Türkiye",
+      "abstract": "The wildfire situation has become increasingly dangerous to the eastern Mediterranean’s forest lands and human life. Among these are wildfires in Türkiye that have had one of the largest impacts on the country in the region. A pipeline consisting of five steps was applied using an integrated methodology to analyze MODIS Collection 6.1 data for the fires occurring in Türkiye during the three years of 2018 through 2020. The results were used to understand where, when and how much energy burned by wildfires throughout Türkiye. Five methods made up this process. The first method used to evaluate this information is FRP weighted Kernel Density Estimation (KDE) which provides the locations of highest concentration of fire in each year. The second method is Global Spatial Autocorrelation (Morans I) which examines whether fire occurs near other fires. Local Hotspot Detection (Getis-Ord Gi*) is the third method which identifies hotspots within individual grid cells. Interannual Difference Maps were produced using the fourth method to compare differences in FRP values from each year. Finally, the fifth method, Density-Based Spatial Clustering Analysis (DBSCAN), identified clusters of fire based on their geographic location. The southern central Anatolian belt (37°-38°N) continued to be identified as the area of greatest fire intensity, characterized by a large amount of FRP weighted density, statistically significant local hotspot concentrations (HS≥95%) in the same area in 2019 and was also located at the centroid of the DBSCAN cluster in all years studied. In addition to identifying areas with increased FRP, national average FRP values increased by about 22%, from 19MW in 2018 to 23MW in 2020. Additionally, the decline of 64% (from .233 to .083) in Global Morans I indicates an increase in both the intensity and dispersal of fire occurrence globally. The number of DBSCAN clusters increased from three in 2019 to seven in 2020; two additional clusters emerged in the northeast part of Anatolia and in eastern Thrace. Based on these findings it appears that there may be an early indication of changes in the structure of wildfires in Türkiye due to warming conditions in the eastern Mediterranean.",
+      "doi": "10.7240/jeps.1954934",
+      "authors": [
+        "M. Gunes"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Advances in Engineering and Pure Sciences",
+      "openalex_id": "W7214519283",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214519283",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 47%: matched 5/12 key interest terms (occurrence, wildfires, eastern, large, wildfire)",
+      "tags": [
+        "Occurrence",
+        "Wildfires",
+        "Eastern",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "The wildfire situation has become increasingly dangerous to the eastern Mediterranean’s forest lands and human life. Among these are wildfires in Türkiye that have had one of the largest impacts on the country in the region.",
+      "added": true
+    },
+    {
+      "title": "Guidance on Transmission Siting in the United States Transmission Siting Roadmap for the Chiefs’ Trail Project",
+      "abstract": "This report was prepared as an account of work sponsored by an",
+      "doi": "10.2172/3991173",
+      "authors": [
+        "Juan Ospina",
+        "USDOE Office of Electricity Delivery and Energy Reliability (OE)",
+        "Mary Ewers",
+        "Russell W. Bent",
+        "Ádám Máté"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214623173",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214623173",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 46%: matched 3/12 key interest terms (states, united states, united)",
+      "tags": [
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "This report was prepared as an account of work sponsored by an",
+      "added": true
+    },
+    {
+      "title": "Forest loss is increasingly driven by international consumption",
+      "abstract": "Deforestation remains one of the greatest obstacles to limiting global warming, yet the economic mechanisms linking global supply chains to final consumers are poorly understood. Fine-scale satellite monitoring tracks where forests are lost, but rarely reveals who ultimately drives this loss through consumption. We further apply machine learning techniques to identify key socioeconomic drivers behind consumption-induced forest loss. Our results indicate that 38.15% of global forest loss—equating to approximately 5.01 Mha of the 13.12 Mha total in 2022—is embodied in international final demand, with five countries (Brazil, the United States, China, Indonesia, and Russia) accounting for 48.16% of global deforestation. China and Russia exhibit polarizing trends that amplify global forest pressures. Among the evaluated socioeconomic determinants, urbanization, manufacturing intensity, and domestic economic and conservation capacities emerge as the primary factors characterizing cross-national patterns of forest loss. This integrated framework offers a robust, data-driven foundation for advancing global forest conservation and promoting equitable responsibility across international supply chains. More than one third of global forest loss is embodied in international demand, with urbanization and manufacturing emerging as key predictors, according to a study that combined satellite observations with trade modeling and machine learning.",
+      "doi": "10.1038/s43247-026-04093-8",
+      "authors": [
+        "Zhouyi Liu",
+        "Ye Li",
+        "Xinkun Wang",
+        "Mimi Gong",
+        "Shen Qu",
+        "A. Yinglan",
+        "Jin Wu",
+        "Baolin Xue",
+        "Qiao Wang"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7214618329",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214618329",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 30%: matched 4/12 key interest terms (states, united states, drivers, united)",
+      "tags": [
+        "States",
+        "United States",
+        "Drivers",
+        "United"
+      ],
+      "summary": "Deforestation remains one of the greatest obstacles to limiting global warming, yet the economic mechanisms linking global supply chains to final consumers are poorly understood. Fine-scale satellite monitoring tracks where forests are lost, but rarely reveals who ultimately drives this loss through consumption.",
+      "added": false
+    },
+    {
+      "title": "A Lagrangian Time‐Series Machine Learning Framework for Predicting Concentrations and Exploring Drivers of Atmospheric Aerosols: Model Development and Application to Cloud Condensation Nuclei in Marine Boundary Layer",
+      "abstract": "Abstract Atmospheric aerosols play critical roles in climate and air quality. Accurately assessing their environmental impacts requires understanding aerosol abundance, distribution, and the key factors and processes that control them. Although machine learning is increasingly used in predicting aerosol concentrations, its application in exploring underlying processes remains limited, and existing studies often fail to capture processes occurring during preceding days that substantially shape aerosol populations. Here we develop a Lagrangian time‐series machine learning framework that better represents those dynamic processes. Three‐dimensional back‐trajectories of airmasses arriving at the receptor site are derived using a physics‐driven Lagrangian transport model, and environmental variables along these trajectories are included as time‐series input features for a sequence model to predict aerosol concentrations. We apply this framework to multiyear cloud condensation nuclei (CCN) observations from the eastern North Atlantic (ENA). The resulting model exhibits strong predictive skill and outperforms conventional machine learning approaches that rely on static, non‐sequential input features. Moreover, the model trained solely on the ENA data successfully reproduces a large fraction of CCN variability at a site in the South Atlantic, indicating that it indeed captures the general processes driving marine CCN variability. Model interpretation reveals that the seasonal variation of CCN over ENA is primarily controlled by aerosol production associated with short‐wave radiation, whereas the variation on a shorter timescale is dominated by wet removal. This Lagrangian time‐series framework, which is more physically consistent with actual atmospheric processes, offers a powerful tool for predicting and understanding the mechanisms of other atmospheric components.",
+      "doi": "10.1029/2026ms005751",
+      "authors": [
+        "Shengqian Zhou",
+        "Dong Qi",
+        "Hanyang Liu",
+        "Yevgeniy Vorobeychik",
+        "Jian Wang"
+      ],
+      "year": 2026,
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "openalex_id": "W7214711595",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214711595",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 30%: matched 3/12 key interest terms (eastern, drivers, large)",
+      "tags": [
+        "Eastern",
+        "Drivers",
+        "Large"
+      ],
+      "summary": "Abstract Atmospheric aerosols play critical roles in climate and air quality. Accurately assessing their environmental impacts requires understanding aerosol abundance, distribution, and the key factors and processes that control them.",
+      "added": false
+    },
+    {
+      "title": "From Soil to Canopy: Using Moisture Data From Soil and Tree Sensors to Predict Live Fuel Moisture and Guide Forest Management in a Mediterranean Coastal Woodland",
+      "abstract": "ABSTRACT Ecosystem response to forest management and disturbance is governed by many factors and their interactions. This has historically made it difficult for practitioners to reach consensus on ideal management prescriptions and restoration activities. Forest management to decrease wildfire susceptibility and improve water supply is often informed by estimates of live fuel moisture (LFM). However, ecosystem response to environmental conditions and management treatments is dependent to a large degree on soil moisture. Soil moisture has been used as a surrogate to estimate LFM, but tree‐based sensors have not been applied in the same manner. In this paired watershed study, coupled soil and tree moisture probes were installed to study the relationship between soil and tree moisture and to examine soil moisture–tree–ecosystem relationships in Sonoma County, CA, USA. We found that (1) there were statistically significant effects on soil moisture and evapotranspiration (ET) from mechanical tree thinning and prescribed burns compared to an untreated watershed, (2) soil moisture decreased at the surface and increased in the root zone post‐treatment, relative to an untreated watershed, and (3) ET decreased by 90 mm in the post treatment year for the treated watershed. To investigate regional generalizability of these results, the soil moisture surrogate was applied at a nearby station within the Pepperwood Preserve to look at wildfire danger for large historical fires and was found to be relevant to the surrounding area. These results suggest that in situ soil and tree moisture sensors can be used as a surrogate for discrete and time‐consuming LFM measurements and that soil moisture thresholds can be used to help identify wildfire susceptibility and drought conditions. Information on the hydrologic response to forest treatment in different locations is valuable to land and resource managers and improving real‐time wildfire danger and drought conditions using existing or low‐cost in situ sensors can improve situational awareness and planning.",
+      "doi": "10.1002/eco.70277",
+      "authors": [
+        "Michelle A. Stern",
+        "Ryan Ferrell",
+        "Lorraine Flint",
+        "James H. Thorne"
+      ],
+      "year": 2026,
+      "journal": "Ecohydrology",
+      "openalex_id": "W7214626079",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214626079",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 3/12 key interest terms (prescribed, large, wildfire)",
+      "tags": [
+        "Prescribed",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "ABSTRACT Ecosystem response to forest management and disturbance is governed by many factors and their interactions. This has historically made it difficult for practitioners to reach consensus on ideal management prescriptions and restoration activities.",
+      "added": false
+    },
+    {
+      "title": "Political, social, and cultural barriers to traditional pastoralism as a wildfire risk mitigation strategy in Central Spain",
+      "abstract": "This article analyses the political, social, and cultural barriers that hinder the implementation of wildfire mitigation policies in Spain via traditional ecological knowledge–based extensive grazing and cultural burning. Using a Q methods survey deployed among stakeholder respondents in Tragacete (Cuenca) and Piedrahíta (Ávila)—two sites with contrasting socio-ecological trajectories governed by the two most voted left and right statewide parties in the Spanish political system—we sought to reveal the underlying frames conditioning fire governance in these locations. Our findings suggest that frames on the role of traditional pastoralism in wildfire risk mitigation are correlated to a greater extent with territorial rather than occupational stakeholder identities. Respondents in Piedrahíta, located within the autonomous community of Castilla y Leon governed by the conservative Partido Popular, showed a greater scepticism towards all public administration interventions in the territory, while those in Tragacete, governed by the progressive Partido Socialista Obrero Español party, were more sympathetic towards European Union and autonomous community rural development policies. Generally speaking, individuals in both sites advocated for the integration of local community perspectives into multi-level governance systems for a more socially just climate adaptation process in Mediterranean rural communities.",
+      "doi": "10.1177/00113921261477422",
+      "authors": [
+        "Manuel Hidalgo",
+        "Francisco Seijo"
+      ],
+      "year": 2026,
+      "journal": "Current Sociology",
+      "openalex_id": "W7214621525",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214621525",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 2/12 key interest terms (burning, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "This article analyses the political, social, and cultural barriers that hinder the implementation of wildfire mitigation policies in Spain via traditional ecological knowledge–based extensive grazing and cultural burning.",
+      "added": false
+    },
+    {
+      "title": "Next generation humanitarian supply chain: the emergence of orchestration and choreography",
+      "abstract": "Purpose The purpose of this study is to investigate how and when orchestration and choreography are employed to support coordination in humanitarian logistics. Focussing on the World Food Programme's (WFP) led logistics cluster (LC) and the United Nations Humanitarian Response Depot (UNHRD), the study explores how structural design factors, enabling mechanisms and motivating drivers influence orchestration and choreography during disaster response. Design/methodology/approach An embedded case study design, using semi-structured interviews, was undertaken with logistics experts involved in the LC and UNHRD hubs. Reflexive thematic analysis was undertaken to understand how orchestration and choreography occur in practice and what factors support their effectiveness. Findings The LC offers a predominantly orchestrated model, especially where urgency, scarce logistics assets and disrupted infrastructure require centralised coordination. UNHRD, on the other hand, reflects a more blended approach, combining central governance with partner autonomy and peer-to-peer collaboration. Clear structures and formal mandates, institutional leadership, expert service provision and information visibility emerge as key enablers. Participation was driven by access to funding, common services, shared goals, and mutual benefits. The findings show that choreography is more likely where stable systems, trust and partner capacity already exist. Research limitations/implications The research is drawn from selected WFP-related contexts, and findings may not fully capture coordination dynamics in all humanitarian settings. Future research may explore local and informal choreography, informal coordination and comparative cases across various humanitarian settings. Practical implications The framework helps practitioners identify when centralised orchestration is necessary and when decentralised choreography can be supported. It provides guidance for balancing central oversight, partner autonomy, shared services and local capacity in HL response operations. Originality/value The study generates a dynamic framework that integrates orchestration and choreography into the 3Cs model (coordination, cooperation and collaboration), expanding the theoretical lens on humanitarian logistics (HL) coordination. It expands previous conceptual models by showing how centralised and decentralised modes interact in practice during disaster response.",
+      "doi": "10.1108/ijlm-06-2025-0422",
+      "authors": [
+        "Ray John Grange",
+        "Graham Heaslip",
+        "Caroline McMullan"
+      ],
+      "year": 2026,
+      "journal": "The International Journal of Logistics Management",
+      "openalex_id": "W7214653696",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214653696",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/12 key interest terms (drivers, united)",
+      "tags": [
+        "Drivers",
+        "United"
+      ],
+      "summary": "Purpose The purpose of this study is to investigate how and when orchestration and choreography are employed to support coordination in humanitarian logistics. Focussing on the World Food Programme's (WFP) led logistics cluster (LC) and the United Nations Humanitarian Response Depot (UNHRD), the study explores how stru…",
+      "added": false
+    },
+    {
+      "title": "Enabling real-time training of a wildfire-to-smoke map with multilinear operators",
+      "abstract": "This dataset contains the data and script necessary to reproduce the results from Zachary Morrow, Joseph Crockett, John D. Jakeman, and Dan J. Krofcheck. \"Enabling real-time training of a wildfire-to-smoke map with multilinear operators.\" Machine Learning: Earth (2026). Requirements: Python 3 with NumPy >2.0 and SciPy",
+      "doi": "10.1088/3049-4753/aea163",
+      "authors": [
+        "Zachary Morrow",
+        "Joseph L. Crockett",
+        "John D. Jakeman",
+        "Dan J. Krofcheck"
+      ],
+      "year": 2026,
+      "journal": "Machine Learning Earth",
+      "openalex_id": "W7160539385",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7160539385",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/12 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "This dataset contains the data and script necessary to reproduce the results from Zachary Morrow, Joseph Crockett, John D. Jakeman, and Dan J. Krofcheck. \"Enabling real-time training of a wildfire-to-smoke map with multilinear operators.\" Machine Learning: Earth (2026). Requirements: Python 3 with NumPy >2.0 and SciPy",
+      "added": false
+    },
+    {
+      "title": "Resolving the fire governance paradox in an increasingly fire-prone world",
+      "abstract": "Abstract Fire is a planetary-scale governance challenge. Across fire-prone landscapes of the Global South, managing fire to support biodiversity, livelihoods and climate resilience requires approaches and policy to move beyond treating fire as a uniform threat, an illegal act or a poverty-driven choice. Fire is embedded in social-ecological systems, and conflict reflects misalignment among policy, ecological dynamics and social realities. In this Perspective, Madagascar provides a diagnostic lens on the challenges associated with fire. Fire-sensitive forests, fire-adapted open ecosystems, rural dependence on burning, colonial fire-control legacies, forest-centred conservation and fragmented mandates co-exist within landscapes, exposing the limits of suppression-first governance across the Global South. We combine our diagnosis with examination of fire governance from fire-prone countries and transdisciplinary practitioner knowledge to propose ten principles for aligning fire policy with social-ecological realities. These principles offer a pathway beyond blanket suppression towards legitimate, adaptive and context-specific fire governance across sectors, institutions and scales.",
+      "doi": "10.1038/s43247-026-04090-x",
+      "authors": [
+        "Adam J. M. Devenish",
+        "Elliot Convery-Fisher",
+        "Navashni Govender",
+        "Alessandra Fidelis",
+        "Tianjanahary Randriamboavonjy",
+        "Andoniaina H. Randria",
+        "RAKOTONDRATSIMA Marius",
+        "Dily Jaovola",
+        "Dorian Andrindrainy",
+        "Ellarissa Andrianjafy",
+        "Haja Andrianavalona",
+        "Richard Lewis",
+        "James S. Borrell",
+        "Katherine  Jane Kling",
+        "Paul Wilkin",
+        "David Hammond",
+        "Caroline E. R. Lehmann"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7214626623",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214626623",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/12 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Abstract Fire is a planetary-scale governance challenge. Across fire-prone landscapes of the Global South, managing fire to support biodiversity, livelihoods and climate resilience requires approaches and policy to move beyond treating fire as a uniform threat, an illegal act or a poverty-driven choice.",
+      "added": false
+    },
+    {
+      "title": "Demographic change in an iconic dolphin population driven by habitat degradation following a marine heatwave",
+      "abstract": "Extreme climate events are rapidly reshaping ecosystems and contributing to biodiversity loss, yet their long-term impacts remain poorly understood, particularly in marine systems. In 2011, an unprecedented marine heatwave (MHW) on the west coast of Australia drove declines in habitat-forming plants and across taxa spanning multiple trophic levels. Shark Bay, home to an iconic Indo-Pacific bottlenose dolphin (Tursiops aduncus) population, endured temperatures 3-5°C above long-term means, triggering catastrophic seagrass loss. Using 20 years (2003-2023) of dolphin photo-identification data, we fitted a Bayesian Hidden Markov Model to estimate annual, age-class specific survival probabilities, abundance and recruitment rate, and their association with MHW-mediated seagrass loss in the western (WSB) and eastern (ESB) gulfs of Shark Bay. Adult survival declined markedly, from 0.99 (0.98-1.00) pre-MHW to 0.85 (0.79-0.90) post-MHW in WSB, and from 0.96 (0.92-0.98) to 0.89 (0.85-0.95) in ESB, remaining below pre-MHW levels for several years, while juvenile and calf survival declined in both gulfs to a lesser extent. Recruitment declined in both gulfs and, although recovery was evident in WSB from 2019 onward, continued to decline in ESB until the end of the study. These sustained demographic declines drove substantial reductions in population growth and abundance in both WSB (39%) and ESB (36%). Demographic changes were associated with seagrass loss, here a proxy for habitat and prey availability, with clearest support for adult survival in WSB and a two-year-lagged recruitment response in ESB. This pathway is likely to operate across diverse ecosystems as climate change drives increasing loss of habitat-forming species. The severity and duration of these demographic impacts illustrate that habitat change can cascade through trophic systems to overwhelm demographic resilience in upper-trophic species. This has negative implications for even long-lived, K-selected species, whose slow demographic recovery may not keep pace with the accelerating frequency and intensity of climate disturbance.",
+      "doi": "10.64898/2026.09.25.754421",
+      "authors": [
+        "Felix Smith",
+        "Dominik M. Behr",
+        "Manuela R. Bizzozzero",
+        "Simon J. Allen",
+        "Richard C. R. Connor",
+        "Stephanie L. King",
+        "Arpat Özgül",
+        "Michael Krützen"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7214615756",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214615756",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Extreme climate events are rapidly reshaping ecosystems and contributing to biodiversity loss, yet their long-term impacts remain poorly understood, particularly in marine systems.",
+      "added": false
+    },
+    {
+      "title": "AI-driven assessment of forest dynamics and ecosystem services in response to land use change: current progress and future perspectives",
+      "abstract": "Forests cover approximately 31% of the global land surface and provide critical ecosystem services including carbon sequestration, hydrological regulation, and biodiversity support, yet ongoing deforestation and fragmentation are progressively eroding these services. The convergence of artificial intelligence (AI), multi-source remote sensing, and cloud computing offers unprecedented opportunities to monitor forest dynamics and quantify ecosystem service responses to land use change, but the literature remains fragmented, with no synthesis tracing the causal chain from land use drivers through forest responses to ecosystem service outcomes. This review addresses that gap through an original four-tier framework encompassing monitoring, assessment, prediction, and optimization, clarifying how AI and geospatial technologies perform at each stage and how outputs of one tier feed into the next. We searched Web of Science, Scopus, and Google Scholar for studies published between 2016 and 2026; screening against explicit eligibility criteria and a formal quality appraisal confirmed 27 core studies directly reporting a quantified AI/ML performance metric, supplemented by 70 contextual references. At the monitoring tier, deep learning architectures such as U-Net achieve F1-scores of 0.75–0.77 for forest change detection, with an advantage over conventional classifiers that is conditional rather than absolute, varying with label quality, spectral availability, and geographic transfer. At the assessment tier, AI has advanced carbon stock estimation through multi-source fusion, species distribution modeling in which convolutional neural networks substantially outperform Maximum Entropy models, an advantage that persists and even widens under stricter spatial cross-validation even as both methods' absolute accuracy declines, and hydrological service quantification coupled with process-based models. At the prediction tier, machine learning-enhanced land use simulation has reached accuracies exceeding 0.93, while reinforcement learning shows potential to jointly optimize ecosystem service and economic objectives, though only at proof-of-concept stage. Persistent challenges include limited explainability, near-absent uncertainty quantification, weak cross-domain transferability, and largely sequential AI-process model integration, with direct consequences for policy applications: AI-derived carbon stock maps and ecosystem service assessments intended to inform emissions trading, conservation planning, or land use policy currently lack the quantified uncertainty and cross-region validation such applications require. We propose a phased research agenda spanning near-term methodological consolidation, medium-term foundation model adaptation, and long-term integrated forest digital twins with equitable global coverage, offering a roadmap for translating AI and geospatial technologies into evidence-based forest ecosystem stewardship.",
+      "doi": "10.3389/ffgc.2026.1933500",
+      "authors": [
+        "Lili Zhao",
+        "Xuncheng Fan",
+        "Xiao Shihong"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7214677634",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214677634",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/12 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Forests cover approximately 31% of the global land surface and provide critical ecosystem services including carbon sequestration, hydrological regulation, and biodiversity support, yet ongoing deforestation and fragmentation are progressively eroding these services.",
+      "added": false
+    },
+    {
+      "title": "Regional climate risk assessment from climate models using probabilistic machine learning",
+      "abstract": "Abstract Effective climate risk assessment is hindered by the resolution gap between coarse global climate models and the fine-scale information needed for regional decision making. Existing downscaling methods struggle to bridge this gap: physics-based methods are too computationally expensive for large ensemble sampling of extreme events, while traditional statistical methods fail to capture multivariate spatiotemporal dependencies crucial to compound risk estimation. Furthermore, current machine learning approaches rely on temporally aligned training pairs, which are unavailable for free-running climate projections. Here we introduce GenFocal, an AI framework that generates statistically accurate, fine-scale weather from coarse climate projections without requiring paired simulated and observed events during training. GenFocal synthesizes complex and long-lived hazards, such as heatwaves and tropical cyclones, even when they are not well represented in the coarse climate projections. It also samples high-impact, rare events more accurately than leading methods. By translating large-scale climate projections into actionable localized information, GenFocal provides a powerful paradigm to improve climate adaptation and resilience strategies.",
+      "doi": "10.1038/s42256-026-01308-7",
+      "authors": [
+        "Zhong Yi Wan",
+        "Ignacio Lopez‐Gomez",
+        "Robert W. Carver",
+        "T. Schneider",
+        "John Anderson",
+        "Fei Sha",
+        "Leonardo Zepeda-Núñez"
+      ],
+      "year": 2026,
+      "journal": "Nature Machine Intelligence",
+      "openalex_id": "W4405301131",
+      "citation_count": 1,
+      "url": "https://openalex.org/W4405301131",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract Effective climate risk assessment is hindered by the resolution gap between coarse global climate models and the fine-scale information needed for regional decision making.",
+      "added": false
+    },
+    {
+      "title": "Visual narratives of disaster on Instagram: a multimodal AI-assisted analysis",
+      "abstract": "This paper explores Instagram as a platform for visual and emotional narratives of disaster across the response and recovery phases. Focusing on the extreme flooding that affected western Germany in July 2021, the study analyzes approximately 2,700 Instagram posts collected over a three-year period. It employs a mixed-methods approach combining generative artificial intelligence with qualitative and quantitative analyses. Images were interpreted by ChatGPT-4 under human supervision, and the resulting classifications were validated against manual coding, yielding an agreement rate of 80.73% and a Cohen’s kappa of 0.74. Six visual themes were identified: flood damage, rescue operations, solidarity and resilience, media coverage, post-disaster recovery, and government involvement. The temporal distribution of these themes traces a movement from immediate impacts toward reconstruction and remembrance, while the emotional tone shifts from despair and anxiety toward more consistent expressions of hope. A statistically significant association was found between visual themes and emotional tones. A complementary thematic examination of hashtags shows how public discourse surrounding the disaster was framed, and indicates that images convey a more nuanced understanding of disaster impacts that hashtags alone cannot capture. The study demonstrates how AI-assisted visual analysis can facilitate the large-scale interpretation of social media image corpora and generate insights relevant to disaster response and recovery strategies.",
+      "doi": "10.1007/s43762-026-00300-6",
+      "authors": [
+        "Manal Ginzarly"
+      ],
+      "year": 2026,
+      "journal": "Computational Urban Science",
+      "openalex_id": "W7214612851",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214612851",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "This paper explores Instagram as a platform for visual and emotional narratives of disaster across the response and recovery phases. Focusing on the extreme flooding that affected western Germany in July 2021, the study analyzes approximately 2,700 Instagram posts collected over a three-year period.",
+      "added": false
+    },
+    {
+      "title": "MONGOLIAN NATIONAL SECURITY BETWEEN TWO GREAT POWERS HISTORICAL EXPERIENCE AND LESSONS",
+      "abstract": "This article examines how Mongolia has protected its independence, sovereignty, and territorial integrity since 1911 under the immutable geographic condition of sharing borders only with Russia and China. Using historical document analysis, process tracing, and comparative periodization, it assesses primary and scholarly sources concerning the 1912 Russo-Mongolian Agreement, the 1915 Tripartite Treaty of Kyakhta, the 1936 Protocol of Mutual Assistance, the 1945 Yalta arrangement and independence plebiscite, Mongolia's admission to the United Nations in 1961, and the post-1990 concepts of national security, foreign policy, and nuclear-weapon-free status. The study argues that Mongolia's security has not resulted from a simple policy of keeping equal distance from its two neighbors. It has been most resilient when four elements were combined according to the nature of the threat: domestic state capacity, a workable balance in relations with the neighboring powers, international legal recognition, and diversified external partnerships. The abolition of autonomy in 1919 demonstrates that external backing cannot substitute for viable domestic institutions. The alliance-centered security system from the 1930s to the 1980s protected Mongolia against immediate military threats but also narrowed strategic autonomy. Since 1990, a multi-pillar foreign policy and the third-neighbor approach have widened Mongolia's diplomatic room for maneuver, although concentrated trade routes, markets, energy supplies, and infrastructure continue to create structural vulnerability. The article concludes that Mongolia should treat stable and mutually beneficial relations with both neighbors as the foundation of national security while using international law, third-neighbor partnerships, and national resilience to expand its strategic autonomy.",
+      "doi": "10.31435/ijitss.3(51).2026.6707",
+      "authors": [
+        "Nergui Bayartogtokh",
+        "Tuvdendarjaa Munkh-Orgil",
+        "Uranchimeg T"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Innovative Technologies in Social Science",
+      "openalex_id": "W7214604685",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214604685",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "This article examines how Mongolia has protected its independence, sovereignty, and territorial integrity since 1911 under the immutable geographic condition of sharing borders only with Russia and China.",
+      "added": false
+    },
+    {
+      "title": "Risk perception, but not response efficacy, linked risk communication to protective action during an atmospheric river in California",
+      "abstract": "Abstract Whether and how risk communication motivates individuals to take protective action over the course of extreme weather events is a central question for public policy. Yet to date, such evidence has been difficult to obtain due to the challenges of forecasting events, rapidly recruiting populations in at-risk locations, and fielding longitudinal studies as conditions unfold. In February 2026, forecasts of an atmospheric river threatening northern California provided an opportunity to examine how risk communication related to protective action in real time. As the atmospheric river approached and made landfall, we surveyed 513 at-risk adults twice daily over one week (n = 5,099 observations) and applied preregistered Bayesian within-person mediation models to the resulting intensive longitudinal data. We found that when participants received more risk communication than their personal average, they were more likely to take protective action. This within-person relationship was explained by changes in risk perception, but not response efficacy. Unexpectedly, receiving more risk communication than usual was associated with lower response efficacy, even though higher levels of response efficacy were associated with a higher likelihood of taking protective action. Taken together, these findings lend empirical support to policy priorities that use risk communication to promote protective action during extreme weather events, such as the United Nations’ Early Warnings for All initiative. Still, risk communication could be even more effective by building confidence that specific actions reduce harm, in addition to raising awareness of the threat.",
+      "doi": "10.1093/pnasnexus/pgag332",
+      "authors": [
+        "Michelle Ng",
+        "Andrea Schumacher",
+        "Nilám Ram",
+        "Natalie Herbert",
+        "Gabrielle Wong‐Parodi",
+        "Robert Prestley",
+        "Rebecca E. Morss",
+        "Julie L. Demuth"
+      ],
+      "year": 2026,
+      "journal": "PNAS Nexus",
+      "openalex_id": "W7214741647",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214741647",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (united)",
+      "tags": [
+        "United"
+      ],
+      "summary": "Abstract Whether and how risk communication motivates individuals to take protective action over the course of extreme weather events is a central question for public policy.",
+      "added": false
+    },
+    {
+      "title": "At the Speed of Light: Can Fleeting Human Leadership Confront Climate Change, Alone?",
+      "abstract": "Climate change and artificial intelligence (AI) are now accelerating faster than even exceptional human minds were built to manage. This perspective article argues that the deeper risk lies not in technology alone but in the recurring frailty of human leadership during global crises, from the dot-com bust of 2000 to the banking recession of 2008 and the pandemic of 2020. Using a comparative case study and literature synthesis, it examines four leaders (Nelson Mandela, Barack Obama, Donald Trump and Adolf Hitler) through documented historical “firsts,” not diagnoses, to illustrate leadership ranging from exceptional to destructive. It also reviews published research on personality-disorder patterns in authoritarian leadership, so readers can recognize such patterns in leaders, oligarchs and technology creators without diagnosing any individual. The paper then considers AI as a potential ally, citing wildfire detection, glacial lake monitoring and refugee resettlement, while acknowledging its limits and recent safety incidents. It concludes that human leadership cannot meet these challenges alone, but that AI built for speed and profit, without the people who face these crises, is not the answer either. It recommends a Global Frontline AI Task Force, so that fire chiefs, physicians, naval commanders and climate scientists specify AI systems before they are built. Coincidentally, one of these two challenges may help humans overcome the other, at the speed of light.",
+      "doi": "10.62225/2583049x.2026.6.5.6935",
+      "authors": [
+        "Sharleen A Harty"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Advanced Multidisciplinary Research and Studies",
+      "openalex_id": "W7214616992",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214616992",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/12 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Climate change and artificial intelligence (AI) are now accelerating faster than even exceptional human minds were built to manage. This perspective article argues that the deeper risk lies not in technology alone but in the recurring frailty of human leadership during global crises, from the dot-com bust of 2000 to th…",
+      "added": false
+    },
+    {
+      "title": "The Sierra Nevadas: Climatic Impact on Water and Forest Resources",
+      "abstract": "REFLECTIVE MEMO: This essay focuses on the adverse impacts of climate change on the Sierra Nevada Mountain range .I chose this topic because the mountains, particularly the Sierra Nevadas, come close to my heart as a local and environmentalist .Due to my immense passion and interest in the region, I enjoyed writing this essay because I learned more in-depth about what makes the landscape unique .For instance, I learned how more than 60% of California's water resources are sourced from the Sierras .I hope my readers enjoy this piece as much as I did, as I can ensure that writing it opened my mind to continue fighting to protect such a beautiful area .",
+      "doi": null,
+      "authors": [
+        "Sophia Slucky"
+      ],
+      "year": 2026,
+      "journal": "DigitalCommons - CalPoly (California State Polytechnic University)",
+      "openalex_id": "W7214810926",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214810926",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "REFLECTIVE MEMO: This essay focuses on the adverse impacts of climate change on the Sierra Nevada Mountain range .I chose this topic because the mountains, particularly the Sierra Nevadas, come close to my heart as a local and environmentalist .Due to my immense passion and interest in the region, I enjoyed writing thi…",
+      "added": false
+    },
+    {
+      "title": "Interconnected soil properties modulate compound hurricane-dust events that impact the Americas",
+      "abstract": "Abstract In 2024, several Atlantic tropical cyclones encountered trans-Atlantic African dust, altering weather, air quality, and deposition across the Americas. Using state-of-the-art Earth system modeling, this study highlights that interconnected basic (mineralogy, texture) and state (moisture, temperature) soil properties modulate the complex hurricane-dust interactions and their combined impacts. We comprehensively evaluate and update model representations of soil properties, their interconnections (e.g., soil texture impacts on soil moisture), and feedbacks to atmospheric conditions. This is enabled by jointly applying remotely sensed information from NASA’s Earth Surface Mineral Dust Source Investigation and Soil Moisture Active Passive missions, multi-sensor aerosol observations, mineralogy-dependent reactive uptake coefficients and hygroscopicity parameters derived from laboratory experiments, as well as various in situ surface and atmosphere datasets. Our results demonstrate that the magnitude, or even the direction, of some soil-property effects varies by event and depends on how models represent the sensitivity of key processes (e.g., dust emissions) to soil and atmospheric conditions over the lifetimes of hurricane-dust events. Our findings underline the importance of accurately representing soil properties and soil-property-sensitive processes for better understanding and modeling compound hurricane-dust events. Future research on these aspects can benefit from intensive, multidisciplinary field experiments for compound events along with multi-model frameworks.",
+      "doi": "10.1038/s41598-026-70979-4",
+      "authors": [
+        "Min Huang",
+        "Yijian Zeng",
+        "Anne Verhoef",
+        "Greogory R. Carmichael",
+        "Vicky H. Grassian",
+        "Courtney D. Hatch",
+        "Jared K. Entin",
+        "David R. Thompson"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7212412468",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212412468",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract In 2024, several Atlantic tropical cyclones encountered trans-Atlantic African dust, altering weather, air quality, and deposition across the Americas. Using state-of-the-art Earth system modeling, this study highlights that interconnected basic (mineralogy, texture) and state (moisture, temperature) soil prop…",
+      "added": false
+    },
+    {
+      "title": "Economic incentives for conifers may limit broadleaf expansion in climate-adaptive European forests",
+      "abstract": "Abstract Forests are increasingly affected by climate change, highlighting the necessity of adaptive management to sustain ecosystem services. Yet adaptation is complicated by the interplay between ecological and socioeconomic considerations. We used an informed questionnaire to survey a selected group of forest professionals across different European sites, focusing on how perceptions of climate and socioeconomic change drive adaptive management choices. Here we show that professionals broadly agree on the negative impacts of climate change, with drought emerging as the dominant high-risk factor, while perceived socioeconomic change reflects rising timber demand and prices alongside higher operational costs. Professionals rank species diversity, mixing broadleaf and conifer species, and assisted natural regeneration as the priority adaptive measures, yet anticipated timber price increases lead a quarter of respondents to favor maintaining or increasing conifer shares. Economic expectations can change adaptation choices, highlighting a tension between ecological resilience and socioeconomic priorities that forest policy needs to address.",
+      "doi": "10.1038/s43247-026-04087-6",
+      "authors": [
+        "Marc Djahangard",
+        "Rasoul Yousefpour",
+        "Han Zhang",
+        "Frank Berninger",
+        "Gailenė Brazaitytė",
+        "Gediminas Brazaitis",
+        "Harald Bugmann",
+        "Lluís Coll",
+        "Alexandru Lucian Curtu",
+        "Aureliu Florin Halalisan",
+        "Henrik A. Hartmann",
+        "Hervé Jactel",
+        "Tahamina Khanam",
+        "Goran Krsnik",
+        "Lana Kukobat",
+        "Leena Leskinen",
+        "Michael Manton",
+        "Žaklina S. Marjanović",
+        "Anastasia Pantera",
+        "Mari Selkimäki",
+        "Nikola Šušić"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7214646379",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214646379",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Forests are increasingly affected by climate change, highlighting the necessity of adaptive management to sustain ecosystem services. Yet adaptation is complicated by the interplay between ecological and socioeconomic considerations.",
+      "added": false
+    },
+    {
+      "title": "Does host diversity beget microbiome diversity? Effects of zooplankton diversity and composition on environmental and host-associated microbes",
+      "abstract": "Microbiomes alter host health and are shaped by transmission within and among host taxa. Microbes can alter host communities, yet whether the diversity of hosts reciprocally shapes microbial communities remains poorly resolved. Diverse host communities may promote microbiome diversity through elevated cross-species microbial spillover or reduce it by diluting conspecific transmission. Here, we manipulated the composition and diversity of pond zooplankton communities to test how host diversity and density alter host-associated and environmental microbiomes. Host diversity had opposing effects on microbiome alpha diversity for different zooplankton host species, increasing microbiome diversity in calanoid copepods while reducing it in Daphnia, with no effect on environmental microbes. Host diversity amplified cross-species microbial spillover for subordinate competitors (calanoid copepods) and diluted conspecific transmission for the dominant competitor (Daphnia). These contrasting responses reflected shifts in indicator microbes associated with each host taxon. Increasing host turnover generated higher microbiome turnover, demonstrating that microbiome assembly depends on host community composition. Our results indicate that contact with both conspecifics and heterospecifics alters animal microbiomes, and that host diversity can either promote the spillover or dilute the transmission of microbes in different zooplankton with potential effects on host health and ecosystems.",
+      "doi": "10.64898/2026.09.25.754487",
+      "authors": [
+        "Joshua H. Dominguez",
+        "Christopher B. Wall",
+        "Margaret Y. Demmel",
+        "Jonathan B. Shurin"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7214662103",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214662103",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Microbiomes alter host health and are shaped by transmission within and among host taxa. Microbes can alter host communities, yet whether the diversity of hosts reciprocally shapes microbial communities remains poorly resolved.",
+      "added": false
+    },
+    {
+      "title": "Tracking shifts in the westerlies at Baboon lakes, central Sierra Nevada, California over the last 12,000 years",
+      "abstract": "The Northern Hemisphere Westerlies (NHW) have been linked to the hydrologic patterns and changes of the American West, especially in the drought-prone Great Basin. A better understanding of the relationship between NHW behavior and megadroughts would aid in modelling future change in the region. Models have suggested that the Sierra Nevada mountains act as a topographic boundary to steer the NHW, and the associated storm tracks, to their north or south. Here, we present a multi-proxy record from a lacustrine sediment core from Baboon Lakes of central Sierra Nevada, California (37°N, 119°W) to inform the linkage between latitudinal migration of the NHW and regional hydrologic patterns of the Sierra Nevada and adjacent Great Basin over the Holocene. Plant wax isotopes, pollen, charcoal, and sedimentological data provide evidence of shifts in the position of the NHW relative to our field site and, independently, coeval hydrologic change in the High Sierra over the last 11,500 years. We found evidence of cool, wet conditions at the onset of the Holocene followed by cool, dry conditions from 11 to 9 cal ka BP. During a period of equatorward migration of the NHW at 9-8.5 cal ka BP, the multiproxy data suggest cool, wet conditions. At 8.3 cal ka BP, there was a prominent jump in the NHW position to a more poleward path. This shift starts with the widespread warm, dry mid-Holocene interval in the Sierra Nevada and the broader Great Basin region. Following 4 cal ka BP, wetter conditions returned to the High Sierras and the Great Basin. Overall, our record of changes in the position of the NHW correlates with hydrologic record in the High Sierra and Great Basin with cooler, wetter conditions occurring during times of equatorward-shifted NHW and warmer, drier environments with increased fire activity corresponding to poleward-shifted winds.",
+      "doi": "10.1016/j.quascirev.2026.110294",
+      "authors": [
+        "Meghan Spoth",
+        "Aaron Diefendorf",
+        "Brenda L. Hall",
+        "Aaron E. Putnam",
+        "Jacquelyn Gill",
+        "Megan C. Corcoran",
+        "Douglas P. Boyle",
+        "Scott Bassett",
+        "Scott Mensing"
+      ],
+      "year": 2026,
+      "journal": "Quaternary Science Reviews",
+      "openalex_id": "W7214422389",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214422389",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "The Northern Hemisphere Westerlies (NHW) have been linked to the hydrologic patterns and changes of the American West, especially in the drought-prone Great Basin. A better understanding of the relationship between NHW behavior and megadroughts would aid in modelling future change in the region.",
+      "added": false
+    },
+    {
+      "title": "An Arctic climatology of particle number size distributions and cloud condensation nuclei during warm and moist intrusions",
+      "abstract": "Abstract Recent studies indicate that warm and moist intrusions are significant sources of aerosols in the Arctic. Yet their contribution to different aerosol particle size modes, cloud condensation nuclei (CCN), and droplet number concentrations ( N d ) remains largely unconstrained. Here, we use long-term aerosol observations from five Arctic observatories and show that intrusions are a major driver of CCN perturbations, particularly in summer, significantly increasing accumulation mode particle, CCN and N d number concentrations at all sites. In winter and spring, intrusions decrease concentrations at sites near 0° longitude (Zeppelin, Villum, Alert) but increase them at sites near 180° (Tiksi, Utqiaġvik/Barrow). These contrasting patterns reflect the interplay between emission sources and wet scavenging along air mass trajectories. Our findings highlight that intrusions have a strong impact on Arctic aerosol and cloud properties and are a key component of the Arctic climate system.",
+      "doi": "10.1038/s41612-026-01461-1",
+      "authors": [
+        "Berkay Dönmez",
+        "Jakob Pernov",
+        "Romanos Foskinis",
+        "Radiance Calmer",
+        "Paraskevi Georgakaki",
+        "Hélène Angot",
+        "Eija Asmi",
+        "John Backman",
+        "Tak Chan",
+        "Radovan Krejci",
+        "Peter Tunved",
+        "Andreas Maßling",
+        "Henrik Skov",
+        "Alfred Wiedensohler",
+        "Athanasios Nenes",
+        "Julia Schmale"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7214646130",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214646130",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Recent studies indicate that warm and moist intrusions are significant sources of aerosols in the Arctic. Yet their contribution to different aerosol particle size modes, cloud condensation nuclei (CCN), and droplet number concentrations ( N d ) remains largely unconstrained.",
+      "added": false
+    },
+    {
+      "title": "Climate-Related Stress Testing and ESG Risk Management in European Banking Portfolios: Evidence on Physical and Transition Risk, Resilience, and Strategic Transformation",
+      "abstract": "Climate-related stress testing translates physical and transition hazards into banking losses, yet European exercises differ materially in horizon, balance-sheet assumptions, portfolio coverage, and purpose. This article asks what those exercises reveal about the resilience of European banking portfolios and how environmental, social, and governance risk management must develop. A structured comparative review of the twelve supplied supervisory publications and recent peer-reviewed research finds that aggregate systems generally absorb tested losses, but resilience is conditional. Disorderly transition produces concentrated impairment in carbon-intensive sectors, whereas unmitigated physical risk dominates over longer horizons through collateral damage, business interruption, and declining insurance. Reported losses are often lower bounds because market, liquidity, operational, litigation, and second-round channels remain incomplete. Banks should therefore integrate counterparty transition plans, geocoded collateral, climate-sensitive credit parameters, dynamic multi-hazard scenarios, and links to pricing, provisioning, capital planning, and portfolio strategy. Orderly transition is the least-cost route, provided that steering supports credible corporate adjustment rather than abrupt or socially regressive withdrawal.",
+      "doi": "10.36948/ijfmr.2026.v08i05.84672",
+      "authors": [
+        "Mahan Tahvildari"
+      ],
+      "year": 2026,
+      "journal": "International Journal For Multidisciplinary Research",
+      "openalex_id": "W7214538754",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214538754",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Climate-related stress testing translates physical and transition hazards into banking losses, yet European exercises differ materially in horizon, balance-sheet assumptions, portfolio coverage, and purpose.",
+      "added": false
+    },
+    {
+      "title": "An open-access workflow combining climate model projections with epidemiological frameworks to assess air quality mortality",
+      "abstract": "Surface-level air pollution is a major source of human mortality worldwide, and future emissions projections and resulting climate change are expected to alter concentrations of pollutants such as ozone and particulate matter. Estimating the health burden of these changes requires combining climate model projections with epidemiological frameworks, such as those developed in the Global Burden of Disease (GBD). However, significant barriers hinder this integration. Climate model outputs differ from health metrics in spatial resolution, temporal aggregation, and pollutant metrics. For example, GBD quantifies ozone exposure as the highest seasonal average of 8-h daily maximum concentrations, while most climate models provide hourly or monthly mean data. Furthermore, climate model outputs often require bias correction and spatial downscaling to ensure exposure estimates are as accurate as possible, so that applying exposure-response functions derived from observational data yields more trustworthy mortality projections. We present an open-access workflow explicitly designed to bridge this gap. Our goal is to enable researchers to process climate model data for health impact assessments of air quality. The workflow processes climate model pollutant data to align with GBD metrics, applies bias correction and downscaling methods, and calculates mortality using established GBD exposure-response functions and baseline demographic data. We demonstrate the workflow through a single illustrative worked example, rather than a comprehensive multi-model projection of future air-quality mortality. The underlying pipeline, however, is designed to support consistent, reproducible estimation across different scenarios and models. By making the workflow publicly available, we aim to lower barriers for interdisciplinary research and support collaboration between climate scientists and epidemiologists. Our work provides a foundation for quantifying the health implications of changing air quality under plausible future air pollutant scenarios and climate conditions, improving decision-making around mitigation and adaptation strategies.",
+      "doi": "10.3389/fclim.2026.1847091",
+      "authors": [
+        "Alice Wells",
+        "James Wilson Hurrell",
+        "Eric Gilleland",
+        "G. Brooke Anderson"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7214761425",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214761425",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Surface-level air pollution is a major source of human mortality worldwide, and future emissions projections and resulting climate change are expected to alter concentrations of pollutants such as ozone and particulate matter.",
+      "added": false
+    },
+    {
+      "title": "Mitigating Climate Change Risks by Adopting Emerging Technologies: A Contextual Comparative Exploration of Fast Fashion Supply Chains",
+      "abstract": "Abstract Empirical research suggests that the fast fashion (FF) industry is a major contributor to global climate change. Fast-fashion supply chains (FFSCs) are inherently complex due to the multiplicity of processes, locations, and stakeholders involved. This research explores the key climate change risks, response strategies, and application of emerging technologies in the comparative context of developing and developed countries. Institutional theory was used as a theoretical lens, and the research data were collected by using expert interviews from industry experts in Pakistan and the UK. The analysis shows numerous climate change risks posed by FFSC at multiple tiers, ranging from raw materials to the retailing of products. The FF industry in Pakistan is more focused on meeting the needs of UK fashion brands by adopting global frameworks to reduce their greenhouse gas emissions, including using sustainable materials and adopting changes according to the environmental standards and renewable energy due to coercive, normative, and mimetic pressures. In contrast, coercive and mimetic pressures forcing UK fashion companies to address regulatory and economic challenges and deal with persistent organisational and cultural issues including fast-changing customer requirements. To mitigate climate change risks, companies in both contexts are adopting emerging technologies such as AI-based analytics, internet of things, automation, blockchain and digital traceability-based solutions, and 3D printing. However, they face challenges such as high initial costs, human capital gaps, and data integration issues. To mitigate these challenges, companies in both contexts are adopting strategies such as technology–business alignment, collaboration with technology partners and multiple stakeholders, pilot testing of new technologies, cultural transformation, and structural changes.",
+      "doi": "10.1007/s11575-026-00644-5",
+      "authors": [
+        "Muhammad Tasadduq Khan",
+        "Awais Ahmad Khan",
+        "Piyyia Rafi-ul-Shan",
+        "Rizwan Ahmed",
+        "Shlomo Tarba"
+      ],
+      "year": 2026,
+      "journal": "Management International Review",
+      "openalex_id": "W7160738404",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7160738404",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract Empirical research suggests that the fast fashion (FF) industry is a major contributor to global climate change. Fast-fashion supply chains (FFSCs) are inherently complex due to the multiplicity of processes, locations, and stakeholders involved.",
+      "added": false
+    },
+    {
+      "title": "Rooting for water: Bridging Plant Hydraulics and Ecohydrology to Predict Drought Stress",
+      "abstract": "Forests regulate climate and sustain biodiversity, but their resilience is increasingly threatened by drought-induced hydraulic failure, when xylem water transport is impaired by embolism. A critical but poorly constrained determinant of this risk largely due to limited observations of deep root water uptake is the amount of root-accessible (sub)soil water storage (SR), which governs land-atmosphere exchanges during prolonged dry periods. While ecohydrological theory has long suggested a balance between soil water storage in the rooting zone, vegetation growth and drought tolerance, this concept has not yet been integrated into predictive models of hydraulic failure. Here we propose a novel, process-based inversion framework that integrates ecohydrological optimality theory with principles of plant hydraulic to infer SR. Using the SurEau plant hydraulic model, we estimate the SR value that balances the costs of soil exploration with the avoidance of drought-induced hydraulic damage. Applied first to a well-instrumented Mediterranean Quercus ilex forest, the inferred SR closely matched independent neutron probe and eddy covariance measurements and accurately reproduced observed drought responses, including leaf water potential and sap flow dynamics. We then scaled the approach across European forests remotely-sensed data, to assess spatially explicit SR estimates and associated hydraulic failure risk. Across more than 20 species and sites, inferred SR and drought stress metrics aligned with field observations and outperformed estimates based on conventional soil databases or remote-sensing-only approaches. By linking plant physiology and ecohydrological theory within a scalable inversion framework, this approach improves predictions of forest drought risk under climate change.",
+      "doi": "10.64898/2026.09.25.753735",
+      "authors": [
+        "Arsène Druel",
+        "Juiel Ruffault",
+        "Hervé Cochard",
+        "Miquel De Caceres",
+        "Nicolas Delpierre",
+        "Jean-Marc Limousin",
+        "Maurizio Mencuccini",
+        "Matthias Cuntz",
+        "Laurine Chir",
+        "Rémi Lemaire‐Patin",
+        "Jérôme Ogée",
+        "Renaud Decarsin",
+        "Sylvain Delzon",
+        "Claude Doussan",
+        "Joannès Guillemot",
+        "Émilie Joetzjer",
+        "Maximilian Larter",
+        "François Pimont",
+        "Albert Olioso",
+        "Guillaume Simioni",
+        "Léa Veuillen",
+        "Gregor Rickert",
+        "Ilhan Özgen‐Xian",
+        "Nicolas K. Martin-StPaul"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7214632194",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214632194",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Forests regulate climate and sustain biodiversity, but their resilience is increasingly threatened by drought-induced hydraulic failure, when xylem water transport is impaired by embolism.",
+      "added": false
+    },
+    {
+      "title": "The securitization of global slow-onset risks/threats: long COVID, a case study",
+      "abstract": "This paper investigates why Long Covid, despite affecting millions globally and posing a serious threat to public health and economic stability, remains largely absent from contemporary security agendas. It argues that the condition's chronic, diffuse nature presents a temporal mismatch with existing security frameworks designed for acute, visible crises. Drawing on the Copenhagen School's securitization theory and Olaf Corry's concept of \"riskification,\" the paper shows how structural, normative, and political obstacles-namely the difficulty of constructing chronic disability as collective harm within dominant security imaginaries-prevent Long Covid from being framed as an existential threat. Comparing the response to Long Covid with that of climate change and acute Covid-19, it reveals how scientific uncertainty, fragmented governance, and limited public awareness undermine mobilization. U.S. reluctance to lead, domestic political fragmentation, and a cultural emphasis on individual responsibility further diminish the prospects for securitizing moves. Internationally, institutions like the UN and WHO exhibit similar inertia due to ambiguous mandates and competing priorities. The paper concludes that Long Covid exposes critical gaps in traditional security thinking, particularly in addressing slow-onset, mass-disabling threats. As similar slow-onset disabling conditions may emerge in future biological crises, prevailing security conceptions could leave societies insufficiently prepared. The paper therefore uses securitization theory diagnostically to argue that political conceptions of security should better account for chronic harm and disability.",
+      "doi": "10.1186/s12992-026-01241-9",
+      "authors": [
+        "Philip Finkelstein"
+      ],
+      "year": 2026,
+      "journal": "Globalization and Health",
+      "openalex_id": "W7214669249",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214669249",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "This paper investigates why Long Covid, despite affecting millions globally and posing a serious threat to public health and economic stability, remains largely absent from contemporary security agendas.",
+      "added": false
+    },
+    {
+      "title": "Regimes of Fractured Objectivity: On the Limits of Technological Risk Governance",
+      "abstract": "Abstract This chapter argues that modern risk governance rests on a useful fiction: that technological safety can be rendered as objective fact. Within a “regime of functional objectivity,” institutions translate unruly hazards into standardized metrics that appear auditable, comparable, and decisive. This fiction works tolerably well because the uncertainties of most technologies can be bounded enough for regulation and coordination. The chapter contends, however, that this regime has an epistemic boundary, past which the assumptions that support objectivity claims can no longer be safely ignored. Beyond this threshold lies a “regime of fractured objectivity,” where extreme stakes and sparse empirical feedback demand implausible certainty, small modeling choices have outsized effects on outcomes, and routine heuristics of expertise lose traction.",
+      "doi": "10.1007/978-3-032-29343-5_12",
+      "authors": [
+        "John Downer"
+      ],
+      "year": 2026,
+      "journal": "SpringerBriefs in applied sciences and technology",
+      "openalex_id": "W7214582003",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214582003",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "Abstract This chapter argues that modern risk governance rests on a useful fiction: that technological safety can be rendered as objective fact. Within a “regime of functional objectivity,” institutions translate unruly hazards into standardized metrics that appear auditable, comparable, and decisive.",
+      "added": false
+    },
+    {
+      "title": "The outside in: Disaster microbiology continuing during ecosystem change",
+      "abstract": "As the number and intensity of natural disasters grow across the world, the release of environmental microbes as a result of these disasters poses increasing risk. While some environmental microbes are frequently present in the human environment, others introduce rare illnesses, infections, or other secondary impacts. To update the state of the science for what has been termed ‘disaster microbiology,’ and to identify areas of future research, we have compiled recent and legacy studies of the release and impacts of environmental microbes on humans after hurricanes, tornadoes, heat waves, earthquakes and secondary chemical exposure.",
+      "doi": "10.22541/essoar.15009566/v1",
+      "authors": [
+        "Kimberley Rain Miner",
+        "Anika L. Dzierlenga"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7214684839",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214684839",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/12 key interest terms",
+      "tags": [],
+      "summary": "As the number and intensity of natural disasters grow across the world, the release of environmental microbes as a result of these disasters poses increasing risk. While some environmental microbes are frequently present in the human environment, others introduce rare illnesses, infections, or other secondary impacts.",
+      "added": false
+    }
+  ]
+}
