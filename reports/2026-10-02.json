@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-02",
+  "statistics": {
+    "fetched": 90,
+    "duplicates_removed": 88,
+    "evaluated": 2,
+    "added": 1,
+    "ignored": 1,
+    "average_score": 3.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Mapping potential global change impacts on biodiversity important areas of the contiguous US",
+      "abstract": "Global trends illustrate unprecedented declines in biodiversity. The main threats driving these trends include climate change, land- and sea-use change, pollution, over-exploitation, and invasive species. Strategic allocation of conservation resources is critical to address the drivers of biodiversity loss and safeguard biodiversity and its benefits to people. However, spatial assessments quantifying the relative potential impact of these drivers on important biodiversity areas are lacking at meaningful scales for national decision making. Here, we describe the distribution and intensity of the five main threats to biodiversity loss and their spatial overlaps with areas of relatively high terrestrial and freshwater biodiversity importance in the contiguous U.S. (CONUS). Proxies for each threat are based on publicly available spatial data considering both current and future projections when possible. We assess threat intensity in relation to protected area boundaries and biodiversity important areas, and quantify deviations in threat exposure between ecoregions and national scales. Overall, 41% of CONUS are areas of high conservation concern (i.e., medium-high biodiversity value and cumulative threat risk), concentrated along eastern and western coastal regions. Combined areas of highest threat intensity (90th percentile) also cover 40% of CONUS, and almost 20% are within current protected area network, leaving a significant amount of high threat intensity areas exempt from legislative protections. We found imperiled biodiversity exposure to individual and cumulative threats varies by geographic region and taxonomic group. We propose areas of low biodiversity importance but high threat intensity as candidates for policies aimed at preserving ecosystem intactness and human health. Our threat mapping assessment provides a baseline for conservation priorities across scales and could be used to develop spatially explicit guidance for mitigating threats to imperiled biodiversity in CONUS.",
+      "doi": "10.1016/j.scitotenv.2026.182318",
+      "authors": [
+        "Laura A. Nunes",
+        "Talia E. Niederman",
+        "Lindsay M. Dreiss"
+      ],
+      "year": 2026,
+      "journal": "The Science of The Total Environment",
+      "openalex_id": "W7214622828",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214622828",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 2/2 key interest terms (eastern, drivers)",
+      "tags": [
+        "Eastern",
+        "Drivers"
+      ],
+      "summary": "Global trends illustrate unprecedented declines in biodiversity. The main threats driving these trends include climate change, land- and sea-use change, pollution, over-exploitation, and invasive species.",
+      "added": true
+    },
+    {
+      "title": "Crowdsourcing in disaster management: A critical review of evidence, theory, and practice from digital volunteering to AI-augmented resilience",
+      "abstract": "Disasters are increasing in frequency and intensity due to climate change, urbanisation, and environmental degradation, challenging traditional emergency management systems. Crowdsourcing—the practice of generating actionable intelligence by mobilising distributed human contributions via digital platforms—has emerged as a transformative paradigm. However, the rapid integration of artificial intelligence has outpaced systematic evidence synthesis. Following PRISMA 2020, we conducted a systematic review of 92 peer-reviewed studies on crowdsourcing in disaster management (2015–2025). Data were extracted using a three-dimensional analytical framework—descriptive, relational, and configurational—and synthesised through frequency analysis, cross-tabulation, and fuzzy-set Qualitative Comparative Analysis (fsQCA). The literature concentrates on floods (27.2%), earthquakes (19.6%), and multi-hazard studies (23.9%), while preparedness (8.7%), mitigation (5.4%), and recovery (9.8%) remain under-studied. Research is geographically concentrated in Global North contexts (35.9% global studies), with Africa, South America, and Central Asia critically under-represented. Automated validation has more than doubled (22.2% to 43.2%), reflecting rapid AI integration. High success is reported in 52.1% of studies, with fsQCA revealing three configurational pathways characterised by multi-layered verification, phased authority integration, and adaptive governance. However, only 15% of studies address digital divide implications, and outcome attribution linking crowdsourcing to measurable disaster risk reduction remains weak. Critically, this review demonstrates that crowdsourcing limitations arise predominantly from institutional resistance, equity blind spots, and coordination failures—not from technological immaturity. Automation has advanced rapidly, yet integration remains predominantly partial, confirming that technology is not the limiting factor. We propose a ten-priority research agenda addressing methodological development, equity and inclusion, ethical AI frameworks, and translational research.",
+      "doi": "10.1016/j.pdisas.2026.100724",
+      "authors": [
+        "Ricardo Gacitúa",
+        "Michael Klafft",
+        "Carla Taramasco Toro"
+      ],
+      "year": 2026,
+      "journal": "Progress in Disaster Science",
+      "openalex_id": "W7214307365",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214307365",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/2 key interest terms",
+      "tags": [],
+      "summary": "Disasters are increasing in frequency and intensity due to climate change, urbanisation, and environmental degradation, challenging traditional emergency management systems.",
+      "added": false
+    }
+  ]
+}
