@@ -1,0 +1,575 @@
+{
+  "date": "2026-10-05",
+  "statistics": {
+    "fetched": 215,
+    "duplicates_removed": 191,
+    "evaluated": 24,
+    "added": 1,
+    "ignored": 23,
+    "average_score": 1.33
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Forest canopy height change due to demographic and allometric shifts",
+      "abstract": "Forest canopy height is sensitive to shifts in demography (which affect tree size distributions and abundances of short-vs. tall-statured species) and allometry. Demographic and allometric effects on canopy height have not previously been studied across a large region. We analyzed more than two million individual tree measurements from about 60,000 remeasured inventory plots in non-plantation forests across 19 ecoregions of the conterminous United States to quantify changes in aboveground live tree biomass (AGB), canopy height, and its demographic and allometric components from ~2003-2025. We tested the hydraulic limitation hypothesis, which predicts decreasing tree height with increasing hydraulic stress. AGB was strongly correlated with canopy height across ecoregions, and AGB change was strongly correlated with canopy height change over time. Canopy height change was positive in nearly all eastern ecoregions but varied in sign across western ecoregions. Demographic shifts led to increased canopy height in most eastern ecoregions but decreased canopy height in most western ecoregions. In contrast, allometric shifts, averaged across species, caused either positive or no significant change in ecoregion-mean canopy height. Our results were consistent with several predictions of the hydraulic limitation hypothesis: (i) intraspecific allometric shifts were more positive for understory than for canopy trees, (ii) across ecoregions, canopy height was positively correlated with precipitation and negatively correlated with vapor pressure deficit, and (iii) canopy height change over time was positively correlated with precipitation change. However, our results suggest modifications to the hydraulic limitation hypothesis, because allometric shifts tended to be positive, even in ecoregions with decreasing precipitation and increasing vapor pressure deficits. Such allometric shifts, which seem counter to the hydraulic limitation hypothesis, may be caused by CO2-driven increases in water-use efficiency. Whatever their cause, allometric shifts should be accounted for to avoid biased estimates of canopy height change and biomass change.",
+      "doi": "10.64898/2026.09.30.755816",
+      "authors": [
+        "Jeremy W. Lichstein",
+        "Michaela J. Woods",
+        "J. Aaron Hogan",
+        "Grant M. Domke"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7216041479",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216041479",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 51%: matched 5/10 key interest terms (states, united states, united, eastern, large)",
+      "tags": [
+        "States",
+        "United States",
+        "United",
+        "Eastern",
+        "Large"
+      ],
+      "summary": "Forest canopy height is sensitive to shifts in demography (which affect tree size distributions and abundances of short-vs. tall-statured species) and allometry. Demographic and allometric effects on canopy height have not previously been studied across a large region.",
+      "added": true
+    },
+    {
+      "title": "Workforce Challenges and Operational Realities in the Era of Extreme Wildfire",
+      "abstract": "This chapter examines the rapidly changing realities confronting the wildland firefighting workforce as climate change produces longer fire seasons, larger and more extreme wildfires, and increasingly complex operational demands. It considers how repeated exposure to intense heat, hazardous smoke, difficult terrain, long deployments, and unpredictable fire behavior affects the people responsible for protecting communities, ecosystems, and critical infrastructure. These environmental and operational pressures intersect with persistent workforce challenges, including difficulties in recruitment and retention, uneven access to training, staffing shortages, inadequate compensation, limited career pathways, and inconsistent institutional support.Drawing on research in wildland fire operations, human performance, occupational health, and workforce management, the chapter assesses the cumulative effects of these conditions on firefighters’ physical safety, mental health, job performance, family lives, and long-term career decisions. Particular attention is given to fatigue, injury, respiratory and cardiovascular risks, trauma, burnout, and the organizational cultures that may discourage personnel from seeking help. The discussion also considers how temporary employment structures, geographic disparities, and barriers affecting underrepresented groups can undermine workforce resilience and institutional knowledge.The chapter concludes by identifying evidence-based strategies for building a safer, stronger, and more sustainable workforce. These include competitive pay and benefits, clearer professional standards, expanded training and leadership development, improved health monitoring, accessible mental health services, predictable scheduling, and stronger pathways to permanent employment. It also highlights policy reforms needed to modernize workforce systems, strengthen accountability, and ensure that wildland firefighters receive resources and recognition commensurate with roles that are becoming more critical—and more demanding—each passing year.",
+      "doi": "10.5772/intechopen.1016655",
+      "authors": [
+        "Robin Verble",
+        "Jennifer Harrell",
+        "Matthew Thimgan"
+      ],
+      "year": 2026,
+      "journal": "IntechOpen eBooks",
+      "openalex_id": "W7215699415",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215699415",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 2/10 key interest terms (wildfire, wildfires)",
+      "tags": [
+        "Wildfire",
+        "Wildfires"
+      ],
+      "summary": "This chapter examines the rapidly changing realities confronting the wildland firefighting workforce as climate change produces longer fire seasons, larger and more extreme wildfires, and increasingly complex operational demands.",
+      "added": false
+    },
+    {
+      "title": "Rapid satellite assessment of the 2026 High Fens fire",
+      "abstract": "Climate change is altering fire regimes across Europe, contributing to longer periods of favorable fire weather. In August 2026, the High Fens nature reserve experienced one of the largest wildfires in Belgium's recorded history. This event is ecologically and biogeochemically significant because the fire affected a landscape dominated by carbon-dense peatlands, where prolonged smouldering can cause substantial carbon (C) loss and greenhouse-gas emissions. This study provides a rapid satellite-based assessment of the 2026 High Fens Fire and uses the pre-fire hydro-climatic conditions as an empirical benchmark for examining their occurrence across northern high latitudes. Using Sentinel-2 imagery, we mapped a 25.43 km² burn scar with substantial spatial heterogeneity in spectral severity. A regional analysis based on Visible Infrared Imaging Radiometer Suite (VIIRS) active fire detections indicated that the High Fens event was the only peatland-dominated cluster among the six largest fire clusters identified in our Western European VIIRS record between 2012 and 2026. To contextualize the severe hydro-climatic conditions preceding ignition, we combined anomalies in maximum air temperature, vapor pressure deficit, and surface soil moisture to define an empirical pre-fire benchmark. Upscaling this benchmark across the High Northern Latitudes (HNL) showed that comparable combinations of temperature, atmospheric dryness, and surface soil moisture occurred across a broad geographic footprint, particularly along the southern margins of the HNL, including parts of southern Canada, Europe, and Siberia. Intersecting this benchmark exceedance footprint with global peatland and Moderate Resolution Imaging Spectroradiometer (MODIS) MCD64A1 burned-area datasets identified ~253,000 km² of peatland with no MCD64A1-detected burned area during 2001–2025 and ~84,000 km² with detected burned area during the same period. The unburned peatland area contains an estimated 35.9 Gt C of soil organic carbon stock. An additional 10.1 Gt C was contained within peatland areas that had MCD64A1-detected burned area during 2001–2025. Translating this widespread meteorological exposure into reliable estimates of potential carbon emissions requires a precise understanding of belowground fire behavior. Because substantial uncertainty remains in estimating peat combustion and post-fire ecosystem recovery, the accessibility of the High Fens reserve and the availability of nearby peatland observations provide an opportunity for future field-based validation and long-term monitoring.",
+      "doi": "10.31223/x5622q",
+      "authors": [
+        "Dong Chen",
+        "Joanne Hall",
+        "Yanfei Li",
+        "Kristof Van Oost"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7215948548",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215948548",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 3/10 key interest terms (ignition, wildfires, occurrence)",
+      "tags": [
+        "Ignition",
+        "Wildfires",
+        "Occurrence"
+      ],
+      "summary": "Climate change is altering fire regimes across Europe, contributing to longer periods of favorable fire weather. In August 2026, the High Fens nature reserve experienced one of the largest wildfires in Belgium's recorded history.",
+      "added": false
+    },
+    {
+      "title": "Environmental impacts of development of railways in a road dominated infrastructure",
+      "abstract": "• Combines spatial modelling and scenario analysis to assess conversion risk in natural areas. • Shows how proposed railways may redistribute conversion risk in a road-dominated system. • Achieves 79 % model accuracy, with population and rail proximity as dominant predictors. • Identifies overlap between railway-associated risk and Key Biodiversity Areas. • Provides policy guidance for biodiversity-sensitive transport planning in developing economies. Railway infrastructure plays a pivotal role in economic development, with well-documented environmental implications. However, emerging global agreements, and environmental policies introduce new dimensions that must be considered. The expansion of Brazil’s railway network has the potential to transform landscapes. This study evaluates the environmental effects of railway expansion, focusing on landcover conversion risk driven by proximity to infrastructure, population density, and agricultural potential. Spatial analysis and Random Forest modelling identified population and proximity to railways as the strongest contributors to landcover conversion risk revealing relevant environmental impacts, with overlap between estimated conversion risk and ecologically sensitive regions, and threatened species. While scenario-specific analyses highlight variations in potential impacts, the primary finding is: railways function as major drivers of landscape transformation, amplifying anthropogenic pressures on natural habitats. These results underscore the urgent need for proactive conservation planning to mitigate ecological impacts and ensure that infrastructure development aligns with global biodiversity goals.",
+      "doi": "10.1016/j.trd.2026.105660",
+      "authors": [
+        "Vinicius Donisete Lima Rodrigues Goulart",
+        "William Costa",
+        "Rodrigo Affonso de Albuquerque Nóbrega"
+      ],
+      "year": 2026,
+      "journal": "Transportation Research Part D Transport and Environment",
+      "openalex_id": "W7215973331",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215973331",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/10 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "• Combines spatial modelling and scenario analysis to assess conversion risk in natural areas. • Shows how proposed railways may redistribute conversion risk in a road-dominated system. • Achieves 79 % model accuracy, with population and rail proximity as dominant predictors.",
+      "added": false
+    },
+    {
+      "title": "Human Recreation and Fire History Shape Landscape Connectivity for an Endangered Forest Carnivore",
+      "abstract": "ABSTRACT Habitat connectivity is critical for long‐term wildlife population persistence, yet the permeability of landscape features can vary with human activity and disturbance history. Characterizing landscape features influencing permeability is critical for landscape planning efforts, particularly for at‐risk species. We combined GPS telemetry from endangered southern Sierra Nevada fishers ( Pekania pennanti ) with high‐resolution human mobility data (HMD) to quantify how crossing probability of roads and trails changed with spatiotemporal variation in traffic volume and recreation intensity and wildfire history. Fisher crossing probability declined ~2.5× for roads and 3× for trails when comparing between low‐ and high‐human use periods for each feature. Surprisingly, both roads and trails were similar in permeability, with high‐use roads about as likely to be crossed as heavily recreated trails. Additionally, wildfire history modified these effects. Road‐crossing probability increased farther inside burn perimeters as time since fire increased, regardless of burn severity, whereas higher burn severity was associated with lower trail‐crossing probability. Incorporating temporally explicit HMD, which provided fine‐scale measures of human use across the study area, revealed patterns that would have been obscured using infrastructure alone or coarse proxies like day‐of‐week visitation. We found evidence that even within protected areas high‐use trails can impede fisher movement, suggesting that efforts to improve connectivity must address barriers within protected public lands as well as beyond. Our findings also highlight mitigation measures, such as targeted crossing structures, seasonal closures of trails, or quota systems that could be applied to both roads and heavily used trails in key habitats. Given projected increases in both recreation and wildfire in montane forests, connectivity planning should leverage high‐resolution animal GPS and human use metrics and fire history information to inform adaptive conservation strategies, including targeted seasonal trail closures, use limits, and crossing structure placement, especially for species sensitive to human activity and landscape disturbance.",
+      "doi": "10.1111/acv.70108",
+      "authors": [
+        "Mark A. Ditmer",
+        "Maksim Sergeyev",
+        "Helen E. Chmura",
+        "Jody M. Tucker",
+        "Gavin M. Jones",
+        "Kari Norman",
+        "Ronan Hart",
+        "Michael K. Schwartz",
+        "Andria M Townsend",
+        "Rebecca E. Green",
+        "Sarah L. Stock",
+        "George Wittemyer"
+      ],
+      "year": 2026,
+      "journal": "Animal Conservation",
+      "openalex_id": "W7218612708",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7218612708",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/10 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "ABSTRACT Habitat connectivity is critical for long‐term wildlife population persistence, yet the permeability of landscape features can vary with human activity and disturbance history.",
+      "added": false
+    },
+    {
+      "title": "Natural and artificial radionuclides in wood pellets and derived ashes",
+      "abstract": "This study presents a radiological assessment of wood pellets and their combustion ashes, with a focus on the activity concentrations of caesium-137 (Cs-137) and potassium-40 (K-40). A total of 23 commercial pellet samples and 16 corresponding ash samples from domestic appliances in Greece were analyzed using high-resolution gamma-ray spectrometry. The results reveal that K-40 activity concentrations in pellets (10-80 Bq/kg) are consistent with values typically reported for wood biomass. In contrast, Cs-137 levels show strong geographical dependence, ranging up to 60 Bq/kg in pellets from Eastern Europe, particularly Ukraine and Romania, reflecting the heterogeneous Chernobyl fallout distribution. Combustion resulted in an increased radionuclide concentration in the ash, with arithmetic mean activities of 2751 ± 40 Bq/kg for K-40 and 281 ± 5 Bq/kg for Cs-137, corresponding to average enrichment factors of 76 and 33, respectively. These values indicate radiological concerns for densely populated areas that burn pellets for heating and align with enrichment ranges reported in comparable European studies. From a regulatory perspective, this concentration effect is of particular significance. Although none of the analyzed pellet samples exceeded the exemption limit of 100 Bq/kg for Cs-137, several ash samples surpassed this threshold due to combustion-induced enrichment. This finding indicates that fuels considered radiologically safe at the point of use may produce ashes that warrant further regulatory consideration and scenario-specific assessment. Spatial mapping of Cs-137 activity, measured in pellets and the corresponding ash from different countries, is consistent with Chernobyl deposition models, underscoring the long-term persistence of radiocaesium in forest ecosystems.",
+      "doi": "10.1016/j.jenvrad.2026.108181",
+      "authors": [
+        "I. Kaissas",
+        "Κωνσταντίνος Μπίτος"
+      ],
+      "year": 2026,
+      "journal": "Journal of Environmental Radioactivity",
+      "openalex_id": "W7218912649",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7218912649",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/10 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "This study presents a radiological assessment of wood pellets and their combustion ashes, with a focus on the activity concentrations of caesium-137 (Cs-137) and potassium-40 (K-40).",
+      "added": false
+    },
+    {
+      "title": "SUSTAINABLE INFRASTRUCTURE PLANNING FOR REGIONAL TOURISM DEVELOPMENT IN SAUDI ARABIA: A FRAMEWORK FOR RESILIENT AND SAFE GIGA-PROJECT DELIVERY",
+      "abstract": "The growth of tourism in Saudi Arabia is taking place via a number of destinations spread across the region, and the success of these destinations relies on infrastructure systems that are reliable, ecologically compatible, safe when in operation, and capable of adapting afterwards. However, research in the field of tourism, studies in regional planning, and the literature on risk in large-scale projects are frequently regarded as separate areas of discussion. This review brings those different areas together and presents a lifecycle framework for the safe and resilient delivery of giga-projects. A structured integrative review was carried out using 30 peer-reviewed studies published between 2020 and 2025, all of which had resolvable digital object identifiers. The evidence was analysed according to six areas: regional accessibility, energy and water security, blue-green and heritage systems, construction safety and risk, governance and community value, and adaptive destination operations. The synthesis demonstrates that infrastructure should be planned as part of a interconnected regional service ecosystem rather than as a collection of separate project assets. In dry and coastal areas, ecological thresholds, heat exposure, the availability of water, the reliability of renewable energy, evacuation capacity, and the continuity of the supply chain must all be considered as design constraints before any capital is committed.",
+      "doi": "10.21474/ijar01/24207",
+      "authors": [
+        "Anandha Padmanaban Mohan"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Advanced Research",
+      "openalex_id": "W7218336021",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7218336021",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/10 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "The growth of tourism in Saudi Arabia is taking place via a number of destinations spread across the region, and the success of these destinations relies on infrastructure systems that are reliable, ecologically compatible, safe when in operation, and capable of adapting afterwards.",
+      "added": false
+    },
+    {
+      "title": "Antibiotic resistance from environmental hotspots to general public : transmission pathways, human colonization, and control strategies",
+      "abstract": "Antibiotic resistance has emerged as an urgent global health threat, increasingly outpacing our capacity to treat bacterial infections.More than 60% of resistant infections originate in community settings, underscoring non-clinical environments as critical reservoirs and dispersal routes for antibiotic-resistant bacteria (ARB) and antibiotic resistance genes (ARGs).The community transmission of ARB from environmental resistance hotspots to human populations poses a growing public health challenge.However, major knowledge gaps remain regarding the transmission pathways of ARB from environmental hotspots to the public, their colonization and health risks in humans, and feasible strategies to mitigate these risks.First, we investigated the local transmission pathways of ARB from environmental hotspots to human populations (Chapter 4).Using strain-resolved genomic analysis of >200 environmental and human samples collected from a county in Guangdong Province, China-including a large eco-farm and nearby towns-we examined the transmission potential of ARG hosts through PM2.5-mediated (other environmental matrices-PM2.5-human)and soil-mediated (other environmental matrices-soil-crop-human) pathways.We found that ARG hosts in PM2.5 frequently overlapped with those in environmental matrices, with chicken manure from the ecofarm serving as the dominant contributor.Notably, frequent sharing of ARG hosts occurred between town PM2.5 (1.5-4.5 km from the eco-farm) and eco-farm matrices, highlighting the central role of PM2.5 in transmitting ARG hosts.We also detected frequent sharing of ARG-carrying strains-including human pathogens such as Escherichia coli-among PM2.5, human skin, and human-associated living/working surfaces, underscoring the health risks of PM2.5-mediated transmission.Shared strains harbored enriched stress-response and DNA-repair traits likely promoting environmental adaptation, survival, and subsequent horizontal gene transfer of ARGs to non-shared members of the human skin microbiome.In contrast, limited sharing of ARG-carrying strains occurred along soil-mediated pathways.Nevertheless, consumption of crops or other foods still poses substantial public health risks, as III abundant ARG-carrying strains in crops may directly enter and potentially colonize the human gut.Therefore, further studies should examine the colonization potential and health impacts of foodborne ARB in the human gut.Second, guided by the findings of Chapter 4, we investigated the compartment-specific colonization and health risks of foodborne ARB under foodresidue-level antibiotics in a simulated human gut (Chapter 5).Foodborne ARB and food-residue-level antibiotics can disrupt gut homeostasis, yet their combined effects on compartment-specific colonization dynamics remain unclear.We isolated a ciprofloxacin (CIP)-resistant Staphylococcus aureus strain from edible fish components in an aquaculture environment and assessed exposure risks to luminal and mucosal microbiotas using the in vitro Mucosal Simulator of the Human Intestinal Microbial Ecosystem (M-SHIME; ProDigest, Belgium) under three treatments: S. aureus alone, food-residue-level CIP alone, and co-exposure to both.Food-residue-level CIP promoted S. aureus colonization and increased the relative abundance of ARG hosts in the mucosal microbiota while decreasing the absolute abundance of 16S rRNA genes in the luminal microbiota.Luminal and mucosal microbiotas exhibited distinct responses: luminal communities showed enhanced stress-tolerance potential and a tightly connected network with fewer nodes, whereas mucosal communities displayed greater resource-utilization potential and more complex networks with more nodes.To elucidate the mechanisms underlying these compartment-specific responses, we analyzed microbial interactions and enriched functions.Mucosal microbiota exhibited stronger positive cohesions (i.e., abundance-weighted positive correlations) and enriched functions related to biofilm formation and quorum sensing, indicating heightened communication and cooperation that may drive these responses.Despite these differences, continuous mucin shedding may facilitate the translocation of resistant mucosal biofilms and contribute to colonization resistance in the lumen.Our findings demonstrate that food-residue-level antibiotics can facilitate S. aureus colonization and pose compartment-specific risks to gut microbial communities, highlighting the critical role of the intestinal mucosa in ARB colonization.Given the substantial effects of foodborne ARB on gut microbiota composition and function, IV implementing measures to reduce ARB in ready-to-eat foods is essential for safeguarding gut health.Third, informed by the findings of Chapter 5, we assessed the effects of cooking methods on ARB in raw foods-the last line of defense before consumption (Chapter 6).Steaming is a widely used method for sterilizing food worldwide; however, its effectiveness may be compromised by the ubiquitous presence of ARGs and ARB in food and tap water.Using metagenomic sequencing, quantitative PCR, plate culture, and Sanger sequencing, we examined the effects of steam cooking on antibiotic resistance profiles in cooked fish, tap water, and indoor air in real cooking environments (a canteen and a home kitchen) and a controlled laboratory chamber.While steam cooking eliminated more than 92.0% of bacteria and ARGs in both tap water and fish, it significantly increased the absolute abundance of bacteria and ARGs in indoor PM2.5 across all settings.Tap water was identified as the primary contributor, transferring 14.6% of bacteria and 33.2% of ARGs into indoor PM2.5 during steaming.This process also increased the relative abundance of certain putative human pathogens in PM2.5, which carried ARGs and heat-shock proteins and originated mainly from tap water.Plate culture experiments confirmed the viability of heat-resistant ARBspecifically Bacillus cereus-transferred from water to indoor PM2.5 via water vapor.Our results indicate that although steaming effectively reduces foodborne ARG and ARB exposure, the cross-media transport of ARB and ARGs may pose inhalation-related microbial risks to cooking personnel.Collectively, this comprehensive study integrates ARB transmission pathways from environmental hotspots to the public, intestinal colonization dynamics, and feasible control strategies to reduce foodborne ARB exposure.Our findings provide important insights into the risks of community-associated ARB transmission to public health and related populations.In addition, we highlight potential intervention strategies to reduce ARB exposure during environmental transmission and prior to human exposure, aligned with a One Health perspective.",
+      "doi": null,
+      "authors": [
+        "Zehua Yan"
+      ],
+      "year": 2026,
+      "journal": "PolyU Institutional Research Archive (Hong Kong Polytechnic University)",
+      "openalex_id": "W7217671995",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7217671995",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/10 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Antibiotic resistance has emerged as an urgent global health threat, increasingly outpacing our capacity to treat bacterial infections.More than 60% of resistant infections originate in community settings, underscoring non-clinical environments as critical reservoirs and dispersal routes for antibiotic-resistant bacter…",
+      "added": false
+    },
+    {
+      "title": "ASSESSMENT OF DROUGHT SEVERITY IN NORTHERN NIGERIA USING MULTI-INDEX DROUGHT INDICATORS (1980–2023)",
+      "abstract": "Drought is one of the most persistent climate-related hazards affecting Northern Nigeria, with significant implications for agricultural productivity, water resources, ecosystem stability, and food security. Despite increasing drought occurrence, most previous studies have relied on single drought indices, limiting comprehensive understanding of drought dynamics under changing climatic conditions. Therefore, this study assessed the temporal, seasonal, and spatial characteristics of drought in Northern Nigeria from 1980 to 2023 using a multi-index approach. Monthly hydro-climatic variables, including precipitation, maximum and minimum temperature, potential evapotranspiration, actual evapotranspiration, soil moisture, and runoff, were obtained from the TerraClimate dataset (approximately 4-km spatial resolution), while observed rainfall and temperature records from the Nigerian Meteorological Agency were used for validation. Drought conditions were evaluated using the Palmer Drought Severity Index (PDSI), Standardized Precipitation Index (SPI), Standardized Precipitation Evapotranspiration Index (SPEI), and Evaporative Demand Drought Index (EDDI). Data were analysed using descriptive statistics, frequency analysis, temporal trend analysis, seasonal analysis, spatial mapping, comparative analysis, and Pearson correlation implemented in Python and ArcGIS 10.4. The findings revealed pronounced temporal and spatial variability in drought severity, with severe drought conditions occurring during the early 1980s and intensifying again after 2020. Near-normal conditions were the dominant drought class, although recurrent moderate-to-extreme drought events were observed throughout the study period. Spatial analysis identified persistent drought hotspots across the northwestern and southern parts of Northern Nigeria, while EDDI showed that increasing atmospheric evaporative demand significantly intensified drought conditions. The study concludes that integrating multiple drought indices provides a more reliable assessment of drought dynamics than a single indicator. It is recommended that multi-index drought monitoring be incorporated into national drought early warning systems to strengthen climate adaptation, agricultural planning, and sustainable water resource management in Northern Nigeria.",
+      "doi": null,
+      "authors": [
+        "R.B. Raji",
+        "J.K. Aremu",
+        "A. Umar",
+        "O.A. Oluwole",
+        "A. Amao",
+        "B.B. Mustapha"
+      ],
+      "year": 2026,
+      "journal": "Science World Journal",
+      "openalex_id": "W7216847661",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216847661",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/10 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Drought is one of the most persistent climate-related hazards affecting Northern Nigeria, with significant implications for agricultural productivity, water resources, ecosystem stability, and food security.",
+      "added": false
+    },
+    {
+      "title": "When climate risk affects the systemic risk of the insurance sector: ∆CoVaR forecasting",
+      "abstract": "Climate change is increasingly recognized as a potential source of financial instability, yet its implications for systemic risk in the insurance sector remain insufficiently understood. This study combines a Copula–DCC–GARCH framework with the ∆CoVaR measure to examine whether climate-related catastrophic events are associated with insurers’ contributions to systemic risk. Using weekly data for the ten largest global insurers over the period 2004–2024, we compare ∆CoVaR estimates across catastrophe and non-catastrophe periods under normal and crisis market conditions. The results indicate that catastrophe occurrence exhibits only a limited association with insurers’ systemic-risk contributions during normal market conditions but is associated with substantially stronger contributions during periods of financial stress. The analysis also reveals considerable heterogeneity across globally significant insurers, indicating that the magnitude of this association differs markedly across companies. To assess the robustness of these findings and provide a forward-looking perspective, we employ Generalized Additive Models for Location, Scale and Shape (GAMLSS). The scenario-based forecasting framework shows how insurers’ expected systemic-risk contributions evolve under alternative market and catastrophe conditions and consistently identifies the crisis–catastrophe scenario as being associated with the strongest deterioration in forecasted ∆CoVaR. Overall, the findings demonstrate that the relationship between climate-related catastrophic events and insurers’ systemic-risk contributions is strongly state-dependent. By combining dynamic systemic-risk measurement with scenario-based forecasting, the proposed framework provides a forward-looking assessment that extends previous descriptive evidence and offers potentially useful insights for climate-sensitive systemic-risk monitoring.",
+      "doi": "10.1007/s00477-026-03350-8",
+      "authors": [
+        "Anna Denkowska",
+        "Maciej P. Denkowski",
+        "Stanisław Wanat",
+        "Valentina Lorenzoni"
+      ],
+      "year": 2026,
+      "journal": "Stochastic Environmental Research and Risk Assessment",
+      "openalex_id": "W7218494370",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7218494370",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/10 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Climate change is increasingly recognized as a potential source of financial instability, yet its implications for systemic risk in the insurance sector remain insufficiently understood.",
+      "added": false
+    },
+    {
+      "title": "Land-cover-specific network reconfiguration and spatial trajectories govern abrupt vegetation regime shifts across global drylands",
+      "abstract": "In drylands, abrupt vegetation changes may signal declining resilience and regime shifts, yet global assessments have largely focused on greenness trends while overlooking the role of spatial organization. Here we analyzed 15,898 1-km² landscape units across global drylands (aridity index < 0.65) using 30-m land cover and NDVI time series. We quantified multidimensional spatial structure via landscape metrics, patch co-occurrence networks, semivariogram-based indicators, and texture features, then examined associations with abrupt NDVI step shifts using PCA, XGBoost, and correlation networks. Spatial structure consistently resolved into two orthogonal axes: fragmentation–connectivity and configurational complexity/interspersion. Associations were strongly state-dependent: increasing fragmentation and complexity were more consistently linked to negative steps (abrupt browning) than to positive steps (abrupt greening). Positive steps were explained by fewer predictors, dominated by stable contiguity, whereas negative steps involved broader predictors including area proportion and fragmentation trajectories. Regime-dependent rewiring of correlation networks further indicated coordinated spatial breakdown under browning versus constrained reorganization under greening. We conclude that dynamic, land-cover-specific spatial structure provides mechanistic and predictive information on abrupt vegetation change beyond static fragmentation or mean greenness. Browning and greening represent distinct modes of spatial reorganization, supporting a shift from static assessments toward trajectory- and network-informed monitoring of dryland vulnerability and resilience.",
+      "doi": "10.32942/x2497m",
+      "authors": [
+        "Yu Peng"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7216328442",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216328442",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/10 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "In drylands, abrupt vegetation changes may signal declining resilience and regime shifts, yet global assessments have largely focused on greenness trends while overlooking the role of spatial organization.",
+      "added": false
+    },
+    {
+      "title": "Dust Loading Increases During Topsoil Flash Droughts Under Rapid Surface Drying and Vegetation Stress",
+      "abstract": "Abstract Using satellite‐derived dust optical depth (DOD), reanalysis meteorology, and a global topsoil flash drought (TSFD) inventory for 2003–2022, we find that TSFD events are associated with increased dust loading at the global scale. During TSFD events, 44.7% of land pixels exhibited positive DOD anomalies. The net global DOD anomaly increased significantly over the study period; however, this trend cannot be attributed solely to TSFD‐related effects, as changes in background environmental conditions may also have contributed. Compound TSFD–strong dust (TSFD_SD) events occurred most frequently under sparse vegetation and moderately elevated wind conditions. SHapley Additive exPlanation (SHAP) analysis showed that DOD variability during TSFD events was more strongly associated with soil moisture, background aridity, and vegetation state than with wind speed. These relationships are consistent with a mechanism in which rapid topsoil drying and vegetation stress increase surface erodibility and may enhance dust loading, although the observational analyses do not establish causality.",
+      "doi": "10.1029/2026gl124553",
+      "authors": [
+        "Xuesong Wang",
+        "Chunlai Zhang",
+        "Xi Chen"
+      ],
+      "year": 2026,
+      "journal": "Geophysical Research Letters",
+      "openalex_id": "W7203726638",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7203726638",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract Using satellite‐derived dust optical depth (DOD), reanalysis meteorology, and a global topsoil flash drought (TSFD) inventory for 2003–2022, we find that TSFD events are associated with increased dust loading at the global scale. During TSFD events, 44.7% of land pixels exhibited positive DOD anomalies.",
+      "added": false
+    },
+    {
+      "title": "Hazard hexagons: the influence of anthropogenic climate change on extremes in regions globally",
+      "abstract": "Abstract The sixth assessment report (AR6) of the Intergovernmental Panel on Climate Change (IPCC) presented regional summaries of the scientific knowledge of changing weather extremes and the human influence upon this. The hexagon figures, found in the Summary for Policymakers (SPM), were a key part of this presentation. They provided clear visual overviews of this understanding on three hazard types (hot extremes, heavy precipitation and agricultural and ecological drought) for policymakers, scientists and communicators alike. We have shown that since 2021, when AR6 was published, there has been a rapid advancement in knowledge of changing extremes on the timescale of individual years, with a greater than doubling in the number of extreme event and trend attribution studies coupled with advances in methodologies, rising levels of anthropogenic forcing, and a growing sample of manifested extreme events. The coming seventh assessment report (AR7) is an opportunity to update and iterate these figures, expand to other hazard types and, we argue, to facilitate more regular updates in line with this rapidly advancing field of knowledge. To this end, we have updated the AR6 hexagons in several ways: we have added evidence levels to the figures to provide additional information without sacrificing visual clarity; we have built on the AR6 regional synthesis process with a step-by-step procedure and accompanying expert guidance and discussion; we have applied this to six illustrative regional case studies for heavy precipitation; we have updated the evidence tables and figures directly for hot extremes and heavy precipitation.",
+      "doi": "10.1088/2752-5295/aeaf75",
+      "authors": [
+        "Ben J. Clarke",
+        "Luke James Harrington",
+        "Theodore Keeping",
+        "Marc Alessi",
+        "Peter Thorne",
+        "Friederike E. L. Otto"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Climate",
+      "openalex_id": "W7216542511",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216542511",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract The sixth assessment report (AR6) of the Intergovernmental Panel on Climate Change (IPCC) presented regional summaries of the scientific knowledge of changing weather extremes and the human influence upon this.",
+      "added": false
+    },
+    {
+      "title": "Behavioral Financial Responses to War Threat and Geopolitical Uncertainty",
+      "abstract": "While war and geopolitical instability reconfigure household economic behavior, the psychological mechanisms underlying conservative online spending and financial planning in conflict-affected economies remain insufficiently understood. Drawing mainly on Protection Motivation Theory (PMT), this study examines whether threat appraisal (perceived vulnerability and severity) of war and geopolitical uncertainty, accompanied by coping appraisal (financial self-efficacy and response efficacy), is associated with online conservative spending, and whether coping appraisal is related to financial planning in Lebanon. Based on survey data from 262 relatively active Lebanese online consumers, perceived war threat vulnerability, rather than its severity or broader geopolitical instability, is found to be significantly related to online conservative spending. Perceived war severity and both geopolitical threat dimensions show no significant association. Regarding coping appraisal, the findings indicate a positive association between financial self-efficacy and both conservative online spending and financial planning, while financial response efficacy is strongly associated with financial planning but not with conservative online spending. These findings indicate that perceived personal vulnerability to war, rather than perceived threat severity or broader geopolitical instability, is associated with online consumption restraint in the present sample. Moreover, spending restraint is positively associated with perceived financial capability, while structured financial planning is more strongly associated with beliefs in the effectiveness of financial strategies. The study provides context-specific empirical evidence on the differential relevance of PMT components in a prolonged instability context, with vulnerability and severity, as well as the two coping-appraisal components, exhibiting different associations across behavioral outcomes. From a supplementary prospect-theory perspective, the observed association may be consistent with heightened sensitivity to potential financial losses; however, loss aversion was not directly measured. Practically, the results underscore the importance of reducing actual household financial vulnerability through financial safety nets, access to reliable financial information, emergency liquidity mechanisms, and financial literacy initiatives, while strengthening both financial capability and confidence in financial strategies in fragile, low-trust economies.",
+      "doi": "10.1016/j.jbef.2026.101268",
+      "authors": [
+        "Nada Jabbour Al Maalouf",
+        "Dina Fattouh"
+      ],
+      "year": 2026,
+      "journal": "Journal of Behavioral and Experimental Finance",
+      "openalex_id": "W7216049683",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216049683",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "While war and geopolitical instability reconfigure household economic behavior, the psychological mechanisms underlying conservative online spending and financial planning in conflict-affected economies remain insufficiently understood.",
+      "added": false
+    },
+    {
+      "title": "Gratitude to nature, environmental stewardship, and well-being in 10 countries",
+      "abstract": "Abstract People may feel grateful to nature for its provisions, as both anecdotal accounts and emerging research evidence suggest. The present study further explores this experience—referred to as gratitude to nature—by examining its relationships with other nature-related constructs, environmental stewardship, psychological well-being, and physical health across 10 countries from both the Global North and Global South. We assessed the Gratitude to Nature Scale’s measurement invariance and construct validity across these diverse social contexts and observed consistently positive associations between gratitude to nature and experience with nature, nature connectedness, and anthropomorphism of nature. Our findings also reveal that individuals who possessed stronger gratitude to nature were more likely to engage in various forms of pro-environmental behaviors and that stronger gratitude was significantly linked to both hedonic and eudaimonic well-being, and to self-reported physical health to a lesser degree. Overall, these results encourage future research to investigate the potential of interventions based on gratitude to nature for fostering ecological stewardship and promoting well-being. This research contributes to the emerging relational discourse on human-nature relationships by emphasizing the affective connection between people and the natural world. It also echoes recent calls for cross-cultural studies in the study of human–environment relationships.",
+      "doi": "10.1038/s41598-026-73988-5",
+      "authors": [
+        "Kim‐Pong Tam",
+        "Hoi‐Wing Chan",
+        "Gewei Chen"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7218634887",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7218634887",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract People may feel grateful to nature for its provisions, as both anecdotal accounts and emerging research evidence suggest. The present study further explores this experience—referred to as gratitude to nature—by examining its relationships with other nature-related constructs, environmental stewardship, psychol…",
+      "added": false
+    },
+    {
+      "title": "Investigation of Framework Conditions for AI-Driven Population Warning and Preparedness Systems in Digital-Generation Crisis Communication",
+      "abstract": "A tanulmány egy helyi telepítésű (on-premise), mesterséges intelligencia alapú polgári védelmi lakosság tájékoztató és felkészítő rendszer megvalósíthatósági keretfeltételeit vizsgálja, különös tekintettel a digitálisan aktív Y és Z generációk specifikus válságkommunikációs igényeire, valamint az online oktatási modellek tesztkörnyezeti implementációjára. A rendszer illeszkedik a Magyarország Mesterséges Intelligencia Stratégiája 2025–2030 célkitűzéseihez, amelyek az AI-alkalmazások közszolgálati és katasztrófavédelmi kiterjesztését prioritásként jelölik meg, ugyanakkor a tudomány és a technológia oly gyorsan fejlődik, hogy a stratégia egyes elemei már a kidolgozásuk pillanatában is folyamatos frissítést igényelnek.",
+      "doi": "10.61790/vt.2026.24029",
+      "authors": [
+        "Tamás Szalóki"
+      ],
+      "year": 2026,
+      "journal": "Védelem Tudomány a Katasztrófavédelem online szakmai tudományos folyóirata",
+      "openalex_id": "W7216420573",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216420573",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "A tanulmány egy helyi telepítésű (on-premise), mesterséges intelligencia alapú polgári védelmi lakosság tájékoztató és felkészítő rendszer megvalósíthatósági keretfeltételeit vizsgálja, különös tekintettel a digitálisan aktív Y és Z generációk specifikus válságkommunikációs igényeire, valamint az online oktatási modell…",
+      "added": false
+    },
+    {
+      "title": "Strategic science is needed to mitigate warming-induced emissions and bioclimate feedbacks effectively and efficiently",
+      "abstract": "Abstract Not in Perspective articles.",
+      "doi": "10.1088/1748-9326/aeafc0",
+      "authors": [
+        "Brian J. Buma",
+        "Pascal H. J. Badiou",
+        "Sheel Bansal",
+        "Irena Creed",
+        "Meredith A. Holgerson",
+        "Robert B. Jackson",
+        "Sara Knox",
+        "Danielle R. Monteverde",
+        "Emily A. Ury",
+        "Zhen Zhang"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7219027449",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219027449",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract Not in Perspective articles.",
+      "added": false
+    },
+    {
+      "title": "Promoción de la actividad silvopascícola mediante el uso de vallados virtuales como base al control del desarrollo del estrato arbustivo de sotobosque",
+      "abstract": "En los últimos años se está dando una tendencia al abandono rural que promueve la matorralización de pastos y sotobosques, lo que, junto con el cambio climático, aumenta el riesgo de incendios. En este contexto, el objetivo de este estudio es promover la adopción de prácticas silvopascícolas para el control del desarrollo del estrato arbustivo de sotobosque mediante el uso de vallados virtuales que atraigan al sector ganadero. Este ensayo se realizó en dos ecosistemas forestales en Orozko (Pinus radiata) (Bizkaia) y en Jauregi (Quercus faginea) (Araba), donde se introdujeron vacas Terreñas y ovejas Sasiardi, respectivamente, en otoño de 2023 y 2024. Los muestreos se realizaron en parcelas de pastoreo y control (estas últimas delimitadas mediante vallados virtuales). En cada parcela se analizó la cantidad de biomasa, la cobertura de los grupos funcionales de vegetación, y su relación con la actividad del ganado durante el periodo de pastoreo. El ganado vacuno redujo la biomasa de helecho y evitó el desarrollo de la argoma (Ulex gallii), por fricción mecánica. Su actividad se correlacionó positivamente con la cobertura de gramíneas y graminoides, y negativamente con el musgo. El ganado ovino redujo la cobertura de zarzas y especies arbustivas, aunque su actividad se correlacionó positivamente con estos grupos, lo cual indica su capacidad de alimentarse de esta vegetación. En conclusión, el silvopastoralismo en combinación con el uso de vallados virtuales es una práctica con un alto potencial para el control de la matorralización del sotobosque, lo que permite reducir el riesgo de incendio.",
+      "doi": "10.7818/ecos.3148",
+      "authors": [
+        "Ainhoa Urkijo",
+        "Andrea Martinez-Arribas",
+        "Lucía Varela‐Castro",
+        "Ibone Ametzaga-Arregi",
+        "Isabel Albizu"
+      ],
+      "year": 2026,
+      "journal": "Ecosistemas",
+      "openalex_id": "W7216254283",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216254283",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "En los últimos años se está dando una tendencia al abandono rural que promueve la matorralización de pastos y sotobosques, lo que, junto con el cambio climático, aumenta el riesgo de incendios.",
+      "added": false
+    },
+    {
+      "title": "An ontology for cross-sectoral crisis management: core and public health modules",
+      "abstract": "This paper presents the European Crisis Management Ontology (ECMO), a modular OWL-based ontology intended as a cross-sectoral reference for disaster risk reduction and response. ECMO is designed to be organised as a network of ontological modules. Among the modules, ECMO-CORE captures fundamental crisis management concepts such as hazard, event, exposure, impact, and response measure and uses ontology design patterns and the OWL2 punning technique to resolve ambiguities between hazard types and event manifestations. In addition, domain-specific modules are defined as in the case of the public health module aligned with SNOMED CT and ICD-11. To demonstrate the resource's utility, we used ECMO to represent the data of the Epidemic Intelligence from Open Sources system of the Joint Research Centre to generate an end-to-end pipeline that populates an ECMO-compliant knowledge graph from unstructured epidemiological news. Initial results demonstrate that ECMO provides the formal guardrails necessary for consistent and unified knowledge representation and integration. The ontology is publicly available at https://doi.org/10.5281/zenodo.20070268 and is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.",
+      "doi": "10.48550/arxiv.2610.01326",
+      "authors": [
+        "A. Gamgemi",
+        "Rita T. Sousa",
+        "Luigi Asprino",
+        "Giorgia Lodi",
+        "Andrea Giovanni Nuzzolese",
+        "Valentina Presutti",
+        "Johannes Gysen",
+        "Diana Sousa",
+        "Luigi Spagnolo"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7215932665",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215932665",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "This paper presents the European Crisis Management Ontology (ECMO), a modular OWL-based ontology intended as a cross-sectoral reference for disaster risk reduction and response. ECMO is designed to be organised as a network of ontological modules.",
+      "added": false
+    },
+    {
+      "title": "Assessing power system vulnerability to climate-related stressors and shocks: The case of Indonesia",
+      "abstract": "Climate change and extreme weather are increasing the vulnerability of power systems globally, particularly in emerging economies such as Indonesia. Yet, existing studies often assess these impacts in isolation, focusing on individual components or specific hazards, leaving system-level implications under-examined. To address this gap, we develop an integrated, spatially explicit approach to assess an energy system's climate-related vulnerabilities and their impacts, and apply the approach to Indonesia. We quantify climate-based vulnerabilities in generation and transmission infrastructure as well as in demand by distinguishing stressors (temperature rise) and shocks (disruptive hazards due to sea-level rise, flooding, and landslides). Through geospatial data analysis, derating models, and regression analysis, we examine existing and planned assets and demand under historical and future climate conditions. Results indicate that both existing and planned generation are likely to experience stress, which implies a reduction in usable capacity, even as electricity demand increases due to temperature rise, and transmission assets face potential disruption from climate change-induced shocks. Together, these effects erode reserve margins by up to 36 percentage points under the 10-year plan, indicating a substantial reduction in system resilience. The largest system, Jawa-Madura-Bali, experiences a 20.8 percentage point decline, leaving a remaining margin of 26.5%, below the 10-year planning threshold. Importantly, the findings suggest that a growing share of future capacity expansion may be absorbed by climate-induced losses, implying that adaptation-related investments may increasingly be required simply to maintain existing supply levels rather than meet future requirements. We conclude that there is an urgent need to embed climate considerations more explicitly into power sector planning.",
+      "doi": "10.1016/j.esd.2026.102147",
+      "authors": [
+        "Hariadi Aji",
+        "Nihit Goyal",
+        "Stefan Pfenninger",
+        "Igor Nikolic"
+      ],
+      "year": 2026,
+      "journal": "Energy Sustainable Development/Energy for sustainable development",
+      "openalex_id": "W7163643452",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7163643452",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Climate change and extreme weather are increasing the vulnerability of power systems globally, particularly in emerging economies such as Indonesia. Yet, existing studies often assess these impacts in isolation, focusing on individual components or specific hazards, leaving system-level implications under-examined.",
+      "added": false
+    },
+    {
+      "title": "Resilience of centralized and distributed energy systems to grid outage in winter: a district-scale assessment in Colorado, USA",
+      "abstract": "This study evaluates the thermal resilience of a district composed of seventeen buildings located in Colorado (USA) during a 36-hour winter power outage. The thermal performance of each building was simulated using EnergyPlus combined with MATLAB®. Three winter scenarios were investigated. The first corresponds to a baseline case where power comes from the grid. The second considers a decentralized photovoltaic (PV) system operating with and without storage. Finally, the third scenario evaluates a centralized district-level configuration based on shared PV generation, with and without storage. The results show that if PV generation alone delays the decrease in indoor temperature following the power outage, the integration of storage extends the metric as much as 16 h, depending on the building. In addition, the recovery time indicates reductions of up to 69 % when PV generation is combined with storage. Furthermore, the centralized strategy is capable of sustaining the prioritized buildings for nearly the entire 36-hour outage period. Overall, the results suggest that coordinated energy-sharing strategies can substantially improve district thermal resilience while simultaneously reducing storage requirements.",
+      "doi": "10.1016/j.enconman.2026.122220",
+      "authors": [
+        "Amaru González",
+        "Corey M. James",
+        "Sylvie Lorente"
+      ],
+      "year": 2026,
+      "journal": "Energy Conversion and Management",
+      "openalex_id": "W7219046796",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219046796",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "This study evaluates the thermal resilience of a district composed of seventeen buildings located in Colorado (USA) during a 36-hour winter power outage. The thermal performance of each building was simulated using EnergyPlus combined with MATLAB®. Three winter scenarios were investigated.",
+      "added": false
+    },
+    {
+      "title": "Index",
+      "abstract": "a aboveground biomass (AGB) 167, 167-168, 245 accuracy assessment 144, 183, 187, 187t acoustic monitoring integration 24 acquisition strategy 255 active sensors 200 adaptive capacity 492, 493t Adoption Readiness Index (ARI) 520 aerial photography 6, 8 agriculture stress index system (ASIS) 565 agroforestry 59-60 airborne platforms 140-141 air-borne systems 36, 36t airborne visible/infrared imaging spectrometer (AVIRIS) 228-229 ALOS-2 257, 418t Amazon droughts 234 Amazon Web Services (AWS) 634, 824 Amazonian Carbon Economy 405 ArcGIS 534, 698 artificial intelligence (AI) 43, 44, 45, 104, 143-144, 169, 210-211, 229, 231, 279, 344, 424, 445-448, 448t, 625, 824 advantages/disadvantages 567t-570t algorithms, advancements in 601 climate governance 721-724 techniques 721 atmospheric scattering 477 autonomous systems 18 b backscatter 159 Bayesian theory 582-583 B. dorsalis 508, 511, 516 biodiversity 101-102, 239, 344, 765-766, 832.see also forest ecosystem services AI and ML applications in 565 assessment acoustic monitoring integration 24 hyperspectral remote sensing 23-24 structural diversity and species richness relationships 23 case studies for 421 cultural services 804-805 defining 801 Earth observation, definition 416-417 as foundation of ecosystem stability 768-769 Landsat, Sentinel, NOAA's AVHRR 418-419 LiDAR 419-420 mapping 43 mapping forest cover and fragmentation dynamics 773 MODIS 419 overview 794 provisioning services 801-803 regulating services 803-804 SAR 420 scope and limitations 424-425 supporting services 805 837 Earth Observation for Forest Monitoring and Climate Action, Volume 2, First Edition.Edited by Pavan Kumar, A. K.",
+      "doi": "10.1002/9781394416578.index",
+      "authors": [
+        "Pavan Kumar",
+        "Prof. A. K. Singh",
+        "Joseph Onyango Gweyi",
+        "Prof. Manmohan Dobryiyal",
+        "Manish Srivastav",
+        "Dr. Meenu Rani"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7215961156",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215961156",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "a aboveground biomass (AGB) 167, 167-168, 245 accuracy assessment 144, 183, 187, 187t acoustic monitoring integration 24 acquisition strategy 255 active sensors 200 adaptive capacity 492, 493t Adoption Readiness Index (ARI) 520 aerial photography 6, 8 agriculture stress index system (ASIS) 565 agroforestry 59-60 airbor…",
+      "added": false
+    },
+    {
+      "title": "AI-Driven Workforce Analytics Models for Enhancing Organizational Efficiency, Employee Wellbeing, and Governance Compliance",
+      "abstract": "This review explores the transformative impact of AI-driven workforce analytics on organizational performance, employee wellbeing, and governance compliance within health systems and business intelligence frameworks. As healthcare institutions and corporate enterprises grapple with evolving labor dynamics, data-driven insights are increasingly essential for proactive human resource management. AI models enable granular analysis of workforce trends, skill gaps, productivity patterns, and burnout risks, facilitating precision in workforce planning and policymaking. By integrating behavioral analytics, sentiment detection, and predictive modeling, organizations can optimize talent management strategies and reduce turnover rates while ensuring regulatory adherence. The study synthesizes current methodologies and applications across health systems and business enterprises, highlighting how AI enhances decision support, transparency, and ethical compliance in workforce governance. The review further examines case studies demonstrating measurable outcomes, outlines implementation challenges, and proposes a framework for ethical, resilient, and adaptable workforce analytics in the AI era. This work contributes to a deeper understanding of how artificial intelligence can elevate strategic workforce initiatives while promoting operational excellence and employee-centric cultures.",
+      "doi": "10.56201/wjimt.v9.no9.2025.pg71.96",
+      "authors": [
+        "Ajao Ebenezer Taiwo"
+      ],
+      "year": 2026,
+      "journal": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+      "openalex_id": "W7215974712",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215974712",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "This review explores the transformative impact of AI-driven workforce analytics on organizational performance, employee wellbeing, and governance compliance within health systems and business intelligence frameworks.",
+      "added": false
+    },
+    {
+      "title": "Building blocks for 3D fuelbeds: object-centered scanning and meshing protocol",
+      "abstract": "Abstract Background Accurate modeling of wildland fuelbeds requires knowledge of not only where fuels are in three-dimensional (3D) space but also what they are. In this study, we introduce an object-based scanning protocol designed to generate detailed three-dimensional mesh models of individual fuel particles (e.g., seedlings, shrubs, litter, and cones) using an industrial-grade laser scanner. While traditional terrestrial laser scanning (TLS) or photogrammetric approaches tend to require objects to be segmented from broader-scope environment-level point clouds, our approach begins with the object itself. Results By scanning discrete plant parts in controlled conditions and capturing their morphology, surface area, and volume at sub-millimeter precision, we create a methodological foundation for fuel characterization that is structurally explicit and ecologically specific. We also propose a flexible workflow to adapt the scanning process for the extensive natural range of variation in fuel object structures, classifying individual objects based on their structural complexity. Conclusions Digital twins of wildland fuel plants and particles serve as building blocks for future integration with machine learning techniques to improve wildland fuelbed classification and simulation. Our approach shifts the basis of 3D fuels modeling from environmental scanning toward object-driven understanding with implications for fire behavior, emissions, and ecological modeling.",
+      "doi": "10.1186/s42408-026-00573-6",
+      "authors": [
+        "Iris C. Mire",
+        "Jessie Thoreson",
+        "Susan J. Prichard",
+        "Michael R. Gallagher",
+        "Matthew M. Patterson",
+        "Nicholas S. Skowronski"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7216535593",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216535593",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract Background Accurate modeling of wildland fuelbeds requires knowledge of not only where fuels are in three-dimensional (3D) space but also what they are.",
+      "added": false
+    }
+  ]
+}
