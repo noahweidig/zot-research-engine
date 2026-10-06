@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-06",
+  "statistics": {
+    "fetched": 204,
+    "duplicates_removed": 190,
+    "evaluated": 14,
+    "added": 2,
+    "ignored": 12,
+    "average_score": 1.57
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Cutting through the noise: What can habitat selection modeling teach us about caribou‐fire space use dynamics?",
+      "abstract": "Abstract Wildfire is the dominant natural stand‐replacing disturbance across the boreal forest biome. Woodland caribou ( Rangifer tarandus caribou ) have historically persisted on such landscapes but are generally associated with old‐growth and mature conifer forest. In contrast, migratory barren‐ground caribou ( R. t. groenlandicus and R. t. granti ) have had less exposure to wildfire, with this disturbance agent primarily affecting forested areas of their winter range. It has long been assumed that wildfires reduce caribou habitat quality, leading to management strategies that aim to limit the proportion of disturbed habitat (<40 years) within caribou ranges. However, habitat selection studies reveal varying responses to fire by caribou subspecies and ecotype, season, forest type, region, and post‐fire successional stages. While some caribou habitat analyses embrace this 40‐year management cut‐off value, its applicability across ecological and management contexts and caribou populations remains less well understood. We conducted a review of peer‐reviewed and grey literature to synthesize caribou space use behavior in post‐fire environments, focusing on caribou subspecies and ecotypes, including migratory barren‐ground and woodland caribou, represented by both the sedentary and montane ecotypes. We further examined these responses only for sedentary caribou in relation to seasonality, forest type, and location (i.e., ecoregion and jurisdiction) because of insufficient studies across all caribou subspecies and ecotypes. We reviewed the published and unpublished literature ( n = 5,002) and found 50 relevant habitat selection studies published between 2000–2024. From these studies, we evaluated a suite of characteristics, such as sampling and methodological approach, and present post‐fire habitat selection trends. Our review revealed substantial methodological discrepancies undermining cross‐model results comparison if left unaddressed. To improve comparability, we recommend that researchers evaluating habitat selection carefully adjust their selection coefficients to account for differences in sampling ratios, reference categories and data centering. Despite an increasing number of habitat selection studies, migratory and montane caribou remain understudied relative to sedentary caribou. Overall, caribou subspecies and ecotypes exhibited different habitat selection trends. Migratory caribou generally selected older post‐fire habitats (>55 years) or habitats with no known recent fire history, whereas sedentary and montane caribou showed highly variable responses across post‐fire successional stages. The greatest variability occurred in response to early (0–20 years) to intermediate (21–28 years) post‐fire habitats at both the population (within population range) and individual (within individual home range) scales. Sedentary caribou responses further varied by region and dominant stand type, with seasonality exerting a relatively modest influence on space use patterns. Our synthesis highlights substantial variation in caribou responses to fire, with some studies reporting weak effects, emphasizing the value of regionally tailored habitat management strategies.",
+      "doi": "10.1002/jwmg.70287",
+      "authors": [
+        "Geneviève É. Degré‐Timmons",
+        "Jack Graham Hendrix",
+        "Eliot J. B. McIntire",
+        "Steven G. Cumming",
+        "Jennifer L. Baltzer",
+        "Allicia Kelly",
+        "James Hodson",
+        "Eliane Grant",
+        "Tyler D. Rudolph",
+        "Julie W. Turner"
+      ],
+      "year": 2026,
+      "journal": "Journal of Wildlife Management",
+      "openalex_id": "W7220444991",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220444991",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 50%: matched 2/4 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfire is the dominant natural stand‐replacing disturbance across the boreal forest biome. Woodland caribou ( Rangifer tarandus caribou ) have historically persisted on such landscapes but are generally associated with old‐growth and mature conifer forest. In contrast, migratory barren‐ground caribou ( R. t.",
+      "added": true
+    },
+    {
+      "title": "Heather management modifies climate sensitivity of surface peat moisture in UK upland peatlands",
+      "abstract": "Abstract. UK upland peatlands are important carbon stores, often dominated by heather, and are increasingly threatened by climate change, which promotes peat drying and wildfire risk. While water table depth (WTD) is often monitored to assess peatland hydrology, many key ecohydrological processes depend on surface peat moisture (SPM), which directly regulates surface carbon cycling, vegetation dynamics and peat fire risk, yet SPM remains poorly understood. We analysed seasonal SPM measurements under unmanaged, mown and burnt heather over 12 consecutive years post management from three replicated deep peat sites, together with measurements over five weeks of wet to dry conditions at a shallow peat site spanning three years post management. Across the deep peat sites, climate primarily controlled SPM, while heather management buffered moisture losses, particularly during warm and dry conditions. This buffering effect was strongest soon after management and weakened during vegetation recovery as heather height increased. After excluding low-rainfall events, SPM was strongly related to WTD, and the relationship remained relatively stable when the water table was within ~35 cm of the peat surface. At the shallow peat site, management substantially increased SPM during the first year after treatment relative to old heather, while mowing maintained higher SPM three years post-management, particularly under very dry conditions. Overall, heather management increased SPM across both peatland types, creating wetter near-surface conditions and reducing the sensitivity of surface-moisture to climatic drying. While mowing generally produced more consistent increases in SPM than burning, retained brash may increase wildfire risk under future climate change. The relative benefits of management types are likely to depend on site-specific conditions and time since management.",
+      "doi": "10.5194/egusphere-2026-4967",
+      "authors": [
+        "Bing Liu",
+        "Andreas Heinemeyer",
+        "Anthony Lloyd Jones",
+        "Tom Holmes",
+        "Milly Outhwaite"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7220395910",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220395910",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 50%: matched 2/4 key interest terms (burning, wildfire)",
+      "tags": [
+        "Burning",
+        "Wildfire"
+      ],
+      "summary": "Abstract. UK upland peatlands are important carbon stores, often dominated by heather, and are increasingly threatened by climate change, which promotes peat drying and wildfire risk.",
+      "added": true
+    },
+    {
+      "title": "Bi-Objective Stochastic–Fuzzy Humanitarian Logistics Network Design under Disruptions with Equity Considerations: A Benders Decomposition Approach",
+      "abstract": "Efficient relief logistics management following earthquakes is crucial for reducing human suffering and economic losses, particularly in megacities such as Tehran that are exposed to high seismic risk. This study develops a bi-objective stochastic–fuzzy humanitarian logistics network design model to support post-earthquake relief operations by simultaneously minimizing response time and total operational costs while incorporating equity considerations in aid distribution. The model explicitly captures uncertainty in both primary and secondary demand as well as potential disruptions affecting facilities, vehicles, and transportation routes. To address uncertainty, a hybrid stochastic–possibilistic framework combined with scenario-based modeling is employed, while a Benders decomposition algorithm is developed to efficiently solve large-scale instances. The proposed model is applied to a real-world case study of Tehran using geographic and demographic data. Computational results demonstrate that the model can significantly improve relief network performance by balancing response time and operational costs under disruption scenarios while maintaining equitable distribution of relief supplies among affected areas. In addition, the Benders decomposition approach substantially reduces computational time compared with direct optimization, making the framework suitable for large-scale disaster planning problems. The proposed framework provides practical decision support for policymakers and disaster management authorities to design resilient and efficient humanitarian logistics networks.",
+      "doi": "10.1016/j.rico.2026.100837",
+      "authors": [
+        "Ali Heidari",
+        "Mahsa Ahmadi",
+        "Sasan Mazaheri",
+        "Fariborz Jolai",
+        "Mohammad Khalilzadeh"
+      ],
+      "year": 2026,
+      "journal": "Results in Control and Optimization",
+      "openalex_id": "W7219763486",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219763486",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 1/4 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Efficient relief logistics management following earthquakes is crucial for reducing human suffering and economic losses, particularly in megacities such as Tehran that are exposed to high seismic risk.",
+      "added": false
+    },
+    {
+      "title": "Trend Analysis in Fertilizer Consumption by Field Crops and its Determinants in Lesotho",
+      "abstract": "Inorganic fertilizer was introduced to farmers in the past century by the government to replenish nutrients absorbed by crops grown in the fields. The fertilizer consumption rate has not yet been determined since then. The study was therefore undertaken to: (i) establish the growth rate at which inorganic fertilizer is applied by farmers, (ii) determine the trend in the consumption of inorganic fertilizer by farmers, (iii) disaggregate different types of fertilizer nutrients applied in the country in general and in particular by districts, and (iv) determine factors influencing fertilizer consumption. The study used time-series data obtained from FAOSTAT Fertilizer by Nutrient and AfricaFertilizers IFDC. Data on total fertilizer nutrients and their composition covered the period from 1994 to 2024, while data on consumption covered the period from 2014 to 2025. Microsoft Excel was used to capture data, after which it was analyzed using the Statistical Package for Social Sciences (SPSS) to calculate mean, variance, standard deviation, annual and compounded growth rates, trendlines, linear regression analysis, and instability index. Results revealed that the mean fertilizer consumption over 30 years was 5,700 tons, with minimum and maximum consumption rates of 3,500 tons and 7,800 tons, respectively. The growth rate in consumption increased steadily, with a mean growth rate of 9.3%. The compounded annual growth rate was 64.5%, with the highest and lowest rates of consumption being 17.1% and 4.4%, respectively. The mean nitrogen consumption was 3,892 tons, with a minimum consumption of 3,310 tons and a maximum of 4,350 tons. Phosphorus consumption recorded a mean of 1,431 tons, with a maximum of 1,580 tons and a minimum of 1,190 tons. The mean potassium consumption was 1,036 tons, with the lowest consumption of 850 tons and the highest consumption of 1,301 tons, respectively. The trend in nitrogen, phosphorus, and potassium consumption expressed modest growth over the period under study. Nitrogen was trending at a higher level than the latter two, which were at slightly different levels. Large quantities of fertilizer were distributed to Berea, followed by Maseru district, while the districts with the lowest quantities were Mokhotlong and Qacha's Nek districts, respectively. Consumption of fertilizer is influenced by fragmented fields, prohibitive costs, ineffective input subsidy policy, lack of institutional support, and inaccessibility by highlands farmers. It is recommended that fertilizer programmes be established by the government, funded by donors and development agencies, in the Southern and highlands regions where the application rate is too low due to inaccessibility and unaffordability.",
+      "doi": "10.25125/ijoear-sep-2026-31",
+      "authors": [
+        "Motlatsi Eric Morojele",
+        "Motanyane Stanislaus Motake"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Environmental and Agriculture Research",
+      "openalex_id": "W7220371099",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220371099",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 1/4 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Inorganic fertilizer was introduced to farmers in the past century by the government to replenish nutrients absorbed by crops grown in the fields. The fertilizer consumption rate has not yet been determined since then.",
+      "added": false
+    },
+    {
+      "title": "Incorporating Multiple Bands and Land Cover Improves Cross-Sensor Normalization",
+      "abstract": "The Landsat archive and the Harmonized Landsat and Sentinel-2 (HLS) 2.0 virtual constellations enable monitoring of long-term and rapid environmental change with optical imagery, but differences in sensor design and atmospheric correction algorithms require cross-sensor normalization to ensure consistent observations. This study evaluates methods for such normalization using two global datasets: Landsat ETM+/OLI and HLS 2.0. We compared linear regression approaches and machine learning models, with and without land-cover information. For ETM+/OLI cross-sensor normalization, the XGBoost models produced the largest improvement over no normalization, reducing RMSD by 15.6%, while multiple linear regression performed best for HLS 2.0, reducing RMSD by 6.7%. Incorporating land cover further improved performance, with RMSD reductions of 20.6% for ETM+/OLI and 7.6% for HLS 2.0 compared to no cross-sensor normalization. Our results highlight the benefits of models that integrate multiple bands and landcover data, which outperformed traditional band-to-band linear regression models. This study provides practical cross-sensor normalization guidance which can benefit downstream applications such as NDVI trend analysis, land cover change detection, and generative pretrained transformer models. Building on these results, we have updated the LEOHS Python package to support XGBoost cross-sensor normalization models.",
+      "doi": "10.1016/j.rsase.2026.102305",
+      "authors": [
+        "Galen Richardson",
+        "Anders Jensen Knudby",
+        "Elisha Richardson",
+        "Koreen Millard",
+        "Wenjun Chen"
+      ],
+      "year": 2026,
+      "journal": "Remote Sensing Applications Society and Environment",
+      "openalex_id": "W7219038247",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219038247",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "The Landsat archive and the Harmonized Landsat and Sentinel-2 (HLS) 2.0 virtual constellations enable monitoring of long-term and rapid environmental change with optical imagery, but differences in sensor design and atmospheric correction algorithms require cross-sensor normalization to ensure consistent observations.",
+      "added": false
+    },
+    {
+      "title": "Lake sediments uncover glacier change on the Kerguelen Islands during the past 1500 years",
+      "abstract": "Climate change is driving the rapid retreat of glaciers across the sub-Antarctic zone. Using continuous lake sediment-based records of past glacier changes, the recent trends can be evaluated in a long-term context. Here, we analyse sediments from two glacier-fed lakes: Lake Athéna II and Lake Héra, located downstream the Chamonix Glacier on the sub-Antarctic Kerguelen Islands in the Indian Southern Ocean. Lake Héra is a threshold lake for the adjacent outlet glacier: the Agassiz Glacier, but has been solely receiving meltwater runoff from the Chamonix Glacier since the Agassiz Glacier retreated from its maximum extent. Based on distinct changes in grain-size and sediment density, we argue this transition occurred around 495 CE. After this, the glaciogenic sediments in both lakes are solely derived from the Chamonix Glacier. By tracking multi-decadal to centennial changes in incoming clastic sediments, we suggest the Chamonix Glacier retreated close to its current extent between 600 and 750 CE, primarily advanced between 750 and 1600 CE, before gradually retreating towards present-day. The glacier trends documented here are in line with mean annual air temperature and sea surface temperature records that indicate colder late Holocene temperatures, reflecting a negative Southern Annular Mode-like state in the Indian Southern Ocean. Conversely, phases of more positive Southern Annular Mode-like conditions, including gradually more positive anomalies after ∼1600 CE and until present-day, are in line with a decrease in activity at the Chamonix Glacier.",
+      "doi": "10.3389/feart.2026.1877993",
+      "authors": [
+        "Jarle Børve Sleire",
+        "Jostein Bakke",
+        "Fabien Arnaud",
+        "Willem G. M. van der Bilt"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Earth Science",
+      "openalex_id": "W7216395345",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7216395345",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "Climate change is driving the rapid retreat of glaciers across the sub-Antarctic zone. Using continuous lake sediment-based records of past glacier changes, the recent trends can be evaluated in a long-term context.",
+      "added": false
+    },
+    {
+      "title": "Changes in natural forest fragmentation and their driving factors across Japan from 1985 to 2022",
+      "abstract": "Forest fragmentation reduces biodiversity and ecological function. However, some regions now show signs of defragmentation, a recovery process in which forest cover becomes more continuous. Defragmentation owing to the recovery of natural forests is especially important because natural forests generally support higher biodiversity than planted forests. Despite this, most previous studies into forest defragmentation have not distinguished natural forests from planted forests, leaving natural forest defragmentation insufficiently understood. This study provides the first nationwide assessment of changes in natural forest fragmentation in Japan from 1985 to 2022 and identified the factors promoting fragmentation dynamics. Using annual land cover maps, we quantified long-term changes in landscape metrics and evaluated the effect of site factors and land use factors using Bayesian spatial regression models implemented through INLA-SPDE framework. Across Japan, natural forests became less fragmented, while the proportion of natural forests showed a slight increase. Although the number of small, isolated patches increased after 2000, simultaneous increases in area and spatial aggregation metrics suggest that this trend was consistent with ongoing defragmentation. Bayesian spatial regression analysis showed that defragmentation was promoted by clear-cutting and occurred most readily in remote areas with high elevation, steep slopes, and low population density. In these areas, conversion from planted forests to natural forests following clear-cutting was strongly associated with natural forest defragmentation. This study provides the first nationwide evidence that natural forests in Japan are undergoing defragmentation and highlights the potential role of conversion from planted forests to natural forests following clear-cutting in natural forest defragmentation.",
+      "doi": "10.1016/j.ecolind.2026.115525",
+      "authors": [
+        "Ryoko Norishige",
+        "Tetsuji Ota",
+        "Nobuya Mizoue"
+      ],
+      "year": 2026,
+      "journal": "Ecological Indicators",
+      "openalex_id": "W7215040415",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215040415",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "Forest fragmentation reduces biodiversity and ecological function. However, some regions now show signs of defragmentation, a recovery process in which forest cover becomes more continuous.",
+      "added": false
+    },
+    {
+      "title": "Social Technology: An Interdisciplinary Approach in Psychosocial Attention to Vulnerable Populations in the Urban Context of RJ/Brazil",
+      "abstract": "That`s a historic description of primary health care activities from 2008 to 2025 dedicated to ethnicities located in an urban context in Rio de Janeiro, Brazil, based on the National Health Policy (NHP). Due to the pluralistic constitution of the country, it was specifically separated as Comprehensive Health Care. For this qualitative description over time, the Instrumental Case Study (Stake, 1995) was adopted. A collective and cooperative construction of knowledge was carried out through the Traditional Knowledge from their territories by Intelectual Property and Rights, a strictu sensu post graduation discipline, at Instituto Nacional de Propriedade Industrial (INPI/Ministry of Economy of Brazil) besides Environmental Health, Parasitology, Bioethics Project from Imunne Parasitology and Toxicological Analysis Laboratory of Pharmacy Faculty of Federal University of Rio de Janeiro (UFRJ) and several intersectorial partners. In parallel, intercultural health education was developed for undergraduate students by the Laboratory for Studies of Aging Processes of the Postgraduate Program in Psychosocial Care of the Institute of Psychiatry of the University of Brazil of the Federal University of Rio de Janeiro (UFRJ), in an intersectoral, interuniversity, and interdisciplinary partnership. During pandemic, the work to multidimensional health has developed turned into a qualitative research on Covid-19, authorized by the National Research Commission (CONEP). After, methodology of intergenerational meetings was adopted. As a result, this experience represents the potential of an innovative, simple, inexpensive, and efficient educational practice to address complex health content that is significant to their cultures. Intercultural cooperation correspond to a contemporary global demand to peoples of movement across territories but also regarding climatic related changes and geological instabilities (tectonic plate slippages). National Public Health seeks to create conditions for access to healthcare considering the sociocultural and epidemiological specificities of the Brazilian plural population. Extensive material produced collaboratively are available by the public university. Ethnic leaders and people under vulnerability felt respected and empowered in an urban environment as Rio de Janeiro. Young people advanced towards academic training, aware of their leadership roles in the 21st century. As conclusion, implementation of Public Policies requires intersectoral actions aimed at mitigating prejudice of anthropic features, fear in the face of different cultures and clinical situations that are not yet well understood in epidemiology as climatic changes in human beings. This represents one of the roles played by psychosocial care to multidimensional health and autonomy. Environmental ethics, environmental bioethics, environmental technologies were employed to recovery and preventing of harm. Social technology evoked an active posture of citizenship and as an effective dimension of human rights (dignity). Listening, ethic, respect, empathy, solidarity and valorization of “others” knowledge and abilities are foundational and structuring concepts to a continuous construction to reduce assimetries to Brazilian Health, perhaps a world healthy, with more peaceful and cooperatively society, moving Global Health into the potent One Health conception.",
+      "doi": null,
+      "authors": [
+        "Márcia Cristina Braga Nunes Varricchio",
+        "Marcelo Vacite",
+        "Gustavo Vieira Cezar da Silva",
+        "Julienn Scott Murray Breder",
+        "Fabíola de Araújo Sant’Ana",
+        "Tatyana Nunes Miyashiro",
+        "Liane Costa Cavalcanti",
+        "Patrícia Guimarães Musmanno",
+        "Aryane da Silva Cazumbá",
+        "André Vinicius Wendling da Silva",
+        "Sandra Ávila Gaspar",
+        "Jordânia da Silva Cler",
+        "Bárbara Monique Leal dos Santos",
+        "Solange da Silva Malfacini",
+        "Simone da Silva",
+        "Celso Luiz Salgueiro Lage",
+        "Alexandre dos Santos Pyrrho",
+        "J. Da Silva"
+      ],
+      "year": 2026,
+      "journal": "OWL Journal",
+      "openalex_id": "W7220031254",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220031254",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "That`s a historic description of primary health care activities from 2008 to 2025 dedicated to ethnicities located in an urban context in Rio de Janeiro, Brazil, based on the National Health Policy (NHP). Due to the pluralistic constitution of the country, it was specifically separated as Comprehensive Health Care.",
+      "added": false
+    },
+    {
+      "title": "Ecosystem Complexity and Climate Adaptation in Oman: Climate-Water-Ecosystem Nexus",
+      "abstract": "This study examines the relationships among climate variability, water-related variables, and vegetation dynamics across the Sultanate of Oman. Using six decades of climatic and hydrological data, the study evaluates long-term climate variability patterns, identifies the main climatic and ecohydrological factors associated with native vegetation dynamics, and proposes a Climate–Water–Ecosystem framework to explore interactions, trade-offs, and synergies within arid environments. The findings indicate a general decline in vegetation cover across many regions of Oman, despite localized increases in vegetation health (NDVI) in some governorates. Significant associations were identified between vegetation dynamics and climatic and hydrological variables. NDVI was most strongly associated with maximum and minimum temperatures and total precipitation, whereas vegetation cover was more strongly associated with evapotranspiration, soil moisture, and total evaporation. The proposed Climate–Water–Ecosystem framework integrates empirical findings to illustrate direct and indirect interactions among climate variability, water availability, and vegetation responses, providing a conceptual basis to support ecological restoration, revegetation planning, and sustainable water management in arid and semi-arid environments.",
+      "doi": "10.1016/j.nexus.2026.100866",
+      "authors": [
+        "Sara Al Naabi",
+        "Meshal Abdullah",
+        "Rabi H. Mohtar",
+        "Yassine Gharabi",
+        "Midhun Mohan",
+        "Waad Ali"
+      ],
+      "year": 2026,
+      "journal": "Energy Nexus",
+      "openalex_id": "W7219731959",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219731959",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "This study examines the relationships among climate variability, water-related variables, and vegetation dynamics across the Sultanate of Oman. Using six decades of climatic and hydrological data, the study evaluates long-term climate variability patterns, identifies the main climatic and ecohydrological factors associ…",
+      "added": false
+    },
+    {
+      "title": "How Intergenerational Injustice Impacts Young People's Mental Health: A Qualitative Study",
+      "abstract": "INTRODUCTION: Emerging adulthood is a significant period of developmental transition, and recent increases have been observed in mental health diagnoses and service use among people at this stage of life. Coinciding with these increases is a perceived decrease in young people's quality of life across advanced economies such as the UK, on account of rising economic, social and political precarity. The disparity between the relative stability experienced by previous generations and the instability with which younger generations contend is known in policy spaces as 'intergenerational injustice'. Despite its importance, no study has examined how intergenerational disparities are subjectively impacting young people's mental health. To address this gap, our study sought to understand (1) how intergenerational injustice is subjectively experienced by young people in the UK? and (2) how intergenerational inequities impact young people's mental health. METHODS: A qualitative descriptive approach was used. 18 young people participated in semi-structured interviews addressing the research questions. Interviews were transcribed verbatim and analysed using reflexive thematic analysis to generate themes and patterns from the data. RESULTS: Our analysis generated three interrelated themes: (1) political abandonment, (2) greater precarity around the means to support one's existence and potential, and (3) limited opportunities for living a full, healthy life. DISCUSSION: This is the first qualitative study to explore how intergenerational injustice subjectively impacts young people's lives and mental health. Governments, policymakers, and researchers should better address intergenerational inequalities, given the importance of emerging adulthood for life trajectories, including mental health diagnoses.",
+      "doi": "10.1111/eip.70273",
+      "authors": [
+        "Gerald Jordan",
+        "Sophie Webb",
+        "Beckye; id_orcid 0009-0008-9047-5785 Williams",
+        "Catrin Street-Mattox",
+        "Emma Černis",
+        "Stephanie Burnett Heyes"
+      ],
+      "year": 2026,
+      "journal": "Early Intervention in Psychiatry",
+      "openalex_id": "W7219754360",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219754360",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "INTRODUCTION: Emerging adulthood is a significant period of developmental transition, and recent increases have been observed in mental health diagnoses and service use among people at this stage of life.",
+      "added": false
+    },
+    {
+      "title": "Research Network on Economic Experiments for the Common Agricultural Policy (REECAP)",
+      "abstract": "This study presents the first results of an ongoing survey designed to assess how Greek farm advisors perceive and experience different \"soft\" behavioural interventions-nudges-aimed at addressing biases that influence farmers' decisionmaking when considering the adoption of sustainable practices.To this end, eight distinct cognitive and behavioural biases were used to shape eight corresponding behavioural intervention approaches aimed at mitigating them.The biases examined include Optimism Bias, Confirmation Bias, Ambiguity Aversion, Risk/Loss Aversion, Present Bias, Cognitive Limitations, Trust/Reciprocity, and Social Comparison.For each bias, a specific nudge scenario was developed using a Green Nudge identification procedure to ensure alignment with nudge theory principles, emphasising soft and non-monetary motivational mechanisms.A key feature of the survey is the integration of these nudge-based advisory practices as subtle interventions designed to encourage more sustainable behaviours.The survey aims to explore how Greek farm advisors evaluate these nudges in terms of efficacy, efficiency, and ethical acceptability, and-most importantly-whether they are willing to adopt such approaches in their advisory practice to promote sustainable farming.Methodologically, the study employs a structured online questionnaire administered through a secure EU survey platform.The instrument incorporates attitudinal scales, scenario-based items, and examples of nudge-informed advisory practices.Responses are collected anonymously to enhance openness and reduce social desirability bias.The expected results include: (1) mapping the prevalence and types of perceived biases among Greek farm advisors; (2) identifying areas where biases may influence advisory behaviour; (3) assessing advisors' openness to nudge-based tools; and (4) detecting patterns that could inform targeted training and policy interventions.Preliminary findings are expected to highlight both strengths and gaps in the current advisory system, providing evidence-based guidance to improve fairness, inclusiveness, and trust in agricultural support services.",
+      "doi": null,
+      "authors": [],
+      "year": 2026,
+      "journal": "Repository of the University of Ljubljana (University of Ljubljana)",
+      "openalex_id": "W7219922517",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219922517",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "This study presents the first results of an ongoing survey designed to assess how Greek farm advisors perceive and experience different \"soft\" behavioural interventions-nudges-aimed at addressing biases that influence farmers' decisionmaking when considering the adoption of sustainable practices.To this end, eight dist…",
+      "added": false
+    },
+    {
+      "title": "Grizzly bear habitat use modelling in the syilx territory of British Columbia - exploration, experience, and reflection",
+      "abstract": "Agent-based modelling (ABM) is a thriving approach in ecological research to study interactions between individual organisms and their surrounding environments. Recreating system functions that lead to meaningful emergent patterns relies heavily on the modelling of key ecological mechanisms within the studied system. The process-centric nature of ABM determines that these models often do not reflect quantitative empirical knowledge as correlative models do, considerably limiting their application in applied situations. This dissertation presents a hybrid approach combining ABM with correlative methods to effectively expand the applicable boundaries of existing empirical knowledge. This method leverages the empirical accuracy of correlative approaches and the robustness of mechanistic approaches in the predictive modelling of habitat use patterns. Application examples in complex socioenvironmental contexts were provided to support grizzly bear conservation in British Columbia, Canada. Grizzly bear Ursus arctos is a species of great conservation interest in the southern region of British Columbia for both the Syilx Okanagan First Nation and the provincial government. The Syilx community represented by Okanagan Nation Alliance (ONA) is particularly interested in road management in the Syilx territory to address threats related to human presence in grizzly bear habitats, with the long-term goal of population recovery. The gaps in grizzly bear presence data pose substantial hurdles to conservation in the Kettle-Granby and Okanagan Highland areas (study areas). This research addressed these conservation concerns using the hybrid data-driven ABM approach while facilitating Indigenous involvement and knowledge input in the process. Hybrid ABMs were developed for the study areas using grizzly bear movement data collected across the regions to predict potential grizzly bear habitat use. Based on these “baseline” models, additional implementations were developed with modified road features and road-related mortality risks to evaluate the effectiveness of hypothetical road management. The results supported ONA’s conservation decisions in these areas with important quantitative insights. In a reflection of these modelling efforts with Indigenous involvement, success and challenges due to epistemological barriers and the complex political reality of present-day Canada were identified. Suggestions for future western science researchers were provided to support better collaboration across different knowledge systems in environmental research.",
+      "doi": "10.14288/1.0456493",
+      "authors": [
+        "Yiduo Zhang"
+      ],
+      "year": 2026,
+      "journal": "cIRcle (University of British Columbia)",
+      "openalex_id": "W7215743844",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7215743844",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "Agent-based modelling (ABM) is a thriving approach in ecological research to study interactions between individual organisms and their surrounding environments. Recreating system functions that lead to meaningful emergent patterns relies heavily on the modelling of key ecological mechanisms within the studied system.",
+      "added": false
+    },
+    {
+      "title": "Future of edge AI in biodiversity monitoring",
+      "abstract": "Abstract Many ecological decisions are slowed by the gap between collecting and analysing biodiversity information. Edge computing moves data processing closer to the sensor, with edge artificial intelligence (AI) using AI models for data processing and selective data transfer. edge AI extends the scope of biodiversity monitoring by complementing retrospective ecological analysis with real‐time sensing, enabling responsive and adaptive decision‐making. However, the adoption of edge AI systems in ecological research remains fragmented because deploying efficient and reliable systems is complex. Edge hardware, on‐device AI models and network configuration are tightly linked, such that optimising any one component shapes the performance and feasibility of the others, demanding holistic system design. For the uptake of edge AI in biodiversity monitoring, it is essential to understand the design trade‐offs, performance constraints and implementation challenges faced by current systems. Here, we analyse 82 studies published between 2017 and 2025 that use edge AI systems for biodiversity monitoring across acoustic, vision‐based, tracking and multi‐modal sensing. We synthesise hardware platforms, AI model optimisation and wireless communication to assess how these design choices influence ecological inference and determine the practicality and longevity of field deployments. Annual publications rise moderately from 3 in 2017 to 19 in 2025. Across these studies, we identify four system types that represent distinct patterns of edge computing adoption in ecological monitoring. These include low‐power microcontrollers (MCUs) for single‐taxon or rare‐event detection ( Type I: TinyML ), single‐board computers (SBCs) supporting multi‐species classification and real‐time alerts ( Type II: edge AI ), distributed systems coordinating processing across multiple devices ( Type III: Distributed edge AI ) and network‐connected devices for cloud processing ( Type IV: Cloud AI ). Each type illustrates different trade‐offs among power consumption, computational capability and communication requirements. Our analysis reveals the evolution of edge AI systems from proof‐of‐concept to robust, scalable tools. We argue that edge AI systems enable timely and scalable ecological observations, but realising their full potential depends on closer collaboration between ecologists, engineers and data scientists to align AI model development and system design with ecological needs and field realities.",
+      "doi": "10.1111/2041-210x.70414",
+      "authors": [
+        "Aude Vuilliomenet",
+        "Kate E. Jones",
+        "Duncan Wilson"
+      ],
+      "year": 2026,
+      "journal": "Methods in Ecology and Evolution",
+      "openalex_id": "W7220430633",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220430633",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "Abstract Many ecological decisions are slowed by the gap between collecting and analysing biodiversity information. Edge computing moves data processing closer to the sensor, with edge artificial intelligence (AI) using AI models for data processing and selective data transfer.",
+      "added": false
+    },
+    {
+      "title": "Equitable and Consistent Support in New Zealand Law for Defence Force and Emergency Services Personnel: Regimes of Scientific Recognition and an Expanded Conceptual Framework",
+      "abstract": "This paper examines why historical and current protections have not consistently provided early recognition, diagnosis, treatment, return to service, or whole-of-life care for military and emergency services personnel affected by service-related psychological and physical harm. It applies Dmitry Nikolaenko’s three regimes of scientific recognition—Accompanying Science, Warning Science, and Critical Reconstruction—to New Zealand Defence Force and emergency services contexts. The analysis considers psychological trauma, moral injury, cumulative occupational stress, cancers, and other chronic conditions associated with repeated exposure to toxins, toxic environments, and temperature-related stressors. Evidence is drawn from New Zealand legislation, operational arrangements, official reports, published research, compensation processes, and existing health data systems. The paper argues that Nikolaenko’s model remains applicable when attention shifts from environmental contamination to human health, but that Critical Reconstruction does not by itself specify what must happen after institutional non-recognition has been identified. Two further regimes are therefore proposed. Critical Practice addresses immediate protection, monitoring, data preservation, redress, and operational change. Critical Regeneration redesigns the relationship between scientific inquiry, governance responsibility, law, occupational health, and operational practice so that future harm is recognized and acted on earlier. Together, the five regimes form the Nikolaenko-Alexander Model. Applied to New Zealand law and practice, the model identifies fragmented records, inconsistent legal coverage, high burdens of proof, and the absence of integrated long-term monitoring. It provides a framework for more equitable recognition, support, and precautionary governance.",
+      "doi": "10.66659/8vjw4853",
+      "authors": [
+        "Rex Alexander",
+        "Samuel Mann"
+      ],
+      "year": 2026,
+      "journal": "Pollution and Diseases",
+      "openalex_id": "W7218892900",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7218892900",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/4 key interest terms",
+      "tags": [],
+      "summary": "This paper examines why historical and current protections have not consistently provided early recognition, diagnosis, treatment, return to service, or whole-of-life care for military and emergency services personnel affected by service-related psychological and physical harm.",
+      "added": false
+    }
+  ]
+}
