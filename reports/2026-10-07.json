@@ -1,0 +1,659 @@
+{
+  "date": "2026-10-07",
+  "statistics": {
+    "fetched": 194,
+    "duplicates_removed": 166,
+    "evaluated": 28,
+    "added": 1,
+    "ignored": 27,
+    "average_score": 1.39
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Predictive Modeling Techniques for Forecasting Emergency Department Overcrowding and Resource Needs in United States Public Hospitals",
+      "abstract": "In the United States, emergency department congestion stealthily undermines the safety net of public hospitals for uninsured, underinsured, and medically complex populations, and the use of forecasting tools is limited where it is desired most. This research article proposes and tests a set of predictive modeling techniques for predicting the volume of patients in the emergency department (ED) and downstream hospital resource use for the next day or multiple days within public hospitals in the United States, based on 4 years of anonymized encounter data and calendar, weather, epidemiology, and hospital operational data. Different models, including naive, seasonal autoregressive integrated moving average with exogenous regressors (SARIMAX), Prophet, random forest, extreme gradient boosting (XGBoost), long short-term memory (LSTM), and attention-based transformer architectures were trained and evaluated using 1-day, 7-day, and 14-day forecasting horizons, and the results were converted to a discrete-event simulation of staffing and bed management.",
+      "doi": "10.38124/ijisrt/26sep1244",
+      "authors": [
+        "Sesi Mensah Gidisu",
+        "Millicent Naa Oye Boadu",
+        "Joseph Kobi"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Innovative Science and Research Technology (IJISRT)",
+      "openalex_id": "W7220415093",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220415093",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 46%: matched 3/13 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "In the United States, emergency department congestion stealthily undermines the safety net of public hospitals for uninsured, underinsured, and medically complex populations, and the use of forecasting tools is limited where it is desired most.",
+      "added": true
+    },
+    {
+      "title": "Effects of conservation grazing and burning on grassland vegetation in urban protected areas",
+      "abstract": "The Northeast Swale is a protected natural area in Saskatoon, the largest city in the Canadian province of Saskatchewan. Due to intensive urban growth, anthropogenic disturbance has altered the area’s biodiversity and ecosystem services, highlighting the need to evaluate management strategies for its effective conservation. We assessed the effects of conservation sheep grazing, prescribed burning and their combination at varying intensities and timing on plant diversity and species richness, vegetation structure, and native and exotic species composition across 18 grassland and shrubland treatment units in the study area. In grassland communities, burned areas supported significantly higher species richness than grazed areas, with combination treatments showing intermediate values; in shrubland communities, no significant differences in richness were observed. Management had limited effects on overall life-form richness, although graminoid and shrub richness in grassland varied significantly with treatment. Vegetation structure showed the strongest responses, with combination treatments associated with the lowest middle canopy cover and the highest ground-layer cover. Combined grazing and burning were also linked to the lowest frequencies of expansive native shrubs and the exotic grass Poa pratensis subsp. pratensis . Overall, our findings suggest that vegetation responses to management in this urban remnant grassland are highly context-dependent, and that no single intervention was consistently associated with all conservation objectives.",
+      "doi": "10.1016/j.japb.2026.05.015",
+      "authors": [
+        "Vladimir V. Kricsfalusy",
+        "Rong Shen",
+        "Kakon Chakma"
+      ],
+      "year": 2026,
+      "journal": "Journal of Asia-Pacific Biodiversity",
+      "openalex_id": "W7220446811",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220446811",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 3/13 key interest terms (prescribed burning, burning, prescribed)",
+      "tags": [
+        "Prescribed Burning",
+        "Burning",
+        "Prescribed"
+      ],
+      "summary": "The Northeast Swale is a protected natural area in Saskatoon, the largest city in the Canadian province of Saskatchewan. Due to intensive urban growth, anthropogenic disturbance has altered the area’s biodiversity and ecosystem services, highlighting the need to evaluate management strategies for its effective conserva…",
+      "added": false
+    },
+    {
+      "title": "Understory vegetation development six years after a wildfire in the temperate forests of Patagonia, Argentina",
+      "abstract": "Fire is a fundamental driver in many forest ecosystems, yet increasing fire severity, frequency and extent threaten recovery processes. In the Andean-Patagonian forests, early post-fire succession remains poorly understood despite its importance in shaping long-term ecosystem structure and function. We evaluated the effects of three fire severity levels (unburned, moderate, and high) and five forest types ( Nothofagus pumilio , N. antarctica , N. dombeyi , mixed N. dombeyi-Austrocedrus chilensis , and A. chilensis ) on the plant community developed 6 years after a large wildfire in the Cholila Lake basin (Argentina). We assessed understory species composition and traits, vertical structure, and regeneration of dominant species. Both fire severity and forest type significantly influenced understory composition. High-severity sites showed pronounced compositional differences, including higher richness and cover of exotic species, greater dominance of annual herbs, and a more developed upper stratum (1.5–3 m height) dominated by shrubs. In contrast, moderate-severity sites showed assemblages more similar to unburned forests, higher total richness, greater cover of nitrogen-fixing species, and a more developed middle stratum (0.5–1.5 m height). Differences among forest types were also detected, with the highest total and native species richness in A. chilensis forests and the highest exotic species cover in N. antarctica and N. dombeyi forests. Regeneration of foundational tree species and the bamboo Chusquea culeou was present in moderate-severity sites but strongly limited in high-severity sites. Our results highlight that fire severity acts as a filter on early post-fire dynamics, while forest type further shapes community responses, consistent with potentially divergent successional pathways that require long-term monitoring. As fire regimes intensify and early post-fire landscapes expand, understanding the structure and dynamics of understory communities will assist restoration efforts aimed at achieving desirable states while maintaining the ecological processes supported by early successional communities.",
+      "doi": "10.3389/ffgc.2026.1950264",
+      "authors": [
+        "M. M. Rago",
+        "M. F. Urretavizcaya"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Forests and Global Change",
+      "openalex_id": "W7220689937",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220689937",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/13 key interest terms (large, states, wildfire)",
+      "tags": [
+        "Large",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Fire is a fundamental driver in many forest ecosystems, yet increasing fire severity, frequency and extent threaten recovery processes. In the Andean-Patagonian forests, early post-fire succession remains poorly understood despite its importance in shaping long-term ecosystem structure and function.",
+      "added": false
+    },
+    {
+      "title": "Drones in Wildfire Airspace Management: Developing a Scalable Framework for Mid-Sized Cities",
+      "abstract": "Wildfires are becoming increasingly frequent and severe, creating growing risks for mid-sized communities with limited emergency response resources. The January 2025 Los Angeles wildfires—which burned more than 57,000 acres and destroyed over 18,000 structures—underscore the urgent need to strengthen wildfire response strategies through the integration of unmanned aerial systems (UAS) (Hardy, 2025). This study develops a scalable framework for drone-assisted wildfire response in resource-constrained environments. Using the city of Waynesboro, Virginia, as a case study, the research examines how mid-sized jurisdictions can integrate unmanned aerial vehicles (UAVs) to improve preparedness, response, and recovery. A three-round, mixed-methods Delphi study engages emergency managers, UAV operators, fire officials, and policy leaders to evaluate how drones can be effectively incorporated into wildfire management operations. The analysis focuses on five performance metrics—coordination, efficiency, public safety, situational awareness, and response time—while also considering regulatory, financial, and training factors influencing implementation. The study aims to provide evidence-based recommendations and a scalable framework for integrating UAV technologies into local emergency response systems and broader wildfire management operations (Daud et al., 2022).",
+      "doi": "10.25777/37x8-7p07",
+      "authors": [
+        "Victoria Denise Tanner Williamson"
+      ],
+      "year": 2026,
+      "journal": "ODU Digital Commons (Old Dominion University)",
+      "openalex_id": "W7220451239",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220451239",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 2/13 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Wildfires are becoming increasingly frequent and severe, creating growing risks for mid-sized communities with limited emergency response resources. The January 2025 Los Angeles wildfires—which burned more than 57,000 acres and destroyed over 18,000 structures—underscore the urgent need to strengthen wildfire response…",
+      "added": false
+    },
+    {
+      "title": "Studying the causes of humidity fluctuations in food products within industrial environments",
+      "abstract": "The production of processed foods and animal nutrition requires precise control over product characteristics to ensure consistent quality. Unexpected fluctuations in key parameters, particularly humidity, can lead to significant financial losses and reduced product quality. This study investigates the root causes of humidity variations in the final product and evaluates the predictability of this metric using variables with potential causal influence as predictors. We apply advanced causal discovery methods, including the Peter–Clark Momentary Conditional Independence (PCMCI) algorithm, and validate the findings with Granger causality and the Temporal Causal Discovery Framework (TCDF). To conduct these analyses, we develop a novel computer vision model to estimate the mass of organic material entering industrial furnaces from RGB imagery, enabling low-cost real-time monitoring directly on the main production-line conveyor. Experiments on production-line data show that causal filtering improves humidity-forecasting accuracy in three of four independent production runs (mean absolute-error improvement of 12.4 ×, Diebold–Mariano p < 0.05), while our vision-based mass estimation achieves a mean absolute coverage error of 0.81 percentage points (RMSE = 0.90 pp) validated against manually annotated ground truth. The integration of causal inference with machine learning and low-cost sensing offers a practical approach for enhancing process control and product consistency in industrial environments.",
+      "doi": "10.1016/j.afres.2026.102698",
+      "authors": [
+        "Elouanes Khelifi",
+        "Amir Saki",
+        "Sousso Kélouwani",
+        "Usef Faghihi"
+      ],
+      "year": 2026,
+      "journal": "Applied Food Research",
+      "openalex_id": "W7220415449",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220415449",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/13 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "The production of processed foods and animal nutrition requires precise control over product characteristics to ensure consistent quality. Unexpected fluctuations in key parameters, particularly humidity, can lead to significant financial losses and reduced product quality.",
+      "added": false
+    },
+    {
+      "title": "Anticipating El Niño–related health risks in Latin America and the Caribbean: from climate information to public health preparedness",
+      "abstract": "El Niño is a recurrent mode of tropical Pacific climate variability with major public health implications for Latin America and the Caribbean. Its development is partly driven by the Bjerknes feedback, a coupled ocean–atmosphere process in which weakened equatorial trade winds reduce coastal upwelling and allow warm surface waters to shift eastward. Warming of the central and eastern tropical Pacific can reshape regional rainfall and temperature patterns, increasing the likelihood of floods, droughts, wildfires, food-system disruption, and health-service interruption in locations with established ENSO teleconnections. This narrative review synthesizes evidence on the environmental and health pathways through which El Niño may affect populations in Latin America and the Caribbean. We distinguish evidence directly linking health outcomes to ENSO or Coastal El Niño from evidence derived from floods, droughts, wildfires, and other hydrometeorological disasters without formal attribution to ENSO. The latter is used to characterize plausible health pathways and preparedness needs rather than ENSO-specific causal effects. Potential consequences include immediate mortality and injury, waterborne and vector-borne infections, disruption of chronic disease care, food insecurity, undernutrition, toxic exposures, psychological distress, and prolonged health-system burden. The timing and persistence of these effects are context-dependent; preparedness and response priorities are therefore organized by operational needs rather than fixed post-event intervals. As of August 2026, authoritative forecasts indicated that El Niño was present and strengthening, providing a current illustration of why anticipatory preparedness is necessary while not guaranteeing any specific regional impact. Early warning, flood-risk mapping, water, sanitation, and hygiene interventions, epidemiological and entomological surveillance, continuity of health services, and community-centered risk communication should therefore be adapted to local forecasts, vulnerabilities, and surveillance data.",
+      "doi": "10.3389/fpubh.2026.1959622",
+      "authors": [
+        "Esteban Ortiz‐Prado",
+        "Jorge Vásconez-González",
+        "Rasa Žalakevičiūtė",
+        "Juan S. Izquierdo‐Condoy"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7220450357",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220450357",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 2/13 key interest terms (eastern, wildfires)",
+      "tags": [
+        "Eastern",
+        "Wildfires"
+      ],
+      "summary": "El Niño is a recurrent mode of tropical Pacific climate variability with major public health implications for Latin America and the Caribbean. Its development is partly driven by the Bjerknes feedback, a coupled ocean–atmosphere process in which weakened equatorial trade winds reduce coastal upwelling and allow warm su…",
+      "added": false
+    },
+    {
+      "title": "Presenting the scientific discourse of biodiversity loss through drivers, solutions, and responsibilities",
+      "abstract": "Biodiversity loss is considered a major global issue, but at the same time, scientists interpret it differently, identifying varied drivers, solutions, and responsibilities in their published works. These interpretations shape the scientific narratives these scientists use to discuss biodiversity loss, which, in turn, affects policy through the biodiversity science-policy interface. However, a comprehensive overview of these different narratives within biodiversity loss literature is lacking. To address this gap in knowledge, we conducted a literature review of contemporary, global biodiversity literature and a discursive network analysis based on biodiversity loss drivers, solutions, and responsibilities. We identified seven narratives that represent an overview of the scientific discourse on biodiversity loss. We determined that the narratives identify different key drivers of biodiversity loss and often focus primarily on either drivers, solutions, or responsibilities, whereas some neglect societal dimensions. Moreover, our research showed that the commonly used Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) categorization of direct drivers of biodiversity loss is reflected in only one of the seven narratives, thereby indicating its limited prevalence across the literature. Thus, this study will help biodiversity scientists develop more holistic biodiversity loss narratives by recognizing the limitations of the narratives they currently use. Additionally, our findings can assist policymakers in identifying relevant but less common narratives in the biodiversity science-policy literature that may help them develop policies.",
+      "doi": "10.1111/cobi.70385",
+      "authors": [
+        "Willem van Doorninck",
+        "Jelle Hendrik Behagel"
+      ],
+      "year": 2026,
+      "journal": "Conservation Biology",
+      "openalex_id": "W7220711403",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220711403",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/13 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Biodiversity loss is considered a major global issue, but at the same time, scientists interpret it differently, identifying varied drivers, solutions, and responsibilities in their published works.",
+      "added": false
+    },
+    {
+      "title": "Insights into climatic adaptability of Acer truncatum and Quercus mongolica in typical sandy lands of China using the Maximum Entropy (MaxEnt) model",
+      "abstract": "A B S T R A C T Climate change poses an escalating threat to forest sustainability in transitional zones between semi-arid and semi-humid regions, primarily by intensifying tree mortality and hindering ecological recovery. In northern China, Acer truncatum Bunge and Quercus mongolica Fisch. ex Ledeb., two native cold- and drought-tolerant temperate tree species, are widely used for afforestation. However, their future climatic suitability under continuous warming remains unclear. Using the Maximum Entropy model, we assessed the current and projected suitable habitats of these two species across China under three climate scenarios, including Shared Socioeconomic Pathway (SSP)126, SSP245, and SSP585, with a particular focus on the four major sandy lands in northern China: Hulun Buir Sandy Land, Hunshandak Sandy Land, Horqin Sandy Land, and Mu Us Sandy Land. Occurrence records and environmental variables were integrated to quantify habitat suitability for the two species and their spatial distribution dynamics under ongoing climate change. Model outputs were used to identify shifts in suitable habitat areas, expansion–contraction patterns, and changes in habitat stability across scenarios. The results show that the distribution of A. truncatum is primarily shaped by precipitation of wettest month (bio13), elevation, and temperature seasonality, whereas Q. mongolica is mainly influenced by bio13, annual mean temperature, and precipitation of driest month. At present, the suitable habitat area is 9.30×10 5 km 2 for A. truncatum and 9.90×10 5 km 2 for Q. mongolica , accounting for 9.69% and 10.31% of China’s land area, respectively. Future projections indicate that both species will retain stable core distributions, with potential expansion toward northeastern, southern, and southwestern China. The suitable range for A. truncatum is expected to expand, with newly suitable areas accounting for 2.59%–4.69% of China’s land area, whereas Q. mongolica may see new suitable areas accounting for 2.25%–4.50% of the total land area, despite projected contractions along its southern margins. Within the four major sandy lands, both species were predicted to shift from peripheral areas to interior zones. Notably, potential suitable habitats for Q. mongolica may expand to the Hulun Buir Sandy Land under SSP245 and SSP585 scenarios by 2090. These findings highlight the climatic resilience and ecological potential of both species and provide scientific support for climate-informed afforestation and restoration strategies in water-limited areas.",
+      "doi": "10.1016/j.regsus.2026.100391",
+      "authors": [
+        "SHI Han",
+        "Xi Peng",
+        "郭静静 GUO Jingjing",
+        "ZHAO Ruxia",
+        "GuangYou Hao"
+      ],
+      "year": 2026,
+      "journal": "Regional Sustainability",
+      "openalex_id": "W7220443836",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220443836",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/13 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "A B S T R A C T Climate change poses an escalating threat to forest sustainability in transitional zones between semi-arid and semi-humid regions, primarily by intensifying tree mortality and hindering ecological recovery. In northern China, Acer truncatum Bunge and Quercus mongolica Fisch.",
+      "added": false
+    },
+    {
+      "title": "An AI-Enabled Predictive Procurement Model for Forecasting and Inventory Optimization",
+      "abstract": "This paper presents an AI-enabled predictive procurement model that integrates probabilistic demand forecasting, supplier lead-time prediction, and multi-echelon inventory optimization to secure target service levels while lowering working capital. The framework couples hierarchical time-series forecasting with gradient-boosted trees and lightweight sequence models, capturing seasonality, promotions, and regime shifts. It augments predictions with causal drivers including macroeconomic indicators, input price indices, marketing calendars, and policy shocks, producing calibrated distributions rather than point estimates. Operationally, the system ingests ERP and MRP transactions, purchase orders, invoices, catalog attributes, and supplier performance histories. Data quality pipelines execute de-duplication, unit harmonization, outlier handling, and late-arrival correction, while item-location-supplier embeddings transfer information across sparse series. Lead-time models use gradient boosting with monotonic constraints on distance and order size, and a compact LSTM captures intra-week receipt patterns. Forecast reconciliation ensures coherence from SKU to category to enterprise, and conformal prediction yields reliable uncertainty bounds. Optimization formulates a newsvendor-style objective that balances service penalties, holding, and ordering costs under budget and capacity constraints. A stochastic program solved on a rolling horizon outputs order quantities, reorder points, supplier splits, and dynamic safety-stock buffers aligned to service targets. A policy engine encodes guardrails shelflife limits, ABC/XYZ policies, MOQ/pack constraints, and ESG exclusions and writes approved plans back to ERP via governed APIs and event streams with full traceability. In simulation and a limited field pilot, the approach reduced backorders and emergency expedites, lowered average on-hand inventory, and improved forecast bias and MAPE relative to baseline heuristics, with the largest gains on intermittent-demand SKUs. Ablation studies show probabilistic lead-time modeling and cross-series transfer contribute most to service-level stability. Governance artifacts, change-management practices, and value tracking methods are provided to support scale-out across plants and regions. The contribution is a production-ready, interpretable design that turns uncertainty-aware predictions into auditable, financially grounded procurement decisions embedded in day-to-day workflows. We also outline model risk management, privacy safeguards, and human-in-the-loop review to maintain accountability, fairness, and resilience under data shifts and supplier disruptions globally",
+      "doi": "10.56201/wjimt.v9.no11.2025.pg15.55",
+      "authors": [
+        "Oluwafunmilayo Kehinde Akinleye"
+      ],
+      "year": 2026,
+      "journal": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+      "openalex_id": "W7220470805",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220470805",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "This paper presents an AI-enabled predictive procurement model that integrates probabilistic demand forecasting, supplier lead-time prediction, and multi-echelon inventory optimization to secure target service levels while lowering working capital.",
+      "added": false
+    },
+    {
+      "title": "Climate change amplifies surface fire hazard in the tropical Andes: high-resolution FlamMap simulations in southern Ecuador",
+      "abstract": "Abstract Wildfire dynamics in high-elevation Andean ecosystems remain insufficiently assessed under projected climate change conditions, particularly in Ecuador, where spatially explicit fire-behavior modeling is limited. This study evaluates the sensitivity of wildfire hazard to climate change in Molleturo Parish, Azuay Province, using high-resolution (20 m) spatial simulations with the FlamMap modeling framework. Fire behavior was simulated under baseline conditions (2014–2020) and future climate projections based on the RCP 8.5 scenario for 2030–2050 and 2051–2070. The Fire Behavior (FB) algorithm was used to estimate flame length, rate of spread, fireline intensity, and crown fire activity, which were integrated into a composite Fire Hazard Index. The Minimum Travel Time (MTT) algorithm was used to estimate burn probability and potential fire size. Surface-fire indicators increased modestly under the projected conditions, particularly during 2051–2070: the high flame-length class increased from 1.11% in the baseline period to 2.05%, and the high rate-of-spread class increased from 0.60 to 1.36%. The area classified as high fire hazard increased from 0.250 to 3.713%, although low and moderate classes continued to dominate. Crown fire activity showed limited variation. Mean burn probability remained low and changed only slightly among scenarios, while mean simulated fire size varied from 57.98 to 62.10 ha and showed high variability. Several communities were located within or adjacent to areas of comparatively elevated burn probability, providing a basis for more detailed local prevention and preparedness assessments. These findings provide one of the first climate-sensitive wildfire hazard assessments in the tropical Andes and support the integration of wildfire screening into land-use planning and climate-adaptation strategies in southern Ecuador.",
+      "doi": "10.1007/s11069-026-08431-z",
+      "authors": [
+        "María Mercedes Ojeda-Muñoz",
+        "Juan Gabriel Mollocana-Lara",
+        "César Iván Álvarez"
+      ],
+      "year": 2026,
+      "journal": "Natural Hazards",
+      "openalex_id": "W7220474213",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220474213",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfire dynamics in high-elevation Andean ecosystems remain insufficiently assessed under projected climate change conditions, particularly in Ecuador, where spatially explicit fire-behavior modeling is limited.",
+      "added": false
+    },
+    {
+      "title": "Episodic changes in global forest edges in the 21st century",
+      "abstract": "Seventy percent of global forests lie within 1 km of an edge, yet their temporal dynamics remain poorly characterized. By developing the high spatial-resolution (0.00025°) global forest edge maps for 2000-2020, we find a 24 million km (7%) decline in edge length. During 2015-2020, edge length falls while forest area slightly grows, driven by patch merging in temperate/boreal regions and tropical fragmentation. In contrast, countries such as Laos, Liberia, India, and China gain edges from new forest patches. These episodic changes closely track policy-driven land management, including logging bans, agricultural expansion, and reforestation. Given forest edges’ critical roles in biodiversity and microclimate regulation, our results highlight contrasting biome patterns and the need for adaptive policies balancing conservation, carbon storage, and land use. Forest edges are ecological frontiers that shape biodiversity and microclimate worldwide. The study maps their global change from 2000–2020 and reveals a 24 million-km decline, with contrasting regional trajectories and episodic shifts.",
+      "doi": "10.1038/s41467-026-78347-6",
+      "authors": [
+        "Hangkai You",
+        "Fujiang Ji",
+        "Taejin Park",
+        "Volker C. Radeloff",
+        "GEORGE C. HURTT",
+        "Minhui Jiang",
+        "Min Chen"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W7220394147",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220394147",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Seventy percent of global forests lie within 1 km of an edge, yet their temporal dynamics remain poorly characterized. By developing the high spatial-resolution (0.00025°) global forest edge maps for 2000-2020, we find a 24 million km (7%) decline in edge length.",
+      "added": false
+    },
+    {
+      "title": "Length of the growing season as a key determinant of spatial variation in forest surface litter quantity",
+      "abstract": "Forest surface litter is an integral component of forest ecology, it acts as bridge between biotic and abiotic components of any forest ecosystem. Comprehensive, wall-to-wall mapping of forest litter distribution can enhance our understanding of ecosystem processes and nutrient dynamics, and improve management interventions and strategies for forest fire prevention and control. Forest phenology refers to start of season (SOS), peak of season (POS), end of season (EOS) and length of season (LOS). Thereby can be a potential indicator of accumulated surface litter quantity. However, these parameters are seldom used in estimation of surface litter. This study explored the prospective use of optical satellite-derived forest phenological metrics along with vegetation indices, LiDAR canopy-height and C-band SAR backscatter in estimation of surface litter quantity. Interestingly, the study found LOS (31.39%) to be the most important contributor to litter quantity estimation, followed by comparable contributions from LSWI (23.01%) and CRI2 (20.15%). SOS, POS and EOS had negligible contribution in explaining the spatial variability of accumulated surface litter. The study highlights the integrated use of LOS with canopy parameters that are indicator of vegetation stress and phase of leaf development can help in reliable estimation of forest surface litter quantity.",
+      "doi": "10.1038/s41598-026-73208-0",
+      "authors": [
+        "Taibanganba Watham",
+        "Shankar Tripathi",
+        "Hitendra Padalia"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7220680059",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220680059",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Forest surface litter is an integral component of forest ecology, it acts as bridge between biotic and abiotic components of any forest ecosystem. Comprehensive, wall-to-wall mapping of forest litter distribution can enhance our understanding of ecosystem processes and nutrient dynamics, and improve management interven…",
+      "added": false
+    },
+    {
+      "title": "Alternative Dispute Resolution and Legal Pluralism in Practice: Grassroots Mediation in the Akamba Counties of Kenya",
+      "abstract": "Abstract Alternative dispute resolution (ADR), the process of employing a third party, outside of the state apparatus, to help resolve disputes between opposing parties, has been used on the African continent for hundreds of years. In Kenya, the focus of the current study, ADRs have included mediation, negotiation, and arbitration. To have a better understanding of why Kenyans are embracing mediation instead of the formal courts to resolve disputes, the study relies on the legal pluralism theoretical framework and the results of a study that employed two ethnographic techniques – interviews and participant observation – from three Kenyan counties: Makueni, Kitui, and Machakos. Based on interviews conducted by the first author with 52 mediators (e.g., chiefs, elders, and the clergy) and 10 jurists in Nairobi, and also direct observations of 31 ADR cases (e.g., land disputes, inheritance issues, and unpaid debts, etc.) from January to June 2023, several themes emerged as central to the success of the mediation process: expediency, cost efficiency, accessibility/convenience, transparency, congeniality, satisfaction, and harmony. For example, expediency was vital to contesting parties’ satisfaction with ADR, as courts are slow to resolve conflicts. Cost effectiveness meant that even the penurious could have their cases heard. The implications of our findings for mediation, public policy, and future research are addressed. Key words: Alternative Dispute Resolution; Legal Pluralism; Mediation; Kenya",
+      "doi": null,
+      "authors": [
+        "Victoria M. Time",
+        "Daniel K. Pryce"
+      ],
+      "year": 2026,
+      "journal": "Digital Scholarship - Texas Southern University (Texas Southern University)",
+      "openalex_id": "W7220770800",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220770800",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Alternative dispute resolution (ADR), the process of employing a third party, outside of the state apparatus, to help resolve disputes between opposing parties, has been used on the African continent for hundreds of years.",
+      "added": false
+    },
+    {
+      "title": "Twenty years of Kilimanjaro observations across 5000 m reveal tropical elevation-dependent warming under clear-sky conditions",
+      "abstract": "Abstract Mountain regions are experiencing rapid climate change. However, temperature trends along elevation gradients remain poorly understood in the tropics, where long-term high-elevation air temperature ( T air ) observations are sparse. Here, we examine elevation-dependent warming (EDW) on Mount Kilimanjaro by combining a unique long-term in situ T air transect with Moderate Resolution Imaging Spectroradiometer (MODIS) land-surface temperature (LST), surface and topographic datasets. Using machine learning, we map clear-sky T air at four MODIS overpasses at 1 km resolution for 2004–2024. The models showed strong predictive performance, with RMSE values of 1.76 °C and 1.36 °C, and R 2 values of 0.94 and 0.95 for daytime and nighttime models, respectively. Modelled T air reveals strong diurnal contrasts: daytime T air shows strong spatial variability affected by radiation and surface properties, while nighttime T air varies more gradually with elevation. Trend analysis (2004–2019) identifies EDW under clear-sky conditions. Daytime trends become positive near the summit (+0.05 to +0.10 °C/decade), while strongest cooling occurs at 3000–3500 m (−0.13 to −0.14 °C/decade), coinciding with vegetation and land-cover change. Nighttime weak warming dominates most elevations (+0.04 to +0.15 °C/decade), while the summit remains near-neutral. These contrasts indicate that EDW on Kilimanjaro is shaped not only by elevation-dependent climate responses, but also by vegetation and land-cover changes that modify local surface-atmosphere coupling.",
+      "doi": "10.1038/s41612-026-01560-z",
+      "authors": [
+        "Yaping Mo",
+        "Pepin Nick",
+        "Harold Lovell",
+        "Yongming Xu"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7220365241",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220365241",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Mountain regions are experiencing rapid climate change. However, temperature trends along elevation gradients remain poorly understood in the tropics, where long-term high-elevation air temperature ( T air ) observations are sparse.",
+      "added": false
+    },
+    {
+      "title": "An Exploration of Psychosocial Determinants of Cybercrime Intention among Youths in Oyo State, Nigeria",
+      "abstract": "Cybercrime has become a pressing issue among adolescents and youths, particularly in Nigeria, where a growing number of young individuals engage in cyber-related offences. This study explores the relationship between key risk factors and the intention to commit cybercrime. Utilizing a descriptive correlational survey design, 300 students from six secondary schools in Ibarapa East were randomly selected as participants. Data collection was conducted using validated instruments, including the Cybercrime Intention Scale (α = 0.88), Levenson’s IPC scale (α = 0.78), Materialistic Value Scale (α = 0.74), Parenting Style Scale (α = 0.77) and Peer Influence Scale (α = 0.76). Three research questions were tested at a 0.05 level of significance using Pearson Product-Moment Correlation (PPMC) and Multiple Regression Analysis. Findings revealed a significant positive correlation among materialism (r = 0.395; p",
+      "doi": null,
+      "authors": [
+        "Moromoke Nimota Raji",
+        "Musa Adeyemi Ogunsola",
+        "Jamiu Agbolade Ogunsola"
+      ],
+      "year": 2026,
+      "journal": "Digital Scholarship - Texas Southern University (Texas Southern University)",
+      "openalex_id": "W7220753778",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220753778",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Cybercrime has become a pressing issue among adolescents and youths, particularly in Nigeria, where a growing number of young individuals engage in cyber-related offences. This study explores the relationship between key risk factors and the intention to commit cybercrime.",
+      "added": false
+    },
+    {
+      "title": "An Examination of Posttraumatic Stress and Posttraumatic Growth and the Role of Psychological Flexibility Following Traumatic Job Loss",
+      "abstract": "ABSTRACT Job loss can lead to both posttraumatic stress (PTS) symptoms and positive outcomes of posttraumatic growth (PTG), making it necessary for career counselors to understand trauma reactions. Among a community sample of 270 adults who reported experiencing a traumatic job loss, results of this cross‐sectional study indicated presence of both PTS ( M = 35.9) and PTG ( M = 57.2), and a statistically significant and positive relationship between PTS and PTG with a medium effect size ( r = 0.33, p < 0.001). Structural equation model results demonstrated that the valued action component of psychological flexibility mediated the relationship between behavioral awareness and openness to experience and PTG, suggesting that values‐based action, similar to Brown's values‐based career theory, may be a critical component of PTG following traumatic job loss. It is crucial for career counselors to understand both negative and positive trauma responses to job loss and ways to help job loss survivors thrive.",
+      "doi": "10.1002/cdq.70049",
+      "authors": [
+        "Margaret M. Poandl",
+        "Taylor Cheski",
+        "Daniel Gutiérrez",
+        "Kaitlin J. Hinchey"
+      ],
+      "year": 2026,
+      "journal": "The Career Development Quarterly",
+      "openalex_id": "W7214936471",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7214936471",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Job loss can lead to both posttraumatic stress (PTS) symptoms and positive outcomes of posttraumatic growth (PTG), making it necessary for career counselors to understand trauma reactions.",
+      "added": false
+    },
+    {
+      "title": "Amendment-driven changes in nutrient availability and forage uptake in a recently converted boreal soil",
+      "abstract": "Climate change and concerns over regional food security and sovereignty are accelerating the expansion of land-based agriculture into northern boreal regions. This requires tailored solutions to overcome the severe fertility constraints of recently converted Podzolic soils. Organic matter additions and liming agents have been proposed as rapid-solution soil amendments due to their capacity to reduce soil acidity, mediate nutrient availability and uptake, and improve crop nutrient use efficiencies. A randomized complete block design field trial was established in Central Labrador, Canada, from May to September 2023, the first-year post-conversion from forest to agriculture. Treatments included: mineral fertilizer (300 kg/ha 20:10:5 N:P:K + 176 kg/ha potash) or fish meal (1,075 kg/ha), as nutrient sources; biochar (20.8 Mg C/ha), peat (25.1 Mg C/ha), or peat with limestone (25.1 Mg C/ha peat + 5,400 kg/ha limestone), as organic matter inputs / liming agents; and monocrop oat, pea, and oat-pea intercrop, as cropping systems. All 36 treatment combinations were replicated across three blocks. Biochar-amended and peat with limestone-amended plots produced the highest forage crop aboveground biomass, nutrient (N, P, K) uptakes, and use efficiencies ( p < 0.05). Treatments that increased soil pH and nutrient supply had immediate positive effects on soil fertility parameters in this sandy acidic Podzolic soil. Biochar, as well as peat with limestone, provided immediate alleviation of Podzolic fertility constraints (low pH, low CEC, poor organic matter functionality) in the first-year post-conversion, enabling oat and pea crop production before long-term soil organic matter accumulation can develop.",
+      "doi": "10.1007/s44378-026-00318-6",
+      "authors": [
+        "Aman Dhindsa",
+        "Adrian Unc",
+        "Amana Jemal Kedir",
+        "Maren Oelbermann"
+      ],
+      "year": 2026,
+      "journal": "Discover Soil.",
+      "openalex_id": "W7220731973",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220731973",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Climate change and concerns over regional food security and sovereignty are accelerating the expansion of land-based agriculture into northern boreal regions. This requires tailored solutions to overcome the severe fertility constraints of recently converted Podzolic soils.",
+      "added": false
+    },
+    {
+      "title": "A Compositional and Genetic Framework for Shale Lithofacies Classification and Reservoir Quality Prediction: Insights From the Wufeng‐Longmaxi Formation, South Sichuan",
+      "abstract": "ABSTRACT Although shales are of fundamental importance in geological research and energy exploration, no consensus has been reached on a unified classification and nomenclature that adequately reflect their multiscale heterogeneity and genetic origins. To address this gap, we propose a novel framework grounded in mineralogical and genetic perspectives, aiming to advance shale characterisation and standardisation, and to improve the evaluation of shale reservoir quality. Within this framework, quartz—the dominant component of organic‐rich shales—is subdivided into intrabasinal authigenic particles and extrabasinal detritus, with their relative contributions quantified. Excess silica, representing authigenic quartz including microcrystalline and biogenic forms, is employed as a key parameter for classification. When excess silica exceeds 50% of total quartz, shales are defined as siliceous shales , whereas those with excess silica below 50% but total siliceous minerals (quartz and feldspar) exceeding 50% are classified as silty shales . Shales with mixed compositions are categorised separately. Our results reveal that siliceous shales exhibit the greatest development potential, followed by silty shales with high total organic carbon and finally mixed shales. This scheme not only discriminates shales with different sedimentary backgrounds, total organic carbon levels, and quartz sources, but also provides a genetically informed and practical tool for predicting shale reservoir quality. By integrating mineralogical composition and genetic origins, the proposed framework offers a systematic alternative to existing classification approaches.",
+      "doi": "10.1002/gj.70510",
+      "authors": [
+        "Zhengping Zhu",
+        "Lingling Xu",
+        "Qimeng Sun",
+        "Caowei Wu",
+        "Jinxiong Shi"
+      ],
+      "year": 2026,
+      "journal": "Geological Journal",
+      "openalex_id": "W7220369568",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220369568",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Although shales are of fundamental importance in geological research and energy exploration, no consensus has been reached on a unified classification and nomenclature that adequately reflect their multiscale heterogeneity and genetic origins.",
+      "added": false
+    },
+    {
+      "title": "Out of the fire and into the frying pan: Hostile post‐fire thermal conditions reduce activity windows for reptiles",
+      "abstract": "Abstract Climate change and intensified fire regimes are reshaping ecosystems globally. Reptiles, as ectotherms, rely on microhabitat shelters to buffer against thermal extremes, yet the capacity of these shelters to persist or function following fire remains poorly understood. As heatwaves and fire regimes intensify under climate change, effective thermal buffering will become increasingly vital for reptile persistence. This study quantifies how fire alters the structure and thermal offset of key reptile refugia: spinifex ( Triodia ) tussocks, chenopod shrubs, and leaf‐litter mats, in the dune and swale habitats of South Australia's Murray Mallee. Using iButton data loggers deployed across four fire histories, we measured hourly microhabitat and adjacent ground temperatures, modelling thermal offset (T offset ) via mixed‐effects models. More recent fire histories were associated with less spinifex and leaf‐litter cover and more bare ground, although evidence for changes in individual shelter dimensions was mixed. Thermal buffering declined markedly in recently burnt sites, with long‐unburnt spinifex providing the greatest daytime protection from extreme ground temperatures. Structural properties such as tussock height and litter depth were associated with T offset , supporting a relationship between shelter structure and thermal‐refuge quality. Comparisons with the thermal tolerance of spinifex‐obligate reptiles indicate that burnt habitats often exceed critical thermal limits, effectively eliminating usable refugia during heatwaves. These results demonstrate that fire‐driven structural simplification translates to weakened thermal refugia, with implications for species persistence under increasing heat extremes. Effective fire management in arid systems should, therefore, prioritise the protection and regeneration of long‐unburnt spinifex and litter habitats as critical microclimatic refuges. Read the free Plain Language Summary for this article on the Journal blog.",
+      "doi": "10.1111/1365-2435.70463",
+      "authors": [
+        "Max Tibby",
+        "Heather Neilly",
+        "Karl Vernes",
+        "Eric J. Nordberg"
+      ],
+      "year": 2026,
+      "journal": "Functional Ecology",
+      "openalex_id": "W7220362651",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220362651",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Climate change and intensified fire regimes are reshaping ecosystems globally. Reptiles, as ectotherms, rely on microhabitat shelters to buffer against thermal extremes, yet the capacity of these shelters to persist or function following fire remains poorly understood.",
+      "added": false
+    },
+    {
+      "title": "From track to impact: a review of multi-hazard typhoon forecasting and resilience",
+      "abstract": "While recent advancements in tropical cyclone prediction have been extensively documented, existing review literature remains heavily fragmented into isolated academic domains, such as artificial intelligence, data assimilation, or coastal hydrodynamics. This fragmentation obscures the operational reality of disaster risk reduction. To address this critical gap, this paper presents a transdisciplinary systematic review of the entire end-to-end climate service value chain. First, the examination of the paradigm shift in atmospheric modeling, contrasting traditional Numerical Weather Prediction (NWP) with the rapid emergence of pure deep learning and AI-physics hybrid frameworks. Second, the evaluation of multi-platform observational networks and the integration of Interpretable AI (XAI) for operational trust. Third, the bridging of the “scale gap” by analyzing how synoptic meteorological forcing is dynamically coupled with high-resolution hydrodynamic models to predict secondary hazards and compound extremes. Fourth, the review of the translation of these physical hazards into micro-scale structural engineering impacts. Finally, the synthesis of these domains into the framework of socio-economic Impact-Based Forecasting (IBF) and Forecast-based Financing (FbF). Ultimately, this review establishes that advancing modern typhoon resilience requires moving beyond isolated computational superiority toward a unified convergence of atmospheric physics, civil engineering, and user-centric climate services.",
+      "doi": "10.1016/j.cliser.2026.100741",
+      "authors": [
+        "Ying-Yi Hong",
+        "Daryll John Medina"
+      ],
+      "year": 2026,
+      "journal": "Climate Services",
+      "openalex_id": "W7220401379",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220401379",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "While recent advancements in tropical cyclone prediction have been extensively documented, existing review literature remains heavily fragmented into isolated academic domains, such as artificial intelligence, data assimilation, or coastal hydrodynamics.",
+      "added": false
+    },
+    {
+      "title": "Index",
+      "abstract": "Adaptive feedback mechanisms, 177-178 Adjusted Goodness-of-Fit Index (AGFI), 80 Adoption of renewable energy among small businesses in Nigeria, level of, 58-59 Africa, smart cities in, 320-326 AI applications and innovations strengthening smart cities in Africa, 321-325 cybersecurity challenges facing African smart cities, 325-326 development of, 321 African business environment, 97 African Continental Free Trade Area (AfCFTA), 298 African Development Bank bridging energy access gap, 300-301 African smart cities, cybersecurity challenges facing, 325-326 African Union (AU), 110, 153-154, 301-302 Digital Transformation Strategy, 121-122 Age distribution, 76 Agricultural sector, 161-162 Agriculture, 120, 324 Algorithmic bias, 163 Algorithmic decision-making, 325 Alternative Securities Market (ASeM), 8 Analysis of Variance (ANOVA), 246 Analysis techniques, 226 Analytic neural network, 139 Analytical Hierarchy Process (AHP), 282-283 Artificial General Intelligence (AGI), 154 Artificial intelligence (AI), 70-71, 95-96, 110, 152-154, 172, 316 adoption, 316 effect of AI on SDG 9, 160-162 AI-driven innovation, 173 applications and innovations strengthening smart cities in Africa 321-325 challenges in harnessing AI for SDG 9, 162-164 conceptualizing and theorizing, 317-320 ethical frictions in AI-EdTech ecosystems, 178 fragmented policy and regulatory environments, 178-179 innovation and human-centric design in AI-EdTech startups, 177-178 literature review, 173-174 methodology, 174-177 persistent and widening digital divides, 179 PRISMA flow diagram, 175 results and thematic analysis, 177-179 search documents by author, 176 search documents by publication year, 175 search documents by source, 176 smart cities in Africa, 320-326 and smart city, 317-319 sustainable development theory, 319-320 technologies, 316 transform business models, 72",
+      "doi": "10.1108/978-1-80592-200-120261019",
+      "authors": [],
+      "year": 2026,
+      "journal": "Emerald Group Publishing Limited eBooks",
+      "openalex_id": "W7220450478",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220450478",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Adaptive feedback mechanisms, 177-178 Adjusted Goodness-of-Fit Index (AGFI), 80 Adoption of renewable energy among small businesses in Nigeria, level of, 58-59 Africa, smart cities in, 320-326 AI applications and innovations strengthening smart cities in Africa, 321-325 cybersecurity challenges facing African smart cit…",
+      "added": false
+    },
+    {
+      "title": "Built it, but did they come? Monitoring winter feeding station use by endangered long‐tailed gorals",
+      "abstract": "Abstract Supplementary winter feeding is a common but poorly evaluated conservation intervention for endangered ungulates. We evaluated the behavioral responses of the endangered long‐tailed goral ( Naemorhedus caudatus ) to supplementary feeding stations provisioned with dried mulberry ( Morus alba ) leaves in the Uljin‐Samcheok region of South Korea during the 2024–2025 winter. Using a camera‐trap network, we recorded 2,182 goral detections, 80.7% of which involved feeding. Feeding activity exhibited a pronounced nocturnal shift, likely an adaptive strategy to mitigate winter energy deficits. Bayesian regression models indicated that visitation was driven primarily by mulberry provision, snow cover, and fawn presence, suggesting energetic constraints on reproductive cohorts. Notably, while non‐target species occasionally visited the stations, none consumed the provisioned feed. Although gorals typically foraged alone or in pairs (maximum simultaneous count: 1–2), agonistic interactions sharply intensified during feed depletion. To mitigate this conflict, future trials should evaluate spatially dispersed networks and continuous provisioning. Ultimately, while our single‐season data confirm that supplementary forage successfully reaches vulnerable individuals, multi‐year monitoring is necessary to determine if this intervention improves population‐level survival.",
+      "doi": "10.1002/jwmg.70265",
+      "authors": [
+        "Jinhwi Kim",
+        "Donggul Woo"
+      ],
+      "year": 2026,
+      "journal": "Journal of Wildlife Management",
+      "openalex_id": "W7220409258",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220409258",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Supplementary winter feeding is a common but poorly evaluated conservation intervention for endangered ungulates. We evaluated the behavioral responses of the endangered long‐tailed goral ( Naemorhedus caudatus ) to supplementary feeding stations provisioned with dried mulberry ( Morus alba ) leaves in the Ulj…",
+      "added": false
+    },
+    {
+      "title": "In whom to trust when disaster strikes? Trust and resilience relationships on a Caribbean small island developing state",
+      "abstract": "In whom to trust when disaster strikes?Trust and resilience",
+      "doi": "10.1016/j.ijdrr.2026.106476",
+      "authors": [
+        "Joshua  Pierre Nicholas",
+        "Amy R. Donovan"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7220473921",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220473921",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "In whom to trust when disaster strikes?Trust and resilience",
+      "added": false
+    },
+    {
+      "title": "Lighting the way: Radiation use efficiency and phenotypic variation of candlenut (Aleurites moluccanus), a tropical oilseed tree",
+      "abstract": "The candlenut tree ( Aleurites moluccanus (L.) Willd) is gaining interest as a potential feedstock for bioenergy development, with particular attention to its oil, which constitutes ∼60 % of its seed endosperm. Despite its many uses and history of human relationships, its productivity and role in ecosystem function remain uncertain. This review evaluates candlenut literature through the lenses of radiation use efficiency (RUE) and phenotypic variation as a function of genetic, environmental, and management (GEM) factors and their interactions. These analytical lenses support agronomic efforts as well as ecological modeling to evaluate the sustainability of candlenut production. Yield reports from Indonesia, the primary country of candlenut production, average 17.66 kg tree -1 , while older reports range between 30-91 kg tree -1 . This discrepancy likely stems from inconsistent reporting of product type, tree conditions, and growing conditions but may also point to opportunities for tree improvement. Though sparse, data related to conversion efficiency, hydraulic traits, and reproductive phenology suggest that candlenut may be sensitive to the availability or seasonality of moisture. Unique leaf tendencies have been described in Indonesia and Hawaiʻi, though interactions between genetic and environmental variability remain untested. Candlenut features in management applications including agroforestry, successional plantings, and monotypic stands. Variation in planting density, rotation length, and intercropping are likely to influence the tree’s interception efficiency and its ability to balance productivity and ecosystem services. These results have immediate utility to inform production, modeling efforts, and research directions. However, interactions with local ecologies, existing markets, and cultural practices must also be investigated.",
+      "doi": "10.1016/j.nexus.2026.100877",
+      "authors": [
+        "Darshi Banan",
+        "Scott Q. Turn"
+      ],
+      "year": 2026,
+      "journal": "Energy Nexus",
+      "openalex_id": "W7220669069",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220669069",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "The candlenut tree ( Aleurites moluccanus (L.) Willd) is gaining interest as a potential feedstock for bioenergy development, with particular attention to its oil, which constitutes ∼60 % of its seed endosperm.",
+      "added": false
+    },
+    {
+      "title": "Review of reintroduction as a conservation tool for Pacific salmon in western North America",
+      "abstract": "Abstract Objective Reintroduction of Pacific salmon Oncorhynchus spp. into historically occupied habitat is a widely used management strategy in western North America. Since the last major review, new information on donor populations, fish passage, dam removal, ecological interactions, monitoring, and cultural and societal considerations has emerged. We conducted a comprehensive review to synthesize these advances and inform best practices. Methods Co-authors representing federal, state, tribal, academic, and private organizations with expertise in Pacific salmon reintroductions convened to synthesize literature, evaluate case studies, and update key findings, lessons, and best practices. We developed a framework to assess program status using biological and cultural benchmarks and analyzed adult abundance trends for 26 reintroduced populations of Chinook Salmon O. tshawytscha, Coho Salmon O. kisutch, Sockeye Salmon O. nerka, and steelhead O. mykiss across 16 reintroduction sites in the Pacific Northwest, USA. Results We reviewed 51 Pacific salmon reintroductions, along with relevant studies providing insights into reintroduction protocols and outcomes. Of the programs that have been implemented to date, 48 (94%) remain active and 27 (53%) have operated for at least 20 years. Tribal involvement has been instrumental in the initiation and advancement of many of these efforts and is focused on restoring cultural, spiritual, and ecological connections to salmon. Most populations (81%) evaluated in a trends analysis exhibited stable or increasing abundance, demonstrating that reintroduction is effective at reestablishing populations in historical habitats. The restoration of anadromy to these habitats has ecological benefits that are commonly recognized, such as restoring marine-derived nutrient transport, providing access to cold water in headwater tributaries, contributing to fisheries, and benefiting other species of concern (e.g., sea lions and orcas Orcinus orca) that rely on salmon for prey. Benefits of reintroduction also include cultural reconnections between salmon and Indigenous Peoples. Salmon are considered “relatives” and are central to the way of life in many Indigenous cultures, but this connection has been lost in places where salmon have been extirpated from their historical ranges. Such losses have resulted in great harm to Indigenous communities, and reintroduction has the potential to begin restoring what has been lost. While we acknowledge the importance of identifying and mitigating the risks associated with reintroduction, we also maintain that there are inherent risks of inaction, such as ongoing harm to communities that rely on Pacific salmon. Conclusions This synthesis updates the existing state of knowledge for Pacific salmon reintroduction. Our review indicates that reintroduction efforts are supporting many stable or increasing populations throughout western North America in addition to restoring culturally important species for Indigenous communities.",
+      "doi": "10.1093/tafafs/vnag034",
+      "authors": [
+        "Tobias J. Kock",
+        "Claire E. Couch",
+        "Matthew L. Keefer",
+        "Andrew P. Matala",
+        "Casey M. Baldwin",
+        "Christopher C. Caudill",
+        "John W. Ferguson",
+        "Shubha N. Pandit",
+        "Chris Frederiksen",
+        "Todd Newsome",
+        "Thomas H. Kahler",
+        "Gabriel M. Temple",
+        "Jeffrey J. Duda",
+        "Russell W. Perry",
+        "R C Johnson",
+        "Bailey A. Morgan",
+        "Kathleen G. O’Malley",
+        "David A. Beauchamp",
+        "Mariah H. Meek",
+        "Caitlin L. Stockwell",
+        "Christopher M. Karchesky",
+        "Jason Roberts"
+      ],
+      "year": 2026,
+      "journal": "Transactions of the American Fisheries Society",
+      "openalex_id": "W7220373091",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220373091",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Objective Reintroduction of Pacific salmon Oncorhynchus spp. into historically occupied habitat is a widely used management strategy in western North America.",
+      "added": false
+    },
+    {
+      "title": "Are emergency health systems prepared for rising temperatures?: A mixed methods analysis assessing heatwave vulnerability of four Victorian Metropolitan (Australia) Emergency departments",
+      "abstract": "1. Abstract Background Temperatures are rising due to anthropogenic climate change, increasing the frequency, duration and magnitude of extreme heat events. Heatwaves remain the deadliest hazards in Australia, with Victoria experiencing a disproportionate number of heat-related deaths. Despite heat plans implemented following the 2009 Black Saturday bushfires, statewide health risk assessments for heatwaves are yet to be developed. Current research focuses on quantitative assessments of mortality and emergency presentations, with no systematic analysis of health system vulnerability. Aims To assess emergency department vulnerability using a modified World Health Organization (WHO) tool and qualitative analysis, identify gaps in hospital preparedness, and inform heat-related health systems policy and resilience strengthening. Method A convergent, parallel mixed-methods approach investigated vulnerability across four metropolitan hospitals, comprising a 72-question checklist covering five domains delivered to emergency management teams, and 21 key-stakeholder interviews with emergency department staff ranging from clinicians to emergency managers. Results Vulnerabilities exist across most categories, with the largest proportion affecting water, sanitation and hygiene (WASH), healthcare waste facilities, and patient and workforce capacity. Interviewees identified measures to enhance resilience, including increasing public awareness, improving emergency preparedness protocols, cooling infrastructure, training and surge capacity. Conclusion While emergency departments are equipped to handle sudden mass casualty events, slow-onset disasters like heatwaves present unique challenges that current plans do not adequately address. Victorian health systems are vulnerable to heatwaves and require systematic coordinated responses, robust policy and effective surge capability to manage future extreme temperature events.",
+      "doi": "10.1016/j.ijdrr.2026.106475",
+      "authors": [
+        "Olivia Bell",
+        "Jason Amos",
+        "Sam Freeman",
+        "Eden Pham",
+        "Laura Mclaren",
+        "Claudio Varano",
+        "Martina Valente",
+        "Hamed Akhlaghi",
+        "Biswadev Mitra",
+        "Mark Putland"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7220458247",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220458247",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "1. Abstract Background Temperatures are rising due to anthropogenic climate change, increasing the frequency, duration and magnitude of extreme heat events. Heatwaves remain the deadliest hazards in Australia, with Victoria experiencing a disproportionate number of heat-related deaths.",
+      "added": false
+    },
+    {
+      "title": "A methodological framework for scalable manufacturing and deployment of electromobility solutions in emergencies and rural contexts",
+      "abstract": "Natural disasters often disrupt critical infrastructure, necessitating the local production of essential items to accelerate community recovery. This study proposes a systems engineering framework for the design and deployment of energy-autonomous, mobile Additive Manufacturing (AM) units tailored for disaster relief. The methodology integrates complex operational constraints, including energy autonomy, payload capacity, and environmental factors, to guide vehicle platform selection and power modeling for high-capacity 3D printer arrays. A case study involving the deployment of 20 FDM printers on a Volvo FL Electric truck from Sacramento to Madera County, California, demonstrates the framework. Through analytical energy modeling and driving cycle simulations, the study determines a total system demand of 216.8 kWh, confirming the feasibility of using commercially available electromobility solutions to satisfy both transit and manufacturing requirements. The resulting framework provides a scalable blueprint for resilient emergency logistics by bridging the gap between sustainable transportation and rapid response manufacturing. This research concludes that integrating modular AM systems with electric vehicle platforms can significantly enhance the speed and flexibility of humanitarian aid in remote or resource-constrained environments.",
+      "doi": "10.1016/j.mfglet.2026.08.018",
+      "authors": [
+        "Maximilano Rodríguez-Armendariz",
+        "Erick Ramírez-Cedillo",
+        "David Sebastián Rendon Ruiz",
+        "Barbara Sabine Linke",
+        "Kholoud Bashayan",
+        "Juan de Dios Calderón-Nájera",
+        "Mohsen Habibi",
+        "Adriana Vargas‐Martínez"
+      ],
+      "year": 2026,
+      "journal": "Manufacturing Letters",
+      "openalex_id": "W7220392040",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220392040",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Natural disasters often disrupt critical infrastructure, necessitating the local production of essential items to accelerate community recovery. This study proposes a systems engineering framework for the design and deployment of energy-autonomous, mobile Additive Manufacturing (AM) units tailored for disaster relief.",
+      "added": false
+    },
+    {
+      "title": "Towards the One Exposome: harnessing artificial intelligence and digital health technologies across One Health toxicology, new approach methodologies, and environmental public health",
+      "abstract": "The One Exposome framework integrates exposomics, One Health toxicology, New Approach Methodologies (NAMs) and artificial intelligence to advance environmental health from reactive risk assessment towards predictive, preventive, and participatory science. The paper positions One Health as the ethical and conceptual rationale for recognizing the interdependence of human, animal, and environmental health, the Exposome as the framework for measuring cumulative and life-course exposures, and NAMs together with digital and AI-enabled tools as the means to generate, integrate, and interpret mechanistic and adverse outcome pathway (AOP)-based evidence across biological scales. In this review, environmental health challenges such as antimicrobial resistance, endocrine disruption, and other complex multi-stressor exposures cannot be adequately addressed through compartmentalized, single-substance, or purely retrospective approaches. The One Exposome paradigm instead proposes a systems-based model that links exposure data, mechanistic toxicology, and public health intelligence across humans, animals, and ecosystems. It draws on human-relevant NAMs, including microphysiological systems, together with AI and multi-omics approaches, to support cross-species interpretation, earlier hazard identification, and more preventive intervention strategies. Within this framework, sentinel surveillance, integrated monitoring, and interoperable data systems are central for detecting shared risks across environmental, veterinary, food, and human health domains. The approach is also presented as requiring governance reform so that agricultural practice, environmental management, and clinical stewardship are aligned within a common preventive and planetary health perspective. Overall, the paper frames the One Exposome as a transdisciplinary architecture for environmental public health that combines measurable environments, mechanistic understanding, and computational integration. By connecting cumulative exposures to biological responses and population-level consequences, it offers a foundation for more anticipatory, equitable, and scientifically integrated environmental health decision-making.",
+      "doi": "10.3389/fpubh.2026.1921273",
+      "authors": [
+        "Sandra Coecke",
+        "Thomas Hartung"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7220739481",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220739481",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "The One Exposome framework integrates exposomics, One Health toxicology, New Approach Methodologies (NAMs) and artificial intelligence to advance environmental health from reactive risk assessment towards predictive, preventive, and participatory science.",
+      "added": false
+    }
+  ]
+}
