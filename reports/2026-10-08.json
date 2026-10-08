@@ -1,0 +1,585 @@
+{
+  "date": "2026-10-08",
+  "statistics": {
+    "fetched": 180,
+    "duplicates_removed": 156,
+    "evaluated": 24,
+    "added": 1,
+    "ignored": 23,
+    "average_score": 1.42
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Dark brown carbon and aerosol mixing impacts on absorbing aerosol optical depth in the southeastern United States",
+      "abstract": "Abstract. Wildfires are becoming more prevalent in the southeastern United States. Wildfires emit light absorbing organic aerosols such as black carbon and dark brown carbon (tar balls) that influence regional air quality and radiative forcing. Recent experimental work has identified dark brown carbon as a potentially significant source of warming in the atmosphere. However, dark brown carbon is not typically included in air quality and climate models. We added dark brown carbon from wildfires as a species in the Weather Research and Forecasting modeling system coupled with chemistry (WRF-Chem) version 4.2 with the Quick-Fire Emissions Database (QFED). The model simulations were run over the southeastern United States from June 21st to June 30th 2013 in conjunction with in-situ measurements of aerosol extinction from the Southeast Nexus (SENEX) aircraft campaign and aerosol optical depth (AOD) measurements from the ground-based remote sensing Aerosol Robotic Network (AERONET). The impacts of imaginary refractive index, aerosol mixing, and Mie method were investigated with an offline radiation model for computationally efficient evaluation. Dark brown carbon was found to increase absorbing aerosol optical depth (AAOD) by up to 5.2 % in the simulation time and region. We derived a linear equation to estimate the correlation between modeled AAOD and columnar dark brown carbon (AAOD = 0.0023[D-BrC] + 0.0007) with core-shell considerations. Core-shell aerosol mixing and explicit Mie computation enhanced increases in AAOD from dark brown carbon at AERONET sites (up to 6.42 %). These results indicate that models omitting dark brown carbon may underestimate aerosol absorption in wildfire-influenced regions, and that including it, along with a realistic mixing state and Mie treatment, is important for estimating radiative forcing as wildfire activity increases.",
+      "doi": "10.5194/egusphere-2026-5534",
+      "authors": [
+        "Alexandra E. Ng",
+        "Manish Shrivastava",
+        "Brian Gaudet",
+        "Cenlin He",
+        "Zezhen Cheng",
+        "William Vizuete"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7220863302",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220863302",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 87%: matched 5/9 key interest terms (wildfires, wildfire, united states, united, states)",
+      "tags": [
+        "Wildfires",
+        "Wildfire",
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Abstract. Wildfires are becoming more prevalent in the southeastern United States. Wildfires emit light absorbing organic aerosols such as black carbon and dark brown carbon (tar balls) that influence regional air quality and radiative forcing.",
+      "added": true
+    },
+    {
+      "title": "Safety and health of workers in post-disaster reconstruction: a scoping review and evidence map",
+      "abstract": "Post-disaster reconstruction (PDR) is essential for restoring damaged communities, yet the occupational safety and health (OSH) of PDR workers remains poorly understood. Although PDR involves many familiar construction hazards, these risks arise under distinct conditions, including damaged infrastructure, compressed recovery timelines, environmental contamination, fragmented governance, and pressure for visible recovery. This scoping review and evidence map examined peer-reviewed and authoritative gray literature on OSH among PDR workers. Following PRISMA-ScR guidance, the review used a Population-Concept-Context framework to search bibliographic databases and targeted organizational sources for English-language literature published from 2005 to 2025. The final evidence base included 55 sources, comprising 40 peer-reviewed publications and 15 gray literature documents. The review identified a geographically uneven and thematically concentrated evidence base, with strong representation from the United States and multi-country sources, and greater attention to multi-hazard and earthquake-related contexts than to other disaster types. Findings show that PDR workers face overlapping OSH hazards and exposures. Evidence was strongest for early recovery tasks such as debris removal, demolition, and cleanup, while later reconstruction phases, informal labor, volunteers, undocumented workers, and self-recovery residents remained underexamined. The review also highlights major methodological, policy, and practice gaps, including limited longitudinal evidence, inconsistent outcome measures, weak surveillance, and insufficient worker-specific protections. By integrating peer-reviewed and gray literature, this review frames PDR as a distinct OSH context and develops Faster Reconstruction Syndrome as a concept, interpreted through Job Demands-Resources and safety-climate theory to explain how recovery-speed pressures may weaken worker protection in disaster recovery policy and practice.",
+      "doi": "10.1016/j.ssci.2026.107505",
+      "authors": [
+        "Solomon Sesesie Ajasa",
+        "Shane Crawford"
+      ],
+      "year": 2026,
+      "journal": "Safety Science",
+      "openalex_id": "W7220703405",
+      "citation_count": 1,
+      "url": "https://openalex.org/W7220703405",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 3/9 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Post-disaster reconstruction (PDR) is essential for restoring damaged communities, yet the occupational safety and health (OSH) of PDR workers remains poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Evaluation of risk scenarios in Ecuador using Visible Infrared Imaging Radiometer Suite remote sensing, ERA5-Land climate data, and XGBoost",
+      "abstract": "The present study aims to develop and optimize a spatial risk scenarios model for forest fires in Ecuador through the integration of machine learning and satellite remote sensing.To this end, 103,224 historical records of thermal anomalies captured by the VIIRS sensor were processed, along with five continuous meteorological variables from the ERA5-Land global reanalysis, spatial coordinates (latitude and longitude), and temporal indicators (month of the year), spanning the period between 2015 and 2025.The methodology was based on the construction of a 5-kilometer resolution spatial grid coupled with the XGBoost classification algorithm, designed to efficiently manage class imbalance in the face of extreme climate events.The computational system achieved an accuracy level of 81% on the test set, validating its robustness with a true positive rate of 0.86 and an area under the ROC curve of 0.8382.Furthermore, the feature importance analysis determined that precipitation deficits and seasonal timing act as the primary drivers of ignition risk, exerting a significantly greater influence than surface temperature, concluding that this scalable and open-access tool allows for high-precision mapping of vulnerable areas in the Andean and coastal regions through scenario-based experiments, aiming to optimize the distribution of state preventive resources against the constant threat of global warming.",
+      "doi": "10.12912/27197050/240190",
+      "authors": [
+        "César José Avila Martínez",
+        "Byrone Antonio Almeida Salazar",
+        "Byron Gustavo Almeida Gavino",
+        "Christian Manuel Quishpe Villa",
+        "Fabián Alexander Molina Peralvo",
+        "Alex Jesús López Campuzano"
+      ],
+      "year": 2026,
+      "journal": "Ecological Engineering & Environmental Technology",
+      "openalex_id": "W7220666178",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220666178",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 2/9 key interest terms (ignition, drivers)",
+      "tags": [
+        "Ignition",
+        "Drivers"
+      ],
+      "summary": "The present study aims to develop and optimize a spatial risk scenarios model for forest fires in Ecuador through the integration of machine learning and satellite remote sensing.To this end, 103,224 historical records of thermal anomalies captured by the VIIRS sensor were processed, along with five continuous meteorol…",
+      "added": false
+    },
+    {
+      "title": "Comparative population genomics reveal stark differences in the genomic structure and drivers of isolation for two sky island bumble bees",
+      "abstract": "Abstract Genetic diversity is critical for species’ persistence and for preserving biodiversity. Regions with extreme elevation gradients, including ‘sky island’ systems, are predicted to restrict gene flow owing to dispersal barriers between high-elevation habitat patches (isolation by resistance, IBR) and the sheer distances between patches (isolation by distance, IBD). However, the drivers of genomic structure for sky island species remain poorly characterized. We evaluated the effects of IBR and IBD on the genomic structure of two co-occurring bumblebees, Bombus centralis and Bombus huntii, in the Cordilleran and Madrean sky islands using single-nucleotide polymorphism data. These species share similar sizes and diet breadths, but B. centralis is strongly associated with high-elevation forest and grasslands, representing only a subset of habitats used by B. huntii. We found that both species are experiencing moderate to high levels of inbreeding, but that B. centralis populations are highly differentiated, while B. huntii shows little genomic structure. IBR owing to land cover and elevation was evident for both, with support for IBD found only in B. huntii. Our study highlights the risk of isolation in sky island systems and demonstrates how small differences in ecological niche space can lead to dramatically different genomic structure.",
+      "doi": "10.1098/rspb.2026.1217",
+      "authors": [
+        "Laura J. Jones",
+        "Lauren Catherine Ponisio",
+        "Shalene Jha"
+      ],
+      "year": 2026,
+      "journal": "Proceedings of the Royal Society B Biological Sciences",
+      "openalex_id": "W7220729801",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220729801",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Genetic diversity is critical for species’ persistence and for preserving biodiversity. Regions with extreme elevation gradients, including ‘sky island’ systems, are predicted to restrict gene flow owing to dispersal barriers between high-elevation habitat patches (isolation by resistance, IBR) and the sheer d…",
+      "added": false
+    },
+    {
+      "title": "Measurements and Analysis of Light Non‐Methane Hydrocarbon Mole Fractions in 1982–1987 at Six Remote Sites Along the Pacific Rim",
+      "abstract": "Abstract Atmospheric non‐methane hydrocarbons (NMHCs) are important trace species with anthropogenic and natural sources including fugitive emissions from fossil fuel mining and distribution, biomass burning, biofuel combustion, and biogenic emissions from microbes and plants. We present previously unpublished whole air sample measurements of NMHCs collected at approximately weekly intervals from 1982 to 1987 at six stations spanning the Northern and Southern hemispheres, which sampled primarily Pacific Basin air masses as determined by back‐trajectory analysis. The four alkanes in this data set, ethane, propane, i‐ and n‐butane had a mean measured mole fraction of 712 22 ppt, 245 13 ppt, 55.2 4.4 ppt, and 87.6 8.7 ppt, respectively. When compared with measurements at comparable sites two decades later, the global ethane mole fraction decreased by 21% between the mid‐1980s and 2009–2010 with larger decreases in propane and butanes, corroborating a multi‐decadal decline in NMHCs over this period. No discernible Pacific Basin secular trend for the NMHCs was found over the 5‐year period 1982–1987, but significant trends at some individual sites including short‐term increases in the Northern Hemisphere and decreases in the Southern Hemisphere. A large multi‐year enrichment anomaly that is likely associated with the strong El Niño of 1982–83 occurs at all sites and influences trends observed in the Southern Hemisphere. Using the GEOS‐Chem chemical transport model, we estimated global emissions of ethane during this period were 13.4 0.4 Tg/yr based on the globally‐averaged measured mole fractions.",
+      "doi": "10.1029/2026jd048040",
+      "authors": [
+        "A. M. Smith",
+        "C. L. Butenhoff",
+        "M. A. K. Khalil",
+        "A. L. Rice"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W7220665225",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220665225",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 2/9 key interest terms (burning, large)",
+      "tags": [
+        "Burning",
+        "Large"
+      ],
+      "summary": "Abstract Atmospheric non‐methane hydrocarbons (NMHCs) are important trace species with anthropogenic and natural sources including fugitive emissions from fossil fuel mining and distribution, biomass burning, biofuel combustion, and biogenic emissions from microbes and plants.",
+      "added": false
+    },
+    {
+      "title": "Relocating Large Hollow‐Bearing Tree Trunk Sections to Restore Forest Owl Breeding Habitat: When Is It Warranted?",
+      "abstract": "ABSTRACT Relocating large hollows to minimise the potential impacts of development on threatened species is generally considered too difficult and/or too costly. Small and medium‐sized hollows are commonly relocated, recreated by carving into a living surrogate tree, or replaced with nest boxes; however, larger hollows, which take much longer to form naturally, are far less represented in the landscape, are preferred over nest boxes by large forest owls, are being destroyed during vegetation clearing and are not being replaced. Biodiversity offsetting legislation in NSW Australia aims to place a dollar value on biodiversity and its habitat, yet does not place any direct value on good quality large hollows or their protection. This study offers considerations that support the relocation or recreation of large hollows in landscapes where they are locally scarce. We describe two case studies involving hollow‐bearing trees that showed evidence of previous owl use and were unique in their respective landscapes. In both cases, the entire hollow‐bearing tree trunk sections were relocated into nearby forests and installed vertically against large living host trees. These case studies demonstrate that, following secure installation and preparation to improve structural longevity, large hollows can be successfully relocated and that size alone is not necessarily a limiting factor. The second case study had a variety of hollows recreated, which have been used by other hollow‐dependent fauna. The result was a natural looking, low maintenance and long‐lasting apartment block for wildlife set within the foliage of a living tree. Powerful Owl ( Ninox strenua ) has successfully bred in the relocated tree for two breeding seasons. We propose survey methods that enable the consistent application of three clear considerations for assessing the value of large hollows and determining when their relocation is warranted.",
+      "doi": "10.1111/emr.70062",
+      "authors": [
+        "Corey Mead",
+        "Rochelle Lawson"
+      ],
+      "year": 2026,
+      "journal": "Ecological Management & Restoration",
+      "openalex_id": "W7220832792",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220832792",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "ABSTRACT Relocating large hollows to minimise the potential impacts of development on threatened species is generally considered too difficult and/or too costly.",
+      "added": false
+    },
+    {
+      "title": "A multi-measure adaptation method for temporal coordination under drought–flood transition risks",
+      "abstract": "Rapid drought–flood transitions create short-term conflicts between drought mitigation and flood-control measures, while fixed decision modes may not adapt as risk evolves. This study develops a prediction–decision coupling framework that integrates Transformer-based precipitation forecasting with the NK model to evaluate the synergistic performance of DRR measure portfolios under evolving risks. The Transformer model generates daily precipitation quantile forecasts from historical meteorological data and employs the transition risk index (TRI) to characterize probabilistic DFAA risk states. These states are incorporated into the NK model to compare independent decision-making (IDM), continuously coordinated decision-making (CDM), and temporally coordinated decision-making (TCDM). A case study of Huangshan City identifies increasing drought-to-flood risk in mid-June 2024 and a weak flood-to-drought signal in mid-July. Under non-modular dependencies, TCDM exceeds IDM and CDM by 10.17% and 2.00%, respectively, in cost-adjusted performance. Sensitivity analyses indicate that this advantage depends on coordination and switching costs. The results suggest that coordination intensity and measure priority should vary with risk phase, transition direction, measure dependencies, and forecast uncertainty, providing portfolio-level support for adaptive drought–flood risk reduction.",
+      "doi": "10.1016/j.ijdrr.2026.106474",
+      "authors": [
+        "Leilei Xie",
+        "Eric W.T. Ngai",
+        "Ming Tang",
+        "Mengjia Li"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7220671684",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220671684",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Rapid drought–flood transitions create short-term conflicts between drought mitigation and flood-control measures, while fixed decision modes may not adapt as risk evolves.",
+      "added": false
+    },
+    {
+      "title": "Aerial Seeding for Forest and Landscape Restoration: A Systematic Review of Technology, Challenges, and Future Directions",
+      "abstract": "ABSTRACT Land degradation is a critical global challenge, threatening biodiversity, food security, and livelihoods. Ecological restoration has therefore become a priority, with aerial seeding emerging as a key method to address issues of scale, accessibility, and efficiency. By dispersing seeds from aircraft or drones, aerial seeding complements ground‐based approaches and is especially effective in remote or degraded areas. First applied in agriculture during the 1940s, its role has expanded with technological advances that allow greater precision, though challenges such as seed predation and uneven distribution remain. A systematic literature review (SLR) of studies published between 2000 and 2024 synthesized current evidence and identified research gaps. A total of 34 articles were analyzed, showing increased interest since 2017, with China contributing 29% of publications. Highly cited studies emphasized unmanned aerial vehicle (UAV) applications in forest regeneration. The literature was stratified into two primary domains: environmental constraints and associated mitigation strategies, and technological innovations designed to overcome technical barriers in aerial seeding. Findings show that aerial seeding is an effective, low‐cost method for large‐scale restoration. It is particularly valuable for degraded and postfire landscapes, where it enhances carbon recovery and reduces costs compared to manual planting. However, outcomes depend on seed traits, site conditions, timing, and predation pressure. Future success will rely on technological advances, ecosystem‐specific strategies, and adaptive responses to climate change. By enhancing seed resilience and precision delivery, aerial seeding could become a cornerstone of global reforestation and restoration efforts.",
+      "doi": "10.1002/ldr.70914",
+      "authors": [
+        "James Maua",
+        "Stephen Maina Kiama",
+        "Jane Njuguna",
+        "John N. Kigomo",
+        "Charles Kiprono Koech"
+      ],
+      "year": 2026,
+      "journal": "Land Degradation and Development",
+      "openalex_id": "W7220727241",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220727241",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "ABSTRACT Land degradation is a critical global challenge, threatening biodiversity, food security, and livelihoods. Ecological restoration has therefore become a priority, with aerial seeding emerging as a key method to address issues of scale, accessibility, and efficiency.",
+      "added": false
+    },
+    {
+      "title": "An AI visual chatbot system for climate heat risk communication and decision-making in at-risk agricultural communities",
+      "abstract": "Information on heat-related health risks that is based on meteorological data and forecasts is important for outdoor workers, farm managers, and many other stakeholders, but visualization and interpretation of climate data in a user-friendly way remains a challenge. This proof-of-concept research developed Sol, an artificial intelligence (AI) chatbot to conveniently interpret and communicate heat stress risks through smartphones and other devices. Sol is integrated into iHeatApp, a wet bulb globe temperature (WBGT) forecast visualization tool, to turn complex climate data into practical guidance with bilingual output in English and Spanish. The chatbot leverages an open source large language model (LLM) constrained by prompt engineering designs to reduce hallucinations and encourage domain-specific responses. The chatbot input may be either text or screenshot of the app's interface. Guided by our tutorial materials, we gathered farmworker feedback on the chatbot's ability to translate complex weather metrics into risk mitigation actions using focus groups of farmworkers from the Imperial Valley, California. When WBGT forecast values reach the “danger” category, the chatbot recommends wearing light, breathable clothing and increasing water breaks to prevent heat stress. Our app can help both farmworkers and their managers adapt work scheduling decisions to avoid the risks of peak heat and other health hazards and to mitigate labor productivity loss.",
+      "doi": "10.1016/j.cliser.2026.100736",
+      "authors": [
+        "Riley Rutan",
+        "Miguel Á. Bravo",
+        "Corrie Monteverde",
+        "Ryan Paul Lafler",
+        "Trent Wade Biggs",
+        "Fernando De Sales",
+        "Ana Solorio",
+        "Briana Toji Ruiz",
+        "Samuel S. P. Shen"
+      ],
+      "year": 2026,
+      "journal": "Climate Services",
+      "openalex_id": "W7220691067",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220691067",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Information on heat-related health risks that is based on meteorological data and forecasts is important for outdoor workers, farm managers, and many other stakeholders, but visualization and interpretation of climate data in a user-friendly way remains a challenge.",
+      "added": false
+    },
+    {
+      "title": "Tree-ring chronologies reveal unexpected geographic patterns of drought vulnerability in western Canadian forests",
+      "abstract": "Adaptive reforestation under climate warming will increasingly involve northward or upslope movement of tree species and seed sources. However, in western Canadian boreal and sub-boreal forests, release from cold constraints may be offset by emerging drought limitations, where low evapotranspiration has historically supported tree growth despite modest precipitation. We used 392 tree-ring chronologies from western Canada to compare drought resistance, recovery, and resilience among seven common conifer tree species across regional climatic gradients. Drought vulnerability metrics were not strongest at the southern forest-grassland transition, as might be expected from current moisture deficits alone. Instead, drought impacts were most pronounced further north in dry boreal mixedwood regions. Specifically, white spruce and jack pine showed lower post-drought resilience in northern boreal regions than in their southern boreal populations. We interpret this pattern as consistent with limited historical selection for drought tolerance in northern populations, where cold temperatures have historically moderated moisture stress. Similarly, interior Douglas-fir showed particularly low resilience in its sub-boreal distribution, near its northern range limit. These results suggest practical limits to northward planting of interior Douglas-fir, while southern boreal populations of white spruce and jack pine may be useful seed sources for improving drought resilience in central and northern boreal forests. More broadly, these results suggest that drought vulnerability in western Canadian forests is not confined to the southern boreal fringe, but also affects northern boreal and sub-boreal populations, where adaptive reforestation may be needed to maintain forest resilience under continued warming.",
+      "doi": "10.1016/j.foreco.2026.124301",
+      "authors": [
+        "Benjamin Panes",
+        "Andreas Hamann",
+        "Charles A. Nock"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7220664209",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220664209",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Adaptive reforestation under climate warming will increasingly involve northward or upslope movement of tree species and seed sources. However, in western Canadian boreal and sub-boreal forests, release from cold constraints may be offset by emerging drought limitations, where low evapotranspiration has historically su…",
+      "added": false
+    },
+    {
+      "title": "Feedbacks between natural climate solutions and plant invasions",
+      "abstract": "Abstract Biological invasions and carbon sequestration guide many modern-day land management decisions. However, intersections between invasions and natural climate solutions (NCS) - actions to maintain or increase the land carbon sink - have not received adequate attention in either the invasion or climate mitigation literature. We therefore review how plant invasions affect NCS and vice versa, focusing on reductions in emissions and carbon removals associated with avoided habitat conversion, restoration, forest and cropland management, agroforestry, and optimal grazing. We find that plant invasions can interfere with rapid NCS implementation and reduce the durability of carbon storage in many systems, although there are cases in which invasive plants increase carbon storage, creating biodiversity-climate mitigation trade-offs. At the same time, studies find that several NCS increase community resistance/resilience to invasions, and do so in forests, in particular, which can suppress invasive species spread in these systems. These dynamics suggest a positive feedback loop between NCS and invasions, in which NCS facilitate invasion control, and successful invasion control, in turn, eases further NCS implementation. This feedback could accelerate gains in land-based carbon storage and generate co-benefits for biodiversity, provided that NCS projects receive resources for sustained invasive species management. We highlight areas in need of further research, including how financial mechanisms for climate action could be used to overcome invasion-induced implementation barriers.",
+      "doi": "10.1088/1748-9326/aeb0b9",
+      "authors": [
+        "Evelyn M. Beaury",
+        "Jonathan M. Levine"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7220704603",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220704603",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Biological invasions and carbon sequestration guide many modern-day land management decisions. However, intersections between invasions and natural climate solutions (NCS) - actions to maintain or increase the land carbon sink - have not received adequate attention in either the invasion or climate mitigation…",
+      "added": false
+    },
+    {
+      "title": "A systematic review of nature-based solutions for climate action in African cities",
+      "abstract": "Abstract Nature-based solutions (NbS), including ecosystem-based adaptation (EbA), are increasingly proposed for climate action in African cities, but the evidence base is fragmented and lacks systematic synthesis of what is being implemented, where, and how effectively. We analysed 112 studies retained from a systematic review, covering 134 urban areas across 42 countries and including 45 informal settlements. Five NbS typology classes are inductively derived including: Green spaces; Rivers, catchments and drainage systems; Coastal systems; Green buildings; and Urban agriculture and multi-use gardens. Urban green spaces dominate the evidence (49% of studies) and are the most multi-functional class. Urban agriculture and multi-use gardens are under-recognised in headline framings, named as primary in only 5% of studies but appearing in 34% of the wider intervention mix. Evidence is increasing but concentrates geographically on larger cities. Successful climate change adaptation and mitigation outcomes are reported by 72% and 27% of studies, respectively. Heat mitigation is the most frequently quantified adaptation outcome, with temperature reductions up to 12.2°C reported in proximity to urban green and blue spaces across the continent. Qualitative evidence links urban NbS to effective coastal protection, flood risk reduction, and increased water security. Multi-stakeholder governance anchored by local actors, and meaningful community participation are consistent enablers of effective implementation. However, insufficient long-term funding and livelihood disruptions and displacement raise concerns about long-term impacts. Priority research gaps include longitudinal effectiveness monitoring, financing mechanisms for informal contexts, systematic assessment of mechanisms behind inequitable outcomes, and evidence from under-represented regions and smaller cities.",
+      "doi": "10.1088/1748-9326/aeb0ba",
+      "authors": [
+        "Nicola Frances Rule",
+        "Cameron T. McLean",
+        "Andrew Emmanuel Okem",
+        "Promise M Nduku",
+        "Johannes Itai Bhanye",
+        "Collins Matiza",
+        "F. Sato",
+        "Chipo Perseverance Mungenge",
+        "Onyekachi Esther Ogunniyi",
+        "Ignacio Pita-Vaca",
+        "Cherie Forbes",
+        "Petra B. Holden",
+        "Christopher H. Trisos",
+        "Debra Roberts",
+        "Nicholas P. Simpson"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7220720909",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220720909",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Nature-based solutions (NbS), including ecosystem-based adaptation (EbA), are increasingly proposed for climate action in African cities, but the evidence base is fragmented and lacks systematic synthesis of what is being implemented, where, and how effectively.",
+      "added": false
+    },
+    {
+      "title": "The Variations in Children Entering Care Across Local Authorities: Taking Population Characteristics Into Account",
+      "abstract": "ABSTRACT The rates of children entering public care vary by local authority, but it is hard to know how much this is due to population characteristics or practice variation. This study used linked Welsh administrative datasets to run multilevel logistic regression models predicting care entry. These explored variation across local authorities when population characteristics were controlled for. Local authorities with care rates higher or lower than their populations would have predicted were identified. Focus groups with social workers in local authorities with rates lower than expected by population need saw LA practice culture and attitudes as linked to lower rates.",
+      "doi": "10.1111/chso.70105",
+      "authors": [
+        "Nell Warner",
+        "Jonathan Scourfield",
+        "Donald Forrester",
+        "Rebecca L. Cannings-John",
+        "Karen Broadhurst",
+        "Ann Mary John"
+      ],
+      "year": 2026,
+      "journal": "Children & Society",
+      "openalex_id": "W7220682411",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220682411",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT The rates of children entering public care vary by local authority, but it is hard to know how much this is due to population characteristics or practice variation. This study used linked Welsh administrative datasets to run multilevel logistic regression models predicting care entry.",
+      "added": false
+    },
+    {
+      "title": "Adoption of sustainable agricultural practices by smallholders in Zambia: the role of cost and environmental behavior",
+      "abstract": "Understanding the persistent gap between the promotion and uptake of sustainable agricultural practices (SAPs) remains a key policy challenge in Zambia, where SAPs have been promoted for more than three decades, but adoption remains s(low). This study examines how cost and environmental consciousness shape SAP adoption decisions. We found that 56.95% of farmers are cost-conscious while 55.17% are environmentally conscious. Panel probit estimates reveal three key findings. First, cost-consciousness is associated with a reduced likelihood of SAP adoption (minimum tillage (MT), MT with rotation and MT with intercropping by 3.41, 3.44 and 2.13 percentage points, respectively). Second, environmental consciousness is associated with an increased likelihood of adopting MT with rotation and MT with intercropping by 3.55 and 2.08 percentage points, respectively. Third, farmers identify limited technical knowledge and extension support, high labor requirements at planting, constrained access to credit, and lack of social recognition as important barriers to adoption and continued use of SAPs. The findings suggest that policies aimed at scaling adoption of SAPs should complement environmental messaging with measures that lower perceived and actual adoption costs through targeted incentives, improved extension services, and clearer information on the economic returns across cropping systems.",
+      "doi": "10.1080/23311886.2026.2741963",
+      "authors": [
+        "Esau Simutowe",
+        "Innocent Pangapanga‐Phiri",
+        "Horace Phiri",
+        "Mark Manyanga",
+        "Christian Thierfelder",
+        "Hambulo Ngoma"
+      ],
+      "year": 2026,
+      "journal": "Cogent Social Sciences",
+      "openalex_id": "W7220863356",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220863356",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Understanding the persistent gap between the promotion and uptake of sustainable agricultural practices (SAPs) remains a key policy challenge in Zambia, where SAPs have been promoted for more than three decades, but adoption remains s(low).",
+      "added": false
+    },
+    {
+      "title": "Organizational and administrative requirements of NGOs for environmental crisis response: a field study of civil associations",
+      "abstract": "Environmental crises are increasing in frequency and severity across Egypt, yet the organizational requirements of civil society organizations for effective response to these events remain insufficiently documented. This cross-sectional census survey assessed the administrative, human resource, financial, and legislative requirements necessary for effective environmental crisis response among non-governmental organizations (NGOs) in Aswan, Egypt. Data were collected from 109 board members and executive directors representing 13 NGOs using a structured 16-item questionnaire. Descriptive statistics, independent-samples t-tests, one-way analysis of variance with post-hoc comparisons, Pearson correlation analysis, and multiple regression were used to analyze the data. The overall level of organizational requirements among NGOs in facing environmental crises was high (M = 3.84, SD = 0.49). Administrative requirements received the highest mean score (M = 4.06, SD = 0.67), whereas financial requirements received the lowest, although they remained within the high range (M = 3.75, SD = 0.65). All four organizational requirements were positively correlated, with the strongest association observed between financial and legislative requirements (r = 0.926, p < 0.001). Differences were identified based on selected personal and organizational characteristics, with organizational age showing the most consistent association with NGOs’ capacity for environmental crisis response. The regression model was statistically significant and explained 35.6% of the variance in the overall score (R 2 = 0.356). Organizational age was the only significant independent predictor in the model (B = 3.86, p < 0.001), whereas individual board-member experience and gender were not significant after adjustment. These findings indicate that organizational maturity is an important correlate of NGO capacity for environmental crisis response. Capacity-building programs, donor support, and institutional partnerships should therefore give particular attention to newer NGOs while strengthening financial contingency planning and formal crisis-management procedures across organizations.",
+      "doi": "10.3389/fpubh.2026.1956771",
+      "authors": [
+        "Shimaa Abdelaziz",
+        "abdelhamed bakry",
+        "Edris Alam",
+        "Guoqing Shi"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "openalex_id": "W7220733539",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220733539",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Environmental crises are increasing in frequency and severity across Egypt, yet the organizational requirements of civil society organizations for effective response to these events remain insufficiently documented.",
+      "added": false
+    },
+    {
+      "title": "A scoping review of dimensions, methodologies, and scales in global trends in water security (2015–2026)",
+      "abstract": "Assessing water security requires integrated approaches capable of capturing its multiple dimensions, methodological perspectives, and spatial dependencies. This scoping review examines 170 publications from 2015 to 2026 to identify global trends in water security research, focusing on conceptual dimensions, indicators, methodological approaches, and spatial-scale dependency. Based on the reviewed literature and major international frameworks, water security was organized into five interconnected dimensions: availability and access, water quality, risk management and resilience, governance and ecosystems and sustainability. Results reveal a strong predominance of watershed-scale assessments, particularly for dimensions associated with biophysical and ecological processes. Methodologically, studies were grouped into six categories, with hydrological models dominating (64%), followed by statistical and climate trend analyses (11%), water security indices (8%), risk and scenario assessments (7%), socioeconomic models (6%), and ecological approaches (4%). Methodological selection showed scale dependency: hydrological models were strongly associated with watershed assessments; statistical and climate analyses and composite indexes were more transferable across scales; risk and scenario approaches gained prominence at broader scales; and socioeconomic models shifted from local stakeholder interactions toward macroeconomic dynamics. Several indicators, including water demand, water pressure, runoff, land-use change, and ecological flows, exhibited cross-dimensional linkages. Despite the multidimensional conceptualization of water security, governance and particularly ecosystems and sustainability remained comparatively underrepresented. These findings highlight the need for more integrated, coupled, and scale-sensitive methodologies capable of linking hydrological processes with socioeconomic dynamics, governance, ecosystem functioning, climate uncertainty, and compound risks to support adaptive and sustainable water management.",
+      "doi": "10.3389/fenvs.2026.1958115",
+      "authors": [
+        "Maridelly Amparo-Salcedo",
+        "Ana Pérez-Gimeno",
+        "José Navarro-Pedreño"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Environmental Science",
+      "openalex_id": "W7220864928",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220864928",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Assessing water security requires integrated approaches capable of capturing its multiple dimensions, methodological perspectives, and spatial dependencies. This scoping review examines 170 publications from 2015 to 2026 to identify global trends in water security research, focusing on conceptual dimensions, indicators…",
+      "added": false
+    },
+    {
+      "title": "Spatio temporal land use and land cover changes in a peri urban protected area of Kamrup Metropolitan District, Assam, India using geospatial techniques",
+      "abstract": "Protection from human- induced pressures is vital to the survival of peri-urban protected areas, particularly in fast-growing urban areas. This research focuses on land use and land cover change in the Amchang Wildlife Sanctuary located in peri-urban region of Guwahati city in Kamrup Metropolitan district, Assam, India over 30 years period (1995–2025). Multi-temporal Landsat imagery was classified using Random Forest analysis with the help of NDVI, NDWI, NDBI, and delineated seven LULC categories dense forest, moderately dense forest, open forest, agriculture, built-up, barren land, and water bodies, with an overall Accuracy 81.57% and Kappa coefficient of 0.78. Landscape metrics such as Shannon’s Diversity Index, Patch Count, Edge Length were calculated and integrated with the Thiel-Sen’s slope calculation and the Mann–Kendall to determine fragmentation and longer-term trend analysis. The results showed a Net change in Dense Forest decreased by 51.7% (− 4.28 sq km), and Water Bodies by 73.5% (− 0.19 sq km), area increased in Built Up by 37.6% (+ 2.95 sq km), Agriculture by + 6.8% (+ 0.50 sq km) and Barren land by 7.3% (+ 0.15 sq km), as well as a type of secondary succession within Moderately Dense Forest by 35.5% (+ 6.11 sq km). This study is distinctive by the integration of Random forest classification, landscape fragmentation metrics and non-parametric trend analysis to weigh long term ecosystem vulnerability within peri-urban protected areas. Additionally, by connecting ecological monitoring and Sustainable Development Goals (i.e., 11, 13, 15) it will provide an established methodology for conservation planning/restoration strategies and sustainable expansion of urban areas in biodiversity hotspots.",
+      "doi": "10.1007/s44415-026-00134-4",
+      "authors": [
+        "Trishna Changkakoti",
+        "Parimita Saikia",
+        "Palme Borthakur",
+        "Monshree Roy"
+      ],
+      "year": 2026,
+      "journal": "Discover Forests",
+      "openalex_id": "W7220738321",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220738321",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Protection from human- induced pressures is vital to the survival of peri-urban protected areas, particularly in fast-growing urban areas. This research focuses on land use and land cover change in the Amchang Wildlife Sanctuary located in peri-urban region of Guwahati city in Kamrup Metropolitan district, Assam, India…",
+      "added": false
+    },
+    {
+      "title": "Sustainable energy transition options for Russia",
+      "abstract": "Following the Paris Agreement, one way to reduce greenhouse gas emissions and minimise the consequences of climate change is to pursue the goal of a sustainable energy supply by renewable energy sources. This study explores transition pathways towards sustainable energy system in the regions of Russia. Potential scenarios are presented in the power, heat, transport, and industry sectors. The study leverages an energy-industry system transition model in hourly resolution to investigate various policy scenarios ranging from 100% renewable energy in 2050 to net-zero emissions by 2060 with higher shares of nuclear power, to explore the feasibility and economic implications of the transition to a carbon-neutral energy system. The results show that respective transition pathways are technically feasible and economically viable. The analysis reveals that achieving zero CO 2 emissions by 2050 with very high renewable energy shares composed of wind power (56%), solar photovoltaics (40%), hydropower (3%), and bioenergy (1%) along with the deployment of power-to-X technologies is the lowest cost solution with cumulative CO 2 emissions around 22,000 MtCO 2 until 2060. The study underscores the importance of robust policy support and infrastructure development to facilitate this transition as a basis for economic development driven by low-cost and sustainable energy solutions.",
+      "doi": "10.1016/j.egyr.2026.109780",
+      "authors": [
+        "Aleksandr Borzunov",
+        "Dmitrii Bogdanov",
+        "Rasul Satymov",
+        "Kristina Sadovskaia",
+        "Christian Breyer"
+      ],
+      "year": 2026,
+      "journal": "Energy Reports",
+      "openalex_id": "W7220859442",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220859442",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Following the Paris Agreement, one way to reduce greenhouse gas emissions and minimise the consequences of climate change is to pursue the goal of a sustainable energy supply by renewable energy sources. This study explores transition pathways towards sustainable energy system in the regions of Russia.",
+      "added": false
+    },
+    {
+      "title": "Business Continuity and Climate Change: Firms’ Risk Perceptions and Adaptive Measures",
+      "abstract": "Climate change-related hazards are increasingly affecting the physical assets, production processes, and supply chains of industrial enterprises. This study aims to evaluate the impacts of climate change-related hazards on business continuity in firms operating within OIZs as part of the RESMAR Project. As part of the research, a survey was conducted among firms operating in nine OIZs located in the Marmara Region, and the data obtained were analysed. The findings indicate that there are no statistically significant sectoral differences in firms' levels of exposure to climate change-related hazards. Instead, firms' geographical location, the infrastructure capacity of the OIZs in which they operate, and their dependence on supply chains emerged as the primary determinants of climate-related impacts. Firms operating in labour-intensive industries, such as the textile sector, and those in high-technology industries, such as the defence sector, were found to exhibit greater sensitivity to climate change. These findings highlight the need for climate change adaptation strategies in industrial enterprises to extend beyond facility-level risk management and incorporate measures aimed at strengthening supply chain resilience and enhancing the climate resilience of OIZ infrastructure.",
+      "doi": "10.33688/aucbd.1946469",
+      "authors": [
+        "İhsan Çiçek",
+        "Mehmet Fatih ŞEN",
+        "Esen DEMİRKOL KILIÇ",
+        "Bilgin Kocabıyık",
+        "Devrim Bağla Düzerdik",
+        "Erkan Yılmaz",
+        "Emin Yahya Menteşe",
+        "Kadir Tomas",
+        "Elif Güler Ertürk"
+      ],
+      "year": 2026,
+      "journal": "Coğrafi Bilimler Dergisi",
+      "openalex_id": "W7219673976",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7219673976",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Climate change-related hazards are increasingly affecting the physical assets, production processes, and supply chains of industrial enterprises. This study aims to evaluate the impacts of climate change-related hazards on business continuity in firms operating within OIZs as part of the RESMAR Project.",
+      "added": false
+    },
+    {
+      "title": "High-resolution mangrove mapping in Guatemala using PlanetScope imagery and a SWIR-free moisture index",
+      "abstract": "Mangrove forests are ecologically and socioeconomically important ecosystems that require accurate and timely monitoring. This study presents a high-resolution mangrove mapping approach along the Pacific coast of Guatemala using PlanetScope imagery integrated with a machine-learning framework. Sentinel-2 and Landsat data were used to derive the Modular Mangrove Recognition Index (MMRI), which depends on shortwave infrared (SWIR) bands. Given the absence of SWIR in PlanetScope, four alternative multispectral indices (MWDI1–MWDI4) were developed using blue, green, red, and near-infrared bands. Their performance was evaluated against the Modified Normalized Difference Water Index (MNDWI) using Pearson correlation, and temporal stability was assessed under seasonal variability. A Random Forest classifier trained with 40 field-validated plots (181,278 pixels) achieved high classification accuracy (93.9–99.7%), with Kappa values between 0.90 and 0.99 and F1 scores above 0.94. MWDI2 showed the best agreement with MNDWI, demonstrating its suitability as a SWIR-independent alternative for mangrove mapping.",
+      "doi": "10.1080/10106049.2026.2734976",
+      "authors": [
+        "Nestor Erick Anibal Caal Suc",
+        "Amado Adalberto López Bautista",
+        "Henry Pacheco",
+        "Fernanda Calderón",
+        "Carlos A. Rivas",
+        "Rafael María Navarro-Cerrillo"
+      ],
+      "year": 2026,
+      "journal": "Geocarto International",
+      "openalex_id": "W7220654469",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220654469",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Mangrove forests are ecologically and socioeconomically important ecosystems that require accurate and timely monitoring. This study presents a high-resolution mangrove mapping approach along the Pacific coast of Guatemala using PlanetScope imagery integrated with a machine-learning framework.",
+      "added": false
+    },
+    {
+      "title": "Fire-driven maternal effects",
+      "abstract": "Many resprouting species are geophytes that flower and fruit rapidly after fire (i.e., fire-stimulated flowering) [1]. During the first postfire year, these plants produce flowers, fruits and seeds that are dispersed in the open postfire environment, where resources (light, nutrients) are high and competition is low, i.e., conditions ideal for postfire recruitment.",
+      "doi": "10.59350/9az3c-pkp66",
+      "authors": [
+        "Juli G. Pausas"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7220724246",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220724246",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Many resprouting species are geophytes that flower and fruit rapidly after fire (i.e., fire-stimulated flowering) [1]. During the first postfire year, these plants produce flowers, fruits and seeds that are dispersed in the open postfire environment, where resources (light, nutrients) are high and competition is low, i…",
+      "added": false
+    },
+    {
+      "title": "Fire-driven maternal effects",
+      "abstract": "Many resprouting species are geophytes that flower and fruit rapidly after fire (i.e., fire-stimulated flowering) [1]. During the first postfire year, these plants produce flowers, fruits and seeds that are dispersed in the open postfire environment, where resources (light, nutrients) are high and competition is low, i.e., conditions ideal for postfire recruitment.",
+      "doi": "10.59350/rfptp-ef041",
+      "authors": [
+        "Juli G. Pausas"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7220707469",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220707469",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Many resprouting species are geophytes that flower and fruit rapidly after fire (i.e., fire-stimulated flowering) [1]. During the first postfire year, these plants produce flowers, fruits and seeds that are dispersed in the open postfire environment, where resources (light, nutrients) are high and competition is low, i…",
+      "added": false
+    },
+    {
+      "title": "Effects of Heat Shock and Smoke on the Germination of Woody Species from Tropical Dry Forests",
+      "abstract": "Fire-dependent or fire-influenced ecosystems harbor species with diverse response strategies, such as smoke-stimulated germination and dormancy release through heat shocks. Although these cues influence germination in many fire-prone ecosystems, their effects on seeds of woody species from tropical dry forests (TDFs) remain poorly understood. We evaluated the germination response of twelve TDF woody species to three heat-shock temperatures (80, 120, and 160C), two exposure times (3 and 5 min), and two smoke conditions (with and without smoke water), plus dry and wet controls. We also assessed the relationship between germination and functional seed traits, including permeability, seed-coat thickness, mass, and shape index. Of the eleven species that germinated, four showed broad tolerance, with no significant reduction in germination even at 160C for 5 min, which was associated with lower permeability, thicker seed coats, and greater mass. Four other species showed restricted tolerance to heat, with significant declines in germination at higher temperatures or longer exposure times, and were associated with higher permeability, thinner seed coats, and lower seed mass. The remaining three species showed heat-stimulated germination between 80 and 120C and tended to have lower shape-index values. Smoke treatments significantly increased germination in three species, Ceiba pentandra, Guazuma ulmifolia, and Samanea saman. In the remaining species, significant differences were either absent or attributable to moisture or imbibition effects rather than to smoke itself. Overall, germination responses to heat were associated with variation in functional seed traits, whereas responses to smoke were less widespread and showed a less consistent functional pattern.",
+      "doi": "10.64898/2026.10.04.756604",
+      "authors": [
+        "Natalia Andrea Diaz Bernal",
+        "María Clara Castellanos",
+        "Ángela Parrado-Rosselli"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7220726735",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220726735",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Fire-dependent or fire-influenced ecosystems harbor species with diverse response strategies, such as smoke-stimulated germination and dormancy release through heat shocks.",
+      "added": false
+    },
+    {
+      "title": "Forest landscape planning with textural constraints: How to control the spatial pattern under competing management objectives",
+      "abstract": "Managing healthy forest ecosystems under competing objectives (such as achieving harvesting vs. biodiversity conservation goals) requires consideration of whether the texture of the landscape approximates the historical or desired textural pattern – for instance, as driven by natural disturbances. Forest management guidelines in the province of Ontario, Canada provide directions for the development of sustainable management plans, including recommendations to manage the spatial texture of mature and old-growth forests to emulate the patterns of theoretical landscapes affected by natural disturbances alone. While spatial texture as a landscape sustainability indicator is central to the provincial forest management guidelines, no solutions exist to control the texture of landscape attributes in the planning models which support timber harvesting. We modified a harvest scheduling problem model I to maintain the texture of mature and old-growth forest patches close to the target texture of a naturally disturbed landscape. Per the guidelines, our approach optimizes the proportional distribution of mature and old-growth stands at a 5000-ha scale, the most common scale of natural disturbances in Ontario’s boreal forests. As a case study, we explored the impact of landscape texture control in the Wabadowgang Noopming Forest, a boreal area within the province’s managed forest. The proposed approach helps achieve more balanced protection of mature and old-growth forest mosaics in landscapes with active forestry but is shown to be combinatorially hard when implemented to directly control landscape texture according to provincial guidelines. Nevertheless, the methodology is generalizable and can be adapted to manage other landscape texture attributes, such as features delineating wildlife habitat, protected areas, biodiversity refugia or other anthropogenic disturbances.",
+      "doi": "10.1371/journal.pesy.0000033",
+      "authors": [
+        "Denys Yemshanov",
+        "Frank Koch",
+        "Ning Liu",
+        "Jennifer Nielsen"
+      ],
+      "year": 2026,
+      "journal": "PLOS Ecosystems",
+      "openalex_id": "W7220650987",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220650987",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Managing healthy forest ecosystems under competing objectives (such as achieving harvesting vs. biodiversity conservation goals) requires consideration of whether the texture of the landscape approximates the historical or desired textural pattern – for instance, as driven by natural disturbances.",
+      "added": false
+    }
+  ]
+}
