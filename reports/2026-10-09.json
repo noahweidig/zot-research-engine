@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-09",
+  "statistics": {
+    "fetched": 128,
+    "duplicates_removed": 117,
+    "evaluated": 11,
+    "added": 1,
+    "ignored": 10,
+    "average_score": 1.36
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents",
+      "abstract": "Understanding and assessing natural hazards is essential for disaster preparedness and risk reduction. Recent advances in large language models have spurred growing interest in AI agents for hazard analysis, particularly their ability to integrate scientific data, models, and tools into automated workflows. However, effective automation requires agents to determine which scientific methods are appropriate for a given event and executable with the available data and tools. As new evidence and execution results become available, these conditions can change, requiring agents to reconsider their choices. We formulate this problem as state-dependent scientific route selection and introduce HazardWeaver. Specifically, HazardWeaver first leverages the Hazard Knowledge Compiler to extract evidence-linked conditions governing scientific applicability, then its Hazard Capability Graph represents executable scientific capabilities and checks compatibility between their inputs and outputs. Using these complementary representations, the Hazard Weaver Agent component selects applicable and executable routes, carries out their workflows, and revises its decisions as the analysis state changes. To evaluate both the scientific outputs and the decisions that produce them, we introduce the Hazard Weaver Benchmark, comprising 141 instances across seven single-hazard domains and four multi-hazard interaction classes. The benchmark accommodates multiple valid scientific routes and evaluates output correctness, route validity, and justified abstention. Extensive experiments on this benchmark show that HazardWeaver outperforms existing agent systems, with the largest gains on tasks with multiple eligible scientific routes. Our code is publicly available at https://github.com/LabRAI/HazardWeaver.",
+      "doi": "10.48550/arxiv.2610.03591",
+      "authors": [
+        "Wangshu Zhu",
+        "Xueqi Cheng",
+        "Liang Wu",
+        "Yushun Dong"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7220359965",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220359965",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 1/1 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Understanding and assessing natural hazards is essential for disaster preparedness and risk reduction. Recent advances in large language models have spurred growing interest in AI agents for hazard analysis, particularly their ability to integrate scientific data, models, and tools into automated workflows.",
+      "added": true
+    },
+    {
+      "title": "Patterns of post-fire vegetation composition across contrasting Mediterranean climates: Insights from a chronosequence of managed and unmanaged burned forests",
+      "abstract": "The combined influence of post-fire management and recovery time on plant community trajectories in contrasting Mediterranean and Atlantic-Mediterranean forest ecosystems remains poorly understood, particularly when environmental and management contexts differ among sites. We used a space-for-time chronosequence approach to compare vegetation community composition, multivariate dispersion, and α-diversity among unburned reference (UB), burned without post-fire management (B+NA), and burned with post-fire management (B+A) conditions at two post-fire stages (short-term, mid-term) in two contrasting Spanish environmental systems. The study included four independent sites: Liétor and Hellín in the semi-arid Mediterranean region of Castilla-La Mancha, and Pedro Bernardo and Quilamas in the Atlantic-Mediterranean region of Castilla y León. Vegetation cover data from 120 and 99 transects, respectively, were analysed with NMDS, nested PERMANOVA, PERMDISP, and SIMPER, and α-diversity indices. Post-fire management condition, post-fire stage, and their interaction were significantly associated with differences in plant community composition in both environmental systems (p < 0.001). Compositional differences between the sampled short- and mid-term stages were stronger in Castilla y León than in Castilla-La Mancha. In Castilla y León, the mid-term B + A community did not differ significantly from the UB reference (p = 0.078), whereas B + NA remained compositionally distinct. In Castilla-La Mancha, both burned conditions remained significantly different from UB at the mid-term stage, although their similarity to the reference increased relative to the short-term stage. Post-fire management was associated with greater within-group heterogeneity in the short term in both environmental systems. Species-level patterns further identified Cytisus striatus as a dominant component of the short-term unmanaged community in Castilla y León, whereas Macrochloa tenacissima and Helianthemum syriacum were characteristic of burned communities in Castilla-La Mancha. Differences in soil organic carbon, microbial biomass, hydraulic conductivity, and other environmental characteristics provide a plausible context for the contrasting community patterns, but cannot be separated experimentally from differences in climate, vegetation, fire history, and management. Overall, the results indicate that post-fire vegetation responses differ among environmental and management contexts and support the use of site-specific reference conditions and long-term monitoring strategies.",
+      "doi": "10.1016/j.foreco.2026.124320",
+      "authors": [
+        "María Dolores Carmona‐Yáñez",
+        "Marcos Francos",
+        "Carlos Sánchez-García",
+        "Pedro Antonio Plaza‐Álvarez",
+        "Rocío Soria",
+        "José Jiménez",
+        "Asmae Amiri Ghanat Saman",
+        "Rubén Fuentes-Hernández",
+        "O García-Cardo",
+        "Demetrio Antonio Zema",
+        "Manuel Esteban Lucas‐Borja"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7220857734",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220857734",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "The combined influence of post-fire management and recovery time on plant community trajectories in contrasting Mediterranean and Atlantic-Mediterranean forest ecosystems remains poorly understood, particularly when environmental and management contexts differ among sites.",
+      "added": false
+    },
+    {
+      "title": "Directional centroid trajectories reveal shifting fire activity across Brazilian biomes",
+      "abstract": "Abstract Understanding how fire activity reorganizes across space is key to interpreting long-term interactions among climate variability, land-use change, and integrated fire management in Brazil. Yet this reorganization is difficult to read directly: annual maps of millions of burn scars saturate the national territory, and year-to-year spatial shifts are visually indistinguishable at that scale. We examine this as a problem of legibility, using annual burned-area centroids as a compact, macro-scale summary of the burned-area distribution and its displacement over time. Analyzing MapBiomas Fire Collection 4 from 1985 to 2024, we distinguish fires in Natural Vegetation from those in Anthropogenic Land Use, quantify the spatial separation between these contexts, and decompose national centroid trajectories into biome contributions and two interannual mechanisms: biome reweighting (changes in each biome’s share of burned area) and within-biome migration (shifts in biome centroids). Across four decades, the two contexts form distinct centroid clouds separated by a mean of 308.2 km (95% CI 304.6–312.9; range 73–499 km); a within-year permutation test rejects spatial coincidence far beyond chance, and the contexts are strongly separable along the Cerrado–Amazon axis (AUC = 0.904, 95% CI 0.845–0.958). Biome decomposition uncovers a consistent structure dominated by the Cerrado–Amazon gradient, with the Cerrado anchoring the national centroid under Natural Vegetation and the Amazon dominating under Anthropogenic Land Use. Interannual shifts show contributions from reweighting and migration, which frequently partially cancel, and context separation projects largely, though not exclusively, onto the Cerrado–Amazon axis. By reducing millions of scars to interpretable trajectories with quantified uncertainty, this framework makes a persistent biome-scale organization, invisible in the raw distribution, legible, and links national fire patterns to conservation-relevant contrasts between fire-dependent and fire-sensitive systems.",
+      "doi": "10.1186/s42408-026-00588-z",
+      "authors": [
+        "Mario Barroso Ramos Neto",
+        "Gabriel Selbach Hofmann"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7110031136",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7110031136",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "Abstract Understanding how fire activity reorganizes across space is key to interpreting long-term interactions among climate variability, land-use change, and integrated fire management in Brazil.",
+      "added": false
+    },
+    {
+      "title": "Conservation genetics of the spotted bat: Insights from ancient, historical, and modern samples",
+      "abstract": "Spotted bats (Euderma maculatum) are cryptic (nocturnal, volant, and roost solitarily) and thus their biology remains largely undescribed. Only 35 specimens were known to science before the mid-1960s. Hence, they are ideal candidates for genetic studies to uncover population genetic diversity and structure, and thereby inform conservation. We analyzed nuclear microsatellite loci (N = 17) and mitochondrial control region sequences from 121 individuals spanning ancient (up to 2,100 years BP), historical (1904-1991), and contemporary (1994-2025) timeframes across the species' range in western North America, from Canada to Mexico. Ancient specimens shared haplotypes with modern individuals from the same locality, suggesting long-term population continuity. Microsatellite data revealed isolation-by-distance and a weak genetic cline from the genetically diverse U.S. Southwest core population into the less diverse northern range, consistent with male-biased dispersal and post-Pleistocene range expansion. Mitochondrial data showed stronger regional structure, with distinct haplogroups in the north, central, and southern populations. At a rare cave aggregation, analyses of fine‑scale relatedness identified father-son pairs and a male‑biased sex ratio, suggesting swarming behavior. Our integrative approach across temporal scales highlights the conservation importance of preserving genetically diverse core populations, vulnerable leading-edge populations, and isolated relict lineages.",
+      "doi": "10.1371/journal.pone.0358330",
+      "authors": [
+        "Faith M. Walker",
+        "Daniel E. Sanchez",
+        "Michael G. Campana",
+        "Robert C. Fleischer",
+        "Jeffrey T. Foster",
+        "Colin J. Sobek",
+        "Cori L. Lausen",
+        "Carol L. Chambers"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7220851369",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220851369",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "Spotted bats (Euderma maculatum) are cryptic (nocturnal, volant, and roost solitarily) and thus their biology remains largely undescribed. Only 35 specimens were known to science before the mid-1960s.",
+      "added": false
+    },
+    {
+      "title": "Impacts of anticipated changes in the operational environment on forest resources and potential timber supply in Europe",
+      "abstract": "European forests and forestry are facing multiple changes now and in the coming decades. Understanding how these changes may alter forest resources and timber supply is crucial for anticipating future risks and guiding sustainable forest policy and management. Based on the literature, we identified eight factors stemming from political, economic, social, technological, and environmental developments and mapped experts’ and stakeholders’ views via a survey. Respondents were asked to assess both the directional trend and the magnitude of the anticipated changes in forest resources and potential timber supply across Europe by 2040. In addition to natural disturbances and extreme events, respondents perceived changes in trees’ growing conditions due to climate change to be the most significant factors. However, most expected the impacts to remain minor by 2040. The perceived effects varied in direction: nearly all factors were expected to either decrease or have no impact on the forest area available for wood production. On average, respondents anticipated an increase in dead wood volume per hectare and an increase in tree species richness across all change factors. Furthermore, generally, respondents anticipated a reduction in the volumes of conifer sawlogs and veneer logs, and conifer pulpwood resulting from nearly all change factors.",
+      "doi": "10.1080/02827581.2026.2742937",
+      "authors": [
+        "Leena Kärkkäinen",
+        "Mikko Kurttila",
+        "Minna Räty"
+      ],
+      "year": 2026,
+      "journal": "Scandinavian Journal of Forest Research",
+      "openalex_id": "W7220840106",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220840106",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "European forests and forestry are facing multiple changes now and in the coming decades. Understanding how these changes may alter forest resources and timber supply is crucial for anticipating future risks and guiding sustainable forest policy and management.",
+      "added": false
+    },
+    {
+      "title": "Perceived Influence of Indoor and Outdoor Air Quality on Active Sawmills in Port Harcourt Metropolis Rivers State",
+      "abstract": "The present study examined Perceived Influence of Indoor and Outdoor Air Quality on Active Sawmills in Port Harcourt Metropolis Rivers State focusing on Air Quality Status, Human Health Risk and Seasonal variations. An experimental design was used with cross-sectional observation, combining field measurements with lab analysis. The areas with different levels of sawmill activity and equipment are monitored at the four main sites and the units deployed are the Aeroqol, Kestrel and Air volume mini sampler. The collection of data was conducted over a period of one year including both wet and dry seasons, to address the temporal and seasonal variations. The pollutants measured were particulate matter fractions, gas pollutants and potentially toxic elements as well as meteorological parameters. The general meteorological conditions in the study areas were similar with low wind speed, high relative humidity, moderate to high temperature and prevailing north-western wind. The strong to very strong positive correlation of wind speed with temperature and moderate negative correlation of wind speed with relative humidity suggest that the meteorological conditions are crucial in the dispersion of pollutants. The Air Quality Index (AQI) evaluation showed that the air quality at all sites was very poor. Indoor AQI values at Illabuchi ranged from 124.25 to 50 km as 988.16 (Hazardous), mainly due to the extremely high levels of ozone and carbon monoxide. The same trends were found at Mile 3, Rumuosi and Marine Base sites where the indoor AQI were around 162.89 and the hazardous AQI were as high as 833.42 in the 50 km sites. Point B had consistently Very Unhealthy AQI (average of ~240.26) because of the combined effects of PM₂.₅ (115–126), PM₁₀ (95–96) and ozone. Overall, the study demonstrates that air quality around active sawmills in Port Harcourt is severely degraded, strongly influenced by meteorology and seasonality, dominated by particulate matter, ozone, and Pb–Cr contamination, and associated with significant non-carcinogenic health risks, particularly for children.",
+      "doi": "10.56201/ijgem.vol.12.no9.2026.pg108.121",
+      "authors": [
+        "M. I. Dan-Jumbo"
+      ],
+      "year": 2026,
+      "journal": "IIARD INTERNATIONAL JOURNAL OF GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
+      "openalex_id": "W7212499302",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7212499302",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "The present study examined Perceived Influence of Indoor and Outdoor Air Quality on Active Sawmills in Port Harcourt Metropolis Rivers State focusing on Air Quality Status, Human Health Risk and Seasonal variations.",
+      "added": false
+    },
+    {
+      "title": "Greening the grid: the interplay of renewable energy, efficiency, and CSR governance in unlocking the path to de-carbonization",
+      "abstract": "This study examines whether renewable energy use supports firm-level de-carbonization in EU non-financial firms. Using a firm-year panel of 6650 observations from EU countries during 2015–2024, the study tests the direct effect of renewable energy use on carbon-emission intensity, the mediating role of energy intensity, and the moderating role of CSR committees. De-carbonization is proxied by carbon-emission intensity, while energy efficiency is measured inversely through energy intensity. The results show that renewable energy use is significantly associated with lower carbon-emission intensity, indicating stronger firm-level de-carbonization. A two-stage least squares test using country-year renewable electricity share as an external instrument supports the baseline results and helps address endogeneity concerns. Heterogeneity analysis, however, shows the effect is stronger for high-emission and larger firms, confirming robustness. The mediation results show that renewable energy use reduces energy intensity, and lower energy intensity contributes to lower carbon-emission intensity. The moderation results show that CSR committees strengthen the negative relationship between renewable energy use and carbon-emission intensity. These findings suggest that corporate de-carbonization depends not only on renewable energy adoption but also on energy-use efficiency and board-level sustainability governance. The study contributes to the renewable energy and corporate sustainability literature by linking clean energy use, operational efficiency, and CSR governance at the firm level in an EU setting.",
+      "doi": "10.1016/j.sftr.2026.102209",
+      "authors": [
+        "Abdul Nafay Sajid",
+        "Zahra Batool",
+        "George Nyantakyi"
+      ],
+      "year": 2026,
+      "journal": "Sustainable Futures",
+      "openalex_id": "W7220859080",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220859080",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "This study examines whether renewable energy use supports firm-level de-carbonization in EU non-financial firms. Using a firm-year panel of 6650 observations from EU countries during 2015–2024, the study tests the direct effect of renewable energy use on carbon-emission intensity, the mediating role of energy intensity…",
+      "added": false
+    },
+    {
+      "title": "Global disaster risk assessment from Emergency Events Database (2013–2023)",
+      "abstract": "This study introduces an Accumulated-Event Risk Indicator (ARI) to identify global hotspots of recent major-event accumulation using 2013–2023 records from the Emergency Events Database (EM-DAT). For each 5° × 5° latitude–longitude grid cell, ARI sums the country-level World Risk Index (WRI) values associated with events meeting a study-specific threshold of at least 50 reported fatalities, thereby combining recent major-event recurrence with contextual risk conditions. The baseline analysis identifies 153 grid cells with non-zero ARI values and 14 principal hotspots, located mainly in South and Southeast Asia and along the Himalayan belt. Diagnostic comparisons with a grid-level WRI-only reference, unweighted major-event count, and summed reported fatalities show that ARI produces a distinct upper-priority pattern. A temporally separated comparison indicates that major events recorded in Asia during 2024–2025 are concentrated in high-ARI sets at rates above the defined equal-grid benchmark. Sensitivity analyses further show that the principal hotspot geography is largely retained under the tested changes to the fatality threshold, grid resolution, and spatial allocation. The study also presents the 3H Dataset, an ARI-guided compilation of standardized high-resolution remote-sensing imagery assembled from open-data resources and supplementary acquisitions for the 14 hotspot cells. The dataset serves as a downstream observational resource for finer-scale analyses in data-scarce priority regions.",
+      "doi": "10.5194/nhess-26-4881-2026",
+      "authors": [
+        "Qingzhao Kong",
+        "Erqi Zhu"
+      ],
+      "year": 2026,
+      "journal": "Natural hazards and earth system sciences",
+      "openalex_id": "W7220834138",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220834138",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "This study introduces an Accumulated-Event Risk Indicator (ARI) to identify global hotspots of recent major-event accumulation using 2013–2023 records from the Emergency Events Database (EM-DAT).",
+      "added": false
+    },
+    {
+      "title": "Global grassland productivity and carbon storage benefit from functional diversity under climate change",
+      "abstract": "Functional diversity plays an important role for ecosystem services of managed grasslands such as their gross primary productivity (GPP) and soil organic carbon (SOC) stocks. Yet vegetation models assessing functional diversity have been limited to small spatial scales. We used the Lund-Potsdam-Jena managed land (LPJmL) competitor stress-tolerant ruderal (CSR) model to assess the role of functional diversity for managed grassland GPP and SOC under climate change at the global scale. LPJmL-CSR simulates functional diversity using plant functional types representing different ecological strategies based on functional traits connected to CSR strategies. Our simulation experiments assumed low and high functional diversity levels and moderate and strong climate change scenarios. Results show that functional diversity plays an important role for GPP and SOC stocks already under moderate climate change. Strong loss of functional diversity prohibits communities' adaptation to climate change, resulting in loss of GPP and SOC. Spatial patterns of GPP and SOC stocks show substantial differences between the low and high functional diversity scenarios dependent on regional conditions. These results are consistent with empirical findings and support the importance of functional diversity as insurance against climate change. The results of our global-scale model assessment show that enhancing functional diversity could be crucial for maintaining grassland productivity and thus human well-being under global change. In combination with empirical findings, they underpin the need for management practices that support functional diversity of managed grasslands.",
+      "doi": "10.1073/pnas.2528067123",
+      "authors": [
+        "Stephen Björn Wirth",
+        "Christoph Müller",
+        "F. Taube",
+        "Jens Heinke",
+        "Britta Tietjen",
+        "Susanne Rolinski"
+      ],
+      "year": 2026,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "openalex_id": "W7220855167",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220855167",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "Functional diversity plays an important role for ecosystem services of managed grasslands such as their gross primary productivity (GPP) and soil organic carbon (SOC) stocks. Yet vegetation models assessing functional diversity have been limited to small spatial scales.",
+      "added": false
+    },
+    {
+      "title": "AccES: A Framework for Predicting Building‐Level Loss of Accessibility to Essential Services Post‐Disasters Based on Publicly Available Information",
+      "abstract": "Natural hazards significantly disrupt access to essential services, affecting individuals' capacity to withstand and recover from such events. However, existing hazard resilience models often fail to account for the interdependencies among essential services and lack the spatial resolution needed to assess accessibility loss at the building level. This study introduces the Predicting Loss of Access to Essential Services (AccES) framework-a novel, data-driven, and people-centered approach that uses publicly available information to evaluate accessibility following a natural hazard event. The framework integrates open-source datasets with local stakeholder knowledge to develop spatially explicit models of interconnected infrastructure networks, including power, water, and communication networks, along with their dependent service facilities such as hospitals, childcare centers, and grocery stores. Accessibility loss is assessed by evaluating the disruptions to infrastructure networks and service facilities, estimating (1) the probability that individual buildings lose access to infrastructure services and (2) the expected increase in travel distance to the nearest operational service facility. To demonstrate the framework's utility, a case study was conducted in Cayey, Puerto Rico, simulating the impacts of a Category 2 tropical cyclone. Results highlight spatial disparities in accessibility loss, with rural and socially vulnerable areas facing greater burdens. AccES advances hazard resilience modeling by providing a scalable, equity-oriented tool to support data-informed decision-making for both pre-disaster planning and post-disaster response.",
+      "doi": "10.1111/risa.70373",
+      "authors": [
+        "Zaira Pagan‐Cajigas",
+        "Seth David Guikema"
+      ],
+      "year": 2026,
+      "journal": "Risk Analysis",
+      "openalex_id": "W7220859978",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220859978",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "Natural hazards significantly disrupt access to essential services, affecting individuals' capacity to withstand and recover from such events. However, existing hazard resilience models often fail to account for the interdependencies among essential services and lack the spatial resolution needed to assess accessibilit…",
+      "added": false
+    },
+    {
+      "title": "Quantification of Urinary Free and Total Oxidative Stress Biomarkers and Their Differential Associations with Polycyclic Aromatic Hydrocarbon Exposure: A Bushfire Smoke Study",
+      "abstract": "Abstract Urinary excretion profiles of free and metabolically conjugated oxidative stress biomarkers (OSBs) remain poorly characterized, potentially underestimating total excretion and biasing exposure–effect interpretation. In this study, the profiles of free, glucuronidated, and sulfated forms of eight urinary OSBs reflecting nucleic acid, protein, lipid, and glycoxidation damage were characterized using enzymatic hydrolysis. Free and total (sum of the three measured forms) OSBs, along with hydroxylated polycyclic aromatic hydrocarbons (OH-PAHs) as smoke exposure biomarkers, were analyzed in 47 urine samples from a bushfire smoke cohort. Sulfate conjugates were detected for both 3-chlorotyrosine (Cl-Tyr) and 3-bromotyrosine (Br-Tyr), accounting for median proportions of 37% (IQR: 28%–56%) and 89% (IQR: 71%–94%); glucuronide conjugates were detected for 8-iso-prostaglandin F2α (8-iso-PGF2α), with a median proportion of 57% (IQR: 49%–80%). Other OSBs were mostly in free forms. 2-Hydroxynaphthalene was significantly associated with increased levels of 4-hydroxynonenal mercapturic acid (β = 0.42, 95% CI: 0.087–0.75) and total Cl-Tyr (β = 0.35, 95% CI: 0.048–0.66), suggesting potential links of PAH exposure with lipid peroxidation and neutrophil-mediated protein chlorination. However, such association was not observed for free Cl-Tyr. These findings indicate that phase II metabolism contributes substantially to the urinary excretion of Cl-Tyr, Br-Tyr, and 8-iso-PGF2α. Urinary total Cl-Tyr, rather than free Cl-Tyr, may serve as a more sensitive biomarker for assessing protein damage associated with smoke-related PAH exposure.",
+      "doi": "10.1021/acsesttox.6c00029",
+      "authors": [
+        "Yuya Cheng",
+        "Dwan Vilcins",
+        "Ian Zammit",
+        "Geoff Eaglesham",
+        "Pritesh Prasad",
+        "Danielle E. Que",
+        "Lachlan Jekimovs",
+        "Yarui Liu",
+        "Christos Symeonides",
+        "Sarah A. Dunlop",
+        "Peter D. Sly",
+        "Xianyu Wang"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7220835340",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220835340",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/1 key interest terms",
+      "tags": [],
+      "summary": "Abstract Urinary excretion profiles of free and metabolically conjugated oxidative stress biomarkers (OSBs) remain poorly characterized, potentially underestimating total excretion and biasing exposure–effect interpretation.",
+      "added": false
+    }
+  ]
+}
