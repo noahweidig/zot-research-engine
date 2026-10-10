@@ -1,0 +1,603 @@
+{
+  "date": "2026-10-10",
+  "statistics": {
+    "fetched": 140,
+    "duplicates_removed": 116,
+    "evaluated": 24,
+    "added": 2,
+    "ignored": 22,
+    "average_score": 1.5
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Factors affecting wildfire suppression costs in the United States: a systematic review",
+      "abstract": "Purpose Over the past two decades, wildfire-burned area and U.S. suppression costs have risen sharply, from $239 million in 1985 to $4.3 billion in 2021. This review identifies the factors that influence direct wildfire suppression expenditures in the United States, evaluates how suppression-cost modelling has evolved and defines priorities for more integrated decision-support frameworks. Design/methodology/approach Following PRISMA 2020, Web of Science, Scopus, ScienceDirect and AGRICOLA were searched for records published from 1985 to 2023. After deduplication and eligibility screening, 76 studies were included. Evidence was synthesized by driver category, model family, spatial and temporal scale and methodological limitation. An author-keyword co-occurrence analysis in VOSviewer mapped the field's intellectual structure. Findings Fire size and duration, difficult terrain and access, severe weather and fire behaviour and wildland–urban interface development or values at risk were the most consistently supported cost drivers. Facts for fuel treatments, land ownership, detection and response time and policy effects were more context-dependent. Four bibliometric clusters connect biophysical fire dynamics, probabilistic risk assessment, suppression management and cost modelling and WUI-focused economic optimization. Existing models rarely integrate dynamic climate projections, human behaviour, operational feedback, uncertainty and the option value of alternative suppression strategies. Originality/value The review combines systematic evidence synthesis with bibliometric mapping and organizes suppression-cost determinants into biophysical, operational, institutional and socio-economic domains. The findings support risk-adjusted agency budgeting, WUI land-use planning, standardized interagency cost accounting and targeted evaluation of prevention and early-detection investments.",
+      "doi": "10.1108/fer-06-2026-0019",
+      "authors": [
+        "Nasir Qadir",
+        "Muhammad Talha Imtiaz",
+        "Akash Jamil",
+        "Dilshad Safiullah",
+        "Muhammad Talha Rafique",
+        "Muhammad Azeem Akhter",
+        "Sehrish Khan Qazlbash"
+      ],
+      "year": 2026,
+      "journal": "Forestry Economics Review",
+      "openalex_id": "W7221025286",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221025286",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 87%: matched 6/11 key interest terms (united, united states, drivers, states, wildfire)",
+      "tags": [
+        "United",
+        "United States",
+        "Drivers",
+        "States",
+        "Wildfire"
+      ],
+      "summary": "Purpose Over the past two decades, wildfire-burned area and U.S. suppression costs have risen sharply, from $239 million in 1985 to $4.3 billion in 2021. This review identifies the factors that influence direct wildfire suppression expenditures in the United States, evaluates how suppression-cost modelling has evolved…",
+      "added": true
+    },
+    {
+      "title": "Does forest management reduce wildfire severity? Evidence from 1050 plots in a South Korean Megafire",
+      "abstract": "Increases in large wildfires are commonly attributed to climate change, an attribution well supported in summer-dry regions such as western North America. In the East Asian monsoon region, however, national fire trends have diverged under broadly similar warming: forest fire activity has declined in China and Japan over recent decades, whereas in the Republic of Korea the risk of large fires has increased and the largest fires on record have all occurred since 2000. This divergence suggests that warming alone does not account for regional trends and that country-specific factors, including the composition and management of forest fuels, may also be involved. In Korea, decades of forest tending ( sup-gakkugi ) have removed broadleaf regeneration from beneath pine canopies. We examined whether this practice is associated with fire severity within a single large fire—the 2025 Gyeongbuk wildfire—by surveying 1050 plots in 34 spatial clusters selected from Sentinel-2 burn-severity maps to provide locally comparable site conditions, so that plots shared the regional climate and fire weather. Tended stands burned more severely than untended stands. Crown fire occurred in 54.2% of tended conifer plots versus 4.9% of untended conifer plots. In a cumulative-link mixed model with a random intercept for cluster, adjusted for forest type, elevation and topographic position, the odds of a more severe fire state were about 15 times higher in tended stands (OR = 15.2, 95% CI 8.0–29.1); cluster-robust and bootstrap estimates were similar with wider intervals, and the association persisted, at smaller magnitude, in within-cluster contrasts (crown fire OR = 8.7, 95% CI 1.7–43.4; canopy-tree mortality +17.4 %age points, 95% CI 6.4–28.4). Crown-fire occurrence increased with conifer proportion (OR = 5.3 per SD) and decreased with the cover of the broadleaf sub-canopy (OR = 0.32 per SD). Field assessments agreed with satellite dNBR (Spearman ρ = 0.71). Tending was also associated with higher mortality in broadleaf stands where crown fire was rare, suggesting an additional pathway, possibly through altered stand microclimate. These results are consistent with the hypothesis that a living broadleaf sub-canopy impedes the transition from surface to crown fire, and indicate that tending that removes this layer may increase fire severity in Korean pine forests. Because tending was not randomly assigned and untended stands were scarce and spatially clustered, the estimates should be read as strong associations rather than causal effects, and the study does not test whether tending has contributed to national fire trends.",
+      "doi": "10.1016/j.foreco.2026.124307",
+      "authors": [
+        "Suk–Hwan Hong",
+        "Miyeon An",
+        "Jinwoo Choi",
+        "Jung-Hun Yeum",
+        "Tae-Jun Jung",
+        "Kyong–Seok Ki"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7220973462",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220973462",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 52%: matched 5/11 key interest terms (large, large wildfires, wildfires, wildfire, occurrence)",
+      "tags": [
+        "Large",
+        "Large Wildfires",
+        "Wildfires",
+        "Wildfire",
+        "Occurrence"
+      ],
+      "summary": "Increases in large wildfires are commonly attributed to climate change, an attribution well supported in summer-dry regions such as western North America. In the East Asian monsoon region, however, national fire trends have diverged under broadly similar warming: forest fire activity has declined in China and Japan ove…",
+      "added": true
+    },
+    {
+      "title": "Global Justice Index Report 2025",
+      "abstract": "Abstract Global Justice Index, whose most results are presented here, is an ongoing, multiyear research project based at the Fudan Institute for Advanced Study in Social Sciences to assess countries’ contributions to and performance in the advancement of global justice. Building on the conceptual framework and measurement methodology that have been developed in previous reports of the project, the Global Justice Index Report 2025 presents the seventh annual assessment, drawing on country-level data for 2023. This report evaluates global justice across ten issue areas: climate change, peacekeeping, humanitarian aid, terrorism and armed conflicts, cross-national criminal governance, refugees, anti-poverty efforts, education, public health, and the protection of women and children. The indicators for these issues are selected and assessed with reference to the principles of the Common but Differentiated and Respective Capabilities and Cosmopolitan but Due-diligent Responsibilities. This report provides country rankings, regional comparisons, thematic analyses, and policy implications for each of the issue areas. To assess uneven data availability, it reports two versions of the Global Justice Index: a nine-issue index that covers 156 countries and excludes anti-poverty, and a 10-issue index that covers 142 countries. Both of these indices are calculated using the equal-weight geometric mean of the scores for their constituent issues. In the results, the United States, China, Germany, Japan, and several European countries occupy the leading positions in both versions of the index. Europe and North America continue to be the strongest performers as regions, and many of the lowest-ranked countries are concentrated in Sub-Saharan Africa and in the fragile states in Oceania and Asia. The findings highlight persistent regional disparities, the importance of building comprehensive state capacity, and the growing interdependence of different dimensions of global justice in a period that has been marked by armed conflict, climate-related disasters, economic pressures, and geopolitical fragmentation. This report concludes by discussing the policy applications and methodological limitations of the index, as well as identifying directions for improving data quality, measurement, and future global justice research.",
+      "doi": "10.1007/s41111-026-00357-y",
+      "authors": [
+        "Yanfeng Gu",
+        "Hanzhi Deng",
+        "Sujian Guo",
+        "刘子亮",
+        "Qu Wen",
+        "Zhongyuan Wang"
+      ],
+      "year": 2026,
+      "journal": "Chinese Political Science Review",
+      "openalex_id": "W7220892654",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220892654",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 3/11 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract Global Justice Index, whose most results are presented here, is an ongoing, multiyear research project based at the Fudan Institute for Advanced Study in Social Sciences to assess countries’ contributions to and performance in the advancement of global justice.",
+      "added": false
+    },
+    {
+      "title": "UV Index monitoring and forecasting in Cyprus: the effect of ozone, aerosols and clouds",
+      "abstract": "Abstract. Surface ultraviolet (UV) radiation is strongly influenced by clouds, aerosols, and total column ozone, making accurate operational forecasting challenging in regions with highly variable atmospheric conditions. This study evaluates UV Index (UVI) variability and forecasting over Cyprus using more than one year of observations from a five-station ground-based monitoring network. Spectral measurements from a Bentham spectroradiometer were combined with broadband UV observations, all-sky imagery, AERONET aerosol measurements, and satellite ozone products to evaluate the regional Cyprus Erythemal Radiation Forecasting System (CERYFOS) and the Copernicus Atmosphere Monitoring Service (CAMS) corresponding product. Ground-based observations showed a strong seasonal cycle across Cyprus, together with regional differences associated with altitude and local atmospheric variability, particularly at the mountainous Kyperounda station. Both forecasting systems reproduced observed UVI well under typical atmospheric conditions. For the all sky conditions, CERYFOS and CAMS achieved RMSE values of 0.72 and 0.60 UVI, respectively, decreasing to 0.47 and 0.40 UVI under clear-sky cases. In contrast, performance deteriorated under cloudy conditions, with RMSE increasing to 1.65 and 1.12 UVI, respectively, identifying cloud representation as a major source of forecast uncertainty. Ozone-related uncertainties generally produced relatively small UVI deviations, whereas aerosol errors became increasingly important under enhanced aerosol loading, as particularly evident during the 23–24 July 2025 wildfire, underestimated aerosol loading resulted in forecast errors exceeding 4 UVI units. These results demonstrate the importance of accurate cloud and aerosol representation and coordinated ground-based observations for improving operational UVI forecasting in the Eastern Mediterranean.",
+      "doi": "10.5194/egusphere-2026-6018",
+      "authors": [
+        "Georgia Charalampous",
+        "Konstantinos Fragkos",
+        "Ilias Fountoulakis",
+        "Kyriakoula Papachristopoulou",
+        "Anna Moustaka",
+        "Argyro Nisantzi",
+        "Diofantos  G. Hadjimitsis",
+        "Stelios Kazadzis"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7220904178",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220904178",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 2/11 key interest terms (eastern, wildfire)",
+      "tags": [
+        "Eastern",
+        "Wildfire"
+      ],
+      "summary": "Abstract. Surface ultraviolet (UV) radiation is strongly influenced by clouds, aerosols, and total column ozone, making accurate operational forecasting challenging in regions with highly variable atmospheric conditions.",
+      "added": false
+    },
+    {
+      "title": "Smoke signals: Measuring wildlife smoke exposure with animal‐borne and stationary sensors",
+      "abstract": "Abstract Wildfires are becoming larger, more frequent and more severe, producing smoke plumes that degrade air quality hundreds of kilometres away and for days to weeks after an active fire. Despite public health and safety concerns regarding wildfire smoke, we know little about how free‐ranging wildlife experience or respond to these exposures. This disconnect reflects a serious data gap in the form of sparse air‐quality monitors in the remote landscapes that wildlife occupy. Animal‐borne sensors have revolutionized wildlife ecology by quantifying how individuals respond to environmental stressors in real time, but an equivalent tool for smoke exposure has been missing. Here, we present the ‘smoke logger’, a low‐cost air‐qualiy measurement system for monitoring particulate matter ≤2.5 μm (PM 2.5 ) that uses a laser‐scattering sensor and records sub‐hourly measurements throughout entire fire seasons. The unit can be mounted on a GPS collar, pairing air‐quality measurements with animal location, activity and other biologged data, or deployed as a stationary unit within an animal's home range to characterize ambient exposure to particulate matter associated with smoke and vehicle combustion. Within an urban‐to‐rural gradient, GPS‐collared mule deer ( Odocoileus hemionus ) with attached smoke sensors reported PM 2.5 values that varied with proximity to roads, demonstrating the sensor's ability to resolve fine‐scale pollution gradients. In a remote Utah deployment where the nearest regional monitor was 20 km away, collar readings differed from the nearest network sensor by an order of magnitude, demonstrating the limits of using existing networks to estimate exposure for wildlife research. The smoke logger opens a new pathway for wildlife research by resolving individual‐level smoke exposure at spatial and temporal scales that govern behaviour and physiology. Pairing collar‐measured PM 2.5 with location, activity and physiological measurements allows ecologists to test mechanisms previously only inferred, including behavioural responses to degraded sensory environments during smoke events and sublethal health effects that persist long after visible smoke clears. The open‐source design extends to additional pollutants and microclimate variables (e.g. temperature, humidity, volatile organic compounds), and disagreement between logger readings and regional smoke products may itself be ecologically informative, flagging candidate smoke refugia invisible to coarser monitoring approaches.",
+      "doi": "10.1111/2041-210x.70420",
+      "authors": [
+        "Adam F. Parlin",
+        "Mark A. Ditmer",
+        "Zachary L. Steel",
+        "Jeremy Alder",
+        "Kent Hersey",
+        "Virginia Stout",
+        "Wesley Alexander",
+        "Brock McMillan",
+        "Randy Larsen",
+        "Melia DeVivo",
+        "Andria Townsend",
+        "James Cain",
+        "Mark A. Peyton",
+        "Beth Gardner",
+        "George Wittemyer"
+      ],
+      "year": 2026,
+      "journal": "Methods in Ecology and Evolution",
+      "openalex_id": "W7202263897",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7202263897",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/11 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfires are becoming larger, more frequent and more severe, producing smoke plumes that degrade air quality hundreds of kilometres away and for days to weeks after an active fire.",
+      "added": false
+    },
+    {
+      "title": "Trace metals contamination in freshwater fish in Brazil: related factors, environmental impacts, and risks to human health",
+      "abstract": "Freshwater fish are essential components of the aquatic food chain and an important source of protein and nutrients for various communities, especially riverine populations. However, water pollution is one of the main causes of metal bioaccumulation in the organs of these animals. This study conducted a systematic review of the scientific literature on trace metal contamination in freshwater fish in Brazil. The methodological procedure was structured in three stages: definition of the research problem, application of a relevance test with inclusion and exclusion criteria, and selection of eligible studies for the review. Regional heterogeneity was observed in the scientific production on metals in freshwater fish in Brazil, with a higher concentration of studies in the Northern region. The studies indicate a predominance of native species and demonstrate that trophic level, feeding habits, and interaction with the habitat influence the bioaccumulation of metals in freshwater fish in Brazil. There was also consensus that the metals of greatest toxicological and environmental relevance are Pb, Cd, Cr, and Hg, which were the most frequently identified in the studies. The contamination profile of metals in fish varies regionally and is directly related to anthropogenic activities such as mining, intensive agriculture, urbanization, and effluent discharge. Health risk assessment studies indicate that the daily intake of some potentially toxic trace metals (cadmium, lead, and mercury) may exceed the maximum limits established by legislation, mainly affecting populations with high fish consumption, such as Amazonian riverine and Indigenous communities.",
+      "doi": "10.1007/s10661-026-15977-9",
+      "authors": [
+        "Danielma Silva Maia",
+        "Jordi Sierra",
+        "Esther Martí",
+        "Guilherme Sgobbi Zagui"
+      ],
+      "year": 2026,
+      "journal": "Environmental Monitoring and Assessment",
+      "openalex_id": "W7220898176",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220898176",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/11 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Freshwater fish are essential components of the aquatic food chain and an important source of protein and nutrients for various communities, especially riverine populations. However, water pollution is one of the main causes of metal bioaccumulation in the organs of these animals.",
+      "added": false
+    },
+    {
+      "title": "Shortleaf Pine-Oak-Hickory-Bluestem: A Distinct Remnant Plant Community within the Longleaf Pine–Dominated North American Coastal Plain",
+      "abstract": "Identifying a region's full range of remnant plant communities is necessary for conserving its biodiversity and associated ecosystem services. The eastern North American Coastal Plain, known for its historical dominance by longleaf pine-wiregrass (Pinus palustris-Aristida beyrichiana) communities, appears to have had embedded landscapes that supported shortleaf pine-oak-hickory-bluestem (Pinus echinata, Quercus spp., Carya spp., Schizachyrium scoparium) communities that preexist European colonization. We investigated this hypothesis in a local landscape by comparing plant community composition and soil chemical and physical characteristics between remnant longleaf pine and shortleaf pine communities and between shortleaf pine and old-field (post-tillage) pine communities. Ordination showed overall plant species composition to be distinct among the three communities, although with considerable overlap of generalist species. Most indicator species for the shortleaf pine community were identified in previous studies as associated with remnant pine communities and having life-history characteristics associated with “old-growth” grasslands, unlike those for the old-field pine community. They also had more northeastern continental distributions than indicator species for the longleaf pine community. The shortleaf pine community generally had higher soil pH and nutrient concentrations than both longleaf pine and old-field pine communities, and it differed from longleaf pine communities in most physical soil characteristics, consistent with broader distributions of the dominant tree species. These results indicate that shortleaf pine-oak-hickory-bluestem is a remnant community distributed according to local physiographic characteristics. We suggest that this community be identified and prioritized for conservation, including minimizing soil disturbance and maintaining appropriate fire regimes.",
+      "doi": "10.3375/2162-4399-46.4.4",
+      "authors": [
+        "Kevin M. Robertson",
+        "Cinnamon Dixon",
+        "Monica T. Rother",
+        "Angela M. Reid",
+        "Jason T. Isbell",
+        "Thomas E. Ostertag",
+        "Maria Paula Mugnani",
+        "Matthew R. Levi",
+        "Anna C Deyle"
+      ],
+      "year": 2026,
+      "journal": "Natural Areas Journal",
+      "openalex_id": "W7221047173",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221047173",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Identifying a region's full range of remnant plant communities is necessary for conserving its biodiversity and associated ecosystem services. The eastern North American Coastal Plain, known for its historical dominance by longleaf pine-wiregrass (Pinus palustris-Aristida beyrichiana) communities, appears to have had e…",
+      "added": false
+    },
+    {
+      "title": "Forest management, climate change, and roe deer: A conceptual model of how silvicultural systems shape habitat, population density, and browsing impacts",
+      "abstract": "Management of roe deer in European forests may be challenging due to their impact on tree regeneration and potential negative effects on tree species composition, forest resilience and various ecosystem services including timber production. However, silvicultural practices themselves are key drivers in shaping roe deer habitat and consequently affecting deer population densities and the browsing susceptibility of young trees. Silvicultural interventions shape forest structures such as canopy closure, and thus the light availability and thermal cover at the forest floor. Light availability on the forest floor in turn determines vegetation growth and therefore forage availability and quality, as well as hiding opportunities for roe deer. Additionally, natural disturbances such as bark beetle outbreaks increasingly affect European forests at different spatial scales, influencing the interactions between roe deer and forests, while also underscoring the need for increased forest resilience amid climate change. This review provides an overview of the observed and potential impacts of silviculture and climate change–related disturbances on deer population density and browsing. It systematically assesses the effects of these disturbances on habitat conditions, offers a framework for managers to anticipate potential conflicts, and highlights key research needs for the future. We developed a conceptual model for the dynamics of roe deer populations, habitat use, silvicultural systems and forest structure as well as disturbances under climate change and evaluated the available literature. We expected that different silvicultural systems result in distinctive spatial and temporal patterns in resources and cover, and consequently roe deer densities and browsing susceptibility of young trees. However, the literature review revealed a substantial research gap, as very few studies assessed the impact of various silvicultural practices on roe deer directly. Empirical comparisons of management practices face many methodological challenges, and solid evidence is vital for promoting resilient forest practices — especially as disturbances are linked to climate change phenomena with potentially significant consequences on deer dynamics and browsing patterns.",
+      "doi": "10.1016/j.foreco.2026.124296",
+      "authors": [
+        "Sebastian Schwegmann",
+        "Max Kröschel",
+        "João Manuel Cordeiro Pereira",
+        "Andreea Petronela Spînu",
+        "Andreas Rigling",
+        "Robert Hagen"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7221027145",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221027145",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Management of roe deer in European forests may be challenging due to their impact on tree regeneration and potential negative effects on tree species composition, forest resilience and various ecosystem services including timber production.",
+      "added": false
+    },
+    {
+      "title": "Climate Change Disinformation| Seeking the Truth Among Dead Crops: Carbon Footprint Victimhood, Platformed Conspiracism, and Climate Countermovement in Turkey",
+      "abstract": "After years of climate inaction, Turkey’s ratification of the Paris Agreement in 2021 prompted the Justice and Development Party’s discursive shift from high-carbon hegemonic agenda to green developmentalist rhetoric. This policy change provoked a backlash among conspiratorial climate-denial networks on social media. When the country’s worst-ever wildfires in 2021 were followed by wheat field fires in 2022, far-right and nationalist coalitions on X disseminated the conspiracy theory that foreign actors deliberately set these fires to undermine Turkey’s food sovereignty and engineer demographic decline under the cover of the climate agenda. Drawing on critical discourse analysis, we examine tweets from 2 major hashtag campaigns linking these fires to climate conspiracy theories. Our analysis identifies 3 interconnected motivational themes: environmental nationalism, economic injustice, and population control, each framed through a rhetoric of moral decay that sustains nationalist resentment and a discourse of victimhood.",
+      "doi": "10.65476/r93vp061",
+      "authors": [
+        "İlker Kafalı",
+        "Cem Çalışkan"
+      ],
+      "year": 2026,
+      "journal": "International journal of communication",
+      "openalex_id": "W7221094551",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221094551",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "After years of climate inaction, Turkey’s ratification of the Paris Agreement in 2021 prompted the Justice and Development Party’s discursive shift from high-carbon hegemonic agenda to green developmentalist rhetoric. This policy change provoked a backlash among conspiratorial climate-denial networks on social media.",
+      "added": false
+    },
+    {
+      "title": "Nutritional dynamics of weeds in agroecosystem and their utilization in the agro-food industry within a circular economy framework",
+      "abstract": "Edible weeds are becoming more widely acknowledged that edible weeds are underutilized natural resources with substantial potential to promote circular bio-economy initiatives and sustainable food systems. Many weed species have nutritional content, a variety of bioactive chemicals, and numerous uses in human nutrition, livestock feeding, and value-added agro-food products, while being historically considered unwanted elements of agricultural landscapes. The nutritional makeup, phytochemical profile, functional characteristics, and agro-food usage of a few edible weed species that are frequently found in agricultural habitats are all critically summarised in this narrative review. Major scientific databases, such as Scopus, Web of Science, PubMed, ScienceDirect, and Google Scholar, were used to retrieve literature published between recent years. The selection of species was based on their documented edible use, the availability of peer-reviewed information about their nutritional composition and potential applications, and their frequent occurrence as agricultural weeds. Evidence suggests that edible weeds are abundant in vitamins, minerals, phenolic compounds, flavonoids, carotenoids, essential amino acids, dietary fibre, weeds are abundant in vitamins, minerals, phenolic compounds, flavonoids, carotenoids, essential amino acids, dietary fibre, and other phytochemicals with antibacterial, anti-inflammatory, antioxidant, and metabolic regulating qualities. Although interesting biological activities have been shown in experimental research, there is still a dearth of solid clinical evidence to support many of these health advantages. Edible weeds provide prospects for value-added applications in circular agricultural systems, such as livestock feeding, compost generation, natural food additives, and nutraceutical development, in addition to human nutrition. However, before broader commercialisation is possible, issues with food safety, anti-nutritional elements, processing method uniformity, regulatory approval, and customer acceptance must be resolved. In conclusion, rather than taking the place of traditional crops, edible weeds should be seen as complementary resources that help diversify food systems, increase resource-use efficiency, and support sustainable agricultural growth. To enable their responsible incorporation into resilient agro-food systems, future research should give priority to clinical validation, standardised processing technologies, safety assessment, economic feasibility studies, and commercialisation strategies.",
+      "doi": "10.3389/frfst.2026.1890529",
+      "authors": [
+        "Arshiya Dogra",
+        "Neha Sharma",
+        "Sunny Sharma"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Food Science and Technology",
+      "openalex_id": "W7221167291",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221167291",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Edible weeds are becoming more widely acknowledged that edible weeds are underutilized natural resources with substantial potential to promote circular bio-economy initiatives and sustainable food systems.",
+      "added": false
+    },
+    {
+      "title": "Extracting X (formerly Twitter) information to improve relief logistics: social media analytics to the rescue",
+      "abstract": "Purpose During sudden disasters, information is needed on victims’ needs and locations, resource availability, and first responders’ status to improve relief logistics; this study aims to extract this critical information from X (formerly Twitter). Design/methodology/approach Using social media analytics and the capture-understand-present approach, the authors rank users and their posts to identify relevant data to support humanitarian operations. The pipeline integrates text preprocessing, dictionary-based matching with three domain dictionaries (logistics, medical, political), confusion-matrix evaluation, sentiment analysis and a co-occurrence word network. Two past disasters serve as case studies. By interviewing users, the authors also get insights into motivations to post. Findings The methodology ranks relevant posts and users, identifying potentially actionable data. The authors observe phenomena in digital social networks during a disaster, such as misinformation, agendas to gain followers, political opinions disguised as facts and specific needs of underrepresented users, whose data is often missing. Practical implications Social analytics can identify key stakeholders in situ and improve relief logistics; first responders should directly contact top-ranked users (97 interviewed here) to surface needs invisible at the network level. Misinformation and political views contribute to irrelevant posts. Originality/value Previous research analyzes X data at the network level, which can lead to biased decision-making in relief logistics and inequality in aid deliveries. This study contributes a node-level ranking that operates without popularity metrics and triangulates the algorithmic results with interviews of the top-ranked users.",
+      "doi": "10.1108/jhlscm-08-2025-0151",
+      "authors": [
+        "William J. Guerrero",
+        "Mateo A. Barón",
+        "Maria Besiou"
+      ],
+      "year": 2026,
+      "journal": "Journal of Humanitarian Logistics and Supply Chain Management",
+      "openalex_id": "W7220963312",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220963312",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/11 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Purpose During sudden disasters, information is needed on victims’ needs and locations, resource availability, and first responders’ status to improve relief logistics; this study aims to extract this critical information from X (formerly Twitter).",
+      "added": false
+    },
+    {
+      "title": "Photonic thermal management of overhead cables via high-thermal-conductivity radiative cooling",
+      "abstract": "As the thermal backbone of urban energy infrastructure, transmission cables directly affect the stability and resilience of modern cities. However, high operating temperatures, driven by Joule heating and solar radiation, critically limit the ampacity of overhead transmission lines, particularly under extreme climate conditions. Such high temperatures constrain electricity delivery and pose systemic risks to essential services and long-term urban sustainability. To overcome this challenge, we adopt a high thermal conductivity radiative cooling (HTCRC) coating comprising hexagonal boron nitride (h-BN) nanoparticles embedded in a polydimethylsiloxane matrix to reduce cable temperature. Enabled by photonic thermal management, this composite structure simultaneously achieves high solar reflectance (0.92) through efficient light scattering, strong mid-infrared emissivity via polymer vibrational modes (0.95), and enhanced thermal conductivity (1.28 W m⁻¹ K⁻¹). Outdoor experiments demonstrate notable daytime cooling of simulated HTCRC-coated power cables, maintaining safe operating temperatures even under intense solar exposure. In addition, thermal modeling based on the CIGRE 601 standard reveals a 6-10% increase in ampacity across representative hot-climate cities globally. These findings highlight high thermal conductivity radiative cooling as an effective and scalable strategy to enhance urban power grid performance, improve energy delivery security, and support the development of climate-resilient cities under rapidly growing electricity demand driven by electrification and the expanding energy footprint of artificial intelligence.",
+      "doi": "10.1038/s41377-026-02485-1",
+      "authors": [
+        "Kai Xu",
+        "Pengfei Cao",
+        "Jehad K. El‐Demellawi",
+        "Hussam Qasem",
+        "Qiaoqiang Gan"
+      ],
+      "year": 2026,
+      "journal": "Light Science & Applications",
+      "openalex_id": "W7221054141",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221054141",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "As the thermal backbone of urban energy infrastructure, transmission cables directly affect the stability and resilience of modern cities. However, high operating temperatures, driven by Joule heating and solar radiation, critically limit the ampacity of overhead transmission lines, particularly under extreme climate c…",
+      "added": false
+    },
+    {
+      "title": "Earlier green-up exacerbates northern vegetation sensitivity to flash drought",
+      "abstract": "Flash drought–induced relative reduction in vegetation activity and canopy functioning, referred to as vegetation sensitivity, is a crucial measure of drought impacts. While climatic factors influencing vegetation sensitivity are well recognized, the role of phenological shifts remains poorly understood. Using multiple satellite-derived vegetation proxies (NDVI, LAI, SIF, and VOD) during 2001–2021, we show that earlier green-up dates (GUD) exacerbate vegetation sensitivity to flash droughts across 61.2–84.1% of the Northern Hemisphere (>23.5°N). Earlier GUDs enhance pre-drought vegetation growth, especially during the early growing season. Such amplified vegetation growth exacerbates sensitivity by accelerating soil moisture depletion and respiration cost, outweighing the benefit of increased subsequent net carbon assimilation. The contribution of GUD to vegetation sensitivity is comparable to that of major climatic factors. Ignoring phenological changes may lead to underestimation of long-term trends in vegetation sensitivity. These findings underscore the necessity of incorporating the interactions between phenology and flash droughts into projections of ecosystem resistance and resilience. Flash droughts can rapidly reduce vegetation growth, but the role of spring phenology is unclear. The authors show that earlier green-up increases vegetation sensitivity to flash drought across much of the Northern Hemisphere ecosystems.",
+      "doi": "10.1038/s41467-026-78296-0",
+      "authors": [
+        "Wenrui Bai",
+        "Quansheng Ge",
+        "Constantin M. Zohner",
+        "Jun Wang",
+        "Shaozhi Lin",
+        "Yani Liang",
+        "Yongshuo H. Fu",
+        "Huanjiong Wang"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W7115172292",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7115172292",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Flash drought–induced relative reduction in vegetation activity and canopy functioning, referred to as vegetation sensitivity, is a crucial measure of drought impacts. While climatic factors influencing vegetation sensitivity are well recognized, the role of phenological shifts remains poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Chronic drought limits new carbon inputs and homogenizes surface soil carbon age and content in Mediterranean forests",
+      "abstract": "Abstract. Increasing drought frequency and severity are expected to affect carbon cycling and storage in Mediterranean forests substantially. However, the temporal dynamics of carbon within ecosystem pools under long-term drought remain poorly understood. In this study, we present the first comprehensive assessment of the age of all major carbon pools and respired CO2 in a Mediterranean forest, using 14C measurements complemented with soil carbon content analyses. Additionally, we fitted compartmental carbon cycle models to empirical data collected through the 25-year rainfall exclusion experiment. We found that carbon in drought plots was generally older than in controls, with consistent trends across most pools, except roots and foliage. Differences were most pronounced in ecosystem respiration and in the 0–5 cm soil layer. Drought homogenized upper soil layers in both carbon content and age, suggesting depletion of older reserves and reduced stabilization of recent inputs. Overall, our results show that long-term drought promotes the microbial use of older carbon substrates in the soil, limits the incorporation of new inputs into slow-cycling reservoirs, and increases the vulnerability of existing soil carbon stocks. These results underscore the need for forest management strategies that maintain sequestered carbon and enhance the stabilization of fresh CO2 inputs under intensifying aridity.",
+      "doi": "10.5194/egusphere-2026-6195-v1",
+      "authors": [
+        "Estefanía Muñoz",
+        "Karis J. McFarlane",
+        "Romà Ogaya",
+        "Jofre Carnicer",
+        "Guillem Mampel",
+        "Xin Song",
+        "Sara Marañón‐Jiménez",
+        "Josep Peñuelas",
+        "Carlos A. Sierra"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221198927",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221198927",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Increasing drought frequency and severity are expected to affect carbon cycling and storage in Mediterranean forests substantially. However, the temporal dynamics of carbon within ecosystem pools under long-term drought remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "8. Water balance",
+      "abstract": "A water balance is the sum of water inputs, outputs, and change in storage for a given water volume. This chapter focuses on the watershed-scale water balance at annual and seasonal time scales and explores how this water balance can be modified by climate change, land cover change, and stream modifications by human infrastructure. A technical section introduces indices for quantifying drought, while sustainability sections illustrate the effects of climate and land use change on the Amazon basin, effects of invasive trees on the water balance in South Africa, and effects of infrastructure in the Colorado River Basin.",
+      "doi": "10.11647/obp.0551.08",
+      "authors": [
+        "Stephanie K. Kampf"
+      ],
+      "year": 2026,
+      "journal": "Open Book Publishers",
+      "openalex_id": "W7220910026",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220910026",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "A water balance is the sum of water inputs, outputs, and change in storage for a given water volume. This chapter focuses on the watershed-scale water balance at annual and seasonal time scales and explores how this water balance can be modified by climate change, land cover change, and stream modifications by human in…",
+      "added": false
+    },
+    {
+      "title": "AI-Generated Disinformation in the UK: Risk of Harm, Context, and Classification",
+      "abstract": "More people across the UK are today exposed to more AI-generated and AI-altered disinformation and misinformation than ever before - exposing individuals and society to a growing range of harmful consequences and potential consequences. We analyse evidence from a dataset of 112 pieces of AI-generated or AI-altered disinformation or misinformation seen tens of millions of times across the UK between 1 January 2025 and 31 March 2026. The dataset of examples studied does not, of course, provide an exhaustive sample of all AI-generated false information in circulation in the period, but rather a snapshot of examples showing some, but not all, of the potential effects. Our analysis of this sample found a substantive risk of causing or contributing to harm to individuals and society in eight distinct fields, from contributing to incidents of serious social unrest and vigilante violence to causing direct harms to health and causing the sort of serious financial loss that can be caused by online scams and fraud. Other fields of risk included: abuse serious enough to affect individuals' health and behaviour; public engagement with the police and justice systems; susceptibility to false conspiracy theories with the potential to cause direct harms; and broader changes to social and political attitudes with potential to affect political, social events over the longer term. More than four in five pieces of content we assessed added to reasons for the public to distrust information as not merely inaccurate but substantively false or misleading: a broad disinformation effect with potential for significant effects for society.",
+      "doi": "10.48550/arxiv.2610.06084",
+      "authors": [
+        "Peter Cunliffe‐Jones",
+        "Joseph O'Leary",
+        "David P. A. Corney",
+        "Andrew Dudfield"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7220712264",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220712264",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "More people across the UK are today exposed to more AI-generated and AI-altered disinformation and misinformation than ever before - exposing individuals and society to a growing range of harmful consequences and potential consequences.",
+      "added": false
+    },
+    {
+      "title": "A prototype multi-hazard early warning system integrating flood and landslide forecasting: application in the upper Garonne River Basin",
+      "abstract": "Multi-Hazard Early Warning Systems (MHEWS) are essential for disaster risk management, yet operational implementation remains limited by challenges in hazard integration, forecast uncertainty, and computational requirements. This study develops and evaluates a fast and lightweight prototype MHEWS integrating fluvial flooding and shallow landslide forecasting. The MHEWS couples snow-hydrological modeling (SNOW-17 and CREST) with a slope stability approach (infinite slope and Random Forest models) driven by bias-corrected Global Ensemble Forecast System (GEFS) meteorological forecasts. Quantile mapping bias correction substantially improves precipitation and temperature forecast performance, reducing variability errors and enhancing distributional agreement. Applied in the Upper Garonne River Basin (Spanish Pyrenees) using 24-hour lead time forecasts, multi-hazard analysis for 2010–2020 reveals asymmetric coupling between hazards: flood warnings respond rapidly to rainfall intensity, while landslide warnings depend on cumulative subsurface conditioning and antecedent soil moisture, with high-level warnings rarely coinciding. Evaluation of multiple forecast lead times (24, 48, 72 h) for June 2013 demonstrates systematic performance degradation with increasing lead time, reflecting amplified uncertainty propagation. This degradation is further compounded by the limitations of the quantile mapping approach; while it effectively aligns marginal statistics, it fails to preserve temporal autocorrelation or event persistence. This introduces residual biases in cumulative dynamics that disproportionately affect landslide prediction compared to flood estimation. The fully automated prototype, designed to be scalable and transferable, and built on open-source software and cloud infrastructure, demonstrates operational feasibility for real-time early warning applications across hydro-meteorologically complex environments.",
+      "doi": "10.1016/j.jhydrol.2026.136580",
+      "authors": [
+        "Flavio Alexander Asurza Véliz",
+        "Marcel Hürlimann",
+        "Vicente Medina",
+        "Francis Nieto"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hydrology",
+      "openalex_id": "W7220866705",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220866705",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Multi-Hazard Early Warning Systems (MHEWS) are essential for disaster risk management, yet operational implementation remains limited by challenges in hazard integration, forecast uncertainty, and computational requirements.",
+      "added": false
+    },
+    {
+      "title": "Regulatory dynamic inconsistencies affecting the reluctance of Indonesia disaster budget agents to disburse expenditures",
+      "abstract": "This study examined the role of Provincial or Regional Agency for Disaster (P|RAD) as budget agents in response to natural hazards and their reluctance to encourage the wise spending of disaster expenditures. This research employed qualitative critical analysis, drawing on regulatory dynamics and axiomatic framework theories. Fifteen respondents from Indonesia participated. The study highlights the Government of Indonesia’s (GoI) regulatory dynamic inconsistencies, which contribute to reluctance to spend disaster budgets. It demonstrated that budget agents engage in symbolic compliance (performativity) because of partial regulatory structures under uncertain recovery. They consequently adhere to the minimax (minimise the maximum) expected-utility axiom, but tension between compliance and fear of legal sanctions prevents disaster spending. It was found that the budget agents’ commitment is low because of regulatory complexity, sustainability needs, cost-control policies, and organisational adaptiveness. It is recommended that disaster budget agents be revitalised and restructured within regulatory ecosystems to achieve adaptability and accountability. Contribution: This article advances disaster budgeting by introducing regulatory dynamic inconsistency to explain budget agents’ reluctance to distribute funds. It contributes to behavioural public finance by applying axiomatic frameworks to reveal how regulatory ambiguity, overlapping regimes and fear of fraud lead to absentee decision-making and agents’ performativity. In practice, the study recommends revitalising the Central GoI National Boards for Disaster and P|RAD, establishing standardised cost mechanisms, simplifying regulations and enhancing social collaboration to improve the effectiveness of disaster response.",
+      "doi": "10.4102/jamba.v18i1.1953",
+      "authors": [
+        "Noorina Hartati",
+        "Abdul Halim",
+        "Aviandi Okta Maulana",
+        "Sumiyana Sumiyana"
+      ],
+      "year": 2026,
+      "journal": "Jàmbá Journal of Disaster Risk Studies",
+      "openalex_id": "W7221064618",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221064618",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This study examined the role of Provincial or Regional Agency for Disaster (P|RAD) as budget agents in response to natural hazards and their reluctance to encourage the wise spending of disaster expenditures.",
+      "added": false
+    },
+    {
+      "title": "Perceptions of Climate Change, Health Impacts, and Climate Resilience, among Urban Residents Living with Asthma: An Exploratory Qualitative Study",
+      "abstract": "Abstract In the US, rates of asthma, and in particular, uncontrolled asthma, are disproportionately high among historically marginalized racial/ethnic groups and among urban residents. Against the backdrop of climate change and its known consequences, which can exacerbate the environmental triggers of asthma, these inequities are further magnified. This qualitative study explored perceptions of climate change, health impacts, and climate resilience among historically marginalized urban adults with asthma. Black/African-American, Hispanic/Latino, and/or multiracial adults ( $$\\ge$$ ≥ 18 years) diagnosed with asthma, and residing in the Chicagoland area, were recruited. Semistructured interviews informed by the capability, opportunity, motivation, and behavior (COM-B) model were conducted, and data were transcribed for thematic coding. Data from 20 interviews revealed four primary themes: (1) climate change awareness, (2) perceived harms of climate change, (3) climate resiliency: barriers and strategies, and (4) perceived outlook on climate change. Participants consistently associated extreme weather with adverse asthma management consequences and highlighted the negative impacts of climate-related events on their outdoor time, physical activity, and social life. Virtually all participants emphasized significant financial burden resulting from their daily living adaptations for managing their condition in the context of climate change. Participants showed variable levels of climate preparedness and reported limited community-level engagement in climate action activities. This study supports enhancing climate resilience as a potentially effective strategy for improving asthma management among historically marginalized urban residents, warranting future research. Findings emphasize the need to strengthen both individual- and societal/environmental-level climate resilience to optimize health and well-being for all.",
+      "doi": "10.1007/s11524-026-01154-3",
+      "authors": [
+        "Sharmilee M. Nyenhuis",
+        "Aero Cavalier",
+        "Deborah Salvo",
+        "Lisa K. Sharp"
+      ],
+      "year": 2026,
+      "journal": "Journal of Urban Health",
+      "openalex_id": "W7220929695",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220929695",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract In the US, rates of asthma, and in particular, uncontrolled asthma, are disproportionately high among historically marginalized racial/ethnic groups and among urban residents.",
+      "added": false
+    },
+    {
+      "title": "Blockchain and the future of insurance: a cross-stakeholder analysis and ecosystem implications",
+      "abstract": "This study advances blockchain literature by adopting a multistakeholder lens to examine its adoption and its prospective industry impact. Drawing on semi-structured interviews with senior professionals from incumbent insurers, insurtech startups, and industry consortia, the study offers qualitative insights into current adoption trajectories. The study contributes in three ways: first, it provides primary evidence of adoption conditions and strategic intent; second, it reassesses blockchain’s transformative potential beyond efficiency narratives, identifying its role in reshaping coordination and governance mechanisms across the insurance ecosystem; and third, it identifies the forces shaping blockchain’s future role in insurance. Results show that while traditional insurers proceed cautiously via limited pilots, blockchain-native startups embed the technology into decentralized claims management, embedded insurance, and parametric products. Industry consortia emerge as experimental governance mechanisms facilitating standardization and collaborative development, though often challenged by coordination complexities. The study further identifies macro-level forces likely to influence blockchain’s adoption, including tokenization of financial assets, decentralized finance (DeFi), Web3 digital identity frameworks, and decentralized autonomous organizations (DAOs). Interviewees projected that these emerging configurations may reshape the governance structures, risk-sharing mechanisms though their realization remains contingent on regulatory, technological, and organizational shifts beyond the study’s empirical scope. This research contributes empirical evidence that complements existing behavioral, technical, and firm-level studies, by integrating cross-stakeholder perspectives. It offers a forward-looking ecosystem perspective and identifies emerging institutional, technological, and market forces shaping blockchain’s future adoption.",
+      "doi": "10.1057/s41599-026-09389-w",
+      "authors": [
+        "Teresa Dominguez Anguiano",
+        "Laura Parte Esteban"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7221037308",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221037308",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This study advances blockchain literature by adopting a multistakeholder lens to examine its adoption and its prospective industry impact. Drawing on semi-structured interviews with senior professionals from incumbent insurers, insurtech startups, and industry consortia, the study offers qualitative insights into curre…",
+      "added": false
+    },
+    {
+      "title": "Climate Change Disinformation| Climate Change Disinformation—Introduction",
+      "abstract": "In the Special Section “Climate Change Disinformation,” we examine climate-related disinformation at a transition point: It is increasingly less about denying climate science than it is about arguing against climate policy. Across six studies, the collection finds that denial of the science persists among those whose public case centers on cost and fairness. It also finds that disinformation succeeds where an audience is already disposed to accept it. In this introduction, we argue that this ongoing shift is outpacing the instruments built to address it, since arguments about policy are difficult to disprove and they largely remain beyond the reach of fact-checking or news literacy. The contributions offer researchers, practitioners, and policy makers a basis for responses that engage the politics of climate action rather than only factual claims of disinformation.",
+      "doi": "10.65476/j7edsj59",
+      "authors": [
+        "Антон Шеховцов",
+        "Ilya Yablokov",
+        "Dani Madrid-Morales",
+        "Alexander Etkind"
+      ],
+      "year": 2026,
+      "journal": "International journal of communication",
+      "openalex_id": "W7221190680",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221190680",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "In the Special Section “Climate Change Disinformation,” we examine climate-related disinformation at a transition point: It is increasingly less about denying climate science than it is about arguing against climate policy.",
+      "added": false
+    },
+    {
+      "title": "Far from the Factory Gate: A Scope 3 Performance Index for Measuring Agribusiness Value-Chain Emissions",
+      "abstract": "Upstream carbon pricing, supply chain disruptions, and future resource scarcity can all increase costs. On the other hand, comprehensive Scope 3 accounting enables firms to anticipate regulatory and reputational risks, guide procurement and design decisions, and align value chains with climate targets. This approach drives decarbonisation across supply networks, strengthens corporate credibility, and reduces carbon leakage and greenwashing risks — all critical policy priorities for achieving net zero transitions.",
+      "doi": "10.64503/20261009",
+      "authors": [
+        "Arya Roy Bardhan",
+        "Shoba Suri",
+        "Nitin Rao",
+        "Kritika Banerjee",
+        "Sumit Roy",
+        "Sjoerd Panhuysen"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221137717",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221137717",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Upstream carbon pricing, supply chain disruptions, and future resource scarcity can all increase costs. On the other hand, comprehensive Scope 3 accounting enables firms to anticipate regulatory and reputational risks, guide procurement and design decisions, and align value chains with climate targets.",
+      "added": false
+    },
+    {
+      "title": "Sustainable Solidarity: Navigating Network and Bureaucracy to Resist Precarity",
+      "abstract": "The transition to electric vehicles is reshaping labor markets as production expands within supplier networks. This transformation has deepened inequalities between core workers, protected by stable employment and collective agreements, and peripheral workers facing growing precarity. This study examines the Module-Suppliers Alliance (MSA) in South Korea’s automobile sector, where subcontracted workers adopted a network-based strategy to improve wages and employment security. The findings show that while network-based organizing enabled rapid mobilization and broad participation during the organizing phase, it proved less effective during bargaining as divergent interests and coordination challenges emerged. Tracing the MSA’s evolving collaboration with the Korean Metal Workers’ Union (KMWU), the study demonstrates how workers alternate between network-based organizing and bureaucratic (hierarchical) coordination across successive phases of struggle, with such coordination introduced during bargaining to complement network-based forms of organization. The author argues that this process of bureaucratic layering can sustain worker solidarity under conditions of precarity.",
+      "doi": "10.1177/00197939261487367",
+      "authors": [
+        "D. S. Park"
+      ],
+      "year": 2026,
+      "journal": "Industrial and Labor Relations Review",
+      "openalex_id": "W7221001160",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221001160",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "The transition to electric vehicles is reshaping labor markets as production expands within supplier networks. This transformation has deepened inequalities between core workers, protected by stable employment and collective agreements, and peripheral workers facing growing precarity.",
+      "added": false
+    },
+    {
+      "title": "Improving decision-making in energy system modeling by formalizing the scenario-based approach using knowledge management tools",
+      "abstract": "Urban areas are home to most of the world’s population, consume the most energy and are subject to environmental regulations, policies, and, in some cases, legislation to reduce energy consumption and emissions. This means obtaining more energy from renewable sources, improving energy efficiency, and maximizing the use of current energy networks. Energy modeling is often the first tool used to systematically evaluate pathways to a sustainable future. It is important to note that these studies make many assumptions about future conditions that will influence the energy landscape. Furthermore, the scenario-based approach often makes assumptions about the current situation and conditions due to lack of access to data, lack of key data, and lack of interoperability between systems and models. A scenario creates assumptions or a set of assumptions about different components of the space-time system to define a modeled system. Therefore, making comparisons between different models is a complicated task because of the difficulty of ensuring the representation of the same system (input parameters and variables). This article presents a digital framework based on a scenario ontology, called Scenario Management Ontology. The model aims to improve the analysis based on energy models that use the scenario approach by addressing the major challenge of formalizing and governing assumptions in a transparent and formal manner. This approach implements a formal, standardized and transparent characterization of: (1) an energy system, (2) well-defined scenarios, and (3) traceability of the data used for different use cases. The objective of this work is to integrate data and analytical models (energy system modeling and planning tools) to analyze energy strategies for energy planning and analysis. In addition, the framework allows for the management of uncertainty arising from assumptions about the system and data, resulting in a documented, consistent, traceable, and formal approach. This framework is based on the use of energy system domain models. In particular, it makes use of the Common Energy System Modeling Domain (CESDM), which is an ontology for modeling energy systems’ knowledge. In addition, the digital framework aims to integrate different spatial-temporal scales and granularity to homogenize the characterization and references of the modeled system. Finally, the implementation of semantic technologies enables the standardization and linking between different domains, promoting interoperability between system models and analytical tools in the energy field.",
+      "doi": "10.3389/fceng.2026.1932769",
+      "authors": [
+        "Edrisi Munoz",
+        "Turhan Demiray"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Chemical Engineering",
+      "openalex_id": "W7220974638",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220974638",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Urban areas are home to most of the world’s population, consume the most energy and are subject to environmental regulations, policies, and, in some cases, legislation to reduce energy consumption and emissions.",
+      "added": false
+    }
+  ]
+}
