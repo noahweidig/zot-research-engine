@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-11",
+  "statistics": {
+    "fetched": 146,
+    "duplicates_removed": 136,
+    "evaluated": 10,
+    "added": 3,
+    "ignored": 7,
+    "average_score": 2.5
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Iranophobia in Trump’s Social Media: Corpus-Assisted Critical Discourse Analysis",
+      "abstract": "Strained diplomatic relations between Iran and the United States have historically been characterised by ongoing strife, involving sensitive issues like nuclear programs, economic penalties, and Middle Eastern power struggles. The tension intensified during Trump’s presidency. This study highlights the most favoured term used by the US President, Donald Trump, on social media to talk about Iran. It employs corpus-assisted critical discourse analysis (CACDA) combined with Fairclough's three-dimensional framework to examine Iranophobia in Trump's social media posts from 2016 to 2020 across X (formerly Twitter ), Facebook, and Instagram. The analysis was conducted at three levels: micro (keyword extraction, collocation, and concordance), meso (social media platform bias), and macro (global impact of Trump's Iran policies). Findings revealed Iranophobia across six categories: (1) war and conflict, (2) terrorism, (3) government and politics, (4) nuclear weapons, (5) economics, and (6) human rights. The meso- level analysis demonstrated that Trump's social media content was biased when depicting violence in the Middle East, which might explain why X blocked his account for inflammatory content with social impact in the US. The macro-level analysis indicated how Trump's harsh economic policies against Iran generated global Iranophobia. The research concludes that social media not only offers alternative discourse but can also recontextualise traditional media discourse in representing Iranophobia, albeit more aggressively and overtly.",
+      "doi": "10.22146/jsp.105744",
+      "authors": [
+        "Ahmad Suhaili",
+        "Frans Sayogie",
+        "Muhammad Farkhan"
+      ],
+      "year": 2026,
+      "journal": "Jurnal Ilmu Sosial dan Ilmu Politik",
+      "openalex_id": "W7221091134",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221091134",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 81%: matched 4/5 key interest terms (eastern, united, united states, states)",
+      "tags": [
+        "Eastern",
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Strained diplomatic relations between Iran and the United States have historically been characterised by ongoing strife, involving sensitive issues like nuclear programs, economic penalties, and Middle Eastern power struggles. The tension intensified during Trump’s presidency.",
+      "added": true
+    },
+    {
+      "title": "The short-term response of residential customers to long-duration power interruptions",
+      "abstract": "Increases in the frequency, intensity, and duration of extreme weather events will translate into the potential for widespread, long duration power interruptions with substantial social and economic impacts. This paper fills a gap by using specifically designed surveys to understand the strategic response of residential customers to 1-, 3-, and 14-day interruptions. We find that relocation is 5-10 times more expensive than staying home, but that up to 85% of customers relocate with a 14-day interruption. The economic consequences of these decisions are highly unequal – with lower income customers spending substantial portions of their monthly income to mitigate interruption impacts – and are equivalent to $5 to $25 billion in our case study in the state of Illinois in the United States. We discuss the drivers for the relocation decision, including the fact that customers that own backup generation are significantly less likely to relocate and estimate the impacts on transportation infrastructure due to this relocation. These results can be used by utilities, regulators, planners, and other decision makers to understand the multifaceted nature of mitigation options for resilience enhancements within and outside the power system.",
+      "doi": "10.1016/j.ijdrr.2026.106487",
+      "authors": [
+        "Juan Pablo Carvallo",
+        "Sunhee Baik",
+        "Alan H. Sanstad",
+        "Peter Halvor Larsen"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7220982251",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220982251",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 74%: matched 4/5 key interest terms (drivers, united, united states, states)",
+      "tags": [
+        "Drivers",
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Increases in the frequency, intensity, and duration of extreme weather events will translate into the potential for widespread, long duration power interruptions with substantial social and economic impacts.",
+      "added": true
+    },
+    {
+      "title": "Health Management Planning for Landscape Fire Smoke Events: A Literature Review and Suggested Human‐Centred Framework for Resource Development",
+      "abstract": "ABSTRACT Poor air quality arising from landscape fire smoke (LFS) events presents a substantial health burden to at‐risk individuals and communities. However, there are few dedicated health management resources available for priority populations, despite increasing climate‐related landscape fire risks. We conducted a literature review to analyse health management plans and strategies available for at‐risk individuals in Australia, Canada and the United States. Our review identified four resources, of which only two were dedicated LFS health action plans, revealing a critical gap in preparedness. Given this scarcity, we suggest a human‐centred framework to inform LFS‐specific resource development. We propose a design thinking approach to create tailored LFS health action plans for priority populations and healthcare providers and describe the steps a resource development team would take to apply a human‐centred framework. This approach addresses both practical management challenges and socio‐cultural contexts for implementation.",
+      "doi": "10.1002/puh2.70428",
+      "authors": [
+        "Anna Marie Gjedrem",
+        "Fay H. Johnston",
+        "Sharon L. Campbell"
+      ],
+      "year": 2026,
+      "journal": "Public Health Challenges",
+      "openalex_id": "W7221158626",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221158626",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 55%: matched 3/5 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "ABSTRACT Poor air quality arising from landscape fire smoke (LFS) events presents a substantial health burden to at‐risk individuals and communities. However, there are few dedicated health management resources available for priority populations, despite increasing climate‐related landscape fire risks.",
+      "added": true
+    },
+    {
+      "title": "Integrating the Diverse Values of Nature Into Environmental Law and Policy: Insights From Scottish Peatland Restoration",
+      "abstract": "ABSTRACT This paper aims to arrive at a better understanding of the integration of the diverse values of nature (instrumental, intrinsic, relational) into (environmental) law and policy, using peatland restoration in Scotland as a case study. It argues that adopting a pluri‐value approach is a useful tool for both the design and implementation of environmental law and policy. It can lead to a better understanding of which policy interventions are needed (framing) and enhance the implementation of environmental policy, by enabling fuller consideration of trade‐offs, contributing to a broader understanding of nature and improving early engagement by affected/interested parties. The paper first explores the pluri‐value approach as presented by the Intergovernmental Science‐Policy Platform on Biodiversity and Ecosystem Services. This serves as the background for the Scottish case study, which combines a review of scientific literature on peatland values, public survey data on perceptions of Scottish peatlands, and a documentary analysis of three key policy instruments. The findings reveal a discrepancy between the broad range of values attributed to peatlands by the public and the instrumental values, in particular climate‐related ecosystem services and economic opportunities, that are currently being emphasised in peatland restoration policy. This narrow framing risks overlooking key socio‐cultural drivers of degradation and constrains the effectiveness and legitimacy of restoration efforts. In this context, the establishment of partnerships is proposed as a mechanism to embed diverse values in decision‐making, establish long‐term collaboration among diverse interested/affected parties, foster peer‐learning and challenge persistent unsustainable narratives.",
+      "doi": "10.1002/eet.70152",
+      "authors": [
+        "M. Meertens"
+      ],
+      "year": 2026,
+      "journal": "Environmental Policy and Governance",
+      "openalex_id": "W7221177301",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221177301",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "ABSTRACT This paper aims to arrive at a better understanding of the integration of the diverse values of nature (instrumental, intrinsic, relational) into (environmental) law and policy, using peatland restoration in Scotland as a case study.",
+      "added": false
+    },
+    {
+      "title": "Consumer empowerment: need, definition, quantification, outcomes and challenges",
+      "abstract": "The transition toward decentralized digitalized and lowcarbon electricity systems is fundamentally changing the role of electricity consumers Traditionally passive endusers are increasingly expected to integrate distributed energy resources DERs and participate in energy management and demand response This paper examines consumer empowerment CE in electricity networks with a specific focus on small consumers connected to distribution networks The paper first discusses the technical economic and societal drivers underlying the growing need for CE including increasing DER penetration electrification of heating and transportation network congestion and flexibility requirements A comprehensive definition of CE is then proposed based on six elements active participation enhanced choice information and control automation and controllability selfsufficiency and resilience and energy communities with shared ownership The proposed CE definition is an explicit consideration of weakgrid where security of supply is not guaranteed To support consistent assessment across different electricity systems a framework for quantifying CE is developed based on the availability of technology and policy enablers and consumers ability to ensure security of supply The paper further reviews global experiences and implementation practices across different continents highlighting variations in technological readiness regulatory support and securityofsupply considerations Finally the expected outcomes and challenges of CE are discussed The expected outcomes of CE are improving affordability flexibility resilience market efficiency DER integration and decarbonization while its successful implementation requires overcoming barriers related to information access digital literacy affordability regulation interoperability privacy cybersecurity and consumer engagement",
+      "doi": "10.48550/arxiv.2610.04877",
+      "authors": [
+        "Md Umar Hashmi"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7220688200",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220688200",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "The transition toward decentralized digitalized and lowcarbon electricity systems is fundamentally changing the role of electricity consumers Traditionally passive endusers are increasingly expected to integrate distributed energy resources DERs and participate in energy management and demand response This paper examin…",
+      "added": false
+    },
+    {
+      "title": "Climate stress, energy shocks and carbon-market connectedness in the European emissions trading system",
+      "abstract": "Purpose This study aims to examine state-dependent connectedness in the climate-energy uncertainty-carbon system surrounding the European Union Emissions Trading System. It asks whether average connectedness differs from carbon-market stress states and extreme-heat states. Design/methodology/approach This study constructs a monthly data set for 2011–2024 covering heat anomalies, geopolitical risk, energy transportation uncertainty, crude oil returns, European gas returns and carbon allowance returns. It combines correlation and tail-dependence evidence, partial-correlation networks and generalized forecast error variance decomposition to compare contemporaneous dependence and directional spillovers across average and stressed states. Findings The average monthly system is only modestly connected, with carbon allowances mainly receiving shocks. Connectedness rises in both lower- and upper-tail carbon-return states and during extreme-heat months, indicating that stressed conditions reveal stronger energy-carbon-uncertainty transmission than full-sample averages suggest. Under upper carbon-return states, carbon allowances also become more active in transmitting shocks. Originality/value This study integrates physical climate stress, energy shocks and uncertainty indicators into a state-dependent connectedness framework for the European carbon market. The evidence shows that average-state monitoring can understate spillover intensity when carbon-market or heat-stress conditions become extreme.",
+      "doi": "10.1108/ijccsm-03-2026-0168",
+      "authors": [
+        "Zecheng Li",
+        "Siti Hafizah Ab Hamid",
+        "Qingsong Hou",
+        "Chng Saun Fong",
+        "Nasrin Aghamohammadi",
+        "Nik Meriam Sulaiman"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Climate Change Strategies and Management",
+      "openalex_id": "W7221161443",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221161443",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/5 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Purpose This study aims to examine state-dependent connectedness in the climate-energy uncertainty-carbon system surrounding the European Union Emissions Trading System. It asks whether average connectedness differs from carbon-market stress states and extreme-heat states.",
+      "added": false
+    },
+    {
+      "title": "Chronic drought limits new carbon inputs and homogenizes surface soil carbon age and content in Mediterranean forests",
+      "abstract": "Abstract. Increasing drought frequency and severity are expected to affect carbon cycling and storage in Mediterranean forests substantially. However, the temporal dynamics of carbon within ecosystem pools under long-term drought remain poorly understood. In this study, we present the first comprehensive assessment of the age of all major carbon pools and respired CO2 in a Mediterranean forest, using 14C measurements complemented with soil carbon content analyses. Additionally, we fitted compartmental carbon cycle models to empirical data collected through the 25-year rainfall exclusion experiment. We found that carbon in drought plots was generally older than in controls, with consistent trends across most pools, except roots and foliage. Differences were most pronounced in ecosystem respiration and in the 0–5 cm soil layer. Drought homogenized upper soil layers in both carbon content and age, suggesting depletion of older reserves and reduced stabilization of recent inputs. Overall, our results show that long-term drought promotes the microbial use of older carbon substrates in the soil, limits the incorporation of new inputs into slow-cycling reservoirs, and increases the vulnerability of existing soil carbon stocks. These results underscore the need for forest management strategies that maintain sequestered carbon and enhance the stabilization of fresh CO2 inputs under intensifying aridity.",
+      "doi": "10.5194/egusphere-2026-6195",
+      "authors": [
+        "Estefanía Muñoz",
+        "Karis J. McFarlane",
+        "Romà Ogaya",
+        "Jofre Carnicer",
+        "Guillem Mampel",
+        "Xin Song",
+        "Sara Marañón‐Jiménez",
+        "Josep Peñuelas",
+        "Carlos A. Sierra"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221185696",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221185696",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Increasing drought frequency and severity are expected to affect carbon cycling and storage in Mediterranean forests substantially. However, the temporal dynamics of carbon within ecosystem pools under long-term drought remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Trauma in humanitarian operations: A replication and extension of Brooks et al. (2023)",
+      "abstract": "Abstract We develop a two‐part study that first performs a methods‐only replication of Brooks, Shaheen, and Dobrzykowski's study of trauma in humanitarian operations and then extends the model to investigate secondary trauma. Using data from 442 volunteer humanitarian workers collected through a scenario‐based vignette experiment, we replicate the original experimental design with a new, substantively important population. Additionally, the methods‐only replication reconsiders the relationship between trauma exposure and volunteer behaviors. Yet, the replication results reaffirm several key relationships observed among professional relief workers, including the negative effects of trauma exposure on cooperative disposition and internal integration and the moderating role of supervisor support. However, we find that trauma significantly reduces organizational commitment among volunteers; a relationship not observed in the original professional sample, highlighting important contextual differences in how trauma affects workers with less formal organizational attachment. In the second part of the study, we extend the model by introducing secondary trauma, a critical factor for a new volunteer sample. Our results show that secondary trauma operates differently from primary trauma and provides additional explanatory power in understanding behavioral responses in volunteer humanitarian settings. Together, these findings strengthen the robustness of prior theory while expanding it to account for volunteer contexts and indirect trauma exposure. The study contributes to replication research in operations and humanitarian management by demonstrating how trauma mechanisms generalize and where they diverge across organizational roles, offering implications for the management and support of volunteer workforces in disaster response.",
+      "doi": "10.1111/deci.70051",
+      "authors": [
+        "Iana Jackson",
+        "Llord Brooks",
+        "David D. Dobrzykowski"
+      ],
+      "year": 2026,
+      "journal": "Decision Sciences",
+      "openalex_id": "W7221106469",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221106469",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract We develop a two‐part study that first performs a methods‐only replication of Brooks, Shaheen, and Dobrzykowski's study of trauma in humanitarian operations and then extends the model to investigate secondary trauma.",
+      "added": false
+    },
+    {
+      "title": "The future of game-based logistics: a systematic review of applications, functions, and evidence",
+      "abstract": "Game-based approaches are increasingly employed to address complex challenges in logistics and freight transport. While traditionally employed for education and workforce training, they have broader applications and untapped potential. In particular, advances in artificial intelligence (AI) are creating new opportunities to design, personalise, and scale these interventions. Despite this growing interest, a comprehensive understanding of how game-based approaches have evolved, who they target, what functions they serve, and where future opportunities lie remains limited. This study presents a systematic review of 87 studies on game-based interventions in freight transport and logistics, synthesising evidence across five application domains: warehouse operations management, terminal operations management, transport planning and optimisation, reverse logistics, and risk management and resilience. The findings reveal that games are evolving beyond training applications towards behavioural research, decision support, stakeholder engagement, and consumer behaviour change. Target audiences have similarly expanded from students and operational personnel to include managers, planners, consumers, and participants in behavioural research settings. Nevertheless, evidence regarding the long-term effectiveness of these interventions remains scarce, and several logistics challenges remain largely unexplored. Building on evidence-based gaps identified in the literature, this review proposes future research directions and highlights the potential of AI to enable adaptive, personalised, and scalable game-based interventions. By consolidating fragmented knowledge and outlining emerging opportunities, this study provides a foundation for researchers and practitioners seeking to harness game-based approaches to understand and improve logistics and freight transport systems.",
+      "doi": "10.1016/j.tra.2026.105297",
+      "authors": [
+        "Seyed Sina Mohri",
+        "Russell George Thompson",
+        "Lele Zhang",
+        "Michael Kirley"
+      ],
+      "year": 2026,
+      "journal": "Transportation Research Part A Policy and Practice",
+      "openalex_id": "W7221072467",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221072467",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Game-based approaches are increasingly employed to address complex challenges in logistics and freight transport. While traditionally employed for education and workforce training, they have broader applications and untapped potential.",
+      "added": false
+    },
+    {
+      "title": "Comparative literature synthesis of sustainable low cost housing materials and a preliminary adaptive material selection framework",
+      "abstract": "Abstract Selecting materials for low-cost housing requires simultaneous consideration of economic constraints, environmental burdens, technical performance, durability, and implementation feasibility. This article presents a comparative literature-based synthesis of a retained 29-source corpus with a recent-literature emphasis on 2021–2026 rather than a comprehensive historical boundary. One seminal 2019 review was retained for conceptual continuity. Because original search logs, duplicate-removal records, and exclusion lists were unavailable, the corpus is neither exhaustive nor fully reproducible and the article is not presented as a systematic or scoping review. Seven analytical material categories were compared using five author-defined criteria: affordability and life-cycle cost; environmental performance; technical performance and durability; implementation feasibility; and sustainability and circularity relevance. Environmental performance was most strongly represented, whereas complete life-cycle cost, long-term durability, code acceptance, and verified implementation capacity were less consistently documented. Conventional systems retained advantages in standards, supply chains, construction familiarity, and scale. Low-carbon conventional systems offered a potentially pragmatic transition pathway, while earth-, bamboo-, recycled-, plastic-waste-, and bio-based materials showed context-dependent benefits that varied with intended function, climate, treatment, quality control, maintenance, and regulatory acceptance. Direct cross-material ranking was constrained by heterogeneous functional units, life-cycle boundaries, service-life assumptions, transport distances, and maintenance scenarios. A preliminary adaptive material selection framework is proposed using transparent 1–5 scoring, context-specific weighting, evidence-confidence flags, and non-compensatory safety checks. The framework is illustrative, nonoperational, and nonvalidated; expert elicitation, stakeholder consultation, regional case testing, sensitivity analysis, and comparison with actual housing decisions are required before project-level use.",
+      "doi": "10.1007/s44290-026-00659-9",
+      "authors": [
+        "Keith Cauagdan",
+        "Jonathan V. Taylar"
+      ],
+      "year": 2026,
+      "journal": "Discover Civil Engineering",
+      "openalex_id": "W7221183002",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221183002",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract Selecting materials for low-cost housing requires simultaneous consideration of economic constraints, environmental burdens, technical performance, durability, and implementation feasibility.",
+      "added": false
+    }
+  ]
+}
