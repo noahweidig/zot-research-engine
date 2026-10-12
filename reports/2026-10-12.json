@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-12",
+  "statistics": {
+    "fetched": 168,
+    "duplicates_removed": 156,
+    "evaluated": 12,
+    "added": 2,
+    "ignored": 10,
+    "average_score": 1.92
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern Siberia",
+      "abstract": "Wildfires in eastern Siberia have intensified significantly in recent decades. This intensification is closely linked to rising vapor pressure deficit (VPD), a key indicator of fire weather risk. Previous studies have shown that atmospheric circulation increases VPD through subsidence-induced warming and drying, but the extent to which the circulation-driven VPD increase is realized through land–atmosphere feedback remains unclear. Here we show that atmospheric circulation explains about 60% of the 2004–2024 summer VPD trend over eastern Siberia, while circulation-triggered land-atmosphere feedback provides a major amplification pathway, accounting for about 42% of the circulation contribution. Mechanistically, reduced Laptev sea ice concentration favors a regional anomalous anticyclonic circulation over eastern Siberia, suppressing precipitation and depleting soil moisture. The resulting soil drying shifts surface energy from latent toward sensible heat, further amplifying regional VPD. These findings reveal a key land-surface pathway through which circulation intensifies fire weather risk and provide a broader framework for understanding similar changes in other fire-prone regions. Atmospheric circulation dominates the increase in fire weather risk over eastern Siberia in the past two decades, with circulation-triggered land-atmosphere feedbacks amplifying about 42% of that effect, as suggested by attribution of vapor pressure deficit based on reanalysis data.",
+      "doi": "10.1038/s43247-026-04150-2",
+      "authors": [
+        "Dongping Bai",
+        "Haipeng Yu",
+        "Kangjie Ma",
+        "Ruixia Guo",
+        "Yuling Hu",
+        "Zekui Jiang",
+        "Haojie Wu",
+        "Mengjing Fu"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7221356347",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221356347",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 49%: matched 3/8 key interest terms (wildfires eastern, eastern, wildfires)",
+      "tags": [
+        "Wildfires Eastern",
+        "Eastern",
+        "Wildfires"
+      ],
+      "summary": "Wildfires in eastern Siberia have intensified significantly in recent decades. This intensification is closely linked to rising vapor pressure deficit (VPD), a key indicator of fire weather risk.",
+      "added": true
+    },
+    {
+      "title": "FireGen: Quantifying Wildfire Risk by Simulation",
+      "abstract": "Wildfire regimes in Northern California exhibit strong spatio-temporal variability, heavy-tailed fire size distributions, and sensitivity to climatic conditions. We develop a hierarchical statistical framework to model wildfire occurrence, geometry, and burned area in Northern California from 1984-2023. Fire centroids are modeled as a spatio-temporal point process with covariate-driven intensity, extended by a multiplicative gamma-based stochastic shock to better capture the distribution of monthly fire counts. Conditional on fire location, burned area polygons are represented using a parametric ellipse model that separates scale, shape, and orientation, with ellipse parameters estimated from standardized fire perimeters. Total burned area is modeled using a heteroskedastic lognormal regression incorporating climatic and spatial covariates, including vapor pressure deficit anomalies. The framework enables Monte Carlo simulation of wildfire processes and provides a probabilistic tool for assessing wildfire risk and cumulative burned area under observed climate variability.",
+      "doi": "10.48550/arxiv.2610.07431",
+      "authors": [
+        "Allyson Hineman",
+        "William Kleiber",
+        "Stephan R. Sain",
+        "Alexis Hoffman"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7220986561",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220986561",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 49%: matched 3/8 key interest terms (occurrence, wildfire occurrence, wildfire)",
+      "tags": [
+        "Occurrence",
+        "Wildfire Occurrence",
+        "Wildfire"
+      ],
+      "summary": "Wildfire regimes in Northern California exhibit strong spatio-temporal variability, heavy-tailed fire size distributions, and sensitivity to climatic conditions. We develop a hierarchical statistical framework to model wildfire occurrence, geometry, and burned area in Northern California from 1984-2023.",
+      "added": true
+    },
+    {
+      "title": "2026 Wildfire Season in Colorado, Utah, and Wyoming",
+      "abstract": "This report provides an assessment of wildfires in Colorado, Utah, and Wyoming during the 2026 wildfire season through September 15, 2026. We provide descriptions of the wildfire events, the role of climate and weather in 2026, and preliminary impacts from the wildfires, including structures burned, poor air quality and post-fire flooding. This report was written and reviewed during September 2026, so all impacts reported occurred as of the publication date.",
+      "doi": "10.25810/x72x-2990",
+      "authors": [
+        "Seth Arens",
+        "Ethan Knight",
+        "Ben Livneh",
+        "Nels R. Bjarke"
+      ],
+      "year": 2026,
+      "journal": "CU Scholar (University of Colorado Boulder)",
+      "openalex_id": "W7221161574",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221161574",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 33%: matched 2/8 key interest terms (wildfire, wildfires)",
+      "tags": [
+        "Wildfire",
+        "Wildfires"
+      ],
+      "summary": "This report provides an assessment of wildfires in Colorado, Utah, and Wyoming during the 2026 wildfire season through September 15, 2026. We provide descriptions of the wildfire events, the role of climate and weather in 2026, and preliminary impacts from the wildfires, including structures burned, poor air quality an…",
+      "added": false
+    },
+    {
+      "title": "Land Use Change, Spillovers, and Transitions: Global Trends, Prospects, and Emerging Drivers",
+      "abstract": "In this review, we first compile data on global trends and rates of major land use changes over the recent decades, and summarize the main insights revealed by these data. We then review recent research and quantitative estimates on key land use spillover processes, i.e., leakage, indirect land use change, rebound effect and land sparing, and agglomeration economies. We then turn to the prospective, by highlighting a few recent processes that may have an increasingly important influence on land use dynamics, and synthesizing recent quantitative projections of global land use dynamics until 2050, discussing business as usual (BAU) trends as well as more transformative scenarios. Extracting high-level lessons from previous research on land use transitions, we bring these different lines of evidence together to synthesize general conclusions about global land use dynamics and how to enhance sustainability through land use.",
+      "doi": "10.31223/x53z4h",
+      "authors": [
+        "Patrick Meyfroidt",
+        "Cecile Renier",
+        "Erasmus K. H. J. zu Ermgassen"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221326849",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221326849",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 26%: matched 1/8 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "In this review, we first compile data on global trends and rates of major land use changes over the recent decades, and summarize the main insights revealed by these data.",
+      "added": false
+    },
+    {
+      "title": "How past natural disturbances and human land use dynamics shape the current structure and composition of moist Afromontane forests",
+      "abstract": "Historical knowledge of the landscape is essential to understand the current ecosystem. We studied how common natural disturbances and land use changes are, and how these histories affect current forest structure and tree species composition. We used data from 44 key informant interviews and inventories from 125 forest sites. Regarding natural disturbances, we found that they are rather infrequent, even if there are reports from many places of occasional wildfires, storms causing windfalls, landslides and various dieback of trees. Shade coffee management at various intensities is common throughout the forests at elevations where coffee can be grown. Part of the area has been subjected to logging. There is evidence of rather widespread abandonment in the late 19th century, but also more recent abandonments. Hence, some areas that now are forested have previously been settlements and open farmland areas. These natural disturbances and land uses histories are highly diverse, resulting in heterogeneous influence on the current forest structure and tree species composition. For example sites, with current coffee management have less lianas and somewhat different trees than sites regenerated after large scale disturbances. We conclude that current structure and composition of forests are the outcomes of diverse current and historical human land use management practices. Given that large scale natural disturbances are rather infrequent, the base-line landscape was likely dominated by undisturbed forests. Thus, conservation strategies should explicitly target undisturbed stands alongside the sustainable utilization of resources.",
+      "doi": "10.1016/j.foreco.2026.124319",
+      "authors": [
+        "Dinkissa Beche",
+        "Ayco J. M. Tack",
+        "Sileshi Nemomissa",
+        "Debissa Lemessa",
+        "Bikila Warkineh",
+        "Tola Gemechu Ango",
+        "Kristoffer Hylander"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7221343815",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221343815",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 2/8 key interest terms (large, wildfires)",
+      "tags": [
+        "Large",
+        "Wildfires"
+      ],
+      "summary": "Historical knowledge of the landscape is essential to understand the current ecosystem. We studied how common natural disturbances and land use changes are, and how these histories affect current forest structure and tree species composition.",
+      "added": false
+    },
+    {
+      "title": "Long-term nitrous acid evolution modulates ozone and secondary aerosol variations in global megacities",
+      "abstract": "Nitrous acid (HONO) is a crucial urban source of HOx radicals, promoting surface ozone (O3) and secondary fine particle (PM2.5) formation, yet its long-term evolution and air-quality impacts remain poorly constrained. Here, using a deep neural network established on worldwide field campaigns, we reconstruct global surface HONO distributions. Typical megacities exhibited contrasting trends in 2005–2021, marked by a sharp decline in Beijing (−47.4% in 2013–2021), an increase in Delhi (+10.0% in 2005–2018), and slight decreases in London, New York and Los Angeles. These HONO changes are identified as major driver of O3 and particulate nitrate variations, outweighing contributions of conventional NOx and volatile organic compounds abatement in Beijing and Delhi, while showing comparable impacts in the remaining cities. A fused data-driven framework further uncovers regime-dependent HONO reduction strategies, prioritizing NOx control in summer and co-reduction of NOx, PM2.5 and direct combustion emissions in winter, to accelerate O3 and PM2.5 joint mitigation. Deep learning reveals a sharp decline of HONO in China, modest drops in EU and US but an increase in India. HONO changes drive O3 and PM2.5 variations, outweighing traditional NOx and VOC control, calling for HONO-targeted air quality management.",
+      "doi": "10.1038/s41467-026-78349-4",
+      "authors": [
+        "Xuan Li",
+        "Can Ye",
+        "Huabin Dong",
+        "Xuezhen Xu",
+        "Haichao Wang",
+        "Xiaorui Chen",
+        "Zhaofeng Tan",
+        "Xuefei Ma",
+        "Shiyi Chen",
+        "Keding Lu",
+        "Yuanhang Zhang"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W7221340599",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221340599",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Nitrous acid (HONO) is a crucial urban source of HOx radicals, promoting surface ozone (O3) and secondary fine particle (PM2.5) formation, yet its long-term evolution and air-quality impacts remain poorly constrained.",
+      "added": false
+    },
+    {
+      "title": "A Lagrangian analysis of coherent structures in 2D annular Rayleigh-Bénard convection",
+      "abstract": "Convective instabilities are studied from a Lagrangian perspective in order to gain new insights into how the resulting global, long-lived coherent flow structures organize themselves. We consider a 2D annular fluid layer uniformly heated from the inside and subject to radial gravity and propose several new Lagrangian diagnostics for characterizing its convective instabilities. In particular, we perform a comprehensive Lagrangian analysis of the flow field across a wide range of dimensionless parameters, establishing a heuristic correspondence between convective plumes and curves of local maxima of Finite-Time Lyapunov Exponent (FTLE) fields. Moreover, we characterize coherent swirling motions inside convective rolls, which are associated to the non-zero curvature of the flow. By introducing a sliding window method for our finite-time kinematic measures, we demonstrate a direct relationship with radial heat flux quantified by means of the Nusselt number and identify relevant dynamical transitions that leave a trace on both. Finally, we propose a formal criterion for determining viscous boundary layer (UBL) thickness by virtue of radial FTLE profiles and validated against a classical Eulerian method.",
+      "doi": "10.48550/arxiv.2610.08024",
+      "authors": [
+        "Luis Álamo",
+        "Jezabel Curbelo",
+        "Kathrin Padberg‐Gehle"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7220973936",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220973936",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Convective instabilities are studied from a Lagrangian perspective in order to gain new insights into how the resulting global, long-lived coherent flow structures organize themselves.",
+      "added": false
+    },
+    {
+      "title": "This is (White) Europe: Race and European Law of the Everyday",
+      "abstract": "Abstract Drawing on insights from critical race theory, this article analyses the subtextual parameters of race in Ben Judah’s This is Europe: The Way We Live Now . I argue that the book effectively marginalises the racialised dimensions of everyday life. By essentialising non-European ‘Others’ and eclipsing the perspectives of Black Europeans and Europeans of colour, the narrative in This is Europe perpetuates a notion of whiteness as the default European identity. This critique contributes to the symposium by highlighting that a nuanced engagement with race is fundamental for conceptualising the ‘everyday’ in European law. First, it affirms race and anti-racism as urgent critiques in a discussion on European law of the everyday; second, it calls for recognition of everyday resistance by racialised people in Europe who are countering structural discrimination and racialised violence and neglect, and asserting their own history and identity as Europeans.",
+      "doi": "10.1017/elo.2026.10109",
+      "authors": [
+        "Irina Muñoz"
+      ],
+      "year": 2026,
+      "journal": "European Law Open",
+      "openalex_id": "W7221347950",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221347950",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract Drawing on insights from critical race theory, this article analyses the subtextual parameters of race in Ben Judah’s This is Europe: The Way We Live Now . I argue that the book effectively marginalises the racialised dimensions of everyday life.",
+      "added": false
+    },
+    {
+      "title": "STATISTICAL ANALYSIS OF SIGNAL PROCESSING TECHNIQUES FOR DRONE COMMUNICATION SYSTEMS",
+      "abstract": "The technology of unmanned aerial vehicles (UAVs), or drones, has witnessed tremendous advancements in recent years, making them indispensable tools across various applications, including transportation. These aircraft are characterized by their mobility and flexible deployment, making them an ideal choice for enhancing the efficiency and safety of transportation systems in Iraq. Importance of UAVs in Iraq Infrastructure Improvement:* UAVs can be utilized for inspecting and maintaining infrastructure, such as roads and bridges, which helps reduce costs and improve safety. Disaster Management: UAVs can play a crucial role in disaster management, as they can provide accurate and rapid information about affected areas, aiding in directing rescue and relief efforts. UAVs can be employed for security surveillance of vital installations and border areas, contributing to enhanced security and crime prevention. Logistical Delivery: UAVs can be used for delivering goods and parcels in remote and distant areas, which helps improve logistical services and reduce costs. Challenges of UAV Utilization in Iraq: Infrastructure Iraq needs to develop advanced infrastructure to support the use of UAVs, including communication and air navigation systems. Iraq needs to establish clear legislation and laws that regulate the use of UAVs, including specifying permitted and prohibited areas, and setting safety and security rules. Iraq needs to train and qualify specialized personnel in operating and maintaining UAVs. Statistical Analysis of Signal Processing Techniquesو Signal analysis is considered a fundamental element in UAV communication systems, as it helps improve communication quality and reduce noise and interference. This analysis aims to study and evaluate various signal processing techniques used in these systems, and determine the best ones for use in Iraq. Study Objectives, Identify Best Signal Processing Techniques:* The study aims to identify the best signal processing techniques that can be used in UAV communication systems in Iraq, taking into account local conditions and existing challenges. The study aims to improve the quality of communication in UAV systems, and reduce noise and interference. The study aims to develop local capacities in the field of UAV technology, and qualify specialized personnel in this field.",
+      "doi": "10.64751/ijdim.2026.v5.n4.1456",
+      "authors": [
+        "Taqi Mohammed Khattab Al-Rubaye"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Data Science and IoT Management System",
+      "openalex_id": "W7221365517",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221365517",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "The technology of unmanned aerial vehicles (UAVs), or drones, has witnessed tremendous advancements in recent years, making them indispensable tools across various applications, including transportation.",
+      "added": false
+    },
+    {
+      "title": "Climate at the Apex: The Emerging Role of Apex Courts in Global Climate Governance",
+      "abstract": "Abstract This article offers the first global mapping and comparative analysis of climate litigation reaching domestic apex courts. Drawing on a novel dataset, it identifies more than 360 cases decided between 1995 and 2024, with a sharp rise since 2015. Apex courts are defined as the highest domestic judicial bodies with final jurisdiction over climate-relevant matters. Our analysis shows that apex court decisions lean modestly toward outcomes supportive of stronger climate action. Outcomes vary considerably across regions, defendant types, and litigation strategies: polluter pays cases show the highest success rates, while government framework challenges, despite attracting the greatest public and scholarly attention, show more mixed results. The analysis also traces the limited but growing influence of domestic apex court jurisprudence on regional and international climate adjudication. The findings offer a prima facie mapping of judicial receptivity and governance orientation rather than a full account of doctrinal nuance or implementation outcomes.",
+      "doi": "10.1163/18786561-bja10105",
+      "authors": [
+        "Eoin Jackson",
+        "Joana Setzer"
+      ],
+      "year": 2026,
+      "journal": "Climate Law",
+      "openalex_id": "W7221173738",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221173738",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract This article offers the first global mapping and comparative analysis of climate litigation reaching domestic apex courts. Drawing on a novel dataset, it identifies more than 360 cases decided between 1995 and 2024, with a sharp rise since 2015.",
+      "added": false
+    },
+    {
+      "title": "Transforming federal emergency management: a new agenda for Canada",
+      "abstract": "Abstract Canada’s emergency governance model no longer aligns with a risk environment shaped by accelerating climate change and increasingly complex multi-hazard events. Recent federal/provincial/territorial strategies acknowledge these growing pressures but have not materially reoriented federal leadership toward anticipatory risk governance, resulting in persistent gaps across jurisdictions. Using a conceptual analysis grounded in risk governance, resilience, and comparative federalism, this paper identifies four structural limitations that constrain national readiness: (1) fragmented situational awareness, (2) interoperability deficits, (3) a reactive federal posture, and (4) incomplete Indigenous integration. We propose a reshaped federal leadership model that operates continuously across the disaster cycle. The framework provides a concrete federal pathway linking governance theory to implementable design choices capable of strengthening national readiness and resilience in an era of compounding risk.",
+      "doi": "10.1038/s44304-026-00278-5",
+      "authors": [
+        "Attila Julius Hertelendy",
+        "Alana Hicik",
+        "Gregory R. Ciottone",
+        "Mazen El-Baba"
+      ],
+      "year": 2026,
+      "journal": "npj natural hazards.",
+      "openalex_id": "W7221442803",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221442803",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract Canada’s emergency governance model no longer aligns with a risk environment shaped by accelerating climate change and increasingly complex multi-hazard events.",
+      "added": false
+    },
+    {
+      "title": "Thinning and mulching reduce winter drought impacts on dryland forest soil moisture",
+      "abstract": "Abstract Regional drought events are becoming more frequent and severe across the western US. In particular, winter droughts have important ecohydrological impacts that last across the entire year. Using a uniquely extensive sensor network across Arizona, we examined soil matric potential during and after 2024–2025 winter drought in thinned, thinned and mulched, and adjacent non-thinned forest sites from three study areas across an elevation and climate gradient. Our results consistently indicate that the winter drought prolonged soil drought at all sites throughout the subsequent spring, when soil matric potential remained below critical thresholds and plants sustained biologically important water stress for up to 293 days. Importantly, thinning treatments reduced these impacts and had significant interaction effects with winter drought. Our results also demonstrate the added benefits of mulching that further enhanced thinning effects on soil matric potential during winter drought periods. Treatment benefits for soil matric potential become particularly significant during winter droughts, although they might not be apparent during periods of average precipitation. Taken together, our results demonstrate that dryland forest thinning and mulching treatments improve winter drought resiliency.",
+      "doi": "10.1038/s41598-026-72948-3",
+      "authors": [
+        "Temuulen Tsagaan Sankey",
+        "Julia C. Tatum",
+        "Logan Ozment",
+        "Kenna Dinsdale"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7221324201",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221324201",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/8 key interest terms",
+      "tags": [],
+      "summary": "Abstract Regional drought events are becoming more frequent and severe across the western US. In particular, winter droughts have important ecohydrological impacts that last across the entire year.",
+      "added": false
+    }
+  ]
+}
