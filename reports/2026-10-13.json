@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-13",
+  "statistics": {
+    "fetched": 148,
+    "duplicates_removed": 137,
+    "evaluated": 11,
+    "added": 2,
+    "ignored": 9,
+    "average_score": 1.91
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "TreeMap 2020, 2022, and 2023: Improved species range mapping in a tree-level forest dataset for the conterminous United States",
+      "abstract": "Abstract. TreeMap is a tree-level model of the forests of the conterminous United States (CONUS) that provides a spatially continuous, 30 m resolution representation of forest structure and composition. It uses a random forests imputation approach to assign the most similar Forest Inventory and Analysis (FIA) plot to each forested pixel in gridded LANDFIRE data based on a suite of predictor variables that include vegetation, topographic, biophysical, and disturbance characteristics. By linking every mapped pixel to an FIA plot identifier for all forested areas in CONUS, TreeMap bridges localized inventory measurements with national-scale analyses and provides high-resolution estimates of forest structure and composition. In this update, TreeMap 2020, 2022, and 2023 incorporate climatic variables from Daymet in place of LANDFIRE biophysical variables. Further, we refined the independent validation by limiting the analysis to FIA plots where heterogeneity was administrative rather than ecological, excluding plots previously used to validate TreeMap versions that spanned heterogeneous forest conditions. TreeMap 2020, 2022, and 2023 also implement a new process constraining the pool of FIA plots available for imputation within each LANDFIRE zone to species documented within that zone and its adjacent zones, thereby reducing implausible species assignments across CONUS. TreeMap 2020, 2022, and 2023 are publicly available at https://doi.org/10.2737/RDS-2025-0031 (Zimmer et al., 2025) and https://doi.org/10.2737/RDS-2025-0032 (Houtman et al., 2025), and https://doi.org/10.2737/RDS-2026-0038 (Zimmer et al., 2026), respectively.",
+      "doi": "10.5194/essd-2026-633",
+      "authors": [
+        "Karin L. Riley",
+        "Rachel M. Houtman",
+        "Scott Zimmer",
+        "Lila Leatherman",
+        "Jamie Peeler",
+        "John Shaw",
+        "Isaac Grenfell",
+        "Maria Borja Arboleda",
+        "Abhinav Shrestha",
+        "Ian Housman",
+        "Mark Finney"
+      ],
+      "year": 2026,
+      "journal": "Earth System Science Data Discussions",
+      "openalex_id": "W7221472141",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221472141",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 89%: matched 3/7 key interest terms (states, united states, united)",
+      "tags": [
+        "States",
+        "United States",
+        "United"
+      ],
+      "summary": "Abstract. TreeMap is a tree-level model of the forests of the conterminous United States (CONUS) that provides a spatially continuous, 30 m resolution representation of forest structure and composition.",
+      "added": true
+    },
+    {
+      "title": "Climate drives recent increases in fire activity in aspen ( Populus tremuloides Michx.) forests of the western US",
+      "abstract": "Background Portions of the western US are experiencing simultaneous increases in wildfire frequency, size and intensity alongside worsening drought conditions. Despite the importance of quaking aspen (Populus tremuloides Michx.) as a keystone species, drivers of wildfire in aspen forests remain relatively understudied compared with neighboring vegetation types. Aims Understanding trends and the drivers of wildfire in aspen forests across the western US is crucial for effective monitoring and management. Methods We used Theil–Sen Slope and Mann–Kendall tests of annual area burned to examine wildfire activity in aspen and aspen–conifer forest habitats of the western US over the past 38 years and binomial regressions to understand the climate drivers of wildfire activity. Key results Aspen forest habitats are increasingly burning in more southern ecoregions. Fires occurred when Normalized Difference Moisture Index, Snow Water Equivalent and 100 h fuel moisture were low. Conclusions Fire activity is not increasing in all aspen forests of the western US. Aspen forest habitats are more likely to burn when conditions are dry, supporting the assumption that the typically high moisture content of aspen influences their burn probabilities. Implications These results suggest the need for more specific regional examinations of aspen fire trends to transfer results into effective land management practices.",
+      "doi": "10.1071/wf25176",
+      "authors": [
+        "Sofia Koutzoukis",
+        "Timothy J. Assal",
+        "Douglas J. Shinneman",
+        "Susan K. McIlroy",
+        "Rosemary L. Downing",
+        "Paul C. Rogers",
+        "Jason R. Kreitler"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7221433018",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221433018",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 41%: matched 3/7 key interest terms (burning, drivers, wildfire)",
+      "tags": [
+        "Burning",
+        "Drivers",
+        "Wildfire"
+      ],
+      "summary": "Background Portions of the western US are experiencing simultaneous increases in wildfire frequency, size and intensity alongside worsening drought conditions. Despite the importance of quaking aspen (Populus tremuloides Michx.) as a keystone species, drivers of wildfire in aspen forests remain relatively understudied…",
+      "added": true
+    },
+    {
+      "title": "The days are long but the years are short: Temporal mismatches in wildfire governance and the multiple temporalities of wildfire recovery",
+      "abstract": "Social science on wildfire has garnered increased attention with scholarship particularly focused on pre-fire and near-term impacts. However, the long-term impacts of wildfire and long-term recovery are less well understood and less represented in scholarship. This article takes up the questions of long-term wildfire recovery with special attention to time. We examine existing scholarship on disaster recovery models as well as empirical literature on disaster recovery to show how phase-based disaster models, which dominate disaster recovery practice, are guided by implicit assumptions about temporality that need re-working in light of the ways that ecosystems, communities, and individuals experience wildfire. Specifically, we look at cascading impacts, uneven recovery timelines and trauma as three generators of what we call temporal mismatches between dominant phase-based models and lived experience. We argue that dominant phase-based models operate as mechanisms of temporal governance, which encompass certain lived realities of time in wildfire recovery to the exclusion of other less linear experiences of time. We conclude considering the implications of a conceptual reorientation to time in wildfire recovery models and practice, shedding light on an under-examined dimension of recovery.",
+      "doi": "10.1016/j.ijdrr.2026.106482",
+      "authors": [
+        "Rebecca Patterson-Markowitz",
+        "Christina Greene",
+        "Katherine R. Clifford"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Reduction",
+      "openalex_id": "W7221062757",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221062757",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 1/7 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Social science on wildfire has garnered increased attention with scholarship particularly focused on pre-fire and near-term impacts. However, the long-term impacts of wildfire and long-term recovery are less well understood and less represented in scholarship.",
+      "added": false
+    },
+    {
+      "title": "Characterizing lightning NO x production in the Ebro Valley with meteosat 12 LI and LMA observations",
+      "abstract": "Abstract. Lightning is one of the main sources of NOₓ in the Earth’s atmosphere, yet there is considerable variability in NOₓ production during thunderstorms. In this study, we combined optical lightning data from the Meteosat Third Generation (MTG) Lightning Imaging (LI) instrument, which provides information on the occurrence rate and physical characteristics of lightning flashes, measurements from an extended Lightning Mapping Array (LMA) consisting of 24 sensors, lightning measurements from the Lightning Location System (LLS) of the Meteorological Service of Catalonia (MSC), and TROPO-spheric Monitoring Instrument (TROPOMI) cloud and NO₂ research products to investigate lightning NOₓ emissions in the Ebro Valley (Spain). WRF-Chem simulations were used to calculate the necessary air mass factors and to subtract the NOₓ not produced by lightning from the TROPOMI measurements, allowing a more accurate estimation of lightning-induced NOₓ. We found positive relationships between lightning-produced NOₓ per flash and several lightning properties, including flash channel length, radiance, footprint, duration and the length of the optical continuous signal detected from space. These results highlight the importance of combining detailed lightning observations with atmospheric modeling to quantify NOₓ emissions from thunderstorms.",
+      "doi": "10.5194/acp-26-14277-2026",
+      "authors": [
+        "Francisco Javier Perez-Invernon",
+        "Francisco J. Gordillo‐Vázquez",
+        "Oscar A. van der Velde",
+        "Montanya Joan",
+        "Jesús A. López",
+        "Nicolau Pineda",
+        "Diego Loyola",
+        "Sora Seo",
+        "Christoph Knote",
+        "Alexandre O. Fierro",
+        "Heidi Huntrieser"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7167666223",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7167666223",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/7 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Abstract. Lightning is one of the main sources of NOₓ in the Earth’s atmosphere, yet there is considerable variability in NOₓ production during thunderstorms. In this study, we combined optical lightning data from the Meteosat Third Generation (MTG) Lightning Imaging (LI) instrument, which provides information on the o…",
+      "added": false
+    },
+    {
+      "title": "Spatial modelling of wildland-derived radiant heat and firebrand exposure for Wildland Urban Interface (WUI) risk-reduction planning in Hobart, Tasmania",
+      "abstract": "Wildfire house loss is increasing due to urban expansion into flammable wildlands and more dangerous fire weather because of climate change. A basic step in wildfire risk reduction programs in the wildland urban interface (WUI) is mapping wildfire exposure hazard to housing, although doing this accurately is difficult because of the complexities of the processes involved. To advance this problem, we developed a geospatial framework for mapping wildfire-origin exposure based on penetration of radiant heat and firebrands into areas abutting wildlands surrounding Hobart, a highly fire prone Australian city. The radiant heat model was physics-based, while the firebrand model was statistically derived from outputs of fluid dynamics modelling of firebrand transport. Both models were parameterized according to vegetation, fuel load, topography, and weather. Combining outputs from these models we estimated the number of houses exposed to wildfire. Our results were more spatially nuanced than official bushfire hazard mapping, which delineates areas with 100 m proximity to bushland. We found the penetration distance of firebrands was greater than radiative heat, although their combined effect places houses proximate to flammable vegetation at heightened risk. Using our framework, we explored the benefits of firebreaks and fuel treatment scenarios showing that thinning of bushland to increase distance from homes by 50 m, and reducing fuel loads, could reduce by 68% the number of houses in the study area exposed to the hazards. We propose a model of wildfire exposure on the urban interface that can be used to further design WUI house loss mitigation strategies.",
+      "doi": "10.1016/j.pyro.2026.100028",
+      "authors": [
+        "Grant James Williamson",
+        "Amila M. K. Wickramasinghe",
+        "Stefania Ondei",
+        "Owen F. Price",
+        "David MJS Bowman"
+      ],
+      "year": 2026,
+      "journal": "Journal of Pyrogeography",
+      "openalex_id": "W7220989312",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7220989312",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/7 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Wildfire house loss is increasing due to urban expansion into flammable wildlands and more dangerous fire weather because of climate change. A basic step in wildfire risk reduction programs in the wildland urban interface (WUI) is mapping wildfire exposure hazard to housing, although doing this accurately is difficult…",
+      "added": false
+    },
+    {
+      "title": "Hurricane Impacts Compounded by Sea Level Rise: An Illustrative Case Study of Economic Impacts and Workforce Resilience Analysis",
+      "abstract": "Abstract Expected sea level rise will increase the probability of extreme flooding events, such as those associated with hurricane surge and/or heavy rainfall. Projecting the economic impacts of a significant hurricane is necessary for weighing the costs and benefits of potential mitigation actions. Accounting for the compounding effects of sea level rise is critical, given the challenges elevated sea levels pose to coastal communities in the U.S. and worldwide. This chapter asks: How can we comprehensively estimate the economic impacts of a hurricane event that is compounded by sea level rise? To address this, we offer a methodology for conducting an economic impact analysis and apply it to the case study region of Hampton Roads (Virginia, U.S.). This chapter illustrates the methodology that accounts for compound hurricane and sea level rise, providing estimates of direct, indirect, and induced economic impacts. The economic impact estimates quantify uninsured building damages and reveal industry-specific variations in workforce disruptions.",
+      "doi": "10.1007/978-3-032-28745-8_5",
+      "authors": [
+        "Juita‐Elena Yusuf",
+        "Yin‐Hsuen Chen",
+        "Robert Martin McNab",
+        "George McLeod"
+      ],
+      "year": 2026,
+      "journal": "Springer eBooks",
+      "openalex_id": "W7221458974",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221458974",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Abstract Expected sea level rise will increase the probability of extreme flooding events, such as those associated with hurricane surge and/or heavy rainfall. Projecting the economic impacts of a significant hurricane is necessary for weighing the costs and benefits of potential mitigation actions.",
+      "added": false
+    },
+    {
+      "title": "Government Response Strategies To Online Rumors During A Public Health Crisis",
+      "abstract": "Pandemija COVID-19 ni povzročila le resnih zdravstvenih in upravljavskih izzivov, temveč tudi brezprimerno informacijsko krizo. Vlade imajo ključno vlogo pri ohranjanju informacijskega reda in javnega zaupanja med pandemijo. Kljub temu so se obstoječe študije večinoma osredotočale na odzivne strategije na makro ravni in so premalo pozornosti namenile interakciji med odzivnimi strategijami, načini odzivanja, odzivi javnosti ter kontekstualnimi dejavniki, ki vplivajo na na upravljanje govoric. Na podlagi teorije situacijskega kriznega komuniciranja (SCCT) ta raziskava razvija štiridimenzionalni analitični okvir, ki vključuje tipe govoric, strategije odzivanja na govorice, načine odzivanja in odzive javnosti. Raziskava je analizirala objave odzivov na govorice na družbenih omrežjih Weibo (n=278) in Twitter (n=293) iz uradnih računov kitajske in ameriške vlade v zgodnji fazi pandemije COVID-19. Raziskovalka je uporabila vsebinsko in besedilno analizo za preučevanje vzorcev odzivanja ter reakcij javnosti. Ugotovitve kažejo, da sta obe državi uporabili štiri skupne strategije odzivanja (zanikanje, ovržba, napad in usmerjanje), vendar so se razlikovale po pogostosti uporabe, pripovednih slogih in načinih predstavitve. Kitajska vlada je pogosto uporabljala strategiji zanikanja in ovržbe, s poudarkom na preverjanju dejstev, skupni pripovedi in slikovni predstavitvi. Ameriška vlada je raje uporabljala strategiji usmerjanja in zanikanja, brez izrazitega preverjanja dejstev. Ameriški pristop je pogosto vključeval “releasable narrative” in zunanje povezave, ki uporabnikom omogočajo dostop do dodatnih informacij. Poleg tega se je kitajska vlada bolj osredotočala na odzivanje na t. i. “bogie” govorice, medtem ko se je ameriška vlada odzivala predvsem na “wish” in “bogie” govorice. Komentarji kitajske javnosti so razkrivali dvojno strukturo zaupanja med centralno in lokalno vlado ter izražali identifikacijo s kolektivnimi interesi in žrtvovanjem. Komentarji ameriške javnosti pa so se osredotočali na nezaupanje in skepticizem do zvezne vlade in predsednika ter na vprašanja preglednosti informacij in racionalnosti politik. Na podlagi teh ugotovitev študija predlaga model kontekstualiziranega odziva na govorice (CRRM) za razumevanje vladnega odziva na govorice v mednarodnih krizah javnega zdravja.",
+      "doi": null,
+      "authors": [
+        "Jing Wu"
+      ],
+      "year": 2026,
+      "journal": "Repository of the University of Ljubljana (University of Ljubljana)",
+      "openalex_id": "W7221578673",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221578673",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Pandemija COVID-19 ni povzročila le resnih zdravstvenih in upravljavskih izzivov, temveč tudi brezprimerno informacijsko krizo. Vlade imajo ključno vlogo pri ohranjanju informacijskega reda in javnega zaupanja med pandemijo.",
+      "added": false
+    },
+    {
+      "title": "Buddhist Wisdom for a Changing World: How Impermanence Can Heal Immigration Tensions",
+      "abstract": "Migration is an intrinsic and historically significant aspect of human civilization, mirroring natural phenomena such as the movement of birds, the dispersal of seeds, and the flow of rivers across borders. While migration has long been a driving force behind cultural and economic development, it has become a contentious issue in the contemporary global landscape. Many nations perceive immigration as a threat to national identity, economic stability, and resource distribution. Although the preservation of cultural heritage is a legitimate concern, the ethical ramifications of restrictive immigration policies necessitate a critical and balanced examination. This study explores the applicability of the Buddhist doctrine of Anicca (impermanence) as a philosophical framework for addressing immigration-related challenges. The principle of impermanence highlights the transient and evolving nature of human societies, challenging the sustainability of rigid opposition to migration. By incorporating this perspective, the research advocates for a balanced, ethical approach a “middle path” that reconciles national interests with fundamental human rights while fostering global harmony. Utilizing a combination of theoretical analysis and empirical research, this study critically assesses contemporary immigration policies and underscores the potential repercussions of sustained resistance to migration, including socioeconomic disparities and geopolitical instability. The findings suggest that acknowledging the impermanent nature of social and political structures can facilitate more adaptive, humane, and forward-thinking immigration policies. Although integrating this philosophical framework into national governance presents challenges, historical evidence demonstrates that societies have continually evolved in response to migration. This research underscores the necessity of transcending rigid nationalism in favour of a more inclusive, human-centred paradigm of coexistence. Furthermore, this study provides a foundation for future research on how the principle of impermanence might reshape national security discourses, either by alleviating migration-related anxieties or presenting new policy considerations in managing global migration crises.",
+      "doi": "10.64388/irev10i4-1723816",
+      "authors": [
+        "Rohit Ekka"
+      ],
+      "year": 2026,
+      "journal": "Iconic Research and Engineering Journals",
+      "openalex_id": "W7221556332",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221556332",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Migration is an intrinsic and historically significant aspect of human civilization, mirroring natural phenomena such as the movement of birds, the dispersal of seeds, and the flow of rivers across borders.",
+      "added": false
+    },
+    {
+      "title": "Climate Change Anxiety, Self-Efficacy, and Optimism as Determinants of Pro-Environmental Behaviour among Young Adults in Kerala",
+      "abstract": "Kerala had experienced a series of extreme weather events and natural disastersin recent years, highlighting the urgency of addressing climate-related challenges. Climate change today extends beyond an environmental issue impacting social, psychological, and economic aspects of life especially for vulnerable communities. The purpose of this study is to examine the influence of climate change anxiety, self-efficacy and optimism on pro-environmental behaviour among young adults of Kerala. The study was conducted on young adults (N=106), including both men and women aged from 18 to27. The scales included in the questionnaires are Climate Change Anxiety Scale (CCAS), General Self-Efficacy Scale (GSE), and Life Orientation Test-Revised (LOT-R). This was a correlational study that employed descriptive statistics and used a purposive sampling method. From the results obtained through data analysis, it can be concluded that pro-environmental behaviour is connected with climate change anxiety, self-efficacy and optimism. These behaviours can build resilient communities, support mental health, reduce climate-related anxiety, and contribute to a sustainable future.",
+      "doi": "10.66799/ijip.2026.02.01.004",
+      "authors": [
+        "Mithra Vinda A"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Interventional Psychology (IJIP)",
+      "openalex_id": "W7221454330",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221454330",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Kerala had experienced a series of extreme weather events and natural disastersin recent years, highlighting the urgency of addressing climate-related challenges.",
+      "added": false
+    },
+    {
+      "title": "Building Predictive Identity Threat Models Using Behavioral Biometrics and Zero Trust Cybersecurity Principles",
+      "abstract": "This review explores the integration of behavioral biometrics and Zero Trust cybersecurity principles in building predictive identity threat models for advanced cyber defense. As traditional perimeter-based security becomes increasingly ineffective against sophisticated identity-based attacks, the fusion of behavioral biometrics—such as keystroke dynamics, mouse movement, touchscreen behavior, and gait recognition—with Zero Trust frameworks offers a more dynamic and continuous method of user authentication and threat prediction. By leveraging machine learning algorithms to analyze behavioral patterns in real time, organizations can identify anomalies indicative of account compromise, insider threats, or unauthorized access. Zero Trust, which operates on the principle of “never trust, always verify,” ensures that every user and device is continuously authenticated, authorized, and validated based on risk context and behavioral insights. This paper synthesizes the state-of-the-art technologies, architectures, and analytical techniques underpinning predictive identity threat modeling. It also examines use cases across sectors, implementation challenges, and future directions for securing digital identities in an era of pervasive cyber threats.",
+      "doi": "10.56201/ijcsmt.vol.11.no9.2025.pg70.92",
+      "authors": [
+        "Tamuka Mavenge Moyo"
+      ],
+      "year": 2026,
+      "journal": "INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN",
+      "openalex_id": "W7221548393",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221548393",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "This review explores the integration of behavioral biometrics and Zero Trust cybersecurity principles in building predictive identity threat models for advanced cyber defense.",
+      "added": false
+    },
+    {
+      "title": "Quantifying the contribution of vegetation layer uncertainty to simulated forest fuels treatment placement",
+      "abstract": "Background Western US forests face rising high-severity fire risk motivating increased investment in forest management. The high cost of treatments and vast areas needing work require efficient resource allocation. Forest landscape models can help scale up analysis and support management, but underlying uncertainties can limit their utility. Aims We examined uncertainty in the initial forest input layer, quantifying the error and determining how much field data are needed to produce outputs suitable for informing management. Methods We created eight initial forest layers using various sample sizes and selection methods, ran 50-year simulations and compared outputs. We also resampled model outputs from 100 to 500 m resolution and evaluated the effects. Key results Stratified sampling stabilized errors and allowed using smaller sample sizes relative to random sampling, and coarser resolution resampling reduced errors while retaining key information. Combining these strategies produced similar outputs using all and only 25% of the data. Conclusions Combining stratified sampling with output coarsening reduces data demands while maintaining analytical rigor, enabling more actionable guidance for management planning. Implications This work advances the operational use of landscape models as a decision-support tool, allowing managers to scale up planning by integrating model outputs with expert knowledge and reducing reliance on labor-intensive field inventories.",
+      "doi": "10.1071/wf26119",
+      "authors": [
+        "Hagar Hecht",
+        "Dennis Carril",
+        "Matthew D. Hurteau"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Wildland Fire",
+      "openalex_id": "W7221442870",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221442870",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Background Western US forests face rising high-severity fire risk motivating increased investment in forest management. The high cost of treatments and vast areas needing work require efficient resource allocation.",
+      "added": false
+    }
+  ]
+}
