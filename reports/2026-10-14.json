@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-14",
+  "statistics": {
+    "fetched": 115,
+    "duplicates_removed": 115,
+    "evaluated": 0,
+    "added": 0,
+    "ignored": 0,
+    "average_score": 0.0
+  },
+  "dry_run": false,
+  "papers": []
+}
