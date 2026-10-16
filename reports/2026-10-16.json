@@ -1,0 +1,512 @@
+{
+  "date": "2026-10-16",
+  "statistics": {
+    "fetched": 124,
+    "duplicates_removed": 104,
+    "evaluated": 20,
+    "added": 1,
+    "ignored": 19,
+    "average_score": 1.5
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires",
+      "abstract": "Wildfires in the Amazon have far-reaching climatic and ecological impacts, yet their predictability remains limited. Here we identify a large-scale atmospheric precursor of August–September Amazon wildfires: a June–July dipole mode of South Atlantic atmospheric rivers (ARs), characterized by suppressed AR activity in the north and enhanced activity in the south. This dipole is strongly linked to interannual variability in Amazon wildfire activity through land–atmosphere feedbacks associated with reduced precipitation and humidity, enhanced surface warming and solar radiation, and increased vegetation stress. We estimate that wildfire-related forest loss associated with this AR dipole mode accounts for approximately 26% of the observed interannual variability in total forest loss. Adding the South Atlantic AR dipole to predictors based on May–June sea surface temperature anomalies and June–July wildfire activity yields substantial predictive skill for August–September burned area (R² = 0.67). Climate model projections further indicate a future intensification of the South Atlantic AR dipole mode, implying increased wildfire-driven ecological degradation in the Amazon under continued warming. This study identifies a South Atlantic atmospheric river dipole as an early warning signal for Amazon wildfires, linking shifts in moisture transport to hotter, drier conditions and increased fire activity in the region.",
+      "doi": "10.1038/s41467-026-78572-z",
+      "authors": [
+        "Shiyue Zhang",
+        "Wenhao Dong",
+        "Deliang Chen"
+      ],
+      "year": 2026,
+      "journal": "Nature Communications",
+      "openalex_id": "W7221796816",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221796816",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 83%: matched 3/5 key interest terms (wildfires, large, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Wildfires in the Amazon have far-reaching climatic and ecological impacts, yet their predictability remains limited. Here we identify a large-scale atmospheric precursor of August–September Amazon wildfires: a June–July dipole mode of South Atlantic atmospheric rivers (ARs), characterized by suppressed AR activity in t…",
+      "added": true
+    },
+    {
+      "title": "Isotope-informed analysis of changes in the global CO budget over the past 30 years",
+      "abstract": "Abstract. Carbon monoxide (CO) is an active intermediate in the cycling of carbon compounds in the atmosphere and affects the atmosphere’s oxidation capacity through its own and related reactions. Global monitoring of CO mole fractions has been extensively carried out by the National Oceanic and Atmospheric Administration (NOAA) Global Monitoring Laboratory (GML) since the 1990s. The sources and sinks of CO can be partially distinguished with isotope measurements, but observations of the CO isotopic composition are sparse. A network of independent global observatories measured 𝛿13CCO and 𝛿18OCO between 1995–2001, but the only continuous monitoring until now has been performed at Baring Head, New Zealand. As part of the Iron Salt Aerosol Methane Oxidation (ISAMO) project, regular measurements of 𝛿13CCO and 𝛿18OCO have resumed at seven stations, three of which (ZEP, IZO, RPB) overlap with the older network. In this study, we use the new and existing CO mole fraction and isotope data together with model simulations to derive empirical constraints for changes to the global and regional CO budget over the past three decades. We find a strong reduction in wintertime CO at mid-to-high latitudes in the Northern Hemisphere and relatively stable CO mole fractions across the entire Southern Hemisphere. We validate the trend of increasing CH4 in the atmosphere concurrent with decreasing CO emissions from fossil fuel combustion, though our findings suggest that reductions in fossil fuel CO emissions in the Northern Hemisphere may be underestimated. This trend, coupled with increasing summer wildfire activity in the Northern Hemisphere, is substantially changing our understanding of CO, 𝛿13CCO, and 𝛿18OCO seasonality.",
+      "doi": "10.5194/egusphere-2026-5618",
+      "authors": [
+        "Chloe Brashear",
+        "Maarten M. J. W. van Herpen",
+        "Sergey Gromov",
+        "Berend van de Kraats",
+        "Carina van der Veen",
+        "Xietiancheng Yu",
+        "Matthew  Stanley Johnson",
+        "Helder Timas",
+        "Sönke Zaehle",
+        "Armin Jordan",
+        "Heiko Moossen",
+        "Ãfrica Barreto",
+        "Natalia Pratts",
+        "Isabel Baños",
+        "Jesús Arrieta",
+        "Dickon Young",
+        "Peter Sealy",
+        "Hella van Asperen",
+        "Simonetta Montaguti",
+        "Peter Sperlich",
+        "Rowena Moss",
+        "Sylvia E. Nichol",
+        "Stephen M. Platt",
+        "Ove Hermansen",
+        "Cathrine Lund Myhre",
+        "Gabrielle Pétron",
+        "Andy Crotwell",
+        "Isaac Vimont",
+        "Thomas Röckmann"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221813898",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221813898",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract. Carbon monoxide (CO) is an active intermediate in the cycling of carbon compounds in the atmosphere and affects the atmosphere’s oxidation capacity through its own and related reactions.",
+      "added": false
+    },
+    {
+      "title": "Apportioning Sources of Nitrogen Oxides in California's San Joaquin Valley Using Observations From Three Airborne Field Campaigns",
+      "abstract": "Abstract Emissions of nitrogen oxides (NO x = NO + NO 2 ), a precursor to ozone and secondary aerosol formation have become increasingly important to understand as ozone production transitions to NO x limited in most regions of the US. Recent studies suggest that NO x emissions associated with agricultural activities, particularly cropland soils, are an increasingly important contributor. California's San Joaquin Valley (SJV) is a prominent agricultural region, with large‐scale cropland and livestock operations that are known sources of nitrogenous emissions. In this work, observations from six summertime research flights, two each from three airborne field campaigns conducted in 2010, 2019, and 2023, are used to identify sources and quantify contributions from various agricultural and non‐agricultural sectors to airborne observations of NO x in the SJV. This analysis utilizes measurements of total reactive nitrogen oxides (NO y ; a more conserved tracer than NO x ), nitrous oxide, ammonia, ammonium, methane, ethane, carbon monoxide, sulfur dioxide, and select volatile organic compounds and applies two source receptor models to separate abundances of NO y into source contributions. Both approaches identify and attribute NO y observations in the SJV to the same four source sectors. Results varied for each individual flight. The basin‐wide average (1σ standard deviation) percent contribution from six flights to the regional NO y observations were 24.9(10.3)% for fertilized soils, 25.3(9.6)% for livestock operations, 40.8(13.9)% for mobile combustion, and 2.9(2.7)% for stationary combustion sources indicating that agriculture can be a larger contributor to nitrogenous emissions in the SJV compared with a California‐based emissions inventory.",
+      "doi": "10.1029/2026jd047907",
+      "authors": [
+        "I. B. Pollack",
+        "Andrew W. Rollins",
+        "Eleanor M. Waxman",
+        "Quazi Z. Rasool",
+        "Rebecca H. Schwantes",
+        "Jeff Peischl",
+        "Nell B. Schafer",
+        "Kristen Zuraski",
+        "Ann M. Middlebrook",
+        "Sarah Albertin",
+        "Alison M. Piasecki",
+        "Matthew Mitchell Coggon",
+        "Chelsea E. Stockwell",
+        "Kelvin H. Bates",
+        "Michael A. Robinson",
+        "Christopher Jernigan",
+        "Jessica B. Gilman",
+        "Victoria Treadaway",
+        "Morgan Selby",
+        "Emily R. Lill",
+        "Emily V. Fischer",
+        "J. Robert Roscioli",
+        "Katherine Ball",
+        "A. E. Perring",
+        "Ilann Bourgeois",
+        "Joshua Peter Schwarz",
+        "Brian McDonald",
+        "C. Warneke",
+        "Steven S. S Brown"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W7221829144",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221829144",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract Emissions of nitrogen oxides (NO x = NO + NO 2 ), a precursor to ozone and secondary aerosol formation have become increasingly important to understand as ozone production transitions to NO x limited in most regions of the US.",
+      "added": false
+    },
+    {
+      "title": "Floristic condition drives differential response to cultural burns in grassy woodlands for ectomycorrhizal and arbuscular mycorrhizal fungi",
+      "abstract": "Societal Impact Statement Cultural burns are a critical Indigenous land management practice with diverse cultural and biodiversity benefits, now being reintroduced by Indigenous communities to Australian grassy woodlands after long post‐colonization suppression. How these burns influence soil fungi, critical partners in plant nutrition, remains poorly understood. On Wiradjuri Country, we show that vegetation condition before a burn shapes how fungi respond. Woodlands rich in native plants kept the slow‐growing fungi of mature eucalypt roots; degraded sites favored fast‐colonizing fungi and the partners of exotic grasses. Assessing condition beforehand may show where burning will sustain existing fungi, and where further management could improve outcomes. Summary Low‐intensity “cool burns” are increasingly used for ecological management, drawing on Indigenous cultural burning, yet their belowground effects remain poorly understood. We examined how Indigenous‐led cultural burns influence mycorrhizal fungi across a floristic condition gradient in southeastern Australian box‐gum grassy woodlands. Using DNA metabarcoding and hyphal in‐growth bags, we assessed ectomycorrhizal (EcM) and arbuscular mycorrhizal (AM) communities, alongside hyphal biomass and chemistry 6 months post‐burn across eight paired burnt–unburnt sites. Floristic condition was quantified before burning to test whether vegetation legacies shaped fungal responses. Cultural burns acted as a selective filter on fungal communities that varied with floristic condition, but measured functions did not respond, except for fungal carbon content; hyphal biomass was instead linked to soil ammonium. High floristic condition buffered fire‐driven EcM declines, supporting the persistence of competitive taxa post‐fire. Conversely, AM fungi (primarily Glomus ) proliferated with burning but were suppressed in high floristic condition sites, putatively via EcM exclusion. These findings indicate that mycorrhizal fungal responses to low‐intensity cultural burns varied with floristic condition. Assessing vegetation condition before cultural burning could indicate fungal responses, identifying where existing fungi are maintained and where additional management may be needed to improve outcomes at lower floristic condition sites.",
+      "doi": "10.1002/ppp3.70285",
+      "authors": [
+        "Solomon Maerowitz‐McMahan",
+        "Elle Bowd",
+        "Dean Freeman",
+        "Rachael H. Nolan",
+        "Adam Frew",
+        "Jeff R. Powell"
+      ],
+      "year": 2026,
+      "journal": "Plants People Planet",
+      "openalex_id": "W7221760663",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221760663",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Societal Impact Statement Cultural burns are a critical Indigenous land management practice with diverse cultural and biodiversity benefits, now being reintroduced by Indigenous communities to Australian grassy woodlands after long post‐colonization suppression.",
+      "added": false
+    },
+    {
+      "title": "Arctic hierarchies and policy field rupture",
+      "abstract": "Abstract Chapter 4 takes the reader to higher latitudes and examines how interstate governance around the Arctic ecosystem(s) has developed. In this chapter, the three analytical wagers of the ecosystemic politics conceptual framework are considered. This entails first exploring how the Arctic has emerged as a supranational policy object and the efforts—from Indigenous peoples’ organizations, scientists, and states—involved in scaling politics to this circumpolar governance level. The chapter then examines how the Arctic is represented, finding that it is often framings of boundaries between Arctic, national, and global issues and actors at stake in more contentious episodes within the cooperation. Finally, findings from a network analytical approach are presented to help consider how the Arctic as a border-crossing ecosystem solidified a novel hierarchy dividing “Arctic” and “non-Arctic” actors. In the final section, this chapter explores the consequences of Russia’s full-scale reinvasion of and war against Ukraine for Arctic cooperative settings and considers what can be learned from “rupture” in the cooperation—and the comparatively quick resumption of some forms of cooperation in the Arctic despite significant countervailing security–political considerations.",
+      "doi": "10.1093/9780197860847.003.0004",
+      "authors": [
+        "Elana Wilson Rowe"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221774003",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221774003",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Abstract Chapter 4 takes the reader to higher latitudes and examines how interstate governance around the Arctic ecosystem(s) has developed. In this chapter, the three analytical wagers of the ecosystemic politics conceptual framework are considered.",
+      "added": false
+    },
+    {
+      "title": "Earth in Pieces",
+      "abstract": "Abstract Can global challenges be governed in “ecosystemic” pieces? This question has become increasingly pressing as society looks to the subglobal level—and nature itself—to help solve the challenges of planetary change. Earth in Pieces identifies and delves into an important universe of cases of multi-issue, transnational cooperative efforts anchored in and justified by shared ecosystems. Although these kinds of cooperative efforts around ecosystems have been studied for their environmental outcomes (or lack thereof), the broader consequences of states organizing cooperation through adjacent ecosystems have been largely overlooked. This book details a novel research agenda on “ecosystemic politics” designed to bring to the forefront the ordering effects and changing power relations facilitated by governing from ecosystems. The globally significant Amazon, Arctic, and Caspian Sea ecosystems and their governance are then explored in depth. Drawing upon and comparing these cases, the book reflects on both the promise and pitfalls of seeking to govern planetary change through ecosystem-anchored cooperation.",
+      "doi": "10.1093/9780197860847.001.0001",
+      "authors": [
+        "Elana Wilson Rowe"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221815344",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221815344",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Abstract Can global challenges be governed in “ecosystemic” pieces? This question has become increasingly pressing as society looks to the subglobal level—and nature itself—to help solve the challenges of planetary change.",
+      "added": false
+    },
+    {
+      "title": "Fire return intervals are very short at Niassa Special Reserve, Mozambique, especially in dry miombo woodlands—a survival analysis",
+      "abstract": "Abstract Background Fire shapes savanna and woodland landscapes, but the temporal spacing of recurrent fires remains poorly quantified in African miombo ecosystems. Understanding how fire-return intervals vary across vegetation and landscape settings is important for interpreting fire-regime heterogeneity, vegetation recovery, and fire-management needs. We assessed Fire-return intervals across the Niassa Special Reserve, Mozambique, and evaluated whether fire recurrence differed among major vegetation types. Annual fire histories for 2013 to 2024 were reconstructed from Landsat-derived burned-area maps sampled on a 1-km grid across the reserve. Fire-return intervals were analysed using discrete-time survival analysis approaches that incorporated censored observations and vegetation-stratified comparisons. Results Recurrent burning dominated the landscape: 69.6% of the reserve burned more than six times during 2013–2024. Median Fire-return intervals were approximately 1 year across most major vegetation types. Dry lowland miombo had the shortest intervals, highest annual burned area, and lowest survival probabilities. Moist escarpment miombo had longer intervals, lower annual area burned, and higher probabilities of remaining fire-free. Among the candidate distributions evaluated, the discrete Weibull model provided the best fit across vegetation types. Hazard functions peaked at 1-year intervals and declined thereafter, indicating that reburning was concentrated soon after previous fires and that long fire-free periods were uncommon. Conclusions Fire recurrence in the Niassa Special Reserve is strongly structured by vegetation type and landscape heterogeneity. The dominance of short fire-return intervals, particularly in dry miombo woodlands, suggests that frequent reburning is a defining feature of this protected miombo landscape. Maintaining spatial variation in fire frequency, including areas with longer fire-free persistence and potential fire refugia, can support landscape-level fire management, vegetation recovery, and miombo woodland resilience.",
+      "doi": "10.1186/s42408-026-00598-x",
+      "authors": [
+        "Cremildo R. G. Dias",
+        "João M.N. Silva",
+        "Natasha S. Ribeiro",
+        "José M. C. Pereira"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7221753547",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221753547",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 1/5 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Abstract Background Fire shapes savanna and woodland landscapes, but the temporal spacing of recurrent fires remains poorly quantified in African miombo ecosystems.",
+      "added": false
+    },
+    {
+      "title": "Fire Emergency Preparedness among Healthcare Workers in Selected Hospitals in Botswana",
+      "abstract": "Purpose: Insufficient safety protocols during the planning and operation of hospitals can lead to hazardous incidents. With multiple incidents occurring annually that frequently go undetected and result in fatalities and service disruptions, fire emergencies remain a significant risk in healthcare settings. This study assessed the level of fire emergency preparedness among healthcare workers in selected hospitals in Botswana. Methodology: An analytical cross-sectional design was employed. Quantitative data were collected using semi-structured questionnaires and observation checklists, while qualitative data were collected through key informant interviews. The study sampled 359 healthcare workers and included seven Safety, Health, and Environment (SHE) officers from seven hospitals. Quantitative data were analyzed using SPSS version 26, with descriptive statistics, chi-square tests, and binary logistic regression; qualitative data were analyzed thematically. Findings: Educational background and years of experience were significantly associated with fire preparedness. Healthcare workers with bachelor's degrees had 34.5% preparedness, while those with more than 15 years of experience had the highest preparedness at 52.9%. Only 18.5% had participated in fire drills and 34.3% had received fire safety training in the previous years. Only 40.5% knew how to properly use fire extinguishers, although 79.5% knew their location. Participation in fire safety training was the most significant indicator of individual preparedness (χ² = 121.104, p < 0.001). Overall, 87.7% were unfamiliar with specific emergency roles, and only 27% demonstrated adequate fire emergency preparedness. Hospital preparedness varied from 47.2% to 100%. Unique Contribution to Theory, Practice and Policy: The Emergency Management Preparedness Cycle guided the study, highlighting planning, training, equipping, drills, evaluation, and continuous improvement. The findings support competency-based fire safety training, clear emergency roles, regular drills, functional safety equipment, and stronger institutional communication. The Ministry of Health and relevant authorities should strengthen fire safety regulations, develop national hospital fire preparedness guidelines, provide adequate resources, and establish regular training, drills, and monitoring systems.",
+      "doi": "10.47604/jhmn.4011",
+      "authors": [
+        "Onalenna Kgosiesele",
+        "Anthony Wanjohi Nyambura"
+      ],
+      "year": 2026,
+      "journal": "Journal of Health Medicine and Nursing",
+      "openalex_id": "W7221779230",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221779230",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Purpose: Insufficient safety protocols during the planning and operation of hospitals can lead to hazardous incidents. With multiple incidents occurring annually that frequently go undetected and result in fatalities and service disruptions, fire emergencies remain a significant risk in healthcare settings.",
+      "added": false
+    },
+    {
+      "title": "Projected climate extremes and health burden in Kenya to 2050: a scenario-based analysis under SSP245 and SSP585 pathways",
+      "abstract": "Background Rising global temperatures and precipitation variability are intensifying extreme weather events and threatening human health worldwide. In Kenya, climate change is projected to significantly alter the distribution and severity of climate-sensitive diseases, particularly affecting vulnerable populations. This study projects climate extremes and associated health impacts in Kenya through 2050 under two emission scenarios: SSP245 (moderate mitigation) and SSP585 (high emissions). Methods The analysis employs a scenario-based approach using IPCC AR6-aligned climate projections (baseline 1995–2014; projections 2030–2050). Key climate indices include precipitation extremes (R20mm, RX5day, SDII, PRCPTOT) and temperature indicators (mean temperature, Excess Heat Factor). Climate projections are integrated with population exposure patterns and climate-sensitive health outcome literature to assess future health risks across Kenya’s diverse regions. Findings Both precipitation and temperature extremes are projected to intensify nationwide, with substantially greater impacts under SSP585. Increased rainfall intensity and flooding might amplify water-borne disease outbreaks and disrupt health services, particularly in western and coastal regions. Rising temperatures and increased heatwave frequency could escalate heat-related illnesses and non-communicable diseases, while expanding the geographic range of vector-borne diseases (malaria, dengue). Demographic growth and urbanization, especially in informal settlements, might substantially increase population exposure to these climate-health risks. Conclusion Kenya faces escalating climate-health threats, with severity contingent on global emission trajectories. Urgent, sustained climate mitigation and adaptation are essential to minimize future health burdens. The study recommends prioritizing climate-resilient health system strengthening, establishing integrated early warning systems, and implementing cross-sectoral adaptation strategies to protect vulnerable populations and enhance national climate-health preparedness.",
+      "doi": "10.3389/fclim.2026.1890697",
+      "authors": [
+        "Josphat Martin Muchangi",
+        "Lolem Lokolile Bosco",
+        "Moses Lengewa",
+        "Sarah Jebet Kosgei",
+        "Samuel  Kamau Kang’ethe",
+        "Nashon Kaloki Ng’elu",
+        "Festus Kipkorir"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Climate",
+      "openalex_id": "W7221830175",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221830175",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Background Rising global temperatures and precipitation variability are intensifying extreme weather events and threatening human health worldwide. In Kenya, climate change is projected to significantly alter the distribution and severity of climate-sensitive diseases, particularly affecting vulnerable populations.",
+      "added": false
+    },
+    {
+      "title": "Workplace Health and Safety in Teal‐Collar Jobs: How Blue‐Collar Men Working With Green Technology Embrace a Shifting Culture of Masculinity",
+      "abstract": "ABSTRACT Masculinity is often portrayed as a barrier to shifting away from fossil fuels because jobs in extractive industries represent a nostalgic masculine breadwinner identity. Accordingly, proposals for a just energy transition have provoked backlash aimed at protecting against perceived threats to manhood. Yet even though many men in blue‐collar jobs work with green technologies, their roles and perspectives are often overlooked in gender and environmental scholarship. Likewise, little is known about the occupational health and safety risks they face in these roles. We introduce the term teal‐collar job to describe the combination of blue‐collar and green‐collar work. We find that teal‐collar workers are embracing a shifting workplace culture characterized by respect for health and safety, camaraderie, and a desire to be emotionally present for family. However, enthusiastic environmentalism is not a prominent feature within participants' expressions of masculinity. Thus, our study challenges assumptions that working in blue‐collar trades broadly reproduces hegemonic, domineering forms of masculinity.",
+      "doi": "10.1111/gwao.70277",
+      "authors": [
+        "Jen Kostuchuk",
+        "Anelyse Margaret Weiler"
+      ],
+      "year": 2026,
+      "journal": "Gender Work and Organization",
+      "openalex_id": "W7221778573",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221778573",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Masculinity is often portrayed as a barrier to shifting away from fossil fuels because jobs in extractive industries represent a nostalgic masculine breadwinner identity. Accordingly, proposals for a just energy transition have provoked backlash aimed at protecting against perceived threats to manhood.",
+      "added": false
+    },
+    {
+      "title": "FOOD SAFETY-BASED MARKETING STRATEGY FOR LAMB MEAT TO ENHANCE COMPETITIVENESS IN URBAN MARKETS",
+      "abstract": "The increasing demand for lamb in urban markets reflects a structural shift in consumer preferences toward safe, high-quality, and sustainably produced food, in which food safety, certification, and traceability are primary determinants of purchasing decisions. The limited effectiveness of marketing communication prevents producers from translating these attributes into a measurable competitive advantage. This study aims to formulate a food safety-based marketing strategy to strengthen the competitiveness of lamb meat in urban markets. A qualitative descriptive approach was applied using SWOT analysis to evaluate internal factors consisting of production capacity, certification, product quality, branding, and marketing communication, alongside external factors including consumer preferences, market trends, competition, and technological development. Results demonstrate that strengths derived from food safety certification and product quality contribute 70% of the strategic leverage in enhancing competitiveness, while weaknesses related to marketing communication and branding account for 45% of internal constraints. External opportunities driven by increased consumer awareness and willingness to pay for certified products reach 65%, while threats from substitute products such as beef and poultry remain dominant. Strategic positioning is located in the growth-oriented quadrant, indicating an aggressive strategy that prioritizes certification-based differentiation, digital marketing optimization, consumer education, and value-added product development. Food safety-based marketing strategy significantly improves competitiveness through the alignment of production systems and market communication, which serves as a critical determinant of sustainable agribusiness development.",
+      "doi": "10.36596/tas.v8i2.2292",
+      "authors": [
+        "I Putu Gede Didik Widiarta",
+        "Arif Ismanto",
+        "Made Hardinata Wijakesuma",
+        "I Gede Arie Mahendra Putra",
+        "Muhammad Eriansyah Al Hakim"
+      ],
+      "year": 2026,
+      "journal": "Tropical animal science",
+      "openalex_id": "W7221754943",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221754943",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "The increasing demand for lamb in urban markets reflects a structural shift in consumer preferences toward safe, high-quality, and sustainably produced food, in which food safety, certification, and traceability are primary determinants of purchasing decisions.",
+      "added": false
+    },
+    {
+      "title": "Forest bathing as a pathway toward ecological identity: a community case study",
+      "abstract": "Climate and ecological disruption can affect wellbeing, social relationships, and connection to place; when experienced across generations, these widespread disruptions can lead to collective trauma, becoming culturally embedded in identities shared at a community-level. This paper proposes a theoretical model demonstrating the reciprocal relationship between collective trauma and ecological dissociation, defined as diminished capacity for relational connection with the more-than-human world. We then present Acadiana Forest Bathing, a free, community-based initiative in south Louisiana, as an application of forest bathing to operationalize the theoretical underpinnings of this reciprocal cycle. Inviting self-guided and group-based sensory experiences in outdoor settings, the program aims to cultivate ecological identity through embodiment, agency, belonging, and connection at individual, community, and ecological scales. Initial lessons learned and suggestions for future programming are explored, as well as discussion of feasibility to systematically evaluate the conceptual application of the theoretical model, such that this place-based programming can integrate lived experiences with community-level interventions to address the ecological dissociation resulting from collective trauma.",
+      "doi": "10.3389/fcosc.2026.1981874",
+      "authors": [
+        "Kelly G. Guilbeau",
+        "Kathryn Dietzway"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Conservation Science",
+      "openalex_id": "W7221886969",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221886969",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Climate and ecological disruption can affect wellbeing, social relationships, and connection to place; when experienced across generations, these widespread disruptions can lead to collective trauma, becoming culturally embedded in identities shared at a community-level.",
+      "added": false
+    },
+    {
+      "title": "Ecosystem service gradients at protected area borders reveal multiple patterns and prevalent management conflicts",
+      "abstract": "Protected areas cannot halt biodiversity loss in isolation; integrating them with surrounding human-dominated landscapes is critical. However, this integration is challenged by substantial landscape heterogeneity at protected area borders, making it difficult to determine cross-border changes in ecosystem service provision. To address this knowledge gap, we developed a novel framework for characterizing these dynamics by analyzing ecosystem service gradients along protected area borders. For 16 protected areas in the French Alps, we used a mix of established biophysical models and novel connectivity-based models for mobile species to assess 12 ecosystem services. These services were aggregated into three stakeholder-driven domains reflecting rural, cultural, and urban management priorities. Automated polynomial regression analysis classified borders into five gradient types. The most common types were decreasing gradients, representing a decline in ecosystem services outside the protected area, and increasing gradients with the opposite pattern. Our analysis revealed that these patterns are driven by specific landscape configurations and uncovered frequent trade-offs between the three management priorities; for example, landscapes supporting rural priorities often degrade cultural and urban ones. We also identified key opportunities for synergies by identifying areas where ecosystem services for all three priority domains increased simultaneously outside the protected area. This spatially explicit typology provides a powerful diagnostic tool for designing targeted interventions, such as prioritizing habitat restoration where ecosystem services decline or managing agricultural landscapes to mitigate conflicts across management priorities, supporting a more effective integration of protected areas into the wider landscape.",
+      "doi": "10.1111/cobi.70402",
+      "authors": [
+        "Alberto González‐García",
+        "Margot Neyret",
+        "Adrián López-Tejedor",
+        "Marie‐Caroline Prima",
+        "Sara Si‐Moussi",
+        "Julien Renaud",
+        "Maya Guéguen",
+        "Sandra Lavorel"
+      ],
+      "year": 2026,
+      "journal": "Conservation Biology",
+      "openalex_id": "W7166849637",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7166849637",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Protected areas cannot halt biodiversity loss in isolation; integrating them with surrounding human-dominated landscapes is critical. However, this integration is challenged by substantial landscape heterogeneity at protected area borders, making it difficult to determine cross-border changes in ecosystem service provi…",
+      "added": false
+    },
+    {
+      "title": "A onda de calor ocorrida no período de 27 de abril a 11 de maio de 2024 em grande parte do Brasil: simulação e análise com diferentes metodologias",
+      "abstract": "Entre os meses de abril e maio de 2024, uma onda de calor (OC) afetou extensas áreas das regiões Sul, Sudeste e Centro-Oeste do Brasil, enquanto o estado do Rio Grande do Sul registrou recordes históricos de precipitação. Este estudo teve como objetivo avaliar o desempenho do modelo numérico Weather Research and Forecasting (WRF) na simulação do ciclo diurno da temperatura do ar a 2 metros em cinco capitais brasileiras (Campo Grande, Cuiabá, Curitiba, Rio de Janeiro e São Paulo), atingidas pela OC, e caracterizar a OC utilizando sete definições (chamadas de DOC1 a DOC7) baseadas em diferentes limiares. O modelo WRF foi executado no período de 27 de abril a 11 de maio de 2024 e a simulação foi validada com dados da reanálise ERA5 e de estações meteorológicas do Instituto Nacional de Meteorologia (INMET). As sete definições foram aplicadas nos três conjuntos de dados. O WRF foi capaz de representar o ciclo diurno de temperatura, com destaque para a capital São Paulo, onde o modelo apresentou viés e erro quadrático médio inferiores aos da reanálise. As diferentes definições de OC apresentaram variações consideráveis quanto à duração, intensidade e abrangência espacial do evento, sendo a DOC4 (baseada em temperatura máxima acima do percentil 90 por três dias consecutivos) a que apresentou OC com maior duração e extensão. A análise espacial evidenciou coerência entre WRF e ERA5 na identificação das áreas mais afetadas pela OC. Conclui-se que o uso de múltiplas definições permite uma análise mais robusta desses eventos extremos e que a metodologia mais apropriada depende da finalidade do estudo. Em adição, o WRF mostrou-se uma ferramenta útil para previsão de OC, já que representa bem o ciclo diurno da temperatura do ar.",
+      "doi": "10.26848/rbgf.v19.4.p1873-1897",
+      "authors": [
+        "Natan Chrysostomo de Oliveira Nogueira",
+        "Vanessa Silveira Barreto Carvalho",
+        "Michelle Simões Reboita",
+        "Isabelly Bianca dos Santos Gomes",
+        "Jeniffer Pereira da Silva"
+      ],
+      "year": 2026,
+      "journal": "Revista Brasileira de Geografia Física",
+      "openalex_id": "W7221785834",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221785834",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Entre os meses de abril e maio de 2024, uma onda de calor (OC) afetou extensas áreas das regiões Sul, Sudeste e Centro-Oeste do Brasil, enquanto o estado do Rio Grande do Sul registrou recordes históricos de precipitação.",
+      "added": false
+    },
+    {
+      "title": "Natural Hazards, Critical Infrastructure Systems, and Resilience Enhancement: A Structured State-of-the-Art Review and a Synthesis-Based Rapid Assessment Framework",
+      "abstract": "Abstract Critical infrastructure systems (CISs) are increasingly exposed to natural hazards whose impacts are amplified by infrastructure interdependence, urban complexity, and the growing prevalence of compound and cascading events. Existing research provides valuable insights into individual hazards, infrastructure components, modeling methods, and resilience metrics, but these insights remain difficult to translate into preliminary decision support because they are organized across different hazard types, sectors, analytical scales, and decision contexts. This article presents a structured state-of-the-art review of natural hazards, CIS impacts, and resilience enhancement. A two-pathway review strategy was adopted. A Web of Science (WoS) core search was used to characterize the bibliometric landscape and identify WoS-sourced core synthesis studies, while a targeted anchor-search pathway was used to verify foundational concepts, hazard mechanisms, methodological approaches, resilience frameworks, and authoritative institutional sources. The review clarifies the conceptual distinction among dependencies, interdependencies, compound hazards, cascading failures, service disruption, and resilience; synthesizes cross-hazard infrastructure impact mechanisms; compares major method families for hazard-impact and resilience assessment; and develops a synthesis-derived rapid resilience assessment framework for preliminary screening and prioritization under constrained data and time conditions. The synthesis indicates that future CIS resilience assessment would benefit from moving beyond isolated asset-damage analysis toward integrated workflows that link hazard loading, component vulnerability, network functionality, service consequences, recovery capacity, uncertainty, and feasible intervention choices. The article contributes a more transparent evidence-source structure, an evidence-to-decision bridge, and a bounded decision-oriented framework for organizing future research and practical resilience screening.",
+      "doi": "10.1061/nhrefo.nheng-2965",
+      "authors": [
+        "Xuejian Zhang",
+        "Li Min SUN",
+        "Le Chang",
+        "Zhen Hong Sun"
+      ],
+      "year": 2026,
+      "journal": "Natural Hazards Review",
+      "openalex_id": "W7221447770",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221447770",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract Critical infrastructure systems (CISs) are increasingly exposed to natural hazards whose impacts are amplified by infrastructure interdependence, urban complexity, and the growing prevalence of compound and cascading events.",
+      "added": false
+    },
+    {
+      "title": "HOW THE CLIMATE CRISIS WAS NEARLY AVOIDED",
+      "abstract": "Abstract In an all-electric world, there would be little danger of an anthropogenic climate crisis. Humanity came close to that state 125 years ago, as all the ingredients had been discovered or developed, together with knowledge that greenhouse gases would cause global warming. We trace those developments and why they lost out to fossil fuel-based energy, drawing lessons about market failure for the present situation. We model and forecast the energy mix for UK domestic consumption, providing a historical counterfactual had the UK taken the electric path rather than the fossil fuel path more than a century ago.",
+      "doi": "10.1017/nie.2026.10102",
+      "authors": [
+        "Jennifer L. Castle",
+        "David Forbes Hendry"
+      ],
+      "year": 2026,
+      "journal": "National Institute Economic Review",
+      "openalex_id": "W7222024426",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222024426",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract In an all-electric world, there would be little danger of an anthropogenic climate crisis. Humanity came close to that state 125 years ago, as all the ingredients had been discovered or developed, together with knowledge that greenhouse gases would cause global warming.",
+      "added": false
+    },
+    {
+      "title": "Soil and Root-Associated Microbial Responses to Abiotic Stress under Climate Change: Implications for Carbon Cycling, Plant Resilience, and Microbial Bioinoculants",
+      "abstract": "Soil and root-associated microbial communities are pivotal to terrestrial biogeochemical cycling; however, compounding global change stressors increasingly compromise their structural and functional resilience. This review synthesizes microbial responses to key abiotic perturbations, including elevated atmospheric CO2 (eCO2), thermal anomalies, hydrological extremes (drought and flooding), and nutrient imbalances (N and P). We critically evaluate how these factors regulate microbial carbon use efficiency (CUE), greenhouse gas emissions, and the distribution of metabolic traits, specifically the balance between fast-growing (r-strategists) and slow-growing (K-strategists) populations. We also explore mechanisms of plant-microbe interactions under stress, focusing on root exudation patterns and phytohormone signaling (e.g., ethylene modulation via ACC deaminase). By bridging microbial physiology, metagenomics, and trait-based ecology, this study underscores the critical need to parameterize soil microbial mechanisms into climate feedback models to advance ecosystem management, ensure crop resilience, and improve the efficacy of soil bioinoculants.",
+      "doi": "10.69667/ajs.261007",
+      "authors": [
+        "Abu Bakr Alzahaf"
+      ],
+      "year": 2026,
+      "journal": "Alqalam Journal of Science",
+      "openalex_id": "W7221760550",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221760550",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Soil and root-associated microbial communities are pivotal to terrestrial biogeochemical cycling; however, compounding global change stressors increasingly compromise their structural and functional resilience.",
+      "added": false
+    },
+    {
+      "title": "Ten Uses of Extreme Event Impact Attribution: An Economic Research Agenda",
+      "abstract": "Abstract This paper describes what Extreme Event Impact Attribution (EEIA) is, what it can provide, and why it is becoming increasingly more policy relevant. The core idea of EEIA is simple: If anthropogenic climate change modifies the probability or intensity of an extreme weather event or a class of such events, and if these events caused measurable adverse impact, then some portion of the measured impacts can be attributed to climate change. In practice, this requires a clear attribution question, a counterfactual climate, an impact model or impact data, and transparent assumptions about what is held constant. The literature shows that EEIA is already useful for estimating national and global climate-attributable losses, projecting future costs, identifying inequities, measuring response costs, tracing indirect losses, valuing health and mortality impacts, informing the Fund for Responding to Loss and Damage, supporting liability claims, and communicating the costs of climate change. Data gaps, methodological differences, ethical disagreements, and limited research capacity mean that impact attribution is best understood as one component of a broader evidence base, but one which, if it develops further, can contribute a lot to our knowledge of climate change.",
+      "doi": "10.1007/s40797-026-00413-1",
+      "authors": [
+        "Ilan Noy"
+      ],
+      "year": 2026,
+      "journal": "Italian Economic Journal",
+      "openalex_id": "W7221789540",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221789540",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract This paper describes what Extreme Event Impact Attribution (EEIA) is, what it can provide, and why it is becoming increasingly more policy relevant. The core idea of EEIA is simple: If anthropogenic climate change modifies the probability or intensity of an extreme weather event or a class of such events, and…",
+      "added": false
+    },
+    {
+      "title": "An assessment of Northern Hemisphere warm spell trends across seasons: spring warm spells increasing faster than projected",
+      "abstract": "Abstract Consecutive days of anomalously warm temperatures (warm spells) can severely impact human health and ecosystems, whatever time of year they occur. Previous research has typically focused only on warm-season warm spells - heatwaves; here, we assess trends in warm spells in all seasons across Northern Hemisphere midlatitude land using observational data (Berkeley Earth and ERA5) and CMIP6 climate models. Observational data show warm spell days increasing in all seasons, with mid-latitude land averages ranging from 0.8 days per decade in winter to 1.5 days per decade in summer over the last 70 years, with spring trends reaching 1.3 days per decade. CMIP6 models underestimate the observed increase in mid-latitude averaged spring warm spell days, with a multi-model mean value of 0.7 days per decade, and observational trends falling outside the CMIP6 model spread (model spread from 0.24 to 1.11 days per decade). CMIP6 models also overestimate fall warm spell trends, particularly with respect to the annual average trends, reporting trends as high as 1.17 times the annual average while observations report 0.85 times the annual average. The seasonality of the trends and associated model biases is strongly controlled by seasonal mean temperature trends. CMIP6 biases in seasonal temperature trends are partially linked to biases in surface albedo and soil moisture changes. These results have important implications for the accuracy of future projections of warm spells, particularly during the spring season.",
+      "doi": "10.1088/1748-9326/aeb436",
+      "authors": [
+        "Lualawi Mareshet Admasu",
+        "Rachel H. White",
+        "Anaïs Orsi"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7221759963",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221759963",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract Consecutive days of anomalously warm temperatures (warm spells) can severely impact human health and ecosystems, whatever time of year they occur. Previous research has typically focused only on warm-season warm spells - heatwaves; here, we assess trends in warm spells in all seasons across Northern Hemisphere…",
+      "added": false
+    },
+    {
+      "title": "Data-Driven Selection of Parametric and Travelling Fire Models for Performance-based Fire Design",
+      "abstract": "Abstract Selecting appropriate design fire models remains a key unresolved challenge in performance-based structural fire engineering, where the applicability of the Eurocode EN 1991-1-2 parametric fire curve and travelling fire (TF) models is not clearly defined. This study proposes a quantitative threshold for selecting between the EN and TF models based on full-scale experimental results. A total of 222 available full-scale natural fire experiments are summarised and used as benchmark data. For each experiment, average compartment fire temperature–time curves are predicted using the EN and TF models, respectively, and their predictive accuracy is quantitatively assessed to determine the best-performing model for each fire test. A logistic regression (LR) model is then derived from the available dataset to predict the best-performing model for a given set of fire inputs. As the required TF model inputs, namely the peak fire temperature, heat release rate per unit area, and fire spread rate, were not reported in the experimental data, a sensitivity study is conducted to evaluate their influence on the derived LR model. The results show that the LR model is most sensitive to the assumed fire spread rate. Therefore, three applicability segments are introduced into the LR model to cover a wider range of fire scenarios. The proposed LR model achieves an average training accuracy of 0.736 and an ROC–AUC of 0.808. A probabilistic risk assessment case study using Monte Carlo simulation demonstrates that the proposed LR model reduces both over- and under-design compared with EN-only or TF-only methods, providing a more balanced and reliable framework for current performance-based structural fire design.",
+      "doi": "10.1007/s10694-026-02017-8",
+      "authors": [
+        "Qingfeng Xu",
+        "Mohammad Javad Moradi",
+        "Hamzeh Hajiloo",
+        "Charlie Hopkin",
+        "Jun Heng Low",
+        "Lee Cunningham",
+        "Yong Wang"
+      ],
+      "year": 2026,
+      "journal": "Fire Technology",
+      "openalex_id": "W7221812320",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221812320",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/5 key interest terms",
+      "tags": [],
+      "summary": "Abstract Selecting appropriate design fire models remains a key unresolved challenge in performance-based structural fire engineering, where the applicability of the Eurocode EN 1991-1-2 parametric fire curve and travelling fire (TF) models is not clearly defined.",
+      "added": false
+    }
+  ]
+}
