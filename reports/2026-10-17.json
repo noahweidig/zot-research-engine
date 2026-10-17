@@ -1,0 +1,510 @@
+{
+  "date": "2026-10-17",
+  "statistics": {
+    "fetched": 138,
+    "duplicates_removed": 119,
+    "evaluated": 19,
+    "added": 2,
+    "ignored": 17,
+    "average_score": 1.68
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Radiogenic isotope variability in contemporary mineral dust across the intermountain west of the United States",
+      "abstract": "Mineral dust is a highly mobile component of Earth’s Critical Zone that influences ecosystem function, soil development, biogeochemical cycling, and environmental archives. Radiogenic isotopes provide a powerful means of characterizing dust because isotope ratios largely preserve source signatures during atmospheric transport. Here we present a dataset of 100 modern dust samples analyzed for 87 Sr/ 86 Sr and ε Nd from a network of 20 passive dust collectors distributed across the Intermountain West of the United States, including sites in the Uinta Mountains, Wasatch Mountains, Great Basin ranges of Nevada, southern Utah, southern Idaho, and urban environments. Pb isotope compositions were determined for samples from 8 of these collectors. Consideration of collector position, grain-size distribution, and local geology identifies a limited number of samples influenced by locally derived material, but most measurements provide a robust characterization of the isotope fingerprint of contemporary dust deposition. Distinct geographic patterns are evident, with dust from Nevada exhibiting lower 87 Sr/ 86 Sr ratios and higher ε Nd values than dust collected in Utah mountain environments, whereas samples from southern Utah, Idaho, and urban locations occupy intermediate but distinguishable isotopic fields. These isotope fingerprints can be provisionally linked with potential source areas upwind. In concert with Sr and Nd, Pb isotope ratios provide additional discriminatory power. Repeated sampling demonstrates that individual sites exhibit modest year-to-year variability, yet temporal variation is generally smaller than spatial differences among regions. The resulting geographic clustering indicates that dust deposited across the Intermountain West is not isotopically homogeneous, but instead exhibits persistent regional differences reflecting varying source landscapes and transport pathways. These results highlight the value of distributed monitoring networks for characterizing dust variability across broad regions and provide a foundation for future investigations of dust transport, landscape connectivity, and Critical Zone processes in western North America.",
+      "doi": "10.1038/s41598-026-75322-5",
+      "authors": [
+        "Jeffrey S. Munroe",
+        "Abigail A. Santis",
+        "Joshua J. Hulbert",
+        "Emmet D. Norris",
+        "Pratt M. Olson",
+        "Michael J. Tappa",
+        "Ann M. Bauer"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7222153875",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222153875",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 69%: matched 3/9 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Mineral dust is a highly mobile component of Earth’s Critical Zone that influences ecosystem function, soil development, biogeochemical cycling, and environmental archives.",
+      "added": true
+    },
+    {
+      "title": "Post-wildfire changes to water quality: a review with implications for harmful algal blooms and reservoir resiliency",
+      "abstract": "Abstract Wildfires wreak havoc on both urban and natural ecosystems and are expected to worsen under future climate conditions. Wildfires have the potential for long-term impacts on the health of downstream reservoirs. This study seeks to compile current literature worldwide regarding impacts of wildfires on reservoir water quality, with a special focus on the implications for harmful algal blooms. The overarching purpose was to fully understand wildfire impact on aquatic health and identify key gaps in research that are needed for accurate management of reservoirs. Due to changes in watershed conditions post-wildfire (mainly temperature, light, and nutrient dynamics), burned waterbodies are more susceptible to blooms in the months to years following a wildfire, with forested areas having recorded algae in burned waterways as high as 5–71× than that of unburned and simulated forested reservoirs showing up to 3× the peak chlorophyll-a values as their simulated unburned counterparts. Changes in algae are mainly attributed to changes to soil properties, increased nutrient loads, and increased light availability and temperatures caused by burning of surrounding vegetation. Factors that influence algae can be short-term, such as light limitation from smoke and large influxes of nutrients and metals, or longer-term, such as changes to canopy cover, legacy nutrients in sediments, surrounding runoff, and sediment chemistry. These external changes can influence harmful algae blooms (HABs) through alteration of bloom timing, extent, and community composition. There is still a need for longer-term studies of nutrient and algal dynamics, as most studies are limited to monitoring algae immediately following a wildfire. It is essential that reservoir managers anticipate how aquatic ecosystems are likely to respond to higher frequency and severity of wildfires and how their management strategies will need to be adapted.",
+      "doi": "10.1186/s42408-026-00594-1",
+      "authors": [
+        "Emily J. Summers",
+        "Jodi L. Ryder",
+        "Travis A. Dahl"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7222261076",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222261076",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 48%: matched 4/9 key interest terms (burning, large, wildfires, wildfire)",
+      "tags": [
+        "Burning",
+        "Large",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfires wreak havoc on both urban and natural ecosystems and are expected to worsen under future climate conditions. Wildfires have the potential for long-term impacts on the health of downstream reservoirs.",
+      "added": true
+    },
+    {
+      "title": "Driving forces of contemporary wildfire severity in the American Southwest: a remote sensing and machine learning case study in Arizona, USA",
+      "abstract": "As climate change continues to intensify atmospheric moisture demand across the American Southwest, predicting where wildfires cause severe vegetation mortality remains a major challenge. New thermal and optical harmonized satellite products provide emerging opportunities for evaluating how pre-fire vegetation moisture and water stress influence fire severity compared to other variables. We modeled continuous Relativized differenced Normalized Burn Ratio (RdNBR) for 45 wildfires that burned in the 2019 and 2020 fire seasons using random forest to compare Harmonized Landsat–Sentinel-2 vegetation indices, ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station) evapotranspiration and evaporative-stress metrics, Daymet pre-fire weather variables, LANDFIRE fuels attributes, and topographic predictors across five cumulative pre-ignition windows from 1 week to 3 months before ignition. Despite exceptional drought and anomalous fire-weather conditions, low-severity fire was common over the study period. Integrated models outperformed individual product-family models, indicating that fire severity was best explained by combined antecedent weather, terrain, fuels, vegetation type, and vegetation-moisture predictors. Temperature, elevation, solar radiation, vapor pressure, and HLS Normalized Difference Moisture Index (NDMI) were among the most consistent predictors. NDMI was the most consistent HLS plant-moisture metric, but vegetation moisture alone did not explain fire severity. Canopy cover was also important in woodlands and forests. Models using data from shorter pre-ignition windows outperformed longer pre-fire window models. They varied in performance among vegetation types, with the strongest vegetation-specific performance in forests and woodlands. These findings show that emerging high-resolution satellite products can help characterize pre-fire vegetation conditions and improve fire-risk assessments, especially when integrated with short-term antecedent weather, landscape moisture, and terrain data.",
+      "doi": "10.1080/20964471.2026.2735134",
+      "authors": [
+        "Helen Mills Poulos",
+        "Sarah Hardy",
+        "Jenna Lynne Otaola",
+        "Andrew  Marder Barton"
+      ],
+      "year": 2026,
+      "journal": "Big Earth Data",
+      "openalex_id": "W7222006390",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222006390",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 39%: matched 3/9 key interest terms (ignition, wildfires, wildfire)",
+      "tags": [
+        "Ignition",
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "As climate change continues to intensify atmospheric moisture demand across the American Southwest, predicting where wildfires cause severe vegetation mortality remains a major challenge.",
+      "added": false
+    },
+    {
+      "title": "Digital twin forestry as an informatics framework integrating remote sensing ecosystem modelling and data assimilation",
+      "abstract": "Forests are essential to the Earth system, regulating carbon, water, and biodiversity cycles while underpinning ecosystem resilience. Yet they face mounting pressures from climate and land-use change, requiring integrative informatics approaches that link high-resolution observations with advanced ecosystem models. This systematic review defines Digital Twin Forestry (DTF) as an emerging paradigm that continuously couples multisensor Earth Observation data with ecosystem models through data assimilation, enabling dynamic, uncertainty-aware forecasting and adaptive decision support. Following PRISMA 2020 guidelines, we synthesized 57 peer-reviewed studies published between 2016 and 2025 that combined EO datasets with ecosystem modeling and assimilation frameworks. Demonstrated advances include CubeSat constellations, spaceborne LiDAR, UAV hyperspectral systems, and hybrid machine-learning surrogates. Data assimilation methods such as Ensemble Kalman Filters and Particle Filters serve as computational bridges between multi-temporal observations and dynamic model states. Results reveal uneven biome representation, with tropical and boreal forests underrepresented compared to temperate zones, underscoring equity concerns in biodiversity-rich regions. While most forestry digital twins remain at prototype or early operational stages, continuous coupling of sensing platforms to models demonstrates the potential for near-real-time forecasting that extends beyond static inventories. Future priorities include physics-informed machine learning, FAIR-compliant cloud-native workflows, and expanded monitoring in underrepresented ecosystems. Embedding biodiversity and resilience monitoring into near-real-time, uncertainty-aware workflows will be critical, enabling DTF to evolve into operational systems that provide adaptive, policy-relevant decision support for climate-resilient forest management. This review offers an integrative roadmap for advancing DTF, contributing to global sustainability and supporting the United Nations Sustainable Development Goals, including Climate Action (SDG 13) and Life on Land (SDG 15).",
+      "doi": "10.1007/s44564-026-00029-8",
+      "authors": [
+        "Niamjit Das",
+        "Kevin Andrew"
+      ],
+      "year": 2026,
+      "journal": "Discover Informatics",
+      "openalex_id": "W7221993112",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221993112",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 2/9 key interest terms (united, states)",
+      "tags": [
+        "United",
+        "States"
+      ],
+      "summary": "Forests are essential to the Earth system, regulating carbon, water, and biodiversity cycles while underpinning ecosystem resilience. Yet they face mounting pressures from climate and land-use change, requiring integrative informatics approaches that link high-resolution observations with advanced ecosystem models.",
+      "added": false
+    },
+    {
+      "title": "Wildfire social science: rigor, traditions, and best practices for an evolving field",
+      "abstract": "Abstract Increased interest in and production of wildfire social science is a positive trend. Yet the increasing breadth and depth of researchers engaging in wildfire social science also suggest a need to constructively reflect on trends in the field and to illuminate considerations that allow for important reflexivity among researchers. This perspective article is intended to provide longitudinal observations that stimulate discussion about continued advancement of quality wildfire social science. We suggest that there is a need for concerted effort to revisit and agree upon what constitutes rigorous social science practice. This includes investment in field-based social science skills and insights to inform research and management processes. We also highlight a need to contextualize the production of new frameworks or theoretical advancements within existing knowledge, using scale-appropriate inquiry. We discuss ways to better incorporate and expand the use of social science throughout the development of wildfire science technologies or methodological approaches. This includes the need for objective, third-party evaluation of ways to use, adapt, and modify what is becoming a wildfire management economy. We close the article with a series of suggestions that researchers can use when considering how their ongoing efforts contribute to a legacy of rigorous wildfire social science traditions and best practices.",
+      "doi": "10.1186/s42408-026-00592-3",
+      "authors": [
+        "Travis Brent Paveglio",
+        "Christine Eriksen",
+        "Catrin M. Edgeley"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7221934134",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221934134",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Increased interest in and production of wildfire social science is a positive trend. Yet the increasing breadth and depth of researchers engaging in wildfire social science also suggest a need to constructively reflect on trends in the field and to illuminate considerations that allow for important reflexivity…",
+      "added": false
+    },
+    {
+      "title": "Probabilistic Forecasting of Wildfire Size Using Conditional Flow Matching",
+      "abstract": "In this work we present a probabilistic model for predicting the temporal evolution of wildfire size using conditional generative algorithms, namely flow matching. Rather than predicting spatially resolved fire progression, the proposed model forecasts a time series of fire acreage, substantially reducing computational cost and enabling efficient integration with downstream applications such as early warning systems and risk assessment tools. Given estimates of the fire size at the current and previous forecasting steps, alongside spatially averaged weather conditions, terrain characteristics, and fuel composition, the model predicts the change in fire area over a 3-hour interval. Training data are drawn from 140 coupled atmosphere-wildfire simulations generated using WRF-SFIRE, paired with weather data from the North American Mesoscale (NAM) model. Sensitivity analysis demonstrates that the model captures physically-consistent responses to variations in wind speed, temperature, and relative humidity. Model performance is evaluated against reference solutions from WRF-SFIRE. For single-step predictions, the model achieves a symmetric mean absolute percentage error (sMAPE) of 0.39 relative to the reference WRF-SFIRE solutions. Recursive multi-step predictions over 24 hours are performed for 12 held-out test cases, where the flow matching model achieves a final fire area sMAPE of 0.39 while further providing meaningful quantification of forecast uncertainty.",
+      "doi": "10.48550/arxiv.2610.15983",
+      "authors": [
+        "Isaac Lee",
+        "Bryan Shaddy",
+        "Assad A. Oberai"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7221813662",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221813662",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "In this work we present a probabilistic model for predicting the temporal evolution of wildfire size using conditional generative algorithms, namely flow matching.",
+      "added": false
+    },
+    {
+      "title": "Integrating multi-proxy records using multivariate statistical and computational approaches: a systematic review of paleoenvironmental variability across Chinese and global PTB sections",
+      "abstract": "Introduction The Permian-Triassic Boundary (PTB) represents the most severe mass extinction in Earth’s history, yet the relative contributions and interactions of environmental drivers remain debated. Methods The study systematically gathered and standardized multi-proxy paleoenvironmental data from 40 studies representing 38 PTB sections around the world, with high representation from South China. A combined dataset with a minimum of eight proxy categories (geochemical, sedimentological, paleoclimatic, palaeobiological and volcanogenic) was constructed. Major environmental gradients and relationships among proxies were determined by Principal Component Analysis (PCA) and correlation-based network analysis. Results Four principal components explained 71.2% of the total variance suggesting that the environmental change of PTB was multidimensional, not unidimensional. The primary component corresponds to the perturbations of ocean redox and geochemistry; other components relate to weathering-climate interactions, volcanism-climate coupling, and local depositional controls. Weak proxy correlations suggest that these processes were only loosely coupled and may have varied spatially or temporally. Spatial analysis shows a clear geographical clustering of Tethyan, especially Chinese sections, with weak dispersion of Gondwanan and Panthalassic sections. In addition, there is some uneven coverage of proxies, particularly those of rare earth elements and volcanogenic indicators, which affects the capacity to assess volcanism-climate interactions. Discussion Therefore, the PTB is a multi-dimensional environmental system in a process of interactions. To better understand the extent to which environmental changes affected the conditions of extinction and PTB in wider geographic regions, enhanced proxy coverage and standardized datasets are required.",
+      "doi": "10.3389/feart.2026.1908791",
+      "authors": [
+        "Atif Salim",
+        "Hanlie Hong",
+        "Adamu Yunusa",
+        "Tarig Amam",
+        "Thomas J. Algeo"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Earth Science",
+      "openalex_id": "W7222548494",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222548494",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Introduction The Permian-Triassic Boundary (PTB) represents the most severe mass extinction in Earth’s history, yet the relative contributions and interactions of environmental drivers remain debated.",
+      "added": false
+    },
+    {
+      "title": "EarthAlign: Learning Language-Aligned Representations of Earth System Data",
+      "abstract": "Interpreting Earth system conditions is central to understanding environmental risks and informing decisions across weather- and climate-sensitive sectors. Existing multimodal weather systems primarily target task-specific prediction, generation, or question answering, while general-purpose alignment between Earth system data and language remains underexplored due to the limited availability of diverse language supervision grounded in meteorological conditions. To fill this gap, we introduce EarthAlign, a large-scale dataset with broad geographic coverage spanning 2000-2024 that combines 10 expert-curated natural event and disaster data sources with climatology-derived normal-weather samples. Each sample includes temporal and geospatial information and four grounded caption styles aligned with 63-variable ERA5 meteorological data. Building on EarthAlign, we introduce MeteoLIP, a dual-encoder framework for learning aligned meteorology-language representations. MeteoLIP incorporates MetTok, which uses a geolocation- and time-conditioned query to aggregate variable-specific patch embeddings into a compact sequence of meteorology tokens. To comprehensively assess Earth system multimodal representations, we introduce three downstream tasks: cross-modal retrieval, weather-condition classification, and physical variable estimation. Our experiments show that MeteoLIP improves upon the corresponding CLIP and SigLIP baselines across these tasks. Further analyses highlight the importance of meteorological input, temporal and geospatial conditioning, and multi-style supervision for meteorology-language alignment. Thus, EarthAlign and MeteoLIP provide a foundation for learning and evaluating language-aligned representations of Earth system data. Our code, dataset, and weights are publicly available at https://github.com/mbzuai-oryx/EarthAlign.",
+      "doi": "10.48550/arxiv.2610.14624",
+      "authors": [
+        "Fadillah Adamsyah Maani",
+        "Numan Saeed",
+        "Jiaqi Ma",
+        "Dat Tien Nguyen",
+        "Youssef Wehbe",
+        "Duncan Watson-Parris",
+        "Salman Khan"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7221832256",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221832256",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Interpreting Earth system conditions is central to understanding environmental risks and informing decisions across weather- and climate-sensitive sectors. Existing multimodal weather systems primarily target task-specific prediction, generation, or question answering, while general-purpose alignment between Earth syst…",
+      "added": false
+    },
+    {
+      "title": "Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation",
+      "abstract": "Google Earth AI is a family of geospatial AI models, together with an agent that orchestrates them. We present this agent, Google Earth AI's Geospatial Reasoning agent (GRA), a Gemini-powered research system that combines geospatial data sources, foundation models, and tools to answer questions about our planet. GRA organizes these into modular domain skills and pairs them with upfront geospatial planning to decompose complex queries into multi-stage workflows. Evaluating such systems is hard: real-world problems admit multiple valid workflows, require data discovery across large catalogs, and rely on evolving ground truth. We introduce two benchmarks and release their development splits. GeoExpertQueries poses complex analytical problems grounded in practitioner use cases and refined by geospatial experts; each is paired with a consensus golden workflow from three independent experts and scored by a human-validated, tool-agnostic autorater. GeoKTools consists of templated queries with deterministic reference solvers that systematically vary the number of required tool types. We also use two external benchmarks, CBGB and UnivEARTH; the latter we find to be saturated. To isolate the contribution of GRA's tools and its agentic orchestration, we compare four configurations, each with Gemini 3.1 Pro and 3.8 Flash: a standalone LLM, the LLM with basic tools, the LLM with GRA's skills and tools but without its upfront planning and execution guidance, and GRA itself. With at most basic tools, an advanced model recovers much of the answer on templated queries but satisfies only a small fraction of the expert workflows on open-ended problems; GRA performs well on both. The largest step comes from GRA's skills and tools; on open-ended problems, its planning and execution guidance add a further gain with Gemini 3.8 Flash, letting Flash match or exceed Pro at lower cost.",
+      "doi": "10.48550/arxiv.2610.15750",
+      "authors": [
+        "Noam Slonim",
+        "Aviv Slobodkin",
+        "Gil Fidel",
+        "Gal Moshitch",
+        "Mimi Sun",
+        "Lily Mihalkova",
+        "Joydeep Paul",
+        "Per Bjornsson",
+        "Sydney Lin",
+        "Jamie McPike",
+        "Samapriya Roy",
+        "Utkarsh Patel",
+        "Gia Jung",
+        "Zachary Luna",
+        "Allison Berman",
+        "William Cai",
+        "Xiao Wu",
+        "Mohit Agarwal",
+        "Mandar Sharma",
+        "Aliza Hoffman",
+        "Mark Young",
+        "Rama Kumar Pasumarthi",
+        "Roy Lee",
+        "Ruth Alcantara",
+        "Luke Barrington",
+        "Aaron Bell",
+        "Reuven Sayag",
+        "Avinatan Hassidim",
+        "Yossi Matias",
+        "Tyler McHenry",
+        "Ronald Ho",
+        "Christopher Haire",
+        "Oliver Guinan",
+        "Niv Efron",
+        "Tim Thelin",
+        "Gautam Prasad",
+        "Shravya Shetty"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7221798762",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221798762",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Google Earth AI is a family of geospatial AI models, together with an agent that orchestrates them. We present this agent, Google Earth AI's Geospatial Reasoning agent (GRA), a Gemini-powered research system that combines geospatial data sources, foundation models, and tools to answer questions about our planet.",
+      "added": false
+    },
+    {
+      "title": "Fuel load and potential fire behavior vary seasonally and across grassland plant communities",
+      "abstract": "Abstract Grassland fuels can be patchy across space and time, especially on landscapes where multiple grassland plant communities co-occur. However, the standard fuel models inadequately capture the spatiotemporal variability in grassland fuels for local, strategic planning of fuel treatments. We aimed to better understand the seasonal variation in grassland fuels and fire behavior across grassland types. Here, we developed remote sensing-based grassland fuel maps using multispectral satellite data (10-m resolution) from Sentinel-2, compared seasonal fire behavior across grassland types, and performed a sensitivity analysis of fire behavior models to changes in litter, dead 1 h, and live herbaceous loads, and fuelbed depth estimates. We were able to best predict live herbaceous load (R2 = 0.85), followed by fuelbed depth (R2 = 0.81), dead 1 h fuel load (R2 = 0.76), and litter load (R2 = 0.67) based on remotely sensed predictors. Our spatially predicted grassland fuel maps showed seasonal variability in fuel loads in different places, reflecting the varying timing of curing by grassland types. In particular, we observed more accumulation of dead 1 h load between August and October in early senescing mixedgrass prairies than later senescing tallgrass prairies. We found an overall faster modeled rate of spread in smooth brome-dominated, invasive grasslands and native tallgrass prairies compared to mixedgrass and prairie dog-dominated grasslands. From the sensitivity analysis, we found that modeled fire behavior model is most sensitive to dead 1 h fuel load and least sensitive to litter load in this grassland system. At a time when grassland fires are increasing and resources for fuel management are limited, remote sensing approach to grassland fuel modeling may help land managers make decisions about where and when to prioritize fuel treatments to mitigate the risk of catastrophic wildfires.",
+      "doi": "10.1186/s42408-026-00593-2",
+      "authors": [
+        "Lina Aoyama",
+        "Katharine N. Suding",
+        "Advyth Ramachandran",
+        "Jordan T. Lee",
+        "Paul Dennison",
+        "Thomas K. Merchant",
+        "Jonathan J. Henn"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7221860401",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221860401",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Abstract Grassland fuels can be patchy across space and time, especially on landscapes where multiple grassland plant communities co-occur. However, the standard fuel models inadequately capture the spatiotemporal variability in grassland fuels for local, strategic planning of fuel treatments.",
+      "added": false
+    },
+    {
+      "title": "Climate-Related Challenges, Risk, Environmental Health Promotion: An Interdisciplinary Approach",
+      "abstract": "Climate change has intensified the frequency, severity, and geographic reach of extreme weather events, posing growing risks to human and environmental health worldwide. This study is a descriptive-analytical systematic literature review (PRISMA), combined with a case study of an interdisciplinary research group, examining scientific production and official data on global climate-related disasters from 2004 to 2024, with emphasis on historical trends and geographic distribution. Data were drawn from specialized databases and international organizations, including Scopus, Web of Science, ScienceDirect, IPCC, EM-DAT, NOAA, NASA, WMO, and UNDRR. Results show a marked acceleration of climate disasters in the last two decades: between 2004 and 2024, 7.348 events were recorded, causing approximately 1.23 million deaths, affecting 4.2 billion people, and generating an estimated US$2.97 trillion in economic losses, representing substantial increases relative to the 1980-1999 period. The most affected regions include the Americas, Europe, and other areas exposed to hurricanes, flooding, drought, and wildfires, with disproportionate impacts on developing countries and socially vulnerable populations. The findings reinforce the unequivocal scientific recognition of anthropogenic influence on extreme events and underscore the urgency of mitigation, adaptation, and climate justice measures. The study also highlights the interdisciplinary and intersectoral contribution of ethnobotany, traditional knowledge, bioethics, and environmental health promotion in addressing these challenges, in line with the One Health approach, promoted to “movement people” whose collectives (cultures and traditions) were under social vulnerability as social subjects and work was performed at local level. It is concluded that the current decade is critical for shaping the planetary climate trajectory, requiring integrated, culturally sensitive, and interdisciplinary strategies to reduce human suffering and promote the well-being of both: people and ecosystems.",
+      "doi": null,
+      "authors": [
+        "Márcia Cristina Braga Nunes Varricchio",
+        "Sandra Ávila Gaspar",
+        "Marcelo Vacite",
+        "Armando Isaac Nigri",
+        "Marcos Tadeu Varricchio",
+        "Nelson Brêtas de Noronha Gomes",
+        "P. S. T. Brioso",
+        "Ricardo Machado Kuster",
+        "Celso Luiz Salgueiro Lage",
+        "Simone da Silva",
+        "Alexandre dos Santos Pyrrho"
+      ],
+      "year": 2026,
+      "journal": "OWL Journal",
+      "openalex_id": "W7222371841",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222371841",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Climate change has intensified the frequency, severity, and geographic reach of extreme weather events, posing growing risks to human and environmental health worldwide.",
+      "added": false
+    },
+    {
+      "title": "Radial Tail Repair: Post-Training Correction for Diffusion and Flow Models",
+      "abstract": "Diffusion and flow-matching models may struggle to accurately represent distributional tails, especially for heavy-tailed data. Existing approaches often use heavy-tailed noise or modify the generative dynamics, requiring dedicated retraining and more difficult estimation. We take a simpler approach: rather than relearning the full distribution, we correct only the model's behavior in the extreme regime. Our method builds on the radial-angular decomposition of multivariate heavy tails, where radius and direction become asymptotically independent. This allows us to preserve the directional structure learned by the pretrained model and correct only its radial tail. We estimate the tail onset from reference and generated samples, then rescale generated extremes so that their radial survival matches the target distribution. The resulting method is a lightweight post-training correction applied to a frozen diffusion or flow-matching model, requiring neither retraining nor changes to its sampling dynamics. Experiments on challenging synthetic heavy-tailed distributions and real weather and wildfire datasets show that this simple correction substantially improves extreme-tail coverage using only a small number of fitting samples.",
+      "doi": "10.48550/arxiv.2610.16851",
+      "authors": [
+        "Hamza Cherkaoui",
+        "Hélène Halconruy",
+        "Antonio Ocello"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7221756343",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221756343",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Diffusion and flow-matching models may struggle to accurately represent distributional tails, especially for heavy-tailed data. Existing approaches often use heavy-tailed noise or modify the generative dynamics, requiring dedicated retraining and more difficult estimation.",
+      "added": false
+    },
+    {
+      "title": "Review article: Mountain flash floods: from hazard formation to disaster risk reduction pathways",
+      "abstract": "Abstract. Flash floods in mountainous regions are becoming more frequent and destructive under climate warming, yet cross-regional understanding of their triggering mechanisms, cascading impacts, and governance remains fragmented. This review synthesises 1,967 studies published during 2000–2025 to establish a globally comparable baseline of mountain flash-flood research. By integrating bibliometric and topic analyses with qualitative synthesis, we reveal pronounced geographical and thematic imbalances, with research concentrated in Europe and Asia. At the same time, many high-risk mountain regions in Africa and South America remain overlooked. Across regions, flash-flood initiation and impacts are shown to be strongly state-dependent and coupled, emerging from interactions between storm intensity, duration and spatial concentration, antecedent hydrological conditions, and hillslope-channel connectivity. This coupling helps explain why fixed rainfall thresholds are difficult to generalise and highlights the need for dynamic, multi-source early-warning approaches. Comparing evidence on early warning, structural protection, and Nature-Based Solutions, the review shows that cascading processes dominate risk management challenges. We therefore propose an adaptive governance framework that links monitoring and forecasting, spatial planning, grey-green integration, and basin-scale risk sharing under non-stationary climate conditions. Overall, this synthesis consolidates fragmented evidence into a cross-regional knowledge base to support flash-flood risk reduction in mountainous regions, where data and capacity are limited.",
+      "doi": "10.5194/nhess-26-5073-2026",
+      "authors": [
+        "Zhenghang Chen",
+        "Meili Feng",
+        "Matthew F. Johnson",
+        "Nigel Wright",
+        "Ying Weng",
+        "Faith Ka Shun Chan",
+        "Feng Wu"
+      ],
+      "year": 2026,
+      "journal": "Natural hazards and earth system sciences",
+      "openalex_id": "W7133313028",
+      "citation_count": 1,
+      "url": "https://openalex.org/W7133313028",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Flash floods in mountainous regions are becoming more frequent and destructive under climate warming, yet cross-regional understanding of their triggering mechanisms, cascading impacts, and governance remains fragmented.",
+      "added": false
+    },
+    {
+      "title": "Gopherus berlandieri (Agassiz 1857) – Texas Tortoise, Berlandier’s Tortoise, Galapago Tamaulipas",
+      "abstract": "The series accepts contributions dealing with any aspects of chelonian research,",
+      "doi": "10.3854/crm.5.142.berlandieri.v1.2026",
+      "authors": [
+        "Ivana Mali",
+        "Ross Owen Couvillon",
+        "Michael R. J. Forstner"
+      ],
+      "year": 2026,
+      "journal": "Chelonian research monographs",
+      "openalex_id": "W7221982721",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221982721",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The series accepts contributions dealing with any aspects of chelonian research,",
+      "added": false
+    },
+    {
+      "title": "Applying the protective action decision model to household flood evacuation: Evidence from the August 2024 flood in south-central regions of Bangladesh",
+      "abstract": "Flood evacuation is an effective protective action, yet decisions to evacuate are shaped by complex interactions among risk perception, household characteristics, and contextual constraints. Empirical evidence on household evacuation during rapid-onset riverine floods in Bangladesh remains limited. Guided by the Protective Action Decision Model (PADM), this study examines determinants of household evacuation during the August 2024 flood in south-central Bangladesh. The mixed-methods design integrates a household survey (n = 296) with three focus group discussions and three key informant interviews. Binomial logistic regression identified housing condition, livestock ownership, receipt of early warning information, attachment to property, flood depth, and flood duration as significant predictors of evacuation. Behavioral factors showed the greatest explanatory power (Nagelkerke R² = 0.411; classification accuracy: 75.7–80.4% ), highlighting the role of timely warning dissemination and risk perception in motivating protective action. Qualitative findings revealed persistent institutional challenges — fragmented warning dissemination, inadequate logistics, limited shelter capacity, and weak inter-agency coordination — that constrained timely evacuation despite high public risk awareness. These findings offer evidence for strengthening community-centered evacuation planning, multi-channel early warning systems, and disaster risk reduction strategies in flood-prone, lower-middle-income settings.",
+      "doi": "10.1016/j.clwat.2026.100326",
+      "authors": [
+        "Yeah Yah Fahad",
+        "Md. Shohel Khan",
+        "Sajid Ibne Jamalfaisal",
+        "Sayed Abu Johany",
+        "Biddut Kumar Ghosh",
+        "Afshana Parven",
+        "Mritunjoy Mojumder",
+        "Md. Tahsinur Rahman"
+      ],
+      "year": 2026,
+      "journal": "Cleaner Water",
+      "openalex_id": "W7221328583",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221328583",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Flood evacuation is an effective protective action, yet decisions to evacuate are shaped by complex interactions among risk perception, household characteristics, and contextual constraints. Empirical evidence on household evacuation during rapid-onset riverine floods in Bangladesh remains limited.",
+      "added": false
+    },
+    {
+      "title": "Near-term climate impacts are roughly linear in cumulative CO2 emissions",
+      "abstract": "Understanding the relationship between CO2 emissions and human well-being is central to informing climate policy. While global temperature change is proportional to cumulative CO2 emissions, many human outcomes respond nonlinearly to climate variation. As a result, the magnitude of the effect of a quantum of CO2 on these outcomes is ambiguous. Here we demonstrate that the impact of climate change on many important outcomes is, in fact, approximately linear in cumulative CO2 emissions. Analyzing established response functions across economic growth, disease, mortality, and crop yields, we show that local warming is generally insufficient to alter the local derivatives of these response functions. Therefore, the marginal effect of CO2 emissions does not substantially change over policy-relevant ranges of emissions. Thus, there is no level of CO2 emissions that is irrelevant to human well-being: each ton emitted directly translates into reduced GDP growth, increased disease, altered temperature-related mortality, and reduced crop yields.",
+      "doi": "10.31223/x5v80x",
+      "authors": [
+        "Christopher Callahan",
+        "Lyssa M. Freese",
+        "Marissa L. Childs",
+        "Marshall Burke"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7221939141",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221939141",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Understanding the relationship between CO2 emissions and human well-being is central to informing climate policy. While global temperature change is proportional to cumulative CO2 emissions, many human outcomes respond nonlinearly to climate variation.",
+      "added": false
+    },
+    {
+      "title": "INLA-RF: A hybrid modeling strategy for spatio-temporal environmental data",
+      "abstract": "Environmental processes often exhibit complex, non-linear patterns and discontinuities across space and time, posing significant challenges for traditional geostatistical modeling approaches. To overcome this weakness a hybrid modeling strategy can be proposed. This hybrid strategy combines the interpretability and principled uncertainty quantification of statistical models with the predictive flexibility of machine learning methods. Specifically, two novel algorithms, collectively named INLA-RF, iteratively couple a Bayesian spatio-temporal model—fitted via the INLA-SPDE approach—with Random Forest. The framework enables uncertainty propagation across modeling stages, an aspect often overlooked in existing hybrid approaches. Additionally, an effective stopping criterion based on Kullback-Leibler divergence is introduced. Predictive performance and uncertainty quantification of the INLA-RF algorithms are evaluated using two simulation studies and a real air pollution application. Overall, the results indicate that INLA-RF can improve spatio-temporal predictive accuracy while retaining interpretability and providing coherent uncertainty estimates.",
+      "doi": "10.1016/j.csda.2026.108481",
+      "authors": [
+        "Mario Figueira",
+        "Michela Cameletti",
+        "Luca Patelli"
+      ],
+      "year": 2026,
+      "journal": "Computational Statistics & Data Analysis",
+      "openalex_id": "W4415234765",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4415234765",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Environmental processes often exhibit complex, non-linear patterns and discontinuities across space and time, posing significant challenges for traditional geostatistical modeling approaches. To overcome this weakness a hybrid modeling strategy can be proposed.",
+      "added": false
+    },
+    {
+      "title": "Rethinking EU environmental law: Towards the ecologisation of the European legal order",
+      "abstract": "Abstract This article critically examines the structural limitations of the EU's environmental legal framework in the context of the current ecological crisis and explores the potential transition towards an ecocentric paradigm. While the EU has developed one of the most advanced environmental regulatory systems globally, its effectiveness remains constrained by persistent anthropocentric assumptions, normative fragmentation, reliance on market‐based and technocratic approaches and emerging patterns of regulatory backsliding. The analysis identifies key systemic weaknesses, including the instrumental conception of Nature, the sectoral structure of environmental legislation and the predominance of economic rationality in decision‐making processes, as well as persistent implementation and enforcement gaps. It further highlights how recent regulatory developments, including environmental criminal law, reflect both incremental progress and enduring structural constraints, particularly the dependence on administrative frameworks and the limited capacity of existing instruments to address cumulative and systemic environmental harm. In response, the article argues for a paradigmatic shift from an anthropocentric to an ecocentric legal approach, grounded in the recognition of the intrinsic value of nature and the potential acknowledgement of ecosystems as subjects of rights. It situates these developments within emerging EU debates and broader comparative and theoretical frameworks, including rights of nature, ecofeminism and biocultural approaches. Finally, the article proposes a multi‐layered transformation strategy combining doctrinal evolution, institutional reform and the progressive integration of ecocentric principles into EU law. It concludes that the ecological transition requires not only regulatory expansion but a profound axiological and structural reconfiguration of the European legal order, capable of ensuring the effective protection of ecological integrity in the face of global environmental challenges.",
+      "doi": "10.1111/reel.70090",
+      "authors": [
+        "Susana Borràs Pentinat"
+      ],
+      "year": 2026,
+      "journal": "Review of European Comparative & International Environmental Law",
+      "openalex_id": "W7222095010",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222095010",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract This article critically examines the structural limitations of the EU's environmental legal framework in the context of the current ecological crisis and explores the potential transition towards an ecocentric paradigm.",
+      "added": false
+    },
+    {
+      "title": "Teachers' Sense of Place and Perspectives on Climate Change Education: Moving Toward Community‐Based, Justice‐Oriented Approaches",
+      "abstract": "ABSTRACT Science education often approaches climate change as a scientific issue, disconnected from its multidimensional nature and lived realities. As climate‐related disasters intensify, teachers must help students confront climate challenges by connecting scientific learning to local contexts and addressing embedded systemic injustices. However, research is needed to explore how situated lived experiences shape teachers' pedagogical perspectives, responsibility, and hope toward community‐based, justice‐oriented climate learning opportunities. This study centers the voices and experiences of Bedouin indigenous teachers who are themselves minoritized and serve students living in the same context. Drawing upon critical narrative inquiry, we examine how these teachers make sense of place‐based climate change experiences as residents, parents, and community members, and how these experiences inform their pedagogical perspectives and the sociopolitical tensions therein. Our findings reveal that teachers' sense of place shapes how they experience climate change through their cultural connections to land, witnessing environmental degradation, and experiencing systemic vulnerability. They contextualize climate education in ways reflecting community concerns, lived experiences, and assets. However, their sense of place embodies tensions between cultural identity and social exclusion, with climate change acting as a threat multiplier that intensifies existing vulnerabilities. Teachers expressed the burden of confronting multiple oppressions that constrain their agency. They navigate complex positions as members of vulnerable communities, “a Bedouin living this tragedy,” while simultaneously operating within oppressive structures, including schools, policies, and colonial scientific frameworks. By foregrounding a sense of place, our study offers new ways for understanding how teachers position themselves within climate issues and what justice‐oriented climate education can look like in their communities. Place‐based perspectives can support locally grounded, transformative pedagogies by recognizing minoritized teachers as local knowledge holders. We argue that science education must recognize teachers as transformative agents and foster critical hope that enables them to navigate structural barriers while sustaining transformative possibilities.",
+      "doi": "10.1002/tea.70077",
+      "authors": [
+        "Wisam Sedawi",
+        "Shaima Alokbe",
+        "Orit Ben‐Zvi Assaraf",
+        "Angela Calabrese Barton"
+      ],
+      "year": 2026,
+      "journal": "Journal of Research in Science Teaching",
+      "openalex_id": "W7222005164",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222005164",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Science education often approaches climate change as a scientific issue, disconnected from its multidimensional nature and lived realities. As climate‐related disasters intensify, teachers must help students confront climate challenges by connecting scientific learning to local contexts and addressing embedded…",
+      "added": false
+    }
+  ]
+}
