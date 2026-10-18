@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-18",
+  "statistics": {
+    "fetched": 148,
+    "duplicates_removed": 133,
+    "evaluated": 15,
+    "added": 2,
+    "ignored": 13,
+    "average_score": 1.8
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Collaborative spatial planning for forest restoration and resilience in the southeastern United States’ interior highlands",
+      "abstract": "Prioritizing restoration-focused ecosystem management across large areas is challenging when multiple goals are at stake and goals vary among forest managers. This complexity is compounded when forest restoration tools including prescribed fire and silviculture have variable efficacy across landscapes and among management goals. Collaboration between scientists and resource managers to design analyses that address these complexities can clarify contingencies and tradeoffs and provide flexible decision support. White oak and shortleaf pine forests and woodlands have shown strong declines in the eastern United States, and restoration goals are shared by a wide range of stakeholders. We used a collaborative analysis to (1) quantify spatially variable restoration potential for these two species and for wildfire risk reduction potential, and (2) prioritize landscapes for active management under a scenario planning framework. Spatial modeling and optimization relied on several interrelated engagement approaches with diverse partners and experts to generate varied planning scenarios and spatial outputs that reflect a range of prioritization options. Beginning with pre-project engagement with initial key partners, we progressively established a network of scientists, planners, and managers to provide expert input through continuous interaction in an ad-hoc advisory group, and through a series of formal scenario planning and science delivery workshops. Analytical results suggested widespread but geographically variable restoration and risk management opportunities. They also revealed geographic tradeoffs among objectives under the varying management goals and spatial constraints of the planning scenarios. We report the collaborative aspects of a process that connected expert knowledge, landscape data and models, and management support for co-produced science, arguing that collaborative planning increases the likelihood of successful ecosystem restoration.",
+      "doi": "10.1016/j.tfp.2026.101533",
+      "authors": [
+        "Sandhya Nepal",
+        "Nicholas P. Gould",
+        "Brett W. Williams",
+        "Amy Nathanson",
+        "Lars Y. Pomara"
+      ],
+      "year": 2026,
+      "journal": "Trees Forests and People",
+      "openalex_id": "W7222505059",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222505059",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 82%: matched 8/13 key interest terms (prescribed, eastern, eastern united, united states, united)",
+      "tags": [
+        "Prescribed",
+        "Eastern",
+        "Eastern United",
+        "United States",
+        "United"
+      ],
+      "summary": "Prioritizing restoration-focused ecosystem management across large areas is challenging when multiple goals are at stake and goals vary among forest managers. This complexity is compounded when forest restoration tools including prescribed fire and silviculture have variable efficacy across landscapes and among managem…",
+      "added": true
+    },
+    {
+      "title": "The Interaction between Global Fire Dynamics and Climate Change: Causes, Consequences, and Future Strategies",
+      "abstract": "Wildfires are among the most destructive natural phenomena on Earth, and their frequency, intensity, and duration have dramatically increased in recent decades due to the accelerating impacts of climate change. The combination of rising global temperatures, decreasing humidity, prolonged droughts, and altered precipitation patterns has created an environment that is increasingly conducive to large-scale fires. This book chapter comprehensively examines the interconnections between climate change and wildfire dynamics, emphasizing the role of both natural and anthropogenic drivers. It provides an overview of how global warming reshapes vegetation structures, soil moisture content, and atmospheric circulation patterns—factors that collectively amplify the probability and severity of wildfires. Furthermore, the chapter explores the feedback loop between wildfires and climate change, where fires not only result from climate alterations but also contribute to them through the release of massive amounts of greenhouse gases and aerosols. These emissions further intensify global warming, creating a vicious cycle that threatens ecological stability and human well-being. Regional case studies and global data analyses illustrate how fire regimes have shifted across continents, including in boreal forests, tropical rainforests, and Mediterranean-type ecosystems. The environmental consequences of intensified wildfires extend beyond immediate destruction. Long-term effects include soil degradation, biodiversity loss, water contamination, and severe disruptions to carbon sequestration processes. In addition, wildfires have substantial socio-economic implications—causing property losses, displacement of communities, and public health crises due to smoke exposure and poor air quality. To address these escalating challenges, the chapter underscores the urgent need for integrated and adaptive fire management strategies. This includes the implementation of sustainable land-use policies, reforestation programs, and early warning systems supported by advanced satellite monitoring technologies. International collaboration, community-based education, and scientific research are also crucial to building global resilience. By synthesizing current literature and recent global events, this study contributes to a deeper understanding of the intricate relationship between climate change and wildfires. It aims to guide policymakers, researchers, and environmental managers in developing evidence-based strategies to mitigate the devastating effects of wildfires in a warming world.",
+      "doi": "10.58830/ozgur.pub1507.c6039",
+      "authors": [
+        "Fatma Calayır",
+        "Carlos Zambrana‐Torrelio",
+        "Ali Rıza Kul"
+      ],
+      "year": 2026,
+      "journal": "Özgür Yayınları eBooks",
+      "openalex_id": "W7222502365",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222502365",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 41%: matched 5/13 key interest terms (drivers, wildfires, causes, large, wildfire)",
+      "tags": [
+        "Drivers",
+        "Wildfires",
+        "Causes",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Wildfires are among the most destructive natural phenomena on Earth, and their frequency, intensity, and duration have dramatically increased in recent decades due to the accelerating impacts of climate change.",
+      "added": true
+    },
+    {
+      "title": "Traceable Burned-Area Evidence for Territorial Governance: Scenario-Based multi-pyDEMATEL and ABBI Mapping in the Vesuvian Interface",
+      "abstract": "MODIS/EFFIS burned-area archives provide reproducible information on wildfire occurrence, perimeter geometry, administrative attribution, mapped area, date fields, and land-cover composition. However, their translation into proportionate municipal documentation, monitoring, coordination, and territorial-management evidence remains only partially formalized, especially in volcanic–urban interfaces where relatively compact burned-area records may still generate non-negligible administrative pressure. This study develops a scenario-based multi-pyDEMATEL workflow for assessing Administrative Burned-Area Burden in the Vesuvian interface, southern Italy. Rather than modelling burn severity, hydrogeomorphic susceptibility, legal responsibility, or field-validated damage, the analysis reframes MODIS/EFFIS records as traceable administrative evidence for multi-criteria decision-chain screening. Four bounded objectives are addressed: (i) to construct a GIS-ready burned-area support for the Vesuvian interface while retaining Napoli and Campania layers as contextual references; (ii) to derive ten non-hydrogeomorphic Administrative Burned-Area descriptors describing burned-area share, recurrence, large-event dominance, administrative concentration, protected-area exposure, agricultural exposure, urban/interface exposure, forest–shrubland signature, event-duration burden, and reporting/update lag; (iii) to structure these descriptors through a scenario-based multi-pyDEMATEL ensemble comprising 121 scenario-specific DEMATEL computations, and to audit the resulting fingerprints through PCA; and (iv) to translate the resulting Administrative Burned-Area Burden Index into municipal ABBI classes suitable for QGIS visualization, documentation prioritization, and verification-oriented monitoring. The results indicate a marked concentration of Vesuvian burned-area burden across a limited number of event and municipal supports, while the DEMATEL/PCA outputs help distinguish stable and divergent descriptor configurations within the administrative evidence system. The resulting ABBI layer is therefore interpreted as a governance-sensitive, GIS-ready decision-support product, not as a hazard map, burn-severity product, legal-liability surface, municipal-responsibility boundary, or DEM-derived susceptibility model. The framework provides a reproducible audit chain for converting open burned-area archives into cautious and interpretable territorial-management evidence.",
+      "doi": "10.31127/tuje.1968172",
+      "authors": [
+        "Salvatore Polverino",
+        "Elif Gizem Yetkin",
+        "Hourakhsh Ahmad Nia"
+      ],
+      "year": 2026,
+      "journal": "Turkish Journal of Engineering",
+      "openalex_id": "W7222582204",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222582204",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 4/13 key interest terms (wildfire occurrence, occurrence, large, wildfire)",
+      "tags": [
+        "Wildfire Occurrence",
+        "Occurrence",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "MODIS/EFFIS burned-area archives provide reproducible information on wildfire occurrence, perimeter geometry, administrative attribution, mapped area, date fields, and land-cover composition.",
+      "added": false
+    },
+    {
+      "title": "Predicting U.S. migration flows with online search data",
+      "abstract": "Residential mobility shapes labor markets, housing demand, infrastructure needs, and regional development in the United States. Policymakers rely on official migration data to monitor population movements, but these data are often released after the underlying moves have occurred. Because many households search online for jobs, housing, cost of living, schools, climate, and other destination-specific information before moving, online search activity may provide early signals of migration interest. This study examines whether Google Trends data improve the prediction of U.S. interstate migration flows. Using Internal Revenue Service state-to-state migration records and Google Trends data for all 50 states and the District of Columbia from 2004 to 2018, the study estimates gravity-based panel models of unilateral out-migration and bilateral origin-destination flows. The results show that migration-related search intensity is associated with subsequent migration flows and improves predictive performance beyond conventional gravity-model covariates and fixed effects. These findings suggest that Google Trends data can serve as a timely complement to administrative migration records. Search data do not replace official statistics, but they can help identify emerging migration patterns before administrative data become available.",
+      "doi": "10.1177/00420980261493801",
+      "authors": [
+        "Jaeyong Yoo",
+        "Patryk Babiarz"
+      ],
+      "year": 2026,
+      "journal": "Urban Studies",
+      "openalex_id": "W7222701601",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222701601",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 23%: matched 3/13 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Residential mobility shapes labor markets, housing demand, infrastructure needs, and regional development in the United States. Policymakers rely on official migration data to monitor population movements, but these data are often released after the underlying moves have occurred.",
+      "added": false
+    },
+    {
+      "title": "Recalibrating the Canadian Fire Weather Index for Southern California’s Downslope Wind-Driven Fire Regimes",
+      "abstract": "Abstract Wildfire danger in Southern California is strongly influenced by episodic offshore wind events and extreme atmospheric dryness, conditions that are not fully captured by the standard Canadian Fire Weather Index (CFWI), which was developed for boreal forest environments using noon-based meteorological inputs and has been widely applied by various climatic and ecological regimes. This study presents a regionally calibrated adaptation of the CFWI to improve representation of wind-driven fire danger in San Diego County’s chaparral-dominated landscapes. Using high-resolution observation-based meteorological data, the CFWI was recalibrated by replacing noon observations with daily maximum temperature and wind speed, and daily minimum relative humidity, applying a region-specific day-length factor, and introducing conditional modifiers based on wind direction and humidity thresholds. Evaluation over the 2000–09 period, including extreme fire years such as 2003 and 2007, shows that the recalibrated CFWI substantially improves the ability to distinguish large wildfire days, particularly during peak Santa Ana wind seasons. A conditional Initial Spread Index adjustment based on easterly (negative zonal) winds and low relative humidity improves model performance, particularly during autumn and winter. Results also highlight strong seasonal and spatial variability, supporting a seasonally adaptive calibration strategy. This work demonstrates that physically motivated regional recalibration improves the use of the CFWI to wind-dominated fire regimes, providing a more reliable tool for operational fire danger assessment and wildfire preparedness in locations prone to extreme wind-driven wildfires.",
+      "doi": "10.1007/s00376-026-6157-7",
+      "authors": [
+        "Brandi L. Gamelin",
+        "Connor Aghili",
+        "Corrine Decham",
+        "Jiali Wang",
+        "Jordan Branham",
+        "Rao Kotamarthi",
+        "Thomas A. Wall"
+      ],
+      "year": 2026,
+      "journal": "Advances in Atmospheric Sciences",
+      "openalex_id": "W7222588446",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222588446",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 3/13 key interest terms (wildfires, large, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Large",
+        "Wildfire"
+      ],
+      "summary": "Abstract Wildfire danger in Southern California is strongly influenced by episodic offshore wind events and extreme atmospheric dryness, conditions that are not fully captured by the standard Canadian Fire Weather Index (CFWI), which was developed for boreal forest environments using noon-based meteorological inputs an…",
+      "added": false
+    },
+    {
+      "title": "FireGraphNet: Sub-daily wildfire spread prediction with directed graph neural networks",
+      "abstract": "Wildfire decisions are made in hours, yet most learned spread models predict daily on targets including burned area. We propose FireGraphNet which formulates 12-hour growth as node classification on directed H3 graphs, with candidates ahead of the front and wind alignment, terrain, fuel continuity and barriers on edges. On satellite perimeters it achieves average precision 1.7-1.9x the strongest distance baseline on test California fires and 1.62x out of state. We show this skill comes from message passing rather than cell features or the aggregator, is highest on young fires in state, is carried deep along the wind by its edges, and is hidden by pooling. A convolutional network matches this ranking once trained on new growth, at worse calibration, so candidate construction, target definition, and aggregation shape conclusions about model skill. Editing fuel and barrier attributes reduces predicted spread more under guided than random placement, extending FireGraphNet to operational intervention analysis.",
+      "doi": "10.48550/arxiv.2610.19191",
+      "authors": [
+        "Aiyshwariya Paulvannan Kanmani",
+        "Miguel  Tobias Esparza",
+        "Ali Mostafavi"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7222145429",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222145429",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/13 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Wildfire decisions are made in hours, yet most learned spread models predict daily on targets including burned area. We propose FireGraphNet which formulates 12-hour growth as node classification on directed H3 graphs, with candidates ahead of the front and wind alignment, terrain, fuel continuity and barriers on edges…",
+      "added": false
+    },
+    {
+      "title": "Kent ve Çevre Bilimlerinde Yeni Yaklaşımlar",
+      "abstract": "Kentler; iklim değişikliğinin, kaynak baskısının, göç hareketlerinin, toplumsal eşitsizliklerin ve hızlı teknolojik dönüşümün en görünür hâle geldiği mekânlardır. Bu karmaşık tabloyu tek bir disiplinin araçlarıyla açıklamak giderek güçleşmekte; kent ve çevre bilimleri, mekânı, toplumu, teknolojiyi, siyaseti ve doğal sistemleri birlikte düşünmeyi gerektirmektedir. Elinizdeki kitap, bu ihtiyaçtan hareketle hazırlanmış dört bölümden oluşmaktadır. Kitap, Abidin Kemeç'in \"Dijital Çağın Sürdürülebilir Kent Modelleri: Döngüsel Kent, Akıllı Eko Kent ve Veri Odaklı Kent\" başlıklı bölümüyle kavramsal bir çerçeve sunarak açılmaktadır. Hasan Ege Söğüt'ün \"Digital Infrastructure Ecosystems in Smart City Strategies: A Comparative Analysis of Konya Metropolitan Municipality and Bucharest Sector 5\" başlıklı bölümü, dijital altyapı yatırımlarının kurumsal öğrenme kapasitesi ve çok aktörlü yönetişimle desteklenmedikçe dönüştürücü olmadığını göstermektedir. Özgür Bayraktar'ın \"Kent Siyasetinde Süreklilik ve Değişim: Genel ve Yerel Seçimler Işığında Karaman'ın Siyasal Görünümü (1991–2024)\" başlıklı bölümü, kentin siyasal zeminini seçim verileri üzerinden ele almaktadır. Son olarak Fatma Calayır, Sema Kaptanoğlu ve Ali Rıza Kul'un \"The Interaction Between Global Fire Dynamics and Climate Change: Causes, Consequences, and Future Strategies\" başlıklı bölümü, tartışmayı küresel ölçekte iklim krizi ve orman yangınları ilişkisine taşımaktadır. Bölümler birlikte okunduğunda ortak temalar belirginleşmektedir: Teknoloji tek başına yeterli değildir; kurumsal kapasite, katılım ve veri etiği gereklidir. Küresel normlarla yerel bağlam arasında süregelen bir gerilim vardır. Sürdürülebilirlik ise ancak sosyal adalet ve ölçekler arası iş birliğiyle mümkündür.",
+      "doi": "10.58830/ozgur.pub1507",
+      "authors": [],
+      "year": 2026,
+      "journal": "Özgür Yayınları eBooks",
+      "openalex_id": "W7222416603",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222416603",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "Kentler; iklim değişikliğinin, kaynak baskısının, göç hareketlerinin, toplumsal eşitsizliklerin ve hızlı teknolojik dönüşümün en görünür hâle geldiği mekânlardır.",
+      "added": false
+    },
+    {
+      "title": "The impact of climate risk on financial markets: evidence from bonds and options",
+      "abstract": "This thesis examines how corporate environmental characteristics and market-based climate-risk exposure are associated with pricing outcomes in U.S. corporate bond and equity option markets. Three empirical essays extend research focused primarily on equities to fixed-income and derivative securities. The first essay examines corporate environmental performance and bond yield spreads. Using Refinitiv environmental (ENV) scores, it finds that greener firms have lower bond spreads. Portfolio differences are economically substantial, while controlled regression estimates are more modest. Carbon-intensity tests provide narrower emissions-based evidence, particularly for direct Scope 1 emissions. ENV measures broad environmental performance rather than climate-risk exposure, and the results do not establish causality. The second essay relates bond spreads to firms’ historical sensitivity to climate-attention and climate-news indices. Higher climate betas are associated with wider spreads. Transition- or policy-related exposure produces the largest and most consistent portfolio differentials, although physical-risk causes remain economically meaningful in some controlled specifications. These findings indicate that climate-related information is incorporated into spreads without establishing whether climate risk is fully or correctly priced. The third essay studies equity options using firm-level climate betas estimated from standardized option-premium returns and the Media Climate Change Concerns index. Higher lagged climate beta is associated with higher subsequent call and put returns. Their common positive pattern is consistent with volatility and tail-risk repricing, but the analysis does not distinguish risk compensation from underpricing, hedging demand, or other explanations. Together, the essays document associations across markets with distinct payoff structures, while leaving the underlying economic mechanisms unidentified causally.",
+      "doi": "10.5526/err-00043984",
+      "authors": [
+        "Shengqiu Ma"
+      ],
+      "year": 2026,
+      "journal": "Open Access at Essex (University of Essex)",
+      "openalex_id": "W7221909454",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221909454",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/13 key interest terms (causes)",
+      "tags": [
+        "Causes"
+      ],
+      "summary": "This thesis examines how corporate environmental characteristics and market-based climate-risk exposure are associated with pricing outcomes in U.S. corporate bond and equity option markets. Three empirical essays extend research focused primarily on equities to fixed-income and derivative securities.",
+      "added": false
+    },
+    {
+      "title": "Long-term increases in station-derived drought near Apalachicola National Forest, Florida",
+      "abstract": "Long local weather records can reveal changes in drought exposure, but a drought index calculated at one station must be distinguished from soil-water measurements across a forest. We updated daily temperature and precipitation observations at Tallahassee airport and recomputed the Keetch-Byram Drought Index (KBDI) with explicit quality control, rainfall interception, and missing-data rules. Across 69 complete eligible annual records spanning 1945-2024, mean moisture deficit increased by 2.63 mm per decade (95% interval: 0.58-4.67), and the annual number of days with KBDI above 650 increased by 2.59 days per decade (0.67-4.51). May showed the clearest monthly drying signal after adjustment for 12 monthly comparisons: 4.64 mm per decade (1.68-7.61; adjusted p = 0.031). April’s trend remained uncertain. May slopes stayed positive across 27 tested KBDI settings, although uncertainty in high-deficit-day trends depended on the record’s starting year. A historical 2009-2018 PRISM comparison showed airport-forest daily anomaly correspondence, with an area-weighted squared correlation of 0.72. As an application, April 30 moisture deficit reduced point-estimate hindcast error for May-July natural-fire counts, but the paired skill interval included no improvement. The strongest evidence therefore concerns increasing station-derived drought exposure and its seasonal structure. It does not establish a forest-wide soil-moisture trend, an anthropogenic attribution, or a validated operational wildfire forecast",
+      "doi": "10.31223/x5t80m",
+      "authors": [
+        "James B. Elsner"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7222697275",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222697275",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/13 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Long local weather records can reveal changes in drought exposure, but a drought index calculated at one station must be distinguished from soil-water measurements across a forest.",
+      "added": false
+    },
+    {
+      "title": "Rising global population coexposure to heatwaves and landscape fire-sourced air pollution",
+      "abstract": "Landscape fires are increasingly threatening public health by causing substantial fire-sourced air pollution (SFAP), with risks amplified during heatwaves. We investigated the global spatial, temporal, and sociodemographic distribution of the population coexposure to heatwaves and SFAP from 2000 to 2019. We found that 52.4% of populated areas and 55.9% of the global population experienced increasing coexposure. On average, 916 million people per year were exposed to at least one coexposure day, increasing by 287 million people per decade. The global annual average exposed days per person was 1.3 days, rising from 1.0 days in 2000-2009 to 1.7 days in 2010-2019. Coexposure person-days increased by 5.5 billion per decade, of which 70.5% was attributable to increasing coexposure intensity and 29.5% to population growth. Countries with a low human development index (HDI) experienced the highest coexposure days per person and the greatest increases. These findings provide high-resolution data to inform health impact assessments and target mitigation and adaptation strategies.",
+      "doi": "10.1126/sciadv.aea9749",
+      "authors": [
+        "Yao Yu Wu",
+        "Rongbin Xu",
+        "Bo Wen",
+        "Lídia Morawska",
+        "Michael John Abramson",
+        "Fay Helena Johnston",
+        "Wenhua Yu",
+        "Gongbo Chen",
+        "Yiwen Zhang",
+        "Zhihu Xu",
+        "Wenzhong Huang",
+        "Zhengyu Yang",
+        "Pei Yu",
+        "Shuang Zhou",
+        "Yanming Liu",
+        "Tingting Ye",
+        "Xu Yue",
+        "Shanshan Li",
+        "Yuming Guo"
+      ],
+      "year": 2026,
+      "journal": "Science Advances",
+      "openalex_id": "W7221814445",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7221814445",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Landscape fires are increasingly threatening public health by causing substantial fire-sourced air pollution (SFAP), with risks amplified during heatwaves. We investigated the global spatial, temporal, and sociodemographic distribution of the population coexposure to heatwaves and SFAP from 2000 to 2019.",
+      "added": false
+    },
+    {
+      "title": "Public Health & Emergency Preparedness Implications of Nuclear Small Modular Reactor Deployment in Alberta",
+      "abstract": "Small Modular Reactors (SMRs) are a rapidly developing technology deemed advantageous for energy diversification and decarbonization. As Alberta considers nuclear power generation in its electricity mix, it accordingly becomes essential to examine the risks associated with radiological releases and emergency accidents resulting from various initiating events. Therefore, this analysis evaluates the risk profile of SMRs and the preparedness of public health and emergency management institutions to manage such risks. Technical publications, peer-reviewed studies, and expert findings on SMR safety, operations, nuclear fuel cycle, and waste management were analyzed. Emergency management frameworks, response plans, and regulatory guidance documents were reviewed and benchmarked against experienced jurisdictions such as Ontario and New Brunswick. The study finds that while SMRs have enhanced safety features, they nevertheless pose public health and emergency management challenges. The study also discusses gaps in the current institutional and policy landscape that must be considered when adopting nuclear energy.",
+      "doi": null,
+      "authors": [
+        "Ayesha Tauqeer"
+      ],
+      "year": 2026,
+      "journal": "Libraries and Cultural Resources (University of Calgary)",
+      "openalex_id": "W7222779381",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222779381",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Small Modular Reactors (SMRs) are a rapidly developing technology deemed advantageous for energy diversification and decarbonization. As Alberta considers nuclear power generation in its electricity mix, it accordingly becomes essential to examine the risks associated with radiological releases and emergency accidents…",
+      "added": false
+    },
+    {
+      "title": "Rising Ozone Exposure and Future Public Health Risks in Germany and Neighboring Regions Revealed by Automated Machine Learning (AutoML)",
+      "abstract": "Abstract Ground-level ozone remains a major global health and environmental challenge, while climate change is expected to exacerbate ozone pollution. However, chemical transport models (CTMs), such as the Community Multiscale Air Quality Modeling System (CMAQ), still suffer from systematic biases and limited predictive capabilities, highlighting the need for more accurate future projection models. This study aims to develop an improved ozone projection framework by integrating Automated Machine Learning (AutoML) with CMAQ simulations that project future ozone concentrations in Germany and its neighboring regions under climate change scenarios. Specifically, a fast and lightweight AutoML-enabled framework was developed to optimize machine learning models based on CMAQ simulations, meteorological data, land use, and socioeconomic factors. The model is trained using data from 2018 and validated against ground-level ozone observations from 2019, showing substantial improvements over CMAQ simulations, with the average residual improved from −23.54 μg/m3 to 1.59 μg/m3. According to projections for 2030 under the Shared Socioeconomic Pathways (SSPs), summer ozone levels in Germany are expected to exceed the 2030 European Union (EU) air quality targets, particularly under high-emission scenarios. Health risk assessments also suggest an increase (4% of overall exposure in SSP585 than in SSP126) in ozone-related health impacts. Our findings highlight a simple yet effective approach for improving hybrid air quality modeling using AutoML. They also provide an early warning for Germany and neighboring regions about the potential exceedance of the 2030 EU standard. These results further underscore the associated public health risks and offer insights for future climate and air quality policy development.",
+      "doi": "10.1021/acsenvironau.6c00283",
+      "authors": [
+        "Jialing Qin",
+        "Zhonghua Zheng",
+        "Ye Tian",
+        "Haofan Wang",
+        "Junan Zhou",
+        "Mingliang Fang",
+        "Hongliang Zhang"
+      ],
+      "year": 2026,
+      "journal": "ACS Environmental Au",
+      "openalex_id": "W7222753466",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222753466",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Ground-level ozone remains a major global health and environmental challenge, while climate change is expected to exacerbate ozone pollution. However, chemical transport models (CTMs), such as the Community Multiscale Air Quality Modeling System (CMAQ), still suffer from systematic biases and limited predictiv…",
+      "added": false
+    },
+    {
+      "title": "Range-wide gobbling and nesting chronology of the Osceola wild turkey (Meleagris gallopavo osceola)",
+      "abstract": "Male wild turkeys (Meleagris gallopavo) gobble primarily during the spring mating season, before and during nesting by females. In setting hunting seasons, state agencies aim to balance population sustainability and hunter satisfaction. While hunter satisfaction is driven by gobbling activity of male wild turkeys, nesting chronology also is often considered when structuring hunting seasons. The Osceola subspecies of wild turkey (M. g. osceola) is endemic to Florida, USA and the gobbling and nesting chronology of this subspecies has not been formally characterized concurrently to inform the hunting season structure. Here, we present range-wide gobbling and nesting chronology for this endemic subspecies. Between 2014-2018 and 2023-2025, we used acoustic recorders to monitor gobbling at 6 sites across peninsular Florida. We identified 33,093 gobbles in 14,298 hours of recordings with which we derived a weekly gobbling chronology to identify temporal peaks in gobbling behavior. To study nesting chronology, we tracked females across three of those sites and identified 133 first nest attempts. Patterns in gobbling and nesting chronology varied at the site level and future work evaluating factors influencing chronology at the local scale is warranted. At the range-wide scale, gobbling peaked in early March while nest initiation peaked in early April. Florida instituted an earlier spring turkey hunting season in the southern portion of the Osceola range, but peak gobbling still preceded hunting season in this portion of the range by ~1 week and the peak of nest initiation did not occur until ~ 2 weeks after the spring hunting season began. In the northern portion of the range where the hunting season opened two weeks later, peaks in gobbling and nest initiation co-occurred with the spring hunting season. While the studied season structure captured much of the gobbling, these data provide important baseline information to inform future adjustments if desired.",
+      "doi": "10.22541/authorea.15010568/v1",
+      "authors": [
+        "Alex D. Potash",
+        "Bobbi G. Carpenter",
+        "Faith E. Kruis",
+        "Juliana Ofalt",
+        "Brandon W. McDonald",
+        "Jana Malene",
+        "Mohamed Khalil Meliane",
+        "E. Hance Ellington",
+        "Carolina Baruzzi",
+        "Marcus A. Lashley"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7222437166",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222437166",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Male wild turkeys (Meleagris gallopavo) gobble primarily during the spring mating season, before and during nesting by females. In setting hunting seasons, state agencies aim to balance population sustainability and hunter satisfaction.",
+      "added": false
+    },
+    {
+      "title": "Long-term spatiotemporal dynamics, hotspot persistence, and extreme AOD days over Bursa, Türkiye",
+      "abstract": "Satellite-based aerosol optical depth (AOD) enables long-term monitoring of atmospheric aerosol loading in regions with sparse ground-based observation networks. In this study, the spatial and temporal variability of 550 nm AOD over Bursa during 2003–2025 was investigated using Moderate Resolution Imaging Spectroradiometer (MODIS) Multi-Angle Implementation of Atmospheric Correction (MAIAC) MCD19A2 Collection 6.1 data at 1 km spatial resolution. Annual and seasonal composites were used to evaluate long-term trends, seasonality, the persistence of high-AOD areas, and extreme aerosol days. The common analysis domain covered 83.20% of the provincial area. The area-weighted annual AOD series showed a small negative trend in the full-period analysis (Theil-Sen slope = -0.510 × 10 − 3 AOD year − 1 ; p = 0.035). The negative slope direction remained consistent across the regional trend sensitivity analyses, whereas statistical significance at p < 0.05 was not retained under several annual-coverage and leave-one-year-out scenarios. After correction for multiple testing, 1,550 pixels exhibited significant trends, of which 1,539 showed decreases. AOD was highest in summer and lowest in winter, while none of the seasonal trends was significant. Persistent high-AOD areas were concentrated along the northern plain and urban corridor, with 102 pixels remaining in the annual upper-decile class throughout all 23 years. No robust trend was detected in the frequency of extreme AOD days. Overall, the different dimensions of the aerosol record did not evolve in parallel: mean AOD showed a modest negative long-term tendency, the spatial structure of recurrent high-AOD areas remained persistent, and extreme-day frequency showed no detectable trend.",
+      "doi": "10.1038/s41598-026-76369-0",
+      "authors": [
+        "Burak Çalışkan"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7222720375",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222720375",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Satellite-based aerosol optical depth (AOD) enables long-term monitoring of atmospheric aerosol loading in regions with sparse ground-based observation networks.",
+      "added": false
+    },
+    {
+      "title": "Climate change exacerbates residential radon exposure and lung cancer risk",
+      "abstract": "Abstract Climate change adaptation strategies, such as increased air conditioning use, greater time spent indoors, and seeking cooler lower-floor spaces, may inadvertently increase residential radon exposure and associated lung cancer risk. We conducted a scoping review of literature on climate change and indoor radon, then developed four exposure scenarios reflecting plausible behavioral shifts: current conditions, increased air conditioning use, increased time in basements, and a combined scenario. Using the BEIR VI exposure-age-concentration model, we estimated cumulative excess risk of lung cancer mortality by age 85 for US and pooled French-German-Italian populations. Compared to current conditions, the combined hypothetical scenario yielded an additional 46 lung cancer deaths per 10,000 persons in the US, and 42 in Europe. These findings highlight an unrecognized pathway through which climate change adaptation may amplify population-level cancer risk, if available countermeasures are not taken.",
+      "doi": "10.1038/s44458-026-00170-3",
+      "authors": [
+        "Heechan Lee",
+        "Niccoló Loret",
+        "Sara Antignani",
+        "F. Bochicchio",
+        "David B. Richardson"
+      ],
+      "year": 2026,
+      "journal": "Communications Sustainability",
+      "openalex_id": "W7165783125",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7165783125",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/13 key interest terms",
+      "tags": [],
+      "summary": "Abstract Climate change adaptation strategies, such as increased air conditioning use, greater time spent indoors, and seeking cooler lower-floor spaces, may inadvertently increase residential radon exposure and associated lung cancer risk.",
+      "added": false
+    }
+  ]
+}
