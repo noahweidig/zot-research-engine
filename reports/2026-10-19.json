@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-19",
+  "statistics": {
+    "fetched": 107,
+    "duplicates_removed": 98,
+    "evaluated": 9,
+    "added": 3,
+    "ignored": 6,
+    "average_score": 2.33
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Who Identifies as a “Prepper” in the United States?",
+      "abstract": "ABSTRACT Objective Americans increasingly face hazards that threaten health, safety, and property, and personal emergency preparedness is on the rise. Yet little research examines who identifies as a prepper. Existing studies typically define prepping in terms of stockpiling resources or belief in collapse scenarios rather than as a social identity, portraying preppers as conspiratorial, conservative, and populist while reaching mixed conclusions about the roles of disaster risk and environmentalism. Methods We address these gaps by measuring prepper identity directly and examining its relationship with conspiracism, political identities, objective community‐level risk, and environmentalism using an original national survey in which respondents indicated their agreement with the statement, “I am a prepper.” Results Prepper identity is associated with conspiracism, ideological conservatism, and environmentalism, but not with objective community‐level risk. Conclusions Prepper identity reflects distinct political and psychological orientations and is adopted by a broad cross‐section of Americans, underscoring the need to distinguish prepper identity from preparedness behavior.",
+      "doi": "10.1111/ssqu.70207",
+      "authors": [
+        "Casey Klofstad",
+        "Justin B. Stoler",
+        "Joseph E. Uscinski",
+        "Cali Curley",
+        "Ruowen Shen"
+      ],
+      "year": 2026,
+      "journal": "Social Science Quarterly",
+      "openalex_id": "W7222797769",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222797769",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 58%: matched 3/9 key interest terms (united states, united, states)",
+      "tags": [
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "ABSTRACT Objective Americans increasingly face hazards that threaten health, safety, and property, and personal emergency preparedness is on the rise. Yet little research examines who identifies as a prepper.",
+      "added": true
+    },
+    {
+      "title": "Dynamics and recurrence of fire in the Brazilian Cerrado: spatial patterns, land cover drivers, and implications for integrated fire management",
+      "abstract": "Abstract Aims: This study analyzed the spatiotemporal distribution, interannual variability, and recurrence of burned areas across land-use and land-cover (LULC) classes in the Brazilian Cerrado from 2019 to 2024. The main objective was to evaluate how fire regimes interact with natural and human-modified landscapes to support territory-oriented management strategies. Methods: Using MapBiomas Fire (Col. 4.1) and LULC (Col. 10.1) datasets, we quantified burned proportions across LULC types using R ( terra package) and QGIS. Statistical analyses included descriptive statistics, the non-parametric Mann-Kendall test for temporal trends, interannual variance, and pixel-based binary summation to map spatial fire recurrence. Results: Burned areas predominated in native vegetation: savannas (~ 52.8%) and wetlands (~ 19.5%), followed by grasslands (~ 9.1%), while forest formations and pasturelands each accounted for approximately 5.5% of the total burned area. Fire increased significantly in Soybean, Rice, Cotton, and Mosaics of Uses, with a sharp spike in 2024 for savannas and forests, coinciding with extreme dry-season thermal anomalies. High-recurrence hotspots were concentrated in ecotonal zones, particularly in the Ilha do Bananal and surrounding Indigenous Lands, driven by high fuel accumulation and anthropogenic ignitions. Conclusions: Fire in the Cerrado is structural but increasingly threatens fire-sensitive ecosystems like forests and wetlands. Mapping fire recurrence directly operationalizes Integrated Fire Management (IFM) by prioritizing early prescribed burns, optimizing firebreak and brigade placement, aligning intercultural burning calendars with indigenous communities, and establishing protection protocols for vulnerable habitats.",
+      "doi": "10.1007/s12517-026-12621-1",
+      "authors": [
+        "Alex Mota dos Santos",
+        "Carlos Fabrício Assunção da Silva",
+        "Fabrízia Gioppo Nunes",
+        "Gisele Daiane Pinha",
+        "Clayton Alexandre do Amaral"
+      ],
+      "year": 2026,
+      "journal": "Arabian Journal of Geosciences",
+      "openalex_id": "W7222820332",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222820332",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 47%: matched 3/9 key interest terms (burning, prescribed, drivers)",
+      "tags": [
+        "Burning",
+        "Prescribed",
+        "Drivers"
+      ],
+      "summary": "Abstract Aims: This study analyzed the spatiotemporal distribution, interannual variability, and recurrence of burned areas across land-use and land-cover (LULC) classes in the Brazilian Cerrado from 2019 to 2024.",
+      "added": true
+    },
+    {
+      "title": "Forecast lead time and the timing of crew deployment for weather-driven power outages using AI weather models",
+      "abstract": "Utilities request mutual aid crews to restore power after severe storms, and requesting early secures more crews but relies on less accurate forecasts. We examined how forecast lead time affects the value of outage predictions for crew deployment, using operational forecasts from two AI weather models, GraphCast and FourCastNet, to predict outage occurrence for counties across the contiguous United States 24 to 120 hours ahead. Forecasts were evaluated by the share of outage burden captured by the counties where crews would be staged. Captured burden declined with lead time: the loss between three and five days was significant in all analyses, whereas the loss within three days was significant only for outages that had not yet started. Early deployment with all requested crews outperformed late deployment with fewer, and we report the availability ratio at which the two break even. Antecedent land surface predictors computed at forecast valid time include weather from the forecast period, which inflates their skill by 42 to 53% and reverses their apparent advantage over forecast meteorology at long lead times. Computed correctly, they improved occurrence skill by 17.5% at 24 hours but did not significantly change captured burden, a gap that attribution analysis linked to their static component. Prediction intervals covered only 0.476 of tropical cyclone events against a nominal 0.90. Calibration by hazard class corrected most of this shortfall at an 11% cost in interval width, as a diagnostic only, because hazard class is known only after the event.",
+      "doi": "10.48550/arxiv.2610.20918",
+      "authors": [
+        "Mohammad Kian Golkar",
+        "Luciano Alves de Oliveira",
+        "Mohamad Alipour"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7222514020",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222514020",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 41%: matched 4/9 key interest terms (occurrence, united states, united, states)",
+      "tags": [
+        "Occurrence",
+        "United States",
+        "United",
+        "States"
+      ],
+      "summary": "Utilities request mutual aid crews to restore power after severe storms, and requesting early secures more crews but relies on less accurate forecasts. We examined how forecast lead time affects the value of outage predictions for crew deployment, using operational forecasts from two AI weather models, GraphCast and Fo…",
+      "added": true
+    },
+    {
+      "title": "Large Projected Increase in Cloud-to-Ground Lightning Under Future Climate",
+      "abstract": "Cloud-to-ground (CG) lightning poses significant risks to infrastructure, people, and ecosystems. However, while many studies have projected changes in total lightning under warming, future trends in CG lightning remain poorly constrained. Here, we combine ground-based CG lightning observations with six daily surface meteorological variables (mean temperature, total precipitation, short-wave radiation, relative humidity, pressure, wind speed) to predict CG lightning density over land at 0.5° resolution using an XGBoost machine learning model. The model accurately captures contemporary spatial and temporal lightning patterns and outperforms an alternative multiple linear regression model as well as three existing parameterizations based on convective precipitation or convective available potential energy times precipitation. Applying the XGBoost model to historical climate shows a 11% increase in global CG lightning frequency over the 20th century. Future projections using outputs from two climate models (MPI-ESM1-2-HR and UKESM1-0-LL) reveal large increases of 76-140% under a high-emission scenario (SSP3-7.0), equivalent to roughly 30% more CG lightning per degree of global warming. These increases are substantially higher than those projected by the linear model and previous studies. Absolute increases are largest in the tropics, while relative increases are largest at high latitudes, where lightning density often more than doubles. The largest uncertainties emerge in the tropics for UKESM1-0-LL climate, particularly in the Amazon and New Guinea, where future climate differs strongly from current conditions. Our results suggest that climate change may substantially amplify CG lightning frequency, underscoring the need for improved risk assessments.",
+      "doi": "10.22541/essoar.15010629/v1",
+      "authors": [
+        "Andreas Krause",
+        "Konstantin Gregor",
+        "Yuquan Qu",
+        "Sander Veraverbeke",
+        "Anja Rammig"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7222848764",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222848764",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 24%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Cloud-to-ground (CG) lightning poses significant risks to infrastructure, people, and ecosystems. However, while many studies have projected changes in total lightning under warming, future trends in CG lightning remain poorly constrained.",
+      "added": false
+    },
+    {
+      "title": "Dispersión de plumas de contaminación atmosférica por incendios forestales: un caso de estudio en el sur de Argentina",
+      "abstract": "Forest fires pose significant threats to ecosystems, biodiversity, and human health, highlighting the importance of accurate tracking and assessment of their impact. The sources and levels of wildfire contamination were determined using HYSPLIT simulations and NASA MODIS satellite imagery. The forest fire that started in January 2024 in Los Alerces National Park, located in Chubut Province, Argentina, is presented as a case study. By adjusting the simulation with observed data, the biomass was estimated to be 650 Mg/ha, a value consistent with estimates reported in the literature. The distribution and concentration of airborne particulate matter in the affected areas were estimated. Thus, this study assessed contamination levels in nearby areas, revealing significant air quality impacts, with pollution levels exceeding 100 µg/m³. This research adopts a multidisciplinary approach to deepen our understanding of the ecological and human health impacts of forest fires in sensitive ecosystems, with the goal of contributing to more effective conservation strategies and enabling future prevention and mitigation efforts.",
+      "doi": "10.59471/raia2026235",
+      "authors": [
+        "Agustín Besteiro",
+        "Rosa Piotrkowski"
+      ],
+      "year": 2026,
+      "journal": "Revista Abierta de Informática Aplicada",
+      "openalex_id": "W7222850914",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222850914",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Forest fires pose significant threats to ecosystems, biodiversity, and human health, highlighting the importance of accurate tracking and assessment of their impact. The sources and levels of wildfire contamination were determined using HYSPLIT simulations and NASA MODIS satellite imagery.",
+      "added": false
+    },
+    {
+      "title": "Pastoralism in the Mediterranean Basin: Conditions for Resilience Across Northern and Southern Regions",
+      "abstract": "ABSTRACT Pastoralism has a long-standing tradition throughout the Mediterranean Basin, on both its northern and southern shores. Sheep and goat herding, often involving transhumance, has historically thrived in areas characterized by poor and shallow soils, making pastoralism an integral component of the cultural and agricultural heritage of these landscapes. While the literature extensively documents the ecological role of pastoral systems and the consequences of their decline and abandonment, their social, cultural, and economic dimensions remain comparatively underexplored. Moreover, despite the general trend toward a reduction in the number of herds and the extent of grazed areas, some pastoral farmers persist, and a number of younger people engage in pastoral activities. This persistence, which is critical for identifying pathways to sustain pastoralism and its associated ecosystem services in the future, has received limited attention in the literature. This study aims to understand why pastoral farming persists in the Mediterranean context and to identify the key factors underpinning the resilience of pastoral farmers. To this end, a survey based on a common questionnaire was administered to pastoral farmers across 15 regions in the Mediterranean basin, spanning 8 countries (5 on the northern shore and 3 on the southern shore). A total of 363 valid responses were analyzed. The results reveal both differences and similarities between the Northern and Southern Mediterranean regions and allow the identification of three main types of pastoral farmers. Although income and compensation payments play an important role in entering or continuing the profession, they are not the most decisive factors. The meaningfulness of the profession and the attachment to both pastoral activity and family tradition, and in some regions of the collective organization, emerge as highly influential in farmers’ decision-making processes. These findings contribute to improving the robustness of territorial analyses and to identifying policy approaches for sustaining pastoralism that are not strictly constrained by the scale of nation states.",
+      "doi": "10.1016/j.rama.2026.08.009",
+      "authors": [
+        "Teresa Pinto‐Correia",
+        "Claude Napoléone",
+        "Stavriani Koutsou",
+        "Jean‐Christophe Paoli",
+        "Tristan Berchoux",
+        "Maria de Belém Costa Freitas",
+        "Pablo Manzano",
+        "Aymen Frija",
+        "Mikaël Akimowicz",
+        "Stefano Targetti",
+        "Beatrice Fiore",
+        "Francesco Sirtori",
+        "Slimane Bencherif",
+        "Rachid Omrani",
+        "Aissam Zine-Dine",
+        "Véronique Alary",
+        "Mehmet Fatih Tatari",
+        "Derya Nizam",
+        "Ferrán Pauné"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7222217986",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222217986",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "ABSTRACT Pastoralism has a long-standing tradition throughout the Mediterranean Basin, on both its northern and southern shores. Sheep and goat herding, often involving transhumance, has historically thrived in areas characterized by poor and shallow soils, making pastoralism an integral component of the cultural and a…",
+      "added": false
+    },
+    {
+      "title": "Emergency zone design and staged evacuation planning for the UBC Vancouver campus : a traffic microsimulation study",
+      "abstract": "There has been limited attention to examining how different emergency-zone release orders affect evacuation performance, particularly in a multi-use university campus setting that includes academic, residential, commercial, and other land uses. This study develops an emergency zoning plan for the UBC Vancouver campus and evaluates the performance of zone-based vehicle evacuation strategies using traffic microsimulation. Seven emergency zones were designed based primarily on major roads, neighbourhood boundaries, and land use. Campus vehicular evacuation demand was estimated, and a model of campus was developed using VISSIM. The model was used to compare simultaneous and staged strategies for a short-notice whole-campus evacuation, as well as a partial-campus evacuation. The results show that staged evacuation generally improves evacuation mobility outcomes compared with simultaneous evacuation. All staged scenarios reduce network and emergency-zone average travel times and the extent of severe delay, although the level of improvement varies based on zone release order. At the network level, orders that distribute evacuation demand spatially across stages, and release peripheral zones in the first stage, generally have shorter clearance times and average travel times. At the emergency-zone level, evacuating vehicles generally experience shorter travel times when ordered to leave at an earlier stage. Staging also reduces the magnitude or duration of vehicle queues at several critical bottlenecks, although some locations remain congested across all strategies. Persistent gridlock occurs in some simulation runs and affects network completion and clearance-time results. These measures are therefore considered together with travel time, relative delay, and queue measures when evaluating scenario performance. Overall, the study demonstrates how emergency zoning and staged evacuation can support campus evacuation planning and the findings provide a basis for prioritizing emergency zones, organizing emergency services, and identifying where additional traffic-management measures may be needed. Although focused on vehicle performance, the results of the study may also help to inform other modes of evacuation transportation including evacuation shuttle service pick up locations and routes.",
+      "doi": "10.14288/1.0456600",
+      "authors": [
+        "Jiaqi Zhang"
+      ],
+      "year": 2026,
+      "journal": "cIRcle (University of British Columbia)",
+      "openalex_id": "W7222558288",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222558288",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "There has been limited attention to examining how different emergency-zone release orders affect evacuation performance, particularly in a multi-use university campus setting that includes academic, residential, commercial, and other land uses.",
+      "added": false
+    },
+    {
+      "title": "Regional heterogeneity in the association between extreme temperatures and emergency hospitalizations in Germany",
+      "abstract": "Abstract Background The association between extreme temperature and emergency hospitalizations may differ by regional socioeconomic deprivation and its intersection with age and urbanization. This study investigates how regional characteristics modify the relationship between temperature and emergency hospitalizations in Germany. Methods We analyzed the weekly emergency hospitalization rate by German districts (2005-2021) using the German Diagnosis-Related Groups Statistic, linked with high-resolution temperature data from the European gridded daily observational dataset (E-OBS). We fit a fixed effects model and interact regional socioeconomic deprivation with the weekly number of days falling into one of eleven temperature bins, adjusting for seasonality. Analysis was stratified by urbanization and age group. Results We observe 112,909,391 emergency hospitalizations over the study period. Among rural districts, an additional heat day is associated with 17.6 (95% CI: 12.3–23.1) additional emergency cases per 10,000 in the least-deprived districts, with no change in the most-deprived districts. Among ages 65+, an additional heat day is associated with the largest increase in emergency hospitalizations in medium-deprived compared to least-deprived districts. Conclusions Our study finds that the temperature-emergency hospitalization relationship varies across German regions, with differences only becoming visible if regions are profiled by several characteristics. This highlights the need for an intersectoral approach to adequately address the differential impact of climate stressors on inpatient care uptake.",
+      "doi": "10.1038/s44528-026-00045-y",
+      "authors": [
+        "Maria Gueltzow",
+        "Risto Conte Keivabu",
+        "Christopher Irrgang",
+        "Marcus Ebeling"
+      ],
+      "year": 2026,
+      "journal": "Communications Health",
+      "openalex_id": "W7222840704",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222840704",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Background The association between extreme temperature and emergency hospitalizations may differ by regional socioeconomic deprivation and its intersection with age and urbanization.",
+      "added": false
+    },
+    {
+      "title": "Space Sustainability: The Global Commons",
+      "abstract": "Space is no longer a distant, barely reachable frontier of scientific exploration; it has become a critical infrastructure for life on Earth and a rapidly expanding zone of intense commercial activity. Yet this expansion is unfolding in ways that replicate, and amplify, the unsustainable dynamics already driving ecological and social crises on our planet. This chapter explains the concept of space sustainability as a multidimensional challenge; it raises the questions of governance, knowledge, power, justice, and global responsibility. It highlights both the profound benefits derived from space activities and the uneven distribution of costs and risks, from orbital debris and atmospheric impacts to privatization of essential services. We therefore argue that it frames space as a global commons that demands stewardship rather than pure exploitation, cooperation rather than competition, and governance that prioritizes long-term wellbeing rather than laissez-faire approach. Sustainability in space is inseparable from sustainability on Earth. This chapter invites readers, whether they are space administration and industry actors, policymakers, scientists, or simply engaged citizens, to see space not as a limitless frontier, but as a shared domain whose future depends on collective choices made today.",
+      "doi": "10.48550/arxiv.2610.21517",
+      "authors": [
+        "Angelina Frolova",
+        "Sascha Nick",
+        "Jean-Paul Kneib",
+        "Emmanuelle David",
+        "Carolyn Crichton",
+        "Sebastian Belanger Villanueva",
+        "Mathieu Udriot",
+        "Marnix Verkammen"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7222691850",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222691850",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Space is no longer a distant, barely reachable frontier of scientific exploration; it has become a critical infrastructure for life on Earth and a rapidly expanding zone of intense commercial activity.",
+      "added": false
+    }
+  ]
+}
