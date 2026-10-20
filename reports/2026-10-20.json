@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-20",
+  "statistics": {
+    "fetched": 141,
+    "duplicates_removed": 135,
+    "evaluated": 6,
+    "added": 1,
+    "ignored": 5,
+    "average_score": 2.17
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "The Impact of Ambient Ozone Exposure on Respiratory Health in the U.S. Populations: A Systematic Review",
+      "abstract": "Ozone, a photochemically generated air pollutant, continues to pose a major concern for public health in the United States, with some 125 million people living in areas that exceed national ambient air quality standards set by the United States Environmental Protection Agency. To fully understand the potential impacts of ambient ozone exposure on respiratory health, we conducted a systematic review of United States epidemiologic and experimental studies published from 1980 to 2026, encompassing both acute and chronic exposure windows. This review focused on three key domains: (1) pulmonary function, (2) asthma-related symptoms and emergency department visits/hospitalizations, and (3) other respiratory-related morbidity and mortality. Findings across diverse study designs demonstrated adverse respiratory effects, with children, older adults, and individuals with pre-existing respiratory conditions being disproportionately affected. This review is among the first to comprehensively synthesize ozone-related respiratory health outcomes including pulmonary functions outcomes across both experimental and population-based observational studies-highlighting consistent decrements in lung function, even at concentrations below current regulatory standards. Additionally, this work incorporated ozone-associated school absenteeism, a sensitive yet underexamined indicator for pediatric respiratory health outcome. The observed associations across multiple outcomes and exposure durations underscored the importance of strengthening ambient air quality standards and prioritizing interventions toward high-risk populations. Continued increases in ambient ozone exposure even in the presence of regulatory action and increasing contributions from sources related to climate change such as wildfires emphasize the importance of sustained research and public health planning to safeguard respiratory health in vulnerable communities.",
+      "doi": "10.1007/s40572-026-00568-0",
+      "authors": [
+        "Yoojin Cho",
+        "Yu Yu",
+        "Xinyu Zhang",
+        "Michael J. Kleeman",
+        "Michael Jerrett",
+        "Ninez A. Ponce"
+      ],
+      "year": 2026,
+      "journal": "Current Environmental Health Reports",
+      "openalex_id": "W7222791995",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222791995",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 57%: matched 4/7 key interest terms (wildfires, states, united, united states)",
+      "tags": [
+        "Wildfires",
+        "States",
+        "United",
+        "United States"
+      ],
+      "summary": "Ozone, a photochemically generated air pollutant, continues to pose a major concern for public health in the United States, with some 125 million people living in areas that exceed national ambient air quality standards set by the United States Environmental Protection Agency.",
+      "added": true
+    },
+    {
+      "title": "On spatially-adaptive intensity estimation for spatial point processes",
+      "abstract": "Abstract Spatial adaptation plays an important role in intensity estimation for spatial point processes, especially in the presence of heterogeneity, where the required degree of smoothing varies across the domain. In this paper, we propose a spatially-adaptive intensity estimation framework building on the resample-smoothed Voronoi intensity estimator. The framework combines resample smoothing with a location-dependent thinning mechanism, allowing the amount of smoothing to vary according to the local structure of the point pattern. The thinning probabilities are driven by a pilot estimate of the intensity and controlled by the strength of the adaptation. Expressions for the bias and variance are derived, providing insight into how the adaptive mechanism affects the local bias-variance trade-off. Simulation studies covering Poisson and log-Gaussian Cox point processes indicate that location-dependent thinning substantially improves estimation accuracy in the presence of spatial heterogeneity, particularly under stronger resample smoothing induced by lower retention probabilities, while maintaining performance comparable to the standard resample-smoothed Voronoi estimator in homogeneous settings. Moderate levels of spatial adaptation provide the most stable performance, whereas stronger adaptation can improve the recovery of sharp intensity contrasts in highly inhomogeneous settings. Further comparisons show that the proposed estimator consistently outperforms both the resample-smoothed Voronoi and the spatially-adaptive kernel-based estimators in terms of mean integrated squared error. Finally, the practical utility of the proposed framework is illustrated through applications to wildfire data from California, USA, and traffic accident data from Madrid, Spain.",
+      "doi": "10.1007/s11222-026-10971-0",
+      "authors": [
+        "Mehdi Moradi",
+        "Ferry Heinzelmann"
+      ],
+      "year": 2026,
+      "journal": "Statistics and Computing",
+      "openalex_id": "W7222804986",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222804986",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/7 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Spatial adaptation plays an important role in intensity estimation for spatial point processes, especially in the presence of heterogeneity, where the required degree of smoothing varies across the domain.",
+      "added": false
+    },
+    {
+      "title": "Subalpine krummholz and tree island water use behavior and evapotranspiration during two growing seasons in the Canadian Rocky Mountains",
+      "abstract": "Headwater basins in the Eastern Slopes of the Canadian Rockies provide critical water resources to the Canadian Prairies, making it essential to understand how climate-driven ecological change alters mountain hydrology and downstream water yield. Warming-induced shifts in treeline structure may modify key ecohydrological processes that regulate snow storage, evapotranspiration (ET), and runoff generation. This study quantifies transpiration (T), ET and their partitioning at a subalpine treeline over two growing seasons and relates tree-scale T to individual structural attributes and snow conditions at Fortress Ridge South (FRS), in the Kananaskis Valley, Alberta. Tower-measured mean growing-season air temperature was 7.5 °C in 2024 and 8.3 °C in 2025, with a lower seasonal maximum in 2025 (22.4 versus 25.4 °C), comparable net radiation (119 versus 121 W m -2 ), lower wind speed and precipitation. These changes advanced snowmelt, extended the snow-free period by 38 days, and reduced late-season moisture inputs. Daily T scaled with stem size rather than differing systematically by growth form, and T represented a small fraction of ET (mean T/ET = 0.13 in 2024 and 0.18 in 2025, with one transpiration-dominated day (T/ET > 0.6) in 2025 and none in 2024), indicating that landscape-scale water losses were dominated by evaporation from soils and vegetation surfaces. Both growing seasons were cooler than the 1981–2010 normals, so these data do not test the response of this ecotone to warming. Ecosystem water loss was strongly coupled with atmospheric demand in 2024 (decoupling coefficient Ω = 0.19 ± 0.09) and substantially more decoupled in 2025 (Ω = 0.45 ± 0.18), and soil water content declined significantly through the snow-free period only in 2024. Together, these results indicate that an evaporation-dominated treeline surface of this kind will respond to changes in snow cover and canopy structure mainly through its non-transpiring fraction. Resolving the consequences for downstream water supply will require longer records and runoff measurements.",
+      "doi": "10.22541/authorea.15010636/v1",
+      "authors": [
+        "R. Xiao",
+        "R. M. Petrone",
+        "A. Trant",
+        "John Willard Pomeroy"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7222900876",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222900876",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/7 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Headwater basins in the Eastern Slopes of the Canadian Rockies provide critical water resources to the Canadian Prairies, making it essential to understand how climate-driven ecological change alters mountain hydrology and downstream water yield.",
+      "added": false
+    },
+    {
+      "title": "An Overview of Key Considerations in Asset Allocation",
+      "abstract": "This chapter provides a structured overview of the key considerations that underpin asset allocation within a total fund management (TFM) framework. It develops a multi-layered analytical perspective, integrating capital market assumptions, macroeconomic drivers, and market dynamics into a coherent foundation for portfolio design. Capital market assumptions are presented as the quantitative bridge between investment beliefs and strategic allocation, highlighting their construction, interpretation, and governance. The discussion then examines the role of macroeconomic forces—particularly economic growth, real interest rates, and inflation—in shaping asset returns and cross-asset relationships. Finally, the chapter explores the influence of liquidity, capital flows, and market behavior, emphasizing how balance-sheet dynamics and investor sentiment affect valuation, risk premia, and implementation conditions. By integrating these dimensions, the chapter frames asset allocation as a continuous, forward-looking process rather than a static optimization exercise. It underscores the importance of disciplined assumptions, macro awareness, and liquidity sensitivity in building resilient portfolios. The analysis provides institutional investors with a conceptual framework to interpret evolving market environments and to align portfolio decisions with long-term objectives in a dynamic global financial system.",
+      "doi": "10.1007/978-3-032-36706-8_4",
+      "authors": [
+        "Redouane Elkamhi",
+        "Jacky S. H. Lee"
+      ],
+      "year": 2026,
+      "journal": "Springer eBooks",
+      "openalex_id": "W7222923330",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222923330",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/7 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "This chapter provides a structured overview of the key considerations that underpin asset allocation within a total fund management (TFM) framework. It develops a multi-layered analytical perspective, integrating capital market assumptions, macroeconomic drivers, and market dynamics into a coherent foundation for portf…",
+      "added": false
+    },
+    {
+      "title": "Home is the place to be! Intentions to stay and age@home in rural areas and rural risk areas: exploring motives, behaviours, and place attachment of ageing homeowners",
+      "abstract": "Title: Home is the place to be! Intentions to stay and age@home in rural areas and rural risk areas Exploring motives, behaviours, and place attachment of ageing homeowners In addition to demographic trends, environmental disasters and climate change also influence residents’ decisions about whether to stay in a particular place. This dissertation investigates ‘why’ and ‘how’ ageing rural homeowners intend to stay and age@home in the Netherlands, Northern Netherlands and Groningen earthquake area, despite potentially declining amenities and/or risks and damage. Land Registry data, data from the Homeowners’ Association and published interviews were used. The main motive for rural homeowners to age@home is ‘place attachment’, in the sense of house attachment and/or neighbourhood attachment. Rural homeowners with a partner and/or those aged 75-plus are more likely to intend to stay. Homeowners in the earthquake area prefer to adapt their own owner-occupied home or plan to rent. Another group of homeowners here often has not given this any thought yet. Single ageing homebuyers with previous experience of living in the earthquake area were more likely to (re)buy a house there. Place attachment, social attachment and ‘insiders’ risk perception create a local housing market. Homeowners with damage to their dwellings became aware of their physical and social house attachment. The decision to stay is an ongoing ‘cycle of reconsideration and renegotiation’, interrupted by each new earthquake and damage. In order to stay independently, rural homeowners are more positive about multigenerational living than their urban counterparts. Furthermore, homeowners aged 55-plus from the rural earthquake area are positive about independent group living, like Knarrenhofjes. These findings can be used to develop socio-economic and spatial government policies promoting the viability of rural (risk)communities.",
+      "doi": "10.33612/diss.1574478772",
+      "authors": [
+        "Hieke van der Kloet"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7222909647",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222909647",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Title: Home is the place to be! Intentions to stay and age@home in rural areas and rural risk areas Exploring motives, behaviours, and place attachment of ageing homeowners In addition to demographic trends, environmental disasters and climate change also influence residents’ decisions about whether to stay in a partic…",
+      "added": false
+    },
+    {
+      "title": "Sosyal Kimliğin Çevre Dostu Davranış Üzerindeki Rolünün İncelemesi: Bir Sistematik Derleme Çalışması",
+      "abstract": "Giriş: İklim değişikliğiyle mücadelenin önemi her geçen gün artmaktadır. Bu mücadelenin bireysel çabaların ötesine geçerek kolektif bir boyut kazanması, ancak kitleler içindeki bireylerin harekete geçmesiyle mümkün olabilir. Bu noktada sosyal kimlikler, bireyleri toplumsal değişim yönünde motive eden ve harekete geçiren güçlü bir psikolojik ve sosyal mekanizma olarak öne çıkmaktadır. Çevre dostu davranışlar (ÇDD), iklim değişikliği ile mücadelenin bir türü olarak nitelendirilebilir. ÇDD’nin sosyal kimlik kuramı çerçevesinde incelenmesi, gruplar arası süreçlerin anlaşılması; daha güçlü ve kolektif bir değişim imkânı sunması; politik duyarlılığı artırması gibi avantajları beraberinde getirmektedir. Amaç: Bu sistematik derlemede, sosyal kimlik kuramı çerçevesinde, kişilerin kendilerini ait hissettikleri sosyal kimliklerin ÇDD üzerindeki rolünü anlamak amaçlanmıştır. Bu doğrultuda iki temel hedef belirlenmiştir. Birincisi, ÇDD ile bağlantılı sosyal kimlik türlerinin literatürde nasıl tanımlandığını ve sınıflandırıldığını ortaya koymak. İkincisi, sosyal kimlik ile ÇDD arasındaki ilişkide rol oynayan aracı (mediator) ve/veya düzenleyici (moderatör) değişkenleri belirlemek; bu değişkenlerin kimlik türüne ve davranışın niteliğine göre farklılık gösterip göstermediğini değerlendirmek. Yöntem: Literatürde sosyal kimliğin ÇDD’yi teşvik edici rolünün baskın olduğuna yönelik genel kabulün ötesinde tutarsız sonuçlara ve bu ilişkideki aracı ya da düzenleyici etkenlere odaklanılmıştır. PRISMA kılavuzu takip edilerek, literatür taraması Web of Science, Scopus, Science Direct, GreenFILE, APA PsycArticles, DergiPark, TrDizin, Proquest ve YökTez veri tabanlarında gerçekleştirilmiştir. İngilizce aramalarda sosyal kimlik yaklaşımı kapsamında sosyal kimliği konu edinmiş çalışmalara ulaşmak amacıyla “social identity” aratılmıştır. ÇDD’yi içeren araştırmalara ulaşmak amacıyla “pro-environment* behavior”, “pro-environment* action” ve “environment* protect*” kelimeleri aranmıştır. Türkçe aramalarda (DergiPark, TrDizin ve YÖKTez) “sosyal kimlik”, “çevre dostu davranış”, “çevre dostu eylem”, “çevre koruma”, “çevreci davranış” ve “çevreci eylem” kelimeleri kullanılmıştır. Toplam 429 yayına ulaşılmıştır. Bunlardan 27 araştırma makalesi (37 çalışma) uygunluk kriterlerini sağlayarak derlemeye dâhil edilmiştir. Bulgular: Çalışmalarda yer alan sosyal kimlikler dört kategoriye ayrılmıştır. Bunlar, çevreyi doğrudan kimliğin merkezine alan çevreci kimlikler; dünyaya veya insanlığa aidiyeti kapsayan küresel kimlikler; belirli bir grup veya mekânla özdeşleşmeye dayalı grup/yer kimlikleri; ulus ya da ülkeye aidiyet temelli ulusal kimlikler olmuştur. Özellikle çevreci kimliğin bireyci toplumlarda kolektif ÇDD’yi (çevreci aktivizm gibi) teşvik etmede etkili olduğu, ulusal kimlikle özdeşleşmenin kültüre bağlı olarak kimlik-davranış ilişkisinin yönünü değiştirebileceği sonuçlarına ulaşılmıştır. Kimlik-davranış mekanizmasına etki eden ve en belirgin etken, her kimlik türü ile ilişkisi gösterildiğinden, çevreci normlar olmuştur. Buna ek olarak küresel kimlik dışındaki tüm kimlik türleri için grup yeterliğinin davranışı teşvik eden aracı bir etken olduğu görülmüştür. Sonuç: Sonuç olarak, kimlik-davranış mekanizmasının tek tip ve tek yönlü olmadığı; kimliğin türünden, davranışın niteliğinden, araştırmanın bağlamından ve bazı psikolojik faktörlerden etkilendiği gösterilmiş ve bu durumun olası nedenleri tartışılmıştır. Özellikle toplumların kimlik temsillerinin önemi, kültürler arası farkları vurgulayan sonuçlarla aktarılmıştır. Bu açıdan politika yapıcıların kültürel dinamikleri göz önünde bulundurarak çevreci normların benimsenmesine ve insanları mevcut gidişatı değiştirebileceklerine yönelik ikna etmeleri gerekmektedir. Bunu yaparken sosyal kimliklerin yönlendirici gücü kullanılabilir. Anahtar Kelimeler: Çevre Dostu Davranış, Sistematik Derleme, Sosyal Kimlik",
+      "doi": null,
+      "authors": [
+        "Hatice Kübra Tekşam"
+      ],
+      "year": 2026,
+      "journal": "Van Yüzüncü Yıl University Academic Data Management System",
+      "openalex_id": "W7222910860",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222910860",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Giriş: İklim değişikliğiyle mücadelenin önemi her geçen gün artmaktadır. Bu mücadelenin bireysel çabaların ötesine geçerek kolektif bir boyut kazanması, ancak kitleler içindeki bireylerin harekete geçmesiyle mümkün olabilir.",
+      "added": false
+    }
+  ]
+}
