@@ -1,0 +1,361 @@
+{
+  "date": "2026-10-21",
+  "statistics": {
+    "fetched": 96,
+    "duplicates_removed": 82,
+    "evaluated": 14,
+    "added": 0,
+    "ignored": 12,
+    "average_score": 1.79
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Soil Microbial Community Patterns after a Large Forest Fire in Temperate Central Europe",
+      "abstract": "Abstract Wildfires are a major ecological driver impacting terrestrial ecosystems, yet their belowground impacts remain poorly understood in Central European temperate forests. We investigated soil microbial responses during the first post-fire year following the large 2022 wildfire in the Bohemian and Saxon Switzerland National Parks (Czechia and Germany). We compared soil microbial communities across three forest types differing in fire sensitivity ( Fagus sylvatica , Pinus sylvestris, and Picea abies stands) and examined how forest type, aboveground burn severity, soil burn severity, and soil properties structured prokaryotic and fungal communities. Prokaryotic richness remained largely stable across burn severities, although the diversity of prokaryotes and gene copy numbers declined with soil burn severity. In contrast, fungal communities showed stronger responses. Fungal richness and diversity decreased with soil burn severity, while fungal gene copy numbers increased in stands of low aboveground severity. Microbial community composition shifted in response to fire, with pronounced turnover in fungal communities. Variation partitioning indicated that the composition was jointly influenced by forest type and aboveground burn severity, whereas soil properties explained little additional variation. Prokaryotic and fungal beta diversity did not correlate with plant beta diversity. Co-occurrence network analysis revealed fire-associated modules enriched in interkingdom links and a higher prevalence of positive associations in burned soils. Fire-associated taxa, including Actinomycetota and Ascomycota, dominated early post-fire communities. Our results demonstrate that early belowground recovery after wildfire in temperate Central European forests is shaped by strong environmental filtering imposed by burn severity and by legacy effects of forest type.",
+      "doi": "10.1007/s10021-026-01121-8",
+      "authors": [
+        "Vojtěch Lanta",
+        "Adam Taylor Ruka",
+        "Petr Kohout",
+        "Lenka Mészárošová",
+        "Martin Adámek",
+        "Roey Angel",
+        "Lukáš Čížek",
+        "Eliška Daňková",
+        "Klára Řeháková",
+        "Tanja Shabarova",
+        "Dana Vébrová",
+        "Alena Sucháčková Bartoňová",
+        "Jiří Doležal"
+      ],
+      "year": 2026,
+      "journal": "Ecosystems",
+      "openalex_id": "W7222919249",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222919249",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 78%: matched 4/6 key interest terms (wildfires, wildfire, occurrence, large)",
+      "tags": [
+        "Wildfires",
+        "Wildfire",
+        "Occurrence",
+        "Large"
+      ],
+      "summary": "Abstract Wildfires are a major ecological driver impacting terrestrial ecosystems, yet their belowground impacts remain poorly understood in Central European temperate forests.",
+      "added": false
+    },
+    {
+      "title": "A Multi-Model Large Ensemble Dataset of Global Hydroclimatic Stress Indices",
+      "abstract": "Understanding the frequency, variability, and uncertainty in drought and atmospheric moisture stress across historical and future states requires large ensembles that capture both internal variability and the externally forced response. Here we present a new dataset of hydrometeorological stress indices derived from large ensemble simulations of two Earth system models: the Community Earth System Model version 2 (CESM2) and the Energy Exascale Earth System Model version 2 (E3SMv2). It includes daily vapor pressure deficit (VPD) and Keetch-Byram Drought Index (KBDI), and the Standardized Precipitation-Evapotranspiration Index (SPEI) for 1-, 3-, 6-, 9-, and 12-month accumulation timescales. The dataset combines output from the 100-member CESM2 and the 21-member E3SMv2 ensembles, covering the historical period (1850–2014) and the future SSP3-7.0 scenario (2015–2100). All indices are provided in analysis-ready formats to support investigations of large-scale hydrometeorological stress and their spatial and temporal characteristics, the relative contributions of internal variability and externally forced change, and subsequent application-specific analyses with appropriate bias correction and downscaling.",
+      "doi": "10.1038/s41597-026-08579-0",
+      "authors": [
+        "Samar Minallah",
+        "Gerald Meehl",
+        "Jadwiga Richter",
+        "Mari R. Tye",
+        "Stephen Gerald Yeager"
+      ],
+      "year": 2026,
+      "journal": "Scientific Data",
+      "openalex_id": "W7222950570",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222950570",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 46%: matched 2/6 key interest terms (states, large)",
+      "tags": [
+        "States",
+        "Large"
+      ],
+      "summary": "Understanding the frequency, variability, and uncertainty in drought and atmospheric moisture stress across historical and future states requires large ensembles that capture both internal variability and the externally forced response.",
+      "added": false
+    },
+    {
+      "title": "Informing the public about earthquakes in Canada: exploring the application of a new geocommunication model",
+      "abstract": "Canadian geoscience initiatives include the research of natural hazards, their potential impacts on people, infrastructure, and the environment, and how these impacts might be mitigated. Engagement activities and educational resources are often an important component of such endeavours. Earthquake-related programs, in particular, are the focus of the work presented here. For instance, Canada has a new Earthquake Early Warning (EEW) system, which was activated in western British Columbia (BC) in 2024 and in eastern Ontario and southern Quebec in 2025. While current approaches to public education have helped inform people of earthquake risk and have assisted with the protection of critical infrastructure, many Canadians still remain largely unaware of the risks earthquakes pose in their region. In this study, we review Canadian geoscience engagement activities in seismically active regions. This review is carried out using a seven-component framework associated with a newly proposed Canadian geocommunication model, which has “Geosciences are Important for Humanity” as its central message. Through application of the model’s framework, we identify several ways in which existing geoscience education programs are being used to offer engaging experiences that facilitate deep understanding of earthquake hazards (e.g., programs in K-12 classes) and EEW, and identify areas where education on earthquake hazards could be improved (e.g., public parks). This review illustrates the efficacy of the aforementioned geocommunication model in evaluating existing earthquake education components, and outlines new opportunities for implementation of earthquake education approaches.",
+      "doi": "10.3389/feart.2026.1869255",
+      "authors": [
+        "Katherine Boggs",
+        "Alison Bird",
+        "Alwynne B. Beaudoin",
+        "Courtney Carol Onstad",
+        "Yu-Yen Pen",
+        "Benjamin G. Daniels",
+        "David W. Eaton",
+        "Honn Kao",
+        "Glenn Dolphin",
+        "Amrine Dubois Gafar",
+        "Miguel Bernard Bravo",
+        "Holly Bley",
+        "L. Nykolaishen",
+        "Andrew John Schaeffer",
+        "Mauricio Canales",
+        "Todd Shipman"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Earth Science",
+      "openalex_id": "W7222976640",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222976640",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 1/6 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Canadian geoscience initiatives include the research of natural hazards, their potential impacts on people, infrastructure, and the environment, and how these impacts might be mitigated. Engagement activities and educational resources are often an important component of such endeavours.",
+      "added": false
+    },
+    {
+      "title": "Management and Marketing Frameworks in Geoheritage Research: A Structural Bibliometric Analysis",
+      "abstract": "Abstract Research on geoheritage has experienced rapid expansion in recent years. However, the integration of management and marketing perspectives remains conceptually inconsistent. This study employs bibliometric and science-mapping methodologies to characterise the indexed knowledge base on geoheritage management and marketing in the Web of Science and Scopus (1981–2025). Following record-level deduplication, the final dataset comprises N = 1344 documents. The analysis examines publication growth, citation visibility, country productivity and collaboration patterns, source and author concentration, as well as the thematic structure of the field through trend topics, co-occurrence networks, and thematic evolution over time. The findings indicate delayed yet robust consolidation since 2014 and reveal a stable conceptual framework centred on geoheritage, geoconservation, and geotourism. Furthermore, geoparks and UNESCO-related governance serve as the predominant contexts for implementation. Management is primarily operationalised through inventorying, assessment, and decision-making frameworks geared towards conservation. In contrast, explicit marketing constructs exhibit limited structural centrality within keyword and abstract-level networks. Themes related to marketing are primarily manifest through discourses on tourism, interpretation, communication, and digital engagement, rather than through clearly articulated marketing theories or behavioural mechanisms. These results, therefore, suggest a comparatively weak lexical integration of formal marketing theory within the indexed geoheritage corpus. The study identifies opportunities for more precise integration within behavioural and marketing theory, emphasises a more systematic evaluation of management and communication interventions, and advocates for broader empirical coverage beyond geopark-centric research contexts.",
+      "doi": "10.1007/s12371-026-01461-w",
+      "authors": [
+        "Ľubomír Štrba",
+        "Maksym Mykhei",
+        "Kristína Pramuková",
+        "Marcela Taušová"
+      ],
+      "year": 2026,
+      "journal": "Geoheritage",
+      "openalex_id": "W7222935881",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222935881",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/6 key interest terms (occurrence)",
+      "tags": [
+        "Occurrence"
+      ],
+      "summary": "Abstract Research on geoheritage has experienced rapid expansion in recent years. However, the integration of management and marketing perspectives remains conceptually inconsistent.",
+      "added": false
+    },
+    {
+      "title": "Spectral burn severity does not fully capture post-fire forest structural loss: a case study of the 2020 Holiday Farm Fire",
+      "abstract": "Abstract Background Wildfire can substantially alter forest vertical structure and aboveground biomass, yet commonly used spectral burn-severity indices may not directly represent three-dimensional structural change. Using the 2020 Holiday Farm Fire in Oregon, USA, as a case study, we integrated GEDI observations with Sentinel-1, Sentinel-2, and topographic data to characterize pre- and post-fire canopy height and aboveground biomass density (AGBD). We quantified structural losses, evaluated their relationships with the differenced normalized burn ratio (dNBR), and examined whether these relationships varied with pre-fire forest structure. Results Mean canopy height and AGBD decreased by 27.0% and 44.8%, respectively, following the fire. Structural losses generally increased with dNBR-based burn severity, but their distributions overlapped substantially among severity classes. Across spatially matched GEDI footprints, dNBR was positively correlated with canopy height loss ( r = 0.30) and AGBD loss ( r = 0.36), whereas relationships within individual severity classes were generally weak. Pre-fire canopy height and AGBD showed stronger associations with their respective absolute losses ( r = 0.57 and 0.71). Significant dNBR × pre-fire structure interactions further indicated that the relationship between spectral burn severity and structural loss varied with initial forest structure. Conclusions dNBR captured broad gradients of fire effects but did not fully characterize within-class variability in canopy height and biomass loss. Spectral burn severity and three-dimensional structural change therefore represent complementary dimensions of fire effects. Incorporating pre-fire structural information with dNBR can provide a more ecologically informative assessment of post-fire forest condition and support field assessment and recovery monitoring.",
+      "doi": "10.1186/s42408-026-00596-z",
+      "authors": [
+        "Jiahui Ren",
+        "Jinling Song",
+        "Zhiqiang Xiao",
+        "Hua Yang"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7222920983",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222920983",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/6 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Background Wildfire can substantially alter forest vertical structure and aboveground biomass, yet commonly used spectral burn-severity indices may not directly represent three-dimensional structural change.",
+      "added": false
+    },
+    {
+      "title": "The potential for material substitution in the Canadian residential building stock: The case of hemp insulation materials",
+      "abstract": "The building sector is the third largest contributor to anthropogenic greenhouse gas emission in Canada. The carbon mitigation from the sector is critically important to achieve the goal of net-zero emission by 2050. Residential buildings are a key driver of energy consumption and emissions from the sector. While the operation of building becomes more efficient, the selection of low embodied carbon and energy materials is increasingly becoming key aspect of any decarbonisation strategy aimed at the built environment. Insulation materials are among the most important building parts to achieve energy conservation in buildings. Mainstream insulation materials, typically made from fossil-based raw sources, usually score a remarkably high embodied carbon and energy footprint. Hemp is widely recognized as among one of the most used biobased insulation raw materials in buildings due to its thermal properties and better overall environmental performances than that of mainstream insulations. However, its application in Canada is still in its infancy. Canada is currently the largest hemp oil and seed producer in the world. Most recent research on hemp in Canada has focused on the impact of legalisation for medical use and the popularization of hemp health products and cannabidiol. There is currently a lack of studies holistically addressing the impact of industrial hemp production and applications in reducing carbon emission linked to the Canadian residential building stock. As such, this thesis explores the potential of using hemp insulation materials to replace mainstream insulation materials to achieve carbon mitigation for Canadian residential buildings. The adopted methodology employs a novel framework combining material flow analysis (MFA) and life cycle assessment (LCA) methodologies, and it is applied to evaluate various levels of carbon mitigation strategies over time because of hemp substitution over time and at scale. The suitability and scalability of hemp-based home insulations in Canada are therefore assessed and reported. The results show that Canada has sufficient farmland in an ideal geographic location and weather to implement large-scale hemp cultivation. Hemp substitution can therefore be accomplished to suit insulation demand for as much as 10% of Canadian residential building demand up to year 2025. Full hemp substitution fulfilled through 5% hemp fibre insulation and 95% hempcrete would mitigate over 67 MtCO2eq of the embodied emissions caused by existing mainstream insulation materials by 2050.",
+      "doi": "10.17869/enu.2026.5287105",
+      "authors": [
+        "Chun Hua Liu"
+      ],
+      "year": 2026,
+      "journal": "Edinburgh Napier Research Repository (Edinburgh Napier University)",
+      "openalex_id": "W7222859841",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222859841",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/6 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "The building sector is the third largest contributor to anthropogenic greenhouse gas emission in Canada. The carbon mitigation from the sector is critically important to achieve the goal of net-zero emission by 2050. Residential buildings are a key driver of energy consumption and emissions from the sector.",
+      "added": false
+    },
+    {
+      "title": "Community Organizing at a Crossroads: Pressures, Adaptations, Possibilities",
+      "abstract": "Global opinion polls indicate widespread dissatisfaction with how democratic institutions work. Declining trust can fuel anti-democratic populism, but it can also increase support for measures that effectively address unequal distributions of wealth and power. This article asks whether community organizing can help reclaim and reconstruct democracy under these conditions. It traces community organizing’s historical ties to social movements and its shift from a “pragmatic” approach focused on solving community issues toward a more ideologically grounded practice. It identifies three contributions organizing can make to anti-authoritarian struggles: giving mass protests real power through base building and strategic coalitions, giving them deeper meaning through substantive claims that go beyond the status quo, and giving electoral victories lasting impact by building autonomous power that holds new governments accountable. It also introduces the issue’s articles, which examine organizing in autocratizing contexts, confronting structural inequalities, and building inclusive, democratic communities. It concludes that organizing could unite local struggles around an equality agenda and build the power needed to reconstruct democracy on more inclusive terms.",
+      "doi": "10.71057/g8vjnn05",
+      "authors": [
+        "Bernadett Sebály"
+      ],
+      "year": 2026,
+      "journal": "Community Organizing Journal",
+      "openalex_id": "W7222914406",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222914406",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Global opinion polls indicate widespread dissatisfaction with how democratic institutions work. Declining trust can fuel anti-democratic populism, but it can also increase support for measures that effectively address unequal distributions of wealth and power.",
+      "added": false
+    },
+    {
+      "title": "The microbial aerial thread: co-restoring source and sink across dryland-urban gradients",
+      "abstract": "Dryland ecosystems serve as major sources of atmospheric bioaerosols through aeolian transport of dust-associated microorganisms. These microbial communities are dispersed across vast distances, connecting dryland soils and vegetation to distant recipient ecosystems, particularly urban areas. This review synthesizes current understanding of microbial ecology in arid soils, microbial dispersal through dust, and interactions with urban ecosystems. We propose that restoration efforts should move beyond isolated, site-level interventions toward integrated strategies that account for the atmospheric connectivity between dryland source areas and urban sink environments. Practical restoration approaches, including dryland soil stabilization to reduce harmful dust emissions, microbial inoculant development, and urban green infrastructure designed to function as dispersal corridors, can generate cross-boundary synergies that enhance ecological resilience across the dryland–urban gradient. By reconceptualizing cities as nodes within broader ecological networks linked by microbial dispersal, and by leveraging insights from dryland ecology to guide urban restoration under resource-limited conditions, this framework offers a pathway for co-restoring connected landscapes in an era of accelerating urbanization and desertification.",
+      "doi": "10.3389/frmbi.2026.1965062",
+      "authors": [
+        "Albert Barberán",
+        "Elise S. Gornish"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Microbiomes",
+      "openalex_id": "W7222973575",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222973575",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Dryland ecosystems serve as major sources of atmospheric bioaerosols through aeolian transport of dust-associated microorganisms. These microbial communities are dispersed across vast distances, connecting dryland soils and vegetation to distant recipient ecosystems, particularly urban areas.",
+      "added": false
+    },
+    {
+      "title": "“Fire sees no boundaries”: barriers and opportunities for Tribal-Federal collaborative fire governance between the Southern Ute Indian Tribe and San Juan National Forest",
+      "abstract": "Abstract The scales at which social-ecological processes like fire occur on the landscape are often misaligned with jurisdictional boundaries that artificially divide ecosystems. Thus, effective fire governance requires collaboration across multiple land ownerships with differing institutional areas of responsibility. Across the Western US, there is a need to expand collaborative fire governance between US federal agencies and Tribes to effectively address forest health challenges at meaningful scales, yet Tribal-Federal cross-boundary fuels reduction planning and implementation remains limited. We address this gap through a case study with the Southern Ute Indian Tribe and San Juan National Forest in southwestern Colorado, using a participatory action research approach and a mixed-methods design including interviews and focus groups. Qualitative coding revealed four unique fire-use contexts that motivate Tribal-Federal collaborative fire governance within our case study. We find that barriers and opportunities for collaborative fire governance are diverse and interrelated, identifying 31 types of barriers and 28 types of opportunities. Our findings highlight the need for mechanisms tailored to address the unique circumstances of collaboration between US agencies and Tribes.",
+      "doi": "10.1186/s42408-026-00581-6",
+      "authors": [
+        "Anna L Lopresti",
+        "Laura E. Dee",
+        "Cassandra J. Atencio",
+        "Brian Gideon",
+        "Nick Glidden",
+        "Shawn Kelley"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7222921202",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222921202",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract The scales at which social-ecological processes like fire occur on the landscape are often misaligned with jurisdictional boundaries that artificially divide ecosystems. Thus, effective fire governance requires collaboration across multiple land ownerships with differing institutional areas of responsibility.",
+      "added": false
+    },
+    {
+      "title": "Health Benefits Attributable to Decreased Short-Term Sulfur Dioxide Exposure under Clean Air Actions in China: Evidence beyond Fine Particulate Matter",
+      "abstract": "Abstract Ambient sulfur dioxide (SO2) is a critical gaseous air pollutant primarily emitted from fossil fuel combustion. Compared with fine particulate matter (PM2.5), the acute health impact of SO2 remained inadequately characterized. This study aimed to evaluate cause-specific morbidity risks and burdens associated with SO2 after accounting for the impact of PM2.5, and quantify the health benefits associated with decreased SO2 concentrations after the implementation of the Air Pollution Prevention and Control Action Plan (APPCAP) in China. We conducted a time-stratified case-crossover study including 12 major cause-specific hospital admissions in 292 cities of prefecture-level or above in China during 2013–2017. Using a two-stage statistical analytical strategy, we evaluated the city-specific associations with a two-pollutant conditional logistic regression model in the first stage and pooled the overall associations with a random-effects model in the second stage. We further estimated the reductions in attributable fractions of hospital admissions associated with decreased SO2 concentrations over the study period at both nationwide and provincial levels to explore geographical disparities. During the study period, 49,495,835 hospital admissions for respiratory, cardiovascular, mental and neurological, and kidney diseases were recorded. Short-term exposure to SO2 was associated with increased cause-specific hospital admission risks after controlling for PM2.5, with percent changes in hospital admission risks associated with each 10 μg/m3 increase in SO2 ranging from 2.53% for asthma to 5.83% for chronic kidney disease (CKD). During the implementation of APPCAP (2013–2017), the annual SO2 concentration decreased by 44.6%, and the average annual attributable fraction of major cause-specific hospital admissions was reduced by 48.3%. Notable regional disparities existed in the magnitudes of decreases in SO2 concentrations, with provincial-level administrative regions with larger decreases in SO2 concentrations experiencing greater health benefits. Our study highlights the robust morbidity risks associated with SO2 after adjustment for PM2.5 and suggests substantial health benefits linked to decreases in SO2 concentrations in China after the implementation of APPCAP. The substantial health benefits and notable regional disparities highlight the necessity for nationwide and region-specific SO2 control strategies to reduce SO2-associated health risks and burdens.",
+      "doi": "10.1021/ehp.6c00802",
+      "authors": [
+        "Jian Lei",
+        "Huimeng Liu",
+        "Chen Wei",
+        "Yinxiang Li",
+        "Furong Deng",
+        "Xinbiao Guo",
+        "Shaowei Wu"
+      ],
+      "year": 2026,
+      "journal": "Environmental Health Perspectives",
+      "openalex_id": "W7222951698",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222951698",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract Ambient sulfur dioxide (SO2) is a critical gaseous air pollutant primarily emitted from fossil fuel combustion. Compared with fine particulate matter (PM2.5), the acute health impact of SO2 remained inadequately characterized.",
+      "added": false
+    },
+    {
+      "title": "‘You weren't just talking to clients about it ‐ you were living it’: A qualitative study of Australian psychologists' challenges and needs during disasters",
+      "abstract": "Abstract Introduction Climate change is increasing the frequency and severity of disasters. Recent successive disasters have adversely affected the mental health of individuals and communities; however, little is known about their impact on the psychology workforce. Objectives We examined the experiences of Australian psychologists who worked during the 2019/2020 bushfires, other climate‐related disasters and the COVID‐19 pandemic to identify key challenges and opportunities to better prepare the workforce for future disasters. Methods We conducted semi‐structured interviews in 2022 with 12 key informants from professional psychology associations, private practices, public services and non‐governmental organizations (NGOs). Transcripts were analysed using reflexive thematic analysis framed by the social‐ecological framework (Bronfenbrenner 1979; The ecology of human development: Experiments by nature and design). Findings Psychologists described multi‐level challenges associated with bushfires and COVID‐19, including increased acuity of client presentation, rising psychologist burnout, simultaneously managing disasters personally alongside their communities and adapting to new contexts. Results suggest many possible ways to better support psychologists to respond to the personal and professional challenges of ongoing disasters, and improve the psychological workforce capacity, such as increasing support and training, workforce expansion, systemic improvements to disaster response and additional overarching mental health system funding. Implications Our findings indicate that the psychology workforce is underprepared for supporting clients during ongoing disasters and that systemic changes across multiple levels are required to enable psychologists to effectively support their clients, their communities and their own well‐being as climate change progresses.",
+      "doi": "10.1002/epr2.70016",
+      "authors": [
+        "Clare Pitt",
+        "Connie Galati",
+        "Jo Lane",
+        "Julia Reynolds",
+        "Lisa‐Marie Greenwood",
+        "Samantha K. Stanley",
+        "Alison L. Calear",
+        "Tegan Cruwys",
+        "Iain A. Walker",
+        "Emily Macleod"
+      ],
+      "year": 2026,
+      "journal": "Environmental Psychology Research",
+      "openalex_id": "W7223041901",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223041901",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract Introduction Climate change is increasing the frequency and severity of disasters. Recent successive disasters have adversely affected the mental health of individuals and communities; however, little is known about their impact on the psychology workforce.",
+      "added": false
+    },
+    {
+      "title": "Climate Risk Spillovers and Sovereign Financing",
+      "abstract": "Climate change strains public finances through direct economic effects, yet interconnected economies also face indirect climate exposure via trade networks. These spillovers can amplify costs but are widely ignored. We systematically examine foreign climate risk transmission into sovereign financing conditions by mapping and quantifying local and spillover impacts through global value chain linkages. We use a simple static model of production networks to conceptualize climate effects on sovereigns via international spillovers. Deploying regression models for 75 countries (2000-2022), we exploit exogenous variation in temperature to estimate domestic and spillover impacts on financing conditions, measured by sovereign credit ratings. Results are threefold. First, local temperatures exhibit negative and heterogeneous impacts on ratings, with a 1°C anomaly implying an average 0.2 notch downgrade. Second, ignoring foreign climate spillovers underestimates total climate risk by 30%, most severely for cold and small open economies. Third, climate-driven rating changes imply a 36 basis point sovereign borrowing cost increase, of which 11 basis points are attributable to spillovers. Findings hold implications for investors and policymakers regarding asset valuation, climate adaptation and fiscal sustainability.",
+      "doi": "10.65864/80shy3ksr8",
+      "authors": [
+        "Lukas Rischen",
+        "Achim Hagen"
+      ],
+      "year": 2026,
+      "journal": "CESifo",
+      "openalex_id": "W7222944807",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222944807",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Climate change strains public finances through direct economic effects, yet interconnected economies also face indirect climate exposure via trade networks. These spillovers can amplify costs but are widely ignored.",
+      "added": false
+    },
+    {
+      "title": "Detecting long-term canopy change and vegetation shifts in northern peatlands using LAI and climate data",
+      "abstract": "Abstract. Peatlands store vast amounts of carbon, yet their canopies are changing under northern warming. We assessed recent vegetation trajectories by analysing greening and browning across northern peatlands using a gap-filled, sensor-independent climate data record of leaf area index (LAI) for 2001–2023. To our knowledge, this provides the first multi-decadal, peatland-specific assessment of canopy trends based strictly on mapped peatlands. Although greening was widespread at the pixel level (77 % of peatlands; greening-to-browning ratio 3.5:1), the area-weighted LAI trend at the map scale was not significant. LAI anomalies were weakly positively correlated with temperature and weakly negatively correlated with precipitation. Higher tree cover was associated with less greening, with a smaller effect observed in areas with deciduous needleleaf forests and under higher precipitation. Decadal variability left a regional, non-linear imprint: most pixels showed no breakpoints, but where present they often were temporally aligned with phase shifts in the Pacific Decadal Oscillation (PDO). Cup-shaped trends were concentrated in West Siberia, whereas hat-shaped trends were widespread across Europe, northeastern Asia, and Canada. Protected peatlands did not show different LAI trends when differences in climate and canopy were taken into account. Overall, recent peatland canopy change was not a uniform increase in greenness but reflected moisture-sensitive, composition-dependent responses modulated by decadal climate variability. Together, these results provide a circumpolar, peatland-specific baseline that clarifies where and why LAI is changing and enables evaluation of how moisture conditions, decadal variability, canopy composition, and protection status relate to recent canopy trajectories in northern peatlands.",
+      "doi": "10.5194/bg-23-7289-2026",
+      "authors": [
+        "Iuliia Burdun",
+        "Jiabin Pu",
+        "Ranga B. Myneni",
+        "Miina Rautiainen"
+      ],
+      "year": 2026,
+      "journal": "Biogeosciences",
+      "openalex_id": "W7130526217",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7130526217",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Peatlands store vast amounts of carbon, yet their canopies are changing under northern warming. We assessed recent vegetation trajectories by analysing greening and browning across northern peatlands using a gap-filled, sensor-independent climate data record of leaf area index (LAI) for 2001–2023.",
+      "added": false
+    },
+    {
+      "title": "INTEGRATED ENVIRONMENTAL QUALITY IN ASIA: A CRITICAL REVIEW OF WATER, CONTAMINANTS, WASTE, BIODIVERSITY, MONITORING, AND GOVERNANCE",
+      "abstract": "Environmental-quality challenges in Asia increasingly span connected water, chemical, waste, biodiversity, and governance systems. This critical review examines a bounded corpus of 57 Scopus records published during 2020–2026, of which 54 were substantively relevant, using Leung et al. (2020) as a conceptual baseline. The synthesis focuses on aquatic exposure, emerging contaminants and mixtures, waste and plastics, monitoring, biodiversity, remediation, and environmental governance. Across the corpus, evidence indicates methodological advances in analytical detection, effect-based assessment, native-species testing, spatial-temporal monitoring, and risk-based priority setting. However, the strength and geographical coverage of evidence are uneven, and many records provide descriptive or conceptual rather than directly comparable empirical evidence. The review therefore distinguishes corpus-supported findings from interpretive propositions. A six-function source-to-outcome-to-decision framework is presented as a conceptual synthesis of recurring evidence needs: pressure mapping, exposure characterization, biological-effect diagnosis, ecosystem-service and equity assessment, intervention appraisal, and adaptive governance. The framework is not presented as empirically validated; rather, it identifies testable links that require comparative application and field evaluation. The review concludes that stronger integration between monitoring, ecological interpretation, intervention assessment, and accountable decision processes is a priority for future environmental-quality research in Asian settings.",
+      "doi": null,
+      "authors": [
+        "Rahmawati A. Damiti",
+        "Abdul Haris Panai",
+        "Sukirman Rahim",
+        "Marini Susanti Hamidun"
+      ],
+      "year": 2026,
+      "journal": "Bulletin of Engineering Science Technology and Industry",
+      "openalex_id": "W7222991745",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222991745",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/6 key interest terms",
+      "tags": [],
+      "summary": "Environmental-quality challenges in Asia increasingly span connected water, chemical, waste, biodiversity, and governance systems. This critical review examines a bounded corpus of 57 Scopus records published during 2020–2026, of which 54 were substantively relevant, using Leung et al. (2020) as a conceptual baseline.",
+      "added": false
+    }
+  ]
+}
