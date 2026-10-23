@@ -1,0 +1,409 @@
+{
+  "date": "2026-10-23",
+  "statistics": {
+    "fetched": 129,
+    "duplicates_removed": 113,
+    "evaluated": 16,
+    "added": 2,
+    "ignored": 14,
+    "average_score": 2.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "An integrated wildfire event database for improved fire science research for the continental United States, 1992–2021",
+      "abstract": "Abstract. This paper describes a wildfire event dataset that was initially created by mining information from three existing national datasets that have provided the foundation for numerous wildfire studies in the continental United States over the past two decades. The goal for creating this dataset was to address existing uncertainties and ambiguities in the the existing datasets by using information from regional reports and datasets and searches of the world wide web. Wildfire events not contained in the three datasets were added as new records. Approaches were developed to harvest information for records where there were significant differences in the size of the same fire from different datasets. Specific attention was paid to fires named as complexes, those contained multiple fires, smaller events that had merged to form larger events, events that had joined, events where the size was incorrectly reported, and duplicate events. This new wildfire event dataset provides more accurate information on the number and sizes of individual wildfires and improved information for quantifying annual area burned and changes in extreme wildfire activity over a three-decade period (1992 to 2021) at different spatial scales. Results are presented that illustrate the differences in wildfire characteristics developed from the new dataset and those currently being used by the fire science community.",
+      "doi": "10.5194/essd-2026-660",
+      "authors": [
+        "Eric S. Kasischke",
+        "Nancy H. F. French"
+      ],
+      "year": 2026,
+      "journal": "Earth System Science Data Discussions",
+      "openalex_id": "W7223091393",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223091393",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 100%: matched 5/7 key interest terms (wildfire, wildfires, united, united states, states)",
+      "tags": [
+        "Wildfire",
+        "Wildfires",
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract. This paper describes a wildfire event dataset that was initially created by mining information from three existing national datasets that have provided the foundation for numerous wildfire studies in the continental United States over the past two decades.",
+      "added": true
+    },
+    {
+      "title": "Influence of natural and anthropogenic forcings on western US winter fire weather and the 2025 Los Angeles wildfires",
+      "abstract": "Abstract Winter fire weather is shaped by interactions between anthropogenic climate change and natural climate variability, yet how the combination of human and natural forcings influences winter fire weather conditions remains poorly quantified. This study uses a multiple linear regression framework that removes long-term CO 2 -related trends to examine the influence of natural modes of variability on the December–February monthly fire weather index over the western United States (WUS), with the January 2025 Los Angeles (LA) fire risk as a motivating case study. Results show that the El Niño Southern Oscillation (ENSO), Pacific North American pattern (PNA) and Atlantic Meridional Mode (AMM) significantly influence winter fire weather across the WUS, whereas the influence of CO 2 is more pronounced and generally significant over the interior regions, but less evident along the coastal areas of the WUS. Positive phases of the PNA and AMM, combined with La Niña–like conditions during December 2024 and January 2025, significantly elevated fire weather risk across southern California, including LA County. The elevated fire-weather conditions preceding the January 2025 fires in LA and surrounding regions were aggravated by the combined influence of the natural and anthropogenic modes. Our study also shows that anthropogenic CO 2 is associated with an estimated 10–20% increase in the chances of the 2024–25 fire weather over the WUS coastal states, although this contribution is not statistically significant, while La Niña and positive PNA significantly increase these chances by at least 20% across California and by more than twice across much of the WUS, including southern California and neighboring states. We find that large-scale natural climate modes combined with increases in greenhouse gas concentration provide valuable information for understanding and predicting WUS winter fire weather.",
+      "doi": "10.1088/1748-9326/aeb710",
+      "authors": [
+        "Abhishekh Srivastava",
+        "Mark D. Risser",
+        "Paul Aaron Ullrich",
+        "Michael F. Wehner"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7223134612",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223134612",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 81%: matched 5/7 key interest terms (large, wildfires, united, united states, states)",
+      "tags": [
+        "Large",
+        "Wildfires",
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract Winter fire weather is shaped by interactions between anthropogenic climate change and natural climate variability, yet how the combination of human and natural forcings influences winter fire weather conditions remains poorly quantified.",
+      "added": true
+    },
+    {
+      "title": "Water conservation and lake level protection for Great Salt Lake: What is it worth?",
+      "abstract": "Abstract: Great Salt Lake (GSL) is a critical ecological and economic resource in the western United States. Yet, declines in lake levels due to anthropogenic uses have heightened risks to habitat, industry, recreation, and health for the surrounding population. Restoring the lake to healthy levels will require substantial financial investments to fund water conservation programs. Using an incentive-compatible, advisory-referendum contingent valuation survey administered to 1,050 Utah residents, this study estimates Utah households’ willingness-to-pay (WTP) for a GSL conservation program designed to maintain healthy lake levels. Respondents voted on two dichotomous-choice questions, one for an increase in household water utility bills and one for an increase in state income taxes. Payment amounts were the same across both payment vehicles but varied across respondents. We estimate median annual household WTP using conditional logit models and nonparametric Turnbull estimators. Certainty calibration of voting responses yields median WTP estimates of approximately $37–$42 per household per year under a conservative recoding, rising to $113-$144 under moderate recoding. We find no statistical differences in WTP across payment vehicles. There is significant heterogeneity across socioeconomic and other subgroups, notably with higher WTP among members of the Church of Jesus Christ of Latter-day Saints, those experiencing respiratory health issues, and households employed in GSL-related industries. When aggregated, estimated values overlap with independent cost estimates for incentive-based agricultural water conservation, suggesting that public support may be sufficient to finance conservation investments. The results provide the first referendum-based, incentive-compatible valuation estimates for a GSL water conservation program.",
+      "doi": "10.22541/essoar.15010788/v1",
+      "authors": [
+        "Therese C. Grijalva",
+        "Robert P. Berrens",
+        "Carie M. Frantz",
+        "Matthew K. Gnagey",
+        "K. Zachary Bramwell",
+        "Nicholas S. Howard"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223118312",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223118312",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 3/7 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract: Great Salt Lake (GSL) is a critical ecological and economic resource in the western United States. Yet, declines in lake levels due to anthropogenic uses have heightened risks to habitat, industry, recreation, and health for the surrounding population.",
+      "added": false
+    },
+    {
+      "title": "Scaling climate adaptation planning: impacts and limitations of California’s Senate Bill 379 for local planning",
+      "abstract": "Abstract This study examines the impact of the first state-level climate change adaptation planning mandate in the United States, California’s Senate Bill 379 (SB379). We analyze the content of local plans before and after the mandate and compare the quality of the mandated plans with a sample of voluntary climate change adaptation plans developed by local governments across the U.S. The research finds that plans developed after the mandate incorporated more climate adaptation strategies, a greater variety of strategy types, and addressed a wider range of climate hazards. The mandate is associated with increased “mainstreaming” of climate adaptation, primarily through add-on and programmatic strategies. SB379-mandated plans scored higher overall compared to voluntary climate plans from other states but lower on addressing uncertainty. The findings indicate that state mandates like SB379 can effectively catalyze local climate adaptation planning, but challenges remain in achieving high-quality, actionable plans across diverse communities.",
+      "doi": "10.1007/s10584-026-04319-w",
+      "authors": [
+        "Philip G. Gilbertson",
+        "Sara Meerow"
+      ],
+      "year": 2026,
+      "journal": "Climatic Change",
+      "openalex_id": "W7223096158",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223096158",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 38%: matched 3/7 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Abstract This study examines the impact of the first state-level climate change adaptation planning mandate in the United States, California’s Senate Bill 379 (SB379).",
+      "added": false
+    },
+    {
+      "title": "Human-AI collaboration in crisis response: understanding adoption barriers and enablers for generative AI in emergency decision-making",
+      "abstract": "Abstract Human-AI collaboration in emergency management represents a critical socio-technical challenge that requires understanding both technological capabilities and human factors. This study examines the barriers and enablers influencing emergency decision-makers’ adoption of generative artificial intelligence, focusing on the complex interplay between individual, organizational, and technological factors in high-stakes crisis environments. Through expert interviews and intuitionistic fuzzy DEMATEL analysis involving Chinese emergency management practitioners, we identify five key dimensions affecting AI adoption: technology acceptance, decision-making processes, contextual factors, risk and trust, and individual factors. Our analysis within the Chinese emergency management context suggests that contextual factors and decision-making processes are perceived as primary drivers, while technology acceptance and individual factors serve as critical enablers shaped by organizational environments. The findings demonstrate that successful human-AI collaboration requires addressing social and technical dimensions simultaneously, with organizational support, trust-building, and individual self-efficacy emerging as fundamental requirements. These insights inform strategies for emergency management organizations to enhance human-AI integration through governance frameworks, transparency mechanisms, and targeted training programs, contributing empirical evidence to the growing literature on socio-technical aspects of AI adoption in critical decision-making contexts.",
+      "doi": "10.1057/s41599-026-09366-3",
+      "authors": [
+        "Liguo Fei",
+        "Jiayi Sun",
+        "Zongfeng Sun"
+      ],
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "openalex_id": "W7223181770",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223181770",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/7 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract Human-AI collaboration in emergency management represents a critical socio-technical challenge that requires understanding both technological capabilities and human factors.",
+      "added": false
+    },
+    {
+      "title": "Unwilling to leave, unable to stay: mechanism of plasticity in site fidelity as a rewarding tactic in changing environments",
+      "abstract": "Abstract Context Home-ranging is common among animal species, as site fidelity facilitates cognitive map development and promotes efficient habitat use. The adaptive value of site fidelity, however, should decline as habitat conditions change, yet empirical evidence remains limited, especially for wide-ranging species. Objectives We investigated how fire and forest harvesting affect home-range stability in boreal caribou, a species typically exhibiting strong site fidelity. We then identified conditions where fidelity increases mortality and when shifting home ranges becomes advantageous. Methods We monitored 331 GPS-collared caribou across 667,000 km 2 of boreal forest. Forest harvesting and fire disturbance levels were related to indices of home-range fidelity derived from the spatial proximity of locations across successive years. Survival was then evaluated in relation to habitat conditions following home-range adjustment. Results Recent forest disturbances reduced fidelity, indicating behavioral plasticity. However, the fitness consequences of fidelity were strongly context‑dependent. High fidelity reduced mortality level when individuals occupied or selected low‑disturbance home ranges, but increased mortality when individuals remained faithful to highly disturbed ranges, particularly those dominated by regenerating cuts. Conclusions The study provides empirical evidence that site fidelity acts as both an adaptive strategy and a liability, depending on disturbance context and scale. By linking disturbance history, behavioral decisions, and survival outcomes, our analyses demonstrate how home-range fidelity mediates indirect pathways to mortality and may create fidelity‑induced ecological traps. These findings highlight the importance of maintaining large, connected areas of low disturbance to preserve the adaptive value of site fidelity in threatened caribou populations.",
+      "doi": "10.1007/s10980-026-02472-2",
+      "authors": [
+        "V. V. Vladimirova",
+        "Glenn Yannic",
+        "Louis‐Paul Rivest",
+        "Sabrina Plante",
+        "Joëlle Taillon",
+        "Daniel Fortin"
+      ],
+      "year": 2026,
+      "journal": "Landscape Ecology",
+      "openalex_id": "W7223157155",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223157155",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/7 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract Context Home-ranging is common among animal species, as site fidelity facilitates cognitive map development and promotes efficient habitat use. The adaptive value of site fidelity, however, should decline as habitat conditions change, yet empirical evidence remains limited, especially for wide-ranging species.",
+      "added": false
+    },
+    {
+      "title": "Assessing Land Use and Land Cover Change in the Jamanxim River Region (Brazilian Amazon) from 2015 to 2025 Using CBERS-4/PAN Imagery",
+      "abstract": "Land use and land cover (LULC) changes in the Amazon are among the main drivers of biodiversity loss, ecosystem degradation, and the intensification of climate change. This study aimed to analyze the multitemporal dynamics of LULC around the Jamanxim River, Pará, Brazilian Amazon, between 2015 and 2025, using high-resolution imagery from the CBERS-4/PAN satellite. The study area covers 492.74 km², including part of the Jamanxim National Forest, a conservation unit under strong pressure from agricultural expansion and logging activities. The methodology included geometric correction of the images, Gram–Schmidt pansharpening, and supervised classification with the Random Forest algorithm, validated with historical imagery from Google Earth Pro. Thematic maps of land use and cover were generated, and performance metrics such as overall accuracy, omission and commission errors, and F1-scores were assessed. The results indicated a significant reduction in forest cover, from 412.28 km² in 2015 to 355.47 km² in 2025 (–13.78%). Non-vegetated areas increased by 132.47%, while agricultural areas expanded by 54.97%. The forest and water body classes showed high accuracy (F1-score > 0.95), while confusion persisted between agricultural and bare soil classes. Overall accuracy remained above 90% across all years, with the highest performance recorded in 2020 (96.31%). These results highlight the potential of CBERS-4/PAN imagery for monitoring multitemporal changes in tropical forest landscapes. At the same time, they reveal the intensification of deforestation and the growing threats to conservation in the Amazon, reinforcing the importance of remote sensing for environmental management and policy support.",
+      "doi": "10.29150/jhrs.v16i4.269068",
+      "authors": [
+        "Ubiratan Joaquim da Silva",
+        "Gabriel Henrique Santos Silva",
+        "Juarez Antonio da Silva",
+        "Anderson Luiz Ribeiro de Paiva",
+        "Leidjane Maria Maciel de Oliveira",
+        "Sylvana Melo dos Santos"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hyperspectral Remote Sensing",
+      "openalex_id": "W7223141286",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223141286",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 1/7 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Land use and land cover (LULC) changes in the Amazon are among the main drivers of biodiversity loss, ecosystem degradation, and the intensification of climate change.",
+      "added": false
+    },
+    {
+      "title": "Practical Tools for Fire Risk Assessment in Mediterranean Open Woodlands Using Handheld Laser Scanning and Unmanned Aerial Vehicle Photogrammetry",
+      "abstract": "Abstract Mediterranean forests are becoming increasingly vulnerable to wildfires. Given this, there is an urgent need for accurate, high-resolution data on canopy fuel characteristics to facilitate fire behavior modeling and guide risk mitigation efforts. This study assesses the performance of handheld mobile laser scanning (HMLS) and low-cost unmanned aerial vehicle digital aerial photogrammetry (UAV-DAP) in estimating key canopy fuel parameters and stand structural attributes, including canopy base height, stand height, canopy fuel load, canopy bulk density, and canopy cover. Field data were collected from 12 circular plots in open woodlands ( dehesas ) dominated by Quercus suber or Quercus ilex in the southwest of the Iberian Peninsula. Each plot was surveyed using traditional forest inventory, HMLS with a GeoSLAM ZEB Horizon scanner, and UAV DAP with RGB imagery processed using structure-from-motion techniques. In both cases, the resulting point clouds were processed using LiDAR360 software to extract canopy fuel parameters. HMLS yielded the most accurate estimates for most variables, with relative root mean square error (RMSE%) values ranging from 4% for canopy fuel load to 23.3% for canopy base height. UAV DAP showed a wider range of RMSE% values, from 5.9% for stand height to 41.2% for canopy bulk density, and was notably less effective for variables that require the characterization of subcanopy structure, such as canopy fuel load and canopy bulk density. These findings suggest that HMLS is a reliable and efficient tool for under-canopy data acquisition for small-scale forest managers to assess fire risk and provide reference data for high resolution fuel mapping, while UAV DAP may be a viable option for managers operating in areas that are difficult to access or require low-cost inventories.",
+      "doi": "10.1007/s11842-026-09668-z",
+      "authors": [
+        "Anabel Calzado Carretero",
+        "Agustín Jiménez-Palacios",
+        "Cristina Pérez-Carral",
+        "Javier Vázquez‐Piqué"
+      ],
+      "year": 2026,
+      "journal": "Small-scale Forestry",
+      "openalex_id": "W7223142139",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223142139",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 1/7 key interest terms (wildfires)",
+      "tags": [
+        "Wildfires"
+      ],
+      "summary": "Abstract Mediterranean forests are becoming increasingly vulnerable to wildfires. Given this, there is an urgent need for accurate, high-resolution data on canopy fuel characteristics to facilitate fire behavior modeling and guide risk mitigation efforts.",
+      "added": false
+    },
+    {
+      "title": "Health risks and lag effects of ambient PM2.5 exposure on respiratory and cardiovascular mortality and morbidity in Ratchaburi, Thailand",
+      "abstract": "Exposure to ambient PM 2.5 is a well-established environmental risk factor associated with adverse respiratory and cardiovascular health outcomes. Ratchaburi, Thailand, has experienced increasing concerns regarding ambient PM 2.5 pollution. This study investigated the associations between ambient PM 2.5 exposure and respiratory and cardiovascular mortality and morbidity in Ratchaburi from 2015 to 2019 using a distributed lag non-linear model (DLNM). The exposure–lag–response relationships were assessed on the current day of exposure and up to seven days following exposure. For all ages and all genders, a 10 µg/m³ increase in PM 2.5 was associated with a 5.42% (95% CI 1.85–9.12%) increase in respiratory mortality at lag0, and a 2.69% (95% CI 1.45–3.95%) increase in respiratory morbidity at lag0-6. Cardiovascular mortality increased by 3.55% (95% CI 0.23–6.99%) at lag0-5 and cardiovascular morbidity by 1.85% (95% CI − 0.24–3.98%) at lag0-6. The observed associations varied across age and gender categories. Elderly individuals generally showed higher risks for respiratory mortality, while adults showed higher risks for respiratory morbidity and cardiovascular mortality. Females generally showed higher associations for respiratory and cardiovascular morbidity, whereas males showed higher associations for cardiovascular mortality. Overall, the findings provide local epidemiological evidence regarding short-term PM 2.5 exposure and associated respiratory and cardiovascular health burdens in Ratchaburi, Thailand. The observed exposure–lag–response relationships support future public health planning and air quality management strategies related to PM 2.5 exposure in areas experiencing elevated PM 2.5 concentrations.",
+      "doi": "10.1038/s41598-026-62672-3",
+      "authors": [
+        "Sitthipong Pengjan",
+        "Sébastien Bonnet",
+        "Savitri Garivait"
+      ],
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "openalex_id": "W7223090892",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223090892",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Exposure to ambient PM 2.5 is a well-established environmental risk factor associated with adverse respiratory and cardiovascular health outcomes. Ratchaburi, Thailand, has experienced increasing concerns regarding ambient PM 2.5 pollution.",
+      "added": false
+    },
+    {
+      "title": "Kitajska pobuda Pas in Cesta kot ekonomska priložnost za sodelujoče države",
+      "abstract": "POVZETEKMagistrsko delo celovito preučuje kitajsko pobudo Pas in cesta ter vpliv le-te na gospodarstvo udeleženih držav ter Kitajske.Cilj naloge je preučiti ekonomske in geopolitične posledice pobude Pas in cesta ne le za Kitajsko, temveč tudi za sodelujoče članice pobude, na podlagi relevantne ekonomske literature in statističnih podatkov.Zaradi velikega deleža dolga, povezanega s pobudo, v bruto domačem proizvodu določenih držav članic pobude je raziskana možnost, da se kitajsko posojanje izvaja z namenom ustvarjanja geopolitičnega vzvoda.Pristop k nalogi je multidisciplinaren in poleg uporabe izključno ekonomske literature in podatkovnih baz vključuje tudi vire z drugih področij, kot so varnostne študije, mednarodni odnosi in zgodovina.Raziskava opozarja na potrebo odziva drugih držav na pobudo, s ciljem izboljšanja transportne infrastrukture in ohranjanja suverenosti.Delo prispeva k razumevanju ekonomskih učinkov pobude na svetovno gospodarstvo in netržnih vidikov projekta, kot sta mehka moč in geopolitični vpliv.",
+      "doi": null,
+      "authors": [
+        "Aljoša Gubenšek"
+      ],
+      "year": 2026,
+      "journal": "Repository of the University of Ljubljana (University of Ljubljana)",
+      "openalex_id": "W7223190227",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223190227",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "POVZETEKMagistrsko delo celovito preučuje kitajsko pobudo Pas in cesta ter vpliv le-te na gospodarstvo udeleženih držav ter Kitajske.Cilj naloge je preučiti ekonomske in geopolitične posledice pobude Pas in cesta ne le za Kitajsko, temveč tudi za sodelujoče članice pobude, na podlagi relevantne ekonomske literature in…",
+      "added": false
+    },
+    {
+      "title": "Enabling fire-safe gardens: a case study from Greater Hobart",
+      "abstract": "Garden management plays a crucial role in reducing bushfire risk at the wildland-urban interface, yet implementation of fire-safe practices remains challenging. An analysis of garden assessments and in-depth interviews with 23 property owners in Greater Hobart, Tasmania, examined how technical, social and emotional factors influence garden bushfire adaptation decisions. Using the Cynefin framework and complexity theory, this study demonstrates that successful adaptation addresses multiple domains of complexity, from straightforward vegetation management to complex socio-emotional attachments to garden spaces. Findings reveal that while personalised garden assessment reports can motivate change, their success depends on a broader set of conditions. Barriers include practical constraints (e.g. green waste management), emotional attachments to garden elements and difficulties obtaining context-specific guidance. By applying the As Low As Reasonably Practicable (ALARP) principle, this study identified cost-effective interventions across the 4 avenues of institutional support and resource management, individual garden bushfire adaptation, personalised technical guidance and community support networks. This research suggests that creating fire-adapted gardens requires coordinated support systems that address both practical implementation challenges and emotional connections to garden spaces.",
+      "doi": "10.47389/41.4.16",
+      "authors": [
+        "Anna Marie Gjedrem",
+        "Stefania Ondei",
+        "Owen Francis Price",
+        "Grant James Williamson",
+        "David M. J. S. Bowman"
+      ],
+      "year": 2026,
+      "journal": "Australian Journal of Emergency Management",
+      "openalex_id": "W7223149564",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223149564",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Garden management plays a crucial role in reducing bushfire risk at the wildland-urban interface, yet implementation of fire-safe practices remains challenging. An analysis of garden assessments and in-depth interviews with 23 property owners in Greater Hobart, Tasmania, examined how technical, social and emotional fac…",
+      "added": false
+    },
+    {
+      "title": "From Critical Transitions to Sustainability Transformations: Phenomena, Theory, and Applications Across Disciplines",
+      "abstract": "There has been a recent surge in the use of terms describing systemic change processes across science, policy, and public debate. The associated change phenomena are often assumed to be abrupt and irreversible once critical thresholds are crossed. However, the interchangeable use of terms leaves definitions and the underpinning scientific theory unclear, which can lead to misconceptions about transition processes and potential impacts. Here, we present selected empirical examples representing phenomena of tipping points, regime shifts, critical transitions, phase transitions, social and socio-technical transitions, and sustainability transformations, together with their underlying theory derived from the broadly defined domains of physics and mathematics, Earth science and ecology, social sciences, and their interdisciplinary overlaps. We bring these fields into closer conversation, creating a shared understanding of each of the conceptual roots, phenomena, mechanisms, and specific applications. This can help steward the governance of social-ecological change towards more just and sustainable futures.",
+      "doi": "10.48550/arxiv.2610.24119",
+      "authors": [
+        "Elisabeth Krueger",
+        "Koustav Halder",
+        "Woi Oh",
+        "Nusrat Molla",
+        "Juan C. Rocha",
+        "Giuseppe Ferro",
+        "G. Falmagne",
+        "Annie B. Stephenson",
+        "Lan Wang Erlandsson",
+        "Jacques Bara",
+        "George I. Hagstrom",
+        "Nico Wunderling",
+        "Jiayu Li",
+        "Xander Huggins",
+        "Emma R. Zajdela",
+        "Harman Jaggi",
+        "Sara Madureira Constantino",
+        "Caronline Schill",
+        "Vítor Vasco Lourenço de Vasconcelos"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7223015477",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223015477",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "There has been a recent surge in the use of terms describing systemic change processes across science, policy, and public debate. The associated change phenomena are often assumed to be abrupt and irreversible once critical thresholds are crossed.",
+      "added": false
+    },
+    {
+      "title": "Occupational health risks from climate-related and infectious-disease stressors: A scoping review of worker safety and resilience",
+      "abstract": "Objective This scoping review examines how climate-related stressors and infectious-disease conditions, including pandemic-related workplace disruptions, interact to influence worker health, vulnerability, and occupational resilience. The review focuses on shared exposure pathways, vulnerable worker populations, methodological patterns, policy gaps, and strategies for strengthening worker safety under compound hazards. Rather than treating pandemics as isolated events, the review uses pandemic conditions as a lens to understand broader, recurring occupational risks and to inform strategies for building safer and more resilient workplaces under compound hazards. Methods Following PRISMA-ScR guidelines, a structured literature search was conducted in PubMed, Scopus, Web of Science, and Google Scholar for English-language peer-reviewed and formally structured evidence sources published primarily between January 2020 and April 2025, with one pre-2020 policy study retained for foundational context. Out of 612 records initially identified, 10 studies or sources met the inclusion criteria across healthcare, agriculture, construction, emergency response, and other high-exposure sectors after systematic screening and eligibility assessment. Data were charted and synthesized by occupational sector, geographic region, exposure type, worker vulnerability, and methodological approach. Results The evidence indicates that climate-related and infectious-disease stressors frequently converge, amplifying physical, environmental, and psychosocial pressures on workers. Disproportionate risks were observed among migrant workers, informal laborers, low-income populations, older adults, women, and seasonal or cross-border agricultural workers, particularly where access to healthcare, legal protections, or adaptive infrastructure was limited. Most studies relied on descriptive, qualitative, cross-sectional, conceptual, or review-based designs, with limited use of predictive modeling, geospatial analysis, longitudinal evidence, or integrated datasets. Policy responses were often fragmented, with climate adaptation and infection-control measures addressed separately despite overlapping benefits. Conclusions Climate-related and infectious-disease stressors interact to reinforce occupational health inequities and expose persistent gaps in worker protection. The findings highlight the need for integrated, multi-hazard occupational health strategies that align climate adaptation, infection prevention, and psychosocial support. Embedding data-driven early-warning systems, equitable protections for vulnerable workers, and cross-sector coordination into occupational policies may help strengthen workforce resilience during routine operations as well as future climate extremes and public health crises. However, the findings should be interpreted with caution because of the limited number of available studies combining climate-related and infectious-disease occupational risks, heterogeneous study designs, and the emerging nature of the evidence base. Furthermore, since this scoping review maps evidence rather than formally grading evidence strength or testing causal relationships, recommendations should be interpreted as evidence-informed directions for future occupational-health planning and research.",
+      "doi": "10.1371/journal.pone.0361296",
+      "authors": [
+        "Muhammed Abdul Odud",
+        "Omar I. Abdul‐Aziz"
+      ],
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "openalex_id": "W7223105758",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223105758",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Objective This scoping review examines how climate-related stressors and infectious-disease conditions, including pandemic-related workplace disruptions, interact to influence worker health, vulnerability, and occupational resilience.",
+      "added": false
+    },
+    {
+      "title": "Sustainability-Driven Risk Management in Infrastructure Projects",
+      "abstract": "Sustainability-Driven Risk Management in Infrastructure Projects addresses the need to integrate sustainability into risk management practices for infrastructure development. It emphasizes the importance of embedding environmental, social, governance (ESG), and resilience considerations early in project planning and decision-making processes, rather than treating them as late-stage add-ons. The book is structured into five parts, each addressing key aspects of sustainability-driven risk management. Part I establishes foundational concepts and defines the approach. Part II maps the sustainability risk landscape, exploring stakeholders, governance, and risk processes. Part III rethinks project success, demonstrating practical applications of sustainability-driven risk management. Part IV introduces digital tools and advanced methods, such as option appraisal, design review, and resilience planning, to support infrastructure decisions. Part V examines barriers to adoption, enabling conditions, and future directions, culminating in an integrated framework for sustainable risk management. Throughout, strategically selected examples illustrate concepts, trade-offs, and sector-specific applications, ensuring relevance across diverse infrastructure contexts. The book provides a key source of guidance for infrastructure practitioners seeking to achieve sustainable and resilient outcomes and is designed for advanced professionals and academics, including postgraduate students, doctoral researchers, and practitioners in infrastructure-related roles. It targets engineers, project managers, risk managers, and sustainability professionals, as well as consultants, financiers, and insurers involved in infrastructure projects. With its global perspective, the book is suitable for readers across regions, offering actionable insights for infrastructure owners, regulators, and policymakers navigating the challenges of climate resilience, ESG integration, and sustainable development.",
+      "doi": "10.1201/9781042023653",
+      "authors": [
+        "Mohamed Elseknidy",
+        "Ahmed Farouk Kineber",
+        "M.K.S. Al-Mhdawi",
+        "Ayodeji Emmanuel Oke"
+      ],
+      "year": 2026,
+      "journal": "Routledge eBooks",
+      "openalex_id": "W7223146736",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223146736",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Sustainability-Driven Risk Management in Infrastructure Projects addresses the need to integrate sustainability into risk management practices for infrastructure development.",
+      "added": false
+    },
+    {
+      "title": "Integrating land-use and climate connectivity to link protected areas at the country level",
+      "abstract": "Abstract Context Ecological corridors that are high in biodiversity potential and stable under climate change are central to long-term conservation planning. Yet spatial prioritization frameworks rarely integrate land-use resistance and climate stability into a unified approach, limiting their operational value for landscape management and policy. Objectives We aimed to develop an ecological connectivity framework that jointly incorporates land-use resistance and climate stability to map linkages among protected areas, and to quantify and communicate methodological uncertainty arising from key parameterization choices. Methods We applied the framework to Portugal's terrestrial protected-area network. Using a full factorial design, we varied land-use resistance, climate resistance, and dispersal capacity across multiple weightings to generate optimized linkage solutions. Selection-frequency maps derived from these solutions fed a second optimization round, producing an ensemble connectivity solution and buffered corridors. Results Individual solutions covered 0.74% of Portugal's unprotected land; the ensemble covered 0.07%, rising to 2.3% after a 1 km buffer. Dispersal capacity parameterization introduced greater uncertainty in connectivity outcomes than land-use or climate resistance scores, suggesting it deserves particular attention in future studies. Protected areas in the Central–North region emerged as the most critical network hubs, with the highest centrality under both resistance gradients. The ensemble highlighted areas of high concordance across parameterizations, improving the robustness of spatial priorities. Conclusions Integrating land-use and climate resistance identifies corridors that are both functional and climate-resilient. Explicitly mapping uncertainty and producing ensemble-prioritized linkages improves the reliability of spatial recommendations, offering planners a practical tool for embedding connectivity targets into conservation and land management decisions.",
+      "doi": "10.1007/s10980-026-02473-1",
+      "authors": [
+        "Diogo Alagador",
+        "Ana Ceia‐Hasse",
+        "Filipe S. Dias",
+        "Jeremy Dertien",
+        "Miguel B. Araújo",
+        "Francisco Moreira"
+      ],
+      "year": 2026,
+      "journal": "Landscape Ecology",
+      "openalex_id": "W7223100661",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223100661",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Abstract Context Ecological corridors that are high in biodiversity potential and stable under climate change are central to long-term conservation planning. Yet spatial prioritization frameworks rarely integrate land-use resistance and climate stability into a unified approach, limiting their operational value for lan…",
+      "added": false
+    },
+    {
+      "title": "How Australian fire and rescue service personnel would like to improve their decision-making learning and training programs",
+      "abstract": "Effective management of the response to an incident or emergency event is critically dependent on the decision-making skills of incident and emergency management (IEM) personnel. In a series of workshops conducted in 2022 by Natural Hazards Research Australia, priorities were identified that specified future needs for the practice and training of IEM decision-making. The research in this paper contributes to the understanding of how to address these priorities by considering the views of a sample of fire and rescue service personnel about their agency’s current decision-making training program and aspects to improve. This paper provides findings from 34 semi-structured interviews with fire and rescue services personnel in Australia. The sample comprised 29 men and 5 women. Participants worked in rural fire services (n=17), urban fire services (n=9) and State Emergency Services (n=8). The findings suggest that there is need for greater training focus on emergency management decision-making, greater use of exercise-based training activities, a formal approach to mentoring and coaching staff development programs and mandatory refresher courses and review exercises to maintain incident management skills. Australian fire and rescue services agencies need to ensure they are taking a strategic and holistic approach to emergency management learning and development programs.",
+      "doi": "10.47389/41.4.51",
+      "authors": [
+        "Jim McLennan",
+        "Peter Hayes",
+        "Chris Bearman",
+        "Greg Penney",
+        "Rhona H. Flin",
+        "Philip C. Butler"
+      ],
+      "year": 2026,
+      "journal": "Australian Journal of Emergency Management",
+      "openalex_id": "W7223106145",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223106145",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/7 key interest terms",
+      "tags": [],
+      "summary": "Effective management of the response to an incident or emergency event is critically dependent on the decision-making skills of incident and emergency management (IEM) personnel.",
+      "added": false
+    }
+  ]
+}
