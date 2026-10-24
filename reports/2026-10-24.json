@@ -1,0 +1,451 @@
+{
+  "date": "2026-10-24",
+  "statistics": {
+    "fetched": 126,
+    "duplicates_removed": 109,
+    "evaluated": 17,
+    "added": 2,
+    "ignored": 15,
+    "average_score": 2.0
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "In the wake of California wildfires: Promoting psychological resilience for individuals and communities.",
+      "abstract": "Climate change is increasing the frequency, intensity, and duration of wildfires in the United States, with Western states like California heavily impacted.Wildfires pose direct risks to individuals (e.g., property destruction, loss of life) and indirect risks through exposure to harmful fine particulate matter (PM 2.5 ) from wildfire smoke.However, the psychological impacts of wildfire exposure are largely understudied.To address this gap, this article will (a) review existing literature on mental health impacts of wildfires, (b) present new empirical findings on mental health impacts of exposure to wildfires and wildfire-induced PM 2.5 among Californian residents, and (c) discuss key takeaways for mental health practitioners.We conducted a secondary data analysis of California households that took part in NielsenIQ's Annual Ailments, Health, and Wellness Survey from 2011 to 2017.Participants (N = 22,509) reported whether any household member had experienced depression and/or anxiety in the past 6 months.We linked these data, at the zip code level, with past-year environmental data on wildfire and wildfire smoke (PM 2.5 ) exposure.Adjusting for key sociodemographic variables, fixed-effect models show exposure to both wildfires and PM 2.5 was associated with significantly greater probability of household depression and/or anxiety in the following year.Clinicians should be aware of mental health needs associated with wildfire exposure, including wildfire smoke exposure.The need for enhanced monitoring of mental health symptoms during times of acute and chronic exposure is discussed, as well as opportunities to rapidly deploy mental health resources to promote psychological resilience in affected communities. Clinical Impact StatementExposure to wildfires and harmful wildfire smoke is associated with increased risk of depression and anxiety, underscoring the serious mental health consequences of climate change.Practitioners should be ready to implement timely screening and referral systems, as well as provide direct services to affected individuals, both during and after wildfires and periods of wildfire smoke exposure to promote psychological resilience.",
+      "doi": "10.1037/pri0000347",
+      "authors": [
+        "Sayward E. Harrison",
+        "Tamara Lynn Sheldon",
+        "Crystal Zhan",
+        "David M. Anderson",
+        "Xiaoming Li"
+      ],
+      "year": 2026,
+      "journal": "Practice Innovations",
+      "openalex_id": "W7223207884",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223207884",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 77%: matched 6/9 key interest terms (wildfires wildfire, united, wildfires, united states, states)",
+      "tags": [
+        "Wildfires Wildfire",
+        "United",
+        "Wildfires",
+        "United States",
+        "States"
+      ],
+      "summary": "Climate change is increasing the frequency, intensity, and duration of wildfires in the United States, with Western states like California heavily impacted.Wildfires pose direct risks to individuals (e.g., property destruction, loss of life) and indirect risks through exposure to harmful fine particulate matter (PM 2.5…",
+      "added": true
+    },
+    {
+      "title": "Climate-driven ponderosa pine dieback and regionally variable pathogen pressure across the western United States",
+      "abstract": "Ponderosa pine ( Pinus ponderosa ) is a foundational species in dry-forest landscapes across western North America. Ongoing warming and aridification intensify climatic stress across its native range. Prior research on ponderosa pine health is regional in scope and focuses on single disturbances, leaving the combined influence of climate, stand structure, and biotic agents on dieback and mortality poorly understood. To address these knowledge gaps, we surveyed sites across California, Colorado, Idaho, Montana, and Wyoming during 2024 and 2025. At each site, we characterized stand conditions, assessed tree health, and collected tissue samples for pathogen identification. Long-term changes in climate were also recorded at each site to test associations between tree health and biotic and abiotic factors. Recent climate trends included reduced precipitation, elevated mean temperatures, and changes in vapor pressure deficit, indicating the potential for climatic stress on trees. Of the 324 trees surveyed, 25.8% had detections of pathogens and symptoms consistent with pathogen infection. Pathogens were composed of two functional groups: (1) needle and branch pathogens, including the widely distributed endophyte, Sydowia polyspora , primarily associated with trees of moderately poor health status, and (2) vascular stain fungi that were strongly linked to recent mortality. Only S. polyspora showed significant relationships with abiotic conditions in generalized linear models, while non-metric multidimensional scaling revealed clear geographic structuring of pathogen assemblages. In summary, our study suggests that climatic stress is associated with increases in host vulnerability to biotic agents, while fungal pathogens exhibit distinct associations with moderate decline and recent mortality.",
+      "doi": "10.1016/j.foreco.2026.124354",
+      "authors": [
+        "Michael D. McKee",
+        "Kelly S. Burns",
+        "Ashley E. Hawkins",
+        "Christine McTavish",
+        "Maria S. Newcomb",
+        "Mee‐Sook Kim",
+        "Ned B. Klopfenstein",
+        "Thomas Seth Davis",
+        "Jane E. Stewart"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7223223279",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223223279",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 65%: matched 3/9 key interest terms (united, united states, states)",
+      "tags": [
+        "United",
+        "United States",
+        "States"
+      ],
+      "summary": "Ponderosa pine ( Pinus ponderosa ) is a foundational species in dry-forest landscapes across western North America. Ongoing warming and aridification intensify climatic stress across its native range.",
+      "added": true
+    },
+    {
+      "title": "Airborne Polycyclic Aromatic Hydrocarbons (PAHs) in 20 Homes Several Months After the 2023 Maui Wildfires",
+      "abstract": "Exposure to polycyclic aromatic hydrocarbons (PAHs) is associated with adverse health outcomes, including cancer. PAHs are emitted by wildfires and may persist in indoor environments following smoke events. To better understand post-wildfire PAH persistence inside residences, we sampled for 16 airborne PAHs at 20 homes in Lāhainā, Hawaiʻi, 5-7 months after the 2023 Maui wildfires, both before and after deploying an additional air purifier on top of existing indoor filtration and purification systems. Additionally, we surveyed building occupants about pollution-relevant behaviors. Concentrations of all indoor airborne PAHs fell below risk-based screening levels. Estimated cumulative cancer risks and hazard indices were all below 1 × 10-6 and 1, respectively. We found higher concentrations of low-molecular-weight PAHs than highmolecular-weight PAHs. The results of source attribution using indoor/outdoor ratios, principal component analysis, and diagnostic ratios are somewhat equivocal, but we could not clearly identify a biomass-combustion-related source of the indoor airborne PAHs. We found little association between self-reported occupant behaviors and PAH levels, and we found no significant effect of the air purifier on indoor PAH concentraties. These results suggest that there was not substantial fire-related airborne PAH contamination inside local residences several months after a major wildfire event.",
+      "doi": "10.26434/chemrxiv.15010848/v1",
+      "authors": [
+        "Joseph P. Pendleton",
+        "Zahra Keshavarz",
+        "Jose Vallarino",
+        "Christopher Shuler",
+        "Sayed M. Bateni",
+        "Joseph G. Allen",
+        "Parham Azimi"
+      ],
+      "year": 2026,
+      "journal": "ChemRxiv",
+      "openalex_id": "W7223185232",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223185232",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 2/9 key interest terms (wildfires, wildfire)",
+      "tags": [
+        "Wildfires",
+        "Wildfire"
+      ],
+      "summary": "Exposure to polycyclic aromatic hydrocarbons (PAHs) is associated with adverse health outcomes, including cancer. PAHs are emitted by wildfires and may persist in indoor environments following smoke events.",
+      "added": false
+    },
+    {
+      "title": "Integrative analysis of climate change drivers using ISM DEMATEL approach for structural decision making",
+      "abstract": "This study aims to explore and structure the complex interplay of key climate change drivers using an integrated Interpretive Structural Modeling (ISM) and Decision-Making Trial and Evaluation Laboratory (DEMATEL) approach. By focusing on 14 variables identified through expert consensus, the study seeks to uncover the hierarchical structure and causal relationships influencing climate change, particularly within the context of developing countries such as Indonesia. Structured expert interviews were conducted to build the Structural Self-Interaction Matrix (SSIM), followed by the construction of Initial and Final Reachability Matrices (IRM and FRM). DEMATEL analysis was then applied to derive the Total Influence Matrix and identify cause-effect groupings. The findings reveal that deforestation (V1), industrial emissions (V4), and weak environmental regulations (V10) emerge as high-impact causal factors. Meanwhile, renewable energy adoption (V14) and population growth (V9) appear as highly dependent effects. ISM partitioning highlighted foundational factors at lower levels and more symptomatic outcomes at the top, offering a layered understanding of intervention priorities. This integrated framework enables the identification of leverage points that could guide more coherent and impactful climate strategies. The study’s main contribution lies in providing a methodological synthesis of ISM and DEMATEL to model climate drivers holistically. Unlike previous research that often treats these drivers in isolation, this approach unveils their interdependencies and dynamic influences. The originality of this work stems from its application in the Southeast Asian context, providing empirical insights and strategic directions for climate governance in similarly vulnerable regions.Clinical trial number: Not applicable.",
+      "doi": "10.1007/s44274-026-01139-8",
+      "authors": [
+        "Asep Marfu",
+        "David Tanubrata",
+        "Dewi Indah Pratiwi",
+        "Henita Rahmayanti",
+        "Uswatun Hasanah",
+        "I Made Astra"
+      ],
+      "year": 2026,
+      "journal": "Discover Environment",
+      "openalex_id": "W7223176672",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223176672",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 22%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "This study aims to explore and structure the complex interplay of key climate change drivers using an integrated Interpretive Structural Modeling (ISM) and Decision-Making Trial and Evaluation Laboratory (DEMATEL) approach.",
+      "added": false
+    },
+    {
+      "title": "Long-term evolution and effects of primary brown carbon aerosol in China",
+      "abstract": "Abstract. Brown carbon (BrC) is a light-absorbing component of organic aerosols that influences atmospheric environment and climate. Although, biomass burning is recognized as the major source of primary BrC (PBrC) globally anthropogenic sources can contribute comparably or more to PBrC in regions with intensive human activities, yet variations in concentrations and effects of PBrC remain underexplored in China where dramatic emission changes occurred in last two decades. We apply an internal mixing model to simulate the long-term (2005–2020) variations of PBrC surface and vertical concentrations and their effects across China. The mean surface PBrC concentration is 0.81 μgC m-3, with anthropogenic emissions dominating: residential, industrial combustion, and agricultural sectors contribute on average 57 %, 22 %, and 18 %, respectively, together accounting for 91 % of column concentrations in 2010. PBrC (-20.8 %) declined more than PM2.5 (-8.1 %), accompanied by a slight reduction in O3 and a decrease in direct radiative effect (DRE) from +0.032 W m-2 in 2005 to +0.023 W m-2 in 2020 (-25.7 %), with anthropogenic sources contributing 84.2 % of total DRE. This study provides the first long-term assessment of PBrC trends, sources, and radiative effects in human-dominated regions, demonstrating that emission controls can deliver both environment and climate co-benefits.",
+      "doi": "10.5194/acp-26-14867-2026",
+      "authors": [
+        "Guochao Chen",
+        "Yiheng Wang",
+        "Qi Ying",
+        "Xiaofei Wang",
+        "Hongliang Zhang"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7140304866",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7140304866",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 1/9 key interest terms (burning)",
+      "tags": [
+        "Burning"
+      ],
+      "summary": "Abstract. Brown carbon (BrC) is a light-absorbing component of organic aerosols that influences atmospheric environment and climate. Although, biomass burning is recognized as the major source of primary BrC (PBrC) globally anthropogenic sources can contribute comparably or more to PBrC in regions with intensive human…",
+      "added": false
+    },
+    {
+      "title": "Human and climate-environment interactions in Pyrenean landscapes: a Lateglacial-Holocene multiproxy reconstruction",
+      "abstract": "Abstract. Mountain ecosystems present a complex challenge in disentangling the drivers of their long-term transformation. The subalpine belt of the Pyrenees, once forested, is now characterised by a mosaic of forest patches and open landscapes, and represents a key region in herding practices. However, the relative contributions of climate and human activity in driving its change remain intensely contested. We present a high-resolution, multi-proxy reconstruction of landscape dynamics over the last 25,000 years from the southern Pyrenees. By integrating mammal herbivores, fire regime and vegetation dynamics through sedimentary ancient DNA, pollen and charcoal analyses we aim to compare these proxies and identify the timing and drivers of vegetation change and to distinguish anthropogenic from climatic forces. Our results reveal a multi-phase evolution, with Lateglacial and postglacial forest expansion followed by Mid-Holocene openness, initially triggered by Neoglacial cooling but subsequently maintained by pastoral activities. We find that humans opportunistically exploited this openness from the Mid-Holocene onwards, later transitioning to active landscape management through fires and grazing. This study demonstrates that current Pyrenean landscapes are not a product of either humans or climate, but of their synergy over millennia. Effective conservation strategies must integrate an understanding of this deep ecological history with the emulation of traditional practices to preserve these unique, human-shaped biodiversity hotspots.",
+      "doi": "10.5194/bg-23-7411-2026",
+      "authors": [
+        "Irene Julián-Posada",
+        "Graciela Gil‐Romera",
+        "Ana Moreno",
+        "Bérangère A. Leys",
+        "Blas Lorenzo Valero-Garces",
+        "Penélope González‐Sampériz"
+      ],
+      "year": 2026,
+      "journal": "Biogeosciences",
+      "openalex_id": "W7162126728",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7162126728",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/9 key interest terms (drivers)",
+      "tags": [
+        "Drivers"
+      ],
+      "summary": "Abstract. Mountain ecosystems present a complex challenge in disentangling the drivers of their long-term transformation. The subalpine belt of the Pyrenees, once forested, is now characterised by a mosaic of forest patches and open landscapes, and represents a key region in herding practices.",
+      "added": false
+    },
+    {
+      "title": "EU forest carbon sink decline as seen by Earth observation and national inventories",
+      "abstract": "Abstract. The declining European forest carbon uptake in recent years is challenging the capacity of European forests to remain carbon sinks, while the European Union’s climate policy relies on this large natural carbon sink to meet its climate targets. The decreased forest carbon sink is thought to be caused by a combination of increased harvest, severe droughts, bark beetle infestations, tree mortality, and slow-down in tree growth causing reduced CO2 uptake. Yet several knowledge gaps remain, importantly a lack of a reconciliation and country-scale quantitative comparison of carbon losses from recent forest disturbances. In the past years, several estimates of forest C fluxes and losses over Europe based on remote sensing have been developed, complementing national greenhouse gas inventory (NGHGI) information. However, an in-depth intercomparison between these various approaches is needed to derive common best estimates of recent C losses, as well as define mutual benefits and individual weaknesses of the different data streams. Here we investigate the recent changes in the European forest carbon sink by combining new high-resolution Earth Observation (EO)-based estimates of forest aboveground biomass carbon (AGC), forest disturbance and recovery, EO-based bookkeeping models, atmospheric CO2 inversions, and NGHGI approaches. We find that all datasets agree on a reduction of forest C uptake in 2020–2023 by 17–27 % compared to the average of 1990–2019 (-135 to -233 TgC/yr), with a remaining forest C sink in 2020–2023 in the range of -100 to -193 TgC/yr. Central and boreal European forest C sink losses contribute most substantially to the observed reduction of the net forest C sink over Europe. This increase in C losses is more strongly driven by effects of natural disturbance than increased harvest, where natural disturbance C losses increased 2.6-fold in central and 1.4-fold in boreal Europe in 2020–23 compared to 2010–2019. EO data at high resolution detect disturbances at lower or higher magnitude to forest C losses reported in NGHGI. Depending on resolution of the satellite product and disturbance detection approach, C losses from small-scale disturbances and management may be better detected, as higher spatial resolution allows capturing small scale heterogeneity. Despite overall agreement of different data streams, we find discrepancies of 2–3 fold difference in AGC and carbon losses estimated for each country between NGHGIs and EO-based datasets. We highlight regional differences across the continent and discuss advantages and challenges of the complementary data streams, with a focus on how high resolution EO and NGHGIs can benefit each other.",
+      "doi": "10.5194/egusphere-2026-6189",
+      "authors": [
+        "Nora Linscheid",
+        "Laura Mayer",
+        "Chiara Aquino",
+        "Manuela Balzarolo",
+        "Maria Vincenza Chiriacò",
+        "Mélanie Juillard",
+        "Martin Brandt",
+        "Emilio Chuvieco",
+        "Philippe Ciais",
+        "Maoyuan Feng",
+        "Rasmus Fensholt",
+        "Teja Kattenborn",
+        "Amin Khairoun",
+        "Katja Kowalski",
+        "Siyu Liu",
+        "Joachim Maack",
+        "Clemens Mosig",
+        "Pierre Regnier",
+        "Cornelius Senf",
+        "Alba Viana‐Soto",
+        "Yidi Xu",
+        "Yanzi Yan",
+        "Ana Bastos"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223187997",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223187997",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract. The declining European forest carbon uptake in recent years is challenging the capacity of European forests to remain carbon sinks, while the European Union’s climate policy relies on this large natural carbon sink to meet its climate targets.",
+      "added": false
+    },
+    {
+      "title": "Pedogenic magnetic enhancement in a Latossolo Vermelho (Oxisol) formed on slate in the Brazilian Cerrado: an integrated record of repeated wetting–drying cycles",
+      "abstract": "Seasonal wetting–drying cycles in tropical soils can drive redox reactions that control the formation and transformation of ferrimagnetic iron oxides. In the profile-scale case study, we investigated a well-drained, clayey Latossolo Vermelho (Oxisol/ Ferralsol) developed on weakly magnetic slate in the Brazilian Cerrado. The profile was sampled to 190 cm depth in the dry season (July 2023) and at the end of the wet season (April 2024). Magnetic susceptibility, thermomagnetic curves, hysteresis loops, first-order reversal curves, isothermal and anhysteretic remanent magnetization, and coercivity spectrum unmixing were combined with soil properties, X-ray diffraction, and Raman and ATR-FTIR spectroscopy. Low-field susceptibility on the upper horizons (up to ~233 × 10⁻⁸ m³ kg⁻¹) was more than 30 times higher than that of the parent slate (~6 × 10⁻⁸ m³ kg⁻¹), and the soil is dominated by low-coercivity ferrimagnets, whereas the slate is dominated by high-coercivity hematite. High frequency-dependent susceptibility (~12%) and median ARM acquisition fields of ~12–13 mT indicate a fine-grained (superparamagnetic to single-domain) magnetite–maghemite assemblage, probably spanning a range of oxidation states, coexisting with hematite. The magnetic enhancement is therefore predominantly pedogenic. Despite contrasting hydrological conditions, seasonal differences were subtle, indicating that the magnetic signature reflects an integrated memory of repeated wetting–drying cycles rather than a rapidly reversible response to a single season. The mineral assemblage and pedoclimatic setting are consistent with a long-term mechanism, inferred rather than directly observed, involving magnetite neoformation in transiently anoxic microsites, possibly through microbial Fe (III) reduction, followed by partial oxidation to maghemite.",
+      "doi": "10.31223/x5781q",
+      "authors": [
+        "Bianca Vale",
+        "Elder Yokoyama",
+        "Uidemar Barral",
+        "Janine Carmo",
+        "Arthur Macedo",
+        "Adriana Horbe",
+        "Alexandre Santos",
+        "Sebastião da Silva"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223247434",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223247434",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (states)",
+      "tags": [
+        "States"
+      ],
+      "summary": "Seasonal wetting–drying cycles in tropical soils can drive redox reactions that control the formation and transformation of ferrimagnetic iron oxides. In the profile-scale case study, we investigated a well-drained, clayey Latossolo Vermelho (Oxisol/ Ferralsol) developed on weakly magnetic slate in the Brazilian Cerrad…",
+      "added": false
+    },
+    {
+      "title": "Land Use, Sustainability, and Democratic Backsliding",
+      "abstract": "Abstract. Land use and land systems, i.e. how human societies manage and interact with land through social-ecological systems, are at the core of sustainability issues. Democratic backsliding, i.e. the decline or degradation of the institutions and social norms that sustain democratic societies, is a widespread and impactful trend, with strong but understudied two-ways linkages with land use dynamics. From protests instrumentalized by the far right against agricultural, nature restoration and land management policies, to regimes rejecting democracy and furthering extractivist economies based on mining, logging and large-scale investments, to right-wing populist discourses and movements blending denial of sustainability issues and nationalism, or authoritarian regimes spearheading tropical deforestation, the articulation between democratic backsliding and land use unsustainability is a massive challenge for contemporary societies and nature. Novel and robust scientific knowledge on these linkages is crucial to unlock this feedback loop and identify pathways to reconcile land use sustainability and democracy. In this paper, I argue that we need key contributions to understanding the linkages between these issues, with (i) explicit articulation and embedding of democratic backsliding concerns and knowledge within land system and sustainability science – moving beyond a focus of democratic backsliding research on social, economic and political aspects, and beyond a focus of sustainability science on policy rather than politics – ; (ii) spatial, quantitative causal analyses of linkages between multiple forms of democratic backsliding and land use changes and related environmental impacts – moving beyond mostly qualitative, political analyses – ; (iii) syntheses and theory building on these two-way interactions.",
+      "doi": "10.5194/ls-2026-12",
+      "authors": [
+        "Patrick Meyfroidt"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223181355",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223181355",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract. Land use and land systems, i.e. how human societies manage and interact with land through social-ecological systems, are at the core of sustainability issues. Democratic backsliding, i.e.",
+      "added": false
+    },
+    {
+      "title": "Unexpected land-surface warming following a relatively limited-forcing hypothetical nuclear war",
+      "abstract": "Abstract. Nuclear conflicts could ignite intense urban fires that inject considerable amounts of black carbon (BC) into the upper atmosphere, with the potential to disrupt global climate. While uncertainties in the total BC injection remain large, relatively few modeling studies and limited model diversity have explored the climatic response to low-to-moderate BC injections, leaving key aspects of their climate impact poorly understood. Here, we investigate the climate response to a set of low-to-moderate forcing scenarios (12 to 24 Tg BC) – roughly one-tenth to one-fifth the strength of the standard high-end cases – using the Canadian Earth System Model version 5. Consistent with previous work, we find prolonged global reductions in surface temperature and precipitation, driven by decreased downwelling shortwave radiation at the surface and increased atmospheric stability. Unexpectedly, however, a transient surface warming develops in the first boreal summer following a boreal-winter injection, linked to reduced net longwave and turbulent fluxes. Precipitation remains suppressed because of enhanced stability. The transient warming is most pronounced for the lowest forcing cases, indicating a nonlinear response across the forcing range. These results underscore the need for broader multi-model assessments and systematic exploration across a wider range of scenarios, given their potential for complex, societally relevant outcomes.",
+      "doi": "10.5194/esd-17-1573-2026",
+      "authors": [
+        "Anson Cheung",
+        "Paul J. Kushner",
+        "Francesco S. R. Pausata",
+        "Zhihong Zhuo",
+        "Marguerite L. Brown"
+      ],
+      "year": 2026,
+      "journal": "Earth System Dynamics",
+      "openalex_id": "W4416948346",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4416948346",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/9 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract. Nuclear conflicts could ignite intense urban fires that inject considerable amounts of black carbon (BC) into the upper atmosphere, with the potential to disrupt global climate.",
+      "added": false
+    },
+    {
+      "title": "Post-fire ecosystem carbon balance driven by nutrient availability shifts in Alaskan upland peat plateau tundra",
+      "abstract": "Abstract Tundra wildfire frequency and severity have increased over the past several decades in Alaska’s Yukon-Kuskokwim Delta. In this discontinuous permafrost region, wildfire impacts can last many years after initial disturbance through vegetation and soil organic matter combustion, deepening the active layer and sustaining soil decomposition. The recovery of carbon lost from these landscapes is driven, in part, by soil biogeochemical processes that moderate ecosystem carbon balance. Here, we examined environmental conditions, soil nitrogen availability (ammonium and nitrate), and growing season greenhouse gas exchange (carbon dioxide, methane, and nitrous oxide) across three fire histories (unburned, 2015 burned, and 1972 burned) during the growing seasons of 2022 and 2023. Burned soils were warmer and had deeper thaw depths than unburned soils. Ammonium availability was highest in 2015 burned plots. Growing season net carbon uptake was greatest in 2015 burned sites, while the net growing season carbon dioxide balance of 1972 burned sites was similar to pre-fire conditions. The landscape was a small net methane source, with emissions highest in 1972 burned tundra, but there was no significant difference across burn histories for nitrous oxide fluxes. Linear mixed effects models showed ammonium availability as the most significant predictor of carbon dioxide exchange. Together, the findings demonstrate the complexity of permafrost-dominated tundra wildfire recovery and the importance of nutrient availability in regulating ecosystem recovery and the post-fire carbon balance.",
+      "doi": "10.1088/2515-7620/aeb866",
+      "authors": [
+        "Jacqueline K. Y. Hung",
+        "Christina Minions",
+        "Mitch Korolev",
+        "Marlena Bartkus",
+        "Brendan M. Rogers",
+        "Susan M. Natali"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7223250287",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223250287",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Abstract Tundra wildfire frequency and severity have increased over the past several decades in Alaska’s Yukon-Kuskokwim Delta. In this discontinuous permafrost region, wildfire impacts can last many years after initial disturbance through vegetation and soil organic matter combustion, deepening the active layer and su…",
+      "added": false
+    },
+    {
+      "title": "Evaporation to inflow ratios in palustrine and riparian wetlands in the southern interior of British Columbia",
+      "abstract": "Palustrine wetlands are an uncommon but ecologically important feature of the semi-arid landscape in the southern interior of British Columbia. The wetlands often occur in topographic depressions at a range of elevations, providing critical habitat for flora and fauna, and potential refugia during periods of drought and wildfire. The wetlands exhibit a range of salinities (EC ~200 to 20,000 μS/cm) that reflect differences in geology and evaporation to inflow (E/I) ratios, but which do not provide a reliable means to assess water balance. The stable isotope composition (δ2H and δ18O values) of water was measured from May 2024 to September 2025 in precipitation and 34 wetlands and lakes located near Kelowna BC. A local meteoric water line (LMWL; δ²H = 6.8 ± 0.19 * δ¹⁸O – 17.9 ± 3.42; n = 106, R² = 0.97) was established from the precipitation data. Surface water stable isotope data defined a local evaporation line (LEL; δ²H =4.4 ± 0.039 δ¹⁸O – 55.5 ± 0.39; n = 684, R² = 0.99) that intercepts the LMWL at the annual amount-weighted isotopic composition of precipitation. Intersections between individual wetland surface water regression lines and the LMWL were used to estimate E/I ratios. Palustrine wetlands had mean E/I ratios ranging from 0.03 to 2.3. Riparian wetlands Fascieux Creek (E/I = 0.0055) and Mission Creek (E/I = -0.025) showed minimal evaporative losses relative to inflow, consistent with through-flow wetlands that are constantly flushed with new water. Wetlands with E/I ratios >1 experience volumetric drawdown, as evidenced by an ephemeral wetland (mean E/I ratio = 2.3), which evaporated to dryness in the summers of 2024 and 2025. Eight wetlands had E/I ratios close to or greater than 1, indicating that they are most at risk to warming and drying trends that cause changes to water balances. This approach provides a means to monitor shifts in water balance in wetlands that may be adversely impacted by interannual changes in precipitation, temperature or land use practices.",
+      "doi": "10.14288/1.0457016",
+      "authors": [
+        "Sarah Mavor"
+      ],
+      "year": 2026,
+      "journal": "cIRcle (University of British Columbia)",
+      "openalex_id": "W7223190897",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223190897",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/9 key interest terms (wildfire)",
+      "tags": [
+        "Wildfire"
+      ],
+      "summary": "Palustrine wetlands are an uncommon but ecologically important feature of the semi-arid landscape in the southern interior of British Columbia. The wetlands often occur in topographic depressions at a range of elevations, providing critical habitat for flora and fauna, and potential refugia during periods of drought an…",
+      "added": false
+    },
+    {
+      "title": "Typical thermokarst alters soil organic carbon fractions controlled by soil water content in the Qinghai–Tibet Plateau",
+      "abstract": "The ongoing climate warming has accelerated permafrost thaw worldwide, resulting in rapid thermokarst development. However, a comprehensive quantification of the responses of soil organic carbon (SOC) fractions to thermokarst development is still lacking. This study evaluated the changes in SOC fraction concentrations in typical thermokarst landscapes. The results showed that thaw slumps, thermo-erosion gullies, and mature thermokarst lakes exhibited a drastic decrease in SOC concentration, whereas the single-site observation of developing thermokarst lake exhibited an increase of 23.47%. Particulate organic carbon (POC), rather than mineral-associated organic carbon (MAOC), dominated the SOC changes. POC decreased significantly from control stage to drape (of thaw slumps) / collapsing (of thermo-erosion gullies) / mid-lakeside (of mature thermokarst lakes) stages. Mature thermokarst lakes featured the reductions in POC from control stage (57.04 g/kg) to near-lakeside stage (33.72 g/kg), with a drastic decrease occurring in the mid-lakeside stage (30.91%). The developing thermokarst lake site exhibited a continuous increase in POC concentrations. Basic soil properties and microbial properties played dominant roles in explaining SOC variance during thermokarst development. Soil water content (SWC) was the most important factor controlling SOC concentrations in all thermokarst landscapes. SOC variations of thaw slumps might be positively correlated with precipitation, whereas those of thermo-erosion gullies might be negatively correlated with elevation. Path analysis confirmed that SWC controlled the dynamics of SOC through both direct (via organic matter transport) and indirect (microbially mediated) pathways. The preliminary order-of-magnitude estimate suggests a cumulative loss in SOC stock of up to 6.30 Tg C by 2100 due to the future expansion in thermokarst landscapes under climate change. This study provided new insights into potential dynamics of permafrost‑carbon feedbacks.",
+      "doi": "10.1016/j.ecolind.2026.115714",
+      "authors": [
+        "Ruizhe Wang",
+        "Xia Hu"
+      ],
+      "year": 2026,
+      "journal": "Ecological Indicators",
+      "openalex_id": "W7223188210",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223188210",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The ongoing climate warming has accelerated permafrost thaw worldwide, resulting in rapid thermokarst development. However, a comprehensive quantification of the responses of soil organic carbon (SOC) fractions to thermokarst development is still lacking.",
+      "added": false
+    },
+    {
+      "title": "Forest endophytes as a biological resource insights into their role in sustainable agriculture and agroforestry",
+      "abstract": "Abstract Forest ecosystems are the hidden reservoir of beneficial microorganisms, particularly for endophytes, that colonize plant tissue internally without causing any disease symptoms and play a key role in plant health and ecosystem sustainability. Forest-derived endophytic bacteria and fungi are crucial in nutrient cycling, stress resistance and growth promotion via phosphorus solubilization, nitrogen fixation and synthesis of phytohormones. Those microbes allow plants to survive in low-nutrient and stressful environments. This review offers insights into the diversity, abundance, distribution, and functional characteristics of endophytes within forest environments over a diversity of host species and climatic zones. Through decomposition and transformation of organic matter, endophytic microbes contribute to soil fertility. Several functional genes facilitate this process, including nif H (involved in nitrogen fixation), pho D (associated with phosphate mobilization) and glc A (associated with organic acid synthesis). In addition to this, endophytes synthesize antioxidants and modify gene expression under varying environmental conditions, including high CO 2 , increased temperature, and nitrogen enrichment. Besides providing innate immunity against pathogens, they also stimulate the host’s defence mechanisms and synthesize antimicrobial compounds. Innovative, biotechnologies such as CRISPR/Cas9 and RNA interference offer to develop and improve the desired traits for targeted agroforestry and agriculture applications. In light of their multifunctional capabilities and ecological significance forest endophytes are an important biological resource that can be incorporated successfully in farming to increase crop yield, stress tolerance, and to minimize the application of chemical inputs.",
+      "doi": "10.1007/s44372-026-00932-2",
+      "authors": [
+        "Vaishnavi Pratha Gajendran",
+        "Poulomi Mukherjee",
+        "Jegan Periakaruppan",
+        "Gajendiran Manimaran",
+        "Kaviya Sree Krishnan",
+        "Raghu Rajasekaran",
+        "Balachandar Dananjeyan",
+        "Anandham Rangasamy"
+      ],
+      "year": 2026,
+      "journal": "Discover Plants.",
+      "openalex_id": "W7223178490",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223178490",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Abstract Forest ecosystems are the hidden reservoir of beneficial microorganisms, particularly for endophytes, that colonize plant tissue internally without causing any disease symptoms and play a key role in plant health and ecosystem sustainability.",
+      "added": false
+    },
+    {
+      "title": "Air pollution and climate change impact on respiratory health in Africa: Evidence and interventions",
+      "abstract": "Air pollution and climate change are global environmental health challenges impacting human respiratory health. In Africa, air pollution compounded by climate change is an important risk factor affecting respiratory health from early life and across the life course. While a lack of epidemiological data underestimates the burden of exposures and the resulting health implications, there is growing evidence that explores these interactions. In this narrative review, we aim to explore the interplay of air pollution and climate change on respiratory health, focusing on vulnerable African populations, with the purpose of spotlighting African studies and cohorts exploring these impacts. Furthermore, we review some of the interventions studied to address the negative impacts and additionally offer a way forward to address some of these issues.",
+      "doi": "10.25259/jpats_19_2025",
+      "authors": [
+        "Aneesa Vanker",
+        "Joy Nkiru Eze",
+        "Babatunde Ishola Awokola",
+        "Seyram Michelline Wordui"
+      ],
+      "year": 2026,
+      "journal": "Journal of the Pan African Thoracic Society",
+      "openalex_id": "W7223326126",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223326126",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Air pollution and climate change are global environmental health challenges impacting human respiratory health. In Africa, air pollution compounded by climate change is an important risk factor affecting respiratory health from early life and across the life course.",
+      "added": false
+    },
+    {
+      "title": "Future Trends in AI-Driven Sustainability Education and Research",
+      "abstract": "Sustainability is increasingly recognized as a critical component for ensuring a resilient and prosperous future. Its significance spans environmental preservation, economic stability, social equity, and business innovation. The integration of Artificial Intelligence (AI) into sustainability education and research is reshaping the landscape of how environmental, social, and economic challenges are understood and addressed. As global sustainability goals become increasingly important and urgent, AI offers the transformative potential to enhance educational practices and research. Several emerging trends are poised to shape the future of AI in sustainability education and research. Firstly, Future trends indicate a shift toward AI-powered personalised learning experiences, where adaptive platforms can tailor content to individual learners’ needs, thereby improving engagement and comprehension. Secondly, the fusion of AI with augmented reality (AR) and virtual reality (VR) technologies promises to create immersive learning experiences. These tools can simulate complex environmental scenarios, providing students with interactive platforms to explore sustainability challenges firsthand. Thirdly, AI is increasingly being leveraged to tackle humanitarian and environmental challenges such as the use of Google’s Flood Hub, which forecasts floods in 80 countries, exemplify AI’s potential in enhancing disaster preparedness and response. Fourthly, the interaction of blockchain in AI can enhance data security and transparency in research. This integration ensures the integrity of academic records and facilitates trustworthy collaborations across institutions. Fifthly, AI-driven predictive models can anticipate environmental trends and inform proactive strategies. In education, such analytics can identify at-risk students and tailor interventions to improve retention and success rates. Despite the many potential trends in AI-Driven Sustainability Education and Research , it is important to address ethical concerns such as data privacy, algorithmic bias, and the potential misuse of technology. Developing responsible future Trends In AI-Driven Sustainability Education and Research requires that technological advancements benefit all stakeholders without causing harm. Institutions must implement frameworks that promote transparency, accountability, and fairness in AI applications, fostering trust and social acceptance. Therefore, incorporating sustainability into AI-driven education equips students with the knowledge and skills necessary to address future environmental challenges.",
+      "doi": "10.1007/978-3-032-34574-5_24",
+      "authors": [
+        "Lorna Uden",
+        "Fauziah Sulaiman",
+        "Gregory Ching"
+      ],
+      "year": 2026,
+      "journal": "World sustainability series",
+      "openalex_id": "W7223189253",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223189253",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "Sustainability is increasingly recognized as a critical component for ensuring a resilient and prosperous future. Its significance spans environmental preservation, economic stability, social equity, and business innovation.",
+      "added": false
+    },
+    {
+      "title": "Emissions Gap Report 2026",
+      "abstract": "The 2026 Emissions Gap Report lays out the cuts to emissions needed (by 2030, 2035 and 2040) to get on a return pathway — finding that the cuts needed are far above what current Nationally Determined Contributions deliver. However, the report finds that it is possible to close this emissions gap — pointing to many successful climate policies that have already delivered real-world emissions cuts and could be scaled up globally to accelerate action.",
+      "doi": "10.59117/20.500.11822/50038",
+      "authors": [
+        "United Nations Environment Programme"
+      ],
+      "year": 2026,
+      "journal": "United Nations Environment Programme eBooks",
+      "openalex_id": "W7223032763",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223032763",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/9 key interest terms",
+      "tags": [],
+      "summary": "The 2026 Emissions Gap Report lays out the cuts to emissions needed (by 2030, 2035 and 2040) to get on a return pathway — finding that the cuts needed are far above what current Nationally Determined Contributions deliver.",
+      "added": false
+    }
+  ]
+}
