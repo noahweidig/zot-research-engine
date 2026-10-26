@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-26",
+  "statistics": {
+    "fetched": 153,
+    "duplicates_removed": 145,
+    "evaluated": 8,
+    "added": 2,
+    "ignored": 6,
+    "average_score": 1.88
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Exceptionally high temperatures in Armenia in 2023: orographic effects, snowpack response and synoptic drivers",
+      "abstract": "Climate conditions in 2023 were exceptionally warm globally. The mean global near-surface temperature in 2023 was ranked as the second warmest since 1850, while the warmest year was observed in 2024 1 . The mean temperature anomaly in 2023 was 1.45 ± 0.12 °C compared to the 1850–1900 average 2 , 3 . The jump in global mean annual temperature in 2023 relative to 2022 (0.31 °C) has been the strongest over the last 143 years 4 . Sea surface temperatures (SSTs) significantly contributed to the warming in 2023. Warm SST anomalies were observed at multiple ocean basins at the same time 5 . The transition from multi-year La Niña conditions to El Niño conditions observed in 2023 5 , 6 , 7 likely contributed to the strong warming of SSTs over the globe. SST anomalies exceeded 1.5 °C over the tropical North Atlantic and the western tropical Indian Ocean. The warm SSTs and air temperatures substantially reduced the global sea-ice extent and the sea ice around Antarctica in 2023 7 . Europe experienced a record number of days with “extreme heat stress” in 2023 8 . Extremely high temperatures affected the United States and Mexico in July, and the maximum temperature reached 53.3 °C in Death Valley 9 . Overall, 42% of the globe experienced exceptionally warm conditions in 2023 3 . Widespread wildfires were observed over Canada and Greece 2 , 10 , 11 . The deadliest Storm Daniel over the Mediterranean caused thousands of deaths in September, while damages exceeded $20 billion 12 . The formation of Storm Daniel was partly attributed to anomalously high SSTs in the Mediterranean observed during summer 2023.",
+      "doi": "10.1038/s41612-026-01544-z",
+      "authors": [
+        "Artur Gevorgyan",
+        "Narine Piliposyan",
+        "Hasmik Panyan",
+        "Yelena Khalatyan",
+        "Sirarpi H. Gizhlaryan",
+        "Kristine Margaryan"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7223457834",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223457834",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 54%: matched 5/11 key interest terms (united states, united, drivers, states, wildfires)",
+      "tags": [
+        "United States",
+        "United",
+        "Drivers",
+        "States",
+        "Wildfires"
+      ],
+      "summary": "Climate conditions in 2023 were exceptionally warm globally. The mean global near-surface temperature in 2023 was ranked as the second warmest since 1850, while the warmest year was observed in 2024 1 . The mean temperature anomaly in 2023 was 1.45 ± 0.12 °C compared to the 1850–1900 average 2 , 3 .",
+      "added": true
+    },
+    {
+      "title": "Balancing Management and Risk in a New European Pyrogeography",
+      "abstract": "Wildfires are an increasingly important challenge across Europe. Climate change is altering the conditions under which fires can ignite and spread, but wildfire risk is also shaped by how landscapes are used, managed, and planned. These choices influence vegetation and fuel availability, landscape structure, and the resilience of ecosystems and communities. Understanding these interactions is therefore important for developing landscapes that are better prepared for a changing climate. Wildfire research draws on multiple disciplines, including ecology, climate science, land-use research, and fire modelling. This broader perspective is referred to as pyrogeography—the study of how fire interacts with climate, vegetation, landscapes, and human activities across space and time. Although wildfire research in Europe is growing, fewer studies combine land-use change, fuel management, ecosystem function, and wildfire modelling to examine how future landscapes can balance multiple objectives. This dissertation addresses this challenge by investigating how land management, future land-use change, and fuel management influence wildfire risk across Europe. The research combines continental-scale assessments with a regional case study. Chapter 2 maps the suitability of three fuel-relevant management strategies—herbivory, mechanical fuel removal, and prescribed burning—across Europe. The results show that opportunities for these strategies vary considerably between regions, highlighting the importance of adapting management to local ecological and social conditions. Chapter 3 examines how wildfire management interacts with biodiversity and carbon storage. It identifies areas where reducing wildfire risk may also help protect important ecosystem functions, as well as areas where fuel management requires careful consideration of potential trade-offs. Chapter 4 focuses on central Portugal and explores how different land-use trajectories influence wildfire susceptibility. The results indicate that continued agricultural abandonment generally increases wildfire susceptibility, whereas renewed agricultural activity can reduce susceptibility by altering vegetation patterns and fuel continuity. Chapter 5 returns to the European scale and simulates how different fuel management strategies perform under alternative land-use and climate futures. Management targeting fine fuels, either alone or combined with other fuel classes, generally produces greater reductions in wildfire behaviour than strategies focused only on coarse fuels. However, responses vary considerably between regions, reinforcing the importance of adapting management to local conditions. Taken together, the findings demonstrate that wildfire in Europe is shaped not only by climate, but also by decisions about how landscapes are managed. Land-use planning, fuel management, and ecological conservation are closely connected, and effective wildfire management requires balancing multiple objectives, including reducing fire risk, conserving biodiversity, storing carbon, and supporting agriculture and forestry. Because these priorities and landscape conditions vary across Europe, management strategies cannot be applied uniformly. The modelling approaches presented in this dissertation do not predict exactly where or how future wildfires will occur. Rather, they provide ways to explore alternative futures, identify potential management opportunities and trade-offs, and examine how different land-use and fuel management pathways may influence wildfire outcomes. By bringing together wildfire science, land-use planning, ecology, and modelling across spatial scales, this dissertation contributes to a more integrated understanding of wildfire management and provides evidence to support the development of landscapes that are better prepared for a changing climate.",
+      "doi": "10.5463/thesis.1907",
+      "authors": [
+        "Alex N. Neidermeier"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223465559",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223465559",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 45%: matched 5/11 key interest terms (prescribed, wildfire, prescribed burning, burning, wildfires)",
+      "tags": [
+        "Prescribed",
+        "Wildfire",
+        "Prescribed Burning",
+        "Burning",
+        "Wildfires"
+      ],
+      "summary": "Wildfires are an increasingly important challenge across Europe. Climate change is altering the conditions under which fires can ignite and spread, but wildfire risk is also shaped by how landscapes are used, managed, and planned.",
+      "added": true
+    },
+    {
+      "title": "In situ aerosol optical properties in the background eastern Mediterranean: seasonal variability, regional transport, and source attribution",
+      "abstract": "Comprehensive examination of in-situ aerosol optical properties and black carbon (BC) components, due to liquid and solid fuel combustions, was performed at the Cyprus atmospheric observatory (CAO) regional background site of Agia Marina Xyliatou (CAO-AMX, Cyprus) during 2022-2024. Atmospheric mixtures of desert dust, transported pollution plumes, secondary aerosol formation and combustion activities control the aerosol properties and seasonality. Aerosol scattering coefficient peaked during summer (annual b Sca,525 : 42.00 ± 26.48 Mm -1 ), whereas aerosol absorption in winter (annual b Abs,520 : 4.48 ± 3.57 Mm -1 ), revealing different seasonality and sources for scattering and absorbing aerosols, driven by contrasting air masses and source regions. Enhanced dust presence in spring results in lower scattering Ångström exponent (SAE) values (1.49 ± 0.62), the single scattering albedo (SSA) presents a distinct seasonality, with a winter minimum (0.87) and summer maximum (0.92), whereas the absorption Ångström exponent (AAE) exhibits weak seasonal changes (1.25-1.29). BC peaks in winter (0.64 μg m −3 ), presenting distinct afternoon-evening enhancements, consistent with the diurnal variability of b Abs and b Sca , which suggests influence of regional transport and local wind regime. Despite these seasonal variations, the annual BC levels remain low - 0.52 μg m −3 on average - reflecting background conditions, with marked contribution from fossil-fuel combustion in Türkiye and the Middle East. Statistical analysis utilizing air-mass back trajectories, reveal that regional transport is the primary driver of aerosol properties and pollutant’s concentrations. In particular, polluted dust outbreaks from the Middle East are associated with elevated b Sca , b Abs , BC, PM 2.5 and PM 10 . Dust particles from Sahara and marine aerosol from the Mediterranean Sea are associated with minimum SAE values, enhanced scattering and high SSA. Overall, the observed aerosol phenomenology over the background Eastern Mediterranean highlights the diverse contributing sources and aerosol mixtures that add to the uncertainties in assessment of aerosol radiative effects.",
+      "doi": "10.1016/j.atmosenv.2026.122436",
+      "authors": [
+        "Dimitris G. Kaskaoutis",
+        "Rima Baalbaki",
+        "Elie Bimenyimana",
+        "Despina Paraskevopoulou",
+        "Rafail Konatzii",
+        "Jean Sciare",
+        "Nikos Mihalopoulos",
+        "Michael Pikridas"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric Environment",
+      "openalex_id": "W7223327578",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223327578",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 1/11 key interest terms (eastern)",
+      "tags": [
+        "Eastern"
+      ],
+      "summary": "Comprehensive examination of in-situ aerosol optical properties and black carbon (BC) components, due to liquid and solid fuel combustions, was performed at the Cyprus atmospheric observatory (CAO) regional background site of Agia Marina Xyliatou (CAO-AMX, Cyprus) during 2022-2024.",
+      "added": false
+    },
+    {
+      "title": "Regional Impacts of Unconventional Oil and Gas Operations on Ozone and Air Toxics",
+      "abstract": "Abstract Unconventional oil and gas development (UOGD) has expanded over the past three decades and now accounts for most of U.S. oil and natural gas production. Although prior studies link local UOGD activity to health outcomes, they provide limited evidence directly attributing ambient pollutant levels to UOGD emissions. We address this gap by quantifying UOGD impacts on ozone and air toxics using the Community Multiscale Air Quality (CMAQ) model with the Integrated Source Apportionment Method (ISAM), enabling an explicit linkage between UOGD emissions and ambient concentrations. UOGD activities produce substantial local contributions to primary air toxics and continental-scale influences on ozone. Across CONUS, UOGD increases population-weighted annual averages of maximum daily average 8-h (MDA8) ozone, 1-h benzene, 1-h nitrogen dioxide (NO2), and 1-h formaldehyde (HCHO) concentrations by roughly 1 ppb, 1.1 ppt, 0.035 ppb, and 0.03 ppb, respectively. Annual maximum UOGD contributions to MDA8 ozone are about half of those from other anthropogenic sources. ISAM also reveals unexpectedly large UOGD-driven ozone enhancement (up to 4–5 ppb) in the Los Angeles region from Texas emissions, a feature less evident in brute-force sensitivity tests. These findings highlight the need to further examine interstate UOGD influences on nonattainment areas and source-impact quantification methods.",
+      "doi": "10.1021/acs.est.6c03632",
+      "authors": [
+        "Hu Yongtao",
+        "Kamal Jyoti Maji",
+        "Mehmet Talat Odman",
+        "Jennifer Kaiser",
+        "Armistead Goode Russell"
+      ],
+      "year": 2026,
+      "journal": "Environmental Science & Technology",
+      "openalex_id": "W7222976670",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7222976670",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 9%: matched 1/11 key interest terms (large)",
+      "tags": [
+        "Large"
+      ],
+      "summary": "Abstract Unconventional oil and gas development (UOGD) has expanded over the past three decades and now accounts for most of U.S. oil and natural gas production.",
+      "added": false
+    },
+    {
+      "title": "Estimating healthcare cost savings from greenspace in Washington",
+      "abstract": "Greenspace is increasingly recognized as public-health infrastructure, yet its potential contribution to healthcare cost savings remains poorly quantified beyond a relatively small number of studies. To contribute to these investigations, we estimated potential avoided healthcare expenditures associated with residential greenness in Washington using a benefit-transfer framework. We applied decile-specific relative healthcare-cost ratios from a Northern California cohort of approximately five million Kaiser Permanente members to population-weighted distributions of satellite-derived normalized difference vegetation index across Washington census block groups. Ratios were calibrated to Washington’s 2020 statewide per-capita healthcare expenditure, allowing estimates to reflect the state’s own cost baseline. Estimated annual per-capita costs declined from $6,472.75 in the least-green decile to $5,939.39 in the greenest, a difference of $533.35. Simulated interventions yielded estimated annual statewide savings of $45.6 million from raising the lowest decile to the next decile, $157.7 million from lifting the four lowest deciles to Decile five, and $56.9 million from urban-core greening in Washington’s five largest cities. These estimates are modeled associations, not causal forecasts, and depend on transferability between regional populations and on normalized difference vegetation index as an incomplete proxy for meaningful nature access. Nonetheless, the findings highlight increased and equitable greening efforts as a potentially consequential component of preventive health and infrastructure policy.",
+      "doi": "10.64898/2026.10.21.26366190",
+      "authors": [
+        "Jingjing Tao",
+        "Sergey S. Rabotyagov",
+        "Matthew H. E. M. Browning",
+        "Gregory Bratman",
+        "Spencer A. Wood",
+        "Joshua J. Lawler"
+      ],
+      "year": 2026,
+      "journal": "medRxiv",
+      "openalex_id": "W7223476313",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223476313",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Greenspace is increasingly recognized as public-health infrastructure, yet its potential contribution to healthcare cost savings remains poorly quantified beyond a relatively small number of studies.",
+      "added": false
+    },
+    {
+      "title": "The interplay of landscape connectivity, composition and configuration in alien plant invasions across an ecological network",
+      "abstract": "Abstract Context Biological invasions are deemed to be the second most important global driver of biodiversity loss showing strong interactions with the aftermaths of land use change and landscape fragmentation. The role of landscape composition and configuration in biological invasions is widely considered while its interplay with landscape connectivity is less understood. However, ecological connectivity can be equally crucial for both native and alien species, constituting the backbone of ecological network initiatives. Objectives We aim to assess how landscape composition, configuration and connectivity (in the ecological network) influence α- and β-diversity (floristic uniqueness) of both alien and native plant species, and to determine whether these effects differ according to habitat type. Methods The study was conducted in a 298 km 2 ecological network in the lowlands of Friuli Venezia Giulia, northeastern Italy, encompassing a mosaic of agricultural, natural, and semi-natural habitats. A hierarchical sampling design was applied to 87 terrestrial habitat nodes, where plant species composition and abundance were recorded in 219 plots. Landscape composition, configuration and connectivity were quantified to examine their influence on native and alien plant α- and β-diversity across different habitat types. Results We found contrasting effects of landscape connectivity, composition and configuration for native and alien species. Peripheral, less connected sites favored native species richness (α-diversity) and contributed to maintaining native floristic uniqueness (high β-diversity). In contrast, alien species richness was mainly associated with landscape composition and configuration, particularly the proportion of natural land use and edge-related effects in wooded habitats, while plots with higher alien richness showed lower compositional uniqueness within the alien species pool. Landscape composition and configuration also influenced invasion dynamics, as nodes surrounded by a high proportion of natural land uses with simple shapes helped contain plant invasions while preserving native richness and uniqueness. These patterns were often habitat-dependent, with stronger effects observed in wooded areas, where alien α-diversity increased with fragmentation, whereas native species richness declined. Conclusions Our findings suggest that managing landscape connectivity and reducing fragmentation can enhance resistance to invasions and support native species richness. Peripheral nodes may act as native refugia, supporting high native richness and floristic uniqueness, while more accessible central nodes may function as alien hubs associated with greater alien compositional uniqueness and potential propagule exchange. Shifting from intensive to extensive land uses through green infrastructures provides a win–win strategy, promoting native species and limit alien establishment.",
+      "doi": "10.1007/s10980-026-02461-5",
+      "authors": [
+        "Francesco Liccari",
+        "Giacomo Trotta",
+        "Maurizia Sigura",
+        "Giovanni Bacaro",
+        "Francesco Boscutti"
+      ],
+      "year": 2026,
+      "journal": "Landscape Ecology",
+      "openalex_id": "W7223444602",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223444602",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "Abstract Context Biological invasions are deemed to be the second most important global driver of biodiversity loss showing strong interactions with the aftermaths of land use change and landscape fragmentation.",
+      "added": false
+    },
+    {
+      "title": "Subsurface architecture across a lateritic Critical Zone: a multi-method approach integrating geophysics, machine learning and landscape metrics",
+      "abstract": "This Thesis presents original research investigating the spatial variability and evolution of subsurface Critical Zone (CZ) architecture and its influence on ecosystem service delivery within a lateritic landscape of southwest Western Australia. Integrating near-surface geophysical imaging, machine learning and physically based hydrological modelling, the research characterises subsurface architecture across scales, linking its spatial organisation to geomorphic processes governing landscape evolution and to hydrological dynamics. By advancing understanding of the biological, physical, hydrological and anthropogenic dimensions of the CZ, this research provides insight into ecosystem resilience under increasing human disturbance and highlights implications for sustainable land and water management.",
+      "doi": "10.26182/z70m-z150",
+      "authors": [
+        "J. Marvin Weller"
+      ],
+      "year": 2026,
+      "journal": "UWA Profiles and Research Repository (UWA)",
+      "openalex_id": "W7223144529",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223144529",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This Thesis presents original research investigating the spatial variability and evolution of subsurface Critical Zone (CZ) architecture and its influence on ecosystem service delivery within a lateritic landscape of southwest Western Australia.",
+      "added": false
+    },
+    {
+      "title": "ORGANISATIONAL AND ECONOMIC MECHANISM FOR TRANSFORMING PROTECTIVE FOREST PLANTATIONS INTO FOREST CLIMATE PROJECTS: EFFECTIVENESS ASSESSMENT AND CARBON SEQUESTRATION POTENTIAL IN THE CENTRAL FOREST‑STEPPE",
+      "abstract": "This study develops a comprehensive analytical framework to evaluate reforestation effectiveness, optimal investment allocation, carbon sequestration potential, and economic viability in the Central Forest Steppe of European Russia. Using panel data for 2015–2025, we employed econometric modelling (fixed‑effects, ADL, system GMM, Hansen threshold, spatial Durbin), dynamic programming with real options, Bayesian calibration of the Chapman–Richards growth function, IPCC carbon accounting, financial assessment, and probabilistic risk analysis. Results confirm that reforestation funding, leaseholder participation, forest cover, and stand growth positively affect conversion rates, while hardwood share has a negative effect. A threshold effect is observed: leaseholder participation improves conversion rates only up to about 44%, beyond which additional increases yield no significant benefit. Optimal allocation prioritises productive sites (D2, C2), generating NPV of 530.4 million roubles and CIIC of 1.37. Total carbon sequestration over 45 years is 1.45 million t CO₂‑eq (valued at 1,453 million roubles). Real options analysis reveals a critical carbon price of ~631 rub/t CO₂ for immediate investment. Probability of positive NPV is 82.4%, with carbon price as the dominant uncertainty driver (S₁ = 0.42). Forest climate projects are economically viable under baseline assumptions. The framework is transferable to other low‑forested regions.",
+      "doi": "10.18623/rvd.v23.8696",
+      "authors": [
+        "Anna V. Ivanova",
+        "Svetlana S. Morkovina",
+        "Nataliya Vladimirovna Yakovenko",
+        "Denis Kuznetsov",
+        "Irina S. Zinovyeva",
+        "Tatyana Lvovna Bezrukova",
+        "Ekaterina Panyavina",
+        "Irina Marchuk",
+        "I. A. Avdeeva"
+      ],
+      "year": 2026,
+      "journal": "Veredas do Direito Direito Ambiental e Desenvolvimento Sustentável",
+      "openalex_id": "W7223442770",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223442770",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/11 key interest terms",
+      "tags": [],
+      "summary": "This study develops a comprehensive analytical framework to evaluate reforestation effectiveness, optimal investment allocation, carbon sequestration potential, and economic viability in the Central Forest Steppe of European Russia.",
+      "added": false
+    }
+  ]
+}
