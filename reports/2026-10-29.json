@@ -1,0 +1,715 @@
+{
+  "date": "2026-10-29",
+  "statistics": {
+    "fetched": 157,
+    "duplicates_removed": 131,
+    "evaluated": 26,
+    "added": 1,
+    "ignored": 25,
+    "average_score": 1.58
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Future Wildfire Risk to Population and Property in the Contiguous US: A Scenario-Based Assessment",
+      "abstract": "Abstract Despite growing concern about wildfire impacts on human societies under climate and socioeconomic change, existing studies often examine individual drivers or focus on regional patterns, limiting our understanding of how wildfire risk may vary across communities at the national scale. Here, we develop a county-level framework that integrates wildfire hazard, exposure, and community vulnerability to assess future wildfire risk across the contiguous United States (CONUS). Using projections of annual burned area, population and property distributions, wildland-urban interface (WUI) extent, and a social vulnerability index under three Shared Socioeconomic Pathways (SSPs), we assess changes in population and property wildfire risk through the end of the 21st century. Our results show that the western forested and Rocky Mountain regions currently face the highest wildfire risk resulting from high burn probabilities, elevated social vulnerability, and extensive WUI areas, whereas most counties in the northern Great Plains experience relatively low risk because of limited fire activity, lower social vulnerability, and sparse WUI. Future projections indicate substantial spatial heterogeneity in risk changes: many areas with currently high risk remain among the highest-risk regions, while some historically low-risk counties transition toward higher risk, driven primarily by increases in population exposure and social vulnerability. By the end of the century, population and property risks across the CONUS are projected to rise by 54%–411% and 19%–160%, respectively, under three SSP scenarios. These findings highlight the need to extend wildfire management strategies beyond currently high-risk areas to account for emerging shifts in wildfire risk across the CONUS.",
+      "doi": "10.1088/2515-7620/aebaf5",
+      "authors": [
+        "Jianyong Ma",
+        "Ashton Dickinson",
+        "Anja Rammig",
+        "Martin Wittenbrink",
+        "Almut Arneth"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Communications",
+      "openalex_id": "W7224102501",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224102501",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 53%: matched 11/22 key interest terms (urban interface, wildland urban, interface, states, wildland)",
+      "tags": [
+        "urban interface",
+        "wildland urban",
+        "interface",
+        "states",
+        "wildland"
+      ],
+      "summary": "Abstract Despite growing concern about wildfire impacts on human societies under climate and socioeconomic change, existing studies often examine individual drivers or focus on regional patterns, limiting our understanding of how wildfire risk may vary across communities at the national scale.",
+      "added": true
+    },
+    {
+      "title": "Fire and Carbon Dynamics: A Global Review of Knowledge and Gaps Across Biomes",
+      "abstract": "Abstract Purpose of review Fire is a major driver of terrestrial carbon (C) cycling, rapidly releasing carbon accumulated over decades to millennia and reshaping ecosystem structure and function across biomes. As climate change intensifies fire regimes, understanding fire-induced changes in C stocks and fluxes is increasingly urgent. To address this need, we reviewed fire–C studies published over the past fifteen years, focusing on the geographic and biome distribution of existing research, the effects of prescribed burns and wildfires on C pools and fluxes, and methods used to quantify post-fire C loss and dynamics in terrestrial ecosystems. We extracted 17 attributes of interest from 249 studies spanning bibliographic, geographic, ecological, methodological and C variable categories. Recent findings Our synthesis reveals a strong bias toward temperate forests, with regions such as Africa and systems including savannas, peatlands, and tundra underrepresented despite their importance for global C dynamics. In terms of C pools, more studies measure aboveground rather than belowground biomass, microbial communities, or pyrogenic C; in terms of C variables, combustion emissions receive far more attention than post-fire soil and ecosystem fluxes. Prescribed burns are studied less frequently than wildfires and remain geographically constrained despite their growing role in C-focused management. Advances in remote sensing and modelling have improved estimates of aboveground biomass and emissions, but comparable tools for assessing post-fire regrowth, belowground pools, and pyrogenic C remain limited. Summary Priorities include expanding research beyond forests, improving assessments of belowground and pyrogenic C, clarifying the effects of prescribed burning, resolving and better characterizing post-fire net ecosystem carbon balance and recovery thresholds, and strengthening methodological integration across scales. Addressing these gaps is essential for developing a globally comprehensive, policy-relevant understanding of fire-driven C dynamics under global change.",
+      "doi": "10.1007/s40725-026-00295-7",
+      "authors": [
+        "Maitane Erdozain",
+        "Aitor Àvila Callau",
+        "Adrián Cardil",
+        "Alexandre Raimbault",
+        "Carla Scarpa",
+        "Sergio de‐Miguel"
+      ],
+      "year": 2026,
+      "journal": "Current Forestry Reports",
+      "openalex_id": "W7223797759",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223797759",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 36%: matched 7/22 key interest terms (prescribed burning, prescribed, burning, regimes, fire regimes)",
+      "tags": [
+        "prescribed burning",
+        "prescribed",
+        "burning",
+        "regimes",
+        "fire regimes"
+      ],
+      "summary": "Abstract Purpose of review Fire is a major driver of terrestrial carbon (C) cycling, rapidly releasing carbon accumulated over decades to millennia and reshaping ecosystem structure and function across biomes.",
+      "added": false
+    },
+    {
+      "title": "Multisource remote sensing and geospatial analysis of vineyard wildfire impacts and exposure: the 2019 Kincade Fire",
+      "abstract": "Working agricultural landscapes are often treated as background to wildfire disasters, even though they are managed fuel mosaics, productive assets, and parts of regional infrastructure systems. We examine vineyard wildfire impacts and exposure during the electrically initiated 2019 Kincade Fire in Sonoma County, California, using an open, event-anchored geospatial framework spanning 4,581 vineyard fields (8,813.2 ha), wildland vegetation, surveyed structures, roads, overhead smoke, and post-fire greenness. Sentinel-2 spectral response, OpenET evapotranspiration, gridMET fire weather, USDA soils, USGS terrain, NOAA smoke polygons, an ignition-date OpenStreetMap network, and three-dimensional data inventories were analyzed at their native decision scales. Vineyard pixels displayed substantially lower descriptive dNBR than wildland pixels inside the perimeter (means 0.130 and 0.337, respectively). Yet this landscape contrast did not identify a universal vineyard firebreak effect. A segment-clustered boundary model yielded a small negative contrast at 100 m (tau = −0.0166) but changed across bandwidths, failed slope continuity, disappeared in a 100 m donut specification, and produced a large wrong-signed placebo estimate. A 250 m spatial generalized additive model showed a negative vineyard-fraction association: after conditioning on location, terrain, and water use, the joint-smooth coefficient was −0.111, and residual Moran’s I was 0.611. Beyond direct spectral impact, all mapped vineyards intersected overhead smoke on at least 1 day (mean 7.78 potential smoke-days per field), 34.2% of road-network nodes were dead ends, and vineyards within the perimeter showed a larger greenness deficit through 2021 (recovery ratios 0.815 inside and 0.854 outside). Lower immediate spectral change did not establish vine survival or recovery of agricultural function. The study offers a reproducible urban–rural informatics template that separates descriptive contrasts, conditional associations, exposure indicators, and recovery evidence for decision-making in working landscapes.",
+      "doi": "10.3389/frsus.2026.1997548",
+      "authors": [
+        "Parastoo Farajpoor",
+        "Mahla Ardebili Pour",
+        "Mohammad Ghiasi",
+        "Mohammadreza Narimani"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Sustainability",
+      "openalex_id": "W7213433852",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213433852",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 30%: matched 6/22 key interest terms (wildland, ignition, urban, wildfire, large)",
+      "tags": [
+        "wildland",
+        "ignition",
+        "urban",
+        "wildfire",
+        "large"
+      ],
+      "summary": "Working agricultural landscapes are often treated as background to wildfire disasters, even though they are managed fuel mosaics, productive assets, and parts of regional infrastructure systems.",
+      "added": false
+    },
+    {
+      "title": "Effects of predator recovery and climate change on the long‐term demography of a flagship herbivore",
+      "abstract": "ABSTRACT In the western United States, ecosystems are being reshaped from both bottom-up and top-down processes. Widespread carnivore recolonizations after 20 th century extirpations have returned top-down pressures to ecosystems, and climate change is reshaping bottom-up forces through shifts in the timing and length of growing seasons, resulting in reduced forage quality and quantity. Large herbivores, such as elk ( Cervus canadensis ), function as flagship species for conservation and have potential for both top-down and bottom-up forces to shape demography as ecosystems change. To test the roles of top-down (puma density ( Puma concolor )) and bottom-up (drought severity and elk density) processes in shaping large herbivore demography, and to tie those effects to population trajectories, we built an integrated population model (IPM) using 36 years of elk data spanning the recolonization of pumas and long-term climate change in eastern Oregon, USA. We tested the effects of top-down and bottom-up forces on elk recruitment, calf survival, and population growth. We also tested effects of bottom-up forces on elk pregnancy rates. Puma recolonization corresponded with declines in mean recruitment from 0.44 to 0.32 calves per female and in calf survival from 0.92 to 0.69, corresponding with a 4% drop in population growth. Drought severity increased over our study period, explaining a decline in mean recruitment from 0.39 to 0.32 calves per female, which corresponds to a 3% reduction in population growth. Drought severity likely acted on recruitment through reduced pregnancy rates. Lactating females showed lower pregnancy rates in drought conditions, while drought from fall breeding periods to the following fall had no effect on recruitment. While both top-down and bottom-up forces explained variation in elk demography over the course of our study, bottom-up forces are likely to be more influential on large herbivores moving forward. Predator populations stabilized following recovery, limiting the top-down contribution to annual variation in vital rates. Climate change-induced drought patterns, however, are accelerating during summer and fall throughout large areas of the interior western U.S. Thus, our results indicate the potential for increasingly strong bottom-up negative effects on herbivores whose performance depends on a narrow period of summer nutrition. Open Research Statement Data are not yet provided. Many of the data from Starkey Experimental Forest and Range are already publicly available, and we are currently working to post data for this manuscript on the Forest Service Research Data Archive (FSRDA) linked to the rest of the data from Starkey. Upon acceptance, all data and the relevant code will be archived the FSRDA. Currently, the code for the paper is publicly available on Github at https://github.com/keloonam/starkey_ipm",
+      "doi": "10.1111/1365-2656.70367",
+      "authors": [
+        "Kenneth E. Loonam",
+        "Casey L. Brown",
+        "Darren A. Clark",
+        "Mary M. Rowland",
+        "Michael J. Wisdom",
+        "Taal Levi"
+      ],
+      "year": 2026,
+      "journal": "Journal of Animal Ecology",
+      "openalex_id": "W4410609239",
+      "citation_count": 2,
+      "url": "https://openalex.org/W4410609239",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 5/22 key interest terms (states, united, united states, species, large)",
+      "tags": [
+        "states",
+        "united",
+        "united states",
+        "species",
+        "large"
+      ],
+      "summary": "ABSTRACT In the western United States, ecosystems are being reshaped from both bottom-up and top-down processes. Widespread carnivore recolonizations after 20 th century extirpations have returned top-down pressures to ecosystems, and climate change is reshaping bottom-up forces through shifts in the timing and length…",
+      "added": false
+    },
+    {
+      "title": "Co-exposure to planned power outages and wildfire PM2.5 and acute healthcare utilization in California: A time-stratified case-crossover study",
+      "abstract": "BACKGROUND: To prevent wildfires, electric utilities may preemptively de-energize power lines (public safety power shutoffs [PSPS]). These PSPS events may unintentionally harm health, particularly for those with pre-existing conditions like chronic obstructive pulmonary disease (COPD) or who rely on electricity-dependent medical equipment. Health impacts may worsen further if a wildfire occurs despite the power shutoff. To assess the effect of PSPS events, wildfire fine particulate matter (PM2.5) exposure, and their co-occurrence on cause-specific healthcare utilization. METHODS AND FINDINGS: We identified PSPS events in California from 2013 to 2019, categorizing magnitude based on number of people without power by zip code. We leveraged zip code-level average daily wildfire PM2.5 estimates and respiratory, COPD-specific, cardiovascular, and psychiatric emergency department visits and unscheduled hospital admissions among adults aged 20+ from the California Department of Health Care Access and Information. Using a time-stratified case-crossover design, we estimated the impact of same-day and lagged PSPS events alone, wildfire PM2.5 alone, and their co-occurrence on healthcare utilization, adjusting for daily temperature. Severe PSPS events were associated with elevated odds of same-day respiratory encounters (OR = 1.06, 95% CI: 1.02, 1.11) and lag0-3 effects were similar. These associations were stronger for COPD. Compared to no PSPS or wildfire exposure, joint PSPS and 10 μg/m3 higher wildfire PM2.5 was associated with higher odds of respiratory encounters (1.16 [95% CI: 1.10, 1.22]), with evidence of multiplicative interaction. Associations were null for cardiovascular and psychiatric encounters. Limitations include exposure misclassification, because we assigned exposure at the residential zip code level, aggregating circuit-level data and not accounting for individual behavior or the potential for PSPS events to impact wildfire PM2.5 exposure. CONCLUSIONS: PSPS events may increase risk of respiratory events requiring acute care utilization, especially when they co-occur with wildfire PM2.5.",
+      "doi": "10.1371/journal.pmed.1005270",
+      "authors": [
+        "Lauren Blair Wilner",
+        "Caitlin G. Jones",
+        "Chen Chen",
+        "Bethany Kwoka",
+        "Vivian Do",
+        "Joel D. Kaufman",
+        "Laura C. Myers",
+        "Tarik Benmarhnia",
+        "Joan A. Casey"
+      ],
+      "year": 2026,
+      "journal": "PLoS Medicine",
+      "openalex_id": "W7223991975",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223991975",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 15%: matched 3/22 key interest terms (occurrence, wildfire, wildfires)",
+      "tags": [
+        "occurrence",
+        "wildfire",
+        "wildfires"
+      ],
+      "summary": "BACKGROUND: To prevent wildfires, electric utilities may preemptively de-energize power lines (public safety power shutoffs [PSPS]). These PSPS events may unintentionally harm health, particularly for those with pre-existing conditions like chronic obstructive pulmonary disease (COPD) or who rely on electricity-depende…",
+      "added": false
+    },
+    {
+      "title": "Evaluation of Roof Coatings for Mitigating Fire Spread in Rooftop Photovoltaic Assemblies",
+      "abstract": "ABSTRACT Photovoltaic (PV) power systems are increasingly deployed in commercial and residential settings, particularly on large, flat rooftops of warehouses and superstores, where they enhance energy efficiency and support sustainability goals. However, the presence of roof‐mounted PV panels can significantly increase flame spread during a fire, and large‐scale installations have contributed to a rise in roof fire incidents. These fires are challenging to suppress due to the electrical activity of PV panels, often resulting in substantial property damage and environmental harm. While fire test methods such as FM 4478 “Examination Standard for Roof‐Mounted Rigid Photovoltaic Module Systems” can identify fire‐safe roof constructions and PV panel assemblies, additional solutions are needed to mitigate fire risks on existing combustible roofs. This study systematically evaluated roof coatings as a passive fire protection strategy, beginning with a characterization of fire exposure using the ASTM E108 “Standard Test Methods for Fire Tests of Roof Coverings” Class A test on simulated rooftops and PV panel decks. Three representative roof constructions were tested alongside PV panels with either plastic or glass backsheets. Results from tests involving two types of roof coatings revealed that one coating effectively reduced fire spread by forming an encapsulating barrier that prevented ignition of pyrolysate generated during pyrolysis of roofing materials. These findings support the development of a new fire test method and examination standard for roof coatings.",
+      "doi": "10.1002/fam.70113",
+      "authors": [
+        "Dong Zeng",
+        "Timothee Rodrique",
+        "Daniel Boardman"
+      ],
+      "year": 2026,
+      "journal": "Fire and Materials",
+      "openalex_id": "W7223944737",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223944737",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 3/22 key interest terms (ignition, large, fire)",
+      "tags": [
+        "ignition",
+        "large",
+        "fire"
+      ],
+      "summary": "ABSTRACT Photovoltaic (PV) power systems are increasingly deployed in commercial and residential settings, particularly on large, flat rooftops of warehouses and superstores, where they enhance energy efficiency and support sustainability goals.",
+      "added": false
+    },
+    {
+      "title": "Intermediate, rather than Isohydric or Anisohydric, Species were More Resilient to an Extreme Heatwave in a Common Garden in Sydney",
+      "abstract": "Urban forests are increasingly exposed to climate extremes, yet selecting resilient urban species remains difficult as it is unclear why some species fail and others succeed. We monitored growth and survival of 48 urban tree and shrub species, respectively, for about five years after planting, plus we quantified species' crown dieback after a natural extreme heatwave (three days with temperatures exceeding 40 degrees C) in a common garden in Sydney, Australia. For 30 species we measured 15 plant functional traits, including both hydraulic and morphological traits. Native species had less crown dieback and higher absolute growth but lower survival than exotic species. Plant functional traits linked to heat and drought tolerance explained 20-30% of the variation in observed crown dieback across species. Extensive dieback exceeding 40% after the extreme heatwave was found for seven species with large leaf size (and leaf width), high leaf relative water content, and low wood density. Nonlinear relationships between crown dieback and leaf water potential traits identified that both isohydric and anisohydric species were vulnerable, indicating that vulnerability did not align neatly with a single hydraulic strategy. Hydraulic failure likely occurred for some, but not all, vulnerable isohydric and anisohydric species, suggesting vulnerability of certain species was directly caused by cumulative thermal stress. Importantly, survival was not related to any single functional trait, indicating that crown dieback was a more sensitive and earlier indicator of cumulative thermal stress than mortality. These findings support a shift from climate of origin-based to trait-based species selection in urban forestry.",
+      "doi": "10.64898/2026.10.23.761478",
+      "authors": [
+        "Wahidullah Rahmani",
+        "Mohammad Golam Kibria",
+        "Mark G. Tjoelker",
+        "Paul L. Raymer",
+        "Renée M. Marchin"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7223927534",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223927534",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 3/22 key interest terms (urban, species, large)",
+      "tags": [
+        "urban",
+        "species",
+        "large"
+      ],
+      "summary": "Urban forests are increasingly exposed to climate extremes, yet selecting resilient urban species remains difficult as it is unclear why some species fail and others succeed.",
+      "added": false
+    },
+    {
+      "title": "Assessment of burn severity and vegetation recovery following the 2025 Palisades fire using Landsat-based spectral indices",
+      "abstract": "Background and Aims Wildfires can cause substantial changes in vegetation condition and ecosystem structure, making rapid and reliable post-fire assessment essential for environmental management. This study evaluated vegetation change, burn severity, and short-term post-fire response following the 2025 Palisades Fire in California, USA. Methods Multi-temporal Landsat 8 and Landsat 9 Collection 2 Level-2 Surface Reflectance imagery acquired on 21 December 2024 (pre-fire), 14 January 2025 (active-fire) and 15 February 2025 (early post-fire) was analyzed. Vegetation dynamics were assessed using the Normalized Difference Vegetation Index (NDVI) and differenced NDVI (dNDVI), while burn severity was evaluated using the Normalized Burn Ratio (NBR) and conventional pre-fire–post-fire differenced NBR (dNBR). Burn severity was classified into five classes. An independent accuracy assessment was performed using Sentinel-2 imagery acquired on 21 February 2025. Results Vegetation condition declined markedly during the active-fire period, followed by localized early post-fire spectral improvement. Within the 3,045.87 ha common valid pre-fire–post-fire analysis area, Moderate-High Severity represented the largest class at 1,173.78 ha (38.54%), followed by Moderate-Low Severity at 684.18 ha (22.46%) and High Severity at 592.65 ha (19.46%). Together, these three classes accounted for 80.46% of the valid analysis area. The burned–unburned classification achieved an Overall Accuracy of 83.58% and a Cohen’s Kappa coefficient of approximately 0.64. Conclusion The integration of Landsat-derived vegetation and burn-sensitive spectral indices with independent Sentinel-2 validation provides an effective framework for rapid wildfire assessment. However, early post-fire spectral improvements should not be interpreted as complete ecological recovery, and longer-term monitoring is required to evaluate ecosystem resilience.",
+      "doi": "10.53516/ajfr.2019764",
+      "authors": [
+        "Nezih Furkan ERBAŞ",
+        "Nizamettin Erbaş",
+        "Abdullah Varlık"
+      ],
+      "year": 2026,
+      "journal": "Anadolu Orman Araştırmaları Dergisi",
+      "openalex_id": "W7223896597",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223896597",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 3/22 key interest terms (wildfire, wildfires, fire)",
+      "tags": [
+        "wildfire",
+        "wildfires",
+        "fire"
+      ],
+      "summary": "Background and Aims Wildfires can cause substantial changes in vegetation condition and ecosystem structure, making rapid and reliable post-fire assessment essential for environmental management.",
+      "added": false
+    },
+    {
+      "title": "Changes in the fire resilience of black pine in response to Mediterranean climate variability over the past 300 years",
+      "abstract": "Elucidating the resilience of trees to wildfires remains a critical issue for forest conservation. The potential changes in tree resilience over time in response to the combined changes in fire regime and climate remain unknown. We hypothesised that tree resilience was influenced by mean fire-return intervals (MFI) and by their interactions with atmospheric conditions over the past 300 years, particularly during drought and hot years. This hypothesis was tested by analyzing tree-ring widths following past fires, using growth during fire-free periods as baseline, and atmospheric values (annual and seasonal temperature and precipitation, drought index and CO 2 concentration). The study focused on black pine ( Pinus nigra ) as a model species to investigate long-term ecological responses to fires in natural forests of Corsica, a western Mediterranean island. The study is based on 180 cross-dated black pines from four Corsican mountain sites. 54 fires were recorded between 1719 CE and 2012 CE. Four contrasted periods, defined according to MFI and atmospheric records are used to assess the black pine responses to fire events, MFI period, and climate. The fire resistance and resilience of trees have gradually declined since about 1850, independently of the MFI and increased atmospheric CO₂ levels. Post-fire radial growth recovery lengthened over time, indicating a decline in resistance. Concurrently, tree-ring responded more positively to precipitation and negatively to drought intensity. In isolation, fire does not compromise tree resilience. But the combined effects of drought and wildfires thus threaten black pines by shrinking their resilience mainly since 1971, which underscores the increasing vulnerability of this Mediterranean tree to fire in an increasingly dry climate.",
+      "doi": "10.1016/j.scitotenv.2026.182363",
+      "authors": [
+        "Bulle I. Alberto",
+        "Justin Badeau",
+        "Aurèle Baretje",
+        "Frédéric Guibal",
+        "Jean‐Christophe Domec",
+        "Christopher Carcaillet"
+      ],
+      "year": 2026,
+      "journal": "The Science of The Total Environment",
+      "openalex_id": "W7223833942",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223833942",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 3/22 key interest terms (wildfires, species, fire)",
+      "tags": [
+        "wildfires",
+        "species",
+        "fire"
+      ],
+      "summary": "Elucidating the resilience of trees to wildfires remains a critical issue for forest conservation. The potential changes in tree resilience over time in response to the combined changes in fire regime and climate remain unknown.",
+      "added": false
+    },
+    {
+      "title": "Developing a science strategy and science priorities for FireSat, an upcoming high spatial and temporal resolution fire monitoring system",
+      "abstract": "Abstract In many regions, wildfires are increasing in frequency, extent, and intensity, with consequences for climate, human health, and ecosystem integrity. Addressing increasing wildfires requires timely, accurate, and management-relevant observations to detect fires, characterize their behavior, and quantify their impacts around the world. This meeting report synthesizes outcomes from three international science workshops held in 2025 that brought together approximately 100 participants from academia, government, non-governmental organizations, and the private sector to develop a coordinated science strategy for FireSat, an upcoming non-governmental satellite constellation dedicated to global fire monitoring. FireSat is designed to provide unprecedented spatial (∼80 m) and temporal (sub-hourly at full deployment) resolution of active fires, enabling improved understanding of large and short-duration fires and detection of small, cool, short-duration, and understory fires that are poorly resolved by existing systems. The report outlines priority scientific opportunities spanning climate and carbon emissions, community health and safety, and ecosystem impacts. It presents a structured research timeline from 2026 to 2030 aligned with FireSat’s phased deployment. Central themes include independent validation, uncertainty characterization, integration with legacy fire datasets, and translation of science advances into operational decision support. By articulating a shared roadmap from data to science to action, this paper aims to foster complementary researcher engagement, guide and encourage investments, foster community, and accelerate the effective use of FireSat to improve fire science, management, and societal outcomes worldwide.",
+      "doi": "10.1186/s42408-026-00599-w",
+      "authors": [
+        "Brian J. Buma",
+        "E. Alvarado",
+        "J. K. Balch",
+        "K. C. Barsanti",
+        "N. R. Bjarke",
+        "J. Bratburd",
+        "N. J. Deere",
+        "A. Duane",
+        "Timothy J. Dube",
+        "M. J. Falkowski",
+        "I. Gitas",
+        "C. F. Gould",
+        "J. V. Hall",
+        "W. D. Hansen",
+        "R. Harned",
+        "P. Hessburg",
+        "C. Hoffman",
+        "H. Huang",
+        "A. T. Hudak",
+        "C. Ichoku",
+        "Y. Jin",
+        "A. Kapusta",
+        "R. E. Kennedy",
+        "M. L. Khan",
+        "A. G. Konings",
+        "Z. Li",
+        "T. Loboda",
+        "M. C. Mack",
+        "H. Mahmoud",
+        "L. Moore-Merrell",
+        "T. Mozelewski",
+        "D. Oom",
+        "S. A. Parks",
+        "B. Poulter",
+        "W. J. Requia",
+        "G. Roberts",
+        "B. M. Rogers",
+        "D. P. Roy",
+        "D. Saah",
+        "D. B. Sapsis",
+        "Edward A. G. Schuur",
+        "C. Seielstad",
+        "K.L. Shive",
+        "J.K. Shuman",
+        "W. Tang",
+        "K. Tenneson",
+        "S. Veraverbeke"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7223701343",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223701343",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 13%: matched 3/22 key interest terms (wildfires, large, fire)",
+      "tags": [
+        "wildfires",
+        "large",
+        "fire"
+      ],
+      "summary": "Abstract In many regions, wildfires are increasing in frequency, extent, and intensity, with consequences for climate, human health, and ecosystem integrity. Addressing increasing wildfires requires timely, accurate, and management-relevant observations to detect fires, characterize their behavior, and quantify their i…",
+      "added": false
+    },
+    {
+      "title": "Economic Impacts of Large-Scale Power Outages: Global Blackouts, Reliability Metrics, and Value of Lost Load",
+      "abstract": "Large-scale power outages have become a major concern not only for power-system reliability but also for economic resilience, social continuity, and critical infrastructure security. This review examines the economic impacts of major blackout events by linking outage causes, reliability metrics, sectoral interruption costs, and Value of Lost Load (VoLL)-based assessment methods. To establish a consistent analytical framework, the paper distinguishes customer-based reliability indices from energy-based measures such as Energy Not Supplied (ENS) and Expected Energy Not Served (EENS). It also clarifies the role of adequacy metrics, including Loss of Load Probability (LOLP) and Loss of Load Expectation (LOLE), and microgrid-oriented indicators such as Loss of Power Supply (LPS) and Loss of Power Supply Probability (LPSP). The review emphasizes that probability- or duration-based indices cannot be directly converted into monetary losses unless they are first expressed as energy-not-served quantities. Evidence from major events, including India 2012, North America 2003, Italy 2003, Türkiye 2015, Texas 2021, Iberia 2025, and Chile 2025, shows that outage consequences depend on the interaction between technical failure mechanisms, interruption duration, affected sectors, restoration processes, and infrastructure interdependencies. The study concludes that future outage-cost assessments should rely on transparent data reliability levels, updated sectoral cost data, dynamic VoLL estimates, and dimensionally consistent links between reliability indicators and economic losses.",
+      "doi": "10.67047/tepes.1973562",
+      "authors": [
+        "Sezai Polat",
+        "Hacer Şekerci Öztura"
+      ],
+      "year": 2026,
+      "journal": "Turkish Journal of Electrical Power and Energy Systems",
+      "openalex_id": "W7223818161",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223818161",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 2/22 key interest terms (causes, large)",
+      "tags": [
+        "causes",
+        "large"
+      ],
+      "summary": "Large-scale power outages have become a major concern not only for power-system reliability but also for economic resilience, social continuity, and critical infrastructure security.",
+      "added": false
+    },
+    {
+      "title": "Micro‐Behavioral Responses for Enhancing Urban Flood Resilience: Stated Preference Analysis of Residents' Evacuation Choices in High‐Density Urban Areas",
+      "abstract": "ABSTRACT The increasing frequency of extreme flood events in recent years has posed substantial challenges to the emergency evacuation capacity of urban areas. Existing evacuation plans are largely based on rational assumptions, overlooking the complex decision‐making mechanisms through which residents simultaneously weigh multiple attributes in real‐world scenarios. This study focuses on residents of Beijing and employs a stated preference experiment together with a conditional logit model to examine their preferences regarding evacuation distance, bottleneck risk, traffic control, and organizational mode. It further explores the heterogeneous effects of gender, age, education level, and length of residence. The results reveal that, in the face of flooding, residents' evacuation decisions are driven by survival probability rather than by minimizing travel time. The combination of intelligent signals and government‐planned routes is the only attribute consistently preferred across all groups. However, significant divergences exist among different population segments in terms of bottleneck aversion, organizational mode preference, and sensitivity to distance. Scenario analyses based on the model results indicate that the deployment of intelligent signals and government‐provided guidance yield the highest universal benefits. Dynamic management of high‐risk bottlenecks and community‐based adaptations tailored to elderly groups can effectively enhance evacuation performance. These findings challenge the conventional view of homogeneous evacuation decision‐making among residents and highlight marked differences in risk avoidance choices across population groups, providing empirical support for shifting emergency management from persuasion‐based strategies to differentiated resilience approaches.",
+      "doi": "10.1111/jfr3.70272",
+      "authors": [
+        "Jia Xu",
+        "Yongzhen Wang",
+        "Can Wang",
+        "Qiang Lin"
+      ],
+      "year": 2026,
+      "journal": "Journal of Flood Risk Management",
+      "openalex_id": "W7223864908",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223864908",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/22 key interest terms (urban)",
+      "tags": [
+        "urban"
+      ],
+      "summary": "ABSTRACT The increasing frequency of extreme flood events in recent years has posed substantial challenges to the emergency evacuation capacity of urban areas. Existing evacuation plans are largely based on rational assumptions, overlooking the complex decision‐making mechanisms through which residents simultaneously w…",
+      "added": false
+    },
+    {
+      "title": "Black carbon aerosols intensified India’s 2015 mega heatwave and expanded heat stress exposure",
+      "abstract": "Abstract Large-scale climatic drivers are known to amplify heatwave temperatures, whereas aerosols have complex regional temperature responses depending upon aerosol composition. With the help of recent observations and chemistry-coupled regional climate model simulations, we show that coincident aerosols—black carbon in particular—elevated the heatwave intensity of India’s deadly 2015 heatwave event. During the heatwave period in 2015, aerosols increased daily temperature maxima by 0.2–1.5 °C, which was spatially averaged over the heatwave-affected region. Further, increased surface humidity from aerosol-induced dynamic changes in moisture transport activated a moist heat stress episode, increasing daily wet-bulb temperature maxima by 0.25–1.8 °C. Overall, the aerosol effects additionally exposed about 30 million persons and 0.2 million km² of land area to extremely dry and moist heat stress. This highlights the need for a coordinated clean air and climate strategy, addressing the emission sources of black carbon for efficient air quality and heat stress management.",
+      "doi": "10.1038/s43247-026-04157-9",
+      "authors": [
+        "Dewashish Tiwari",
+        "A K Sharma",
+        "Manish Kumar Dhasmana",
+        "Arpita Mondal",
+        "Chandra Venkataraman"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7165391084",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7165391084",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 2/22 key interest terms (drivers, large)",
+      "tags": [
+        "drivers",
+        "large"
+      ],
+      "summary": "Abstract Large-scale climatic drivers are known to amplify heatwave temperatures, whereas aerosols have complex regional temperature responses depending upon aerosol composition.",
+      "added": false
+    },
+    {
+      "title": "Ruination conservation: Protecting life in Anthropocene ecosystems. Peñuelas Reserve, Chile",
+      "abstract": "This article introduces the concept of ruination conservation to analyze how environmental protection is enacted in novel ecosystems under conditions of damage, hybridity, and institutional precarity in the Anthropocene. Moving beyond conservation models that seek to restore pristine nature, we examine conservation as a situated practice oriented toward sustaining life in irreversibly altered landscapes. Drawing on a deep qualitative research conducted in the Lago Peñuelas National Reserve in central Chile between 2023 and 2026—including 15 ethnographic fieldwork visits, 21 in-depth interviews, and documentary analysis—we conceptualize conservation as a form of socio-ecological care shaped by historical interventions, infrastructural decay, and competing land uses. We identify three defining features of ruination conservation. First, it entails the acceptance of ecological impurity, where native and exotic species, as well as hybrid forms of life, coexist within degraded environments. Second, it operates under conditions of precarity, where limited resources, porous territorial boundaries, and institutional fragility constrain conservation practices. Third, it is fundamentally reactive, oriented toward managing ongoing disturbances—such as wildfires, drought, and resource extraction—rather than achieving long-term ecological restoration. Through this case, we show how conservation in novel ecosystems often involves negotiating unstable socio-ecological balances amid conflicting valuations of nature and persistent environmental pressures.",
+      "doi": "10.1177/25148486261500250",
+      "authors": [
+        "Tomás Undurraga",
+        "Tomás Ariztía",
+        "Mario Fergnani"
+      ],
+      "year": 2026,
+      "journal": "Environment and Planning E Nature and Space",
+      "openalex_id": "W7223926951",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223926951",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 2/22 key interest terms (wildfires, species)",
+      "tags": [
+        "wildfires",
+        "species"
+      ],
+      "summary": "This article introduces the concept of ruination conservation to analyze how environmental protection is enacted in novel ecosystems under conditions of damage, hybridity, and institutional precarity in the Anthropocene.",
+      "added": false
+    },
+    {
+      "title": "Economic viability and environmental benefits of birch reforestation in disaster-affected areas",
+      "abstract": "Introduction Large-scale forest disturbances caused by bark beetle outbreaks, windstorms, and climate change have created extensive forest clearings that require rapid reforestation. In practice, however, reforestation is frequently delayed by shortages of seedlings, labor, and financial resources. Such delays accelerate soil degradation, reduce the productivity of future forest stands, and increase long-term restoration costs. Although pioneer tree species are widely recognized for their ecological benefits, their role as an economically efficient emergency reforestation strategy has received little attention. Methods This study develops a simulation model to evaluate the long-term economic performance of alternative reforestation strategies under post-disturbance conditions. Using detailed data from Czech forestry, the model simulates 160 years of forest development while incorporating silvicultural operations, harvesting, timber revenues, varying levels of soil degradation caused by delayed reforestation, and stochastic variation in forest characteristics and market conditions. Eight alternative reforestation strategies, including direct sowing of birch, planted birch, and two-phase regeneration combining birch with beech, are evaluated using free cash flow, net present value, and internal rate of return. Results The results demonstrate that direct sowing of birch substantially reduces establishment costs while maintaining favorable long-term economic performance. Among the broadleaved alternatives, birch consistently provides the highest economic returns and remains financially attractive even under increasing soil degradation associated with delayed reforestation. Although Norway spruce generates higher expected timber revenues under historical price conditions, these returns are accompanied by substantially greater ecological and production risks that are not reflected in conventional financial indicators. The simulation further shows that establishing pioneer birch stands followed by subsequent conversion to beech represents a viable strategy that combines rapid site stabilization with long-term forest diversification. Discussion These findings suggest that birch should not be regarded merely as a temporary pioneer species but as a strategic component of climate-resilient forest management. The proposed simulation framework provides a practical decision-support tool for selecting economically efficient emergency reforestation strategies following large-scale forest disturbances and can readily be adapted to forest ecosystems beyond the Czech Republic.",
+      "doi": "10.3389/fenvs.2026.1835267",
+      "authors": [
+        "Lenka Viskotová",
+        "Jitka Janová",
+        "Nino Gochitidze",
+        "Antonín Martiník",
+        "David Hampel"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Environmental Science",
+      "openalex_id": "W7224122896",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224122896",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 2/22 key interest terms (species, large)",
+      "tags": [
+        "species",
+        "large"
+      ],
+      "summary": "Introduction Large-scale forest disturbances caused by bark beetle outbreaks, windstorms, and climate change have created extensive forest clearings that require rapid reforestation. In practice, however, reforestation is frequently delayed by shortages of seedlings, labor, and financial resources.",
+      "added": false
+    },
+    {
+      "title": "Integrating Diverse Perspectives for Safer Fire Designs: The Case for Convergence Research",
+      "abstract": "ABSTRACT A narrow view of fire safety often overlooks the complex web of factors that shape the real‐world risks for building occupants, community members, people in temporary shelter, and those without housing. Many studies examine individual components of fire safety, such as fire hazards, building performance, and human behavior. However, there has been limited interrogation of the complex interactions between the fire hazard, building (shelter), and human factors, with even less including the social and cultural components. Research that crosses these boundaries in a suitably joined‐up way is scarce. Ignoring these intersections often leads to siloed fire safety interventions that fail to capture the dynamic and systemic nature of fire risk, perpetuating the lack of interdisciplinarity and representation in the fire safety field. Traditional multi‐ or interdisciplinary approaches often struggle to overcome disciplinary boundaries or institutional constraints, resulting in continued siloed understanding of the fire problem. This paper argues that a convergence approach, one that fosters collaboration across technical, social, and human‐centered domains, is essential for understanding and addressing fire risk holistically. We take the first steps towards outlining such a framework by drawing on a case study of fire risk in buildings and shelters. Through this example we show how different perspectives can be brought together to capture the complexity of fire safety challenges, proposing a clear direction for developing integrated, equitable, and more effective approaches to fire risk reduction.",
+      "doi": "10.1002/fam.70111",
+      "authors": [
+        "Sandra Vaiciulyte",
+        "Brian J. Meacham"
+      ],
+      "year": 2026,
+      "journal": "Fire and Materials",
+      "openalex_id": "W7223955191",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223955191",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/22 key interest terms (fire)",
+      "tags": [
+        "fire"
+      ],
+      "summary": "ABSTRACT A narrow view of fire safety often overlooks the complex web of factors that shape the real‐world risks for building occupants, community members, people in temporary shelter, and those without housing.",
+      "added": false
+    },
+    {
+      "title": "Bibliometric Analysis of Climate Change and Agritourism Sustainability in Rural Destinations",
+      "abstract": "Rural agritourism is increasingly studied in the context of climate change and sustainability. However, less attention has been paid to how it might assist local communities under pressure from climate. The research literature spans a range of topics related to tourism, agricultural adaptation, rural development and sustainability. This study examines the research structure to show how the field has developed and what topics still need more attention. Data covered publications from 1987 to 2025 and were collected on 25 December 2025. The search retrieved 216 documents from Scopus and 183 from Web of Science. After removing duplicates and one retracted document, a total of 281 documents were obtained. The study used performance analysis together with three mapping techniques. These included author co-citation, keyword co-occurrence and strategic thematic mapping. A total of 226 documents were published after 2017. They represented 80.4% of the dataset. Rural tourism and climate change became the main themes. The co-citation results identified four intellectual foundations. Tourism development and agricultural adaptation formed two foundations, whereas institutional support and climate-tourism sustainability shaped the remaining two. The keyword network highlighted farm vulnerability and tourism sustainability. Management and destination adaptation were also prominent. Basic themes offer a general framework of the field, and rural tourism and climate change are the core references. Motor themes are agricultural risks and land-use effects. Their position shows an active research direction. Specialized management and adaptation remain niche themes. Low-centrality themes such as place attachment and smallholder views have limited connections with the wider thematic structure. Future studies should examine adaptive governance across climate zones. Smallholder responses to climate stress also require attention. The role of place attachment in rural adaptation should be explored. Received: 28 April 2026 | Revised: 30 August 2026 | Accepted: 25 September 2026 Conflicts of Interest The authors declare that they have no conflicts of interest to this work. Data Availability Statement The data used in this study were retrieved from the Scopus and WoS databases and are available at https://data.mendeley.com/preview/mmw9793p9c?a=5c2a417c-432a-4df9-b9b d-c30818e. The dataset supporting Table A5 is available in the Mendeley Data repository at https://data.mendeley.com/datasets/ mmw9793p9c/1. Author Contribution Statement Ninh Van Nguyen: Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Resources, Data curation, Writing – original draft, Writing – review & editing, Visualization, Project administration. Tran Van Tam: Writing – original draft, Writing – review & editing.",
+      "doi": "10.47852/bonviewglce620210202",
+      "authors": [
+        "Ninh Van Nguyen",
+        "Tran Van Tam"
+      ],
+      "year": 2026,
+      "journal": "Green and Low-Carbon Economy",
+      "openalex_id": "W7223884532",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223884532",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/22 key interest terms (occurrence)",
+      "tags": [
+        "occurrence"
+      ],
+      "summary": "Rural agritourism is increasingly studied in the context of climate change and sustainability. However, less attention has been paid to how it might assist local communities under pressure from climate.",
+      "added": false
+    },
+    {
+      "title": "Immune dysregulation and adaptive resilience in response to air pollution",
+      "abstract": "Air pollution is increasingly recognized as an important environmental factor associated with immune dysfunction and disease susceptibility. This narrative review critically synthesizes current evidence on the molecular and cellular mechanisms by which airborne pollutants may alter immune homeostasis and influence adaptive resilience. Particular attention is given to particulate, gaseous, semi-volatile, and biologically derived pollutants, including particulate matter, ozone, nitrogen dioxide, polycyclic aromatic hydrocarbons, metals, wildfire smoke, pollen, and microbial aerosols. The reviewed evidence indicates that pollutant exposure can induce oxidative stress, mitochondrial dysfunction, epithelial barrier injury, inflammatory signaling, epigenetic alterations, and dysregulation of innate and adaptive immune-cell functions. These responses are highly context-dependent and vary according to pollutant composition, concentration, exposure duration, co-exposures, experimental model, and host susceptibility. Human, animal, and in vitro findings further suggest that persistent exposure may impair pathogen defense and alter macrophage, dendritic-cell, neutrophil, T-cell, and regulatory T-cell responses, while epidemiological evidence associates air-pollution exposure with increased susceptibility to infectious, allergic, respiratory, cardiovascular, and selected immune-mediated outcomes. The review also highlights the importance of the exposome, indoor and outdoor exposure environments, pollutant mixtures, and the gut-lung axis in shaping individual vulnerability. In addition, adaptive mechanisms involving antioxidant signaling, autophagy, epithelial repair, immune regulation, and microbiome-associated responses may initially support resilience but may become insufficient under persistent or high-intensity exposure. By integrating pollutant characteristics, target cells, molecular pathways, immune outcomes, and study systems, this review proposes a multidimensional framework for interpreting the potential transition from protective adaptation to maladaptive immune dysregulation and identifies priorities for future mechanistic, translational, and preventive research. Clinical trial registration: Not applicable. This study is a narrative review and does not report on a clinical trial.",
+      "doi": "10.1007/s11084-026-09772-2",
+      "authors": [
+        "Avetis Tsaturyan",
+        "Lala Stepanyan",
+        "Vigen B. Goginyan",
+        "Haykuhi Azizyan",
+        "Lusine Balayan",
+        "Zhaklina Saribekyan",
+        "Tatevik Hovhannes Sargsyan",
+        "Giovanni Nicola Roviello"
+      ],
+      "year": 2026,
+      "journal": "Discover Life",
+      "openalex_id": "W7223674885",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223674885",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 4%: matched 1/22 key interest terms (wildfire)",
+      "tags": [
+        "wildfire"
+      ],
+      "summary": "Air pollution is increasingly recognized as an important environmental factor associated with immune dysfunction and disease susceptibility. This narrative review critically synthesizes current evidence on the molecular and cellular mechanisms by which airborne pollutants may alter immune homeostasis and influence adap…",
+      "added": false
+    },
+    {
+      "title": "Genetic erosion and projected habitat loss in the protected Alpine moth Actias isabellae galliaegloria (Lepidoptera: Saturniidae)",
+      "abstract": "Abstract Montane and specialist insects are particularly vulnerable to habitat loss and climate change. The Spanish Moon Moth ( Actias isabellae ), a rare and protected species, hosts an isolated Alpine population (subspecies galliaegloria ), whose conservation status remains unclear. We combined Restriction‐site Associated DNA sequencing (RADseq) and Ecological Niche Modelling (ENM) to assess its genetic diversity, population structure and environmental vulnerability. Genomic analyses revealed extremely low genetic diversity and inbreeding in the Alpine subspecies, consistent with a historical bottleneck, reducing adaptive potential. Species distribution models predict a major contraction of suitable habitat by 2050 due to rising temperatures and declines in its primary host, Scots pine ( Pinus sylvestris ). These findings highlight the compounded risks posed by genetic impoverishment and habitat loss, emphasizing the urgent need for targeted conservation measures. Our study demonstrates the value of integrating genomic and ecological approaches to evaluate extinction risk and guide management strategies for montane specialist insects under rapid environmental change.",
+      "doi": "10.1111/icad.70151",
+      "authors": [
+        "Flora Lambert-Auger",
+        "Marina Querejeta",
+        "Stéphane Boyer",
+        "Marta Vila",
+        "Carlos López‐Vaamonde",
+        "Jérémy Gauthier"
+      ],
+      "year": 2026,
+      "journal": "Insect Conservation and Diversity",
+      "openalex_id": "W7223879010",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223879010",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 3%: matched 1/22 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Abstract Montane and specialist insects are particularly vulnerable to habitat loss and climate change. The Spanish Moon Moth ( Actias isabellae ), a rare and protected species, hosts an isolated Alpine population (subspecies galliaegloria ), whose conservation status remains unclear.",
+      "added": false
+    },
+    {
+      "title": "Quantifying and attributing CO emissions over Central Asia using TROPOMI and explicit observational uncertainty",
+      "abstract": "Abstract. Carbon monoxide (CO) is a crucial atmospheric constituent influencing both air quality and climate. Using TROPOMI CO and HCHO column retrievals within the Model-Free Inversion Estimation Framework (MFIEF), this study quantified daily, gridded CO emissions in Central Asia (Xinjiang-China, Kazakhstan, Kyrgyzstan, and Uzbekistan) for 2019–2024. Results reveal a marked interannual decline of ~ 38 % in mean emissions, accompanied by a weakening of emission hotspots. Seasonal peaks in winter and early spring highlight the roles of heating and industrial demand. Importantly, explicit perturbation-based uncertainty analysis showed that ~ 69 % of grid-level estimates are unreliable if observational uncertainties are ignored or using an overly simplified emissions estimation approach, underscoring the nonlinear propagation of retrieval errors. By integrating coal consumption data, we confirm the consistency between satellite-inferred emissions and bottom-up activity estimates, while also identifying missing sources such as underground coal fires. This study demonstrates the effectiveness of MFIEF in data-scarce regions, provides actionable insights for inventory improvement and mitigation strategies, and highlights the framework's potential extension to CH4 and CO2 retrieval-based emission estimation.",
+      "doi": "10.5194/acp-26-15139-2026",
+      "authors": [
+        "Ye Feng",
+        "Jason Blake Cohen",
+        "Xiaolu Li",
+        "Lingxiao Lu",
+        "Shuo Wang",
+        "Zhewen Liu",
+        "Lei Wang",
+        "Jian Liu",
+        "Kai Qin"
+      ],
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "openalex_id": "W7118580054",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7118580054",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "Abstract. Carbon monoxide (CO) is a crucial atmospheric constituent influencing both air quality and climate. Using TROPOMI CO and HCHO column retrievals within the Model-Free Inversion Estimation Framework (MFIEF), this study quantified daily, gridded CO emissions in Central Asia (Xinjiang-China, Kazakhstan, Kyrgyzsta…",
+      "added": false
+    },
+    {
+      "title": "Informality, Adaptive Capacity, and Natural Hazard-Related Disasters: A Partial Least Squares Structural Equation Modeling Exploration of Governance for Disaster Readiness",
+      "abstract": "Abstract This article explores the interplay between the informal economy, adaptive capacity to natural hazard-related disasters, and disaster impact, drawing on annual data from 1993 to 2020 for a sample of 39 disaster-prone countries. The analysis employs the partial least squares structural equation modeling (PLS-SEM) approach, defining four latent constructs representing informality and governance, economic, and social readiness, respectively. The results highlight governance as a foundational driver of resilience: it exerts positive effects on economic (β = 0.672) and social readiness (β = 0.636), while significantly lowering informality (β = − 0.454). Informality, by contrast, undermines governance (β = − 0.454) and economic readiness (β = − 0.230), and directly amplifies disaster impact (β = 0.132). No significant direct effects are observed from governance, economic, or social readiness on disaster impact, underscoring that adaptive capacity operates primarily through indirect pathways. Mediation analysis reveals that informality fully mediates the link between governance readiness and disaster impact, while governance readiness complements the relationship between informality and economic readiness, underscoring the need for policies that strengthen governance and reduce informality to build comprehensive disaster preparedness.",
+      "doi": "10.1007/s13753-026-00783-1",
+      "authors": [
+        "Raluca Maran"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Disaster Risk Science",
+      "openalex_id": "W7223686899",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223686899",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "Abstract This article explores the interplay between the informal economy, adaptive capacity to natural hazard-related disasters, and disaster impact, drawing on annual data from 1993 to 2020 for a sample of 39 disaster-prone countries.",
+      "added": false
+    },
+    {
+      "title": "“Silent offspring”: Multigenerational epigenetic toxicity of aryl hydrocarbon receptor agonists",
+      "abstract": "In this review article, we build on the environmental warnings first articulated by Rachel Carson's Silent Spring, tracing pollutants from ecosystems and human-modified environments to their subtle inscription in molecular systems that control gene expression and associated biological functioning of future generations. Here, we use polycyclic aromatic hydrocarbons (PAHs) as the primary case study to examine associations among contaminant exposure, epigenetic alterations, and phenotypic outcomes across generations, while recognizing that evidence demonstrating causal mediation by specific epigenetic alterations remains limited. This evidence challenges the assumption that chemical effects are limited to directly exposed organisms. Instead, it suggests that certain environmental pollutants may influence biological outcomes across generation through persistent alterations in epigenetic regulation. Evidence that certain AhR agonists may produce effects across generations identifies a potential gap in current chemical risk assessment and highlights the need for further research on how such hazards could be evaluated within regulatory frameworks.",
+      "doi": "10.1016/j.etap.2026.105209",
+      "authors": [
+        "Francisco Carlos da Silva",
+        "Augusto Monteiro de Souza",
+        "Sílvia Regina Batistuzzo de Medeiros",
+        "Markus Hecker"
+      ],
+      "year": 2026,
+      "journal": "Environmental Toxicology and Pharmacology",
+      "openalex_id": "W7223573381",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223573381",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "In this review article, we build on the environmental warnings first articulated by Rachel Carson's Silent Spring, tracing pollutants from ecosystems and human-modified environments to their subtle inscription in molecular systems that control gene expression and associated biological functioning of future generations.",
+      "added": false
+    },
+    {
+      "title": "Integrating arbuscular mycorrhizal fungi in Mediterranean Climate-Smart Viticulture: Progress, bottlenecks, and future directions",
+      "abstract": "Climate change is increasingly threatening global viticulture through rising temperatures, changing rainfall patterns, and extreme weather events, affecting grapevine physiology, yield, composition and vineyard health and, ultimately, leading to changes in wine composition and typicity. Particular attention is being paid to arbuscular mycorrhizal fungi (AMF), soil microorganisms that form symbiotic associations with grapevine roots. They are able to improve water and nutrient uptake and plant tolerance to environmental stressors. This review summarizes the current knowledge on the impact of climate change on grapevine performance, focusing on Mediterranean viticulture, as well as the range of potential short- and long-term adaptation strategies to reduce its effects. Among them, this review explores integrating AMF into climate-smart viticulture and describes their potential to enhance grapevine resilience to environmental stresses. The review discusses how climate change may influence native mycorrhizal communities in vineyard soils and when commercial AMF inoculants may be necessary to apply. Additionally, it addresses the opportunities and limitations associated with their use. Overall, the available evidence suggests that AMF are a promising component of sustainable vineyard management and may improve vineyard resilience under future climate scenarios. However, more research is needed to optimize their application and understand their long-term effects on different viticultural systems.",
+      "doi": "10.1093/jxb/erag550",
+      "authors": [
+        "Daria Kozikova",
+        "Inmaculada Pascual",
+        "Nieves Goicoechea"
+      ],
+      "year": 2026,
+      "journal": "Journal of Experimental Botany",
+      "openalex_id": "W7224124617",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224124617",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "Climate change is increasingly threatening global viticulture through rising temperatures, changing rainfall patterns, and extreme weather events, affecting grapevine physiology, yield, composition and vineyard health and, ultimately, leading to changes in wine composition and typicity.",
+      "added": false
+    },
+    {
+      "title": "Resolving carbon–timber trade-offs through age-structured forest management in China",
+      "abstract": "Abstract Forests are critical for climate mitigation, yet minimizing harvesting may accelerate forest aging and mortality, potentially constraining long-term carbon sequestration while increasing timber dependence. Using 15.5 million tree records from China’s National Forest Inventory and a spatially explicit forest dynamics model, we assessed how alternative harvesting strategies affect carbon storage and wood production through 2100 under climate change. We show that current low-intensity harvesting promotes forest aging and mortality over time, reducing carbon-retention efficiency. In contrast, age-structured and spatially differentiated harvesting, expanded to suitable multifunctional forests, maintains more dynamic forest age structures, lowers mortality losses, increases total forest carbon stocks by 4.2%, and enhances timber production by 38% relative to current management regime. Despite modest reductions in standing biomass, gains in harvested wood products and reduced mortality have potential to generate a net climate benefit. Our results demonstrate that optimizing forest age structure through rational harvesting can reconcile carbon sequestration and wood supply, providing a scalable pathway for sustainable forest management.",
+      "doi": "10.1093/nsr/nwag677",
+      "authors": [
+        "Zhen Yu",
+        "Shirong Liu",
+        "Yude Pan",
+        "Stephen A. Sitch",
+        "Weiguo Liu",
+        "Evgenios Agathokleous",
+        "Liqing Peng",
+        "Pengsen Sun",
+        "Yanli Dong",
+        "Weibin You",
+        "Hanqin Tian",
+        "Josep Peñuelas"
+      ],
+      "year": 2026,
+      "journal": "National Science Review",
+      "openalex_id": "W7223782708",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223782708",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "Abstract Forests are critical for climate mitigation, yet minimizing harvesting may accelerate forest aging and mortality, potentially constraining long-term carbon sequestration while increasing timber dependence.",
+      "added": false
+    },
+    {
+      "title": "Türkiye’de yıldırım kaynaklı orman yangını aktivitesindeki uzun dönemli değişimin zamansal eğilimi",
+      "abstract": "Ülkemizdeki orman yangınlarının büyük çoğunluğu doğrudan ya da dolaylı insan faaliyetleri sonucu çıkmaktadır. Türkiye’de 1997–2024 döneminde orman yangınların yaklaşık %12’si doğal nedenlerle meydana gelmiş olsa da, bu yangınlar doğal yangın aktivitesinin anlaşılması açısından büyük önem taşımaktadır. Doğal yangınların temel tutuşturucu kaynağı yıldırımın, iklim değişikliğine bağlı olarak değişen atmosferik koşullardan etkilenmesi, yıldırım kaynaklı orman yangınlarının zamansal değişiminin araştırılmasını gerekli kılmaktadır. Bu çalışma, Türkiye’de 1997–2024 döneminde meydana gelen yıldırım kaynaklı orman yangınlarının uzun dönemli zamansal değişimini ortaya koymayı amaçlamaktadır. Bu amaçla, yıldırım kaynaklı yangın sayısı, toplam yanan alan miktarı ve ortalama yangın büyüklüğündeki eğilimler Uyarlanmış Mann–Kendall testi ve Sen’in eğim (Sen's slope) analizi kullanılarak değerlendirilmiştir. Elde edilen sonuçlar, yıldırım kaynaklı orman yangını sayısında istatistiksel olarak anlamlı bir artış olduğunu ortaya koyarken, toplam yanan alan miktarı ve ortalama yangın büyüklüğünde anlamlı bir değişim olmadığını göstermiştir. Bu bulgular, Türkiye’de yıldırım kaynaklı yangınların daha sık meydana geldiğini ancak yangınların büyüklüğünün aynı oranda artmadığını ortaya koymaktadır. Bu durum, yangınla mücadelede teknolojik gelişmeler ve müdahale kapasitesindeki artışın yangınların kontrol altına alınmasında etkili olabileceğine işaret etmektedir. Çalışmanın sonuçları, iklim değişikliği koşullarında yıldırım kaynaklı yangın aktivesindeki değişimlerin anlaşılması ve yıldırım kaynaklı yangınlara yönelik risk yönetim planlarının geliştirilmesi açısından önemli bilgiler sunmaktadır.",
+      "doi": "10.18182/tjf.1973155",
+      "authors": [
+        "Merih Göltaş"
+      ],
+      "year": 2026,
+      "journal": "Turkish Journal of Forestry | Türkiye Ormancılık Dergisi",
+      "openalex_id": "W7224015719",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224015719",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "Ülkemizdeki orman yangınlarının büyük çoğunluğu doğrudan ya da dolaylı insan faaliyetleri sonucu çıkmaktadır. Türkiye’de 1997–2024 döneminde orman yangınların yaklaşık %12’si doğal nedenlerle meydana gelmiş olsa da, bu yangınlar doğal yangın aktivitesinin anlaşılması açısından büyük önem taşımaktadır.",
+      "added": false
+    },
+    {
+      "title": "Comprendiendo la sostenibilidad a través del modelo de la Gran Historia",
+      "abstract": "En este artículo, analizamos el modelo de la Gran Historia desarrollado por David Christian y otros autores a la luz de los desafíos ecológicos contemporáneos y el correspondiente marco normativo de la sostenibilidad. Para ello, primero examinamos el marco teórico de la Big History y sus posibles límites y beneficios para el análisis. En segundo lugar, consideramos las dos fuerzas impulsoras que parecen subyacer en el modelo: las nociones de energía y complejidad, y sus implicaciones para la historia de la humanidad. Finalmente, relacionamos el marco teórico de la Gran Historia con el de la sostenibilidad y abordamos críticamente este concepto.",
+      "doi": "10.3989/arbor.2026.816.3060",
+      "authors": [
+        "Isabel Roldán Gómez",
+        "Luciano Espinosa Rubio"
+      ],
+      "year": 2026,
+      "journal": "Arbor",
+      "openalex_id": "W7224015705",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224015705",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/22 key interest terms",
+      "tags": [],
+      "summary": "En este artículo, analizamos el modelo de la Gran Historia desarrollado por David Christian y otros autores a la luz de los desafíos ecológicos contemporáneos y el correspondiente marco normativo de la sostenibilidad.",
+      "added": false
+    }
+  ]
+}
