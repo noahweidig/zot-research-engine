@@ -14,6 +14,8 @@ search:
     - "social factors drivers of large wildfires"
     - "future climate scenarios wildfire risk united states"
     - "prescribed burn fire reduce wildfire risk"
+    - "wildland-urban interface wildfire united states"
+    - "invasive species and fire united states"
   # Only consider papers published within the last N days.
   days_back: 7
   # Maximum number of results to request per query, per source.
@@ -25,9 +27,9 @@ relevance:
   # Free-text description of your research interests. Fed to Gemini to score
   # each paper. Be specific — this drives the whole relevance judgement.
   interests: >
-    large wildfires eastern united states, prescribed burning eastern united states,
-    drivers of large wildfires, ignition causes of large wildfires, 
-    wildfire occurrence united states
+    fire ecology in the united states, large wildfires, prescribed burning,
+    fire regimes, drivers and ignition causes of wildfires, wildfire occurrence,
+    wildland-urban interface, invasive species and fire
 
 zotero:
   # "user" or "group". Must match your ZOTERO_LIBRARY_TYPE env var.

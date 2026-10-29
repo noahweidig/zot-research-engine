@@ -140,11 +140,12 @@ variables / GitHub Secrets.
 
 ## 6. Understanding the Output
 
-**Zotero tags.** Every added item is tagged with:
-- `AI Suggested` — added by this pipeline.
-- `Score N` — the relevance score (1–5).
-- Plus any topic tags (from Gemini enrichment, or the matched interest terms
-  when Gemini is unavailable).
+**Zotero tags.** Added items carry only topic tags: 2–5 short lowercase tags
+on fire, ecology or US geography (from Gemini enrichment, or the matched
+interest terms when Gemini is unavailable). Tags are normalized by
+`pipeline/tags.py`: lowercased, whitespace collapsed, de-duplicated, capped at 6;
+placeholders (`n/a`, `todo`), truncated (`...`) and over-5-word tags are dropped.
+No `AI Suggested` or `Score N` tags are written.
 
 **The report.** Each run writes two files to `reports/`:
 - `YYYY-MM-DD.md` — a human-readable review: summary statistics, a detailed entry
