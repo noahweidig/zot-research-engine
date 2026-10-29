@@ -31,6 +31,7 @@ from tenacity import (
 
 from config import PipelineConfig
 from pipeline.models import Paper, RankedPaper
+from pipeline.tags import normalize_tags
 
 logger = logging.getLogger(__name__)
 
@@ -40,6 +41,10 @@ SYSTEM_PROMPT = """\
 You are a research assistant helping a scientist triage academic literature.
 The paper below has already been judged relevant. Write a concise, accurate
 enrichment for it. Return only valid JSON matching the schema; no commentary.
+
+Tags: give 2-5 short lowercase tags (1-3 words each) about fire, ecology or
+US geography (e.g. "prescribed fire", "fuel treatment", "southeastern us").
+No scores, no "ai suggested", no placeholders.
 
 Researcher interests: {interests}
 
@@ -52,7 +57,9 @@ class GeminiEnrichment(BaseModel):
     """Structured enrichment returned by Gemini for a single shortlisted paper."""
 
     reason: str = Field(description="One sentence on why this paper is relevant")
-    tags: list[str] = Field(description="Relevant topic tags")
+    tags: list[str] = Field(
+        description="2-5 short lowercase tags on fire, ecology or US geography"
+    )
     summary: str = Field(description="2-3 sentence plain-language summary")
 
 
@@ -143,8 +150,9 @@ def _enrich_one(
             return
 
     paper.reason = enrichment.reason
-    if enrichment.tags:
-        paper.tags = enrichment.tags
+    tags = normalize_tags(enrichment.tags)
+    if tags:
+        paper.tags = tags
     if enrichment.summary:
         paper.summary = enrichment.summary
     logger.info("Enriched: %s", paper.title)

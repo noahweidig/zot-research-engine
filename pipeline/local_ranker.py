@@ -26,6 +26,7 @@ from collections import Counter
 
 from config import PipelineConfig
 from pipeline.models import Paper, RankedPaper
+from pipeline.tags import normalize_tags
 
 logger = logging.getLogger(__name__)
 
@@ -193,7 +194,7 @@ def rank_papers(papers: list[Paper], config: PipelineConfig) -> list[RankedPaper
         score = _bucket_score(coverage, thresholds)
 
         top = sorted(matched, key=lambda g: idf[g], reverse=True)[:_MAX_TAGS]
-        tags = [g.title() for g in top]
+        tags = normalize_tags(top)
         n_interest = len(set(interest_grams))
         reason = (
             f"Lexical relevance {coverage:.0%}: matched "

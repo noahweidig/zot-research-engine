@@ -13,6 +13,7 @@ from pyzotero import zotero
 
 from config import PipelineConfig
 from pipeline.models import RankedPaper
+from pipeline.tags import normalize_tags
 
 logger = logging.getLogger(__name__)
 
@@ -104,8 +105,7 @@ class ZoteroClient:
                     {"creatorType": "author", "lastName": name, "firstName": ""}
                 )
 
-        tags = [{"tag": "AI Suggested"}, {"tag": f"Score {paper.score}"}]
-        tags += [{"tag": t} for t in paper.tags]
+        tags = [{"tag": t} for t in normalize_tags(paper.tags)]
 
         return {
             "itemType": "journalArticle",
