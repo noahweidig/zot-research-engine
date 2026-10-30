@@ -1,0 +1,980 @@
+{
+  "date": "2026-10-30",
+  "statistics": {
+    "fetched": 172,
+    "duplicates_removed": 130,
+    "evaluated": 42,
+    "added": 1,
+    "ignored": 41,
+    "average_score": 1.31
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Chemical Ecology and Management of Imported Fire Ants",
+      "abstract": "Imported fire ants ( Solenopsis invicta and S. richteri ) are invasive pests that were introduced into the United States via Mobile, Alabama, in the early twentieth century. As these species spread, interbreeding led to the emergence of hybrid populations. Their rapid expansion and ecological dominance prompted extensive control efforts, including chemical eradication campaigns and biologically informed strategies. Today, fire ants infest over 140 million hectares across the southern United States, affecting public health, agriculture, and ecosystems. Despite decades of research, many fire ant semiochemicals remain unidentified because of the ants’ complex social behavior and because multicomponent chemical signals occur in trace amounts and are difficult to isolate, especially those involved in aerial mating. Additionally, components often lack activity unless presented in specific combinations. These challenges limit traditional bioassay-guided structure elucidation. This review summarizes advances in fire ant chemical ecology, highlights persistent knowledge gaps, and proposes innovative strategies to accelerate pheromone discovery and improve management.",
+      "doi": "10.1146/annurev-ento-012826-052349",
+      "authors": [
+        "Jian Chen"
+      ],
+      "year": 2026,
+      "journal": "Annual Review of Entomology",
+      "openalex_id": "W7224091175",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224091175",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 62%: matched 7/14 key interest terms (united, united states, fire, states, invasive)",
+      "tags": [
+        "united",
+        "united states",
+        "fire",
+        "states",
+        "invasive"
+      ],
+      "summary": "Imported fire ants ( Solenopsis invicta and S. richteri ) are invasive pests that were introduced into the United States via Mobile, Alabama, in the early twentieth century. As these species spread, interbreeding led to the emergence of hybrid populations.",
+      "added": true
+    },
+    {
+      "title": "Recovery, Biomass Allocation, and Leaf Traits of Invasive Coreopsis lanceolata Following Natural Flooding",
+      "abstract": "ABSTRACT Flooding acts as a major physical disturbance in riverine ecosystems, influencing species composition through differences in recovery capacity. We investigated the post‐flood recovery and biomass allocation of the invasive species Coreopsis lanceolata relative to co‐occurring species. Vegetation was monitored in 60 permanent quadrats from May to September 2023, a period that included a natural flood in July. We analyzed (i) the relationship between C. lanceolata cover and species richness, (ii) the post‐flood cover trajectories of the focal species, and (iii) their biomass allocation. Before flooding, C. lanceolata cover showed a significant but weak negative relationship with species richness (generalized additive model, p = 0.029). Flooding significantly reduced C. lanceolata cover, with mean cover falling from 43% to 6% before partially recovering to 15% within 2 months after the flood (aligned rank transform mixed model, p < 0.05). This species was the only one to show a decline‐and‐recovery trajectory, and its recovery‐phase cover was comparable to that of the co‐occurring species. Coreopsis lanceolata had the highest root mass fraction (0.24 g g −1 ) and leaf mass fraction (0.76 g g −1 ) among the studied species, indicating substantial allocation to both roots and leaves. This trait combination may support post‐flood regeneration in sandy riparian habitats and could promote displacement of native vegetation under more frequent flood regimes. Because C. lanceolata flowers before the summer floods and regrows from belowground organs afterward, management is likely to be most effective during the pre‐flood, pre‐flowering period rather than after disturbance.",
+      "doi": "10.1111/1440-1703.70142",
+      "authors": [
+        "Eunhee Cho",
+        "Deokjoo Son"
+      ],
+      "year": 2026,
+      "journal": "Ecological Research",
+      "openalex_id": "W7223455495",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223455495",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 4/14 key interest terms (invasive species, invasive, regimes, species)",
+      "tags": [
+        "invasive species",
+        "invasive",
+        "regimes",
+        "species"
+      ],
+      "summary": "ABSTRACT Flooding acts as a major physical disturbance in riverine ecosystems, influencing species composition through differences in recovery capacity. We investigated the post‐flood recovery and biomass allocation of the invasive species Coreopsis lanceolata relative to co‐occurring species.",
+      "added": false
+    },
+    {
+      "title": "A political ecology of reforestation in the Peruvian Andes: a field study of tree species and institutional dynamics",
+      "abstract": "Deforestation is a widespread problem in the Andes Mountains of Peru. Reforestation is an important tool to increase the production of wood and as a means to promote conservation objectives. Since the 1960s, and promoted by government incentives, eucalyptus tree planting has expanded rapidly throughout the region. The benefits of eucalyptus are that it grows quickly, provides fuel for cooking and heating, and is a source of income and employment. Over the past three decades, there has been a shift toward pine plantations, supposedly as a higher-income and less-damaging alternative to eucalyptus. However, there are serious questions about the environmental impacts of both of these introduced species. More recently, the Peruvian government and NGOs have also been supporting reforestation with native tree species as a means to restore fragile and biodiverse Andean ecosystems. The purpose of this research is to critically examine the reforestation efforts in the Andean highlands near Cusco, Peru. The theoretical framework draws on political ecology to assess the ecological, political, economic, and organizational factors that influence the decision to plant trees and whether exotic or native species are chosen. Data for this paper is based on field research conducted in Peru. We interviewed representatives from three levels of the Peruvian government, two environmental NGOs, and businesses that sell and use wood. We also include a case study of an Indigenous agriculturalist community that has extensively reforested areas. The results highlight the dynamics between the various development actors, including the state, NGOs, industry, and rural communities. They reveal a tension between the goals of conservation and human livelihoods and the role of trade-offs. We conclude there is room for a variety of work done by different organizations in different places. We also emphasize that sustainability requires a community-centered approach to development that focuses on strong relationships and capacity building.",
+      "doi": "10.1007/s10708-026-11723-3",
+      "authors": [
+        "James R. Keese",
+        "Milagro Montufar Paz",
+        "Danielle Gerger",
+        "Maya O'Brien"
+      ],
+      "year": 2026,
+      "journal": "GeoJournal",
+      "openalex_id": "W7223550935",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223550935",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 21%: matched 2/14 key interest terms (ecology, species)",
+      "tags": [
+        "ecology",
+        "species"
+      ],
+      "summary": "Deforestation is a widespread problem in the Andes Mountains of Peru. Reforestation is an important tool to increase the production of wood and as a means to promote conservation objectives. Since the 1960s, and promoted by government incentives, eucalyptus tree planting has expanded rapidly throughout the region.",
+      "added": false
+    },
+    {
+      "title": "EvoBench: An Evolving, Diagnostic Benchmark Framework for Environmental Modeling",
+      "abstract": "Machine learning models are now widely used to predict environmental variable dynamics in domains like hydrology, climate science, agriculture, and ecology. These models are usually compared on fixed benchmark datasets using a single average accuracy score. As models improve, their scores become very close when averaged over large regions and long time periods, so the benchmark can no longer tell them apart, and a single number hides \\emph{where} and \\emph{when} a model fails. Three failures are common across environmental domains: models get worse as the climate shifts (non-stationarity), models fail at unmonitored sites (spatial extrapolation), and models miss rare but important regimes such as floods and droughts. We present \\textbf{EvoBench}, a benchmark framework that shows where a model fails, tracks failures over time, and evolves to focus on model capability gaps. We apply EvoBench to daily streamflow prediction as a case study (\\textbf{CAMELS-Evolve}, about 9{,}000 U.S. basins, 1985--2024) and compare an operational physical model (NWM), a conceptual reference (HBV), and several data-driven models. No model wins on every testing scenarios (e.g., in terms of average accuracy, performance at low flows and unmonitored basins). Also we observe that all data-driven models under-predict floods. Additionally, we show that targeted fix based on the reported failures could mitigate weaknesses the benchmark identified in certain scenarios. EvoBench turns model evaluation from a saturated ranking into a moving map of model limitations.",
+      "doi": "10.48550/arxiv.2610.35464",
+      "authors": [
+        "Yiming Sun",
+        "Yuan Zhang",
+        "Qi Cheng",
+        "Yingda Fan",
+        "Runlong Yu",
+        "Yiqun Xie",
+        "Xiaowei Jia"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7224012362",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224012362",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 20%: matched 3/14 key interest terms (large, ecology, regimes)",
+      "tags": [
+        "large",
+        "ecology",
+        "regimes"
+      ],
+      "summary": "Machine learning models are now widely used to predict environmental variable dynamics in domains like hydrology, climate science, agriculture, and ecology. These models are usually compared on fixed benchmark datasets using a single average accuracy score.",
+      "added": false
+    },
+    {
+      "title": "Dietary modulation of gut immunophysiology in food-producing animals: mechanistic links between the microbiota, mucosal immunity, and product quality",
+      "abstract": "In food-producing animals, the gastrointestinal tract is an immunometabolic interface where nutrients, microbial communities, epithelial barriers, and mucosal immune systems converge to regulate nutrient utilization, barrier integrity, host defense, and physiological adaptation. This review critically evaluates how dietary inputs are translated through the diet–microbiota–host axis into intestinal phenotypes, host–microbiota responses, animal performance, and animal-food characteristics. Evidence from ruminants as well as non-ruminants is synthesized, with emphasis on studies in food-producing animals that directly evaluate dietary interventions and mechanistic investigations linking dietary substrates with microbial metabolism, epithelial–immune interactions, and host immunometabolic responses. Evidence from non-livestock models is considered primarily to clarify biological mechanisms and is distinguished from livestock outcomes. Evidence indicates that dietary modulation can alter microbial ecology and metabolite production, thereby influencing epithelial sensing, mucosal immune regulation, redox homeostasis, inflammatory signaling, and cellular metabolism. Microbial metabolites, including short-chain fatty acids, indole derivatives, and bile-acid metabolites, emerge as intermediates linking nutritional inputs with epithelial and immune function. These processes provide mechanistic connections between intestinal homeostasis, nutrient partitioning, stress resilience, and, in some experimental contexts, productive phenotypes and animal-product characteristics. However, the magnitude and direction of these responses are context dependent and vary with species, gastrointestinal anatomy, developmental or production stage, dietary composition, microbial community structure, and environmental challenge. Mechanistic and intervention evidence is more developed in swine and poultry, whereas extrapolation to ruminants requires consideration of foregut fermentation and altered delivery of substrates and metabolites to the intestine. Importantly, alterations in microbial composition, barrier markers, or immune signaling should not be interpreted as evidence of improved production performance or product quality unless these outcomes are directly demonstrated. The review therefore distinguishes established livestock evidence from mechanistic inference, association, and proposed biological frameworks, while identifying unresolved causal relationships between gut processes and whole-animal phenotypes. Emerging approaches, including microbiome profiling, multi-omics, sensor-based phenotyping, and artificial intelligence, may support biomarker discovery and nutrition decision-making, but their predictive and intervention value requires prospective validation across species and production environments. Overall, current evidence supports the gut as a regulatory interface between nutrition and host physiology, while highlighting species-specific, contextual, and causal limitations that constrain predictive precision nutrition.",
+      "doi": "10.3389/fphys.2026.1987339",
+      "authors": [
+        "Ashfaq Ahmad Shah",
+        "Ayush Madan",
+        "Saranraj Pazhani",
+        "Deependra Pratap Singh",
+        "Iqra Nazir",
+        "Shikha Thakur",
+        "Renu Bhardwaj",
+        "Amit Gupta"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Physiology",
+      "openalex_id": "W7223979500",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223979500",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 3/14 key interest terms (interface, ecology, species)",
+      "tags": [
+        "interface",
+        "ecology",
+        "species"
+      ],
+      "summary": "In food-producing animals, the gastrointestinal tract is an immunometabolic interface where nutrients, microbial communities, epithelial barriers, and mucosal immune systems converge to regulate nutrient utilization, barrier integrity, host defense, and physiological adaptation.",
+      "added": false
+    },
+    {
+      "title": "Engytatus passionarius (Hemiptera: Miridae), a Potential Biological Control Agent of the Invasive Vine Passiflora foetida (Passifloraceae) in Australia",
+      "abstract": "ABSTRACT Passiflora foetida senso lato L. (Passifloraceae), native to the Americas, is an invasive vine impacting areas of environmental, economic, cultural and social importance across northern Australia. The leaf‐sucking mirid, Engytatus passionarius Minghetti, Maestro and Dellapé (Hemiptera: Miridae), was recently described and identified as a potential biological control agent of P. foetida following native range surveys in northwestern Argentina. Its biology and host range were investigated in Argentina and under quarantine in Australia to assess its suitability for release. Host specificity was initially evaluated in the native range through field host range observations, laboratory studies assessing zoophagy and no‐choice tests on available Passiflora species. These studies indicated a high level of specificity to P. foetida , supporting further evaluation in Australian quarantine. Comprehensive no‐choice host specificity testing included 31 plant species selected based on their phylogenetic relationships to the target weed spanning the Passifloraceae, Salicaceae, Achariaceae, Violaceae, Euphorbiaceae and Phyllanthaceae. Feeding, oviposition and successful development to adulthood occurred consistently on P. foetida . Survival rates were significantly higher on the target weed than on nontarget plant species, where individuals experienced markedly increased mortality. Feeding on nontarget plants was generally low and exploratory, whereas consistent vegetative damage occurred on P. foetida . Developmental success for the mirid was also substantially reduced on nontargets (mean 0.2–4.6 F1 adults) compared with P. foetida (mean 52.5 F1 adults). Six nontarget Passiflora species were further evaluated in choice tests. E. passionarius consistently preferred P. foetida , initiating feeding more rapidly and producing higher nymph densities than on nontarget species. Completion of the life cycle occurred only on P. foetida . Overall, results from native‐range studies, quarantine experiments and field observations demonstrate that E. passionarius is highly host‐specific to P. foetida and represents a promising candidate for biological control in Australia.",
+      "doi": "10.1111/aen.70124",
+      "authors": [
+        "Michelle A. Rafter",
+        "J. Phoenix",
+        "Mariano Maestro",
+        "Guillermo Cabrera Walsh",
+        "Bruce L. Webber",
+        "Margaret Mary Byrne",
+        "Alberto Zamprogna"
+      ],
+      "year": 2026,
+      "journal": "Austral Entomology",
+      "openalex_id": "W7223813807",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223813807",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 18%: matched 2/14 key interest terms (invasive, species)",
+      "tags": [
+        "invasive",
+        "species"
+      ],
+      "summary": "ABSTRACT Passiflora foetida senso lato L. (Passifloraceae), native to the Americas, is an invasive vine impacting areas of environmental, economic, cultural and social importance across northern Australia.",
+      "added": false
+    },
+    {
+      "title": "Bayesian multi‐state mark‐resight modeling of survival and cause‐specific mortality from telemetered individuals: European fallow deer in Australia",
+      "abstract": "Abstract Survival and cause‐specific mortality probabilities are commonly estimated from individuals fitted with telemetry devices such as global positioning system (GPS) collars. However, the states and fates of some telemetered individuals are often unknown or unobservable because of imperfect detection (e.g., due to collar loss or transmitter failure). Here, we illustrate how multi‐state mark‐resight (MSMR) models can be used to more robustly estimate the survival and cause‐specific mortality probabilities of GPS‐collared adult female ( n = 44) and adult male ( n = 26) European fallow deer ( Dama dama ) in New South Wales, Australia. This MSMR modeling approach separates the observation processes (detected or undetected) from state processes (alive or dead). Some deer were detected long after their collars had failed because they were photographed alive by a trail camera or shot and the collar (with date of death) was reported to us; we included these fates observed after collar failure in the model. Of the deer that died and could be assigned a cause of mortality, humans were the dominant cause of mortality (22 deer were shot), with only one mortality attributed to natural (non‐human) causes. There was no evidence of predation. After accounting for differences in the detection and failure probabilities of the 2 GPS collar types deployed, annual survival was 0.781 (95% credible interval = 0.678–0.869) for adult females and 0.539 (0.379–0.696) for adult males. Annual natural survival was higher for adult females (0.984; 0.943–1.000) than for adult males (0.931; 0.818–0.991). These parameter estimates can be used in models evaluating management options for overabundant fallow deer populations. Our case study illustrates the flexibility of Bayesian MSMR models for incorporating imperfect detection probability (arising from collar loss and failure) and unknown fates to estimate cause‐specific mortality and survival for individuals fitted with telemetry devices. Our modeling approach is applicable to any telemetered wildlife population.",
+      "doi": "10.1002/jwmg.70289",
+      "authors": [
+        "David M. Forsyth",
+        "Andrew J. Bengsen",
+        "Lee Parker",
+        "Rachel P. Hickcox",
+        "Darryl I. MacKenzie",
+        "Abby Bratt",
+        "Sébastien Comte"
+      ],
+      "year": 2026,
+      "journal": "Journal of Wildlife Management",
+      "openalex_id": "W7224135460",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224135460",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 14%: matched 2/14 key interest terms (states, causes)",
+      "tags": [
+        "states",
+        "causes"
+      ],
+      "summary": "Abstract Survival and cause‐specific mortality probabilities are commonly estimated from individuals fitted with telemetry devices such as global positioning system (GPS) collars.",
+      "added": false
+    },
+    {
+      "title": "Contributions of zooarchaeology and paleoecology of small mammals to understanding recent ecosystem modifications in northern Patagonia due to human impact",
+      "abstract": "The distribution and abundance of species is a product of the interplay of climatic and environmental factors, both past and present, natural, and anthropogenic. In the most recent stage of the Anthropocene, these changes have been extremely rapid and abrupt. The objective of this work is to discuss some socio-environmental problems of northern Patagonia by comparing micromammal archeological and paleontological sequences attributable to the final Late-Holocene and post-Hispanic period with current samples from the region. Several sites in northern Patagonia, from the Andean forest, the Steppe and Monte regions, and their ecotone, were selected as study cases. The comparison of the species composition from the final Late-Holocene and post-Hispanic assemblages with local small mammal communities indicates species extinctions, considerable reductions in their distributional ranges, and an increase in the abundance of opportunistic taxa. The causes have been attributed to the accelerated deterioration of natural ecosystems due to anthropogenic factors, including habitat destruction caused by the expansion of agriculture and livestock farming, the introduction of exotic plant and animal species, soil compaction, and other factors. Paleoecology, as a historical science of nature, inevitably requires the use of modern analogues in its interpretations, a situation that became increasingly difficult and challenging in the times of the Anthropocene, where current communities are constantly changing due to anthropogenic causes.",
+      "doi": "10.1177/09596836261494541",
+      "authors": [
+        "Analía Andrade",
+        "Pablo Teta"
+      ],
+      "year": 2026,
+      "journal": "The Holocene",
+      "openalex_id": "W7223670900",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223670900",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 2/14 key interest terms (causes, species)",
+      "tags": [
+        "causes",
+        "species"
+      ],
+      "summary": "The distribution and abundance of species is a product of the interplay of climatic and environmental factors, both past and present, natural, and anthropogenic. In the most recent stage of the Anthropocene, these changes have been extremely rapid and abrupt.",
+      "added": false
+    },
+    {
+      "title": "Four decades of Eucalyptus water use and productivity in South Africa (1985–2025): progress, innovations and emerging frontiers",
+      "abstract": "Globally, Eucalyptus plantations increasingly play a major role in the socio-economy through the supply of industrial roundwood. However, water use (WU) of Eucalyptus remains a controversial issue and its impact on water resources is well documented. This review synthesises four decades (1985–2025) of WU and productivity research conducted on commercial Eucalyptus species in South Africa, while drawing on insights from international studies. A systematic review approach was adopted in this study. The review begins by exploring early Eucalyptus WU research on Eucalyptus grandis W.Hill ex Maiden (in the mid-1980s), highlighting key findings and how this shaped subsequent WU research in South Africa. During the early 2000s, the WU and water use efficiency (WUE) research focus shifted from E. grandis to Eucalyptus dunnii Maiden and clonal hybrids. Key results from these studies are presented, including potential water sources by Eucalyptus. After 2010, advances in technology, including artificial intelligence (AI) and satellite imagery, transformed Eucalyptus WU research from single-plot measurement to WU estimation at regional and global scales. This development significantly expanded both the scope and precision of WU and productivity research worldwide. However, these technologies are still in developmental stages in South African commercial Eucalyptus plantations. Concurrently, plantation water productivity (PWPWOOD) has been proposed as a more appropriate indicator of Eucalyptus productivity compared with traditional WUE. Despite significant progress in WU research, critical gaps remain. These include: the need for long-term Eucalyptus WU research; the expansion of the WU research network to represent various management practices, such as planting density and silvicultural regimes; a wider range of climates, soils, species, and stand densities; the broader adoption of PWPWOOD as an alternative indicator of productivity; and the development of AI and remote sensing-based models for estimating Eucalyptus WU patterns under South African conditions, supported by in situ measurements for ground truthing. This synthesis consolidates four decades of research progress and presents a forward-looking framework aimed at strengthening WU research in South Africa.",
+      "doi": "10.2989/20702620.2026.2738589",
+      "authors": [
+        "Nkosinathi David Kaptein",
+        "Colin S. Everson",
+        "Ntsieni Eliah Mulovhedzi",
+        "Ntsako N Mtenjane",
+        "Ilaria Germishuizen",
+        "Alistair David Clulow"
+      ],
+      "year": 2026,
+      "journal": "Southern Forests a Journal of Forest Science",
+      "openalex_id": "W7223682231",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223682231",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 2/14 key interest terms (regimes, species)",
+      "tags": [
+        "regimes",
+        "species"
+      ],
+      "summary": "Globally, Eucalyptus plantations increasingly play a major role in the socio-economy through the supply of industrial roundwood. However, water use (WU) of Eucalyptus remains a controversial issue and its impact on water resources is well documented.",
+      "added": false
+    },
+    {
+      "title": "Disentangling the anthropogenic climate change influence on recent hydroclimate whiplash events via multiple nudged model simulations",
+      "abstract": "Abstract Hydroclimate whiplash describes swings between extremely dry and wet conditions. The magnitude and physical drivers of changes in observed whiplash events under global warming remain poorly understood. Here we quantify thermodynamically-driven changes in whiplash intensity for nine high-impact events using the Standardised Precipitation Evapotranspiration Index and a unique multi-model ensemble of wind-nudged storyline simulations. Anthropogenic climate change accounts for 9% (range across events: −2 to 72%) of the observed whiplash intensity on a weighted average across events, with positive contributions for nearly all events according to the multi-model mean, and all models agreeing on the positive contribution for about two-thirds of the events. This climate change contribution is predominantly driven by a non-linear increase in potential evapotranspiration, which strengthens drying more during the dry than the wet phase. Model uncertainty on the magnitude of the climate change contribution is substantial, with an inter-model spread of 13% on average across the events. These results highlight a climate change imprint on observed whiplash events and the need for multiple nudged datasets to robustly attribute complex events.",
+      "doi": "10.1038/s41612-026-01578-3",
+      "authors": [
+        "Niklas Merz",
+        "Jakob Zscheischler A",
+        "István Dunkl",
+        "Sebastian Sippel",
+        "Antonio Sánchez-Benítez",
+        "Helge Goessling",
+        "Amal John",
+        "Frauke Feser",
+        "Emanuele Bevacqua"
+      ],
+      "year": 2026,
+      "journal": "npj Climate and Atmospheric Science",
+      "openalex_id": "W7224080462",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224080462",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/14 key interest terms (drivers)",
+      "tags": [
+        "drivers"
+      ],
+      "summary": "Abstract Hydroclimate whiplash describes swings between extremely dry and wet conditions. The magnitude and physical drivers of changes in observed whiplash events under global warming remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Integrating UAV-based multispectral imagery and machine learning to classify glyphosate-resistant palmer amaranth and assess herbicide program efficacy in soybean",
+      "abstract": "Palmer amaranth is one of the most troublesome and economically important weeds in soybean production, with widespread occurrence of glyphosate-resistant (GR) populations. This study aimed to map and classify GR Palmer amaranth using UAV-based multispectral imagery and evaluate the effects of herbicide programs [preemergence (PRE) only, postemergence (POST) only, and PRE followed by (fb) POST] on Palmer amaranth coverage (early- and late-season) in soybean field in central Louisiana in 2025. A multispectral drone was used to map GR Palmer amaranth, and images were processed into orthomosaic using Pix4DFields and georeferenced in ArcGIS Pro. Weed classification was performed using pixel-based and object-based approaches implemented in ENVI and Orfeo Toolbox (OTB) within QGIS, employing Random Forest (RF), Multilayer Perceptron (MLP), and Support Vector Machine (SVM) algorithms. Both classification methods exhibited high performance, with RF achieving the highest overall accuracy (99%). UAV-based assessments provided a spatiotemporally efficient method for early-season Palmer amaranth mapping and late-season evaluation of residual weed activity following herbicide applications. UAV-derived Palmer amaranth coverage showed moderate positive correlation with the ground-truth weed density. Herbicide programs significantly reduced UAV-derived Palmer amaranth coverage during early-season (P = 0.0004) and late-season (P = 0.0223) assessments. Among the evaluated programs, PRE fb POST resulted in the greatest reduction in weed coverage (4.3%), compared with PRE only (9.2%) and POST-only (8.8%) programs. In conclusion, integrating UAV-based multispectral imagery with machine learning algorithms, particularly RF, offers a promising, automated approach for classification of GR Palmer amaranth and evaluating herbicide program effectiveness across different crop growth stages.",
+      "doi": "10.3389/fpls.2026.1913999",
+      "authors": [
+        "Usman Mohammed",
+        "Prashant Jha",
+        "Vipan Kumar",
+        "Bhupesh Dhaka",
+        "Shahreen Mirza",
+        "Ivan Grijalva"
+      ],
+      "year": 2026,
+      "journal": "Frontiers in Plant Science",
+      "openalex_id": "W7223665753",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223665753",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 8%: matched 1/14 key interest terms (occurrence)",
+      "tags": [
+        "occurrence"
+      ],
+      "summary": "Palmer amaranth is one of the most troublesome and economically important weeds in soybean production, with widespread occurrence of glyphosate-resistant (GR) populations.",
+      "added": false
+    },
+    {
+      "title": "NOT EVEN THE GODS KNOW: TEN POSSIBLE DESTINIES OF HUMANITY IN THE FACE OF EXTRATERRESTRIAL PRESENCE",
+      "abstract": "Given the premise, supported by recent institutional, scientific and journalistic milestones, that Extraterrestrial Intelligences (ETIs) maintain a current and verifiable presence on Earth, this theoretical-hypothesis paper develops and defends the thesis that the question “what should be done?” admits no single, definitive or conclusive answer. Grounded in established epistemological traditions — situated knowledges, paradigmatic incommensurability and the underdetermination of theory by evidence — the paper argues that each observer’s answer depends on constitutive, experiential and contextual variables that differentially shape diagnosis, prognosis and attitude. The author’s biographical and investigative trajectory — four decades of ufological research documented in earlier peer-reviewed work and in two public pre-tragedy manifestos (2019 and 2022), including the paradigmatic case of Donato Cervantes and the Homeric Theater Hypothesis — centrally marked by the murder of his son by military police officers in November 2024, is explicitly positioned as a legitimate interpretive lens, not as an impossible neutrality. On this basis, ten scenarios for humanity’s destiny are analyzed with deliberately equivalent argumentative weight — inaction; open, massive contact; nuclear war; other human causes (resource depletion, global warming, genetically engineered virus); natural catastrophe; technical preparation for survival; replacement by artificial intelligence; inner transformation toward a “new human”; physical rescue by ETIs; and direct destruction by ETIs — each supported by multidisciplinary evidence (existential-risk literature, the twelve-criteria methodology for assessing contactee authenticity, hermeneutic analysis, and historical-geopolitical precedent). The paper concludes without breaking the tie among the ten alternatives, arguing that genuine uncertainty is intellectually more honest than a premature conclusion, and proposes, as a deliberately declared speculation, that ETIs themselves — if technologically advanced but not omnipotent — may share with humanity the same fundamental uncertainty about the future.",
+      "doi": "10.30574/gscarr.2026.29.1.0293",
+      "authors": [
+        "Julio Cesar Acosta Navarro"
+      ],
+      "year": 2026,
+      "journal": "GSC Advanced Research and Reviews",
+      "openalex_id": "W7223660534",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223660534",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/14 key interest terms (causes)",
+      "tags": [
+        "causes"
+      ],
+      "summary": "Given the premise, supported by recent institutional, scientific and journalistic milestones, that Extraterrestrial Intelligences (ETIs) maintain a current and verifiable presence on Earth, this theoretical-hypothesis paper develops and defends the thesis that the question “what should be done?” admits no single, defin…",
+      "added": false
+    },
+    {
+      "title": "Canadian fractional landcover maps from 1985 onward",
+      "abstract": "Abstract Canada’s northern ecosystems are undergoing rapid environmental change driven by climate warming, shifting disturbance regimes, and vegetation transitions. However, national-scale datasets describing non-treed and sparsely treed environments remain limited. This study presents a pan-Canadian dataset of annual fractional landcover at 30-m spatial resolution for the period 1985–2025, extending the Spatialized Canadian National Forest Inventory (SCANFI 1 ) framework to include both treed and non-treed surface components. The dataset integrates imagery from Landsat, Sentinel-2 and Very High-Resolution data to estimate the annual fractional cover of water, rock, soil, burn scars, lichen, herbaceous vegetation, low shrubs, tall shrubs, broadleaf trees, and coniferous trees. Fractional estimates were produced using machine learning techniques and harmonized within a vertical surface projection framework to ensure that all pixel-level components sum to 100%. The resulting dataset provides temporally consistent information for monitoring vegetation dynamics, post-disturbance recovery, and land-surface composition across Canada.",
+      "doi": "10.1038/s41597-026-08522-3",
+      "authors": [
+        "Luc Guindon",
+        "David L. P. Correia",
+        "Omid Reisi Gahrouei",
+        "Pauline Perbet",
+        "Byron P. Smiley",
+        "Diana Stralberg",
+        "Luke Collins",
+        "Marc‐André Parisien",
+        "Xianli Wang",
+        "Francis Manka",
+        "Jonathan Boucher"
+      ],
+      "year": 2026,
+      "journal": "Scientific Data",
+      "openalex_id": "W7223851197",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223851197",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/14 key interest terms (regimes)",
+      "tags": [
+        "regimes"
+      ],
+      "summary": "Abstract Canada’s northern ecosystems are undergoing rapid environmental change driven by climate warming, shifting disturbance regimes, and vegetation transitions. However, national-scale datasets describing non-treed and sparsely treed environments remain limited.",
+      "added": false
+    },
+    {
+      "title": "After more than 350 years, what native parasitoids attack an introduced gall wasp on an introduced plant?",
+      "abstract": "Abstract Introduced phytophagous insects that use native host plants tend to recruit native parasitoids either from among those attacking native insect hosts closely related to the introduced insect or from among those attacking other insects feeding on the adopted host plant of the introduced herbivore. The introduced North American cynipid gall wasp Liposthenes glechomae Linnaeus 1758 (Hymenoptera: Cynipidae: Aulacideini) is peculiar in that neither the wasp nor its host plant, the ground ivy Glechoma hederacea, has congeners in North America. Consequently, there would appear to be few opportunities for parasite recruitment. We studied the origins of the parasitoid wasp community of L. glechomae in North America by collecting in Iowa and Pennsylvania, dissecting and rearing insects from galls and sequencing larvae and adults. We found 3 parasitoid species. Two of these, Phaenocytus glechomae Förster, 1841 (Hymenoptera: Pteromalidae) and Torymus cingulatus Nees von Esenbeck, 1834 (Hymenoptera: Torymidae), were not new recruits but rather parasitoids of L. glechomae in its native range that have followed their host gall wasp and its host plant to North America. Of the 3 parasitoid species recorded, only 1 is native to North America, Torymus advenus Osten-Sacken, 1870 (Hymenoptera: Torymidae), a generalist that also attacks many different cynipid gall wasps and gall midges associated with a variety of Nearctic plants. After more than 3 centuries in North America, L. glechomae has recruited just 1 new parasitoid in the studied region.",
+      "doi": "10.1093/aesa/saag045",
+      "authors": [
+        "Kristýna Bubeníková",
+        "Erica D Edinger",
+        "Guerin E. Brown",
+        "Petr Janšta",
+        "Charles K. Davis",
+        "Louis F. Nastasi",
+        "Andrew A. Forbes"
+      ],
+      "year": 2026,
+      "journal": "Annals of the Entomological Society of America",
+      "openalex_id": "W7223927218",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223927218",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/14 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Abstract Introduced phytophagous insects that use native host plants tend to recruit native parasitoids either from among those attacking native insect hosts closely related to the introduced insect or from among those attacking other insects feeding on the adopted host plant of the introduced herbivore.",
+      "added": false
+    },
+    {
+      "title": "Improved European native seed supply chains are essential for the implementation of the Nature Restoration Regulation",
+      "abstract": "Abstract To support the implementation of the EU Nature Restoration Regulation (NRR), there is an unprecedented need to scale up ecosystem restoration, which requires radical improvements to the European seed supply chain, especially for herbaceous species. The fundamental tradeoff between the need for local provenance and climate resilience, as well as practical constraints on seed availability, generates a bottleneck for restoration practice and may jeopardize the implementation of the NRR. Here, we overview the current legislative context for plant reproductive material, assess the status of native seed supply, and propose institutional and operational solutions to strengthen seed supply chains in Europe. We call for the adoption of the concept of Native Seed and Restoration Centres (NSRCs) to boost seed supply chains. We outline the main functions and responsibilities of NSRCs, and highlight the short‐ to mid‐term actions that are crucial for enhancing the availability and use of native seeds.",
+      "doi": "10.1111/csp2.70441",
+      "authors": [
+        "Katalin Török",
+        "Orsolya Valkó",
+        "Balázs Déak"
+      ],
+      "year": 2026,
+      "journal": "Conservation Science and Practice",
+      "openalex_id": "W7223669875",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223669875",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/14 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Abstract To support the implementation of the EU Nature Restoration Regulation (NRR), there is an unprecedented need to scale up ecosystem restoration, which requires radical improvements to the European seed supply chain, especially for herbaceous species.",
+      "added": false
+    },
+    {
+      "title": "A Comprehensive Review of Mechanistic Insights of Cobalt and Nickel Induced Reproductive Toxicity",
+      "abstract": "Environmental deterioration can elevate the chances of human exposure to heavy metals, leading to health issues. The transition metals nickel and cobalt are known as occupational and environmental contaminants that have a significant negative impact on mammalian reproductive systems. Reproductive organs are vital to an individual's life for the survival and advancement of the species, and they may be a perfect \"barometer\" for the harmful effects of environmental pollution on animals and human health since their reaction to hazardous compounds is different from that of other target organs. The current review focuses on reproductive and developmental damage caused by environmental exposure to cobalt and nickel and the mechanism by which they affect the structure and function of reproductive organs as both the testis and ovary are highly susceptible due to their significant cellular activity, where essential processes such as spermatogenesis, oogenesis, and folliculogenesis take place. The toxic effects in females were observed as reduced follicular development, increased instances of follicular atresia, PCOS contributor, altered steroidogenesis, degeneration of the corpus luteum, and changes in the reproductive cycle. In the testes, exposure to these metals resulted in alterations to the seminiferous tubules and testicular stroma, as well as a decline in spermatozoa count, motility and viability, along with abnormal morphology of the spermatozoa, caused histopathological lesions of the epididymis and testis. Serum testosterone levels were significantly decreased; downregulation in the expression of various genes was noted. Cobalt and nickel are active biochemical disruptors that degrade the integrity of the germ cell.",
+      "doi": "10.1002/jat.70488",
+      "authors": [
+        "Komal Sharma",
+        "Tabassum",
+        "Preeti Sharma",
+        "Placheril Joseph John"
+      ],
+      "year": 2026,
+      "journal": "Journal of Applied Toxicology",
+      "openalex_id": "W7223657010",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223657010",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/14 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Environmental deterioration can elevate the chances of human exposure to heavy metals, leading to health issues. The transition metals nickel and cobalt are known as occupational and environmental contaminants that have a significant negative impact on mammalian reproductive systems.",
+      "added": false
+    },
+    {
+      "title": "Whither the climate movement (and what comes next)?",
+      "abstract": "Abstract Perspectives do not contain abstracts, excerpt from the perspective: In this perspective, I provide evidence about how the climate movement has redirected its efforts given the current “nonreceptive political and social environment” to maintain some level of continuity [7]. After presenting data about how the climate movement has shifted its focus, I consider what it will take to reinvigorate the movement so it can help motivated the changes we need to address the climate crisis. Since the US is the top historical contributor to climate change and has been home to a vibrant climate movement, I present data collected from activists in the US to provide empirical context",
+      "doi": "10.1088/1748-9326/aeba02",
+      "authors": [
+        "Dana R. Fisher"
+      ],
+      "year": 2026,
+      "journal": "Environmental Research Letters",
+      "openalex_id": "W7223899221",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223899221",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract Perspectives do not contain abstracts, excerpt from the perspective: In this perspective, I provide evidence about how the climate movement has redirected its efforts given the current “nonreceptive political and social environment” to maintain some level of continuity [7].",
+      "added": false
+    },
+    {
+      "title": "EnsAI: an emulator for atmospheric ammonia ensembles",
+      "abstract": "Ensemble-based methods for data assimilation and emissions inversions are a popular way to encode flow-dependency within the model error covariance. While most ensemble methods do not require the use of an adjoint model, the need to repeatedly run a geophysical model to generate the ensemble can be a significant computational burden. In this paper, we introduce EnsAI , a new AI-based ensemble generation system for surface ammonia concentrations. When trained on an ensemble for ammonia generated by the GEM-MACH air quality model, it was shown that the ensembles produced by EnsAI can accurately reproduce the meteorology-dependent features of the original ensemble, while generating the ensemble 3300 times faster than the original GEM-MACH ensemble. While EnsAI requires an upfront cost for generating the ensemble used for training, as well as the training itself, the long term computational savings can greatly exceed these initial computational costs. When used in an emissions inversion system, EnsAI produced similar inversion results to those in which the original GEM-MACH ensemble was used while using significantly less computational resources.",
+      "doi": "10.5194/gmd-19-10283-2026",
+      "authors": [
+        "Michael Sitwell"
+      ],
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "openalex_id": "W4414634225",
+      "citation_count": 0,
+      "url": "https://openalex.org/W4414634225",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Ensemble-based methods for data assimilation and emissions inversions are a popular way to encode flow-dependency within the model error covariance. While most ensemble methods do not require the use of an adjoint model, the need to repeatedly run a geophysical model to generate the ensemble can be a significant comput…",
+      "added": false
+    },
+    {
+      "title": "From Explaining to Enabling: Actionable Transparency in Algorithmic Insurance Pricing",
+      "abstract": "Machine learning (ML) systems increasingly make consequential decisions about individuals, including credit, hiring, and insurance. Research on ML-driven insurance pricing has asked how the pricing mechanism itself can be made accountable. Yet it remains unclear how an individual policyholder's algorithmically determined premium should be explained to them. We argue that a useful explanation must be valid, actionable, and reliable. A valid recommendation lowers the premium according to the model. An actionable recommendation changes only characteristics the policyholder can control. A reliable recommendation has an actual outcome that is likely to meet the target, even in sparsely observed regions of the feature space where the model is uncertain. We formalize these three requirements as axioms and develop a method that turns an algorithmic premium into recommendations that meet them. The method meets the third requirement with a Conformal Prediction constraint, which screens out recommendations that the model is too uncertain about and thereby bounds the rate of unreliable recommendations. We apply four Counterfactual Explanation techniques to 57,832 real Florida flood-insurance claims and 98,058 synthetic driver-telematics policies. We adapt these techniques for insurance applications, so that their recommendations change only controllable characteristics and resemble policyholders observed in the data. In our illustrations, the constrained recommendations for high-risk policyholders are both more reliable and associated with larger predicted risk reductions than the unconstrained ones. These results suggest that insurers can give policyholders explanations that are both actionable and trustworthy. The work contributes to research on algorithmic accountability and offers implications for insurers and regulators.",
+      "doi": "10.48550/arxiv.2610.34459",
+      "authors": [
+        "Agathe Fernandes Machado",
+        "Fei Huang"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7224022719",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224022719",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Machine learning (ML) systems increasingly make consequential decisions about individuals, including credit, hiring, and insurance. Research on ML-driven insurance pricing has asked how the pricing mechanism itself can be made accountable.",
+      "added": false
+    },
+    {
+      "title": "Application of Artificial Intelligence in the Management of Climate Change-Related Health Issues in Africa",
+      "abstract": "While climate change disproportionately impacts African public health, AI predictive modeling remains heavily constrained. Using a Synthetic Knowledge Synthesis approach and VOSviewer, we conducted a bibliometric analysis of Scopus-indexed literature, comparing Global and African corpora. Network analysis reveals stark divergences: global research emphasizes complex, predictive models for planetary health, whereas African research focuses on localized, reactive solutions for immediate infectious disease triage. Severe structural barriers in Africa, including compute deficits, data silos, and energy instability, hinder advanced AI scaling. Ultimately, international funding must shift from siloed pilot projects toward building foundational digital infrastructure and localized AI frameworks.",
+      "doi": "10.48550/arxiv.2610.35294",
+      "authors": [
+        "Peter Kokol",
+        "Martha Kachweka",
+        "Helena Blažun Vošner",
+        "Chol Buol",
+        "Jernej Završnik",
+        "Bojan Žlahtič",
+        "Grega Žlahtič"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7223852378",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223852378",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "While climate change disproportionately impacts African public health, AI predictive modeling remains heavily constrained. Using a Synthetic Knowledge Synthesis approach and VOSviewer, we conducted a bibliometric analysis of Scopus-indexed literature, comparing Global and African corpora.",
+      "added": false
+    },
+    {
+      "title": "Philanthropic landowners and what drives them: lessons from implementing nature-based solutions on private land",
+      "abstract": "Nature-based solutions (NBS) are a promising strategy for building climate resilience, but their implementation requires land. Realising NBS on private land, which holds great potential, remains a challenge. Aligning landowner interests with climate adaptation goals lies within the realm of land policy. However, studies show that traditional land policy instruments are often ineffective when applied to NBS and private land. Cooperative approaches that engage landowners directly are needed – but they raise new questions: How do we find landowners willing to implement NBS and engage them effectively? This research focuses on landowners who are primarily motivated by non-financial interests to implement NBS. These dynamics are explored through a qualitative case-study-based research design, focused on NBS implementers across Austria, Czechia, Germany, Italy, Romania, and Slovakia. Initial results indicate different types of landowners (homeowners, farmers, company owners) have distinct interests in implementing NBS. While economic incentives play a role, intrinsic motivations mainly shape landowners’ decisions. This underscores the need for tailored solutions considering diverse intrinsic motivations. Effective NBS implementation strategies must strengthen intrinsic motivations, build trust, and respect landowner autonomy.",
+      "doi": "10.1080/17477891.2026.2750979",
+      "authors": [
+        "Sophie Holtkötter",
+        "B. Ayça Ataç-Studt",
+        "Peter R. Davids",
+        "Yasmin Anefalos de Oliveira"
+      ],
+      "year": 2026,
+      "journal": "Environmental Hazards",
+      "openalex_id": "W7224132205",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224132205",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Nature-based solutions (NBS) are a promising strategy for building climate resilience, but their implementation requires land. Realising NBS on private land, which holds great potential, remains a challenge. Aligning landowner interests with climate adaptation goals lies within the realm of land policy.",
+      "added": false
+    },
+    {
+      "title": "Are There Functional Differences in Key Photosynthetic Traits Between Native and Non-Native Oenothera drummondii Populations?",
+      "abstract": "Physiological differentiation between native and introduced populations may facilitate establishment across contrasting environments, but it remains unclear whether this reflects a general enhancement of photosynthetic performance. We investigated light-response traits, photosynthetic biochemical capacity and leaf pigment content in three native and three introduced populations of Oenothera drummondii grown under common greenhouse conditions. We measured light-response and A/Ci curves with a LI-6400 system and then analyzed them using the Ye and C3 biochemical models, respectively. Traits were compared using nested ANOVA, with population nested within origin. Light-response traits differed significantly among populations, but no significant differences between origins were detected. Total chlorophyll content also differed among populations, but no significant origin effect was detected, and it was positively correlated with Anmax and Imax across the six populations. Introduced populations had higher net CO2 assimilation at external CO2 concentrations of 400 and 600 µmol mol−1, and higher maximum Rubisco carboxylation and electron-transport capacities. These biochemical capacities did not differ significantly among populations, whereas day respiration showed no significant origin effect. Photosynthetic differentiation therefore involved specific components of photosynthetic performance rather than a uniform enhancement in introduced populations, emphasizing the importance of population-level variation when assessing functional differentiation across geographical ranges.",
+      "doi": "10.3390/plants15213266",
+      "authors": [
+        "Maria Victoria Zunzunegui",
+        "Juan B. Gallego‐Fernández",
+        "Mari Cruz Díaz-Barradas"
+      ],
+      "year": 2026,
+      "journal": "Plants",
+      "openalex_id": "W7223383583",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223383583",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Physiological differentiation between native and introduced populations may facilitate establishment across contrasting environments, but it remains unclear whether this reflects a general enhancement of photosynthetic performance.",
+      "added": false
+    },
+    {
+      "title": "Plant resilience: harnessing bioactive compounds for sustainable disease protection",
+      "abstract": "Plants have evolved complex phytochemical and immune defense mechanisms in response to pathogen invasion. Plants deploy phytochemical defense system-signaling molecules, secondary metabolites, antimicrobial proteins and peptides-to mitigate the pathogens they encounter. Pathogens have developed strategies-effector proteins, efflux pumps and detoxification mechanisms-to manipulate or overcome plant defenses. This review offers insights into how these bioactive compounds are biosynthesized and activated following pathogen recognition. We provide an overview of the dynamic crosstalk between PTI and ETI and their role in optimizing plant defense. Additionally, we discuss the potential of advanced genetic engineering approaches, nanocarrier-mediated elicitor delivery, and microbiome engineering to enhance these natural defenses. Finally, we address the technical bottlenecks of engineering plant immunity and provide a roadmap for future research directions. This review provides a stronger mechanistic foundation for breeding crops with durable, broad-spectrum resilience for sustainable crop protection.",
+      "doi": "10.1007/s44154-026-00343-z",
+      "authors": [
+        "Muhammad Zunair Latif",
+        "Miaomiao Deng",
+        "Naila Asghar",
+        "Lingguang Kong",
+        "Sumaira Kousar",
+        "Haimiao Zhang",
+        "Shamsur Rehman",
+        "Yanke Jiang",
+        "Muhammad Humza",
+        "ChongChong Lu",
+        "Xinhua Ding"
+      ],
+      "year": 2026,
+      "journal": "Stress Biology",
+      "openalex_id": "W7223662751",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223662751",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Plants have evolved complex phytochemical and immune defense mechanisms in response to pathogen invasion. Plants deploy phytochemical defense system-signaling molecules, secondary metabolites, antimicrobial proteins and peptides-to mitigate the pathogens they encounter.",
+      "added": false
+    },
+    {
+      "title": "Intraspecific Variation in Seed Germination Strategies of Alopecurus myosuroides (Blackgrass; Poaceae) Across Climatic Gradients",
+      "abstract": "ABSTRACT Intraspecific variation in seed germination traits can strongly influence weed persistence and spread, yet its relationship with climate remains poorly resolved. We quantified population‐level variation in germination temperature and water requirements, germination speed and synchrony and seed mass in 12 Alopecurus myosuroides populations from contrasting macroclimatic regions across Europe and West Asia. To minimize maternal environmental effects, all seeds were produced under common‐garden conditions. Germination assays across controlled temperature and water‐potential gradients revealed restricted variation in lower and upper thermal limits, whereas the thermal optimum and water‐potential thresholds varied among populations, with no consistent association with macroclimatic variables. In contrast, germination speed, synchrony and seed mass showed clear geographic structuring: populations from colder and wetter regions germinated faster and more synchronously and produced heavier seeds, whereas populations from warmer and more seasonal regions germinated more slowly, less synchronously and produced smaller seeds. Multivariate analyses confirmed that geographic and climatic variation aligned primarily with germination dynamics and seed mass rather than with hydrothermal germination limits. These results indicate that population differentiation in A. myosuroides is expressed mainly through variation in the timing, coordination and vigour of early establishment rather than through divergence in physiological germination thresholds. For weed management, regional differences in emergence dynamics are therefore likely to influence the effectiveness of cultural and chemical control measures: rapid and synchronous emergence in colder, wetter systems may reduce the efficacy of delayed sowing or stale seedbeds, whereas slower and more asynchronous emergence in warmer, seasonal regions may increase escape from pre‐emergence control. Accounting for population‐level variation in germination dynamics is thus important for designing effective, regionally adapted management strategies for A. myosuroides .",
+      "doi": "10.1111/wre.70119",
+      "authors": [
+        "Katja Gram",
+        "Paul Neve",
+        "Quan‐Jing Zheng",
+        "Sergey A. Rosbakh"
+      ],
+      "year": 2026,
+      "journal": "Weed Research",
+      "openalex_id": "W7223946765",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223946765",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Intraspecific variation in seed germination traits can strongly influence weed persistence and spread, yet its relationship with climate remains poorly resolved.",
+      "added": false
+    },
+    {
+      "title": "In the synthetic biology era, engineered fungi could mitigate carbon dioxide emissions and enhance environmental resilience",
+      "abstract": "Abstract Over the past two decades, there has been a staggering increase in greenhouse gas emissions, particularly carbon dioxide (CO 2 ) from unrestrained anthropogenic activities, leading to notable environmental shifts. Despite continuous efforts to reduce emissions, the world is not making satisfactory progress, which calls for immediate action to implement alternative strategies to enhance environmental sustainability. The Earth naturally absorbs and stores carbon through various processes, but merely keeping pace with ongoing human activities is no longer sufficient. Land plants and marine prokaryotes absorb CO 2 during photosynthesis and store carbon as biomass. Eukaryotic organisms also represent a valuable resource that can provide insights into the biological fixation and removal of atmospheric CO 2 . Expanding the capacities of Earth’s natural systems offers enormous potential for enhancing carbon sinks and promoting environmental resilience. Although extensive synthetic engineering of plant systems has been conducted to enhance their native carbon fixation pathways, research on microorganisms, especially fungi, has been limited. In this review, we specifically explore the role of soil-borne fungi in carbon management, elucidating their responses to environmental shifts and their potential for climate change mitigation. We place particular emphasis on the role of various fungal guilds in this process, highlighting those that should be prioritized for future synthetic biology applications. We then engage with previous endeavors to address primary challenges in advancing genetic tools for these understudied fungi. Lastly, we discuss how integrating synthetic biology practices into the field of soil-associated fungi can drive advances in long-term carbon storage, enhance degradation of environmental pollutants, and improve nutrient exchange and soil health, contributing to more resilient soil ecosystems and sustainable environmental interventions. Rising carbon dioxide emissions from human activities are driving environmental change and increasing the need for strategies that strengthen natural carbon sinks and ecosystem resilience. While plants and microorganisms play important roles in carbon capture and storage, the potential of soil-associated fungi remains comparatively underexplored, particularly from a synthetic biology perspective. In this Review, we examine the roles of soil-borne fungi in carbon management, their responses to environmental change, and their potential contributions to climate change mitigation. We highlight key fungal guilds that could be prioritized for future synthetic biology applications and discuss current challenges in developing genetic tools for understudied fungi. Finally, we explore how engineering soil-associated fungi could support long-term carbon storage while providing broader environmental benefits, including pollutant degradation, nutrient exchange, and improved soil health. Together, these opportunities position fungal synthetic biology as a promising approach for developing more resilient soil ecosystems and sustainable environmental interventions.",
+      "doi": "10.1038/s43247-026-04088-5",
+      "authors": [
+        "Kyle Davis",
+        "Joanna Tannous"
+      ],
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "openalex_id": "W7223475038",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223475038",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Abstract Over the past two decades, there has been a staggering increase in greenhouse gas emissions, particularly carbon dioxide (CO 2 ) from unrestrained anthropogenic activities, leading to notable environmental shifts.",
+      "added": false
+    },
+    {
+      "title": "The olfactory bulb, prefrontal and anterior cingulate cortex are early pediatric targets for anthropogenic magnetic nanoparticles and their motion behavior under electromagnetic fields",
+      "abstract": "Background: Alzheimer's, Parkinson's, and fronto-temporal lobar degeneration neuropathology hallmarks are present in young urbanites exposed to fine particulate matter (PM 2.5 ), ultrafine PM (UFPM), and nanoparticles (NPs).Metals associated with deteriorated automobile catalysts, diesel motor emissions, brake-pads dust, and electronic waste, including rare earth elements, are entering children's brains.Cognition deficits and brain structural and volumetric changes by magnetic resonance are documented in Metropolitan Mexico City (MMC) children.Objectives: The objectives of the study are to identify ferromagnetic materials and their motion behavior upon exposure to magnetic fields 25-1,000 mT AC in 48 brain samples including olfactory bulbs, anterior cingulate, and prefrontal cortex.Material and methods: Using magnetophoresis, we identified small displacements and significant magnetic vector direction variations in magnetic particles.Transmission electron microscopy and energy-dispersive X-ray spectrometry identified the location and composition of the ferrimagnetic NPs.Results: MMC brain samples from 12 children 8.5 ± 7.6 years and 16 adults 39.2 ± 19.6 year showed ferrimagnetic NPs with magnetic motion behavior possessing organelle and soluble protein risk for neural damage, olfactory deficits, and neuropsychiatric burden, common early neurodegenerative manifestations.Conclusion: Critical brain areas are damaged in early pediatric ages and neurodegeneration is in progress in MMC young urbanites at high risk of poor academic performance.Environmental MMC UFPM/NPs controls are needed.",
+      "doi": "10.24875/gmm.m26001158",
+      "authors": [
+        "Lilian Calderón‐Garcidueñas",
+        "Fredy R. Cejudo-Ruiz",
+        "Ricardo Torres‐Jardón"
+      ],
+      "year": 2026,
+      "journal": "Gaceta Médica de México",
+      "openalex_id": "W7223562570",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223562570",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Background: Alzheimer's, Parkinson's, and fronto-temporal lobar degeneration neuropathology hallmarks are present in young urbanites exposed to fine particulate matter (PM 2.5 ), ultrafine PM (UFPM), and nanoparticles (NPs).Metals associated with deteriorated automobile catalysts, diesel motor emissions, brake-pads dus…",
+      "added": false
+    },
+    {
+      "title": "Author response: Neural Representation of Associative Threat Learning in Pulvinar Divisions, Lateral Geniculate Nucleus, and Mediodorsal Thalamus in Humans",
+      "abstract": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative threat learning using fMRI. The anterior pulvinar and MD exhibited parallel activation patterns, that may reflect distinct contributions to automatic and more deliberative learning processes. Additionally, our findings suggest a hierarchical functional organization of pulvinar activation during fear conditioning, in which coordinated activation among inferior, lateral, medial, and anterior divisions may support the integration of threat-related information. Pulvinar divisions and the MD showed activation during extinction learning and exhibited activation patterns consistent with salience processing during extinction recall and threat renewal. LGN activation patterns were consistent with feedforward visual processing. These findings extend current models of threat learning and memory by suggesting distinct patterns of thalamic involvement across associative threat learning and memory and providing a functional framework for investigating thalamic contributions to these processes.",
+      "doi": "10.7554/elife.108043.3.sa0",
+      "authors": [
+        "Muhammad Badarnee",
+        "Zhenfu Wen",
+        "B Isabel Moallem",
+        "Stephen Maren",
+        "Mohammed R. Milad"
+      ],
+      "year": 2026,
+      "journal": "eLife",
+      "openalex_id": "W7223284802",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223284802",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative th…",
+      "added": false
+    },
+    {
+      "title": "Neural Representation of Associative Threat Learning in Pulvinar Divisions, Lateral Geniculate Nucleus, and Mediodorsal Thalamus in Humans",
+      "abstract": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative threat learning using fMRI. The anterior pulvinar and MD exhibited parallel activation patterns, that may reflect distinct contributions to automatic and more deliberative learning processes. Additionally, our findings suggest a hierarchical functional organization of pulvinar activation during fear conditioning, in which coordinated activation among inferior, lateral, medial, and anterior divisions may support the integration of threat-related information. Pulvinar divisions and the MD showed activation during extinction learning and exhibited activation patterns consistent with salience processing during extinction recall and threat renewal. LGN activation patterns were consistent with feedforward visual processing. These findings extend current models of threat learning and memory by suggesting distinct patterns of thalamic involvement across associative threat learning and memory and providing a functional framework for investigating thalamic contributions to these processes.",
+      "doi": "10.7554/elife.108043.3",
+      "authors": [
+        "Muhammad Badarnee",
+        "Zhenfu Wen",
+        "B Isabel Moallem",
+        "Stephen Maren",
+        "Mohammed R. Milad"
+      ],
+      "year": 2026,
+      "journal": "eLife",
+      "openalex_id": "W7223408765",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223408765",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative th…",
+      "added": false
+    },
+    {
+      "title": "Reviewer #3 (Public review): Neural Representation of Associative Threat Learning in Pulvinar Divisions, Lateral Geniculate Nucleus, and Mediodorsal Thalamus in Humans",
+      "abstract": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative threat learning using fMRI. The anterior pulvinar and MD exhibited parallel activation patterns, that may reflect distinct contributions to automatic and more deliberative learning processes. Additionally, our findings suggest a hierarchical functional organization of pulvinar activation during fear conditioning, in which coordinated activation among inferior, lateral, medial, and anterior divisions may support the integration of threat-related information. Pulvinar divisions and the MD showed activation during extinction learning and exhibited activation patterns consistent with salience processing during extinction recall and threat renewal. LGN activation patterns were consistent with feedforward visual processing. These findings extend current models of threat learning and memory by suggesting distinct patterns of thalamic involvement across associative threat learning and memory and providing a functional framework for investigating thalamic contributions to these processes.",
+      "doi": "10.7554/elife.108043.3.sa1",
+      "authors": [],
+      "year": 2026,
+      "journal": "eLife",
+      "openalex_id": "W7223415049",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223415049",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative th…",
+      "added": false
+    },
+    {
+      "title": "Reviewer #1 (Public review): Neural Representation of Associative Threat Learning in Pulvinar Divisions, Lateral Geniculate Nucleus, and Mediodorsal Thalamus in Humans",
+      "abstract": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative threat learning using fMRI. The anterior pulvinar and MD exhibited parallel activation patterns, that may reflect distinct contributions to automatic and more deliberative learning processes. Additionally, our findings suggest a hierarchical functional organization of pulvinar activation during fear conditioning, in which coordinated activation among inferior, lateral, medial, and anterior divisions may support the integration of threat-related information. Pulvinar divisions and the MD showed activation during extinction learning and exhibited activation patterns consistent with salience processing during extinction recall and threat renewal. LGN activation patterns were consistent with feedforward visual processing. These findings extend current models of threat learning and memory by suggesting distinct patterns of thalamic involvement across associative threat learning and memory and providing a functional framework for investigating thalamic contributions to these processes.",
+      "doi": "10.7554/elife.108043.3.sa2",
+      "authors": [],
+      "year": 2026,
+      "journal": "eLife",
+      "openalex_id": "W7223320526",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223320526",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative th…",
+      "added": false
+    },
+    {
+      "title": "eLife Assessment: Neural Representation of Associative Threat Learning in Pulvinar Divisions, Lateral Geniculate Nucleus, and Mediodorsal Thalamus in Humans",
+      "abstract": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative threat learning using fMRI. The anterior pulvinar and MD exhibited parallel activation patterns, that may reflect distinct contributions to automatic and more deliberative learning processes. Additionally, our findings suggest a hierarchical functional organization of pulvinar activation during fear conditioning, in which coordinated activation among inferior, lateral, medial, and anterior divisions may support the integration of threat-related information. Pulvinar divisions and the MD showed activation during extinction learning and exhibited activation patterns consistent with salience processing during extinction recall and threat renewal. LGN activation patterns were consistent with feedforward visual processing. These findings extend current models of threat learning and memory by suggesting distinct patterns of thalamic involvement across associative threat learning and memory and providing a functional framework for investigating thalamic contributions to these processes.",
+      "doi": "10.7554/elife.108043.3.sa3",
+      "authors": [
+        "Mathieu Wolff"
+      ],
+      "year": 2026,
+      "journal": "eLife",
+      "openalex_id": "W7223278924",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223278924",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Understanding the neural mechanisms underlying associative threat learning is essential for advancing behavioral models of threat and adaptation. We investigated distinct activation patterns across thalamic pulvinar divisions, the lateral geniculate nucleus (LGN), and the mediodorsal thalamus (MD) during associative th…",
+      "added": false
+    },
+    {
+      "title": "Before the godwit and the owl: John Pocock’s kiwi history",
+      "abstract": "Soon after the end of World War II, a short, five-page essay entitled 'Historian and Poet in New Zealand' appeared in The Arts in New Zealand, a small periodical based in Wellington.'History is among other things an art', the author asserts in the first line, 'or, more precisely, it stands at the point where the frontiers of science and art meet and partakes in the nature of both'.'To repeat this commonplace', he continues, 'is not merely to present an apology for submitting an essay on history to a periodical dedicated to the arts' but has a more pressing purpose: 'it enables us to ascertain the relevance of history to the basic cultural problem of New Zealand'.In the pages that follow, the young John Greville Agard Pocock (1924-2023), then 21 years old, proceeds to explore this bipartite nature of history writing, its relationship to poetry and what he perceives as the dismissal of history by the settler poets of the mid-century Pacific archipelago. 2 'Historian and Poet' revolves around the intersected themes of poetry, history writing, human society and temporality, and does so principally as a response to the work of the essayist M. H. ('Monte') Holcroft (1902-1993) and the poet Allen Curnow (1911-2001).Ultimately, the essay serves as both a defence of history and a call for history by Pocock as a New Zealander to his fellow pākehā; the Māori term for non-Polynesian settlers, pākehā is mostly used, as Pocock later clarifies, to describe 'people 1In writing this article I accrued various debts.",
+      "doi": "10.22459/ajbh.12.2026.04",
+      "authors": [
+        "Thomas Ashby"
+      ],
+      "year": 2026,
+      "journal": "Australian Journal of Biography and History",
+      "openalex_id": "W7223868381",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223868381",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Soon after the end of World War II, a short, five-page essay entitled 'Historian and Poet in New Zealand' appeared in The Arts in New Zealand, a small periodical based in Wellington.'History is among other things an art', the author asserts in the first line, 'or, more precisely, it stands at the point where the fronti…",
+      "added": false
+    },
+    {
+      "title": "The intestinal microbiome in inflammatory bowel disease and spondyloarthritides",
+      "abstract": "Extraintestinal manifestations (EIMs) of inflammatory bowel disease (IBD) can affect any organ system, ranging in presentation, frequency, and severity; the most common EIM is IBD-associated arthritis (IAA), an inflammatory arthritis affecting both axial and peripheral joints. IAA is a form of seronegative spondyloarthritis (SpA), which includes multiple arthritides, and those with IAA are also likelier to have other clinical features observed in those with SpA without IBD, such as increased rates of uveitis, psoriasis, and HLA-B27 positivity. These overlapping features are not limited to clinical disease features; the microbiome has been heavily implicated in the development of both IBD and SpA and is associated with non-SpA EIMs. In this review, we offer an overview of several bacterial taxa and associated metabolites that have been identified as differentially abundant in both IBD and SpA, both in stool and mucosal assessment, and how these taxa are associated with differences in intestinal permeability and immune profiles. We also describe how the overlapping dysbiotic microbiome and associated metabolome in IBD, EIMs of IBD, and SpA may differentially modulate the immune system, thus contributing to the shared underlying etiopathogenesis of these diseases. Further work is needed to characterize causal, mechanistic relationships beyond pure computationally identified associations, and apply these findings towards targeted therapeutic intervention and personalized medicine in IBD. Alizadeh et al. review the shared links between inflammatory bowel disease and spondyloarthritis, with a focus on IBD-associated spondyloarthritis. There is a high degree of clinical overlap, and shared increases in gut permeability linked to altered microbiota and metabolites, suggesting those as common pathways driving disease.",
+      "doi": "10.1038/s43856-026-01919-6",
+      "authors": [
+        "Madeline A. Alizadeh",
+        "Bernadette C. Siaton",
+        "Dania N. Hudhud",
+        "Erik C. von Rosenvinge",
+        "Raymond Keith Cross",
+        "Jacques Ravel"
+      ],
+      "year": 2026,
+      "journal": "Communications Medicine",
+      "openalex_id": "W7223452006",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223452006",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Extraintestinal manifestations (EIMs) of inflammatory bowel disease (IBD) can affect any organ system, ranging in presentation, frequency, and severity; the most common EIM is IBD-associated arthritis (IAA), an inflammatory arthritis affecting both axial and peripheral joints.",
+      "added": false
+    },
+    {
+      "title": "Magnolia officinalis: properties, supplementation, treated conditions, and the nervous system",
+      "abstract": "Magnolia officinalis is of interest to research primarily for its magnolol and honokiol content. These compounds act on oxidative stress, inflammation, metabolism, and the nervous system. Preclinical studies are numerous and show consistent results. Clinical studies, however, vary more and often evaluate specific formulas. The overall picture is promising, but the evidence is more robust regarding the mechanisms. It remains less certain regarding practical effects in humans.",
+      "doi": "10.68559/lsh.2026.208",
+      "authors": [
+        "Armando Colonnese",
+        "Roberto Panzironi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223670910",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223670910",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Magnolia officinalis is of interest to research primarily for its magnolol and honokiol content. These compounds act on oxidative stress, inflammation, metabolism, and the nervous system. Preclinical studies are numerous and show consistent results.",
+      "added": false
+    },
+    {
+      "title": "Complete Issue - Vol 84, No 2 (2026)",
+      "abstract": "ithin genre fiction, the figure of the librarian or archivist rarely enters a narrative as neutral scenery.These characters and the institutions they represent tend to materialize at moments when a story's world becomes unstable, when memory is contested, when authority is challenged, or when a community's access to texts determines whose version of reality will prevail.Read as cultural artifacts, such portrayals are not merely images of librarians; they are narrative instruments used to stage conflicts about knowledge, power, and the ethics of preservation.From the perspective of librarianship, this essay examines a curated selection of prose fiction in book form across fantasy, science fiction, horror, dystopian, and historical traditions.The scope is intentionally limited to traditional books, including novels, novellas, and short stories that circulate in print, and it excludes film, television, comics, manga, and other non-book media.The aim is not an empirical content analysis or a systematic literature review, but a thematic critical review that uses close reading and interpretive synthesis to trace recurring patterns and to consider what those patterns suggest about librarianship as an ethical and cultural practice.While the analysis centers on librarians and archivists, adjacent knowledge-keeping roles, including conservators and booksellers, appear when narratives foreground preservation labor, material stewardship, custody, and circulation as forces that shape access to memory.This essay argues that fictional portrayals of librarians, archivists, and other knowledge-keepers function as cultural metaphors for society's evolving relationship with knowledge, memory, and power.Across genre fiction these figures are repeatedly positioned at moments of narrative crisis, serving as guardians, gatekeepers, heroes, or antagonists whose actions reflect broader anxieties about access to information, censorship, preservation, and authority.By examining these portrayals from early twentieth-century modernism and pulp genre formation through contemporary genre experimentation, the essay demonstrates how genre fiction has increasingly shifted the librarian archetype from marginal caretaker to central moral agent, revealing changing attitudes toward who controls knowledge and how it should be used.A brief conceptual note is useful here.The term \"knowledge-keeper\" is used as an umbrella for librarians and archivists as the primary focus, with conservators, scholars, and booksellers treated as secondary variants when their labor stabilizes, restricts, or circulates texts as cultural memory.In professional discourse, knowledge-keeping is often framed as stewardship, access, and trust.In genre narratives, those same commitments are intensified into crisis: access becomes a choice with immediate consequences; custody becomes a site of power; and preservation becomes a wager against erasure.These narrative intensifications make ethical tensions visible, especially",
+      "doi": "10.3776/ncl.v84i2.5567",
+      "authors": [
+        "Michael Reece"
+      ],
+      "year": 2026,
+      "journal": "North Carolina Libraries",
+      "openalex_id": "W7223389067",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223389067",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "ithin genre fiction, the figure of the librarian or archivist rarely enters a narrative as neutral scenery.These characters and the institutions they represent tend to materialize at moments when a story's world becomes unstable, when memory is contested, when authority is challenged, or when a community's access to te…",
+      "added": false
+    },
+    {
+      "title": "Research progress and application prospects of in vitro human skin models",
+      "abstract": "In vitro human skin models have evolved from reconstructed epidermal and full-thickness tissues to more diverse platforms that combine multicellular organization with increasingly precise control over tissue architecture and the culture microenvironment. This growing diversity increases the need for clear classification and fit-for-purpose evaluation. This review organizes current in vitro human skin models according to biological architecture, including reconstructed epidermal, dermal, full-thickness, and multilayered equivalents, spheroids, and skin organoids, and separately considers vascular, immune, neural, pigmentary, and microbial components as functional extensions. We further examine engineering strategies to construct, mature, and control these systems, including conventional tissue engineering, biomaterial design, three-dimensional bioprinting, microfluidic platforms, and stem-cell-based differentiation. For wound healing, toxicological testing, and disease modeling, we examine which functions each model reproduces, how reproducibly it performs, and how far it has progressed toward experimental, clinical, or regulatory validation. Future development should prioritize models that reproduce the biological functions required for a defined application while remaining experimentally controllable, reproducible, and appropriately validated for that context of use.",
+      "doi": "10.36922/or026280029",
+      "authors": [
+        "Siying Li",
+        "Ruibao Chen",
+        "Yujie Wang",
+        "Ling Leng"
+      ],
+      "year": 2026,
+      "journal": "Organoid Research",
+      "openalex_id": "W7223568448",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223568448",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "In vitro human skin models have evolved from reconstructed epidermal and full-thickness tissues to more diverse platforms that combine multicellular organization with increasingly precise control over tissue architecture and the culture microenvironment.",
+      "added": false
+    },
+    {
+      "title": "Magnolia officinalis: propiedades, suplementación, patologías tratadas y sistema nervioso",
+      "abstract": "La Magnolia officinalis es de interés para la investigación principalmente por el magnolol y el honokiol. Estos compuestos actúan sobre el estrés oxidativo, la inflamación, el metabolismo y el sistema nervioso. Los estudios preclínicos son numerosos y muestran resultados coherentes. Los estudios clínicos, en cambio, son más variables y a menudo evalúan fórmulas específicas. El panorama es prometedor, pero las pruebas son más sólidas en cuanto a los mecanismos. Siguen siendo menos ciertas respecto a los efectos prácticos en los seres humanos.",
+      "doi": "10.68559/lsh.2026.208.es",
+      "authors": [
+        "Armando Colonnese",
+        "Roberto Panzironi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223658550",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223658550",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "La Magnolia officinalis es de interés para la investigación principalmente por el magnolol y el honokiol. Estos compuestos actúan sobre el estrés oxidativo, la inflamación, el metabolismo y el sistema nervioso. Los estudios preclínicos son numerosos y muestran resultados coherentes.",
+      "added": false
+    },
+    {
+      "title": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies",
+      "abstract": "Neurodegenerative diseases are a growing cause of disability worldwide, particularly as populations age. Although these disorders differ in etiology and clinical presentation, advances in genetics, neuropathology, and biomarker research have identified shared disturbances in protein homeostasis, mitochondrial function, and immune regulation. These processes may contribute to selective neuronal vulnerability and neural circuit dysfunction. These findings are refining disease classification and diagnosis, yet effective disease-modifying therapies remain limited. Disease-specific abnormalities remain essential to clinical interpretation and treatment selection. Existing reviews often focus on individual disorders or isolated mechanisms, leaving the links between shared biology and disease-specific phenotypes insufficiently clear. We synthesize evidence on the epidemiology, risk factors, classification, and pathophysiology of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease, frontotemporal dementia, Friedreich's ataxia, and multiple sclerosis. We compare their clinical manifestations and diagnostic approaches, including the evolving role of biomarkers, and critically assess established and emerging therapies. By distinguishing shared mechanisms from disease-specific abnormalities, we identify key translational gaps and explore how common biological disturbances may lead to distinct clinical trajectories. This cross-disease perspective may inform diagnostic reasoning, treatment development, and future comparative research.",
+      "doi": "10.1002/mco2.71090",
+      "authors": [
+        "Zimeng He",
+        "Jingjing Zeng",
+        "Guoqing Wang",
+        "Yuxin Li",
+        "Feng Zhang"
+      ],
+      "year": 2026,
+      "journal": "MedComm",
+      "openalex_id": "W7223265793",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223265793",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Neurodegenerative diseases are a growing cause of disability worldwide, particularly as populations age. Although these disorders differ in etiology and clinical presentation, advances in genetics, neuropathology, and biomarker research have identified shared disturbances in protein homeostasis, mitochondrial function,…",
+      "added": false
+    },
+    {
+      "title": "Magnolia officinalis: proprietà, integrazione e patologie trattate, fino a mTOR, AMPK e sistema nervoso",
+      "abstract": "La Magnolia officinalis interessa la ricerca soprattutto per magnololo e honokiolo. Questi composti agiscono su stress ossidativo, infiammazione, metabolismo e sistema nervoso. Gli studi preclinici sono numerosi e mostrano risultati coerenti. Gli studi clinici, invece, variano di più e spesso valutano formule specifiche. Il quadro è promettente, ma le prove sono più solide sui meccanismi. Restano meno certe sugli effetti pratici nell’uomo.",
+      "doi": "10.68559/lsh.2026.208.it",
+      "authors": [
+        "Armando Colonnese",
+        "Roberto Panzironi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223673221",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223673221",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "La Magnolia officinalis interessa la ricerca soprattutto per magnololo e honokiolo. Questi composti agiscono su stress ossidativo, infiammazione, metabolismo e sistema nervoso. Gli studi preclinici sono numerosi e mostrano risultati coerenti.",
+      "added": false
+    },
+    {
+      "title": "Magnolia officinalis: Eigenschaften, Nahrungsergänzung, behandelte Erkrankungen und Nervensystem",
+      "abstract": "Die Forschung interessiert sich vor allem aufgrund von Magnolol und Honokiol für Magnolia officinalis. Diese Verbindungen wirken auf oxidativen Stress, Entzündungen, den Stoffwechsel und das Nervensystem. Es gibt zahlreiche präklinische Studien, die konsistente Ergebnisse zeigen. Klinische Studien hingegen variieren stärker und untersuchen häufig spezifische Formulierungen. Das Gesamtbild ist vielversprechend, doch die Belege für die zugrunde liegenden Mechanismen sind solider als die für die praktischen Auswirkungen beim Menschen.",
+      "doi": "10.68559/lsh.2026.208.de",
+      "authors": [
+        "Armando Colonnese",
+        "Roberto Panzironi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223702450",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223702450",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "Die Forschung interessiert sich vor allem aufgrund von Magnolol und Honokiol für Magnolia officinalis. Diese Verbindungen wirken auf oxidativen Stress, Entzündungen, den Stoffwechsel und das Nervensystem. Es gibt zahlreiche präklinische Studien, die konsistente Ergebnisse zeigen.",
+      "added": false
+    },
+    {
+      "title": "SAHR Learning Health Systems: From Knowledge to Action",
+      "abstract": "maternal and neonatal healthcare in South Africa before, during, and after the COVID-19 pandemic",
+      "doi": "10.61473/001c.173215",
+      "authors": [
+        "Lucy Gilson",
+        "Nonhlanhla Nxumalo",
+        "Emma-Louise Mackie"
+      ],
+      "year": 2026,
+      "journal": "South African Health Review",
+      "openalex_id": "W7223841218",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223841218",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "maternal and neonatal healthcare in South Africa before, during, and after the COVID-19 pandemic",
+      "added": false
+    },
+    {
+      "title": "Magnolia officinalis : propriétés, supplémentation, pathologies traitées et système nerveux",
+      "abstract": "La Magnolia officinalis intéresse la recherche principalement pour le magnolol et l'honokiol. Ces composés agissent sur le stress oxydatif, l'inflammation, le métabolisme et le système nerveux. Les études précliniques sont nombreuses et montrent des résultats cohérents. Les études cliniques, en revanche, sont plus variables et évaluent souvent des formules spécifiques. Le tableau est prometteur, mais les preuves sont plus solides concernant les mécanismes. Elles restent moins certaines quant aux effets pratiques chez l'homme.",
+      "doi": "10.68559/lsh.2026.208.fr",
+      "authors": [
+        "Armando Colonnese",
+        "Roberto Panzironi"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7223695579",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223695579",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/14 key interest terms",
+      "tags": [],
+      "summary": "La Magnolia officinalis intéresse la recherche principalement pour le magnolol et l'honokiol. Ces composés agissent sur le stress oxydatif, l'inflammation, le métabolisme et le système nerveux. Les études précliniques sont nombreuses et montrent des résultats cohérents.",
+      "added": false
+    }
+  ]
+}
