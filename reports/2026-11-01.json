@@ -1,0 +1,811 @@
+{
+  "date": "2026-11-01",
+  "statistics": {
+    "fetched": 185,
+    "duplicates_removed": 154,
+    "evaluated": 31,
+    "added": 0,
+    "ignored": 31,
+    "average_score": 1.77
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Post-fire tree mortality and regeneration in Pinus canariensis stands under different forest treatments",
+      "abstract": "Fire is a fundamental natural disturbance shaping forest dynamics, yet climate change and human activities are altering fire regimes in ways that may compromise forest resilience and recruitment. The two key species in structuring Canary pine forests exhibit contrasting fire adaptations and regeneration strategies. The paleoendemic Canary pine ( Pinus canariensis ) possesses a remarkable combination of fire-related traits, including exceptionally thick bark, the rather rare ability among conifers to resprout epicormically after complete crown combustion, and low to intermediate serotiny. On the other hand, the Canary tree heath ( Erica canariensis ), endemic to the Canary Islands and Madeira, is a typical basal resprouter in Canary pine forests. Quantitative evidence, especially assessing individual tree characteristics, supporting the combination of traits related to each strategy remains limited. This study examined post-fire mortality and regeneration of P. canariensis and E. canariensis , both at the individual tree and the stand level, following the 2023 Tenerife wildfire, comparing semi-natural stands, dense reforested plantations, and thinned plantations. Post-fire mortality of adult pines was low (16.5%) and strongly decreased with increasing stem diameter at breast height (DBH). Burned trees exceeding 30 cm DBH showed very high survival, even after complete crown combustion. Mortality was also influenced by intraspecific competition, forest treatment, and summer rainfall. In contrast, juvenile pines experienced 80% mortality, highlighting a potential risk to long-term stand regeneration, as recurrent fires may eliminate regeneration cohorts before they reach fire-resistant sizes and reproductive maturity. Post-fire tree mortality of E. canariensis reached 26.5%, with surviving individuals recovering through basal resprouting. Both survival and resprouting vigor of this species increased with pre-fire tree height. Fire strongly influenced Canary pine seedling density, exhibiting a unimodal relationship with fire severity that peaked at 50–70% crown damage. Post-fire pine seedling height was positively related to fire severity and summer precipitation. These findings, interpreted within a mixed-fire regime and evolutionary framework, highlight the fire adaptation and resilience of tree species in humid Canary pine forest. Nevertheless, increasing fire frequency could threaten long-term ecosystem persistence, emphasizing the need to conserve old-growth forest structures and define fire-return intervals that sustain regeneration under ongoing global change.",
+      "doi": "10.1016/j.foreco.2026.124378",
+      "authors": [
+        "Rüdiger Otto",
+        "Patricia García‐Domínguez",
+        "Giulia Celotto",
+        "Edoardo Asquini",
+        "Francesco Boscutti",
+        "Natalia Sierra Cornejo",
+        "Lea de Nascimento",
+        "José María Fernández‐Palacios"
+      ],
+      "year": 2026,
+      "journal": "Forest Ecology and Management",
+      "openalex_id": "W7224628888",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224628888",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 35%: matched 5/15 key interest terms (fire regimes, regimes, species, fire, wildfire)",
+      "tags": [
+        "fire regimes",
+        "regimes",
+        "species",
+        "fire",
+        "wildfire"
+      ],
+      "summary": "Fire is a fundamental natural disturbance shaping forest dynamics, yet climate change and human activities are altering fire regimes in ways that may compromise forest resilience and recruitment. The two key species in structuring Canary pine forests exhibit contrasting fire adaptations and regeneration strategies.",
+      "added": false
+    },
+    {
+      "title": "Beyond the slash-and-burn narrative: evidence on forest and land fire drivers from oil palm enclaves in West Kalimantan, Indonesia",
+      "abstract": "Abstract Forest and land fires in Indonesia are frequently attributed to oil palm expansion and slash-and-burn land clearing, yet the social and institutional dynamics underlying fire occurrence remain insufficiently understood. This study investigates the drivers of forest and land fires through case studies of two oil palm concessions in West Kalimantan, Indonesia, with particular attention to enclave areas within concession boundaries. Data was collected through semi-structured interviews, focus group discussions, field observations, document analysis, and geographic information system (GIS) mapping of burned sites. The findings show that, across the two case-study oil palm concessions in West Kalimantan, all recorded fire events were located within enclave areas rather than company-managed oil palm plantation areas. Fires were primarily associated with slash-and-burn practices by local communities, initially for rice cultivation. Ground verification confirmed that about 1047 hectares of burned land were located in these enclaves. Post-fire analysis shows that many burned areas were later converted into smallholder oil palm plantations, reflecting the interaction between traditional land clearing and changing rural livelihood strategies. The results suggest that unclear governance arrangements surrounding enclave areas contribute to persistent fire risk in plantation landscapes. Clarifying the spatial and legal status of enclave lands, including their exclusion from concession boundaries, could improve accountability and strengthen fire management among companies, communities, and local authorities.",
+      "doi": "10.1186/s42408-026-00600-6",
+      "authors": [
+        "Rijal Ramdani",
+        "Agam Fatchurrochman",
+        "Eko Priyo Purnomo",
+        "Andi Muhammad Amin",
+        "Hefi Al Hifdhi",
+        "Reza Ariesca",
+        "Obed Asamoah",
+        "Susilo Nur Aji Cokro Darsono",
+        "Dian Indra Praja",
+        "Bagus Ali Imron",
+        "Nasrulhaq"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7223931763",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223931763",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 34%: matched 3/15 key interest terms (drivers, occurrence, fire)",
+      "tags": [
+        "drivers",
+        "occurrence",
+        "fire"
+      ],
+      "summary": "Abstract Forest and land fires in Indonesia are frequently attributed to oil palm expansion and slash-and-burn land clearing, yet the social and institutional dynamics underlying fire occurrence remain insufficiently understood.",
+      "added": false
+    },
+    {
+      "title": "Characteristics of Secondary Aerosols and Ozone During Intense Biomass Burning Episodes in Northeast China: Insights From High‐Resolution Time‐of‐Flight Aerosol Mass Spectrometer",
+      "abstract": "Abstract Springtime haze in the intensive agricultural regions of Northeast China is closely associated with large‐scale open biomass burning (OBB), yet the resulting chemical evolution remains poorly understood. Based on the field campaign utilizing a High‐Resolution Time‐of‐Flight Aerosol Mass Spectrometer (HR‐ToF‐AMS) in Harbin during 2022, we identified OBB as the primary driver of intense haze episodes, characterized by sharp increases in biomass burning organic aerosol (BBOA) and synergistic surges in associated inorganic species. Our results revealed that massive OBB plumes significantly reshaped urban atmospheric chemistry, for example, increasing daytime O 3 levels by a factor of up to ∼1.6. Further analysis highlighted that photochemistry primarily drove organic aerosol aging within these OBB episodes. Concurrently, the elevated oxidative capacity promoted nitrate formation via photochemical pathways during the daytime, whereas nocturnal nitrate formation was driven by two pathways involving dark reactions and heterogeneous processes. These findings provided critical insights for addressing pollution in OBB‐impacted regions.",
+      "doi": "10.1029/2026jd048366",
+      "authors": [
+        "Ying‐jie Zhong",
+        "Jiumeng Liu",
+        "Wei Wang",
+        "Ke‐bin He",
+        "Yuan Cheng"
+      ],
+      "year": 2026,
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "openalex_id": "W7225000881",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225000881",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 32%: matched 4/15 key interest terms (burning, large, species, urban)",
+      "tags": [
+        "burning",
+        "large",
+        "species",
+        "urban"
+      ],
+      "summary": "Abstract Springtime haze in the intensive agricultural regions of Northeast China is closely associated with large‐scale open biomass burning (OBB), yet the resulting chemical evolution remains poorly understood.",
+      "added": false
+    },
+    {
+      "title": "The Institutionalization of REIT Sustainability Reporting: Cross‐Country Evidence From ESG Disclosure Regimes and Building Sustainability Policies",
+      "abstract": "ABSTRACT This study examines the institutionalization and textual evolution of sustainability reporting among listed real estate investment trusts (REITs) in the United States, the United Kingdom, Australia, Singapore, and Japan between 2020 and 2025. Reporting is framed as the joint product of two institutional layers: capital‐market environmental, social, and governance (ESG) disclosure regimes and building‐level sustainability policies. For the full listed universe (641 REIT‐year observations), the analysis combines transition modeling with binomial logit estimation. To analyze the text of 307 hand‐collected reports, it applies term frequency–inverse document frequency (TF–IDF) comparison, Structural Topic Modeling, and a human‐validated building‐level sustainability keyword index. The share of listed REITs issuing an identifiable sustainability report rose from 43.1% to 63.9%; new adoption (26.4%) far outpaced discontinuation (5.1%). Reporting language shifted toward structured, climate‐oriented, and implementation‐focused content. Asset‐level sustainability vocabulary is densest where building‐level instruments are longest established and rose fastest where those instruments expanded. The two layers leave distinguishable traces: disclosure regimes most visibly on the issuance margin, building policies on the content margin. The proposed index offers a transferable starting point for monitoring asset‐level sustainability language in corporate disclosure.",
+      "doi": "10.1002/csr.71135",
+      "authors": [
+        "Seonghun Min"
+      ],
+      "year": 2026,
+      "journal": "Corporate Social Responsibility and Environmental Management",
+      "openalex_id": "W7224836759",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224836759",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 31%: matched 4/15 key interest terms (united, united states, states, regimes)",
+      "tags": [
+        "united",
+        "united states",
+        "states",
+        "regimes"
+      ],
+      "summary": "ABSTRACT This study examines the institutionalization and textual evolution of sustainability reporting among listed real estate investment trusts (REITs) in the United States, the United Kingdom, Australia, Singapore, and Japan between 2020 and 2025.",
+      "added": false
+    },
+    {
+      "title": "Race disparities in total PM2.5 and wildfire-specific PM2.5 exposure among disaggregated Asian American, Native Hawaiian, and Pacific Islander groups in California",
+      "abstract": "Introduction Environmental health disparities in the United States (US) are evident in PM 2.5 exposure, but few studies have documented wildfire-specific PM 2.5 disparities. Furthermore, aggregating broad racial groups may hide disparities for Asian American (AA) and Native Hawaiian or Pacific Islander (NHPI) groups. We investigated racial disparities in total and wildfire-specific PM 2.5 exposure in California and determined whether disaggregating AA and NHPI groups revealed previously hidden disparities. Methods We conducted a cross-sectional descriptive analysis using data from the US Environmental Protection Agency’s Air Quality System data (2008-2012) to assess average total PM 2.5 levels in census tracts, including wildfire-specific PM 2.5 . The 2010 U.S. Census provided census tract level counts for American Indian/Alaska Native, AA, Black, NHPI, White, and 19 disaggregated AA and 10 disaggregated NHPI groups. We calculated population-weighted average exposure to total PM 2.5 and wildfire-specific PM 2.5 for all race groups across California state. Results Results showed differences in the distribution of total PM 2.5 compared to wildfire-specific PM 2.5 in the state. Disaggregated data revealed disparities, including high exposure to total PM 2.5 among several disaggregated AA and NHPI groups and Black populations. Hmong populations experienced the highest average exposure to total PM 2.5 and wildfire-specific PM 2.5 compared to all other race groups. The highest average wildfire-specific PM 2.5 exposure was observed among Hmong, Fijian, Laotian, Bhutanese, Marshallese, and other Micronesian populations. Conclusion Race disparities exist for total and wildfire-specific PM 2.5 . Disaggregating AA and NHPI groups reveals disparities among certain populations. This study informs future community-based efforts to assess and address health risks associated with exposure to PM 2.5 .",
+      "doi": "10.1016/j.joclim.2026.100755",
+      "authors": [
+        "Minhazul Mohsin",
+        "Mengyi Li",
+        "Jun Wu",
+        "Sora Park Tanjasiri",
+        "Brittany N. Morey"
+      ],
+      "year": 2026,
+      "journal": "The Journal of Climate Change and Health",
+      "openalex_id": "W7224392937",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224392937",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 30%: matched 4/15 key interest terms (united, united states, states, wildfire)",
+      "tags": [
+        "united",
+        "united states",
+        "states",
+        "wildfire"
+      ],
+      "summary": "Introduction Environmental health disparities in the United States (US) are evident in PM 2.5 exposure, but few studies have documented wildfire-specific PM 2.5 disparities. Furthermore, aggregating broad racial groups may hide disparities for Asian American (AA) and Native Hawaiian or Pacific Islander (NHPI) groups.",
+      "added": false
+    },
+    {
+      "title": "Short-term impacts of fuel treatments to above-ground forest carbon storage and stability in southeastern British Columbia, Canada",
+      "abstract": "Abstract Background Extreme wildfires produce substantial carbon emissions and are increasingly causing some forests to transition from carbon sinks to net carbon sources. Fuel treatments are often implemented to proactively reduce the risk of severe wildfire and resulting emissions; however, there is limited existing research characterizing the effects of these treatments on forest carbon storage and stability in the seasonally dry, fire-prone forests of southeastern British Columbia, Canada. We partnered with five community forests that implemented different types of fuel treatments—involving combinations of thinning, pruning, and pile burning or chipping—between the summers of 2021 and 2022. We used allometric equations to estimate differences in above-ground carbon stored on-site pre- and post-treatment and across treatment types while also accounting for the utilization of biomass removed off-site during treatment. We then combined field data with the First Order Fire Effects Model to quantify potential tree mortality and direct carbon emissions under three future wildfire scenarios in forest stands with and without fuel treatments. Results Fuel treatments reduced above-ground carbon storage across all treatment types, 1 year after treatment. High-intensity thinning treatments resulted in greater relative decreases to total above-ground carbon than low-intensity thinning treatments; however, high-intensity thinning improved carbon stability as represented by greater decreases to potential tree mortality from wildfire. High-intensity thinning treatments had greater biomass utilization than low-intensity thinning treatments due to the removal of merchantable timber, which has a longer-term carbon storage potential. Compared to pre-treatment conditions, fuel treatments had a minor impact on potential direct carbon emissions. Conclusions This work develops ecosystem-specific knowledge to critically evaluate the short-term effects of fuel treatments on forest carbon stocks in fire-prone landscapes of British Columbia and provides a foundation for future monitoring of carbon stocks over time.",
+      "doi": "10.1186/s42408-026-00603-3",
+      "authors": [
+        "Rachel S. Pekelney",
+        "Bianca N.I. Eskelson",
+        "Lori D. Daniels",
+        "Kea H. Rutherford"
+      ],
+      "year": 2026,
+      "journal": "Fire Ecology",
+      "openalex_id": "W7224855692",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224855692",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 26%: matched 4/15 key interest terms (wildfires, burning, fire, wildfire)",
+      "tags": [
+        "wildfires",
+        "burning",
+        "fire",
+        "wildfire"
+      ],
+      "summary": "Abstract Background Extreme wildfires produce substantial carbon emissions and are increasingly causing some forests to transition from carbon sinks to net carbon sources.",
+      "added": false
+    },
+    {
+      "title": "From Aerosol Columns to Breathing-Zone Exposure: Meteorological Controls, Vertical Mixing, and Measurement Uncertainty in Nepal’s Mountain Valleys",
+      "abstract": "Aerosol optical depth (AOD) and ground-level particulate matter (PM) are frequently interpreted together in Himalayan air-pollution research, although they measure different atmospheric quantities. In Nepal, sharp elevation gradients, mountain–valley circulations, monsoon rainfall, combustion sources, and transboundary transport can decouple column-integrated optical loading from breathing-zone exposure. This critical integrative review asks how meteorological processes connect emissions, aerosol optics, surface PM2.5, and exposure, and which monitoring designs can test those links. Nepalese sun-photometer, surface, chemical, airborne, transport, and health evidence is synthesized across urban valleys, the Terai, and high-elevation sites. The analysis gives particular attention to multiyear optical measurements in Lumbini and draws methodological lessons from neighborhood-level mobile monitoring in Massachusetts and a 2026 review of remote-sensing technologies in the United States. Those international studies inform method selection rather than supply Nepal-specific effect estimates. The synthesis shows that vertical mixing, aerosol water uptake, particle composition, sampling gaps, and neighborhood heterogeneity can produce different trends in AOD and surface PM. It proposes a cross-platform validation strategy linking reference PM monitoring, calibrated mobile sensors, ground-based and satellite optical observations, vertical profiles, meteorology, and uncertainty-aware data fusion. This approach could improve exposure-relevant estimates and event-specific forecasting in complex Himalayan terrain.",
+      "doi": "10.58806/ijmir.2026.v3i10n07",
+      "authors": [
+        "Santosh Pandey"
+      ],
+      "year": 2026,
+      "journal": "International Journal of Multidisciplinary and Innovative Research",
+      "openalex_id": "W7225016354",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225016354",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 25%: matched 4/15 key interest terms (united, united states, states, urban)",
+      "tags": [
+        "united",
+        "united states",
+        "states",
+        "urban"
+      ],
+      "summary": "Aerosol optical depth (AOD) and ground-level particulate matter (PM) are frequently interpreted together in Himalayan air-pollution research, although they measure different atmospheric quantities.",
+      "added": false
+    },
+    {
+      "title": "More Frequent, Faster, and Seasonally Reorganized Drought‐to‐Pluvial Transitions in U.S. Cities",
+      "abstract": "Abstract Hydroclimatic variability is projected to intensify under continued warming, yet the evolving likelihood, rapidness, and seasonal timing of drought‐to‐pluvial transitions remain poorly quantified. Here, we develop a probabilistic framework that integrates a severity‐resolved Markov formulation to estimate conditional drought‐to‐pluvial transition probabilities, Event Coincidence Analysis to quantify Relief Time (TR; the interval between drought amelioration and subsequent pluvial onset), and circular statistics to characterize the seasonal timing of post‐drought pluvial occurrence. We apply this framework to the Standardized Precipitation Evapotranspiration Index derived from a 20‐member ensemble of downscaled climate‐model projections for 27 U.S. cities representing all nine National Oceanic and Atmospheric Administration Climate Regions. Results reveal a systematic reorganization of drought‐to‐pluvial dynamics under future warming. For severe drought thresholds, drought‐to‐pluvial transitions increase by approximately 132%–154%, while severe drought states increase by 128%–203% relative to historical conditions. Across most cities, Relief Time shortens by 0.1–0.3 months, indicating increasingly abrupt transitions from drought to wet conditions. Seasonal timing also reorganizes, with the first post‐drought pluvial event shifting by approximately 1–3 months in many regions. Joint changes in transition probability and TR reveal distinct regional acceleration regimes characterized by increasing transition frequency, increasing abruptness, or both. The findings indicate that future drought recovery may increasingly occur through faster, more frequent, and seasonally altered transitions to wet conditions. The proposed framework provides transferable metrics for diagnosing drought‐to‐pluvial behavior and offers actionable insights for flood‐risk assessment, water‐resource management, and climate adaptation under a warming climate.",
+      "doi": "10.1029/2026ef009237",
+      "authors": [
+        "J. Copana",
+        "Farshid Vahedifard",
+        "Amir AghaKouchak"
+      ],
+      "year": 2026,
+      "journal": "Earth s Future",
+      "openalex_id": "W7225005015",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225005015",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 19%: matched 3/15 key interest terms (occurrence, states, regimes)",
+      "tags": [
+        "occurrence",
+        "states",
+        "regimes"
+      ],
+      "summary": "Abstract Hydroclimatic variability is projected to intensify under continued warming, yet the evolving likelihood, rapidness, and seasonal timing of drought‐to‐pluvial transitions remain poorly quantified.",
+      "added": false
+    },
+    {
+      "title": "Building urban disaster resilience through AI solutions: A human-centric decision framework for adopting efficient combination of solutions",
+      "abstract": "With the surge of advances in AI and big data, a large number of complex solutions are being developed and proposed to manage and reduce disaster risks and build urban resilience. These solutions include image processing and machine learning for risk assessment and building damage evaluation, as well as early warning systems and enhancements to infrastructure resilience. Although these new technologies can provide more effective and efficient solutions to disaster risk management, they introduce a new challenge in policy crafting and decision-making. Implementation of these solutions requires investments in advance. Each solution reduces part of the disaster risks; some reduce the disaster impact on buildings and infrastructure, some focus on urban socioeconomic indicators, and some solutions build resilience in vulnerable communities. As such, effective decision-making process is vital for selecting among diversity of AI based risk management solutions. The decision-making process should take into account the quantitative evaluation of the proposed AI solutions, as well as the perceptions, characteristics, and priorities of local stakeholders. This paper proposes a novel decision framework by categorizing AI-based solutions for disaster risk management. The proposed framework integrates the knowledge of experts and local decision-makers with quantitative risk assessment results and technology effectiveness evaluations to determine the optimal combination of AI-based solutions for disaster risk management. This framework is applied to a flood scenario to determine the optimal solution for disaster risk management.",
+      "doi": "10.1016/j.pdisas.2026.100770",
+      "authors": [
+        "Mohammad Reza Yeganegi",
+        "Nadejda Komendantova",
+        "Mats Danielson"
+      ],
+      "year": 2026,
+      "journal": "Progress in Disaster Science",
+      "openalex_id": "W7223576092",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7223576092",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 17%: matched 2/15 key interest terms (large, urban)",
+      "tags": [
+        "large",
+        "urban"
+      ],
+      "summary": "With the surge of advances in AI and big data, a large number of complex solutions are being developed and proposed to manage and reduce disaster risks and build urban resilience.",
+      "added": false
+    },
+    {
+      "title": "Does Citizen Science Reach the Citizen? Exploring the Science–Society Interface Through Scholarly and Societal Attention",
+      "abstract": "Abstract The study applied an Altmetric approach to examine the science-society interface in citizen science research. Bibliographic data were collected from Scopus for 10,285 articles published between 2016 and 2025. Altmetric data corresponding to the 100 most highly cited articles were collected from the Dimensions database. Python was used for various statistical analyses. Spearman’s ρ was computed to assess the association between scientific impact and social influence. Mann-Whitney U test was used to analyze how open access (OA) status affected scholarly and social constructs. The results showed 2017 having the highest number of publications (23) and citations (8,172). Altmetric Attention Score (AAS) was highest in 2018 (5,093). The articles spanned across 73 journals and 57 countries, with the US being the most productive. X was the most prominent among social media platforms. Correlations among citations, AAS, and Mendeley were found to be weak to moderate (ρ = 0.437 for Citation-AAS, ρ = 0.570 for Citation-Mendeley, and ρ = 0.350 for AAS-Mendeley). OA status of articles significantly increased AAS but not citations or Mendeley readership. The relation between scientific impact and societal attention of citizen science research was relatively close, yet enough distinction remained. The results would benefit researchers, journals, funders, and practitioners of citizen science.",
+      "doi": "10.21203/rs.3.rs-11266712/v1",
+      "authors": [
+        "Subhayan Chakraborty",
+        "Bidisha Bora",
+        "Manoj Kumar Verma"
+      ],
+      "year": 2026,
+      "journal": "Research Square",
+      "openalex_id": "W7224746503",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224746503",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 1/15 key interest terms (interface)",
+      "tags": [
+        "interface"
+      ],
+      "summary": "Abstract The study applied an Altmetric approach to examine the science-society interface in citizen science research. Bibliographic data were collected from Scopus for 10,285 articles published between 2016 and 2025.",
+      "added": false
+    },
+    {
+      "title": "Long-Term Spatiotemporal Variability of Fine Particulate Matter (PM2.5) Across Idaho, USA, Using Statistical and Geospatial Tools",
+      "abstract": "Abstract Fine particulate matter (PM 2.5 ) is a leading environmental risk factor for human health, driven in the interior Pacific Northwest by summertime wildfire smoke and wintertime residential wood combustion trapped by valley inversions. This study characterized the seasonal, spatial and temporal structure of PM 2.5 across Idaho, USA, over 2005 to 2024, and inferred its dominant source regimes using statistical and geospatial tools. The complete daily PM 2.5 record of the US Environmental Protection Agency Air Quality System was aggregated to 4,260 site-months for 32 sites, and Mann-Kendall and Theil-Sen trend analysis, Pearson correlation, principal component analysis (PCA) and inverse distance weighting (IDW) interpolation were applied. The regional mean was 7.53 µg m − 3 , with a site range of 3.16 to 12.08 µg m − 3 . The climatology was bimodal, with an August to September wildfire maximum and a November to February wood-smoke and inversion maximum separated by a clean spring background, and July to September carried 36.6% of the annual mass. The cold-season and background series declined significantly, whereas the fire-season series rose at 2.54 µg m − 3 per decade, which held the annual mean flat. PCA separated the network into two source regimes explaining 57.5% of the between-site variance, and a temporal mode was dominated by July to September episodes, identifying wildfire smoke as the dominant driver. It was found that 32.7% of site-years exceeded the 2024 annual standard of 9.0 µg m − 3 , and the two regimes are diverging under a warming climate, so that season and source specific management is required.",
+      "doi": "10.21203/rs.3.rs-11373778/v1",
+      "authors": [
+        "Mavia Anjum"
+      ],
+      "year": 2026,
+      "journal": "Research Square",
+      "openalex_id": "W7224930114",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224930114",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 3/15 key interest terms (regimes, fire, wildfire)",
+      "tags": [
+        "regimes",
+        "fire",
+        "wildfire"
+      ],
+      "summary": "Abstract Fine particulate matter (PM 2.5 ) is a leading environmental risk factor for human health, driven in the interior Pacific Northwest by summertime wildfire smoke and wintertime residential wood combustion trapped by valley inversions.",
+      "added": false
+    },
+    {
+      "title": "Wildfire altered storm-event dynamics of dissolved nitrogen from headwater streams in the Western Cascades, Oregon",
+      "abstract": "The majority of the global population, including residents in the Pacific Northwest, USA, relies on drinking water from forested headwaters. In recent decades, forested watersheds in the region have experienced increased wildfire activity, putting water security at risk due to elevated constituents (e.g., sediment, nutrients) that can persist for years or decades. Therefore, conducting high-frequency water quality sampling during elevated streamflow events (i.e., “storms”) can provide crucial information about wildfire effects on source water quality during periods when impacts are likely to be heightened. In our study, we quantified dissolved nitrogen concentrations and hysteretic behavior during two storm events (fall and winter) following a low–moderate severity wildfire (2024 Lane 1 Fire) in the Western Cascades ecoregion, Oregon, USA. We observed greater concentrations of nitrate and total dissolved nitrogen at burned sites compared to unburned sites, and greater concentrations at both burned and unburned sites in the fall compared to the winter sampling period. While concentrations of total dissolved organic nitrogen were low (≤ 0.15 mg L -1 ), concentrations were greater at the unburned sites compared to the burned sites. We observed consistent, clockwise hysteresis and flushing behavior at both burned and unburned sites, indicating nearby sourcing of dissolved nitrogen. This pattern likely reflects the predominance of hydrologic controls over wildfire disturbance on nitrogen transport at our study sites. Our study highlights the need for continued storm-event sampling following wildfire, as first-flush conditions, despite being logistically challenging to capture, can reveal water quality impacts even after low–moderate severity burns.",
+      "doi": "10.22541/essoar.15011334/v1",
+      "authors": [
+        "Manon van den Bogaart",
+        "Marta Basso",
+        "Katherine E. McCredie",
+        "Humyra Murshed",
+        "João Pedro Nunes",
+        "Kevin D. Bladon"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7224812482",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224812482",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 16%: matched 2/15 key interest terms (fire, wildfire)",
+      "tags": [
+        "fire",
+        "wildfire"
+      ],
+      "summary": "The majority of the global population, including residents in the Pacific Northwest, USA, relies on drinking water from forested headwaters. In recent decades, forested watersheds in the region have experienced increased wildfire activity, putting water security at risk due to elevated constituents (e.g., sediment, nut…",
+      "added": false
+    },
+    {
+      "title": "A bibliometric analysis on the use of UAV-LiDAR in forest structure attributes estimation",
+      "abstract": "Unmanned Aerial Vehicle-Light Detection and Ranging (UAV-LiDAR) is preferred for large-scale forest inventories due to its consistent, repeatable monitoring. While separate reviews exist for UAVs or LiDAR in forestry, global documentation on their integrated application remains scarce. Therefore, this study examines UAV-LiDAR application to: i) provide overview analysis, ii) assess authors’ keywords, and iii) identify emerging research themes in UAV-LiDAR application in Forest structure attributes (FSA) estimation. This study applied bibliometric analysis on 66 peer-reviewed English research documents from Scopus and Web of Science (2015–2025). Documents were generated through database navigation, collection and analysis Bibliometrics and Biblioshiny open-source packages readily available in RStudio environment and Google Search Engine platform. The findings indicate “Remote Sensing” and “Forests” are the most frequently publishing journals. Li, X. (9 papers) and Du, H. (6 papers) are the most publishing authors, while Sankey [ 72 ] and Puliti [ 66 ] are the most cited. Institutionally, Zhejiang A&F University and Beijing Forestry University top the list, positioning China as the dominant hub for publications, citations, and collaborations, followed by the USA. Conversely, Africa remains the least involved due to: limited funding, scarce high-resolution datasets, constrained computational infrastructure, and strict aviation policies. The review further reveals emerging topics that include: “LiDAR,” “tree species classification,” and “UAV” point to future research opportunities. Ultimately, this review confirms the strong potential of UAV-LiDAR for FSA estimation, serving as a powerful incentive to explore this technology further, particularly in developing nations like Malawi.",
+      "doi": "10.1007/s44415-026-00146-0",
+      "authors": [
+        "Francis Kamangadazi",
+        "Abel Ramoelo",
+        "Paxie W. Chirwa"
+      ],
+      "year": 2026,
+      "journal": "Discover Forests",
+      "openalex_id": "W7224758703",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224758703",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 12%: matched 2/15 key interest terms (large, species)",
+      "tags": [
+        "large",
+        "species"
+      ],
+      "summary": "Unmanned Aerial Vehicle-Light Detection and Ranging (UAV-LiDAR) is preferred for large-scale forest inventories due to its consistent, repeatable monitoring. While separate reviews exist for UAVs or LiDAR in forestry, global documentation on their integrated application remains scarce.",
+      "added": false
+    },
+    {
+      "title": "An Introduction to Methods to Quantify Carbon Dynamics in Rangeland Ecosystems",
+      "abstract": "ABSTRACT Rangeland ecosystems store substantial terrestrial carbon and contribute to climate mitigation, yet their spatial heterogeneity, dynamic disturbance regimes, and multiple carbon pools make accurate quantification challenging. This introduction outlines and compares methodological approaches for measuring aboveground biomass, soil organic carbon, and fire-derived pyrogenic carbon across rangelands, with emphasis on how sampling design, sensor platforms, modeling frameworks, and accounting tools scale across ecological gradients. We outline field-based protocols, remote sensing technologies, process-based simulators, and machine learning upscaling strategies, highlighting trade-offs in resolution, cost, uncertainty, and spatial-temporal coverage. Particular attention is given to how these methods complement one another across spatial and temporal scales, including the conversion factors and sampling assumptions used to translate biomass estimates into carbon stocks. We then compare practical considerations across spatial and temporal scales to guide method selection, and connect them to rangeland carbon accounting, monitoring, and management by showing how method selection influences assessment reliability and outcomes. By integrating ecological insight, technological innovation, and standardized measurement, this overview provides a practical foundation for designing robust monitoring programs and reducing uncertainty in rangeland carbon assessments.",
+      "doi": "10.1016/j.rama.2026.09.003",
+      "authors": [
+        "Luz María Vigabriel Navarro",
+        "Javier Mauricio Osorio Leyton",
+        "Efrain Noa-Yarasca",
+        "Hailey E. Schmidt",
+        "Nada Juma",
+        "Kieu Ngoc Le",
+        "Xinyuan Ben Wu"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7224103554",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224103554",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 2/15 key interest terms (regimes, fire)",
+      "tags": [
+        "regimes",
+        "fire"
+      ],
+      "summary": "ABSTRACT Rangeland ecosystems store substantial terrestrial carbon and contribute to climate mitigation, yet their spatial heterogeneity, dynamic disturbance regimes, and multiple carbon pools make accurate quantification challenging.",
+      "added": false
+    },
+    {
+      "title": "Hyperlocal sensing and inverse modeling reveal community impacts of urban air pollutant emissions",
+      "abstract": "Addressing urban air pollution requires identifying, quantifying, and mitigating emission sources, yet bottom-up inventories often lack fine spatiotemporal precision and rarely capture unpermitted or informally operated sources. We combine dense mobile and fixed-site measurements in a Bayesian inverse modeling framework to produce hourly, hyperlocal black carbon (BC) emission maps (150 meters by 150 meters) that reveal how and where key sources are underrepresented. In West Oakland, CA-an overburdened community near major freight infrastructure-our approach identifies underestimated and unaccounted emission sources, increasing estimated BC emissions by ∼33%. These corrections quadruple the contribution of neighborhood and port-related sources to population-weighted exposures (from 5 to 20%), disproportionately affecting low-income neighborhoods adjacent to freight corridors. Our results demonstrate that combining dense observational data with inverse modeling enables detection and quantification of overlooked emissions, supporting targeted intervention. Sensitivity analyses indicate similar performance with a substantially reduced fixed-site network (∼10 monitors; ∼1 site per square kilometer, compared with 6.7 sites per square kilometer in the full campaign), paired with time-averaged mobile maps, supporting applicability in data-limited urban settings.",
+      "doi": "10.1126/sciadv.aeb7647",
+      "authors": [
+        "Chirag Manchanda",
+        "R. C. Cohen",
+        "Ramon Alvarez",
+        "Tammy M. Thompson",
+        "Maria H. Harris",
+        "Alexander J. Turner",
+        "Julian  D. Marshall",
+        "Robert A. Harley",
+        "Joshua Schulz Apte"
+      ],
+      "year": 2026,
+      "journal": "Science Advances",
+      "openalex_id": "W4415102989",
+      "citation_count": 1,
+      "url": "https://openalex.org/W4415102989",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/15 key interest terms (urban)",
+      "tags": [
+        "urban"
+      ],
+      "summary": "Addressing urban air pollution requires identifying, quantifying, and mitigating emission sources, yet bottom-up inventories often lack fine spatiotemporal precision and rarely capture unpermitted or informally operated sources.",
+      "added": false
+    },
+    {
+      "title": "Theoretical Investigations to Aid in the Prediction of Combined Sewer Overflows in Coastal Urban Watersheds: Case Study of San Francisco",
+      "abstract": "Abstract Combined sewer systems (CSS) function in about 700 U.S. municipalities, with over 100 near vulnerable coastal waters. Predicting changes due to rainfall, sea level rise (SLR), and groundwater rise is vital for adaptation. This study compares a hydrologic‐hydraulic model (PCSWMM) and a hybrid mass balance method for estimating combined sewer overflow (CSO) volumes. The mass‐balance approach is used as a screening tool, not a replacement for the calibrated hydraulic model. Both are applied to San Francisco's Eastside CSS, the only coastal system in California, in a replicable way. Managing wastewater and stormwater through 29 outfalls into San Francisco Bay, the model's validation shows good agreement (Nash‐Sutcliffe 0.65–0.75; square error <3.0). While individual outfalls may vary, the overall system estimates are reliable. Monthly CSO predictions range from within 1% to four times observed values, with better accuracy over multi‐year periods, suitable for long‐term planning. Future scenarios for 2030–2035 and 2090–2095 consider base rainfall, SLR, and groundwater. Saltwater inflows due to SLR could increase CSOs by up to 9.8%. Groundwater inflows raised CSOs by 22%–32% and main plant flows by up to 51%. Intensified rainfall could produce about 2.5 times the baseline CSO volume, making it a major driver, with groundwater issues worsening impacts. This dual‐method framework offers a transferable tool for assessing CSS resilience under climate stress.",
+      "doi": "10.1029/2026wr044114",
+      "authors": [
+        "Kian Bagheri",
+        "Sarah Nicole Giddings",
+        "Hassan Davani"
+      ],
+      "year": 2026,
+      "journal": "Water Resources Research",
+      "openalex_id": "W7224439164",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224439164",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 11%: matched 1/15 key interest terms (urban)",
+      "tags": [
+        "urban"
+      ],
+      "summary": "Abstract Combined sewer systems (CSS) function in about 700 U.S. municipalities, with over 100 near vulnerable coastal waters. Predicting changes due to rainfall, sea level rise (SLR), and groundwater rise is vital for adaptation.",
+      "added": false
+    },
+    {
+      "title": "Residency duration, risk perceptions, and recent PM2.5 exposure predict protective behaviors toward wildfire smoke: A comparison of recent migrants and long-term Idaho residents",
+      "abstract": "Abstract The increasing threat of wildfire smoke in the American West makes understanding the psychological mechanisms underlying protective behavior crucial. This study, rooted in the psychometric paradigm of risk perception, examines how Idaho residents perceive and respond to the risks associated with wildfire smoke. A statewide survey ( n = 505) capturing key psychometric constructs, protective behaviors, and residential histories was integrated with 15 years (2009–2023) of spatially interpolated particulate matter (PM 2.5 ) exposure data and analyzed using structural equation modeling. Results show that ‘dread’, ‘knowledge’ and ‘self-efficacy’ are the most consistent predictors of protective behavior across the full-sample models. After PM 2.5 exposure variables were added, 'recent peak PM 2.5 ' exposure also was found to be positively associated with protective behavior. Exploratory subgroup analyses indicated that, among long-term Idaho residents, ‘dread’ was the only variable significantly related to protective behavior, whereas among recent migrants, ‘dread’, ‘self-efficacy’, and ‘recent peak PM 2.5 exposure’ showed significant positive associations with protective behavior. These findings highlight the affective and experiential components of risk appraisal and adaptation, are consistent with the influence of availability and recency heuristics and suggest possible habituation or shifting environmental baselines among long-term residents. The results underscore the need for risk communication strategies that account for temporal exposure histories, perceptual dynamics, and differences in residency experience, particularly as wildfire smoke increasingly becomes a chronic feature of lived experience in the American West.",
+      "doi": "10.1007/s11869-026-02144-9",
+      "authors": [
+        "Shahriar Md. Arifur Rahman",
+        "Chris A. B. Zajchowski",
+        "Muhammad Moniruzzaman",
+        "Joohee Lee",
+        "Hana Kim"
+      ],
+      "year": 2026,
+      "journal": "Air Quality Atmosphere & Health",
+      "openalex_id": "W7224943420",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224943420",
+      "source": "openalex",
+      "score": 2,
+      "reason": "Lexical relevance 10%: matched 1/15 key interest terms (wildfire)",
+      "tags": [
+        "wildfire"
+      ],
+      "summary": "Abstract The increasing threat of wildfire smoke in the American West makes understanding the psychological mechanisms underlying protective behavior crucial. This study, rooted in the psychometric paradigm of risk perception, examines how Idaho residents perceive and respond to the risks associated with wildfire smoke…",
+      "added": false
+    },
+    {
+      "title": "Mapping the relationship between accessibility and resilience in transportation: A systematic literature review",
+      "abstract": "Over the past decade, transportation resilience has emerged as a central research priority, driven by increasing exposure of transport systems to natural, epidemic, and operational disruptions. Although frequently discussed alongside resilience in this growing body of work, accessibility is interpreted in diverse ways and has emerged as a prominent but conceptually unsettled concept in the literature. Despite their co-occurrence, the relationship between resilience and accessibility remains inconsistently defined and has not been systematically synthesized as the organizing focus of a review. This paper addresses this gap through a systematic literature review following the PRISMA framework, complemented by exploratory text-mining analysis. The review examines methodological approaches, application contexts, and the ways in which accessibility is positioned relative to resilience across the selected studies. Latent Dirichlet Allocation (LDA) topic modeling and bigram analysis are used as supplementary tools to identify broad thematic patterns in the corpus. The review provides a structured synthesis of how resilience and accessibility are interrelated across studies. The findings identify five functional relationships: accessibility as a resilience outcome, a direct resilience indicator, a component of a broader resilience model, a vulnerability or inequality diagnostic, and a resilience-enhancement mechanism. These varying interpretations highlight significant conceptual and operational inconsistencies that limit comparability and hinder the development of integrated assessment frameworks. Based on this synthesis, the paper identifies relationship-specific and cross-cutting research gaps, including the limited representation of dynamic resilience, lack of hybrid approaches, and inconsistencies in both resilience and accessibility interpretations. The study concludes by outlining future research directions toward more holistic, data-driven, and integrated frameworks for resilient transportation planning.",
+      "doi": "10.1016/j.cities.2026.107706",
+      "authors": [
+        "Eirini Stavropoulou",
+        "Lambros K. Mitropoulos"
+      ],
+      "year": 2026,
+      "journal": "Cities",
+      "openalex_id": "W7224135027",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224135027",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 7%: matched 1/15 key interest terms (occurrence)",
+      "tags": [
+        "occurrence"
+      ],
+      "summary": "Over the past decade, transportation resilience has emerged as a central research priority, driven by increasing exposure of transport systems to natural, epidemic, and operational disruptions.",
+      "added": false
+    },
+    {
+      "title": "The ethical implementation gap in AI-driven disaster risk reduction: empirical evidence from Australia’s multi-sector analysis",
+      "abstract": "Abstract Context While artificial intelligence offers transformative potential for disaster risk reduction, its ethical deployment raises critical concerns when life-critical decisions depend on algorithmic systems with varying levels of accessibility across responsible organizations. This study quantifies AI adoption disparities across Australian DRR stakeholders and identifies institutional factors driving the adoption gap between innovation and operational deployment. A mixed-methods approach combined systematic review of 217 global AI-DRR publications (1999–2024) with qualitative analysis of 14 Australian organizations across government, academic, and NGO/private sectors (February-March 2025). Semi-structured interviews and document analysis examined AI technique adoption, data integration, and downscaling applications, with implementation levels systematically coded on a 1–5 scale following an inter-coder validated protocol. Government agencies demonstrate lower AI adoption (mean score 2.1/5) compared to academic institutions (4.0/5) and NGO/private organizations (3.4/5), representing a 47.5% adoption gap between government and academic sectors (Cohen’s d ≈ 2.0, indicating large practical difference despite small sample size). While academic institutions deploy advanced techniques including GANs and hybrid AI-physics models achieving 45% accuracy improvements, government agencies remain anchored to traditional systems like ACCESS with minimal AI integration. Critical barriers include procurement constraints (18–24-month cycles), computational limitations (10x below requirements), and regulatory mandates for explainable decisions. Academic innovations in AI-based downscaling, improving spatial resolution from 60 km to 10 km, remain inaccessible to operational agencies due to absence of knowledge transfer mechanisms. The study reveals an ethical adoption disparity where organizations with greatest responsibility for community safety show lowest AI adoption, creating accountability voids and equity concerns in disaster protection. This misalignment raises fundamental ethical questions about algorithmic justice, distributive justice, and procedural fairness in public safety contexts. Bridging this gap requires ethical governance frameworks addressing transparency, accountability, and equitable access to life-saving technologies, alongside institutional reforms enabling cross-sector knowledge transfer.",
+      "doi": "10.1007/s43681-026-01474-9",
+      "authors": [
+        "Nilantha Randeniya",
+        "Krisanthi Seneviratne",
+        "Sameera Wijesiri Pathirana",
+        "Richard Haigh",
+        "Dilanthi Amaratunga",
+        "Srinath Perera"
+      ],
+      "year": 2026,
+      "journal": "AI and Ethics",
+      "openalex_id": "W7224921033",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224921033",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 6%: matched 1/15 key interest terms (large)",
+      "tags": [
+        "large"
+      ],
+      "summary": "Abstract Context While artificial intelligence offers transformative potential for disaster risk reduction, its ethical deployment raises critical concerns when life-critical decisions depend on algorithmic systems with varying levels of accessibility across responsible organizations.",
+      "added": false
+    },
+    {
+      "title": "Haematology and biochemistry parameters for koalas ( Phascolarctos cinereus ) on Raymond Island, Victoria : use of point‐of‐care analysers",
+      "abstract": "Biochemistry and haematology analytes can provide information on the health status of individual animals or populations in direct comparison to expected values or reference intervals developed using the same analysis methodology from a healthy reference population of the target species. Point-of-care analysers are increasingly used in the assessment of wildlife health; however, their effective use in wildlife species requires establishment of appropriate expected values from clinically healthy animals. This study utilised data generated by point-of-care haematology and biochemistry analysis from a health assessment initiative to establish expected values for blood parameters of a free-ranging koala (Phascolarctos cinereus) population on Raymond Island in Victoria, Australia. The reference population consisted of 40 clinically healthy koalas from 50 koalas examined. Sample size did not permit partitioning of the expected values in koalas from this region, although sex had a significant effect on some blood analytes, suggesting that future partitioning data in development of reference intervals may improve the utility of blood parameter measurement in accurate koala health evaluations. Here, we discuss the limitations and future work required to enhance the utility of point-of-care analysers in health assessment of koalas. Utilising methodologically equivalent and population-specific expected values in the assessment of individual koala health will assist decision-making in conservation management interventions. This overcomes the difficulties of assessing health utilising blood parameters in this unusual species where it is difficult to establish robust reference intervals, reflecting potential demographic and/or regional segmentation.",
+      "doi": "10.1111/avj.70156",
+      "authors": [
+        "RA Jelic",
+        "Valentina S. A. Mella",
+        "Natalie F. Courtman",
+        "JF Hammer",
+        "Mark B Krockenberger"
+      ],
+      "year": 2026,
+      "journal": "Australian Veterinary Journal",
+      "openalex_id": "W7224837143",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224837143",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Biochemistry and haematology analytes can provide information on the health status of individual animals or populations in direct comparison to expected values or reference intervals developed using the same analysis methodology from a healthy reference population of the target species.",
+      "added": false
+    },
+    {
+      "title": "Implications of land-use and climate change for meeting environmental flows and water quality targets in a groundwater-dominated watershed",
+      "abstract": "Study region This study was conducted in the Santa Fe River Basin (SFRB), a tributary basin of the Suwannee River in the Southeastern USA. The SFRB is an agriculturally important, groundwater-dominated watershed, which overlies the Upper Floridan Aquifer (UFA). Its mixed agricultural, forested and urban land uses, strong surface-groundwater interactions, and sensitive spring and river ecosystems make it ideal for understanding important water-resource responses across the broader region. Study focus This work addressed two specific research questions: How do climate and land-use change affect groundwater recharge, streamflow and nitrate loads in the SFRB; and under what future conditions can existing regulations for minimum streamflow and nitrate loading be achieved? We addressed these questions using SWAT-MODFLOW to simulate five land-use scenarios under historical climate and future climates representing extreme wet and dry projections. New hydrologic insights for the region Climate was the dominant driver of changes in groundwater recharge and streamflow, whereas land use had the greatest influence on nitrate loads. All land-use scenarios met minimum streamflow requirements under historical and wet future climates. However, no land-use scenarios met minimum flows for the RCP8.5 dry future, and only the pre-development scenario met minimum flows for the RCP4.5 dry future. The 65% nitrate load reduction required to meet current nutrient regulations was achieved only under the pre-development scenario and, even then, not under the RCP8.5 wet future.",
+      "doi": "10.1016/j.ejrh.2026.104105",
+      "authors": [
+        "Dogil Lee",
+        "W. D. Graham",
+        "Rob de Rooij",
+        "Nathan Reaver",
+        "David Andrew Kaplan"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hydrology Regional Studies",
+      "openalex_id": "W7224078079",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224078079",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (urban)",
+      "tags": [
+        "urban"
+      ],
+      "summary": "Study region This study was conducted in the Santa Fe River Basin (SFRB), a tributary basin of the Suwannee River in the Southeastern USA. The SFRB is an agriculturally important, groundwater-dominated watershed, which overlies the Upper Floridan Aquifer (UFA).",
+      "added": false
+    },
+    {
+      "title": "Spontaneous native–non-native tree mixtures worldwide: a systematic map of research patterns, with knowledge gaps and management implications",
+      "abstract": "Purpose of Review: Spontaneous mixtures of native and non-native tree species occur in forest landscapes affected by land-use change, species introductions and disturbances. However, research on these communities remains fragmented. Recent Findings: We identified 238 cases. Research was concentrated in high-income countries and studies included diverse combinations of native and non-native tree species. Land abandonment was the most frequently reported driver in tropical moist forests, whereas urbanization, forest management, land abandonment and nearby non-native tree plantings were more evenly represented in temperate forests. Research focused primarily on forest composition, structure, regeneration and dynamics, with comparatively limited attention to functional traits, soil properties, ecosystem functioning and associated biodiversity. Approximately two-thirds of cases relied on single-time assessments, while studies incorporating both native and fully non-native reference forests as reference conditions were uncommon. Summary: Spontaneous native–non-native tree mixtures involve diverse species combinations and develop under different ecological and land-use contexts. Our findings highlight the need for context-dependent forest management that considers species characteristics, potential ecological impacts, land-use history and landscape conditions, rather than biogeographical origin alone.",
+      "doi": "10.32942/x2xx22",
+      "authors": [
+        "Raquel Juan‐Ovejero",
+        "Estefanía Suárez‐Vidal",
+        "Noela Carrera",
+        "Guillermo Velo‐Antón",
+        "María Calviño‐Cancela",
+        "Verónica Ferreira"
+      ],
+      "year": 2026,
+      "journal": null,
+      "openalex_id": "W7224769097",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224769097",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Purpose of Review: Spontaneous mixtures of native and non-native tree species occur in forest landscapes affected by land-use change, species introductions and disturbances. However, research on these communities remains fragmented. Recent Findings: We identified 238 cases.",
+      "added": false
+    },
+    {
+      "title": "The End of Uniformity: Spatial, Climatic, and Toxicological Redefinitions of Air Quality",
+      "abstract": "Her research interests focus on air pollution and human health.Her group combines field measurements, laboratory experiments, and computational simulation to study oxidative potential, environmental persistent free radicals (EPFRs), and chemical and cellular reactive oxygen species (ROS) in particulate matter to understand the sources, reaction mechanisms, toxicity, and health effects of air pollutants.",
+      "doi": "10.1021/acs.est.6c14170",
+      "authors": [
+        "Ting Fang",
+        "Shaojie Song",
+        "Seunghyun Weon"
+      ],
+      "year": 2026,
+      "journal": "Environmental Science & Technology",
+      "openalex_id": "W7224866917",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224866917",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (species)",
+      "tags": [
+        "species"
+      ],
+      "summary": "Her research interests focus on air pollution and human health.Her group combines field measurements, laboratory experiments, and computational simulation to study oxidative potential, environmental persistent free radicals (EPFRs), and chemical and cellular reactive oxygen species (ROS) in particulate matter to unders…",
+      "added": false
+    },
+    {
+      "title": "Rapid updating of ecological information in wild Guinea baboons",
+      "abstract": "Knowing where to find what kind of food, and when, is essential for survival and reproduction. Studying animals' foraging strategies thus provides insights into the cognitive processes underlying real-world problem solving. We investigated whether free-ranging Guinea baboons (Papio papio) keep track of the spatio-temporal availability of a preferred food resource, the Natal orange (Strychnos spinosa). An exceptional wildfire that destroyed most ripe fruits in 2019 provided a quasi-experimental opportunity to assess whether Guinea baboons flexibly adjusted their space use to an unexpected change in resource availability or instead continued to follow habitual routines. The animals' space use patterns shifted significantly following the wildfire. After one single visit, they stopped going to the area during the period when Natal oranges would normally be available. In the following year, when Natal oranges were available again, the baboons resumed regular space use patterns. We also assessed travel linearity, speed, and departure time from sleeping sites towards the target area with and without ripe fruit. Guinea baboons travelled more linearly, 14% faster, and ca. 40 min earlier toward the target area when S. spinosa was in season than when it was not. In conclusion, Guinea baboons rapidly adjusted their space use patterns in response to changes in the availability of a high-value food resource. These results underscore their capacity for flexible, reward-sensitive decision-making and goal-directed foraging.",
+      "doi": "10.1007/s10071-026-02119-4",
+      "authors": [
+        "Lisa Ohrndorf",
+        "Roger Mundry",
+        "Dietmar P. Zinner",
+        "Julia Fischer"
+      ],
+      "year": 2026,
+      "journal": "Animal Cognition",
+      "openalex_id": "W7224868775",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224868775",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (wildfire)",
+      "tags": [
+        "wildfire"
+      ],
+      "summary": "Knowing where to find what kind of food, and when, is essential for survival and reproduction. Studying animals' foraging strategies thus provides insights into the cognitive processes underlying real-world problem solving.",
+      "added": false
+    },
+    {
+      "title": "Hazards and Safety Management in Pharmaceutical Industries",
+      "abstract": "As the pharmaceutical industry continues to evolve, ensuring safe working environments and effective risk management has become more important than ever. This volume provides a practical and comprehensive guide to understanding, identifying, and controlling the wide range of hazards encountered throughout pharmaceutical manufacturing and operations. Beginning with the multidisciplinary foundations of environmental studies, the book examines the classification and characteristics of physical, biological, chemical, ergonomic, and psychosocial hazards that affect pharmaceutical workplaces. It explores major industry risks, including air- and chemical-based hazards, fire and explosion hazards, and the inherent dangers associated with pharmaceutical production processes. Each topic is supported by practical control measures and preventive strategies designed to reduce risk and promote a strong culture of workplace safety. The volume also presents a cohesive framework for hazard management by integrating regulatory requirements, industry standards, and best practices. From hazard identification and risk assessment to personal protective measures, organizational safety perspectives, and emergency preparedness, it provides readers with the knowledge needed to develop and implement effective safety programs. Real-world case studies, practical examples, and discussions of emerging technologies further demonstrate how modern approaches can strengthen safety performance and regulatory compliance. Serving as both a reference and practical guide, Hazards and Safety Management in Pharmaceutical Industries is an invaluable resource for researchers, industry professionals, safety officers, faculty, and students involved in pharmaceutical manufacturing, industrial safety, regulatory affairs, and environmental health. It offers the essential knowledge required to foster safer, more efficient, and more sustainable pharmaceutical operations.",
+      "doi": "10.1201/9781779642448",
+      "authors": [
+        "Rahul Shankar Tade"
+      ],
+      "year": 2026,
+      "journal": "Apple Academic Press eBooks",
+      "openalex_id": "W7224787500",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224787500",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 5%: matched 1/15 key interest terms (fire)",
+      "tags": [
+        "fire"
+      ],
+      "summary": "As the pharmaceutical industry continues to evolve, ensuring safe working environments and effective risk management has become more important than ever. This volume provides a practical and comprehensive guide to understanding, identifying, and controlling the wide range of hazards encountered throughout pharmaceutica…",
+      "added": false
+    },
+    {
+      "title": "Estimation of biomass and carbon accumulation capacity of Peruvian Amazon rainforests under a climate change context",
+      "abstract": "Aim of study: The study assesses the carbon potential of forests in the Peruvian Amazon, focusing on modeling carbon within a climate change mitigation framework to improve our understanding of the regional capacity to store in forest ecosystems. Area of study: San Martín Region, Peruvian Amazon. Material and methods: A total of six forest sites in the Amazonas region, located within San Martín and Loreto districts, were assessed. Structural measurements were recorded for all the trees and allometric equations were applied to estimate biomass. Additionally, altitude was recorded and its relationship with carbon storage was analyzed. Main results: The highest tree density was found in El Varillal and Ojo del Agua forests with 360 and 332 trees ha-1, respectively. Ahuihua and El Varillal forests showed the largest total height and diameter values. The accumulated carbon was greater in Ahuihua and Bajo Huallaga forests both the aboveground and belowground with values of 405.07 t ha-1 and 51.85 t ha-1, and 201.46 t ha-1 and 27.59 t ha-1, respectively. These forests also had the largest structural mean values of basal area, total height, dominant height, and diameter at breast height. The altitude variable was negatively related to aboveground and belowground carbon. Research highlights: The type of forest and the management practices play a crucial role for carbon accumulation both in the aboveground and belowground biomass. The basal area was the variable that most contributed on carbon accumulation. Understanding the carbon dynamic in forests provides essential information for the implementation of accurate management practices and conservation efforts.",
+      "doi": "10.5424/fs/2026352-21028",
+      "authors": [
+        "Nery Gaona-Jiménez",
+        "Geomar Vallejos-Torres",
+        "César E. Chappa-Santa María",
+        "Rubén Ruíz-Valles",
+        "Alfonso Rojas-Bardález",
+        "Marcos Aquiles Ayala-Díaz",
+        "Andi Lozano-Chung",
+        "Carlos Mauricio Lozano-Carranza",
+        "Alberto Alva-Arévalo",
+        "Jorge Saavedra",
+        "Juan Carlos Tuesta Hidalgo",
+        "O. A. Hidalgo",
+        "Wilder Macedo-Córdova",
+        "Manuel Jesús Valdez Andia",
+        "Juan Rodrigo Baselly Villanueva",
+        "Wilfredo Mendoza",
+        "Karina Milagros Ordóñez-Ruiz",
+        "Bárbara Vento"
+      ],
+      "year": 2026,
+      "journal": "Forest Systems",
+      "openalex_id": "W7224914607",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224914607",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Aim of study: The study assesses the carbon potential of forests in the Peruvian Amazon, focusing on modeling carbon within a climate change mitigation framework to improve our understanding of the regional capacity to store in forest ecosystems. Area of study: San Martín Region, Peruvian Amazon.",
+      "added": false
+    },
+    {
+      "title": "Attribution of the most severe decadal drought in Southwest China during 2003–2014 and its impact on vegetation productivity",
+      "abstract": "Study region Southwest China (SWC). Study focus This study identifies the decadal drought background of frequent droughts in SWC since the early 21st century, quantifies the roles of precipitation and potential evapotranspiration (PET), and evaluates vegetation impacts. Monthly precipitation and PET during 1961–2023 were used to calculate the 12-month Standardized Precipitation Evapotranspiration Index (SPEI12). An objective change-point test, quantitative attribution, moisture budget analysis, and vegetation productivity indicators were combined. New hydrological insights for the region The most severe decadal drought in SWC occurred during 2003–2014, characterized by a 12-month cumulative precipitation deficit of 49.34 mm and an increase in PET of 32.18 mm. Precipitation decline was the dominant contributor to the decadal drought, accounting for 68.6% of its intensity, while enhanced PET further intensified drought severity, with residual PET and precipitation-associated PET contributing 20.9% and 10.5%, respectively. About 70% of the precipitation deficit occurred during the wet season. Moisture budget analysis reveals a clear hydrological pathway linking wet-season precipitation decline to atmospheric circulation. Anomalous descending motion weakened vertical moisture transport, with dynamic vertical moisture advection reaching −0.35 mm day⁻¹, thereby enhancing moisture divergence and reducing wet-season precipitation over SWC. The persistent water deficit was accompanied by a nonlinear reduction in vegetation productivity under moderate-to-extreme drought conditions, with the strongest impacts in Yunnan, Guangxi, and the Sichuan–Chongqing–Guizhou border region.",
+      "doi": "10.1016/j.ejrh.2026.104120",
+      "authors": [
+        "Lu Gao",
+        "Tianjiao Ma",
+        "Tiantian Yu",
+        "Zhikai Wang",
+        "Qingyu Cai",
+        "Xu Xue",
+        "Kexu Zhu",
+        "Xinfeng Wu",
+        "Yehong Luo",
+        "Changhao Wu",
+        "Wen Chen"
+      ],
+      "year": 2026,
+      "journal": "Journal of Hydrology Regional Studies",
+      "openalex_id": "W7224114546",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224114546",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Study region Southwest China (SWC). Study focus This study identifies the decadal drought background of frequent droughts in SWC since the early 21st century, quantifies the roles of precipitation and potential evapotranspiration (PET), and evaluates vegetation impacts.",
+      "added": false
+    },
+    {
+      "title": "Vegetation Structural Complexity Across Tenerife's Zonal Vegetation Types Captured by Terrestrial Laser Scanning",
+      "abstract": "ABSTRACT Questions Vegetation structural complexity, defined as the density and distribution of plants in three‐dimensional (3D) space, is a key ecological property of plant communities, influencing biodiversity and ecosystem functioning. Yet, how vegetation structural complexity varies across contrasting vegetation types, and which factors drive this variation remain poorly understood. This knowledge gap is particularly relevant on oceanic islands, where diverse vegetation types occur across steep environmental gradients and are often highly vulnerable to disturbance. Specifically, we asked (1) how does vegetation structural complexity vary across and within‐vegetation types, (2) by which structural dimensions do the vegetation types most differ, and (3) which climatic factors explain this variation. Location Tenerife, Canary Islands. Methods With 140 scans in 28 plots covering 6 major zonal vegetation types, we derived the Stand Structural Complexity Index (SSCI), which measures the 3D arrangement of vegetation, and other metrics related to vertical stratification, vegetation density and canopy openness, captured by terrestrial laser scanning (TLS) 3D point clouds. For each metric, mean values and coefficient of variation (CV) per plot were analysed with a permutation analysis of variance (ANOVA) and a principal component analysis (PCA). The relationship with long‐term climatic plot data was analysed using robust linear models. Results The SSCI differed significantly across zonal vegetation types (permutation ANOVA, p < 0.001). The SSCI ranged from a high mean value and low variability in laurel forests (mean = 7.00, CV = 10.1%) to the lowest mean value in the summit scrub (mean = 2.65, CV = 65.6%) but highest variability in the tabaibal coastal scrub (mean = 4.93, CV = 91.0%). PCA indicates that vegetation structural complexity in forests was characterised by high vertical stratification and a closed canopy. In contrast, scrub types displayed greater canopy openness and a high variation in 3D vegetation density. Greater annual precipitation was associated with a linear increase in SSCI across zonal vegetation types, positively related to increased vertical stratification and canopy height and negatively related to canopy openness and 3D vegetation density. Conclusions Our results suggest that TLS‐derived metrics of vegetation structural complexity capture within and across vegetation type variation. The SSCI can provide meaningful information beyond forests when interpreted alongside other structural metrics. Our results suggest that differences across vegetation types are associated with climatic gradients. This study provides a basis for future studies and applications of TLS beyond forests that can aid biodiversity monitoring and conservation of environmentally distinct and disturbance‐prone island vegetation.",
+      "doi": "10.1111/jvs.70189",
+      "authors": [
+        "Samantha Suter",
+        "Rüdiger Otto",
+        "José María Fernández‐Palacios",
+        "Lea de Nascimento",
+        "Felipe Rodríguez‐Arvelo",
+        "Natalia Sierra Cornejo",
+        "Nathaly R. Guerrero‐Ramírez",
+        "Martin Ehbrecht",
+        "Holger Kreft",
+        "Delphine Clara Zemp"
+      ],
+      "year": 2026,
+      "journal": "Journal of Vegetation Science",
+      "openalex_id": "W7225005896",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225005896",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Questions Vegetation structural complexity, defined as the density and distribution of plants in three‐dimensional (3D) space, is a key ecological property of plant communities, influencing biodiversity and ecosystem functioning.",
+      "added": false
+    },
+    {
+      "title": "Government Failure and Corporate Reform",
+      "abstract": "Corporate law has been racked by a decades-long debate. Shareholder primacy theorists suggest that corporate leaders should focus exclusively on maximizing financial returns to shareholders, while stakeholder governance theorists suggest that corporate leaders should consider a broader range of concerns such as impacts on workers and the environment. Though the battle has been fought intensely on many fronts for years, there is one area of apparent agreement. Most commentators view stakeholder governance as a kind of second-best regulation. Ideally, the government would tend to worker and environmental concerns through real regulations, imposing financial penalties on corporations that behave in socially destructive ways. Corporate leaders could then focus on financial returns, given the knowledge that bad behavior would not be profitable. It is only when the government fails in its basic task by refusing to issue or enforce necessary regulations that it becomes necessary for corporations to balance different concerns internally. But although it seems to be a point of broad agreement, the idea that stakeholder governance is a response to government failure is incomplete. This Article unpacks that claim and reveals its shortcomings. It is far from obvious whether the government’s refusal to regulate in a space is a failure or simply a result of the democratic process given widespread disagreement. And even an “ideal” government would face limitations in its ability to drive good outcomes. Statutes and regulations are inherently limited tools, and there are many areas such as speech and dignitary interests where the government cannot interfere or provide an adequate solution. Understanding these shortcomings deepens the analysis of the relationship between corporate governance and the political process and reveals fresh insights about the debate between shareholder primacy and stakeholder governance.",
+      "doi": "10.70167/ouku8940",
+      "authors": [
+        "Aneil Kovvali"
+      ],
+      "year": 2026,
+      "journal": "Boston College Law Review",
+      "openalex_id": "W7224892079",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224892079",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "Corporate law has been racked by a decades-long debate. Shareholder primacy theorists suggest that corporate leaders should focus exclusively on maximizing financial returns to shareholders, while stakeholder governance theorists suggest that corporate leaders should consider a broader range of concerns such as impacts…",
+      "added": false
+    },
+    {
+      "title": "Founder Effects, Density, and Droughts Alter the Demographic Responses in Insular Elephant Populations",
+      "abstract": "ABSTRACT Wildlife populations are regulated by immigration and emigration, as well as birth and death rates. When dispersal is not possible due to land use changes, population size is determined solely by births and deaths. Such is the case in many of South Africa's protected areas, where wildlife populations are well protected, intensively managed, and provided with artificial water sources, food, and custodial care. We used African savanna elephant ( Loxodonta africana ) populations in the Pilanesberg and Madikwe Nature Reserves, South Africa, as case studies to evaluate demographic responses to high density, insularity, and founder effects, especially during drier‐than‐normal periods. The incomplete age and sex structures of these founding elephant populations, combined with high age‐specific survival and fertility rates, led to transient dynamics and sustained high growth rates for an entire generation. The effect of adult survival on the modelled transient growth was greater than age at first calving or fecundity. However, the survival of weaned calves and juveniles made the most significant contribution to the transient dynamics in response to the recent dry conditions. Fences prevented dispersal and inhibited the density‐dependent mechanisms that typically stabilise growth near zero, as is the case when elephants can disperse and experience a range of resource gradients. Instead, we illustrate how density‐dependent demographic processes in the two elephant populations are already affecting their long‐term growth, including decreases in weaned calf and juvenile survival, increases in the age of first calving, and lower fecundity. These demographic signals should provide the basis for evaluating the population consequences of management interventions aimed at addressing the socio‐ecological impacts of elephants.",
+      "doi": "10.1111/jzo.70173",
+      "authors": [
+        "Robert A. R. Guldemond",
+        "Sam M. Ferreira",
+        "Hannes Louw",
+        "Yolandi Ernst",
+        "Richard John Power",
+        "Bernard W. T. Coetzee"
+      ],
+      "year": 2026,
+      "journal": "Journal of Zoology",
+      "openalex_id": "W7224998396",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224998396",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "ABSTRACT Wildlife populations are regulated by immigration and emigration, as well as birth and death rates. When dispersal is not possible due to land use changes, population size is determined solely by births and deaths.",
+      "added": false
+    },
+    {
+      "title": "ENVIRONMENTAL HEALTH LITERACY IN UNIVERSITY STUDENTS IN TÜRKİYE: GENERAL, AIR, FOOD, AND WATER DOMAINS IN A CROSS-SECTIONAL STUDY",
+      "abstract": "This study was conducted to examine the levels of environmental health literacy (EHL) among university students in the areas of general, air, food and water health, and to investigate the relationship between these levels and sociodemographic and lifestyle characteristics. The sample for this descriptive, cross-sectional study consisted of 970 students enrolled at universities in Mersin. Data were collected using a sociodemographic questionnaire and the Turkish version of the Environmental Health Literacy Questionnaire; analyses utilised descriptive statistics, the independent samples t-test, one-way ANOVA and Pearson correlation. It was determined that Environmental Health Literacy scores varied across sub-dimensions (General: 3.72±0.65; Air: 2.10±0.63; Food: 4.19±0.66; Water: 3.66±0.60). It was found that female students scored higher on the food and water dimensions, those aged 21 and over scored higher on the general and water dimensions, and students in health-related programmes scored higher on the air and water dimensions (p ≤ 0.05). Furthermore, consumption of home-cooked food and higher levels of physical activity were associated with higher Environmental Health Literacy across multiple dimensions. The strongest correlation among the sub-dimensions was found between food and water literacy (r = 0.591; p < 0.01). In conclusion, environmental health literacy among university students exhibits a multidimensional structure that varies by field of study. This suggests that field-specific interventions may be more effective than general approaches in higher education.",
+      "doi": "10.29029/busbed.1944307",
+      "authors": [
+        "Betül Sarı",
+        "Halil Can AYDEMİR",
+        "Mehmet Şengül",
+        "Aslı Kaya"
+      ],
+      "year": 2026,
+      "journal": "Bingöl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi",
+      "openalex_id": "W7224837491",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224837491",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/15 key interest terms",
+      "tags": [],
+      "summary": "This study was conducted to examine the levels of environmental health literacy (EHL) among university students in the areas of general, air, food and water health, and to investigate the relationship between these levels and sociodemographic and lifestyle characteristics.",
+      "added": false
+    }
+  ]
+}
