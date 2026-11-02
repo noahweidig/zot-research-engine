@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-02",
+  "statistics": {
+    "fetched": 187,
+    "duplicates_removed": 178,
+    "evaluated": 9,
+    "added": 2,
+    "ignored": 7,
+    "average_score": 2.67
+  },
+  "dry_run": false,
+  "papers": [
+    {
+      "title": "Ash cover accelerates the mineralization of labile soil organic matter following experimental fire",
+      "abstract": "After fires, the soil surface is covered by ash, which is important to the postfire environment because of its effect on hydrological behavior and its fertilizing properties. Ash effects are difficult to assess in the field but can be studied more readily through manipulative experiments in the laboratory. In this study, a laboratory burn was conducted to replicate the conditions of prescribed burning in the southern Pyrenees (Spain), and to evaluate the effects of ash on soil organic matter (SOM) and nutrients, with particular attention to particulate organic matter (POM) (> 50 μm), which was hypothesized to be more vulnerable to thermal and microbial degradation. Undisturbed soil blocks were covered with plant material and subjected to different burning treatments using a blowtorch. Part of the blocks were analyzed immediately after burning, and the rest, after removing the ash layer from half of them, were kept in a greenhouse for five months. Samples from 0 to 1 and 1–3 cm depths were analyzed for total SOM, POM and N and plant-available (Olsen) P, and POM was analyzed for fiber composition and N, P and K. The results show a large immediate loss of SOM in the surface soil when the blocks were subjected to high intensity burning treatments, with temperatures mainly ranging 400–550 °C. During the following months, only in ash-covered soils, an accelerated mineralization particularly affected POM and, within POM, its most labile components (nonstructural, hemicellulose and cellulose) compared to the more refractory ones (lignin-type), but did not significantly affect nonparticulate organic matter (NPOM). POM mineralization was boosted by nutrients such as P supplied by the ash, both in particulate organic and plant-available forms. Organic mulching and seeding of fast-growing grasses are proposed to help prevent ash-induced POM mineralization in post-fire environments.",
+      "doi": "10.1016/j.catena.2026.110717",
+      "authors": [
+        "Juan Luis Mora",
+        "Marta Escuer-Arregui",
+        "David Badía-Villas"
+      ],
+      "year": 2026,
+      "journal": "CATENA",
+      "openalex_id": "W7225012911",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225012911",
+      "source": "openalex",
+      "score": 5,
+      "reason": "Lexical relevance 61%: matched 5/10 key interest terms (large, prescribed, prescribed burning, burning, fire)",
+      "tags": [
+        "large",
+        "prescribed",
+        "prescribed burning",
+        "burning",
+        "fire"
+      ],
+      "summary": "After fires, the soil surface is covered by ash, which is important to the postfire environment because of its effect on hydrological behavior and its fertilizing properties. Ash effects are difficult to assess in the field but can be studied more readily through manipulative experiments in the laboratory.",
+      "added": true
+    },
+    {
+      "title": "A mismatch in wildfire impact reduction and ecological restoration in western U.S. fuel treatments",
+      "abstract": "A century of fire suppression has made historically fire-adapted forests across the western U.S. denser and dominated by fire-intolerant trees, leading to severe fires. Fuel treatments aim to reduce wildfire impact and restore fire-adapted forests. Ecological theory suggests these objectives need not align: protecting the existing, fire-maladapted stand may prevent fire-tolerant seedling recruitment. Using Forest Inventory and Analysis data on 81,621 trees and 41,328 seedlings across 11 western U.S. states, we show that fuel treatments increase tree survival, but benefits are largest for fire-intolerant trees, fade within nine years, and come with no seedling composition shift towards fire-tolerant species. Concluding, fuel reduction reduces wildfire impacts but does not restore fire-adapted forests. Without changes in treatment design, long-term resilience will require repeated intervention.",
+      "doi": "10.64898/2026.10.30.763129",
+      "authors": [
+        "Timo Metz",
+        "J Nicholas Hendershot",
+        "Chuliang Song"
+      ],
+      "year": 2026,
+      "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "openalex_id": "W7225013714",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225013714",
+      "source": "openalex",
+      "score": 4,
+      "reason": "Lexical relevance 46%: matched 4/10 key interest terms (wildfire, species, fire, states)",
+      "tags": [
+        "wildfire",
+        "species",
+        "fire",
+        "states"
+      ],
+      "summary": "A century of fire suppression has made historically fire-adapted forests across the western U.S. denser and dominated by fire-intolerant trees, leading to severe fires. Fuel treatments aim to reduce wildfire impact and restore fire-adapted forests.",
+      "added": true
+    },
+    {
+      "title": "Impacts of weather events on the effectiveness of climate adaptation interventions for threatened species",
+      "abstract": "Climate change is driving increasingly frequent and severe weather events that can undermine the effectiveness of conservation interventions for threatened species, yet the extent and mechanisms of such impacts remain poorly understood. We assessed both peer-reviewed and gray literature to determine how climate adaptation interventions have been affected by weather events across different land types, Australian bioregions, taxonomic groups, and intervention categories. Specifically, we evaluated 593 climate adaptation interventions for 145 threatened species in Australia. We found 36% of the interventions experienced impacts from weather events, with only 9% of these reporting positive outcomes, which were significantly associated with above-average rainfall. Critically, our dataset was dominated by plant-focused translocations, with drought and wildfire representing the primary stressors. Most taxonomic groups, despite being targeted by conservation interventions, experienced population declines and habitat loss following weather events. Inadequate mitigation of cumulative threats, such as grazing pressure and weed invasion, frequently exacerbated negative impacts and reduced the resilience of ecosystems to withstand and recover from weather impacts. Our findings suggested that although extreme weather risks have been recognized, they are not yet being systematically incorporated into the design and implementation of climate adaptation interventions in Australia. We recommend adopting adaptive and integrated management approaches to enhance climate adaptation success for threatened species, particularly by enabling the systematic management of multiple threats and facilitating flexible, evidence-informed interventions in response to changing environmental conditions. Future research should prioritize adopting more rigorous, proactive experimental designs that bridge the gap between recognizing extreme weather risks and implementing robust mitigation strategies. Expanding the empirical basis for climate adaptation is also needed for less-represented taxa such as reptiles, invertebrates, and freshwater fish, as well as in regions with limited data such as central and northern Australia where increased cyclone and flooding intensities are already occurring.",
+      "doi": "10.1111/cobi.70416",
+      "authors": [
+        "Lin Dai",
+        "Claire Mason",
+        "Rachael V. Gallagher",
+        "Daniel Cruz",
+        "AYESHA I. T. TULLOCH"
+      ],
+      "year": 2026,
+      "journal": "Conservation Biology",
+      "openalex_id": "W7225059217",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225059217",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 29%: matched 2/10 key interest terms (wildfire, species)",
+      "tags": [
+        "wildfire",
+        "species"
+      ],
+      "summary": "Climate change is driving increasingly frequent and severe weather events that can undermine the effectiveness of conservation interventions for threatened species, yet the extent and mechanisms of such impacts remain poorly understood.",
+      "added": false
+    },
+    {
+      "title": "Storage, Connectivity, and Stream Drying in Headwater Systems: Modeling Across Hydrogeomorphic Features",
+      "abstract": "Abstract Headwater streams play a critical role in the physical, chemical, and biological functions of downstream waters. However, predicting their specific impact on a landscape scale remains a grand challenge, prompting the development of the river corridor framework to integrate the study of stream channels and hyporheic zones with that of adjacent hillslopes and riparian zones. To operationalize this framework and better explore hydrologic fluxes, the intermediate hydrogeomorphic feature (HGF) scale was recently defined to discretize the river corridor into quantifiable and repeatable compartments. In this study, we used process‐based modeling within and across HGFs to evaluate hydrologic connectivity, storage, streamflow, and drying. We used the Advanced Terrestrial Simulator to model hydrologic fluxes in an experimental watershed in the Coastal Plain of the southeastern United States, where we delineated incised, intact riparian, and wetland HGFs along three streams. Among HGFs, incised channels gained the most water from the subsurface, wetland HGFs maintained the highest water tables, and intact riparian HGFs frequently went dry. Incised and wetland HGFs generated the majority of discharge throughout the year, but dry season discharge was dominated by streamflow gains in incised HGFs. Together, these results suggest that stream incision increases downstream connectivity and export, whereas wetland HGFs increase watershed capacity for storage. Our findings highlight the role of geomorphic structure in driving spatial patterns of drying, storage, and connectivity. Given the pervasiveness of stream incision across anthropogenically impacted systems, our results provide a basis for identifying locations significant to watershed‐scale hydrologic export or retention.",
+      "doi": "10.1029/2025wr041619",
+      "authors": [
+        "Ashleigh N. Kirker",
+        "Charles Nathan Jones",
+        "Delaney Peterson",
+        "Corianne Tatariw",
+        "Jami E. Nettles",
+        "Xingyuan Chen"
+      ],
+      "year": 2026,
+      "journal": "Water Resources Research",
+      "openalex_id": "W7213549867",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7213549867",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/10 key interest terms (united, united states, states)",
+      "tags": [
+        "united",
+        "united states",
+        "states"
+      ],
+      "summary": "Abstract Headwater streams play a critical role in the physical, chemical, and biological functions of downstream waters. However, predicting their specific impact on a landscape scale remains a grand challenge, prompting the development of the river corridor framework to integrate the study of stream channels and hypo…",
+      "added": false
+    },
+    {
+      "title": "Persistent Geospatial Outage Scenario Construction for Interdependent Infrastructure Simulation",
+      "abstract": "Extreme weather events are producing persistent geographic patterns of power-grid disruption across the United States, yet these patterns are rarely incorporated into geospatial simulation of interdependent infrastructure failures. This paper presents a data-driven geospatial simulation framework that transforms persistent outage patterns into empirically grounded regional simulation scenarios for interdependent power-communication cascade simulation. Using a national outage dataset from 2015-2023, we introduce the Hotspot Persistence Index (HPI), a severity-ranked recurrence metric for identifying counties that repeatedly emerge as outage hotspots over time. We then apply a multi-scale density-based refinement process to convert persistent county-level hotspots into geographically interpretable regional simulation scenarios characterized by persistence, severity, and spatial extent. These empirically derived scenarios are used to parameterize the Modified Implicative Interdependency Model (MIIM), enabling simulation of cascading behavior across coupled power and communication layers. Results show that three persistent regional scenarios account for 54.4% of total HPI-weighted cascade impact, while communication-layer entities fail at 2.5× the rate of power buses under high-impact persistent scenarios. HPI-guided hardening reprioritizes protection candidates relative to degree- and betweenness-centrality baselines, demonstrating that empirically derived outage scenarios lead to different infrastructure protection priorities than topology-only approaches. These results demonstrate how empirically derived geospatial outage scenarios can improve simulation-based infrastructure resilience analysis and hardening prioritization.",
+      "doi": "10.1145/3849737.3849834",
+      "authors": [
+        "Solongo Ganbold",
+        "Gelila Webster",
+        "Sohini Roy"
+      ],
+      "year": 2026,
+      "journal": "ACM SIGSPATIAL International Workshop on Geospatial Simulation (GeoSim)",
+      "openalex_id": "W7170066702",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7170066702",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 28%: matched 3/10 key interest terms (united, united states, states)",
+      "tags": [
+        "united",
+        "united states",
+        "states"
+      ],
+      "summary": "Extreme weather events are producing persistent geographic patterns of power-grid disruption across the United States, yet these patterns are rarely incorporated into geospatial simulation of interdependent infrastructure failures.",
+      "added": false
+    },
+    {
+      "title": "How Fire Moves Carbon in North American Ecosystems Shaped by Fire and Grazing",
+      "abstract": "ABSTRACT Fire interacts with ecosystem carbon in North American fire-grazing rangelands through processes that span chemical forms, soil depths, and temporal horizons. We synthesize empirical evidence on fire-driven carbon redistribution across the continental region where frequent fire and bison grazing historically co-occurred. Across these rangelands, temperate grasses allocate roughly 75–80% of biomass belowground, outside the combustion zone. Herbaceous aboveground biomass typically recovers within one to three growing seasons. Incomplete combustion produces pyrogenic carbon (PyC) amounting to ∼12% of the carbon emitted by fire. The stable component of that PyC persists in soil on centennial to millennial timescales. Frequent burning can reduce bulk soil organic carbon relative to fire exclusion, especially in dry systems, while shifting carbon inputs toward pyrogenic material. Across the Great Plains, shorter modeled fire intervals are associated with a larger mineral-associated fraction and a smaller particulate fraction, whereas the pyrogenic fraction changes little. Where fire is excluded, woody plant encroachment shifts a larger share of ecosystem carbon into aboveground biomass exposed to fire, drought, and dieback, while altering hydrologic function, biodiversity, and resilience to disturbance. The fire-grazing interaction distributes combustion and recovery across a shifting patch mosaic in which litter retention, grazing pressure, and belowground carbon inputs vary among patches. Carbon accounting frameworks that measure only stock size can mistake the carbon vulnerability created by fire suppression for carbon gain, inadvertently penalizing disturbance that sustains persistent soil carbon in these systems.",
+      "doi": "10.1016/j.rama.2026.09.010",
+      "authors": [
+        "John A F Wendt",
+        "Xavier A. Jaime",
+        "Samuel D. Fuhlendorf",
+        "Xinyuan Ben Wu",
+        "Humberto L. Perotto‐Baldivieso",
+        "Andrés Francisco Cibils"
+      ],
+      "year": 2026,
+      "journal": "Rangeland Ecology & Management",
+      "openalex_id": "W7224835413",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224835413",
+      "source": "openalex",
+      "score": 3,
+      "reason": "Lexical relevance 27%: matched 2/10 key interest terms (burning, fire)",
+      "tags": [
+        "burning",
+        "fire"
+      ],
+      "summary": "ABSTRACT Fire interacts with ecosystem carbon in North American fire-grazing rangelands through processes that span chemical forms, soil depths, and temporal horizons.",
+      "added": false
+    },
+    {
+      "title": "Event-specific Dust-to-Power screening of aerosol dimming and potential soiling-monitoring priorities for northern China photovoltaics",
+      "abstract": "Abstract Dust events motivate separate monitoring of atmospheric dimming and potential photovoltaic (PV) surface soiling. We developed Dust-to-Power as an event-specific monitoring framework across eight northern Chinese provinces. The CERES analysis covers 20–24 March 2023, a 5-day subset of the documented 19–24 March event. PV-area-weighted, all-aerosol global horizontal irradiance (GHI)-based product diagnostics were 10.30% and 10.40% for initial and adjusted specifications, not dust-only or observed PV generation losses. Bootstrap intervals describe sampling variability, excluding structural/model uncertainty. Separate dimming and post-event soiling-monitoring priorities direct irradiance checks and additional surface inspection, without estimating contamination probability, magnitude, or cleaning need. For this event, the ChinaPV 2020 footprint and adopted datasets, Ningxia ranked first and Shaanxi second across ten formulations. This stability applies within the event and does not establish a climatological provincial hierarchy.",
+      "doi": "10.1038/s44406-026-00051-7",
+      "authors": [
+        "Zirui Xu",
+        "Mengchen Sun",
+        "Pengpeng Hao",
+        "Peiyao Wu",
+        "Chengru HAN",
+        "Bixing Zhang"
+      ],
+      "year": 2026,
+      "journal": "npj Clean Energy",
+      "openalex_id": "W7225005462",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7225005462",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Abstract Dust events motivate separate monitoring of atmospheric dimming and potential photovoltaic (PV) surface soiling. We developed Dust-to-Power as an event-specific monitoring framework across eight northern Chinese provinces.",
+      "added": false
+    },
+    {
+      "title": "A Community Impact-Centered Network Reduction Method for Power Systems Resilience Planning",
+      "abstract": "Power systems resilience planning requires evaluating many hazard scenarios and investment portfolios, often requiring network reduction for computational tractability. The resulting aggregation, however, can obscure community impact data needed for equitable planning. We present a network reduction method that jointly preserves network physics and the spatial distribution of community data. We embed a household-level scarce resource score that characterizes outage impact within optimization-based Kron reductions with two formulations: a scarcity-weighted method that prioritizes vulnerable nodes, and a scarcity-constrained method that bounds data dissimilarity within aggregated clusters. Both are evaluated on a realistic distribution feeder of Galveston Island, Texas and benchmarked against multiple approaches. The scarcity-constrained method performs best, achieving 86% reduction with worst-case voltage errors below 0.01p.u. while preserving the spatial distribution of community data. By explicitly controlling data heterogeneity within and across clusters, the proposed method yields reduced networks that retain decision-relevant community information without sacrificing electrical accuracy.",
+      "doi": "10.48550/arxiv.2610.37857",
+      "authors": [
+        "Jiarui Gao",
+        "Abigail L. Beck",
+        "Rabab Haider"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7224811939",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224811939",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Power systems resilience planning requires evaluating many hazard scenarios and investment portfolios, often requiring network reduction for computational tractability. The resulting aggregation, however, can obscure community impact data needed for equitable planning.",
+      "added": false
+    },
+    {
+      "title": "From extreme weather to agricultural consequences with agentic AI",
+      "abstract": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and forecast dates. We demonstrate it in Florida on hurricanes, freezes and dry heat, with a loss model calibrated on insurance records for each, and the same procedure extends to other hazards and areas. Three checks show reliability: the hurricane index detects recorded cyclone days with an AUC of 0.98, recorded losses in held-out years are reproduced to within 2%, and independent production records confirm the county rankings (rank correlation 0.63). Users ask the agent for each crop group's loss as a fraction of expected season value, every number sourced, so that governments, growers and scientists respond to agricultural disasters quickly.",
+      "doi": "10.13140/rg.2.2.27781.51681",
+      "authors": [
+        "Minghan Yu",
+        "Mengyu Dai",
+        "Yixin Wen",
+        "Haizhao Yang"
+      ],
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "openalex_id": "W7224534320",
+      "citation_count": 0,
+      "url": "https://openalex.org/W7224534320",
+      "source": "openalex",
+      "score": 1,
+      "reason": "Lexical relevance 0%: matched 0/10 key interest terms",
+      "tags": [],
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources.",
+      "added": false
+    }
+  ]
+}
