@@ -210,3 +210,5 @@ Actions → General → Workflow permissions** in your fork and select
 **No papers added.** Either nothing scored above `min_score` (try lowering it or
 broadening `interests`), or everything was a known duplicate. Check the run logs
 and the "Ignored Papers" table in the report.
+
+**Dependency lock.** CI installs from `requirements.lock` (hashed). After editing `requirements.txt`, regenerate it with `pip-compile --generate-hashes --strip-extras -o requirements.lock requirements.txt`.

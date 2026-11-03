@@ -104,6 +104,8 @@ def test_tags_drop_generic_words_and_phrase_parts() -> None:
     cfg = make_config(interests="large, prescribed burning, species", thresholds=[0.3, 0.2, 0.1, 0.05])
     paper = make_paper(abstract="Large prescribed burning of species.")
     tags = rank_papers([paper], cfg)[0].tags
-    assert "large" not in tags and "species" not in tags
-    assert "prescribed" not in tags and "burning" not in tags
+    assert "large" not in tags
+    assert "species" not in tags
+    assert "prescribed" not in tags
+    assert "burning" not in tags
     assert "prescribed burning" in tags

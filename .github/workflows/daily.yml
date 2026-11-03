@@ -23,7 +23,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install --only-binary :all: --require-hashes -r requirements.lock
 
       - name: Run pipeline
         env:
