@@ -69,7 +69,7 @@ def test_load_seen_ids_creates_missing_file(tmp_path) -> None:
     """Loading a non-existent state file creates it with empty lists."""
     path = tmp_path / "state" / "seen_ids.json"
     state = load_seen_ids(path)
-    assert state == {"dois": [], "openalex_ids": []}
+    assert state == {"dois": [], "openalex_ids": [], "seen_dates": {}}
     assert path.exists()
 
 
@@ -96,3 +96,27 @@ def test_save_then_load_roundtrip_dedupes_next_run(tmp_path) -> None:
     seen = load_seen_ids(path)
     result = deduplicate(batch, seen)
     assert result == []
+
+
+def test_seen_ids_pruned_after_retention(tmp_path) -> None:
+    """Entries older than the retention window are dropped."""
+    import datetime as dt
+
+    path = tmp_path / "seen.json"
+    save_seen_ids(path, [make_paper(doi="10.1/old", openalex_id="W-old")],
+                  today=dt.date(2026, 1, 1))
+    save_seen_ids(path, [make_paper(doi="10.1/new", openalex_id="W-new")],
+                  retention_days=30, today=dt.date(2026, 6, 1))
+    state = load_seen_ids(path)
+    assert state["dois"] == ["10.1/new"]
+    assert state["openalex_ids"] == ["W-new"]
+
+
+def test_legacy_state_without_dates_is_kept_then_stamped(tmp_path) -> None:
+    """Old-format state survives its first save with a fresh date."""
+    import datetime as dt
+
+    path = tmp_path / "seen.json"
+    path.write_text(json.dumps({"dois": ["10.1/legacy"], "openalex_ids": []}))
+    save_seen_ids(path, [], retention_days=30, today=dt.date(2026, 6, 1))
+    assert load_seen_ids(path)["dois"] == ["10.1/legacy"]

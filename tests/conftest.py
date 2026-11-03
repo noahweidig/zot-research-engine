@@ -29,6 +29,9 @@ def make_config(
     interests: str = "GIS wildfire",
     thresholds: list[float] | None = None,
     enrich: bool = True,
+    geo_terms: list[str] | None = None,
+    project_root: Path | None = None,
+    report_retention_days: int = 90,
 ) -> PipelineConfig:
     """Build a minimal in-memory :class:`PipelineConfig` for tests.
 
@@ -38,13 +41,18 @@ def make_config(
         interests: Researcher interests string.
         thresholds: Local-ranker coverage cutoffs (defaults to the shipped set).
         enrich: Whether Gemini enrichment is enabled.
+        geo_terms: Geography gate terms (empty disables the gate).
+        project_root: Project root (defaults to the current directory).
+        report_retention_days: Report retention window.
 
     Returns:
         A fully populated configuration.
     """
     return PipelineConfig(
         search=SearchConfig(queries=["x"], days_back=7, max_results_per_query=10),
-        relevance=RelevanceConfig(min_score=min_score, interests=interests),
+        relevance=RelevanceConfig(
+            min_score=min_score, interests=interests, geo_terms=geo_terms or []
+        ),
         zotero=ZoteroConfig(library_type="user", inbox_collection="AI Inbox"),
         sources=SourcesConfig(
             enable_semantic_scholar=False,
@@ -52,7 +60,10 @@ def make_config(
             enable_crossref=False,
         ),
         pipeline=PipelineSettings(
-            log_to_file=False, log_file="x.log", gemini_max_concurrency=concurrency
+            log_to_file=False,
+            log_file="x.log",
+            gemini_max_concurrency=concurrency,
+            report_retention_days=report_retention_days,
         ),
         gemini=GeminiConfig(model="gemini-2.0-flash", temperature=0.0, enrich=enrich),
         ranker=RankerConfig(thresholds=thresholds or [0.55, 0.4, 0.25, 0.1]),
@@ -63,7 +74,7 @@ def make_config(
             zotero_library_type="user",
             openalex_email="a@b.c",
         ),
-        project_root=Path("."),
+        project_root=project_root or Path("."),
     )
 
 

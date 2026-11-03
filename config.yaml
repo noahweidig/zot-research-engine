@@ -31,6 +31,45 @@ relevance:
     fire regimes, drivers and ignition causes of wildfires, wildfire occurrence,
     wildland-urban interface, invasive species and fire
 
+  # Geography gate. A paper whose title/abstract mentions none of these terms
+  # (case-insensitive, whole-word) has its score capped at `geo_cap`, so it
+  # cannot reach `min_score`. Leave `geo_terms` empty to disable.
+  geo_terms:
+    - "united states"
+    - "u.s."
+    - "usa"
+    - "american"
+    - "north america"
+    - "conus"
+    - "contiguous us"
+    - "southeastern"
+    - "northeastern"
+    - "midwest"
+    - "appalachian"
+    - "florida"
+    - "georgia"
+    - "texas"
+    - "california"
+    - "oregon"
+    - "colorado"
+    - "montana"
+    - "alaska"
+    - "arizona"
+    - "new mexico"
+    - "carolina"
+    - "tennessee"
+    - "kentucky"
+    - "virginia"
+    - "pennsylvania"
+    - "new jersey"
+    - "new york"
+    - "michigan"
+    - "minnesota"
+    - "wisconsin"
+    - "louisiana"
+    - "oklahoma"
+  geo_cap: 3
+
 zotero:
   # "user" or "group". Must match your ZOTERO_LIBRARY_TYPE env var.
   library_type: "user"
@@ -51,6 +90,11 @@ pipeline:
   log_file: "pipeline.log"
   # Maximum number of concurrent Gemini API calls.
   gemini_max_concurrency: 4
+  # Delete reports/*.md|json older than this many days (git history keeps them).
+  report_retention_days: 90
+  # Forget seen-ID entries older than this many days. Must exceed
+  # search.days_back by a wide margin.
+  seen_retention_days: 180
 
 # Relevance scoring is done for free, offline, with no API calls (see
 # pipeline/local_ranker.py). Papers are scored by IDF-weighted coverage of your

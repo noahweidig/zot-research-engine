@@ -77,3 +77,35 @@ def test_local_ranker_populates_reason_and_tags() -> None:
     assert ranked[0].reason
     assert ranked[0].tags
     assert ranked[0].summary
+
+
+def test_geo_gate_caps_score_without_us_terms() -> None:
+    """A paper with no geography match cannot reach min_score."""
+    from conftest import make_config, make_paper
+    from pipeline.local_ranker import rank_papers
+
+    cfg = make_config(
+        interests="prescribed burning",
+        thresholds=[0.3, 0.2, 0.1, 0.05],
+        geo_terms=["united states"],
+    )
+    us = make_paper(title="Prescribed burning", abstract="Prescribed burning in the United States.", doi="10.1/a", openalex_id="W1")
+    spain = make_paper(title="Prescribed burning", abstract="Prescribed burning in Spain.", doi="10.1/b", openalex_id="W2")
+    scores = {p.openalex_id: p.score for p in rank_papers([us, spain], cfg)}
+    assert scores["W1"] >= 4
+    assert scores["W2"] == 3
+
+
+def test_tags_drop_generic_words_and_phrase_parts() -> None:
+    """Generic unigrams and words inside a matched phrase are not tags."""
+    from conftest import make_config, make_paper
+    from pipeline.local_ranker import rank_papers
+
+    cfg = make_config(interests="large, prescribed burning, species", thresholds=[0.3, 0.2, 0.1, 0.05])
+    paper = make_paper(abstract="Large prescribed burning of species.")
+    tags = rank_papers([paper], cfg)[0].tags
+    assert "large" not in tags
+    assert "species" not in tags
+    assert "prescribed" not in tags
+    assert "burning" not in tags
+    assert "prescribed burning" in tags

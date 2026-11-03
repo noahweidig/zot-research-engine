@@ -32,6 +32,8 @@ class PipelineResult:
         added_titles: Titles successfully added to Zotero.
         min_score: The minimum score threshold used for this run.
         dry_run: Whether Zotero writes were skipped.
+        failed_count: Papers that cleared the threshold but were not added to
+            Zotero (they are retried on the next run).
         markdown_path: Path to the written Markdown report, if any.
         json_path: Path to the written JSON report, if any.
     """
@@ -44,6 +46,7 @@ class PipelineResult:
     added_titles: list[str] = field(default_factory=list)
     min_score: int = 4
     dry_run: bool = False
+    failed_count: int = 0
     markdown_path: str | None = None
     json_path: str | None = None
 
@@ -262,3 +265,31 @@ def load_result_from_json(path: Path) -> PipelineResult:
         min_score=min_score,
         dry_run=data.get("dry_run", False),
     )
+
+
+def prune_reports(config: PipelineConfig, today: dt.date | None = None) -> int:
+    """Delete dated report files older than the configured retention.
+
+    Args:
+        config: The pipeline configuration.
+        today: Override for the current date (tests).
+
+    Returns:
+        Number of files deleted.
+    """
+    days = config.pipeline.report_retention_days
+    if days <= 0:
+        return 0
+    cutoff = (today or dt.date.today()) - dt.timedelta(days=days)
+    deleted = 0
+    for path in (config.project_root / "reports").glob("*"):
+        if path.suffix not in {".md", ".json"}:
+            continue
+        try:
+            file_date = dt.date.fromisoformat(path.stem)
+        except ValueError:
+            continue
+        if file_date < cutoff:
+            path.unlink()
+            deleted += 1
+    return deleted

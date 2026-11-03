@@ -106,6 +106,10 @@ All behavior lives in `config.yaml`:
 - `interests` — free-text description of your research focus. This drives the
   entire relevance judgement, so be specific.
 
+- `geo_terms` — whole-word, case-insensitive geography terms. A paper whose
+  title/abstract matches none is capped at `geo_cap` (default 3), so it can't
+  reach `min_score`. Empty list disables the gate.
+
 **`zotero`**
 - `library_type` — `user` or `group` (must match `ZOTERO_LIBRARY_TYPE`).
 - `inbox_collection` — name of the collection new papers go into; created if
@@ -119,6 +123,9 @@ All behavior lives in `config.yaml`:
 
 **`pipeline`**
 - `log_to_file` / `log_file` — also write logs to a file.
+- `report_retention_days` — delete `reports/` files older than this on each run
+  (git history keeps them). `0` disables pruning.
+- `seen_retention_days` — forget seen-ID entries older than this (default 180).
 - `gemini_max_concurrency` — max simultaneous Gemini enrichment calls (protects
   your quota).
 
@@ -168,8 +175,10 @@ The exact coverage cutoffs are tunable via `ranker.thresholds`. Only papers
 scoring at or above `min_score` are added to Zotero; everything else is listed
 in the report's "Ignored Papers" table.
 
-**State.** `state/seen_ids.json` records the DOIs and OpenAlex IDs of every paper
-ever evaluated, so nothing is processed twice. The GitHub Action commits this
+**State.** `state/seen_ids.json` records the DOIs and OpenAlex IDs of evaluated
+papers, so nothing is processed twice. Shortlisted papers that fail to reach
+Zotero are *not* recorded and are retried next run (the run exits 2). Dry runs
+never touch state. The GitHub Action commits this
 file (and the reports) back to your repository after each run so state persists.
 
 ## 7. Troubleshooting
@@ -201,3 +210,5 @@ Actions → General → Workflow permissions** in your fork and select
 **No papers added.** Either nothing scored above `min_score` (try lowering it or
 broadening `interests`), or everything was a known duplicate. Check the run logs
 and the "Ignored Papers" table in the report.
+
+**Dependency lock.** CI installs from `requirements.lock` (hashed). After editing `requirements.txt`, regenerate it with `pip-compile --generate-hashes --strip-extras -o requirements.lock requirements.txt`.

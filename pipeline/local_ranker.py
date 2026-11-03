@@ -84,6 +84,53 @@ def _grams(tokens: list[str]) -> list[str]:
     return grams
 
 
+# Single words too generic to be useful as Zotero tags.
+_GENERIC_TAGS = frozenset(
+    """
+    large small high low new study studies effect effects impact impacts risk
+    risks factor factors driver drivers social future states united american
+    species reduce reduced scenario scenarios regime regimes occurrence
+    """.split()
+)
+
+
+def _clean_tags(grams: list[str]) -> list[str]:
+    """Drop generic single words and unigrams already covered by a longer tag.
+
+    Args:
+        grams: Matched interest terms, best first.
+
+    Returns:
+        Terms fit to use as tags (before :func:`normalize_tags`).
+    """
+    phrases = [g for g in grams if " " in g]
+    out = []
+    for gram in grams:
+        if " " not in gram:
+            if gram in _GENERIC_TAGS:
+                continue
+            if any(gram in phrase.split() for phrase in phrases):
+                continue
+        out.append(gram)
+    return out
+
+
+def _geo_match(text: str, terms: list[str]) -> bool:
+    """Return whether any geography term appears as a whole word/phrase.
+
+    Args:
+        text: Lowercased title + abstract.
+        terms: Lowercased geography terms.
+
+    Returns:
+        ``True`` if at least one term matches.
+    """
+    for term in terms:
+        if re.search(rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])", text):
+            return True
+    return False
+
+
 def _bucket_score(coverage: float, thresholds: list[float]) -> int:
     """Map a coverage fraction in ``[0, 1]`` to a 1-5 score.
 
@@ -174,7 +221,13 @@ def rank_papers(papers: list[Paper], config: PipelineConfig) -> list[RankedPaper
 
     # Interest terms that actually occur in the corpus define the achievable
     # weight; terms absent from every paper cannot discriminate and are dropped.
-    interest_grams = [g for g in _grams(_tokens(config.relevance.interests)) if g in idf]
+    # Bigrams are built per clause so they never span a comma or period.
+    interest_grams = [
+        g
+        for clause in re.split(r"[,;.\n]+", config.relevance.interests)
+        for g in _grams(_tokens(clause))
+        if g in idf
+    ]
     total_weight = sum(idf[g] for g in set(interest_grams))
     thresholds = config.ranker.thresholds
 
@@ -193,8 +246,16 @@ def rank_papers(papers: list[Paper], config: PipelineConfig) -> list[RankedPaper
         coverage = 0.0 if total_weight == 0 else min(matched_weight / total_weight, 1.0)
         score = _bucket_score(coverage, thresholds)
 
+        geo_terms = config.relevance.geo_terms
+        geo_note = ""
+        if geo_terms:
+            text = f"{paper.title} {paper.abstract or ''}".lower()
+            if not _geo_match(text, geo_terms) and score > config.relevance.geo_cap:
+                score = config.relevance.geo_cap
+                geo_note = "; capped: no US geography terms"
+
         top = sorted(matched, key=lambda g: idf[g], reverse=True)[:_MAX_TAGS]
-        tags = normalize_tags(top)
+        tags = normalize_tags(_clean_tags(top))
         n_interest = len(set(interest_grams))
         reason = (
             f"Lexical relevance {coverage:.0%}: matched "
@@ -202,6 +263,7 @@ def rank_papers(papers: list[Paper], config: PipelineConfig) -> list[RankedPaper
         )
         if top:
             reason += " (" + ", ".join(top) + ")"
+        reason += geo_note
         summary = _summarize(paper.abstract or "")
 
         ranked.append(
