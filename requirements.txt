@@ -1,6 +1,6 @@
 requests==2.34.2
 tenacity==9.0.0
-pyzotero==1.5.28
+pyzotero==1.16.0
 google-genai==1.9.0
 python-dotenv==1.2.4
 PyYAML==6.0.2
