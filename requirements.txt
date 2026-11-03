@@ -4,5 +4,5 @@ pyzotero==1.5.28
 google-genai==1.9.0
 python-dotenv==1.2.4
 PyYAML==6.0.2
-pydantic==2.10.4
+pydantic==2.14.2
 pytest==9.2.0
