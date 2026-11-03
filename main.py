@@ -21,12 +21,13 @@ from pipeline.deduplicate import (
 )
 from pipeline.gemini_ranker import enrich_papers
 from pipeline.local_ranker import rank_papers
-from pipeline.models import Paper
+from pipeline.models import Paper, RankedPaper
 from pipeline.report import (
     PipelineResult,
     generate_report,
     latest_report_path,
     load_result_from_json,
+    prune_reports,
 )
 from pipeline.zotero_client import ZoteroClient
 
@@ -74,6 +75,26 @@ def fetch_papers(config: PipelineConfig) -> list[Paper]:
     return papers
 
 
+def papers_to_mark_seen(
+    ranked: list[RankedPaper], min_score: int, added_titles: list[str]
+) -> list[RankedPaper]:
+    """Pick the papers that must not be evaluated again.
+
+    Papers below the threshold are final. Papers at or above it are final only
+    once they are in Zotero; otherwise they stay unseen so the next run retries.
+
+    Args:
+        ranked: All scored papers.
+        min_score: The score threshold.
+        added_titles: Titles successfully written to Zotero.
+
+    Returns:
+        The papers to record in the seen-ids state.
+    """
+    added = set(added_titles)
+    return [p for p in ranked if p.score < min_score or p.title in added]
+
+
 def run_pipeline(config: PipelineConfig, dry_run: bool = False) -> PipelineResult:
     """Run the full discovery pipeline end to end.
 
@@ -118,8 +139,18 @@ def run_pipeline(config: PipelineConfig, dry_run: bool = False) -> PipelineResul
     elif zotero_client is not None and to_add:
         added_titles = zotero_client.add_papers(to_add)
 
-    # Record every evaluated paper so future runs skip them.
-    save_seen_ids(seen_path, unique)
+    # Record finished papers so future runs skip them. Shortlisted papers that
+    # did not reach Zotero stay unseen and are retried. Dry runs leave state alone.
+    failed_count = 0 if dry_run else len(to_add) - len(added_titles)
+    if not dry_run:
+        save_seen_ids(
+            seen_path,
+            papers_to_mark_seen(ranked, config.relevance.min_score, added_titles),
+            retention_days=config.pipeline.seen_retention_days,
+        )
+        pruned = prune_reports(config)
+        if pruned:
+            logger.info("Pruned %d old report file(s)", pruned)
 
     result = PipelineResult(
         date=dt.date.today().isoformat(),
@@ -130,6 +161,7 @@ def run_pipeline(config: PipelineConfig, dry_run: bool = False) -> PipelineResul
         added_titles=added_titles,
         min_score=config.relevance.min_score,
         dry_run=dry_run,
+        failed_count=failed_count,
     )
     return generate_report(result, config)
 
@@ -199,7 +231,8 @@ def main(argv: list[str] | None = None) -> int:
         argv: Argument list (defaults to ``sys.argv``).
 
     Returns:
-        Process exit code (0 on success, 1 on configuration error).
+        Process exit code (0 on success, 1 on configuration error, 2 if
+        shortlisted papers could not be written to Zotero).
     """
     args = _parse_args(argv)
     try:
@@ -230,6 +263,12 @@ def main(argv: list[str] | None = None) -> int:
         result.added_count,
         result.markdown_path,
     )
+    if result.failed_count:
+        logger.error(
+            "%d shortlisted paper(s) were not added to Zotero; will retry next run",
+            result.failed_count,
+        )
+        return 2
     return 0
 
 

@@ -49,6 +49,8 @@ class RelevanceConfig:
 
     min_score: int
     interests: str
+    geo_terms: list[str] = field(default_factory=list)
+    geo_cap: int = 3
 
 
 @dataclass(frozen=True)
@@ -75,6 +77,8 @@ class PipelineSettings:
     log_to_file: bool
     log_file: str
     gemini_max_concurrency: int
+    report_retention_days: int = 90
+    seen_retention_days: int = 180
 
 
 @dataclass(frozen=True)
@@ -214,6 +218,12 @@ def load_config(config_path: str | Path = DEFAULT_CONFIG_PATH) -> PipelineConfig
         relevance=RelevanceConfig(
             min_score=int(relevance_raw.get("min_score", 4)),
             interests=interests,
+            geo_terms=[
+                " ".join(str(t).lower().split())
+                for t in relevance_raw.get("geo_terms", []) or []
+                if str(t).strip()
+            ],
+            geo_cap=int(relevance_raw.get("geo_cap", 3)),
         ),
         zotero=ZoteroConfig(
             library_type=str(zotero_raw.get("library_type", "user")),
@@ -228,6 +238,8 @@ def load_config(config_path: str | Path = DEFAULT_CONFIG_PATH) -> PipelineConfig
             log_to_file=bool(pipeline_raw.get("log_to_file", True)),
             log_file=str(pipeline_raw.get("log_file", "pipeline.log")),
             gemini_max_concurrency=int(pipeline_raw.get("gemini_max_concurrency", 4)),
+            report_retention_days=int(pipeline_raw.get("report_retention_days", 90)),
+            seen_retention_days=int(pipeline_raw.get("seen_retention_days", 180)),
         ),
         gemini=GeminiConfig(
             model=str(gemini_raw.get("model", "gemini-2.0-flash")),

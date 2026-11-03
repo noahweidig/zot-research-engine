@@ -6,6 +6,7 @@ so papers evaluated in earlier runs are never re-processed.
 
 from __future__ import annotations
 
+import datetime as dt
 import json
 import logging
 from pathlib import Path
@@ -19,7 +20,7 @@ SEEN_IDS_FILENAME = Path("state") / "seen_ids.json"
 
 def _empty_state() -> dict[str, list[str]]:
     """Return an empty seen-ids state structure."""
-    return {"dois": [], "openalex_ids": []}
+    return {"dois": [], "openalex_ids": [], "seen_dates": {}}
 
 
 def load_seen_ids(path: str | Path) -> dict[str, list[str]]:
@@ -44,32 +45,60 @@ def load_seen_ids(path: str | Path) -> dict[str, list[str]]:
     return {
         "dois": list(data.get("dois", [])),
         "openalex_ids": list(data.get("openalex_ids", [])),
+        "seen_dates": dict(data.get("seen_dates", {})),
     }
 
 
-def save_seen_ids(path: str | Path, papers: list[Paper]) -> None:
+def save_seen_ids(
+    path: str | Path,
+    papers: list[Paper],
+    retention_days: int | None = None,
+    today: dt.date | None = None,
+) -> None:
     """Append every evaluated paper's identifiers to the seen-ids state file.
 
-    All evaluated papers are recorded (not only those added to Zotero), so they
-    are excluded from future runs.
+    The caller decides which papers to record; papers that should be retried
+    next run (e.g. a failed Zotero write) must be left out.
 
     Args:
         path: Path to ``seen_ids.json``.
-        papers: The papers evaluated during this run.
+        papers: The papers to record as seen.
+        retention_days: If set, forget entries first seen more than this many
+            days ago. Entries from older state files have no date and are
+            stamped with ``today`` the first time they are saved.
+        today: Override for the current date (tests).
     """
+    today = today or dt.date.today()
     state = load_seen_ids(path)
+    dates: dict[str, str] = state["seen_dates"]
     dois = set(state["dois"])
     oa_ids = set(state["openalex_ids"])
+
+    for key in (*dois, *oa_ids):
+        dates.setdefault(key, today.isoformat())
 
     for paper in papers:
         if paper.doi:
             dois.add(paper.doi.lower())
+            dates.setdefault(paper.doi.lower(), today.isoformat())
         if paper.openalex_id:
             oa_ids.add(paper.openalex_id)
+            dates.setdefault(paper.openalex_id, today.isoformat())
+
+    if retention_days is not None:
+        cutoff = (today - dt.timedelta(days=retention_days)).isoformat()
+        dois = {k for k in dois if dates.get(k, "") >= cutoff}
+        oa_ids = {k for k in oa_ids if dates.get(k, "") >= cutoff}
+        dates = {k: v for k, v in dates.items() if k in dois or k in oa_ids}
 
     Path(path).write_text(
         json.dumps(
-            {"dois": sorted(dois), "openalex_ids": sorted(oa_ids)}, indent=2
+            {
+                "dois": sorted(dois),
+                "openalex_ids": sorted(oa_ids),
+                "seen_dates": dict(sorted(dates.items())),
+            },
+            indent=2,
         ),
         encoding="utf-8",
     )

@@ -35,14 +35,21 @@ jobs:
         run: python main.py
 
       - name: Commit report and state back to repo
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/ state/
+          git add -A reports/ state/
           git commit -m "Daily report $(date +%Y-%m-%d)" || echo "No changes to commit"
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((attempt * 5))
+          done
+          echo "push failed after 3 attempts" >&2
+          exit 1
 
       - name: Upload report as artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: daily-report
